@@ -35,11 +35,13 @@ jobs:
 
       - name: Run M3U Update
         run: npm run m3u
-
+      - name: Copy channels.json to root
+              run: cp m3u/channels.json .
+              
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Automated IPTV update [skip ci]"
-          file_pattern: 'm3u/** README.md'
+          file_pattern: 'm3u/** README.md channels.json'
           commit_user_name: github-actions[bot]
           commit_user_email: github-actions[bot]@users.noreply.github.com
