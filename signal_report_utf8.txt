@@ -1,0 +1,140 @@
+﻿Buscando canales en pe.json...
+  Verificando 68 se±ales...
+Buscando canales en v_pe.json...
+  Verificando 23 se±ales...
+Buscando canales en pe_premium.json...
+  Verificando 19 se±ales...
+Buscando canales en pe_regionales.json...
+  Verificando 37 se±ales...
+Buscando canales en co.json...
+  Verificando 96 se±ales...
+Buscando canales en ec.json...
+  Verificando 78 se±ales...
+Buscando canales en bo.json...
+  Verificando 29 se±ales...
+Buscando canales en mx.json...
+  Verificando 124 se±ales...
+Buscando canales en ar.json...
+  Verificando 102 se±ales...
+Buscando canales en es.json...
+  Verificando 236 se±ales...
+Buscando canales en us.json...
+  Verificando 567 se±ales...
+
+========================================
+REPORTE DE ESTADO DE SEÐAL
+========================================
+
+? PE.JSON:
+   [+] Funcionando: 54
+   [-] CaÝdos: 14
+   Detalle de caÝdos (top 5):
+     - antares televisi¾n (Status: OFFLINE)
+     - eco television (Status: OFFLINE)
+     - mega tv arequipa (Status: 404)
+     - ovaci¾n tv (Status: OFFLINE)
+     - planeta tv (Status: 404)
+
+? V_PE.JSON:
+   [+] Funcionando: 1
+   [-] CaÝdos: 22
+   Detalle de caÝdos (top 5):
+     - Canal sin nombre (Status: OFFLINE)
+     - Canal sin nombre (Status: OFFLINE)
+     - Canal sin nombre (Status: OFFLINE)
+     - Canal sin nombre (Status: OFFLINE)
+     - Canal sin nombre (Status: OFFLINE)
+
+? PE_PREMIUM.JSON:
+   [+] Funcionando: 12
+   [-] CaÝdos: 7
+   Detalle de caÝdos (top 5):
+     - trivu (Status: 404)
+     - latina (Status: OFFLINE)
+     - willax (Status: OFFLINE)
+     - atv (Status: OFFLINE)
+     - atv+ (Status: OFFLINE)
+
+? PE_REGIONALES.JSON:
+   [+] Funcionando: 23
+   [-] CaÝdos: 14
+   Detalle de caÝdos (top 5):
+     - pe (Status: 404)
+     - pe (Status: 404)
+     - pe (Status: OFFLINE)
+     - pe (Status: 404)
+     - pe (Status: 404)
+
+? CO.JSON:
+   [+] Funcionando: 76
+   [-] CaÝdos: 20
+   Detalle de caÝdos (top 5):
+     - canal 55 telemorisco tv (Status: 404)
+     - canal calima tv (Status: OFFLINE)
+     - cablenoticias (Status: OFFLINE)
+     - canal santa marta tv (Status: OFFLINE)
+     - cnc la uni¾n (Status: OFFLINE)
+
+? EC.JSON:
+   [+] Funcionando: 58
+   [-] CaÝdos: 20
+   Detalle de caÝdos (top 5):
+     - duende tv (Status: 404)
+     - amÚrica estÚreo quito (Status: 404)
+     - amÚrica estÚreo ibarra (Status: 404)
+     - amÚrica estÚreo tulcßn (Status: 404)
+     - amÚrica estÚreo guayaquil (Status: 404)
+
+? BO.JSON:
+   [+] Funcionando: 15
+   [-] CaÝdos: 14
+   Detalle de caÝdos (top 5):
+     - bolivia tv (Status: OFFLINE)
+     - pat la paz (Status: 500)
+     - abya yala tv (Status: OFFLINE)
+     - unitel santa cruz (Status: OFFLINE)
+     - red cctv (Status: OFFLINE)
+
+? MX.JSON:
+   [+] Funcionando: 90
+   [-] CaÝdos: 34
+   Detalle de caÝdos (top 5):
+     - 15tv (Status: OFFLINE)
+     - asÝ sucede guanajuato (Status: OFFLINE)
+     - bamos tv (Status: 404)
+     - california medios tv (Status: 404)
+     - canal 13 bajÝo (Status: 404)
+
+? AR.JSON:
+   [+] Funcionando: 84
+   [-] CaÝdos: 18
+   Detalle de caÝdos (top 5):
+     - bayres tv (Status: OFFLINE)
+     - cable imagen armstrong (Status: 404)
+     - atv argentina (Status: 404)
+     - canal 12 puerto madryn (Status: 404)
+     - canal 13 jujuy tv (Status: 404)
+
+? ES.JSON:
+   [+] Funcionando: 183
+   [-] CaÝdos: 53
+   Detalle de caÝdos (top 5):
+     - 24 horas (Status: OFFLINE)
+     - 101tv cßdiz (Status: OFFLINE)
+     - biosfera tv (Status: OFFLINE)
+     - canal 1 mar menortorre pacheco (Status: OFFLINE)
+     - canal 4 catalunya (Status: OFFLINE)
+
+? US.JSON:
+   [+] Funcionando: 527
+   [-] CaÝdos: 40
+   Detalle de caÝdos (top 5):
+     - beach tv csulb (Status: OFFLINE)
+     - gooder nation channel 32 (Status: OFFLINE)
+     - fx latin america (Status: OFFLINE)
+     - health media tv (Status: OFFLINE)
+     - humraaz tv (Status: 404)
+
+========================================
+FIN DEL REPORTE
+========================================

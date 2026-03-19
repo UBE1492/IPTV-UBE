@@ -1,0 +1,371 @@
+{
+  "name": "ve",
+  "updated_at": 1773943843720,
+  "m3u": "https://ube1492.github.io/IPTV-UBE/ve.m3u",
+  "channels": [
+    {
+      "name": "Aguacate TV (1080p)",
+      "url": "https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Alcance TV (720p)",
+      "url": "https://rv100.globalhost1.com:3516/live/tjjqdqurlive.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Anzoátegui TV (360p) [Not 24/7]",
+      "url": "https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "AS3 Sport TV (1080p)",
+      "url": "https://streamtv.as3sport.online:3394/hybrid/play.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Audaz TV (432p) [Not 24/7]",
+      "url": "https://cloud2.streaminglivehd.com:1936/8264/8264/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Barinas TV (720p) [Not 24/7]",
+      "url": "https://vcp13.myplaytv.com/barinastv/barinastv/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "BTA TV (720p)",
+      "url": "https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Canal 21 Táchira (360p)",
+      "url": "https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Canal Once (480p)",
+      "url": "#EXTINF:-1 tvg-id=\"TAMTV.ve@SD\",TAM TV (240p)",
+      "logo": "",
+      "category": "Otros",
+      "options": {
+        "http-referrer": "https://canal11delzulia.com/"
+      }
+    },
+    {
+      "name": "TeleAragua (480p)",
+      "url": "http://45.173.198.59:8080/hls/nginx3.m3u8?tla=",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Teleboconó (720p) [Not 24/7]",
+      "url": "https://ssh101stream.ssh101.com/akamaissh101/ssh101/tcbstreaming/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Telecentro (720p)",
+      "url": "https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Telecentro (480p) [Not 24/7]",
+      "url": "https://streamtv.intervenhosting.net:3698/live/telecentrolive.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Telecolor (480p)",
+      "url": "https://cloud.livescast.com:19360/telecolor/telecolor.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Telesur (480p)",
+      "url": "https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Telesur English (480p)",
+      "url": "https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Telesur English HD (1080p)",
+      "url": "https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Telesur HD (1080p)",
+      "url": "https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Televisora de Oriente (406p)",
+      "url": "https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "TNO Radio (720p)",
+      "url": "https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Torococo TV (720p) [Not 24/7]",
+      "url": "https://us.streaminghd.cl/torococotelevision/video.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "TRT (410p) [Not 24/7]",
+      "url": "https://vcp12.myplaytv.com/trt/trt/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "TRV (480p)",
+      "url": "https://vcp3.myplaytv.com/trv/trv/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "TV Andes (720p) [Not 24/7]",
+      "url": "https://vcp3.myplaytv.com/tvandes/tvandes/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "TV Familia (720p)",
+      "url": "https://cloudusa.streamingconnect.com/tvfamiliatvbox/tvfamiliaweb.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "TV Oasis Monay",
+      "url": "https://live20.bozztv.com/akamaissh101/ssh101/oasistv123/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "TVM para ti (1080p)",
+      "url": "https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "TVS (720p)",
+      "url": "https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "UN24 (720p)",
+      "url": "",
+      "logo": "",
+      "category": "Otros",
+      "options": {
+        "http-referrer": "https://un24.tv/"
+      }
+    }
+  ],
+  "categories": {
+    "Otros": [
+      {
+        "name": "Aguacate TV (1080p)",
+        "url": "https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Alcance TV (720p)",
+        "url": "https://rv100.globalhost1.com:3516/live/tjjqdqurlive.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Anzoátegui TV (360p) [Not 24/7]",
+        "url": "https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "AS3 Sport TV (1080p)",
+        "url": "https://streamtv.as3sport.online:3394/hybrid/play.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Audaz TV (432p) [Not 24/7]",
+        "url": "https://cloud2.streaminglivehd.com:1936/8264/8264/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Barinas TV (720p) [Not 24/7]",
+        "url": "https://vcp13.myplaytv.com/barinastv/barinastv/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "BTA TV (720p)",
+        "url": "https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Canal 21 Táchira (360p)",
+        "url": "https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Canal Once (480p)",
+        "url": "#EXTINF:-1 tvg-id=\"TAMTV.ve@SD\",TAM TV (240p)",
+        "logo": "",
+        "category": "Otros",
+        "options": {
+          "http-referrer": "https://canal11delzulia.com/"
+        }
+      },
+      {
+        "name": "TeleAragua (480p)",
+        "url": "http://45.173.198.59:8080/hls/nginx3.m3u8?tla=",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Teleboconó (720p) [Not 24/7]",
+        "url": "https://ssh101stream.ssh101.com/akamaissh101/ssh101/tcbstreaming/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Telecentro (720p)",
+        "url": "https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Telecentro (480p) [Not 24/7]",
+        "url": "https://streamtv.intervenhosting.net:3698/live/telecentrolive.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Telecolor (480p)",
+        "url": "https://cloud.livescast.com:19360/telecolor/telecolor.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Telesur (480p)",
+        "url": "https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Telesur English (480p)",
+        "url": "https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Telesur English HD (1080p)",
+        "url": "https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Telesur HD (1080p)",
+        "url": "https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Televisora de Oriente (406p)",
+        "url": "https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "TNO Radio (720p)",
+        "url": "https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Torococo TV (720p) [Not 24/7]",
+        "url": "https://us.streaminghd.cl/torococotelevision/video.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "TRT (410p) [Not 24/7]",
+        "url": "https://vcp12.myplaytv.com/trt/trt/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "TRV (480p)",
+        "url": "https://vcp3.myplaytv.com/trv/trv/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "TV Andes (720p) [Not 24/7]",
+        "url": "https://vcp3.myplaytv.com/tvandes/tvandes/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "TV Familia (720p)",
+        "url": "https://cloudusa.streamingconnect.com/tvfamiliatvbox/tvfamiliaweb.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "TV Oasis Monay",
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/oasistv123/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "TVM para ti (1080p)",
+        "url": "https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "TVS (720p)",
+        "url": "https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "UN24 (720p)",
+        "url": "",
+        "logo": "",
+        "category": "Otros",
+        "options": {
+          "http-referrer": "https://un24.tv/"
+        }
+      }
+    ]
+  }
+}

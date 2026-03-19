@@ -1,0 +1,1797 @@
+{
+  "name": "latam_rd_premium",
+  "updated_at": 1773943841499,
+  "m3u": "https://ube1492.github.io/IPTV-UBE/latam_rd_premium.m3u",
+  "channels": [
+    {
+      "name": "11 - Repretel",
+      "url": "http://200.125.170.122:8000/play/a03s/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "13-Sinart",
+      "url": "http://200.125.170.122:8000/play/a0e6/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "42 - Extra TV 42",
+      "url": "http://200.125.170.122:8000/play/a00q/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "A&E HD",
+      "url": "http://200.125.170.122:8000/play/a02z/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "AMC HD",
+      "url": "http://200.125.170.122:8000/play/a02k/index.m3u8",
+      "logo": "",
+      "category": "Cine & Series"
+    },
+    {
+      "name": "AMC Series",
+      "url": "http://200.125.170.122:8000/play/a0f6/index.m3u8",
+      "logo": "",
+      "category": "Cine & Series"
+    },
+    {
+      "name": "AXN HD",
+      "url": "http://200.125.170.122:8000/play/a05s/index.m3u8",
+      "logo": "",
+      "category": "Cine & Series"
+    },
+    {
+      "name": "AZ click HD",
+      "url": "http://200.125.170.122:8000/play/a02q/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "Adult Swim",
+      "url": "http://200.125.170.122:8000/play/a0ct/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "Animal Planet HD",
+      "url": "http://200.125.170.122:8000/play/a02g/index.m3u8",
+      "logo": "",
+      "category": "Cultura"
+    },
+    {
+      "name": "Antena 3",
+      "url": "http://200.125.170.122:8000/play/a005/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "Antena 7- RD",
+      "url": "http://200.125.170.122:8000/play/a0ch/index.m3u8",
+      "logo": "",
+      "category": "República Dominicana"
+    },
+    {
+      "name": "Atres Series",
+      "url": "http://200.125.170.122:8000/play/a00b/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "Azcorazon",
+      "url": "http://200.125.170.122:8000/play/a0cv/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "Azmundo",
+      "url": "http://200.125.170.122:8000/play/a09m/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "Azteca Deportes",
+      "url": "http://200.125.170.122:8000/play/a0ek/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "BBC News",
+      "url": "http://200.125.170.122:8000/play/a0d8/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "Baby First",
+      "url": "http://200.125.170.122:8000/play/a03v/index.m3u8",
+      "logo": "",
+      "category": "Infantil"
+    },
+    {
+      "name": "Baby TV",
+      "url": "http://200.125.170.122:8000/play/a002/index.m3u8",
+      "logo": "",
+      "category": "Infantil"
+    },
+    {
+      "name": "CARTOON NT HD",
+      "url": "http://200.125.170.122:8000/play/a00x/index.m3u8",
+      "logo": "",
+      "category": "Infantil"
+    },
+    {
+      "name": "CDN2- RD",
+      "url": "http://200.125.170.122:8000/play/a03j/index.m3u8",
+      "logo": "",
+      "category": "República Dominicana"
+    },
+    {
+      "name": "CDN37 - RD",
+      "url": "http://200.125.170.122:8000/play/a09j/index.m3u8",
+      "logo": "",
+      "category": "República Dominicana"
+    },
+    {
+      "name": "CERTV",
+      "url": "http://200.125.170.122:8000/play/a04t/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "CINECANAL HD",
+      "url": "http://200.125.170.122:8000/play/a0a3/index.m3u8",
+      "logo": "",
+      "category": "Cine & Series"
+    },
+    {
+      "name": "CNBC",
+      "url": "http://200.125.170.122:8000/play/a05o/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "CNN Internacional",
+      "url": "http://200.125.170.122:8000/play/a00d/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "CNNE",
+      "url": "http://200.125.170.122:8000/play/a0d7/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "Canal 10 HD - ESA",
+      "url": "http://200.125.170.122:8000/play/a0e3/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "Canal 11 - HON",
+      "url": "http://200.125.170.122:8000/play/a0ec/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "Canal 12 - NI",
+      "url": "http://200.125.170.122:8000/play/a0ed/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "Canal 4 HD ESA",
+      "url": "http://200.125.170.122:8000/play/a0e4/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "Canal 7 HD CR",
+      "url": "http://200.125.170.122:8000/play/a02d/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "Canal 8 TNH HN",
+      "url": "http://200.125.170.122:8000/play/a0e1/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "Canal del Congreso",
+      "url": "http://200.125.170.122:8000/play/a04w/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "Caracol",
+      "url": "http://200.125.170.122:8000/play/a0er/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "Cartoonito",
+      "url": "http://200.125.170.122:8000/play/a0cp/index.m3u8",
+      "logo": "",
+      "category": "Infantil"
+    },
+    {
+      "name": "Cine Latino",
+      "url": "http://200.125.170.122:8000/play/a05k/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "CineMax",
+      "url": "http://200.125.170.122:8000/play/a05l/index.m3u8",
+      "logo": "",
+      "category": "Cine & Series"
+    },
+    {
+      "name": "Claro Sports 1 HD",
+      "url": "http://200.125.170.122:8000/play/a0dk/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "Color Vision 9 - RD",
+      "url": "http://200.125.170.122:8000/play/a09i/index.m3u8",
+      "logo": "",
+      "category": "República Dominicana"
+    },
+    {
+      "name": "Concert Channel",
+      "url": "http://200.125.170.122:8000/play/a05g/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "DHE HD",
+      "url": "http://200.125.170.122:8000/play/a035/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "DISC THEATHER HD",
+      "url": "http://200.125.170.122:8000/play/a04i/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "Deportes TVC - HON",
+      "url": "http://200.125.170.122:8000/play/a097/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "Digital 15 - RD",
+      "url": "http://200.125.170.122:8000/play/a03i/index.m3u8",
+      "logo": "",
+      "category": "República Dominicana"
+    },
+    {
+      "name": "Discovery Channel HD",
+      "url": "http://200.125.170.122:8000/play/a062/index.m3u8",
+      "logo": "",
+      "category": "Cultura"
+    },
+    {
+      "name": "Discovery ID HD",
+      "url": "http://200.125.170.122:8000/play/a066/index.m3u8",
+      "logo": "",
+      "category": "Cultura"
+    },
+    {
+      "name": "Discovery Kids HD",
+      "url": "http://200.125.170.122:8000/play/a00j/index.m3u8",
+      "logo": "",
+      "category": "Cultura"
+    },
+    {
+      "name": "Discovery Science",
+      "url": "http://200.125.170.122:8000/play/a008/index.m3u8",
+      "logo": "",
+      "category": "Cultura"
+    },
+    {
+      "name": "Discovery Turbo",
+      "url": "http://200.125.170.122:8000/play/a059/index.m3u8",
+      "logo": "",
+      "category": "Cultura"
+    },
+    {
+      "name": "Discovery World HD",
+      "url": "http://200.125.170.122:8000/play/a063/index.m3u8",
+      "logo": "",
+      "category": "Cultura"
+    },
+    {
+      "name": "Disney",
+      "url": "http://200.125.170.122:8000/play/a057/index.m3u8",
+      "logo": "",
+      "category": "Infantil"
+    },
+    {
+      "name": "Disney JR",
+      "url": "http://200.125.170.122:8000/play/a0cq/index.m3u8",
+      "logo": "",
+      "category": "Infantil"
+    },
+    {
+      "name": "E! Entertairment HD",
+      "url": "http://200.125.170.122:8000/play/a02x/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "ESPN  4 HD",
+      "url": "http://200.125.170.122:8000/play/a0en/index.m3u8",
+      "logo": "",
+      "category": "Deportes"
+    },
+    {
+      "name": "ESPN 2 HD",
+      "url": "http://200.125.170.122:8000/play/a05x/index.m3u8",
+      "logo": "",
+      "category": "Deportes"
+    },
+    {
+      "name": "ESPN 3 HD",
+      "url": "http://200.125.170.122:8000/play/a05w/index.m3u8",
+      "logo": "",
+      "category": "Deportes"
+    },
+    {
+      "name": "ESPN 5",
+      "url": "http://200.125.170.122:8000/play/a0dr/index.m3u8",
+      "logo": "",
+      "category": "Deportes"
+    },
+    {
+      "name": "ESPN 6",
+      "url": "http://200.125.170.122:8000/play/a0ej/index.m3u8",
+      "logo": "",
+      "category": "Deportes"
+    },
+    {
+      "name": "ESPN HD",
+      "url": "http://200.125.170.122:8000/play/a05v/index.m3u8",
+      "logo": "",
+      "category": "Deportes"
+    },
+    {
+      "name": "EURO Channel",
+      "url": "http://200.125.170.122:8000/play/a03y/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "EWTN",
+      "url": "http://200.125.170.122:8000/play/a0db/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "El Gourmet",
+      "url": "http://200.125.170.122:8000/play/a040/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "Estrella TV",
+      "url": "http://200.125.170.122:8000/play/a0eg/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "Europa HD",
+      "url": "http://200.125.170.122:8000/play/a033/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "FOX SPORTS 3 HD",
+      "url": "http://200.125.170.122:8000/play/a05y/index.m3u8",
+      "logo": "",
+      "category": "Deportes"
+    },
+    {
+      "name": "FUTV HD CR",
+      "url": "http://200.125.170.122:8000/play/a05u/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "FX HD",
+      "url": "http://200.125.170.122:8000/play/a032/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "Film & arts HD",
+      "url": "http://200.125.170.122:8000/play/a02y/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "Food Network",
+      "url": "http://200.125.170.122:8000/play/a0et/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "France24",
+      "url": "http://200.125.170.122:8000/play/a0d9/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "Golden",
+      "url": "http://200.125.170.122:8000/play/a04a/index.m3u8",
+      "logo": "",
+      "category": "Deportes"
+    },
+    {
+      "name": "Golden Premiere 2 HD",
+      "url": "http://200.125.170.122:8000/play/a00m/index.m3u8",
+      "logo": "",
+      "category": "Deportes"
+    },
+    {
+      "name": "Golden Premiere HD",
+      "url": "http://200.125.170.122:8000/play/a00l/index.m3u8",
+      "logo": "",
+      "category": "Deportes"
+    },
+    {
+      "name": "Golf Channel HD",
+      "url": "http://200.125.170.122:8000/play/a038/index.m3u8",
+      "logo": "",
+      "category": "Deportes"
+    },
+    {
+      "name": "Guatevision - GUA",
+      "url": "http://200.125.170.122:8000/play/a0eb/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "H2",
+      "url": "http://200.125.170.122:8000/play/a03z/index.m3u8",
+      "logo": "",
+      "category": "Cultura"
+    },
+    {
+      "name": "HBO Family HD",
+      "url": "http://200.125.170.122:8000/play/a011/index.m3u8",
+      "logo": "",
+      "category": "Cine & Series"
+    },
+    {
+      "name": "HBO HD",
+      "url": "http://200.125.170.122:8000/play/a00y/index.m3u8",
+      "logo": "",
+      "category": "Cine & Series"
+    },
+    {
+      "name": "HBO Plus HD",
+      "url": "http://200.125.170.122:8000/play/a010/index.m3u8",
+      "logo": "",
+      "category": "Cine & Series"
+    },
+    {
+      "name": "HBO XTREME",
+      "url": "http://200.125.170.122:8000/play/a012/index.m3u8",
+      "logo": "",
+      "category": "Cine & Series"
+    },
+    {
+      "name": "HBO2 HD",
+      "url": "http://200.125.170.122:8000/play/a00z/index.m3u8",
+      "logo": "",
+      "category": "Cine & Series"
+    },
+    {
+      "name": "HCH- HON",
+      "url": "http://200.125.170.122:8000/play/a0ee/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "HOLA! TV HD",
+      "url": "http://200.125.170.122:8000/play/a04k/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "HTV",
+      "url": "http://200.125.170.122:8000/play/a049/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "History HD",
+      "url": "http://200.125.170.122:8000/play/a0dc/index.m3u8",
+      "logo": "",
+      "category": "Cultura"
+    },
+    {
+      "name": "Home & Health HD",
+      "url": "http://200.125.170.122:8000/play/a04j/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "Home Garden Latino",
+      "url": "http://200.125.170.122:8000/play/a007/index.m3u8",
+      "logo": "",
+      "category": "República Dominicana"
+    },
+    {
+      "name": "LIFE TIME",
+      "url": "http://200.125.170.122:8000/play/a0d0/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "La voz de Maria",
+      "url": "http://200.125.170.122:8000/play/a05d/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "Latin America Sport",
+      "url": "http://200.125.170.122:8000/play/a046/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "Mas Chic",
+      "url": "http://200.125.170.122:8000/play/a004/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "Multicinema",
+      "url": "http://200.125.170.122:8000/play/a04c/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "Multimedios",
+      "url": "http://200.125.170.122:8000/play/a00o/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "Multipremier",
+      "url": "http://200.125.170.122:8000/play/a05j/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "Nat Geo HD",
+      "url": "http://200.125.170.122:8000/play/a05z/index.m3u8",
+      "logo": "",
+      "category": "Cultura"
+    },
+    {
+      "name": "Nicarao TV",
+      "url": "http://200.125.170.122:8000/play/a0cr/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "PXTV",
+      "url": "http://200.125.170.122:8000/play/a045/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "Pasiones HD",
+      "url": "http://200.125.170.122:8000/play/a064/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "Playboy",
+      "url": "http://200.125.170.122:8000/play/a02c/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "RCN - GUA",
+      "url": "http://200.125.170.122:8000/play/a04x/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "RCN Novelas",
+      "url": "http://200.125.170.122:8000/play/a03x/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "RHEMA TV",
+      "url": "http://200.125.170.122:8000/play/a05q/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "RNN - RD",
+      "url": "http://200.125.170.122:8000/play/a0dj/index.m3u8",
+      "logo": "",
+      "category": "República Dominicana"
+    },
+    {
+      "name": "SEMILLITAS",
+      "url": "http://200.125.170.122:8000/play/a0cs/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "SONY HD",
+      "url": "http://200.125.170.122:8000/play/a0a2/index.m3u8",
+      "logo": "",
+      "category": "Cine & Series"
+    },
+    {
+      "name": "SPACE HD",
+      "url": "http://200.125.170.122:8000/play/a05t/index.m3u8",
+      "logo": "",
+      "category": "Cine & Series"
+    },
+    {
+      "name": "STAR CHANNEL HD",
+      "url": "http://200.125.170.122:8000/play/a0a0/index.m3u8",
+      "logo": "",
+      "category": "Cine & Series"
+    },
+    {
+      "name": "Sembrador",
+      "url": "http://200.125.170.122:8000/play/a04d/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "Sin Limites",
+      "url": "http://200.125.170.122:8000/play/a0ep/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "Sony Movies HD",
+      "url": "http://200.125.170.122:8000/play/a02o/index.m3u8",
+      "logo": "",
+      "category": "Cine & Series"
+    },
+    {
+      "name": "Star TVE HD",
+      "url": "http://200.125.170.122:8000/play/a037/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "Studio Universal HD",
+      "url": "http://200.125.170.122:8000/play/a0e9/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "Sun Channel",
+      "url": "http://200.125.170.122:8000/play/a041/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "TBN Enlace",
+      "url": "http://200.125.170.122:8000/play/a0da/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "TCM",
+      "url": "http://200.125.170.122:8000/play/a04b/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "TD+2 HD CR",
+      "url": "http://200.125.170.122:8000/play/a00h/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "TD+HD CR",
+      "url": "http://200.125.170.122:8000/play/a00g/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "TLC",
+      "url": "http://200.125.170.122:8000/play/a09v/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "TNT HD",
+      "url": "http://200.125.170.122:8000/play/a04h/index.m3u8",
+      "logo": "",
+      "category": "Cine & Series"
+    },
+    {
+      "name": "TNT Novelas",
+      "url": "http://200.125.170.122:8000/play/a0cy/index.m3u8",
+      "logo": "",
+      "category": "Cine & Series"
+    },
+    {
+      "name": "TNT Series HD",
+      "url": "http://200.125.170.122:8000/play/a061/index.m3u8",
+      "logo": "",
+      "category": "Cine & Series"
+    },
+    {
+      "name": "TV Oriente ESA",
+      "url": "http://200.125.170.122:8000/play/a04v/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "TVChile",
+      "url": "http://200.125.170.122:8000/play/a006/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "TVE",
+      "url": "http://200.125.170.122:8000/play/a05p/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "TVM25 -  ESA",
+      "url": "http://200.125.170.122:8000/play/a052/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "Tele Antillas - RD",
+      "url": "http://200.125.170.122:8000/play/a0cg/index.m3u8",
+      "logo": "",
+      "category": "República Dominicana"
+    },
+    {
+      "name": "TeleMicro - RD",
+      "url": "http://200.125.170.122:8000/play/a09h/index.m3u8",
+      "logo": "",
+      "category": "República Dominicana"
+    },
+    {
+      "name": "Telecentro - RD",
+      "url": "http://200.125.170.122:8000/play/a03n/index.m3u8",
+      "logo": "",
+      "category": "República Dominicana"
+    },
+    {
+      "name": "Telemundo HD",
+      "url": "http://200.125.170.122:8000/play/a031/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "Telesistema RD",
+      "url": "http://200.125.170.122:8000/play/a0ci/index.m3u8",
+      "logo": "",
+      "category": "República Dominicana"
+    },
+    {
+      "name": "Teleunion - RD",
+      "url": "http://200.125.170.122:8000/play/a03o/index.m3u8",
+      "logo": "",
+      "category": "República Dominicana"
+    },
+    {
+      "name": "Teleuniverso - RD",
+      "url": "http://200.125.170.122:8000/play/a03k/index.m3u8",
+      "logo": "",
+      "category": "República Dominicana"
+    },
+    {
+      "name": "Televida RD",
+      "url": "http://200.125.170.122:8000/play/a00n/index.m3u8",
+      "logo": "",
+      "category": "República Dominicana"
+    },
+    {
+      "name": "Tigo Sports HD",
+      "url": "http://200.125.170.122:8000/play/a04f/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "Tooncast",
+      "url": "http://200.125.170.122:8000/play/a09l/index.m3u8",
+      "logo": "",
+      "category": "Infantil"
+    },
+    {
+      "name": "UNIVERSAL CINEMA ESTE HD",
+      "url": "http://200.125.170.122:8000/play/a067/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "UNIVERSAL COMEDY HD",
+      "url": "http://200.125.170.122:8000/play/a04s/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "UNIVERSAL CRIME HD",
+      "url": "http://200.125.170.122:8000/play/a04r/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "UNIVERSAL PREMIERE HD",
+      "url": "http://200.125.170.122:8000/play/a04o/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "UNIVERSAL PREMIERE O HD",
+      "url": "http://200.125.170.122:8000/play/a04p/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "UNIVERSAL REALITY HD",
+      "url": "http://200.125.170.122:8000/play/a04q/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "Universal",
+      "url": "http://200.125.170.122:8000/play/a05h/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "Univision HD",
+      "url": "http://200.125.170.122:8000/play/a065/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "VENUS",
+      "url": "http://200.125.170.122:8000/play/a04e/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "VTV Canal 35 ESA",
+      "url": "http://200.125.170.122:8000/play/a03t/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    },
+    {
+      "name": "WARNER HD",
+      "url": "http://200.125.170.122:8000/play/a0a1/index.m3u8",
+      "logo": "",
+      "category": "Cine & Series"
+    },
+    {
+      "name": "ZooMoo",
+      "url": "http://200.125.170.122:8000/play/a003/index.m3u8",
+      "logo": "",
+      "category": "LatAm Premium"
+    }
+  ],
+  "categories": {
+    "LatAm Premium": [
+      {
+        "name": "11 - Repretel",
+        "url": "http://200.125.170.122:8000/play/a03s/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "13-Sinart",
+        "url": "http://200.125.170.122:8000/play/a0e6/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "42 - Extra TV 42",
+        "url": "http://200.125.170.122:8000/play/a00q/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "A&E HD",
+        "url": "http://200.125.170.122:8000/play/a02z/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "AZ click HD",
+        "url": "http://200.125.170.122:8000/play/a02q/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "Adult Swim",
+        "url": "http://200.125.170.122:8000/play/a0ct/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "Antena 3",
+        "url": "http://200.125.170.122:8000/play/a005/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "Atres Series",
+        "url": "http://200.125.170.122:8000/play/a00b/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "Azcorazon",
+        "url": "http://200.125.170.122:8000/play/a0cv/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "Azmundo",
+        "url": "http://200.125.170.122:8000/play/a09m/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "Azteca Deportes",
+        "url": "http://200.125.170.122:8000/play/a0ek/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "BBC News",
+        "url": "http://200.125.170.122:8000/play/a0d8/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "CERTV",
+        "url": "http://200.125.170.122:8000/play/a04t/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "CNBC",
+        "url": "http://200.125.170.122:8000/play/a05o/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "CNN Internacional",
+        "url": "http://200.125.170.122:8000/play/a00d/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "CNNE",
+        "url": "http://200.125.170.122:8000/play/a0d7/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "Canal 10 HD - ESA",
+        "url": "http://200.125.170.122:8000/play/a0e3/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "Canal 11 - HON",
+        "url": "http://200.125.170.122:8000/play/a0ec/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "Canal 12 - NI",
+        "url": "http://200.125.170.122:8000/play/a0ed/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "Canal 4 HD ESA",
+        "url": "http://200.125.170.122:8000/play/a0e4/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "Canal 7 HD CR",
+        "url": "http://200.125.170.122:8000/play/a02d/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "Canal 8 TNH HN",
+        "url": "http://200.125.170.122:8000/play/a0e1/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "Canal del Congreso",
+        "url": "http://200.125.170.122:8000/play/a04w/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "Caracol",
+        "url": "http://200.125.170.122:8000/play/a0er/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "Cine Latino",
+        "url": "http://200.125.170.122:8000/play/a05k/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "Claro Sports 1 HD",
+        "url": "http://200.125.170.122:8000/play/a0dk/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "Concert Channel",
+        "url": "http://200.125.170.122:8000/play/a05g/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "DHE HD",
+        "url": "http://200.125.170.122:8000/play/a035/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "DISC THEATHER HD",
+        "url": "http://200.125.170.122:8000/play/a04i/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "Deportes TVC - HON",
+        "url": "http://200.125.170.122:8000/play/a097/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "E! Entertairment HD",
+        "url": "http://200.125.170.122:8000/play/a02x/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "EURO Channel",
+        "url": "http://200.125.170.122:8000/play/a03y/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "EWTN",
+        "url": "http://200.125.170.122:8000/play/a0db/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "El Gourmet",
+        "url": "http://200.125.170.122:8000/play/a040/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "Estrella TV",
+        "url": "http://200.125.170.122:8000/play/a0eg/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "Europa HD",
+        "url": "http://200.125.170.122:8000/play/a033/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "FUTV HD CR",
+        "url": "http://200.125.170.122:8000/play/a05u/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "FX HD",
+        "url": "http://200.125.170.122:8000/play/a032/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "Film & arts HD",
+        "url": "http://200.125.170.122:8000/play/a02y/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "Food Network",
+        "url": "http://200.125.170.122:8000/play/a0et/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "France24",
+        "url": "http://200.125.170.122:8000/play/a0d9/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "Guatevision - GUA",
+        "url": "http://200.125.170.122:8000/play/a0eb/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "HCH- HON",
+        "url": "http://200.125.170.122:8000/play/a0ee/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "HOLA! TV HD",
+        "url": "http://200.125.170.122:8000/play/a04k/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "HTV",
+        "url": "http://200.125.170.122:8000/play/a049/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "Home & Health HD",
+        "url": "http://200.125.170.122:8000/play/a04j/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "LIFE TIME",
+        "url": "http://200.125.170.122:8000/play/a0d0/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "La voz de Maria",
+        "url": "http://200.125.170.122:8000/play/a05d/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "Latin America Sport",
+        "url": "http://200.125.170.122:8000/play/a046/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "Mas Chic",
+        "url": "http://200.125.170.122:8000/play/a004/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "Multicinema",
+        "url": "http://200.125.170.122:8000/play/a04c/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "Multimedios",
+        "url": "http://200.125.170.122:8000/play/a00o/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "Multipremier",
+        "url": "http://200.125.170.122:8000/play/a05j/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "Nicarao TV",
+        "url": "http://200.125.170.122:8000/play/a0cr/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "PXTV",
+        "url": "http://200.125.170.122:8000/play/a045/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "Pasiones HD",
+        "url": "http://200.125.170.122:8000/play/a064/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "Playboy",
+        "url": "http://200.125.170.122:8000/play/a02c/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "RCN - GUA",
+        "url": "http://200.125.170.122:8000/play/a04x/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "RCN Novelas",
+        "url": "http://200.125.170.122:8000/play/a03x/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "RHEMA TV",
+        "url": "http://200.125.170.122:8000/play/a05q/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "SEMILLITAS",
+        "url": "http://200.125.170.122:8000/play/a0cs/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "Sembrador",
+        "url": "http://200.125.170.122:8000/play/a04d/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "Sin Limites",
+        "url": "http://200.125.170.122:8000/play/a0ep/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "Star TVE HD",
+        "url": "http://200.125.170.122:8000/play/a037/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "Studio Universal HD",
+        "url": "http://200.125.170.122:8000/play/a0e9/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "Sun Channel",
+        "url": "http://200.125.170.122:8000/play/a041/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "TBN Enlace",
+        "url": "http://200.125.170.122:8000/play/a0da/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "TCM",
+        "url": "http://200.125.170.122:8000/play/a04b/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "TD+2 HD CR",
+        "url": "http://200.125.170.122:8000/play/a00h/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "TD+HD CR",
+        "url": "http://200.125.170.122:8000/play/a00g/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "TLC",
+        "url": "http://200.125.170.122:8000/play/a09v/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "TV Oriente ESA",
+        "url": "http://200.125.170.122:8000/play/a04v/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "TVChile",
+        "url": "http://200.125.170.122:8000/play/a006/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "TVE",
+        "url": "http://200.125.170.122:8000/play/a05p/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "TVM25 -  ESA",
+        "url": "http://200.125.170.122:8000/play/a052/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "Telemundo HD",
+        "url": "http://200.125.170.122:8000/play/a031/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "Tigo Sports HD",
+        "url": "http://200.125.170.122:8000/play/a04f/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "UNIVERSAL CINEMA ESTE HD",
+        "url": "http://200.125.170.122:8000/play/a067/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "UNIVERSAL COMEDY HD",
+        "url": "http://200.125.170.122:8000/play/a04s/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "UNIVERSAL CRIME HD",
+        "url": "http://200.125.170.122:8000/play/a04r/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "UNIVERSAL PREMIERE HD",
+        "url": "http://200.125.170.122:8000/play/a04o/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "UNIVERSAL PREMIERE O HD",
+        "url": "http://200.125.170.122:8000/play/a04p/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "UNIVERSAL REALITY HD",
+        "url": "http://200.125.170.122:8000/play/a04q/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "Universal",
+        "url": "http://200.125.170.122:8000/play/a05h/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "Univision HD",
+        "url": "http://200.125.170.122:8000/play/a065/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "VENUS",
+        "url": "http://200.125.170.122:8000/play/a04e/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "VTV Canal 35 ESA",
+        "url": "http://200.125.170.122:8000/play/a03t/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      },
+      {
+        "name": "ZooMoo",
+        "url": "http://200.125.170.122:8000/play/a003/index.m3u8",
+        "logo": "",
+        "category": "LatAm Premium"
+      }
+    ],
+    "Cine & Series": [
+      {
+        "name": "AMC HD",
+        "url": "http://200.125.170.122:8000/play/a02k/index.m3u8",
+        "logo": "",
+        "category": "Cine & Series"
+      },
+      {
+        "name": "AMC Series",
+        "url": "http://200.125.170.122:8000/play/a0f6/index.m3u8",
+        "logo": "",
+        "category": "Cine & Series"
+      },
+      {
+        "name": "AXN HD",
+        "url": "http://200.125.170.122:8000/play/a05s/index.m3u8",
+        "logo": "",
+        "category": "Cine & Series"
+      },
+      {
+        "name": "CINECANAL HD",
+        "url": "http://200.125.170.122:8000/play/a0a3/index.m3u8",
+        "logo": "",
+        "category": "Cine & Series"
+      },
+      {
+        "name": "CineMax",
+        "url": "http://200.125.170.122:8000/play/a05l/index.m3u8",
+        "logo": "",
+        "category": "Cine & Series"
+      },
+      {
+        "name": "HBO Family HD",
+        "url": "http://200.125.170.122:8000/play/a011/index.m3u8",
+        "logo": "",
+        "category": "Cine & Series"
+      },
+      {
+        "name": "HBO HD",
+        "url": "http://200.125.170.122:8000/play/a00y/index.m3u8",
+        "logo": "",
+        "category": "Cine & Series"
+      },
+      {
+        "name": "HBO Plus HD",
+        "url": "http://200.125.170.122:8000/play/a010/index.m3u8",
+        "logo": "",
+        "category": "Cine & Series"
+      },
+      {
+        "name": "HBO XTREME",
+        "url": "http://200.125.170.122:8000/play/a012/index.m3u8",
+        "logo": "",
+        "category": "Cine & Series"
+      },
+      {
+        "name": "HBO2 HD",
+        "url": "http://200.125.170.122:8000/play/a00z/index.m3u8",
+        "logo": "",
+        "category": "Cine & Series"
+      },
+      {
+        "name": "SONY HD",
+        "url": "http://200.125.170.122:8000/play/a0a2/index.m3u8",
+        "logo": "",
+        "category": "Cine & Series"
+      },
+      {
+        "name": "SPACE HD",
+        "url": "http://200.125.170.122:8000/play/a05t/index.m3u8",
+        "logo": "",
+        "category": "Cine & Series"
+      },
+      {
+        "name": "STAR CHANNEL HD",
+        "url": "http://200.125.170.122:8000/play/a0a0/index.m3u8",
+        "logo": "",
+        "category": "Cine & Series"
+      },
+      {
+        "name": "Sony Movies HD",
+        "url": "http://200.125.170.122:8000/play/a02o/index.m3u8",
+        "logo": "",
+        "category": "Cine & Series"
+      },
+      {
+        "name": "TNT HD",
+        "url": "http://200.125.170.122:8000/play/a04h/index.m3u8",
+        "logo": "",
+        "category": "Cine & Series"
+      },
+      {
+        "name": "TNT Novelas",
+        "url": "http://200.125.170.122:8000/play/a0cy/index.m3u8",
+        "logo": "",
+        "category": "Cine & Series"
+      },
+      {
+        "name": "TNT Series HD",
+        "url": "http://200.125.170.122:8000/play/a061/index.m3u8",
+        "logo": "",
+        "category": "Cine & Series"
+      },
+      {
+        "name": "WARNER HD",
+        "url": "http://200.125.170.122:8000/play/a0a1/index.m3u8",
+        "logo": "",
+        "category": "Cine & Series"
+      }
+    ],
+    "Cultura": [
+      {
+        "name": "Animal Planet HD",
+        "url": "http://200.125.170.122:8000/play/a02g/index.m3u8",
+        "logo": "",
+        "category": "Cultura"
+      },
+      {
+        "name": "Discovery Channel HD",
+        "url": "http://200.125.170.122:8000/play/a062/index.m3u8",
+        "logo": "",
+        "category": "Cultura"
+      },
+      {
+        "name": "Discovery ID HD",
+        "url": "http://200.125.170.122:8000/play/a066/index.m3u8",
+        "logo": "",
+        "category": "Cultura"
+      },
+      {
+        "name": "Discovery Kids HD",
+        "url": "http://200.125.170.122:8000/play/a00j/index.m3u8",
+        "logo": "",
+        "category": "Cultura"
+      },
+      {
+        "name": "Discovery Science",
+        "url": "http://200.125.170.122:8000/play/a008/index.m3u8",
+        "logo": "",
+        "category": "Cultura"
+      },
+      {
+        "name": "Discovery Turbo",
+        "url": "http://200.125.170.122:8000/play/a059/index.m3u8",
+        "logo": "",
+        "category": "Cultura"
+      },
+      {
+        "name": "Discovery World HD",
+        "url": "http://200.125.170.122:8000/play/a063/index.m3u8",
+        "logo": "",
+        "category": "Cultura"
+      },
+      {
+        "name": "H2",
+        "url": "http://200.125.170.122:8000/play/a03z/index.m3u8",
+        "logo": "",
+        "category": "Cultura"
+      },
+      {
+        "name": "History HD",
+        "url": "http://200.125.170.122:8000/play/a0dc/index.m3u8",
+        "logo": "",
+        "category": "Cultura"
+      },
+      {
+        "name": "Nat Geo HD",
+        "url": "http://200.125.170.122:8000/play/a05z/index.m3u8",
+        "logo": "",
+        "category": "Cultura"
+      }
+    ],
+    "República Dominicana": [
+      {
+        "name": "Antena 7- RD",
+        "url": "http://200.125.170.122:8000/play/a0ch/index.m3u8",
+        "logo": "",
+        "category": "República Dominicana"
+      },
+      {
+        "name": "CDN2- RD",
+        "url": "http://200.125.170.122:8000/play/a03j/index.m3u8",
+        "logo": "",
+        "category": "República Dominicana"
+      },
+      {
+        "name": "CDN37 - RD",
+        "url": "http://200.125.170.122:8000/play/a09j/index.m3u8",
+        "logo": "",
+        "category": "República Dominicana"
+      },
+      {
+        "name": "Color Vision 9 - RD",
+        "url": "http://200.125.170.122:8000/play/a09i/index.m3u8",
+        "logo": "",
+        "category": "República Dominicana"
+      },
+      {
+        "name": "Digital 15 - RD",
+        "url": "http://200.125.170.122:8000/play/a03i/index.m3u8",
+        "logo": "",
+        "category": "República Dominicana"
+      },
+      {
+        "name": "Home Garden Latino",
+        "url": "http://200.125.170.122:8000/play/a007/index.m3u8",
+        "logo": "",
+        "category": "República Dominicana"
+      },
+      {
+        "name": "RNN - RD",
+        "url": "http://200.125.170.122:8000/play/a0dj/index.m3u8",
+        "logo": "",
+        "category": "República Dominicana"
+      },
+      {
+        "name": "Tele Antillas - RD",
+        "url": "http://200.125.170.122:8000/play/a0cg/index.m3u8",
+        "logo": "",
+        "category": "República Dominicana"
+      },
+      {
+        "name": "TeleMicro - RD",
+        "url": "http://200.125.170.122:8000/play/a09h/index.m3u8",
+        "logo": "",
+        "category": "República Dominicana"
+      },
+      {
+        "name": "Telecentro - RD",
+        "url": "http://200.125.170.122:8000/play/a03n/index.m3u8",
+        "logo": "",
+        "category": "República Dominicana"
+      },
+      {
+        "name": "Telesistema RD",
+        "url": "http://200.125.170.122:8000/play/a0ci/index.m3u8",
+        "logo": "",
+        "category": "República Dominicana"
+      },
+      {
+        "name": "Teleunion - RD",
+        "url": "http://200.125.170.122:8000/play/a03o/index.m3u8",
+        "logo": "",
+        "category": "República Dominicana"
+      },
+      {
+        "name": "Teleuniverso - RD",
+        "url": "http://200.125.170.122:8000/play/a03k/index.m3u8",
+        "logo": "",
+        "category": "República Dominicana"
+      },
+      {
+        "name": "Televida RD",
+        "url": "http://200.125.170.122:8000/play/a00n/index.m3u8",
+        "logo": "",
+        "category": "República Dominicana"
+      }
+    ],
+    "Infantil": [
+      {
+        "name": "Baby First",
+        "url": "http://200.125.170.122:8000/play/a03v/index.m3u8",
+        "logo": "",
+        "category": "Infantil"
+      },
+      {
+        "name": "Baby TV",
+        "url": "http://200.125.170.122:8000/play/a002/index.m3u8",
+        "logo": "",
+        "category": "Infantil"
+      },
+      {
+        "name": "CARTOON NT HD",
+        "url": "http://200.125.170.122:8000/play/a00x/index.m3u8",
+        "logo": "",
+        "category": "Infantil"
+      },
+      {
+        "name": "Cartoonito",
+        "url": "http://200.125.170.122:8000/play/a0cp/index.m3u8",
+        "logo": "",
+        "category": "Infantil"
+      },
+      {
+        "name": "Disney",
+        "url": "http://200.125.170.122:8000/play/a057/index.m3u8",
+        "logo": "",
+        "category": "Infantil"
+      },
+      {
+        "name": "Disney JR",
+        "url": "http://200.125.170.122:8000/play/a0cq/index.m3u8",
+        "logo": "",
+        "category": "Infantil"
+      },
+      {
+        "name": "Tooncast",
+        "url": "http://200.125.170.122:8000/play/a09l/index.m3u8",
+        "logo": "",
+        "category": "Infantil"
+      }
+    ],
+    "Deportes": [
+      {
+        "name": "ESPN  4 HD",
+        "url": "http://200.125.170.122:8000/play/a0en/index.m3u8",
+        "logo": "",
+        "category": "Deportes"
+      },
+      {
+        "name": "ESPN 2 HD",
+        "url": "http://200.125.170.122:8000/play/a05x/index.m3u8",
+        "logo": "",
+        "category": "Deportes"
+      },
+      {
+        "name": "ESPN 3 HD",
+        "url": "http://200.125.170.122:8000/play/a05w/index.m3u8",
+        "logo": "",
+        "category": "Deportes"
+      },
+      {
+        "name": "ESPN 5",
+        "url": "http://200.125.170.122:8000/play/a0dr/index.m3u8",
+        "logo": "",
+        "category": "Deportes"
+      },
+      {
+        "name": "ESPN 6",
+        "url": "http://200.125.170.122:8000/play/a0ej/index.m3u8",
+        "logo": "",
+        "category": "Deportes"
+      },
+      {
+        "name": "ESPN HD",
+        "url": "http://200.125.170.122:8000/play/a05v/index.m3u8",
+        "logo": "",
+        "category": "Deportes"
+      },
+      {
+        "name": "FOX SPORTS 3 HD",
+        "url": "http://200.125.170.122:8000/play/a05y/index.m3u8",
+        "logo": "",
+        "category": "Deportes"
+      },
+      {
+        "name": "Golden",
+        "url": "http://200.125.170.122:8000/play/a04a/index.m3u8",
+        "logo": "",
+        "category": "Deportes"
+      },
+      {
+        "name": "Golden Premiere 2 HD",
+        "url": "http://200.125.170.122:8000/play/a00m/index.m3u8",
+        "logo": "",
+        "category": "Deportes"
+      },
+      {
+        "name": "Golden Premiere HD",
+        "url": "http://200.125.170.122:8000/play/a00l/index.m3u8",
+        "logo": "",
+        "category": "Deportes"
+      },
+      {
+        "name": "Golf Channel HD",
+        "url": "http://200.125.170.122:8000/play/a038/index.m3u8",
+        "logo": "",
+        "category": "Deportes"
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+node_modules
+.DS_Store
+dist
+
+test_*
+# m3u files are now tracked for logos and public lists
+# m3u
+back
+
+.env
+config
