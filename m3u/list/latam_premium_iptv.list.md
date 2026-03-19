@@ -87,4 +87,4 @@
 | 81 | Zona Latina | IPv4 直链 | <http://179.1.87.75:8098/play/a0dr/index.m3u8> |
 | 82 | Zoom | IPv4 直链 | <http://179.1.87.75:8098/play/a0gh/index.m3u8> |
 
-Updated at **Thu Mar 19 2026 16:08:21 GMT-0500 (hora estándar de Perú)**
+Updated at **Thu Mar 19 2026 21:12:43 GMT+0000 (Coordinated Universal Time)**
