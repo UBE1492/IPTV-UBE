@@ -209,4 +209,4 @@
 | 203 | WILLAX DECO | IPv4 直链 | <http://38.224.73.146:8000/play/a1dl/index.m3u8> |
 | 204 | Warner TV HD | IPv4 直链 | <http://38.224.73.146:8000/play/a1b4/index.m3u8> |
 
-Updated at **Thu Mar 19 2026 15:58:26 GMT-0500 (hora estándar de Perú)**
+Updated at **Thu Mar 19 2026 16:03:29 GMT-0500 (hora estándar de Perú)**
