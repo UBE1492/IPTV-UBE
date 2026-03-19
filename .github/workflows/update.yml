@@ -3,6 +3,9 @@ name: Update IPTV Lists
 on:
   schedule:
     - cron: '0 */6 * * *' # Run every 6 hours
+  push:
+    branches:
+      - main
   workflow_dispatch: # Allow manual trigger
 
 jobs:
