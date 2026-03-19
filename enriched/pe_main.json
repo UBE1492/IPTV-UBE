@@ -1,0 +1,195 @@
+{
+  "name": "pe_main",
+  "updated_at": 1773954501003,
+  "m3u": "https://ube1492.github.io/IPTV-UBE/pe_main.m3u",
+  "channels": [
+    {
+      "name": "ATV HD WEB",
+      "url": "http://38.224.73.146:8000/play/a1ft/index.m3u8",
+      "logo": "",
+      "category": "Entretenimiento"
+    },
+    {
+      "name": "America TV HD",
+      "url": "http://38.224.73.146:8000/play/a189/index.m3u8",
+      "logo": "",
+      "category": "Entretenimiento"
+    },
+    {
+      "name": "CANAL IPE WEB",
+      "url": "http://38.224.73.146:8000/play/a1fx/index.m3u8",
+      "logo": "",
+      "category": "Entretenimiento"
+    },
+    {
+      "name": "EXITOSA",
+      "url": "http://38.224.73.146:8000/play/a1fn/index.m3u8",
+      "logo": "",
+      "category": "Noticias"
+    },
+    {
+      "name": "GLOBAL HD DECO",
+      "url": "http://38.224.73.146:8000/play/a1ev/index.m3u8",
+      "logo": "",
+      "category": "Entretenimiento"
+    },
+    {
+      "name": "L1 MAX",
+      "url": "http://38.224.73.146:8000/play/a1h7/index.m3u8",
+      "logo": "",
+      "category": "Deportes"
+    },
+    {
+      "name": "LA TELE HD DECO",
+      "url": "http://38.224.73.146:8000/play/a0vw/index.m3u8",
+      "logo": "",
+      "category": "Entretenimiento"
+    },
+    {
+      "name": "LIGA1 DECO",
+      "url": "http://38.224.73.146:8000/play/a0vt/index.m3u8",
+      "logo": "",
+      "category": "Deportes"
+    },
+    {
+      "name": "Latina HD",
+      "url": "http://38.224.73.146:8000/play/a0y2/index.m3u8",
+      "logo": "",
+      "category": "Entretenimiento"
+    },
+    {
+      "name": "NATIVA",
+      "url": "http://38.224.73.146:8000/play/a0vj/index.m3u8",
+      "logo": "",
+      "category": "Entretenimiento"
+    },
+    {
+      "name": "Panamericana",
+      "url": "http://38.224.73.146:8000/play/a1fk/index.m3u8",
+      "logo": "",
+      "category": "Entretenimiento"
+    },
+    {
+      "name": "RPP",
+      "url": "http://38.224.73.146:8000/play/a1cs/index.m3u8",
+      "logo": "",
+      "category": "Noticias"
+    },
+    {
+      "name": "TV PERU HD  WEB",
+      "url": "http://38.224.73.146:8000/play/a1fs/index.m3u8",
+      "logo": "",
+      "category": "Entretenimiento"
+    },
+    {
+      "name": "TV PERU NOTICIAS WEB",
+      "url": "http://38.224.73.146:8000/play/a1fr/index.m3u8",
+      "logo": "",
+      "category": "Noticias"
+    },
+    {
+      "name": "WILLAX DECO",
+      "url": "http://38.224.73.146:8000/play/a1dl/index.m3u8",
+      "logo": "",
+      "category": "Entretenimiento"
+    }
+  ],
+  "categories": {
+    "Entretenimiento": [
+      {
+        "name": "ATV HD WEB",
+        "url": "http://38.224.73.146:8000/play/a1ft/index.m3u8",
+        "logo": "",
+        "category": "Entretenimiento"
+      },
+      {
+        "name": "America TV HD",
+        "url": "http://38.224.73.146:8000/play/a189/index.m3u8",
+        "logo": "",
+        "category": "Entretenimiento"
+      },
+      {
+        "name": "CANAL IPE WEB",
+        "url": "http://38.224.73.146:8000/play/a1fx/index.m3u8",
+        "logo": "",
+        "category": "Entretenimiento"
+      },
+      {
+        "name": "GLOBAL HD DECO",
+        "url": "http://38.224.73.146:8000/play/a1ev/index.m3u8",
+        "logo": "",
+        "category": "Entretenimiento"
+      },
+      {
+        "name": "LA TELE HD DECO",
+        "url": "http://38.224.73.146:8000/play/a0vw/index.m3u8",
+        "logo": "",
+        "category": "Entretenimiento"
+      },
+      {
+        "name": "Latina HD",
+        "url": "http://38.224.73.146:8000/play/a0y2/index.m3u8",
+        "logo": "",
+        "category": "Entretenimiento"
+      },
+      {
+        "name": "NATIVA",
+        "url": "http://38.224.73.146:8000/play/a0vj/index.m3u8",
+        "logo": "",
+        "category": "Entretenimiento"
+      },
+      {
+        "name": "Panamericana",
+        "url": "http://38.224.73.146:8000/play/a1fk/index.m3u8",
+        "logo": "",
+        "category": "Entretenimiento"
+      },
+      {
+        "name": "TV PERU HD  WEB",
+        "url": "http://38.224.73.146:8000/play/a1fs/index.m3u8",
+        "logo": "",
+        "category": "Entretenimiento"
+      },
+      {
+        "name": "WILLAX DECO",
+        "url": "http://38.224.73.146:8000/play/a1dl/index.m3u8",
+        "logo": "",
+        "category": "Entretenimiento"
+      }
+    ],
+    "Noticias": [
+      {
+        "name": "EXITOSA",
+        "url": "http://38.224.73.146:8000/play/a1fn/index.m3u8",
+        "logo": "",
+        "category": "Noticias"
+      },
+      {
+        "name": "RPP",
+        "url": "http://38.224.73.146:8000/play/a1cs/index.m3u8",
+        "logo": "",
+        "category": "Noticias"
+      },
+      {
+        "name": "TV PERU NOTICIAS WEB",
+        "url": "http://38.224.73.146:8000/play/a1fr/index.m3u8",
+        "logo": "",
+        "category": "Noticias"
+      }
+    ],
+    "Deportes": [
+      {
+        "name": "L1 MAX",
+        "url": "http://38.224.73.146:8000/play/a1h7/index.m3u8",
+        "logo": "",
+        "category": "Deportes"
+      },
+      {
+        "name": "LIGA1 DECO",
+        "url": "http://38.224.73.146:8000/play/a0vt/index.m3u8",
+        "logo": "",
+        "category": "Deportes"
+      }
+    ]
+  }
+}

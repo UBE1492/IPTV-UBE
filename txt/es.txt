@@ -1,0 +1,127 @@
+Undefined,#genre#
+3Cat_Càmeres_del_temps_(1080p),https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8
+3Cat_El_búnquer_(1080p),https://fast-tailor.3catdirectes.cat/v1/channel/bunquer/hls.m3u8
+3Cat_Exclusiu_1_(1080p)_[Geo-blocked],https://directes-tv-cat.3catdirectes.cat/live-content/oca1-hls/master.m3u8
+3Cat_Exclusiu_2_(1080p)_[Geo-blocked],https://directes-tv-cat.3catdirectes.cat/live-content/oca2-hls/master.m3u8
+3Cat_Exclusiu_3_(1080p)_[Geo-blocked],https://directes-tv-cat.3catdirectes.cat/live-content/oca3-hls/master.m3u8
+3Cat_Plats_bruts_(1080p),https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8
+3CatInfo_(1080p),https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
+7_TeleValencia_(576p),https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
+8_La_Marina_TV_(576p),https://streaming005.gestec-video.com/hls/canal24.m3u8
+9_la_Loma_TV_(1080p)_[Geo-blocked],https://9laloma.tv/live.m3u8
+12tv,#EXTVLCOPT:http-referrer=https://www.12tv.es/
+24_Horas_(1080p),https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vlldndmow4yre/24HES.m3u8
+28_kanala,https://streaming.28kanala.eus/hls/z.m3u8
+101tv_Axarquia_(480p),https://www.streaming101tv.es:19360/axarquia/axarquia.m3u8
+101tv_Cádiz_(1080p),https://streaming101tv.es:19360/cadiz/cadiz.m3u8
+101tv_Malaga,#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+A_Punt,https://bcovlive-a.akamaihd.net/8499d938ef904e39b58a4adec2ddeada/eu-west-1/6057955885001/playlist_dvr.m3u8
+Activa_TV_(720p),https://streamtv.mediasector.es/hls/activatv/index.m3u8
+Actualidad_360_(1080p)_[Geo-blocked],https://amg01821-lovetv-amg01821c27-lg-es-6726.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovenews-lges/playlist.m3u8
+Alacantí_TV_(576p)_[Not_24/7],https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
+Alcarria_TV_(576p)_[Not_24/7],http://217.182.77.27/live/alcarriatv-livestream.m3u8
+Anime_Vision_(1080p),https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
+Anime_Vision_Classics_(1080p),https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
+Antena_3_Internacional_[Not_24_7],https://moviezona593.com:8443/play/cO7SMyYsfVeNHbC5IQqRpHzyzgpISTmz_ch_ZVKDwhs2a6SBsY0RnvGwCP6rgwKx/m3u8
+Antena_3_Internacional,http://177.10.184.193:8000/play/a06a/index.m3u8
+Arabí_TV_(1080p),https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8
+Aragon_TV_Internacional_(720p)_[Not_24/7],https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+Atrescine_(1080p),http://181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8
+Bailén_TV_(720p)_[Not_24/7],http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8
+Barca_TV,https://live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8
+BCN_Gospel_TV_(1080p),https://live1.ovalcast.com:3641/live/bcngospeltvlive.m3u8
+BDNCOM_(1080p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+Canal_San_Roque_(1080p)_[Not_24/7],https://cdnlivevlc.codev8.net/aytosanroquelive/smil:channel1.smil/playlist.m3u8
+Canal_Sierra_de_Cádiz_(1080p)_[Not_24/7],https://s.emisoras.tv:8081/sierradecadiz/index.m3u8
+Canal_Sur_Andalucia_(1080p),https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
+Canal_Sur_Andalucia,https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
+Canal_Sur_Andalucía_2_(720p),https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
+Canal_Sur_Noticias,https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
+Canal_Taronja_Comarques_Centrals_(1080p)_[Not_24/7],#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+Canal_Terrassa_(1080p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+CanalCosta_(1080p),https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/endirecto/playlist.m3u8
+Cancionero_TV_(360p),http://89.140.229.5/hls1/cancionero.m3u8
+Cetelmón_TV_(404p),http://player.cetelmon.tv/protecteddfd43c2f3a8b41f3f28582bf8993aca6/992_high.m3u8
+Ciudades_Del_Ocio_TV_(720p),https://cloudvideo.servers10.com:8081/8024/index.m3u8
+Clan_(1280p),https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x6uutpgph4tpt/ClanES.m3u8
+Clan_Internacional_Americas_(1080p)_[Geo-blocked],https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
+Clan_TVE_(1080p)_[Geo-blocked],https://ztnr.rtve.es/ztnr/5466990.m3u8
+CMM_TV_HD_(1080p),https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/flavorIds/1_a9gxgxzy,1_v71ryg4b,1_vbfvtjw6,1_obo1bqsx,1_3shk3s5d/a.m3u8
+Condavisión_(1080p)_[Not_24/7],https://5d8d85cf2c308.streamlock.net:1936/Condavision/endirecto/playlist.m3u8
+Congreso_de_los_Diputados_1_(360p)_[Not_24/7],https://congresodirecto.akamaized.net/hls/live/2038274/canal1/master.m3u8
+Congreso_de_los_Diputados_2_(360p)_[Not_24/7],https://congresodirecto.akamaized.net/hls/live/2038275/canal2/master.m3u8
+Congreso_de_los_Diputados_3_(360p)_[Not_24/7],https://congresodirecto.akamaized.net/hls/live/2038276/canal3/master.m3u8
+Congreso_de_los_Diputados_4_(360p)_[Not_24/7],https://congresodirecto.akamaized.net/hls/live/2038277/canal4/master.m3u8
+Congreso_de_los_Diputados_5_(360p)_[Not_24/7],https://congresodirecto.akamaized.net/hls/live/2038278/canal5/master.m3u8
+Córdoba_TV_[Not_24/7],https://cloudvideo.servers10.com:8081/8020/index.m3u8
+Corts_Valencianes_(480p)_[Not_24/7],https://streamserver3.seneca.tv/cval_live/cdn_enc_3/master.m3u8
+Costa_Noroeste_TV_(1080p)_[Not_24/7],https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8
+Cristiana_TV_(576p),https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8
+Cugat_TV_(1080p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+El_33_(1080p)_[Geo-blocked],https://directes-tv-cat.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8
+El_33_Originals_(1080p)_[Not_24/7],https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8
+El_Toro_TV_(720p),https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
+Elche_7_TV_(576p),https://elche7tv.gestec-video.com/hls/canal2.m3u8
+Empordà_TV_(1080p),https://video3.lhdserver.es/empordatv2/live.m3u8
+Esport3_(1080p)_[Geo-blocked],https://directes-tv-cat.3catdirectes.cat/live-content/esport3-hls/master.m3u8
+Esport3_(1080p)_[Not_24/7],https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
+Este_Canal_TV_(576p),http://synclosdragos1.syncsolutions.es:8008/live3/emision/index.m3u8
+Estepona_Televisión_(720p),https://cloudvideo.servers10.com:8081/8022/index.m3u8
+EsTuTele_(720p),#EXTVLCOPT:http-referrer=https://player.streamingconnect.com/
+ETB_Events_1_(1080p),https://cdn1.etbon.eus/oc1/index.m3u8
+ETV_Terramar_(1080p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+Logos_TV_(1080p)_[Not_24/7],https://streamer1.streamhost.org/salive/logosH/master.m3u8
+Logos_TV_Estudio_(720p)_[Not_24/7],https://streamer1.streamhost.org/salive/logosdirectaH/playlist.m3u8
+Logos_TV_Kids_(720p)_[Not_24/7],https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
+Logos_TV_Salud_(720p)_[Not_24/7],https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8
+Love_The_Planet_(1080p)_[Geo-blocked],https://amg01821-lovetv-amg01821c8-xumo-us-3443.playouts.now.amagi.tv/playlist.m3u8
+Love_The_Planet_DE_(1080p)_[Geo-blocked],https://amg01821-amg01821c12-rlaxx-gb-10461.playouts.now.amagi.tv/playlist.m3u8
+Love_The_Planet_ES_(1080p)_[Geo-blocked],https://amg01821-lovetv-amg01821c9-rlaxx-gb-10458.playouts.now.amagi.tv/playlist.m3u8
+Love_The_Planet_IT_(1080p)_[Geo-blocked],https://amg01821-amg01821c11-rlaxx-gb-10459.playouts.now.amagi.tv/playlist.m3u8
+M95_Televisión_Marbella_(1080p)_[Not_24/7],https://limited2.todostreaming.es/live/m95-livestream.m3u8
+Maestrat_TV_(1080p),https://stream.maestrat.tv/hls/stream.m3u8
+Mar_TV_(1080p),http://iptv.services.everywan.net:8080/martv-web/video.m3u8
+Mataró_Televisió_(1080p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+Onda_15_TV_(224p),https://cloudvideo.servers10.com:8081/8034/index.m3u8
+Onda_Algeciras_TV_(576p),https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
+Onda_Cádiz_24h_(720p),https://ondacadiztv.es:30443/octv/24h/playlist.m3u8
+Onda_Madrid_(720p),https://tvradio-1-23-secure2.akamaized.net/master.m3u8
+Onda_Valencia_(720p),https://cloudvideo.servers10.com:8081/8116/index.m3u8
+Parlamento_de_Andalucía_(576p)_[Not_24/7],http://193.147.254.64:1935/realizacion1/realizacion1/playlist.m3u8
+Parlamento_de_Navarra_(368p)_[Not_24/7],https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8
+Penedès_Televisió_(1080p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+PTV_Córdoba_(1080p),https://streamer.zapitv.com/PTV_CORDOBA/index.m3u8
+PTV_Granada_(720p),https://streamer.zapitv.com/PTV-granada/index.m3u8
+PTV_Linares_(720p),https://streamer.zapitv.com/ptv-linarez/index.m3u8
+PTV_Málaga_(1080p),https://streamer.zapitv.com/PTV-malaga/index.m3u8
+PTV_Sevilla_(1080p),https://streamer.zapitv.com/PTV_sevilla/index.m3u8
+Punt_3_Vall_Uixó_(1080p),https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
+Ràdio_Bocairent_TV_(1080p)_[Not_24/7],http://185.81.77.4/BocairentTV/index.m3u8
+Radio_Carnaval_TV_(720p)_[Not_24/7],https://eu1.servers10.com:8081/8116/index.m3u8
+Rakuten_Viki_(1080p),https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
+Real_Madrid_TV_(404p),https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+Ribera_TV_(576p),https://common01.todostreaming.es/live/ribera-livestream.m3u8
+Rioja_Televisión_(360p)_[Not_24/7],https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8
+RTV_El_Vendrell_(1080p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+RTV_Marbella_(720p),https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8
+RTV_Vida_(1080p),https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+RTVC_Cardedeu_(1080p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+Tele_Elx_(1080p),https://tvdirecto.teleelx.es/stream/teleelx.m3u8
+Tele_Safor_(720p)_[Not_24/7],https://video.telesafor.com/hls/video.m3u8
+TeleBilbao_(384p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+Televisión_Aranda_(720p),https://cloud.streamingconnect.tv/hls/telearanda/telearanda.m3u8
+Televisión_Consciente_(1080p),https://cdn318.fractalmedia.es/318/live/hls/tvc/master.m3u8
+Trece_TV_(576p),https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/playlist.m3u8
+TV3_(1080p)_[Geo-blocked],https://directes3-tv-cat.3catdirectes.cat/live-content/tv3-hls/master.m3u8
+TV3CAT_(1080p)_[Geo-blocked],https://directes3-tv-es.3catdirectes.cat/live-content/tvc-hls/master.m3u8
+TV3CAT_Originals_(1080p),https://directes-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8
+TV_Almassora_(1080p),https://tvalmassora.com/hls/tvalmassora.m3u8
+TV_Artequatre_(576p),https://streaming007.gestec-video.com/hls/artequatreTVA.m3u8
+TV_Berguedà_(1080p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+Tv_Famypanc_HD_(1080p),https://panel.host-live.com:19360/8042/8042.m3u8
+TV_Girona_(1080p),http://ventdelnord.tv:8080/girona/directe.m3u8
+TV_L'Hospitalet_(1080p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+TV_Sabadell-Vallès_(1080p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+Ventdelnord_TV_(404p),http://ventdelnord.tv:8080/hls/directe.m3u8
+Vivamóvil_(720p),https://5d8d85cf2c308.streamlock.net:1936/AlcalaTV/endirecto/playlist.m3u8
+VOTV_(1080p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160

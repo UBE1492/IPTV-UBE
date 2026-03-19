@@ -1,0 +1,10 @@
+# List for **URUGUAY**
+
+> M3U: [uy.m3u](/uy.m3u), TXT: [uy.txt](/txt/uy.txt)
+
+| No. | Channel Name | From | Source |
+| --- | ------------ | ---- | ------ |
+| 1 | UCL (720p) | livedelta.cdn.antel.net.uy | <https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8> |
+| 2 | VIVO TV (1080p) | stream.vivotv.uy | <https://stream.vivotv.uy/hls/stream.m3u8> |
+
+Updated at **Thu Mar 19 2026 16:08:22 GMT-0500 (hora estándar de Perú)**
