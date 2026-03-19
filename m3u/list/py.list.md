@@ -26,4 +26,4 @@
 | 20 | Venus Media (720p) | rds3gen.desdeparaguay.net | <https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/.m3u8> |
 | 21 | Almaya TV (720p) | video.hostingcaaguazu.com:19360 | <https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8> |
 
-Updated at **Thu Mar 19 2026 16:03:32 GMT-0500 (hora estándar de Perú)**
+Updated at **Thu Mar 19 2026 16:08:22 GMT-0500 (hora estándar de Perú)**

@@ -120,7 +120,7 @@ async function processM3uSources() {
                             const catCount = Math.floor((catM3uLines.length - 1) / 2)
                             categoriesForJson.push({
                                 name: cat,
-                                m3u: `${url}/m3u/${sr.name}/${cat}.m3u`,
+                                m3u: `${url}/${sr.name}/${cat}.m3u`,
                                 count: catCount
                             })
                         }

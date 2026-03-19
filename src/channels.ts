@@ -56,12 +56,12 @@ export const updateChannelsJson = (
         countries: countryGroups,
         channels: sources?.map((source, idx) => ({
             name: source.name,
-            m3u: `${url}/m3u/${source.f_name}.m3u`,
+            m3u: `${url}/${source.f_name}.m3u`,
             count: sources_res?.[idx] ? sources_res[idx][1] : undefined,
         })),
         epgs: epgs?.map((epg) => ({
             name: epg.name,
-            epg: `${url}/m3u/epg/${epg.f_name}.xml`,
+            epg: `${url}/epg/${epg.f_name}.xml`,
         })),
         updated_at: new Date().getTime(),
     }

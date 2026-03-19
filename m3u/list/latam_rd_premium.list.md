@@ -153,4 +153,4 @@
 | 147 | WARNER HD | IPv4 直链 | <http://200.125.170.122:8000/play/a0a1/index.m3u8> |
 | 148 | ZooMoo | IPv4 直链 | <http://200.125.170.122:8000/play/a003/index.m3u8> |
 
-Updated at **Thu Mar 19 2026 16:03:29 GMT-0500 (hora estándar de Perú)**
+Updated at **Thu Mar 19 2026 16:08:21 GMT-0500 (hora estándar de Perú)**

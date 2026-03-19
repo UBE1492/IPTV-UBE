@@ -65,7 +65,7 @@ You can also use the services provided by Mirror Sites Matrix! See <https://m3u.
 | 51zmt.top cc | [51zmt_cc.xml](/epg/51zmt_cc.xml) | ✅ |
 | 51zmt.top difang | [51zmt_df.xml](/epg/51zmt_df.xml) | ✅ |
 
-Updated at **Thu Mar 19 2026 16:04:10 GMT-0500 (hora estándar de Perú)**
+Updated at **Thu Mar 19 2026 16:09:01 GMT-0500 (hora estándar de Perú)**
 
 See <https://m3u.ibert.me> to get more.
 
