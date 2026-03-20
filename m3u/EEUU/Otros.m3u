@@ -11,8 +11,6 @@ https://mediaserver.abnvideos.com/streams/abnafrica.m3u8
 https://mediaserver.abnvideos.com/streams/abnchina.m3u8
 #EXTINF:-1 tvg-id="",ABN Freedom of Speech
 https://mediaserver.abnvideos.com/streams/freedom_of_speech.m3u8
-#EXTINF:-1 tvg-id="",ABN I AM
-https://mediaserver.abnvideos.com/streams/i_am_.m3u8
 #EXTINF:-1 tvg-id="",ABN Son of God
 https://mediaserver.abnvideos.com/streams/son_of_god_.m3u8
 #EXTINF:-1 tvg-id="ABNUrdu.us@SD",ABN Urdu (540p)

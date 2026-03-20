@@ -1,0 +1,203 @@
+#EXTM3U
+#EXTINF:-1 group-title="Música",Chalaca
+https://conectperu.com:7041/stream?icy=http
+#EXTINF:-1 group-title="Música",Fama Sur (Tarata)
+https://sp.oyotunstream.com/9326/stream
+#EXTINF:-1 group-title="Música",Fidelisima
+https://st3.inkaniserver.net:8008/stream
+#EXTINF:-1 group-title="Música",Jazzcontempo
+http://conectperu.com:8048/stream.mp3
+#EXTINF:-1 group-title="Música",La voz de Oyotún
+https://sp.oyotunstream.com:10966/
+#EXTINF:-1 group-title="Música",Ovación (620 AM)
+https://5c3fb01839654.streamlock.net:1963/ipradioovacion1/liveovacion1radio/playlist.m3u8
+#EXTINF:-1 group-title="Música",Pachamama
+https://servidor14-2.brlogic.com:8744/live
+#EXTINF:-1 group-title="Música",Radiomar Plus 106.3 Lima
+http://playerservices.streamtheworld.com/m3u/CRP_MARAAC.m3u
+#EXTINF:-1 group-title="Música",Súper Vip
+https://rautemusik.stream38.radiohost.de/charthits?upd-meta&upd-scheme=https&_art=dD0xNzY2MzM0MDkzJmQ9NGI1YmYxYjkxNTQwYzk3YzJmYzM
+#EXTINF:-1 group-title="Música",Cadena Dance Perú
+https://sonic.streamingchilenos.com:8138
+#EXTINF:-1 group-title="Música",Codigo Binario
+http://streamingp.shoutcast.com/JamendoLounge?lang=*
+#EXTINF:-1 group-title="Música",Horizonte Tacna
+https://sp.oyotunstream.com:10928/
+#EXTINF:-1 group-title="Música",Jose Luis Perez Albela
+https://streaming.brol.tech/rtfmlounge
+#EXTINF:-1 group-title="Música",RBC La Estación
+https://dattavolt.com/8366/stream
+#EXTINF:-1 group-title="Música",New Age Notes
+https://das-edge11-live365-dal03.cdnstream.com/a55861
+#EXTINF:-1 group-title="Música",MJM Radyo
+https://mfm.ice.infomaniak.ch/mfm-128
+#EXTINF:-1 group-title="Música",Radioactiva
+https://st3.inkaniserver.net:8052/stream
+#EXTINF:-1 group-title="Música",Sound Play
+https://dattavolt.com/8180/stream
+#EXTINF:-1 group-title="Música",Nuevo Tiempo
+https://stream.live.novotempo.com/radio/smil:rntLimaPE.smil/playlist.m3u8
+#EXTINF:-1 group-title="Música",Mega Mix
+https://us-b4-p-e-ja16-audio.cdn.mdstrm.com/live-audio-aw/5fada56fe4e09508207a7951/playlist.m3u8?aid=5faaeb72f92d7b07dfe10181&pid=KAPGnghZWpzyhzRz16vvXmZm5LllufqJ&sid=mjVZ6XUsIv9WZABNdG3hwu78swilDQkH&uid=iFJhTiRFQbLeudNE5BIsAByIUGPIYkFj&es=us-b4-p-e-ja16-audio.cdn.mdstrm.com&ote=1766420318584&ot=F9AijgQ0TwMhSBe4l_20tw&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada56fe4e09508207a7951&listenerId=iFJhTiRFQbLeudNE5BIsAByIUGPIYkFj
+#EXTINF:-1 group-title="Música",Melodía
+https://stream.radiomelodia.com.pe:8000/radio.mp3
+#EXTINF:-1 group-title="Música",Doble Nueve - LIVE
+https://conectperu.com:7000/stream?icy=http
+#EXTINF:-1 group-title="Música",Rede
+https://dattavolt.com:7139/live
+#EXTINF:-1 group-title="Música",Independencia
+https://sonic.dattassd.com/8172/stream
+#EXTINF:-1 group-title="Música",La Inolvidable
+https://26643.live.streamtheworld.com/DISNEY_PER_LM_SC
+#EXTINF:-1 group-title="Música",Victoria
+https://radio.sistemasandinos.org:10961/
+#EXTINF:-1 group-title="Música",Ovación
+https://5c3fb01839654.streamlock.net:1963/ipradioovacion1/liveovacion1radio/chunklist_w1062074396.m3u8
+#EXTINF:-1 group-title="Música",Enmanuel
+https://conectperu.com/8220/stream
+#EXTINF:-1 group-title="Música",Yaraví
+https://tupanel.info:2000/stream/radioyaravi/stream
+#EXTINF:-1 group-title="Música",JR
+https://us-b4-p-e-jn18-audio.cdn.mdstrm.com/live-audio-aw/5fada553978fe1080e3ac5ea/playlist.m3u8?aid=5faaeb72f92d7b07dfe10181&pid=Ycyf9YJ4k2SVcJLYrQYz2SiNOG1l3FCP&sid=OZ9MHxNJqnI929V8wCymN7Vqm4PdVy6C&uid=xyqiGwBN7cqkUfH6gbGDi6l9A6MEUFOq&es=us-b4-p-e-jn18-audio.cdn.mdstrm.com&ote=1766420322018&ot=D0Y8b8qauNFzvC8bT4yYNg&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada553978fe1080e3ac5ea&listenerId=xyqiGwBN7cqkUfH6gbGDi6l9A6MEUFOq
+#EXTINF:-1 group-title="Música",Stereo 1
+https://cloudstream.oppublicidad.com/8026/stream
+#EXTINF:-1 group-title="Música",Remembranzas del Criollismo
+https://sonic.sistemahost.es:7045/stream.nsv
+#EXTINF:-1 group-title="Música",RadioDoki
+http://janus.shoutca.st:8972/stream
+#EXTINF:-1 group-title="Música",Filarmonia 102.7
+http://c22.radioboss.fm:8100/autodj
+#EXTINF:-1 group-title="Música",Kodama Station
+http://cast.kodamastation.com:8000/radio.mp3
+#EXTINF:-1 group-title="Música",BBN Peru
+https://audio-edge-5bkfj.fra.h.radiomast.io/475ebed1-595e-4717-b888-64fe8fc6b09f
+#EXTINF:-1 group-title="Música",La Mega
+http://us-b4-p-e-mg17-audio.cdn.mdstrm.com/live-audio-aw/5fada56fe4e09508207a7951?aid=5faaeb72f92d7b07dfe10181&pid=V0iJAODOeAwz4Qm2AO9RSPLODU0cM0tV&sid=Zv5scc6yx0JMxjepfB7Cosd7lxoFwUBX&uid=NSdKLxHKmu1PeZWlXu5E1r8mcFzpiRCd&es=us-b4-p-e-mg17-audio.cdn.mdstrm.com&ote=1766420354675&ot=yp7q47Y3svddqgFPH4TeHg&proto=http&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada56fe4e09508207a7951&listenerId=NSdKLxHKmu1PeZWlXu5E1r8mcFzpiRCd
+#EXTINF:-1 group-title="Música",RCC Lima
+https://radio.rcclima.org.pe/listen/rcc_lima/radio.mp3
+#EXTINF:-1 group-title="Música",AeroOnline
+https://conectperu.com:7025/stream
+#EXTINF:-1 group-title="Música",Doble Nueve
+https://conectperu.com:7000/stream
+#EXTINF:-1 group-title="Música",Doble Nueve  -  Heritage
+https://conectperu.com:7002/stream
+#EXTINF:-1 group-title="Música",Doble Nueve  -  Millennial
+https://conectperu.com:7001/stream
+#EXTINF:-1 group-title="Música",Fuego Mix
+http://radio.sistemasandinos.org:7166
+#EXTINF:-1 group-title="Música",Infosystem peru
+http://radio.sistemasandinos.org:7080/
+#EXTINF:-1 group-title="Música",Ovacion
+http://stream9.mexiserver.com:8242/
+#EXTINF:-1 group-title="Música",Doble Nueve - MILLENNIAL
+https://conectperu.com/8004/stream
+#EXTINF:-1 group-title="Música",Doble Nueve  -  HERITAGE
+https://conectperu.com/8006/stream
+#EXTINF:-1 group-title="Música",SuperStereo
+https://radio.pjcks.com/7230/stream
+#EXTINF:-1 group-title="Música",Super Amor
+https://envivo.top/ampliar-el-reinfo-favorece-mineria-ilegal-y-actividades-criminales/
+#EXTINF:-1 group-title="Música",EUFORIA PERUANA
+https://sp.oyotunstream.com:10969/
+#EXTINF:-1 group-title="Música",RADIO-SICUANI
+http://stm1.voxhdnet.com:7012/
+#EXTINF:-1 group-title="Música",Estereo Luz Celestial
+https://hd.streamingfullhd.net:7032/
+#EXTINF:-1 group-title="Música",La Ribereña
+https://sp.oyotunstream.com/9404/stream
+#EXTINF:-1 group-title="Música",Exitos del Pasado
+https://listen.radionomy.com/exitosdelpasadoplus.m3u
+#EXTINF:-1 group-title="Música",Neysan Plus – Trujillo – PE-LAL
+https://rr5100.globalhost1.com/8264/stream
+#EXTINF:-1 group-title="Música",Estéreo G La Grande – PE-LAM
+https://dattavolt.com/8132/stream
+#EXTINF:-1 group-title="Música",Fama Sur – PE
+http://oyotunstream.com:9326/stream
+#EXTINF:-1 group-title="Música",Fuego Mix – PE-ARE
+http://radio.sistemasandinos.org:7166/
+#EXTINF:-1 group-title="Música",Sentimiento Andino – Trujillo – PE-LAL
+https://rr5100.globalhost1.com/8572/stream
+#EXTINF:-1 group-title="Música",Nora Noryta – PE-LIM
+https://radioenlinea.click:8110/radio.mp3
+#EXTINF:-1 group-title="Música",La chismosa – Cachimayo – Cusco – PE
+http://puroradio.net:8002/stream.mp3
+#EXTINF:-1 group-title="Música",Remembranzas del Criollismo – PE
+https://sonic.sistemahost.es:7045
+#EXTINF:-1 group-title="Música",Estrella Supermercados – Camaná – PE-ARE
+https://streamingp.shoutcast.com/JamendoLounge?lang=*
+#EXTINF:-1 group-title="Música",RPM – Cuarto Poder – Yunguyo – PE-PUN
+https://radiosonline.one/listen/rpm/radio.mp3
+#EXTINF:-1 group-title="Música",Antena Sur Chincheros – Andahuaylas – PE-APU
+https://radio.perustream.com/8028/stream
+#EXTINF:-1 group-title="Música",Presencia Regional – PE-LAM
+https://dattavolt.com/8142/stream
+#EXTINF:-1 group-title="Música",Reina de la Selva – Chachapoyas – PE-AMA
+https://tupanel.info:8244/
+#EXTINF:-1 group-title="Música",Kodama Station – PE-LIM
+https://cast.kodamastation.com/radio/8000/radio.mp3
+#EXTINF:-1 group-title="Música",Rocio y Sus amigos – PE
+https://mx.hdaudiostreaming.com:7202
+#EXTINF:-1 group-title="Música",Samanta – PE-LIM
+https://listen.radionomy.com/samantalasenaljuvenil.m3u
+#EXTINF:-1 group-title="Música",W80 – PE
+https://sonic.portalfoxmix.club:7130/
+#EXTINF:-1 group-title="Música",Urbana – Huaraz – PE-ANC
+https://radio.sistemasandinos.org:10905/stream
+#EXTINF:-1 group-title="Música",Vida Nueva Radio, Trujillo
+https://fpsnew2.listen2myradio.com:2199/listen.php?ip=212.84.160.3\u0026port=8924\u0026type=s2\u0026mount=1
+#EXTINF:-1 group-title="Música",Studio 1
+https://sp.dattavolt.com:7049/stream.nsv
+#EXTINF:-1 group-title="Música",Libertad Online
+https://sechin.grupocentroserver.com/radio/8020/radio.mp3
+#EXTINF:-1 group-title="Música",KOOL FLASHBACK
+https://radio.sistemasandinos.org/7354/stream
+#EXTINF:-1 group-title="Música",JVM la Estación
+http://jvmlaestacion.stream.laut.fm/jvmlaestacion?t302=2025-12-21_16-30-24&uuid=2e45f943-3a82-4631-a394-c8b03b969aae
+#EXTINF:-1 group-title="Música",RPP Mundial
+https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/5faee885eb830d06cf22ed4a?aid=5faaeb72f92d7b07dfe10181&pid=y9eerynDMGplJvZGzhhhxeiGZQ8qxJ0x&sid=YwdhPDrccA5iNGXcasTljS59bjbzamjZ&uid=1zfBrEVff0K0jT1nL7yI2op7rxXgppL0&es=us-b4-p-e-pb13-audio.cdn.mdst
+#EXTINF:-1 group-title="Música",RPP Mundial (Perú)
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5faee885eb830d06cf22ed4a/playlist.m3u8?listeningSessionID=636caa560fe65225_1006885_YNhDxhXb__0000001B3Ny&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=4KOWgzZ9nfekeotUYauzmeKrOQfRCQma&sid=LhXvvJVKZUrLvqSvYiI4DFZ2YiVMf0Uw&pid=GhVrREycHyvqzg9XezY4IhgwwgiPzsgQ&ref=audioplayer.pe&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1669158810445&ot=-57RkzEDB4oSQczBsPKIMw&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&aw_0_1st.playerId=audioplayer_web&liveId=5faee885eb830d06cf22ed4a&referer=https%3A%2F%2Faudioplayer.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=v0.0.199
+#EXTINF:-1 group-title="Música",RPP Mundial (Check 25/11/2022)
+https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/5faee885eb830d06cf22ed4a
+#EXTINF:-1 group-title="Música",Jov
+https://panelautodj.innovatestream.pe:10993/stream?icy=http
+#EXTINF:-1 group-title="Música",Soy Kalle
+https://technoplayerserver.net:8180/stream
+#EXTINF:-1 group-title="Música",El Refugio Del Puma
+https://radio.perustreaming.net/8006/stream
+#EXTINF:-1 group-title="Música",PortalCumbia.PE
+https://conectperu.com:7159/stream?icy=http
+#EXTINF:-1 group-title="Música",CJ rad - 0 - Peru - classical
+https://conectperu.com/8012/stream
+#EXTINF:-1 group-title="Música",Studio Mix - Progreso -  Amazonas en Vivo - 0 - Peru -
+http://icy.unitedradio.it/SubasioPerUnOraDAmore.mp3
+#EXTINF:-1 group-title="Música" tvg-logo="https://radiostationslive.com/uploads/2024/01/88111.v18.png",Cita Romántica
+https://ec5.yesstreaming.net:1490/stream
+#EXTINF:-1 group-title="Música" tvg-logo="https://radiostationslive.com/uploads/2024/01/95190.v11.png",KISS FM, Cajamarca
+https://panelautodj.innovatestream.pe:10829/
+#EXTINF:-1 group-title="Música",Panamericana Salsa Power
+https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/6598b751261d9e088a6deadd?aid=658ddcc0b2c7835d48fee06d&pid=uub6n2bt1dwhexOjSNEg7p8MCnPDaai2&sid=kfEnteyb7IoMnp77gab1aIO1MW6UINCO&uid=wAcBfojJprgJqGUaozeubWjoEbrMuDw2&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1769973298831&ot=ij6mzyoZhTlqQmm4s-m5kA&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b751261d9e088a6deadd&listenerId=wAcBfojJprgJqGUaozeubWjoEbrMuDw2
+#EXTINF:-1 group-title="Música",Onda Cero Te Activa
+https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/6598b65ab398c90871aff8cc?aid=658ddcc0b2c7835d48fee06d&pid=pErBsQIKgMqbGUsc3CPjsGywZCcTjFMr&sid=BdR91dCdI1k6TIioStlCPesbYRddyJtJ&uid=uqjtqPFeTmM5V8LSP8or4JU490HBdCUm&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1769973300339&ot=lDW2j3mIGn2kMiI_NiMvEg&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b65ab398c90871aff8cc&listenerId=uqjtqPFeTmM5V8LSP8or4JU490HBdCUm
+#EXTINF:-1 group-title="Música",peru cumbia
+https://servistream.info:8330/stream
+#EXTINF:-1 group-title="Música",Melodia Arequipa
+http://stream.radiomelodia.com.pe:8000/radio.mp3
+#EXTINF:-1 group-title="Música",La Kalle 96.1 Lima
+https://lakalle.egostreaming.pe/radio/a7b9c3e4567f8d0123456789/
+#EXTINF:-1 group-title="Música",Karibeña
+https://karibena.egostreaming.pe/radio/6898b6e52d9e088a6de159/
+#EXTINF:-1 group-title="Música",RAM Cusco
+http://ramcusco.stream.laut.fm/ramcusco?t302=2026-01-15_01-10-35&uuid=aee0051b-f27d-4062-9145-3d93ea7887d1
+#EXTINF:-1 group-title="Música",JVM la Estación (Cusco)
+https://jvmlaestacion.stream.laut.fm/jvmlaestacion?t302=2026-01-15_04-34-56&uuid=09ed593b-f76a-4a34-98b6-daca2d17a37b
+#EXTINF:-1 group-title="Música",La Nube 91.9
+https://us-b4-p-e-jn18-audio.cdn.mdstrm.com/live-audio-aw/6598b70f86344b02b58ce836?aid=658ddcc0b2c7835d48fee06d&pid=DTtOkkApRjRrF1R30rDpTCAPMQhSmzVC&sid=BNJm9c1etdoUU31Rbf1CCNpARThqumbN&uid=TVUALP2vbc0HjX4eym2RooZIWFx9CNzn&es=us-b4-p-e-jn18-audio.cdn.mdstrm.com&ote=1769973304166&ot=Vf1OvCX1sBPVvx-BnfuS1w&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b70f86344b02b58ce836&listenerId=TVUALP2vbc0HjX4eym2RooZIWFx9CNzn
+#EXTINF:-1 group-title="Música",Filarmonía
+https://c22.radioboss.fm:8100/stream
+#EXTINF:-1 group-title="Música",Frecuencia 100 101.9
+https://sp.oyotunstream.com/7066/
+#EXTINF:-1 group-title="Música",Zona 5 93.3
+https://panel.innovatestream.pe:10975/stream
+#EXTINF:-1 group-title="Música",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3

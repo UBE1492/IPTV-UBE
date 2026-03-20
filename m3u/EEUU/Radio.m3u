@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="",ABN I AM
+https://mediaserver.abnvideos.com/streams/i_am_.m3u8
+#EXTINF:-1 tvg-id="BPXTVRadio.us@SD",BPX TV Radio
+https://video1.getstreamhosting.com:1936/8212/8212/playlist.m3u8
+#EXTINF:-1 tvg-id="",Toonami Aftermath Radio (480p)
+http://api.toonamiaftermath.com:3000/radio/playlist.m3u8
+#EXTINF:-1 tvg-id="WVCULP.us@SD",WVCU-LP Concord University Radio The Cure 97.7 (1080p)
+https://video1.getstreamhosting.com:1936/8152/8152/playlist.m3u8

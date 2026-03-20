@@ -42,6 +42,9 @@ You can also use the services provided by Mirror Sites Matrix! See <https://m3u.
 | vivemastv Peru | [v_pe.m3u](/v_pe.m3u) <br> [v_pe.txt](/txt/v_pe.txt) | [List for vivemastv Peru](/list/v_pe.list) | update failed | - |
 | LatAm Premium IPTV (179.1.87.75) | [latam_premium_iptv.m3u](/latam_premium_iptv.m3u) <br> [latam_premium_iptv.txt](/txt/latam_premium_iptv.txt) | [List for LatAm Premium IPTV (179.1.87.75)](/list/latam_premium_iptv.list) | update failed | - |
 | LatAm & RD Premium (200.125.170.122) | [latam_rd_premium.m3u](/latam_rd_premium.m3u) <br> [latam_rd_premium.txt](/txt/latam_rd_premium.txt) | [List for LatAm & RD Premium (200.125.170.122)](/list/latam_rd_premium.list) | update failed | - |
+| Peru Radios | [pe_radio.m3u](/pe_radio.m3u) <br> [pe_radio.txt](/txt/pe_radio.txt) | [List for Peru Radios](/list/pe_radio.list) | update failed | - |
+| Peru Radios (TDT) | [pe_radio_tdt.m3u](/pe_radio_tdt.m3u) <br> [pe_radio_tdt.txt](/txt/pe_radio_tdt.txt) | [List for Peru Radios (TDT)](/list/pe_radio_tdt.list) | update failed | - |
+| Peru Radios (org) | [pe_radio_org.m3u](/pe_radio_org.m3u) <br> [pe_radio_org.txt](/txt/pe_radio_org.txt) | [List for Peru Radios (org)](/list/pe_radio_org.list) | update failed | - |
 | PERU | [pe.m3u](/pe.m3u) <br> [pe.txt](/txt/pe.txt) | [List for PERU](/list/pe.list) | update failed | - |
 | ARGENTINA | [ar.m3u](/ar.m3u) <br> [ar.txt](/txt/ar.txt) | [List for ARGENTINA](/list/ar.list) | update failed | - |
 | CHILE | [cl.m3u](/cl.m3u) <br> [cl.txt](/txt/cl.txt) | [List for CHILE](/list/cl.list) | update failed | - |
@@ -61,11 +64,11 @@ You can also use the services provided by Mirror Sites Matrix! See <https://m3u.
 | --- | --- | ---------- |
 | 112114.xyz | [112114_xyz.xml](/epg/112114_xyz.xml) | - |
 | fanmingming/live | [fmml.xml](/epg/fmml.xml) | ✅ |
-| 51zmt.top | [51zmt.xml](/epg/51zmt.xml) | ✅ |
-| 51zmt.top cc | [51zmt_cc.xml](/epg/51zmt_cc.xml) | ✅ |
-| 51zmt.top difang | [51zmt_df.xml](/epg/51zmt_df.xml) | ✅ |
+| 51zmt.top | [51zmt.xml](/epg/51zmt.xml) | - |
+| 51zmt.top cc | [51zmt_cc.xml](/epg/51zmt_cc.xml) | - |
+| 51zmt.top difang | [51zmt_df.xml](/epg/51zmt_df.xml) | - |
 
-Updated at **Fri Mar 20 2026 13:09:01 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 20 2026 18:08:12 GMT+0000 (Coordinated Universal Time)**
 
 See <https://m3u.ibert.me> to get more.
 

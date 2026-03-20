@@ -6,4 +6,4 @@
 | --- | ------------ | ---- | ------ |
 | 1 | ESPN Deportes (360p) | e3.thetvapp.to | <https://e3.thetvapp.to/hls/espn-deportes/index.m3u8> |
 
-Updated at **Fri Mar 20 2026 13:08:30 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 20 2026 18:06:49 GMT+0000 (Coordinated Universal Time)**

@@ -27,8 +27,6 @@ http://38.250.127.17:9800/play/a05h/index.m3u8
 https://v2.tustreaming.cl/chiloered/index.m3u8
 #EXTINF:-1 tvg-id="Contivision.cl@SD",Contivision (720p)
 https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="DanceFM.cl@SD",Dance FM (720p)
-https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
 #EXTINF:-1 tvg-id="EGMChannel.cl@SD",EGM Channel (480p)
 https://paneltv.online:1936/8186/8186/playlist.m3u8
 #EXTINF:-1 tvg-id="EnerGeek.cl@SD",EnerGeek (720p) [Not 24/7]
