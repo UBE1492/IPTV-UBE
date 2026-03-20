@@ -7,6 +7,7 @@ export const CATEGORIES = [
     "Educativo",
     "Documentales",
     "Música",
+    "Radio",
     "Entretenimiento",
     "Cultura",
     "Religioso",
@@ -33,7 +34,8 @@ export const mapCategory = (name: string, groupTitle?: string): TCategory => {
     if (/(infantil|niño|kid|cartoon|disney|nick|discovery kids|junior|toons)/i.test(text)) return "Infantil";
     if (/(educativo|educa|aprende|learn|escuela)/i.test(text)) return "Educativo";
     if (/(documental|history|natgeo|discovery|bio|ciencia|exploration|investigacion)/i.test(text)) return "Documentales";
-    if (/(musica|music|mtv|vhr|concierto|radio|rock|pop|latino)/i.test(text)) return "Música";
+    if (/(^radio\s|\sradio$|\sradio\s|fm\s|\sam\s|\b\d{2,3}\.\.\d fm\b)/i.test(text)) return "Radio";
+    if (/(musica|music|mtv|vhr|concierto|rock|pop|latino)/i.test(text)) return "Música";
     if (/(cultura|arte|museum|historia|tradicion)/i.test(text)) return "Cultura";
     if (/(religioso|iglesia|catolico|cristiano|biblia|fe|espiritu|enlace|ewtn)/i.test(text)) return "Religioso";
     if (/(cocina|food|gourmet|chef|receta|comer)/i.test(text)) return "Cocina";

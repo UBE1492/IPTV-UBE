@@ -131,7 +131,7 @@ async function processM3uSources() {
                         categories: categoriesForJson
                     }
 
-                    const priority_countries = ["pe", "v_pe", "pe_premium", "pe_regionales", "pe_deporte"]
+                    const priority_countries = ["pe", "v_pe", "pe_premium", "pe_regionales", "pe_deporte", "pe_radio", "pe_radio_tdt", "pe_radio_org"]
                     if (priority_countries.includes(sr.f_name)) {
                         console.log(`[TASK] Verificando señales para ${sr.name}...`)
                         const [verified_m3u, live_count] = await verify_m3u_signals(m3u)

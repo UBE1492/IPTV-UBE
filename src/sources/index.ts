@@ -5,6 +5,7 @@ import { deporte_pe_sources as deporte_pe_sources_list } from "./deporte_pe"
 import { peru_main_sources as peru_main_sources_list } from "./peru_main"
 import { peru_premium_iptv_sources as peru_premium_iptv_sources_list } from "./peru_premium_iptv"
 import { latam_premium_iptv_sources as latam_premium_iptv_sources_list } from "./latam_premium_iptv"
+import { radio_pe_sources as radio_pe_sources_list } from "./radio_pe"
 import { country_sources } from "./countries"
 
 const vivemastv_sources = vivemastv_sources_list || []
@@ -13,6 +14,7 @@ const deporte_pe_sources = deporte_pe_sources_list || []
 const peru_main_sources = peru_main_sources_list || []
 const peru_premium_iptv_sources = peru_premium_iptv_sources_list || []
 const latam_premium_iptv_sources = latam_premium_iptv_sources_list || []
+const radio_pe_sources = radio_pe_sources_list || []
 
 export const sources = [
     ...peru_main_sources,
@@ -21,5 +23,6 @@ export const sources = [
     ...extra_pe_sources,
     ...vivemastv_sources,
     ...latam_premium_iptv_sources,
+    ...radio_pe_sources,
     ...country_sources
 ]
