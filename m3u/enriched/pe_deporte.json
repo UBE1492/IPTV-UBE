@@ -1,24 +1,18 @@
 {
   "name": "pe_deporte",
-  "updated_at": 1773973756045,
+  "updated_at": 1773990107752,
   "m3u": "https://ube1492.github.io/IPTV-UBE/pe_deporte.m3u",
   "channels": [
     {
-      "name": "ESPN 4",
-      "url": "http://179.1.87.75:8098/play/a0fu/index.m3u8",
-      "logo": "https://raw.githubusercontent.com/iptv-org/api/master/logos/ESPN4.ar.png",
+      "name": "Fox Sports 2",
+      "url": "http://179.1.87.75:8098/play/a0fg/index.m3u8",
+      "logo": "https://raw.githubusercontent.com/iptv-org/api/master/logos/FoxSports2.ar.png",
       "category": "Deportes"
     },
     {
       "name": "Fox Sports 3",
       "url": "http://179.1.87.75:8098/play/a0fh/index.m3u8",
       "logo": "https://raw.githubusercontent.com/iptv-org/api/master/logos/FoxSports3.ar.png",
-      "category": "Deportes"
-    },
-    {
-      "name": "Fox Sports 2",
-      "url": "http://179.1.87.75:8098/play/a0fg/index.m3u8",
-      "logo": "https://raw.githubusercontent.com/iptv-org/api/master/logos/FoxSports2.ar.png",
       "category": "Deportes"
     },
     {
@@ -34,6 +28,18 @@
       "category": "Deportes"
     },
     {
+      "name": "ESPN 4",
+      "url": "http://179.1.87.75:8098/play/a0fu/index.m3u8",
+      "logo": "https://raw.githubusercontent.com/iptv-org/api/master/logos/ESPN4.ar.png",
+      "category": "Deportes"
+    },
+    {
+      "name": "LIGA 1 MAX DECO (1080p)",
+      "url": "http://38.224.73.146:8000/play/a0vu/index.m3u8",
+      "logo": "https://raw.githubusercontent.com/iptv-org/api/master/logos/L1MAX.pe.png",
+      "category": "Deportes"
+    },
+    {
       "name": "L1 MAX HD (Op 1)",
       "url": "http://38.224.73.146:8000/play/a0vx/index.m3u8",
       "logo": "https://raw.githubusercontent.com/iptv-org/api/master/logos/L1MAX.pe.png",
@@ -46,8 +52,8 @@
       "category": "Deportes"
     },
     {
-      "name": "LIGA 1 MAX DECO (1080p)",
-      "url": "http://38.224.73.146:8000/play/a0vu/index.m3u8",
+      "name": "LIGA 1 MAX (Op 4)",
+      "url": "http://38.210.3.64:8090/play/a0nn/index.m3u8",
       "logo": "https://raw.githubusercontent.com/iptv-org/api/master/logos/L1MAX.pe.png",
       "category": "Deportes"
     },
@@ -62,32 +68,20 @@
       "url": "http://38.224.73.146:8000/play/a1fs/index.m3u8",
       "logo": "https://raw.githubusercontent.com/iptv-org/api/master/logos/GolPerú.pe.png",
       "category": "Deportes"
-    },
-    {
-      "name": "LIGA 1 MAX (Op 4)",
-      "url": "http://38.210.3.64:8090/play/a0nn/index.m3u8",
-      "logo": "https://raw.githubusercontent.com/iptv-org/api/master/logos/L1MAX.pe.png",
-      "category": "Deportes"
     }
   ],
   "categories": {
     "Deportes": [
       {
-        "name": "ESPN 4",
-        "url": "http://179.1.87.75:8098/play/a0fu/index.m3u8",
-        "logo": "https://raw.githubusercontent.com/iptv-org/api/master/logos/ESPN4.ar.png",
+        "name": "Fox Sports 2",
+        "url": "http://179.1.87.75:8098/play/a0fg/index.m3u8",
+        "logo": "https://raw.githubusercontent.com/iptv-org/api/master/logos/FoxSports2.ar.png",
         "category": "Deportes"
       },
       {
         "name": "Fox Sports 3",
         "url": "http://179.1.87.75:8098/play/a0fh/index.m3u8",
         "logo": "https://raw.githubusercontent.com/iptv-org/api/master/logos/FoxSports3.ar.png",
-        "category": "Deportes"
-      },
-      {
-        "name": "Fox Sports 2",
-        "url": "http://179.1.87.75:8098/play/a0fg/index.m3u8",
-        "logo": "https://raw.githubusercontent.com/iptv-org/api/master/logos/FoxSports2.ar.png",
         "category": "Deportes"
       },
       {
@@ -103,6 +97,18 @@
         "category": "Deportes"
       },
       {
+        "name": "ESPN 4",
+        "url": "http://179.1.87.75:8098/play/a0fu/index.m3u8",
+        "logo": "https://raw.githubusercontent.com/iptv-org/api/master/logos/ESPN4.ar.png",
+        "category": "Deportes"
+      },
+      {
+        "name": "LIGA 1 MAX DECO (1080p)",
+        "url": "http://38.224.73.146:8000/play/a0vu/index.m3u8",
+        "logo": "https://raw.githubusercontent.com/iptv-org/api/master/logos/L1MAX.pe.png",
+        "category": "Deportes"
+      },
+      {
         "name": "L1 MAX HD (Op 1)",
         "url": "http://38.224.73.146:8000/play/a0vx/index.m3u8",
         "logo": "https://raw.githubusercontent.com/iptv-org/api/master/logos/L1MAX.pe.png",
@@ -115,8 +121,8 @@
         "category": "Deportes"
       },
       {
-        "name": "LIGA 1 MAX DECO (1080p)",
-        "url": "http://38.224.73.146:8000/play/a0vu/index.m3u8",
+        "name": "LIGA 1 MAX (Op 4)",
+        "url": "http://38.210.3.64:8090/play/a0nn/index.m3u8",
         "logo": "https://raw.githubusercontent.com/iptv-org/api/master/logos/L1MAX.pe.png",
         "category": "Deportes"
       },
@@ -130,12 +136,6 @@
         "name": "GOLPERU",
         "url": "http://38.224.73.146:8000/play/a1fs/index.m3u8",
         "logo": "https://raw.githubusercontent.com/iptv-org/api/master/logos/GolPerú.pe.png",
-        "category": "Deportes"
-      },
-      {
-        "name": "LIGA 1 MAX (Op 4)",
-        "url": "http://38.210.3.64:8090/play/a0nn/index.m3u8",
-        "logo": "https://raw.githubusercontent.com/iptv-org/api/master/logos/L1MAX.pe.png",
         "category": "Deportes"
       }
     ]
