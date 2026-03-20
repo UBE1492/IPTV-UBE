@@ -60,5 +60,6 @@
 | 54 | UTV (720p) | v2.tustreaming.cl | <https://v2.tustreaming.cl/utv/index.m3u8> |
 | 55 | V Classic TV (720p) | 5eaccbab48461.streamlock.net:1936 | <https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8> |
 | 56 | VC Online (720p) | panel.tvstream.cl:1936 | <https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8> |
+| 57 | LTV (2160p) [Not 24/7] | live.cdnlivecdn.com | <https://live.cdnlivecdn.com/live/c9fe062eed2978749aa00df6485940d298449f5e.m3u8> |
 
-Updated at **Thu Mar 19 2026 21:12:45 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 20 2026 02:29:16 GMT+0000 (Coordinated Universal Time)**

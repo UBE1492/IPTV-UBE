@@ -1,6 +1,6 @@
 {
   "name": "cl",
-  "updated_at": 1773954765420,
+  "updated_at": 1773973756010,
   "m3u": "https://ube1492.github.io/IPTV-UBE/cl.m3u",
   "channels": [
     {
@@ -347,7 +347,7 @@
     },
     {
       "name": "Vision Plus TV (1080i)",
-      "url": "",
+      "url": "#EXTINF:-1 tvg-id=\"LTV.cl@SD\",LTV (2160p) [Not 24/7]",
       "logo": "",
       "category": "Otros",
       "options": {
@@ -701,7 +701,7 @@
       },
       {
         "name": "Vision Plus TV (1080i)",
-        "url": "",
+        "url": "#EXTINF:-1 tvg-id=\"LTV.cl@SD\",LTV (2160p) [Not 24/7]",
         "logo": "",
         "category": "Otros",
         "options": {
