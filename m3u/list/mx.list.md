@@ -71,4 +71,4 @@
 | 65 | Visión Televisión (720p) | cloudvideo.servers10.com:8081 | <https://cloudvideo.servers10.com:8081/8016/index.m3u8> |
 | 66 | ZAZ (1080p) | cloud.fastchannel.es | <https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8> |
 
-Updated at **Fri Mar 20 2026 07:01:48 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 20 2026 13:08:31 GMT+0000 (Coordinated Universal Time)**
