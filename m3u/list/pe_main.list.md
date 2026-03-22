@@ -20,4 +20,4 @@
 | 14 | TV PERU NOTICIAS WEB | IPv4 直链 | <http://38.224.73.146:8000/play/a1fr/index.m3u8> |
 | 15 | WILLAX DECO | IPv4 直链 | <http://38.224.73.146:8000/play/a1dl/index.m3u8> |
 
-Updated at **Sun Mar 22 2026 06:57:19 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Mar 22 2026 13:00:32 GMT+0000 (Coordinated Universal Time)**

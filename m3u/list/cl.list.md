@@ -62,4 +62,4 @@
 | 56 | VC Online (720p) | panel.tvstream.cl:1936 | <https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8> |
 | 57 | LTV (2160p) [Not 24/7] | live.cdnlivecdn.com | <https://live.cdnlivecdn.com/live/c9fe062eed2978749aa00df6485940d298449f5e.m3u8> |
 
-Updated at **Sun Mar 22 2026 06:57:21 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Mar 22 2026 13:00:33 GMT+0000 (Coordinated Universal Time)**

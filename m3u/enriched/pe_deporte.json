@@ -1,6 +1,6 @@
 {
   "name": "pe_deporte",
-  "updated_at": 1774162640553,
+  "updated_at": 1774184432898,
   "m3u": "https://ube1492.github.io/IPTV-UBE/pe_deporte.m3u",
   "channels": [
     {
@@ -34,12 +34,6 @@
       "category": "Deportes"
     },
     {
-      "name": "LIGA 1 MAX (Op 4)",
-      "url": "http://38.210.3.64:8090/play/a0nn/index.m3u8",
-      "logo": "https://raw.githubusercontent.com/iptv-org/api/master/logos/L1MAX.pe.png",
-      "category": "Deportes"
-    },
-    {
       "name": "L1 MAX HD (Op 1)",
       "url": "http://38.224.73.146:8000/play/a0vx/index.m3u8",
       "logo": "https://raw.githubusercontent.com/iptv-org/api/master/logos/L1MAX.pe.png",
@@ -58,15 +52,21 @@
       "category": "Deportes"
     },
     {
-      "name": "Movistar Deportes",
-      "url": "http://38.224.73.146:8000/play/a1gl/index.m3u8",
-      "logo": "https://raw.githubusercontent.com/iptv-org/api/master/logos/MovistarDeportes.pe.png",
+      "name": "LIGA 1 MAX (Op 4)",
+      "url": "http://38.210.3.64:8090/play/a0nn/index.m3u8",
+      "logo": "https://raw.githubusercontent.com/iptv-org/api/master/logos/L1MAX.pe.png",
       "category": "Deportes"
     },
     {
       "name": "GOLPERU",
       "url": "http://38.224.73.146:8000/play/a1fs/index.m3u8",
       "logo": "https://raw.githubusercontent.com/iptv-org/api/master/logos/GolPerú.pe.png",
+      "category": "Deportes"
+    },
+    {
+      "name": "Movistar Deportes",
+      "url": "http://38.224.73.146:8000/play/a1gl/index.m3u8",
+      "logo": "https://raw.githubusercontent.com/iptv-org/api/master/logos/MovistarDeportes.pe.png",
       "category": "Deportes"
     }
   ],
@@ -103,12 +103,6 @@
         "category": "Deportes"
       },
       {
-        "name": "LIGA 1 MAX (Op 4)",
-        "url": "http://38.210.3.64:8090/play/a0nn/index.m3u8",
-        "logo": "https://raw.githubusercontent.com/iptv-org/api/master/logos/L1MAX.pe.png",
-        "category": "Deportes"
-      },
-      {
         "name": "L1 MAX HD (Op 1)",
         "url": "http://38.224.73.146:8000/play/a0vx/index.m3u8",
         "logo": "https://raw.githubusercontent.com/iptv-org/api/master/logos/L1MAX.pe.png",
@@ -127,15 +121,21 @@
         "category": "Deportes"
       },
       {
-        "name": "Movistar Deportes",
-        "url": "http://38.224.73.146:8000/play/a1gl/index.m3u8",
-        "logo": "https://raw.githubusercontent.com/iptv-org/api/master/logos/MovistarDeportes.pe.png",
+        "name": "LIGA 1 MAX (Op 4)",
+        "url": "http://38.210.3.64:8090/play/a0nn/index.m3u8",
+        "logo": "https://raw.githubusercontent.com/iptv-org/api/master/logos/L1MAX.pe.png",
         "category": "Deportes"
       },
       {
         "name": "GOLPERU",
         "url": "http://38.224.73.146:8000/play/a1fs/index.m3u8",
         "logo": "https://raw.githubusercontent.com/iptv-org/api/master/logos/GolPerú.pe.png",
+        "category": "Deportes"
+      },
+      {
+        "name": "Movistar Deportes",
+        "url": "http://38.224.73.146:8000/play/a1gl/index.m3u8",
+        "logo": "https://raw.githubusercontent.com/iptv-org/api/master/logos/MovistarDeportes.pe.png",
         "category": "Deportes"
       }
     ]
