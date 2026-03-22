@@ -7,5 +7,6 @@
 | 1 | Radio Master (720p) | videoserver.tmcreativos.com:19360 | <https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8> |
 | 2 | Radio Tropical Tarapoto (480p) [Not 24/7] | videoserver.tmcreativos.com:19360 | <https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8> |
 | 3 | La Fabulosa Radio y TV | eu1.servers10.com:8081 | <https://eu1.servers10.com:8081/8004/index.m3u8> |
+| 4 | Turbo Mix Radio TV (360p) [Not 24/7] | 7.innovatestream.pe:19360 | <https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8> |
 
-Updated at **Sun Mar 22 2026 13:00:36 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Mar 22 2026 18:42:49 GMT+0000 (Coordinated Universal Time)**

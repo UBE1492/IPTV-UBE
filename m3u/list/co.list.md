@@ -51,4 +51,4 @@
 | 45 | UMC TV (720p) | streaming5.globalhostla.com | <https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8> |
 | 46 | Vive TV Colombia (1080p) | IPv4 直链 | <http://192.144.113.132:1935/live/ViveTV/playlist.m3u8> |
 
-Updated at **Sun Mar 22 2026 13:00:33 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Mar 22 2026 18:42:48 GMT+0000 (Coordinated Universal Time)**
