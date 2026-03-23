@@ -61,4 +61,4 @@
 | 55 | Disney Channel Latin America (1080p) | IPv4 直链 | <http://201.230.121.186:8000/play/a0fb/index.m3u8> |
 | 56 | El Trece (1080p) | live-01-02-eltrece.vodgc.net | <https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8> |
 
-Updated at **Sun Mar 22 2026 18:42:47 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Mar 23 2026 02:38:37 GMT+0000 (Coordinated Universal Time)**

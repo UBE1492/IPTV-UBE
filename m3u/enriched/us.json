@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1774204968012,
+  "updated_at": 1774233519008,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -717,12 +717,6 @@
     {
       "name": "The Now Network (480p) [Not 24/7]",
       "url": "https://mediaprod1.nowcast.cc:5443/LiveApp/streams/anZPy7eaVWLyDMZB1697488814699.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "The Q India (1080p)",
-      "url": "https://vg-theqlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-306905/main.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -2304,12 +2298,6 @@
       {
         "name": "The Now Network (480p) [Not 24/7]",
         "url": "https://mediaprod1.nowcast.cc:5443/LiveApp/streams/anZPy7eaVWLyDMZB1697488814699.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "The Q India (1080p)",
-        "url": "https://vg-theqlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-306905/main.m3u8",
         "logo": "",
         "category": "Otros"
       },

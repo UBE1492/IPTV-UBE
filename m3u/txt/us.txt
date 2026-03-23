@@ -119,7 +119,6 @@ The_First_TV_(1080p),https://thefirst-oando.amagi.tv/playlist.m3u8
 The_Library_Channel_TV18_(360p),https://reflect-memphis.cablecast.tv/live-2/live/live.m3u8
 The_Nest,https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
 The_Now_Network_(480p)_[Not_24/7],https://mediaprod1.nowcast.cc:5443/LiveApp/streams/anZPy7eaVWLyDMZB1697488814699.m3u8
-The_Q_India_(1080p),https://vg-theqlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-306905/main.m3u8
 The_Shopping_Channel_(720p),https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 The_Southeastern_Channel_(540p),http://147.174.13.196/live/live.m3u8
 The_Walk_TV_(720p),https://cdn-unified-hls.streamspot.com/ingest1/8b0796adaf/playlist.m3u8?origin=1
