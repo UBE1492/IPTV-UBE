@@ -1,6 +1,6 @@
 {
   "name": "pe_main",
-  "updated_at": 1774358584088,
+  "updated_at": 1774379358936,
   "m3u": "https://ube1492.github.io/IPTV-UBE/pe_main.m3u",
   "channels": [
     {
@@ -11,7 +11,7 @@
     },
     {
       "name": "America TV HD",
-      "url": "http://38.224.73.146:8000/play/a189/index.m3u8",
+      "url": "http://38.224.73.146:8000/play/a0y1/index.m3u8",
       "logo": "",
       "category": "Entretenimiento"
     },
@@ -104,7 +104,7 @@
       },
       {
         "name": "America TV HD",
-        "url": "http://38.224.73.146:8000/play/a189/index.m3u8",
+        "url": "http://38.224.73.146:8000/play/a0y1/index.m3u8",
         "logo": "",
         "category": "Entretenimiento"
       },

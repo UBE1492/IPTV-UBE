@@ -21,7 +21,7 @@
 | 15 | AXN HD | IPv4 直链 | <http://38.224.73.146:8000/play/a193/index.m3u8> |
 | 16 | Abya Yala Tv | IPv4 直链 | <http://38.224.73.146:8000/play/a1el/index.m3u8> |
 | 17 | Adult Swim | IPv4 直链 | <http://38.224.73.146:8000/play/a1cc/index.m3u8> |
-| 18 | America TV HD | IPv4 直链 | <http://38.224.73.146:8000/play/a189/index.m3u8> |
+| 18 | America TV HD | IPv4 直链 | <http://38.224.73.146:8000/play/a0y1/index.m3u8> |
 | 19 | Animal Planet HD | IPv4 直链 | <http://38.224.73.146:8000/play/a18y/index.m3u8> |
 | 20 | Antena 3 | IPv4 直链 | <http://38.224.73.146:8000/play/a167/index.m3u8> |
 | 21 | Atres Series | IPv4 直链 | <http://38.224.73.146:8000/play/a1fb/index.m3u8> |
@@ -69,7 +69,7 @@
 | 63 | Disney Junior | IPv4 直链 | <http://38.224.73.146:8000/play/a12i/index.m3u8> |
 | 64 | Distrito Comedia | IPv4 直链 | <http://38.224.73.146:8000/play/a17v/index.m3u8> |
 | 65 | E! Entertainment TV | IPv4 直链 | <http://38.224.73.146:8000/play/a1c5/index.m3u8> |
-| 66 | ESPN 2 HD | IPv4 直链 | <http://38.224.73.146:8000/play/a1bg/index.m3u8> |
+| 66 | ESPN 2 HD | IPv4 直链 | <http://38.224.73.146:8000/play/a1h3/index.m3u8> |
 | 67 | ESPN 2 HD DECO | IPv4 直链 | <http://38.224.73.146:8000/play/a1es/index.m3u8> |
 | 68 | ESPN 3 HD | IPv4 直链 | <http://38.224.73.146:8000/play/a1by/index.m3u8> |
 | 69 | ESPN 4 HD | IPv4 直链 | <http://38.224.73.146:8000/play/a1b7/index.m3u8> |
@@ -77,9 +77,9 @@
 | 71 | ESPN 5 HD | IPv4 直链 | <http://38.224.73.146:8000/play/a1bt/index.m3u8> |
 | 72 | ESPN 6 HD | IPv4 直链 | <http://38.224.73.146:8000/play/a1bo/index.m3u8> |
 | 73 | ESPN 7HD | IPv4 直链 | <http://38.224.73.146:8000/play/a191/index.m3u8> |
-| 74 | ESPN HD | IPv4 直链 | <http://38.224.73.146:8000/play/a10u/index.m3u8> |
+| 74 | ESPN HD | IPv4 直链 | <http://38.224.73.146:8000/play/a1g8/index.m3u8> |
 | 75 | ESPN HD DECO | IPv4 直链 | <http://38.224.73.146:8000/play/a1er/index.m3u8> |
-| 76 | ESPN Premium HD | IPv4 直链 | <http://38.224.73.146:8000/play/a0zr/index.m3u8> |
+| 76 | ESPN Premium HD | IPv4 直链 | <http://38.224.73.146:8000/play/a1bj/index.m3u8> |
 | 77 | ETC | IPv4 直链 | <http://38.224.73.146:8000/play/a1bk/index.m3u8> |
 | 78 | EWTN | IPv4 直链 | <http://38.224.73.146:8000/play/a1ca/index.m3u8> |
 | 79 | EXITOSA | IPv4 直链 | <http://38.224.73.146:8000/play/a1fn/index.m3u8> |
@@ -178,7 +178,7 @@
 | 172 | Sun Channel HD | IPv4 直链 | <http://38.224.73.146:8000/play/a198/index.m3u8> |
 | 173 | TCM | IPv4 直链 | <http://38.224.73.146:8000/play/a1dc/index.m3u8> |
 | 174 | TLC | IPv4 直链 | <http://38.224.73.146:8000/play/a1ax/index.m3u8> |
-| 175 | TNT HD | IPv4 直链 | <http://38.224.73.146:8000/play/a0mg/index.m3u8> |
+| 175 | TNT HD | IPv4 直链 | <http://38.224.73.146:8000/play/a1b2/index.m3u8> |
 | 176 | TNT Novelas HD | IPv4 直链 | <http://38.224.73.146:8000/play/a19e/index.m3u8> |
 | 177 | TNT SPORTS | IPv4 直链 | <http://38.224.73.146:8000/play/a1bl/index.m3u8> |
 | 178 | TNT Series HD | IPv4 直链 | <http://38.224.73.146:8000/play/a1bv/index.m3u8> |
@@ -209,4 +209,4 @@
 | 203 | WILLAX DECO | IPv4 直链 | <http://38.224.73.146:8000/play/a1dl/index.m3u8> |
 | 204 | Warner TV HD | IPv4 直链 | <http://38.224.73.146:8000/play/a1b4/index.m3u8> |
 
-Updated at **Tue Mar 24 2026 13:23:04 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Mar 24 2026 19:09:18 GMT+0000 (Coordinated Universal Time)**

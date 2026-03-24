@@ -1,6 +1,6 @@
 {
   "name": "pe_premium_iptv",
-  "updated_at": 1774358584083,
+  "updated_at": 1774379358941,
   "m3u": "https://ube1492.github.io/IPTV-UBE/pe_premium_iptv.m3u",
   "channels": [
     {
@@ -107,7 +107,7 @@
     },
     {
       "name": "America TV HD",
-      "url": "http://38.224.73.146:8000/play/a189/index.m3u8",
+      "url": "http://38.224.73.146:8000/play/a0y1/index.m3u8",
       "logo": "",
       "category": "Peru Premium"
     },
@@ -395,7 +395,7 @@
     },
     {
       "name": "ESPN 2 HD",
-      "url": "http://38.224.73.146:8000/play/a1bg/index.m3u8",
+      "url": "http://38.224.73.146:8000/play/a1h3/index.m3u8",
       "logo": "",
       "category": "Peru Premium"
     },
@@ -443,7 +443,7 @@
     },
     {
       "name": "ESPN HD",
-      "url": "http://38.224.73.146:8000/play/a10u/index.m3u8",
+      "url": "http://38.224.73.146:8000/play/a1g8/index.m3u8",
       "logo": "",
       "category": "Peru Premium"
     },
@@ -455,7 +455,7 @@
     },
     {
       "name": "ESPN Premium HD",
-      "url": "http://38.224.73.146:8000/play/a0zr/index.m3u8",
+      "url": "http://38.224.73.146:8000/play/a1bj/index.m3u8",
       "logo": "",
       "category": "Peru Premium"
     },
@@ -1049,7 +1049,7 @@
     },
     {
       "name": "TNT HD",
-      "url": "http://38.224.73.146:8000/play/a0mg/index.m3u8",
+      "url": "http://38.224.73.146:8000/play/a1b2/index.m3u8",
       "logo": "",
       "category": "Peru Premium"
     },
@@ -1334,7 +1334,7 @@
       },
       {
         "name": "America TV HD",
-        "url": "http://38.224.73.146:8000/play/a189/index.m3u8",
+        "url": "http://38.224.73.146:8000/play/a0y1/index.m3u8",
         "logo": "",
         "category": "Peru Premium"
       },
@@ -1622,7 +1622,7 @@
       },
       {
         "name": "ESPN 2 HD",
-        "url": "http://38.224.73.146:8000/play/a1bg/index.m3u8",
+        "url": "http://38.224.73.146:8000/play/a1h3/index.m3u8",
         "logo": "",
         "category": "Peru Premium"
       },
@@ -1670,7 +1670,7 @@
       },
       {
         "name": "ESPN HD",
-        "url": "http://38.224.73.146:8000/play/a10u/index.m3u8",
+        "url": "http://38.224.73.146:8000/play/a1g8/index.m3u8",
         "logo": "",
         "category": "Peru Premium"
       },
@@ -1682,7 +1682,7 @@
       },
       {
         "name": "ESPN Premium HD",
-        "url": "http://38.224.73.146:8000/play/a0zr/index.m3u8",
+        "url": "http://38.224.73.146:8000/play/a1bj/index.m3u8",
         "logo": "",
         "category": "Peru Premium"
       },
@@ -2276,7 +2276,7 @@
       },
       {
         "name": "TNT HD",
-        "url": "http://38.224.73.146:8000/play/a0mg/index.m3u8",
+        "url": "http://38.224.73.146:8000/play/a1b2/index.m3u8",
         "logo": "",
         "category": "Peru Premium"
       },

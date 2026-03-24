@@ -5,7 +5,7 @@
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
 | 1 | ATV HD WEB | IPv4 直链 | <http://38.224.73.146:8000/play/a1ft/index.m3u8> |
-| 2 | America TV HD | IPv4 直链 | <http://38.224.73.146:8000/play/a189/index.m3u8> |
+| 2 | America TV HD | IPv4 直链 | <http://38.224.73.146:8000/play/a0y1/index.m3u8> |
 | 3 | CANAL IPE WEB | IPv4 直链 | <http://38.224.73.146:8000/play/a1fx/index.m3u8> |
 | 4 | EXITOSA | IPv4 直链 | <http://38.224.73.146:8000/play/a1fn/index.m3u8> |
 | 5 | GLOBAL HD DECO | IPv4 直链 | <http://38.224.73.146:8000/play/a1ev/index.m3u8> |
@@ -20,4 +20,4 @@
 | 14 | TV PERU NOTICIAS WEB | IPv4 直链 | <http://38.224.73.146:8000/play/a1fr/index.m3u8> |
 | 15 | WILLAX DECO | IPv4 直链 | <http://38.224.73.146:8000/play/a1dl/index.m3u8> |
 
-Updated at **Tue Mar 24 2026 13:23:04 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Mar 24 2026 19:09:18 GMT+0000 (Coordinated Universal Time)**

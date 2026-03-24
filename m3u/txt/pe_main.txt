@@ -1,6 +1,6 @@
 Entretenimiento,#genre#
 ATV_HD_WEB,http://38.224.73.146:8000/play/a1ft/index.m3u8
-America_TV_HD,http://38.224.73.146:8000/play/a189/index.m3u8
+America_TV_HD,http://38.224.73.146:8000/play/a0y1/index.m3u8
 CANAL_IPE_WEB,http://38.224.73.146:8000/play/a1fx/index.m3u8
 GLOBAL_HD_DECO,http://38.224.73.146:8000/play/a1ev/index.m3u8
 LA_TELE_HD_DECO,http://38.224.73.146:8000/play/a0vw/index.m3u8
