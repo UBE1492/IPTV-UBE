@@ -1,6 +1,6 @@
 {
   "name": "co",
-  "updated_at": 1774292494951,
+  "updated_at": 1774319399163,
   "m3u": "https://ube1492.github.io/IPTV-UBE/co.m3u",
   "channels": [
     {
@@ -139,7 +139,7 @@
       "category": "Otros"
     },
     {
-      "name": "Citytv Bogota",
+      "name": "Citytv Bogota (1080p)",
       "url": "http://181.114.57.246:4000/play/u2H4dIJoRipgGI3A/index.m3u8",
       "logo": "",
       "category": "Otros"
@@ -445,7 +445,7 @@
         "category": "Otros"
       },
       {
-        "name": "Citytv Bogota",
+        "name": "Citytv Bogota (1080p)",
         "url": "http://181.114.57.246:4000/play/u2H4dIJoRipgGI3A/index.m3u8",
         "logo": "",
         "category": "Otros"

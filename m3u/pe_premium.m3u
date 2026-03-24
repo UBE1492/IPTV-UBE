@@ -1,111 +1,99 @@
 #EXTM3U
-#EXTINF:-1,Willax
-http://45.177.21.6:9000/play/a02j
+#EXTINF:-1,America Television
+http://45.177.21.6:9000/play/a003
 #EXTINF:-1,Exitosa
 http://45.177.21.6:9000/play/a007
+#EXTINF:-1,Willax
+http://45.177.21.6:9000/play/a02j
 #EXTINF:-1,Panamericana
 http://45.177.21.6:9000/play/a004
 #EXTINF:-1,Canal N
 http://8.243.126.131:8000/play/a058/index.m3u8
-#EXTINF:-1,America Television
-http://45.177.21.6:9000/play/a003
-#EXTINF:-1,Latina
-http://179.63.6.12:9000/play/a00f
-#EXTINF:-1,TV Peru
-http://179.63.6.12:9000/play/a05q
-#EXTINF:-1,ATV
-http://179.63.6.12:9000/play/a02q
-#EXTINF:-1,ATV+
-http://179.63.6.12:9000/play/a01j
 #EXTINF:-1,Movistar Deportes
 http://190.108.89.228:8000/play/a0cl/index.m3u8
 #EXTINF:-1,Global
 http://45.177.21.6:9000/play/a009
 #EXTINF:-1,ATV Sur
 http://201.218.140.30:9000/play/a087
-#EXTINF:-1,Justicia TV
-http://179.63.6.12:9000/play/a00v
-#EXTINF:-1,PBO
-http://191.97.61.32:8000/play/a04w/index.m3u8
-#EXTINF:-1,L1 Max
-http://186.148.196.82:8001/play/ligamax1
-#EXTINF:-1,Latina Clasicos
-http://201.230.101.89:12000/play/a07w/index.m3u8
 #EXTINF:-1,La Tele
 http://190.119.112.28:8000/play/a07y/index.m3u8
 #EXTINF:-1,Latina Noticias 24/7
 http://201.230.121.85:8000/play/LATINANOTI/index.m3u8
+#EXTINF:-1,L1 Max
+http://186.148.196.82:8001/play/ligamax1
+#EXTINF:-1,Latina Clasicos
+http://201.230.101.89:12000/play/a07w/index.m3u8
+#EXTINF:-1,PBO
+http://191.97.61.32:8000/play/a04w/index.m3u8
 #EXTINF:-1,ESPN
 http://45.177.21.6:9000/play/a015
 #EXTINF:-1,ESPN 2
 http://45.173.201.51:4000/play/a0pu/index.m3u8
 #EXTINF:-1,ESPN 4
 http://192.141.98.91:8000/play/a0ni/index.m3u8
-#EXTINF:-1,TNT
-http://45.177.21.6:9000/play/a01f
 #EXTINF:-1,ESPN 3
 http://201.230.137.204:8000/play/a0g1/index.m3u8
-#EXTINF:-1,ESPN 5
-http://190.119.112.30:8000/play/a024/index.m3u8
 #EXTINF:-1,ESPN 6
 http://181.66.249.246:8000/play/a03x
-#EXTINF:-1,Star Channel
-http://181.66.249.246:8000/play/a00n
+#EXTINF:-1,ESPN 5
+http://190.119.112.30:8000/play/a024/index.m3u8
 #EXTINF:-1,ESPN 7
 http://217.26.190.76:8888/play/a0g2/index.m3u8
+#EXTINF:-1,TNT
+http://45.177.21.6:9000/play/a01f
 #EXTINF:-1,Warner Channel
 http://217.26.190.76:8888/play/a0e6/index.m3u8
-#EXTINF:-1,AXN
-http://45.177.21.6:9000/play/a014
+#EXTINF:-1,Star Channel
+http://181.66.249.246:8000/play/a00n
 #EXTINF:-1,Canal de Las estrellas
 http://186.148.196.67:8800/play/a022
-#EXTINF:-1,E!
-http://8.243.126.131:8000/play/a0g7/index.m3u8
-#EXTINF:-1,Telenovelas
-http://191.97.61.32:8000/play/a014/index.m3u8
 #EXTINF:-1,MTV
 http://186.148.196.67:8800/play/a00e
+#EXTINF:-1,Telenovelas
+http://191.97.61.32:8000/play/a014/index.m3u8
+#EXTINF:-1,E!
+http://8.243.126.131:8000/play/a0g7/index.m3u8
 #EXTINF:-1,Univision
 http://201.230.101.89:12000/play/a00q/index.m3u8
+#EXTINF:-1,AXN
+http://45.177.21.6:9000/play/a014
+#EXTINF:-1,Cinecanal
+http://181.66.249.246:8000/play/a00h
 #EXTINF:-1,AMC
 http://45.177.21.6:9000/play/a00k
+#EXTINF:-1,Sony Channel
+http://190.102.139.189:8000/play/a00x/index.m3u8
 #EXTINF:-1,A&E
 http://45.177.21.6:9000/play/a013
 #EXTINF:-1,Discovery Family
 http://200.115.120.1:8000/play/ca053/index.m3u8
-#EXTINF:-1,Cinecanal
-http://181.66.249.246:8000/play/a00h
-#EXTINF:-1,Sony Channel
-http://190.102.139.189:8000/play/a00x/index.m3u8
-#EXTINF:-1,Discovery Kids
-http://45.177.21.6:9000/play/a01m
+#EXTINF:-1,Discovery Channel
+http://217.26.190.76:8888/play/a0ef/index.m3u8
 #EXTINF:-1,Discovery H&H
 http://38.7.101.90:8000/play/a1jo/index.m3u8
+#EXTINF:-1,Discovery Turbo
+http://181.66.249.246:8000/play/a01q
+#EXTINF:-1,Investigation Discovery
+http://190.117.20.39:8000/play/a05b/index.m3u8
+#EXTINF:-1,Discovery Kids
+http://45.177.21.6:9000/play/a01m
+#EXTINF:-1,Cartoon Network
+http://181.66.249.246:8000/play/a00p
+#EXTINF:-1,Nickelodeon
+http://186.148.196.67:8800/play/a03v
 #EXTINF:-1,Nick Jr.
 http://45.177.21.6:9000/play/a01u
 #EXTINF:-1,Cartoonito
 http://45.177.21.6:9000/play/a00p
-#EXTINF:-1,Discovery Channel
-http://217.26.190.76:8888/play/a0ef/index.m3u8
-#EXTINF:-1,Investigation Discovery
-http://190.117.20.39:8000/play/a05b/index.m3u8
-#EXTINF:-1,Cartoon Network
-http://181.66.249.246:8000/play/a00p
-#EXTINF:-1,Discovery Turbo
-http://181.66.249.246:8000/play/a01q
-#EXTINF:-1,Nickelodeon
-http://186.148.196.67:8800/play/a03v
 #EXTINF:-1,Disney Channel
 http://190.117.20.39:8000/play/a05o/index.m3u8
-#EXTINF:-1,TV Peru 7.3
-https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8
 #EXTINF:-1,Disney Jr.
 http://186.148.196.67:8800/play/a019
 #EXTINF:-1,Tooncast
 http://45.177.21.6:9000/play/a01l
-#EXTINF:-1,Clan
-http://45.177.21.6:9000/play/a01b
 #EXTINF:-1,Dreamworks Channel
 http://190.102.139.189:8000/play/a00h/index.m3u8
+#EXTINF:-1,Clan
+http://45.177.21.6:9000/play/a01b
 #EXTINF:-1,ZooMoo
 http://8.243.126.131:8000/play/a0li/index.m3u8

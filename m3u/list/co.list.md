@@ -26,7 +26,7 @@
 | 20 | Canal Telefamilia (360p) [Not 24/7] | stmv2.voxtvhd.com.br | <https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8> |
 | 21 | Canal TV3 (720p) [Not 24/7] | streaming.telenetdigital.net.co:8086 | <https://streaming.telenetdigital.net.co:8086/canal3tv/stream.m3u8> |
 | 22 | Canica TV (240p) | stmv4.voxtvhd.com.br | <https://stmv4.voxtvhd.com.br/canicatv/canicatv/playlist.m3u8> |
-| 23 | Citytv Bogota | IPv4 直链 | <http://181.114.57.246:4000/play/u2H4dIJoRipgGI3A/index.m3u8> |
+| 23 | Citytv Bogota (1080p) | IPv4 直链 | <http://181.114.57.246:4000/play/u2H4dIJoRipgGI3A/index.m3u8> |
 | 24 | CMB Televisión (1080p) | catv.cmbcolombia.tv | <https://catv.cmbcolombia.tv/bethesda/bethesda/chunklist.m3u8> |
 | 25 | CNC Bugavisión (720p) | movil.ejeserver.com | <https://movil.ejeserver.com/live/cncbuga.m3u8> |
 | 26 | CNC Chocó (720p) [Not 24/7] | hvtraficonew.ddns.net | <https://hvtraficonew.ddns.net/corescomunicaciones/index.fmp4.m3u8> |
@@ -51,4 +51,4 @@
 | 45 | UMC TV (720p) | streaming5.globalhostla.com | <https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8> |
 | 46 | Vive TV Colombia (1080p) | IPv4 直链 | <http://192.144.113.132:1935/live/ViveTV/playlist.m3u8> |
 
-Updated at **Mon Mar 23 2026 19:01:34 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Mar 24 2026 02:29:59 GMT+0000 (Coordinated Universal Time)**

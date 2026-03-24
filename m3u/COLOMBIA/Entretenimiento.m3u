@@ -17,7 +17,7 @@ https://cdn.amelbasoluciones.co:8081/santamartalive/index.m3u8
 https://streaming.telenetdigital.net.co:8086/canal3tv/stream.m3u8
 #EXTINF:-1 tvg-id="CanicaTV.co@SD",Canica TV (240p)
 https://stmv4.voxtvhd.com.br/canicatv/canicatv/playlist.m3u8
-#EXTINF:-1 tvg-id="CitytvBogota.co@SD",Citytv Bogota
+#EXTINF:-1 tvg-id="CitytvBogota.co@SD",Citytv Bogota (1080p)
 http://181.114.57.246:4000/play/u2H4dIJoRipgGI3A/index.m3u8
 #EXTINF:-1 tvg-id="TuUniversoTV.co@SD",Tu Universo TV (720p)
 https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
