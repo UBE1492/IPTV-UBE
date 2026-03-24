@@ -1,11 +1,11 @@
 {
   "name": "pe_premium",
-  "updated_at": 1774336233003,
+  "updated_at": 1774358596102,
   "m3u": "https://ube1492.github.io/IPTV-UBE/pe_premium.m3u",
   "channels": [
     {
-      "name": "America Television",
-      "url": "http://45.177.21.6:9000/play/a003",
+      "name": "Canal N",
+      "url": "http://8.243.126.131:8000/play/a058/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -16,8 +16,8 @@
       "category": "Otros"
     },
     {
-      "name": "Panamericana",
-      "url": "http://45.177.21.6:9000/play/a004",
+      "name": "America Television",
+      "url": "http://45.177.21.6:9000/play/a003",
       "logo": "",
       "category": "Otros"
     },
@@ -28,14 +28,14 @@
       "category": "Otros"
     },
     {
-      "name": "Movistar Deportes",
-      "url": "http://190.108.89.228:8000/play/a0cl/index.m3u8",
+      "name": "Panamericana",
+      "url": "http://45.177.21.6:9000/play/a004",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "Canal N",
-      "url": "http://8.243.126.131:8000/play/a058/index.m3u8",
+      "name": "Movistar Deportes",
+      "url": "http://190.108.89.228:8000/play/a0cl/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -46,26 +46,26 @@
       "category": "Otros"
     },
     {
-      "name": "ATV Sur",
-      "url": "http://201.218.140.30:9000/play/a087",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "L1 Max",
       "url": "http://186.148.196.82:8001/play/ligamax1",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "La Tele",
-      "url": "http://190.119.112.28:8000/play/a07y/index.m3u8",
+      "name": "Latina Noticias 24/7",
+      "url": "http://201.230.121.85:8000/play/LATINANOTI/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "Latina Noticias 24/7",
-      "url": "http://201.230.121.85:8000/play/LATINANOTI/index.m3u8",
+      "name": "ATV Sur",
+      "url": "http://201.218.140.30:9000/play/a087",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "La Tele",
+      "url": "http://190.119.112.28:8000/play/a07y/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -112,20 +112,14 @@
       "category": "Otros"
     },
     {
-      "name": "ESPN 6",
-      "url": "http://181.66.249.246:8000/play/a03x",
+      "name": "TNT",
+      "url": "http://45.177.21.6:9000/play/a01f",
       "logo": "",
       "category": "Otros"
     },
     {
       "name": "ESPN 7",
       "url": "http://217.26.190.76:8888/play/a0g2/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "TNT",
-      "url": "http://45.177.21.6:9000/play/a01f",
       "logo": "",
       "category": "Otros"
     },
@@ -138,12 +132,6 @@
     {
       "name": "Warner Channel",
       "url": "http://217.26.190.76:8888/play/a0e6/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Canal de Las estrellas",
-      "url": "http://186.148.196.67:8800/play/a022",
       "logo": "",
       "category": "Otros"
     },
@@ -202,8 +190,8 @@
       "category": "Otros"
     },
     {
-      "name": "Discovery Family",
-      "url": "http://200.115.120.1:8000/play/ca053/index.m3u8",
+      "name": "Discovery Channel",
+      "url": "http://217.26.190.76:8888/play/a0ef/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -214,8 +202,8 @@
       "category": "Otros"
     },
     {
-      "name": "Discovery Channel",
-      "url": "http://217.26.190.76:8888/play/a0ef/index.m3u8",
+      "name": "Discovery Family",
+      "url": "http://200.115.120.1:8000/play/ca053/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -244,14 +232,14 @@
       "category": "Otros"
     },
     {
-      "name": "Nickelodeon",
-      "url": "http://186.148.196.67:8800/play/a03v",
+      "name": "Nick Jr.",
+      "url": "http://45.177.21.6:9000/play/a01u",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "Nick Jr.",
-      "url": "http://45.177.21.6:9000/play/a01u",
+      "name": "Nickelodeon",
+      "url": "http://186.148.196.67:8800/play/a03v",
       "logo": "",
       "category": "Otros"
     },
@@ -262,14 +250,14 @@
       "category": "Otros"
     },
     {
-      "name": "Disney Channel",
-      "url": "http://190.117.20.39:8000/play/a05o/index.m3u8",
+      "name": "Disney Jr.",
+      "url": "http://186.148.196.67:8800/play/a019",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "Disney Jr.",
-      "url": "http://186.148.196.67:8800/play/a019",
+      "name": "Disney Channel",
+      "url": "http://190.117.20.39:8000/play/a05o/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -301,8 +289,8 @@
   "categories": {
     "Otros": [
       {
-        "name": "America Television",
-        "url": "http://45.177.21.6:9000/play/a003",
+        "name": "Canal N",
+        "url": "http://8.243.126.131:8000/play/a058/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -313,8 +301,8 @@
         "category": "Otros"
       },
       {
-        "name": "Panamericana",
-        "url": "http://45.177.21.6:9000/play/a004",
+        "name": "America Television",
+        "url": "http://45.177.21.6:9000/play/a003",
         "logo": "",
         "category": "Otros"
       },
@@ -325,14 +313,14 @@
         "category": "Otros"
       },
       {
-        "name": "Movistar Deportes",
-        "url": "http://190.108.89.228:8000/play/a0cl/index.m3u8",
+        "name": "Panamericana",
+        "url": "http://45.177.21.6:9000/play/a004",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "Canal N",
-        "url": "http://8.243.126.131:8000/play/a058/index.m3u8",
+        "name": "Movistar Deportes",
+        "url": "http://190.108.89.228:8000/play/a0cl/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -343,26 +331,26 @@
         "category": "Otros"
       },
       {
-        "name": "ATV Sur",
-        "url": "http://201.218.140.30:9000/play/a087",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "L1 Max",
         "url": "http://186.148.196.82:8001/play/ligamax1",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "La Tele",
-        "url": "http://190.119.112.28:8000/play/a07y/index.m3u8",
+        "name": "Latina Noticias 24/7",
+        "url": "http://201.230.121.85:8000/play/LATINANOTI/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "Latina Noticias 24/7",
-        "url": "http://201.230.121.85:8000/play/LATINANOTI/index.m3u8",
+        "name": "ATV Sur",
+        "url": "http://201.218.140.30:9000/play/a087",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "La Tele",
+        "url": "http://190.119.112.28:8000/play/a07y/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -409,20 +397,14 @@
         "category": "Otros"
       },
       {
-        "name": "ESPN 6",
-        "url": "http://181.66.249.246:8000/play/a03x",
+        "name": "TNT",
+        "url": "http://45.177.21.6:9000/play/a01f",
         "logo": "",
         "category": "Otros"
       },
       {
         "name": "ESPN 7",
         "url": "http://217.26.190.76:8888/play/a0g2/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "TNT",
-        "url": "http://45.177.21.6:9000/play/a01f",
         "logo": "",
         "category": "Otros"
       },
@@ -435,12 +417,6 @@
       {
         "name": "Warner Channel",
         "url": "http://217.26.190.76:8888/play/a0e6/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Canal de Las estrellas",
-        "url": "http://186.148.196.67:8800/play/a022",
         "logo": "",
         "category": "Otros"
       },
@@ -499,8 +475,8 @@
         "category": "Otros"
       },
       {
-        "name": "Discovery Family",
-        "url": "http://200.115.120.1:8000/play/ca053/index.m3u8",
+        "name": "Discovery Channel",
+        "url": "http://217.26.190.76:8888/play/a0ef/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -511,8 +487,8 @@
         "category": "Otros"
       },
       {
-        "name": "Discovery Channel",
-        "url": "http://217.26.190.76:8888/play/a0ef/index.m3u8",
+        "name": "Discovery Family",
+        "url": "http://200.115.120.1:8000/play/ca053/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -541,14 +517,14 @@
         "category": "Otros"
       },
       {
-        "name": "Nickelodeon",
-        "url": "http://186.148.196.67:8800/play/a03v",
+        "name": "Nick Jr.",
+        "url": "http://45.177.21.6:9000/play/a01u",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "Nick Jr.",
-        "url": "http://45.177.21.6:9000/play/a01u",
+        "name": "Nickelodeon",
+        "url": "http://186.148.196.67:8800/play/a03v",
         "logo": "",
         "category": "Otros"
       },
@@ -559,14 +535,14 @@
         "category": "Otros"
       },
       {
-        "name": "Disney Channel",
-        "url": "http://190.117.20.39:8000/play/a05o/index.m3u8",
+        "name": "Disney Jr.",
+        "url": "http://186.148.196.67:8800/play/a019",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "Disney Jr.",
-        "url": "http://186.148.196.67:8800/play/a019",
+        "name": "Disney Channel",
+        "url": "http://190.117.20.39:8000/play/a05o/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
