@@ -63,15 +63,6 @@ Space,http://179.1.87.75:8098/play/a0hb/index.m3u8
 TNT,http://179.1.87.75:8098/play/a0dw/index.m3u8
 Warner,http://179.1.87.75:8098/play/a0et/index.m3u8
 
-Cultura,#genre#
-Animal_Planet,http://179.1.87.75:8098/play/a0es/index.m3u8
-Discovery_Channel,http://179.1.87.75:8098/play/a0er/index.m3u8
-Discovery_ID,http://179.1.87.75:8098/play/a0hv/index.m3u8
-Discovery_Kids,http://179.1.87.75:8098/play/a0e5/index.m3u8
-Discovery_Turbo,http://179.1.87.75:8098/play/a0hl/index.m3u8
-History_Channel,http://179.1.87.75:8098/play/a0dm/index.m3u8
-Nat_Geo,http://179.1.87.75:8098/play/a0dl/index.m3u8
-
 Infantil,#genre#
 BabyFirst,http://179.1.87.75:8098/play/a0e2/index.m3u8
 Cartoon_Network,http://179.1.87.75:8098/play/a0dv/index.m3u8
@@ -79,6 +70,11 @@ Disney_Channel,http://179.1.87.75:8098/play/a0eq/index.m3u8
 Disney_Jr,http://179.1.87.75:8098/play/a0ei/index.m3u8
 Nick_Jr,http://179.1.87.75:8098/play/a0hk/index.m3u8
 Nickelodeon,http://179.1.87.75:8098/play/a0dk/index.m3u8
+
+Cultura,#genre#
+Discovery_ID,http://179.1.87.75:8098/play/a0hv/index.m3u8
+Discovery_Kids,http://179.1.87.75:8098/play/a0e5/index.m3u8
+Discovery_Turbo,http://179.1.87.75:8098/play/a0hl/index.m3u8
 
 Deportes,#genre#
 ESPN_2_Latin,http://179.1.87.75:8098/play/a0ew/index.m3u8

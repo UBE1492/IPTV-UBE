@@ -1,6 +1,6 @@
 {
   "name": "latam_premium_iptv",
-  "updated_at": 1774406099116,
+  "updated_at": 1774422478239,
   "m3u": "https://ube1492.github.io/IPTV-UBE/latam_premium_iptv.m3u",
   "channels": [
     {
@@ -20,12 +20,6 @@
       "url": "http://179.1.87.75:8098/play/a0fy/index.m3u8",
       "logo": "",
       "category": "LatAm Premium"
-    },
-    {
-      "name": "Animal Planet",
-      "url": "http://179.1.87.75:8098/play/a0es/index.m3u8",
-      "logo": "",
-      "category": "Cultura"
     },
     {
       "name": "BabyFirst",
@@ -110,12 +104,6 @@
       "url": "http://179.1.87.75:8098/play/a0gk/index.m3u8",
       "logo": "",
       "category": "LatAm Premium"
-    },
-    {
-      "name": "Discovery Channel",
-      "url": "http://179.1.87.75:8098/play/a0er/index.m3u8",
-      "logo": "",
-      "category": "Cultura"
     },
     {
       "name": "Discovery ID",
@@ -238,12 +226,6 @@
       "category": "Cine & Series"
     },
     {
-      "name": "History Channel",
-      "url": "http://179.1.87.75:8098/play/a0dm/index.m3u8",
-      "logo": "",
-      "category": "Cultura"
-    },
-    {
       "name": "HomeandHealth",
       "url": "http://179.1.87.75:8098/play/a0fp/index.m3u8",
       "logo": "",
@@ -266,12 +248,6 @@
       "url": "http://179.1.87.75:8098/play/a0dq/index.m3u8",
       "logo": "",
       "category": "LatAm Premium"
-    },
-    {
-      "name": "Nat Geo",
-      "url": "http://179.1.87.75:8098/play/a0dl/index.m3u8",
-      "logo": "",
-      "category": "Cultura"
     },
     {
       "name": "Nick Jr",
@@ -867,50 +843,6 @@
         "category": "Cine & Series"
       }
     ],
-    "Cultura": [
-      {
-        "name": "Animal Planet",
-        "url": "http://179.1.87.75:8098/play/a0es/index.m3u8",
-        "logo": "",
-        "category": "Cultura"
-      },
-      {
-        "name": "Discovery Channel",
-        "url": "http://179.1.87.75:8098/play/a0er/index.m3u8",
-        "logo": "",
-        "category": "Cultura"
-      },
-      {
-        "name": "Discovery ID",
-        "url": "http://179.1.87.75:8098/play/a0hv/index.m3u8",
-        "logo": "",
-        "category": "Cultura"
-      },
-      {
-        "name": "Discovery Kids",
-        "url": "http://179.1.87.75:8098/play/a0e5/index.m3u8",
-        "logo": "",
-        "category": "Cultura"
-      },
-      {
-        "name": "Discovery Turbo",
-        "url": "http://179.1.87.75:8098/play/a0hl/index.m3u8",
-        "logo": "",
-        "category": "Cultura"
-      },
-      {
-        "name": "History Channel",
-        "url": "http://179.1.87.75:8098/play/a0dm/index.m3u8",
-        "logo": "",
-        "category": "Cultura"
-      },
-      {
-        "name": "Nat Geo",
-        "url": "http://179.1.87.75:8098/play/a0dl/index.m3u8",
-        "logo": "",
-        "category": "Cultura"
-      }
-    ],
     "Infantil": [
       {
         "name": "BabyFirst",
@@ -947,6 +879,26 @@
         "url": "http://179.1.87.75:8098/play/a0dk/index.m3u8",
         "logo": "",
         "category": "Infantil"
+      }
+    ],
+    "Cultura": [
+      {
+        "name": "Discovery ID",
+        "url": "http://179.1.87.75:8098/play/a0hv/index.m3u8",
+        "logo": "",
+        "category": "Cultura"
+      },
+      {
+        "name": "Discovery Kids",
+        "url": "http://179.1.87.75:8098/play/a0e5/index.m3u8",
+        "logo": "",
+        "category": "Cultura"
+      },
+      {
+        "name": "Discovery Turbo",
+        "url": "http://179.1.87.75:8098/play/a0hl/index.m3u8",
+        "logo": "",
+        "category": "Cultura"
       }
     ],
     "Deportes": [
