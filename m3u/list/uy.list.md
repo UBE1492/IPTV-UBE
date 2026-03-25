@@ -7,4 +7,4 @@
 | 1 | UCL (720p) | livedelta.cdn.antel.net.uy | <https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8> |
 | 2 | VIVO TV (1080p) | stream.vivotv.uy | <https://stream.vivotv.uy/hls/stream.m3u8> |
 
-Updated at **Wed Mar 25 2026 13:20:26 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Mar 25 2026 19:01:20 GMT+0000 (Coordinated Universal Time)**
