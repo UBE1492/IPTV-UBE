@@ -114,4 +114,4 @@
 | 108 | Ventdelnord TV (404p) | ventdelnord.tv:8080 | <http://ventdelnord.tv:8080/hls/directe.m3u8> |
 | 109 | Vivamóvil (720p) | 5d8d85cf2c308.streamlock.net:1936 | <https://5d8d85cf2c308.streamlock.net:1936/AlcalaTV/endirecto/playlist.m3u8> |
 
-Updated at **Wed Mar 25 2026 07:08:00 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Mar 25 2026 13:20:25 GMT+0000 (Coordinated Universal Time)**
