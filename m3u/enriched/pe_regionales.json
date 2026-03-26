@@ -1,6 +1,6 @@
 {
   "name": "pe_regionales",
-  "updated_at": 1774531599814,
+  "updated_at": 1774552414599,
   "m3u": "https://ube1492.github.io/IPTV-UBE/pe_regionales.m3u",
   "channels": [
     {
@@ -16,21 +16,9 @@
       "category": "Without category"
     },
     {
-      "name": "Turbo Mix TV | PE",
-      "url": "https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/43_Turbo_Mix_TV.png",
-      "category": "Without category"
-    },
-    {
-      "name": "Canal 8 Catacaos | PE",
-      "url": "https://live.obslivestream.com/canal8/index.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/1097_Canal_8_Catacaos.png",
-      "category": "Without category"
-    },
-    {
-      "name": "CR TV | PE",
-      "url": "https://live.obslivestream.com/crtvmux/index.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/1180_CR_TV.png",
+      "name": "Controversia TV | PE",
+      "url": "https://live.obslivestream.com/controversiatv/index.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/1188_Controversia_TV.png",
       "category": "Without category"
     },
     {
@@ -40,9 +28,9 @@
       "category": "Without category"
     },
     {
-      "name": "OK TeVe | PE",
-      "url": "https://live.obslivestream.com/oktv/video.m3u8?token=Bk-DXAXulO1OV0&PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/1095_OK_TeVe.png",
+      "name": "Turbo Mix TV | PE",
+      "url": "https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/43_Turbo_Mix_TV.png",
       "category": "Without category"
     },
     {
@@ -58,6 +46,12 @@
       "category": "Without category"
     },
     {
+      "name": "OK TeVe | PE",
+      "url": "https://live.obslivestream.com/oktv/video.m3u8?token=Bk-DXAXulO1OV0&PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/1095_OK_TeVe.png",
+      "category": "Without category"
+    },
+    {
       "name": "Nativa | PE",
       "url": "https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8?PlaylistM3UCL",
       "logo": "https://cdn.m3u.cl/logo/684_Nativa.png",
@@ -70,9 +64,21 @@
       "category": "Without category"
     },
     {
-      "name": "Tele Selva | PE",
-      "url": "https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/1546_Tele_Selva.png",
+      "name": "BHTV | PE",
+      "url": "https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/695_BHTV.png",
+      "category": "Without category"
+    },
+    {
+      "name": "Canal 8 Catacaos | PE",
+      "url": "https://live.obslivestream.com/canal8/index.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/1097_Canal_8_Catacaos.png",
+      "category": "Without category"
+    },
+    {
+      "name": "CR TV | PE",
+      "url": "https://live.obslivestream.com/crtvmux/index.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/1180_CR_TV.png",
       "category": "Without category"
     },
     {
@@ -82,15 +88,9 @@
       "category": "Without category"
     },
     {
-      "name": "BHTV | PE",
-      "url": "https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/695_BHTV.png",
-      "category": "Without category"
-    },
-    {
-      "name": "Controversia TV | PE",
-      "url": "https://live.obslivestream.com/controversiatv/index.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/1188_Controversia_TV.png",
+      "name": "Tele Selva | PE",
+      "url": "https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/1546_Tele_Selva.png",
       "category": "Without category"
     },
     {
@@ -118,15 +118,15 @@
       "category": "Without category"
     },
     {
-      "name": "TV en linea Cusco | PE",
-      "url": "https://s4.tvdatta.com:3450/live/tvenlinealive.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/1590_TV_en_linea_Cusco.png",
-      "category": "Without category"
-    },
-    {
       "name": "TVperuanisima | PE",
       "url": "https://k20.usastreams.com:8081/tvperuanisima/index.m3u8?PlaylistM3UCL",
       "logo": "https://cdn.m3u.cl/logo/686_TVperuanisima.png",
+      "category": "Without category"
+    },
+    {
+      "name": "TV en linea Cusco | PE",
+      "url": "https://s4.tvdatta.com:3450/live/tvenlinealive.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/1590_TV_en_linea_Cusco.png",
       "category": "Without category"
     }
   ],
@@ -145,21 +145,9 @@
         "category": "Without category"
       },
       {
-        "name": "Turbo Mix TV | PE",
-        "url": "https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/43_Turbo_Mix_TV.png",
-        "category": "Without category"
-      },
-      {
-        "name": "Canal 8 Catacaos | PE",
-        "url": "https://live.obslivestream.com/canal8/index.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/1097_Canal_8_Catacaos.png",
-        "category": "Without category"
-      },
-      {
-        "name": "CR TV | PE",
-        "url": "https://live.obslivestream.com/crtvmux/index.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/1180_CR_TV.png",
+        "name": "Controversia TV | PE",
+        "url": "https://live.obslivestream.com/controversiatv/index.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/1188_Controversia_TV.png",
         "category": "Without category"
       },
       {
@@ -169,9 +157,9 @@
         "category": "Without category"
       },
       {
-        "name": "OK TeVe | PE",
-        "url": "https://live.obslivestream.com/oktv/video.m3u8?token=Bk-DXAXulO1OV0&PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/1095_OK_TeVe.png",
+        "name": "Turbo Mix TV | PE",
+        "url": "https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/43_Turbo_Mix_TV.png",
         "category": "Without category"
       },
       {
@@ -187,6 +175,12 @@
         "category": "Without category"
       },
       {
+        "name": "OK TeVe | PE",
+        "url": "https://live.obslivestream.com/oktv/video.m3u8?token=Bk-DXAXulO1OV0&PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/1095_OK_TeVe.png",
+        "category": "Without category"
+      },
+      {
         "name": "Nativa | PE",
         "url": "https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8?PlaylistM3UCL",
         "logo": "https://cdn.m3u.cl/logo/684_Nativa.png",
@@ -199,9 +193,21 @@
         "category": "Without category"
       },
       {
-        "name": "Tele Selva | PE",
-        "url": "https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/1546_Tele_Selva.png",
+        "name": "BHTV | PE",
+        "url": "https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/695_BHTV.png",
+        "category": "Without category"
+      },
+      {
+        "name": "Canal 8 Catacaos | PE",
+        "url": "https://live.obslivestream.com/canal8/index.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/1097_Canal_8_Catacaos.png",
+        "category": "Without category"
+      },
+      {
+        "name": "CR TV | PE",
+        "url": "https://live.obslivestream.com/crtvmux/index.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/1180_CR_TV.png",
         "category": "Without category"
       },
       {
@@ -211,15 +217,9 @@
         "category": "Without category"
       },
       {
-        "name": "BHTV | PE",
-        "url": "https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/695_BHTV.png",
-        "category": "Without category"
-      },
-      {
-        "name": "Controversia TV | PE",
-        "url": "https://live.obslivestream.com/controversiatv/index.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/1188_Controversia_TV.png",
+        "name": "Tele Selva | PE",
+        "url": "https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/1546_Tele_Selva.png",
         "category": "Without category"
       },
       {
@@ -247,15 +247,15 @@
         "category": "Without category"
       },
       {
-        "name": "TV en linea Cusco | PE",
-        "url": "https://s4.tvdatta.com:3450/live/tvenlinealive.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/1590_TV_en_linea_Cusco.png",
-        "category": "Without category"
-      },
-      {
         "name": "TVperuanisima | PE",
         "url": "https://k20.usastreams.com:8081/tvperuanisima/index.m3u8?PlaylistM3UCL",
         "logo": "https://cdn.m3u.cl/logo/686_TVperuanisima.png",
+        "category": "Without category"
+      },
+      {
+        "name": "TV en linea Cusco | PE",
+        "url": "https://s4.tvdatta.com:3450/live/tvenlinealive.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/1590_TV_en_linea_Cusco.png",
         "category": "Without category"
       }
     ]
