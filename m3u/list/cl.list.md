@@ -63,4 +63,4 @@
 | 57 | LTV (2160p) [Not 24/7] | live.cdnlivecdn.com | <https://live.cdnlivecdn.com/live/c9fe062eed2978749aa00df6485940d298449f5e.m3u8> |
 | 58 | TVN (1080p) | IPv4 直链 | <http://217.26.190.76:8888/play/a0m6/index.m3u8> |
 
-Updated at **Thu Mar 26 2026 02:42:23 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Mar 26 2026 07:15:33 GMT+0000 (Coordinated Universal Time)**
