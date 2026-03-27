@@ -30,8 +30,8 @@
 | 24 | TRV (480p) | vcp3.myplaytv.com | <https://vcp3.myplaytv.com/trv/trv/playlist.m3u8> |
 | 25 | TV Andes (720p) [Not 24/7] | vcp3.myplaytv.com | <https://vcp3.myplaytv.com/tvandes/tvandes/playlist.m3u8> |
 | 26 | TV Familia (720p) | cloudusa.streamingconnect.com | <https://cloudusa.streamingconnect.com/tvfamiliatvbox/tvfamiliaweb.m3u8> |
-| 27 | TV Oasis Monay | live20.bozztv.com | <https://live20.bozztv.com/akamaissh101/ssh101/oasistv123/playlist.m3u8> |
+| 27 | TV Oasis Monay (486p) | live20.bozztv.com | <https://live20.bozztv.com/akamaissh101/ssh101/oasistv123/playlist.m3u8> |
 | 28 | TVM para ti (1080p) | streamtv.intervenhosting.net:3529 | <https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8> |
 | 29 | TVS (720p) | vcp10.myplaytv.com | <https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8> |
 
-Updated at **Fri Mar 27 2026 02:44:39 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 27 2026 07:14:53 GMT+0000 (Coordinated Universal Time)**

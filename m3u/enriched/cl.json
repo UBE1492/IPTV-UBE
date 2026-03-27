@@ -1,6 +1,6 @@
 {
   "name": "cl",
-  "updated_at": 1774579477981,
+  "updated_at": 1774595693105,
   "m3u": "https://ube1492.github.io/IPTV-UBE/cl.m3u",
   "channels": [
     {
@@ -190,7 +190,7 @@
       "category": "Otros"
     },
     {
-      "name": "EnerGeek Fan",
+      "name": "EnerGeek Fan (1080p)",
       "url": "https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH",
       "logo": "",
       "category": "Otros"
@@ -262,8 +262,14 @@
       "category": "Otros"
     },
     {
+      "name": "LTV (2160p) [Not 24/7]",
+      "url": "https://live.cdnlivecdn.com/live/c9fe062eed2978749aa00df6485940d298449f5e.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
       "name": "Meganoticias (1080p)",
-      "url": "#EXTINF:-1 tvg-id=\"SantaMariaTelevision.cl@SD\",Santa María Televisión (720p) [Not 24/7]",
+      "url": "#EXTINF:-1 tvg-id=\"RetroPlus2.cl@SD\",Retro Plus 2 (720p)",
       "logo": "",
       "category": "Otros",
       "options": {
@@ -271,94 +277,103 @@
       }
     },
     {
-      "name": "SoloBáilalo (480p)",
-      "url": "https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8",
+      "name": "T13 (720p)",
+      "url": "https://jireh-2-hls-video-us-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "SUR TV",
-      "url": "https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/surtv/surtv.smil/playlist.m3u8",
+      "name": "T-Vinet (480p)",
+      "url": "https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "Suyai TV (1080p)",
-      "url": "#EXTINF:-1 tvg-id=\"TVR.cl@SD\",TVR (1080p) [Not 24/7]",
-      "logo": "",
-      "category": "Otros",
-      "options": {
-        "http-referrer": "https://suyaitv.cl"
-      }
-    },
-    {
-      "name": "TVR (720p)",
-      "url": "https://unlimited1-cl.dps.live/tvr/tvr.smil/playlist.m3u8",
+      "name": "Telecanal (720p)",
+      "url": "http://45.232.210.1:8029/play/a00s/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "TVU Concepción (1080p)",
-      "url": "https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8",
+      "name": "Teletrak (720p)",
+      "url": "https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "U Los Lagos TV (1080p) [Not 24/7]",
-      "url": "http://tv.ulagos.cl/web/live.m3u8",
+      "name": "Televida (1080p)",
+      "url": "https://tls-cl.cdnz.cl/televida/live/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "UCV TV (720p)",
-      "url": "https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8",
+      "name": "Tevex (720p) [Not 24/7]",
+      "url": "https://v4.tustreaming.cl/tevexinter/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "UESTV (720p)",
-      "url": "https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8",
+      "name": "Thema Televisión (La Serena) (720p) [Not 24/7]",
+      "url": "https://unlimited1-us.dps.live/thema/thema.smil/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "Universidad Autónoma Temuco (UATV) (1080p) [Not 24/7]",
-      "url": "https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8",
+      "name": "TNE (720p) [Not 24/7]",
+      "url": "https://v2.tustreaming.cl/tnetv/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "UTV (720p)",
-      "url": "https://v2.tustreaming.cl/utv/index.m3u8",
+      "name": "Turf Movil (720p)",
+      "url": "https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "V Classic TV (720p)",
-      "url": "https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8",
+      "name": "TV Chile (1080p) [Geo-blocked]",
+      "url": "https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "VC Online (720p)",
-      "url": "https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8",
+      "name": "TV Quellón (1080p) [Not 24/7]",
+      "url": "https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "Vision Plus TV (1080i)",
-      "url": "#EXTINF:-1 tvg-id=\"LTV.cl@SD\",LTV (2160p) [Not 24/7]",
+      "name": "TV Senado (360p)",
+      "url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8",
       "logo": "",
-      "category": "Otros",
-      "options": {
-        "http-referrer": "https://visionplustv.cl/"
-      }
+      "category": "Otros"
+    },
+    {
+      "name": "TV UCT (1080p)",
+      "url": "https://unlimited1-us.dps.live/uct/uct.smil/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
     },
     {
       "name": "TVN (1080p)",
       "url": "http://217.26.190.76:8888/play/a0m6/index.m3u8",
       "logo": "",
       "category": "Otros"
+    },
+    {
+      "name": "TVN3 (1080p) [Geo-blocked]",
+      "url": "https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "TVO San Vicente (720p)",
+      "url": "#EXTINF:-1 tvg-id=\"VTVValledeAconcagua.cl@SD\",VTV Valle de Aconcagua (720p) [Not 24/7]",
+      "logo": "",
+      "category": "Otros",
+      "options": {
+        "http-referrer": "http://www.tvosanvicente.cl/"
+      }
     }
   ],
   "categories": {
@@ -550,7 +565,7 @@
         "category": "Otros"
       },
       {
-        "name": "EnerGeek Fan",
+        "name": "EnerGeek Fan (1080p)",
         "url": "https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH",
         "logo": "",
         "category": "Otros"
@@ -622,8 +637,14 @@
         "category": "Otros"
       },
       {
+        "name": "LTV (2160p) [Not 24/7]",
+        "url": "https://live.cdnlivecdn.com/live/c9fe062eed2978749aa00df6485940d298449f5e.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
         "name": "Meganoticias (1080p)",
-        "url": "#EXTINF:-1 tvg-id=\"SantaMariaTelevision.cl@SD\",Santa María Televisión (720p) [Not 24/7]",
+        "url": "#EXTINF:-1 tvg-id=\"RetroPlus2.cl@SD\",Retro Plus 2 (720p)",
         "logo": "",
         "category": "Otros",
         "options": {
@@ -631,94 +652,103 @@
         }
       },
       {
-        "name": "SoloBáilalo (480p)",
-        "url": "https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8",
+        "name": "T13 (720p)",
+        "url": "https://jireh-2-hls-video-us-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "SUR TV",
-        "url": "https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/surtv/surtv.smil/playlist.m3u8",
+        "name": "T-Vinet (480p)",
+        "url": "https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "Suyai TV (1080p)",
-        "url": "#EXTINF:-1 tvg-id=\"TVR.cl@SD\",TVR (1080p) [Not 24/7]",
-        "logo": "",
-        "category": "Otros",
-        "options": {
-          "http-referrer": "https://suyaitv.cl"
-        }
-      },
-      {
-        "name": "TVR (720p)",
-        "url": "https://unlimited1-cl.dps.live/tvr/tvr.smil/playlist.m3u8",
+        "name": "Telecanal (720p)",
+        "url": "http://45.232.210.1:8029/play/a00s/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "TVU Concepción (1080p)",
-        "url": "https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8",
+        "name": "Teletrak (720p)",
+        "url": "https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "U Los Lagos TV (1080p) [Not 24/7]",
-        "url": "http://tv.ulagos.cl/web/live.m3u8",
+        "name": "Televida (1080p)",
+        "url": "https://tls-cl.cdnz.cl/televida/live/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "UCV TV (720p)",
-        "url": "https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8",
+        "name": "Tevex (720p) [Not 24/7]",
+        "url": "https://v4.tustreaming.cl/tevexinter/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "UESTV (720p)",
-        "url": "https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8",
+        "name": "Thema Televisión (La Serena) (720p) [Not 24/7]",
+        "url": "https://unlimited1-us.dps.live/thema/thema.smil/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "Universidad Autónoma Temuco (UATV) (1080p) [Not 24/7]",
-        "url": "https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8",
+        "name": "TNE (720p) [Not 24/7]",
+        "url": "https://v2.tustreaming.cl/tnetv/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "UTV (720p)",
-        "url": "https://v2.tustreaming.cl/utv/index.m3u8",
+        "name": "Turf Movil (720p)",
+        "url": "https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "V Classic TV (720p)",
-        "url": "https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8",
+        "name": "TV Chile (1080p) [Geo-blocked]",
+        "url": "https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "VC Online (720p)",
-        "url": "https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8",
+        "name": "TV Quellón (1080p) [Not 24/7]",
+        "url": "https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "Vision Plus TV (1080i)",
-        "url": "#EXTINF:-1 tvg-id=\"LTV.cl@SD\",LTV (2160p) [Not 24/7]",
+        "name": "TV Senado (360p)",
+        "url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8",
         "logo": "",
-        "category": "Otros",
-        "options": {
-          "http-referrer": "https://visionplustv.cl/"
-        }
+        "category": "Otros"
+      },
+      {
+        "name": "TV UCT (1080p)",
+        "url": "https://unlimited1-us.dps.live/uct/uct.smil/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
       },
       {
         "name": "TVN (1080p)",
         "url": "http://217.26.190.76:8888/play/a0m6/index.m3u8",
         "logo": "",
         "category": "Otros"
+      },
+      {
+        "name": "TVN3 (1080p) [Geo-blocked]",
+        "url": "https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "TVO San Vicente (720p)",
+        "url": "#EXTINF:-1 tvg-id=\"VTVValledeAconcagua.cl@SD\",VTV Valle de Aconcagua (720p) [Not 24/7]",
+        "logo": "",
+        "category": "Otros",
+        "options": {
+          "http-referrer": "http://www.tvosanvicente.cl/"
+        }
       }
     ]
   }

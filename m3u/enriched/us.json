@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1774579478383,
+  "updated_at": 1774595693256,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -16,7 +16,13 @@
       "category": "Otros"
     },
     {
-      "name": "ABC",
+      "name": "48 Hours (1080p)",
+      "url": "https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "ABC (720p)",
       "url": "http://41.205.93.154/ABC/index.m3u8",
       "logo": "",
       "category": "Otros"
@@ -76,19 +82,19 @@
       "category": "Otros"
     },
     {
-      "name": "Access Nashua",
+      "name": "Access Nashua (720p)",
       "url": "https://livestream.telvue.com/nashuanh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "AccessVision Channel 16",
+      "name": "AccessVision Channel 16 (720p)",
       "url": "https://livestream.telvue.com/accvision1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "AccessVision Channel 17",
+      "name": "AccessVision Channel 17 (720p)",
       "url": "https://livestream.telvue.com/accvision2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
       "logo": "",
       "category": "Otros"
@@ -478,7 +484,7 @@
       "category": "Otros"
     },
     {
-      "name": "BMC-HD TV",
+      "name": "BMC-HD TV (720p)",
       "url": "https://livestream.telvue.com/belmontmedia4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
       "logo": "",
       "category": "Otros"
@@ -574,7 +580,7 @@
       "category": "Otros"
     },
     {
-      "name": "Catholic TV",
+      "name": "Catholic TV (1080p)",
       "url": "https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8",
       "logo": "",
       "category": "Otros"
@@ -640,13 +646,13 @@
       "category": "Otros"
     },
     {
-      "name": "CineLife",
+      "name": "CineLife (1080p)",
       "url": "https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "Classic Arts Showcase",
+      "name": "Classic Arts Showcase (720p)",
       "url": "https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8",
       "logo": "",
       "category": "Otros"
@@ -670,7 +676,7 @@
       "category": "Otros"
     },
     {
-      "name": "CMC (California Music Channel)",
+      "name": "CMC (California Music Channel) (1080p)",
       "url": "https://cmc-ono.amagi.tv/playlist.m3u8",
       "logo": "",
       "category": "Otros"
@@ -721,6 +727,12 @@
       "category": "Otros"
     },
     {
+      "name": "The Q India (576p)",
+      "url": "https://mumt05.tangotv.in/THEQ/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
       "name": "The Shopping Channel (720p)",
       "url": "https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8",
       "logo": "",
@@ -763,13 +775,13 @@
       "category": "Otros"
     },
     {
-      "name": "TLN Media Chicago",
+      "name": "TLN Media Chicago (720p)",
       "url": "https://fuel-streaming-prod01.fuelmedia.io/v1/sem/cb165faa-41c9-42ad-83ee-ad5ca9fb927c.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "TLN Media San Francisco",
+      "name": "TLN Media San Francisco (720p)",
       "url": "https://fuel-streaming-prod01.fuelmedia.io/v1/sem/b29d27bb-88af-42d1-937a-5bdf76b71c17.m3u8",
       "logo": "",
       "category": "Otros"
@@ -835,7 +847,7 @@
       "category": "Otros"
     },
     {
-      "name": "TUTV",
+      "name": "TUTV (1080p)",
       "url": "https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
       "logo": "",
       "category": "Otros"
@@ -1045,7 +1057,7 @@
       "category": "Otros"
     },
     {
-      "name": "TVSConsumerDirect",
+      "name": "TVSConsumerDirect (720p)",
       "url": "https://rpn.bozztv.com/gusa/gusa-ConsumerDirect/index.m3u8",
       "logo": "",
       "category": "Otros"
@@ -1123,7 +1135,7 @@
       "category": "Otros"
     },
     {
-      "name": "VOA Persian",
+      "name": "VOA Persian (1080p)",
       "url": "https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8",
       "logo": "",
       "category": "Otros"
@@ -1195,7 +1207,7 @@
       "category": "Otros"
     },
     {
-      "name": "WEDQ-DT4",
+      "name": "WEDQ-DT4 (1080p)",
       "url": "https://wedqdt4.lls.pbs.org/wedqdt4-hls.m3u8",
       "logo": "",
       "category": "Otros"
@@ -1225,19 +1237,25 @@
       "category": "Otros"
     },
     {
+      "name": "WGAL-DT3 (1080p) [Geo-blocked]",
+      "url": "https://lowa8026-cmyk.github.io/iptv/WGAL-DT3/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
       "name": "WGGS-DT1 (720p)",
       "url": "https://cdn-unified-hls.streamspot.com/ingest1/c7956aac88/playlist.m3u8?origin=1",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "WGN-DT1",
+      "name": "WGN-DT1 (720p)",
       "url": "http://23.237.104.106:8080/USA_WGN/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "WGTV-DT3",
+      "name": "WGTV-DT3 (1080p)",
       "url": "https://wgtvdt3.lls.pbs.org/wgtvdt3-cmaf-hls.m3u8",
       "logo": "",
       "category": "Otros"
@@ -1291,7 +1309,7 @@
       "category": "Otros"
     },
     {
-      "name": "WJBK-DT1",
+      "name": "WJBK-DT1 (1080p)",
       "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox2detroitwjbk-vizious/playlist.m3u8",
       "logo": "",
       "category": "Otros"
@@ -1327,7 +1345,7 @@
       "category": "Otros"
     },
     {
-      "name": "WLMB",
+      "name": "WLMB (1080p)",
       "url": "https://rpn.bozztv.com/wlmb/wlmb/wlmb/index.m3u8",
       "logo": "",
       "category": "Otros"
@@ -1567,7 +1585,7 @@
       "category": "Otros"
     },
     {
-      "name": "Zarin TV",
+      "name": "Zarin TV (1080p)",
       "url": "https://fl1002.bozztv.com/gf-zarintv/index.m3u8",
       "logo": "",
       "category": "Otros"
@@ -1597,7 +1615,13 @@
         "category": "Otros"
       },
       {
-        "name": "ABC",
+        "name": "48 Hours (1080p)",
+        "url": "https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "ABC (720p)",
         "url": "http://41.205.93.154/ABC/index.m3u8",
         "logo": "",
         "category": "Otros"
@@ -1657,19 +1681,19 @@
         "category": "Otros"
       },
       {
-        "name": "Access Nashua",
+        "name": "Access Nashua (720p)",
         "url": "https://livestream.telvue.com/nashuanh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "AccessVision Channel 16",
+        "name": "AccessVision Channel 16 (720p)",
         "url": "https://livestream.telvue.com/accvision1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "AccessVision Channel 17",
+        "name": "AccessVision Channel 17 (720p)",
         "url": "https://livestream.telvue.com/accvision2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
         "logo": "",
         "category": "Otros"
@@ -2059,7 +2083,7 @@
         "category": "Otros"
       },
       {
-        "name": "BMC-HD TV",
+        "name": "BMC-HD TV (720p)",
         "url": "https://livestream.telvue.com/belmontmedia4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
         "logo": "",
         "category": "Otros"
@@ -2155,7 +2179,7 @@
         "category": "Otros"
       },
       {
-        "name": "Catholic TV",
+        "name": "Catholic TV (1080p)",
         "url": "https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8",
         "logo": "",
         "category": "Otros"
@@ -2221,13 +2245,13 @@
         "category": "Otros"
       },
       {
-        "name": "CineLife",
+        "name": "CineLife (1080p)",
         "url": "https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "Classic Arts Showcase",
+        "name": "Classic Arts Showcase (720p)",
         "url": "https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8",
         "logo": "",
         "category": "Otros"
@@ -2251,7 +2275,7 @@
         "category": "Otros"
       },
       {
-        "name": "CMC (California Music Channel)",
+        "name": "CMC (California Music Channel) (1080p)",
         "url": "https://cmc-ono.amagi.tv/playlist.m3u8",
         "logo": "",
         "category": "Otros"
@@ -2302,6 +2326,12 @@
         "category": "Otros"
       },
       {
+        "name": "The Q India (576p)",
+        "url": "https://mumt05.tangotv.in/THEQ/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
         "name": "The Shopping Channel (720p)",
         "url": "https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8",
         "logo": "",
@@ -2344,13 +2374,13 @@
         "category": "Otros"
       },
       {
-        "name": "TLN Media Chicago",
+        "name": "TLN Media Chicago (720p)",
         "url": "https://fuel-streaming-prod01.fuelmedia.io/v1/sem/cb165faa-41c9-42ad-83ee-ad5ca9fb927c.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "TLN Media San Francisco",
+        "name": "TLN Media San Francisco (720p)",
         "url": "https://fuel-streaming-prod01.fuelmedia.io/v1/sem/b29d27bb-88af-42d1-937a-5bdf76b71c17.m3u8",
         "logo": "",
         "category": "Otros"
@@ -2416,7 +2446,7 @@
         "category": "Otros"
       },
       {
-        "name": "TUTV",
+        "name": "TUTV (1080p)",
         "url": "https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
         "logo": "",
         "category": "Otros"
@@ -2626,7 +2656,7 @@
         "category": "Otros"
       },
       {
-        "name": "TVSConsumerDirect",
+        "name": "TVSConsumerDirect (720p)",
         "url": "https://rpn.bozztv.com/gusa/gusa-ConsumerDirect/index.m3u8",
         "logo": "",
         "category": "Otros"
@@ -2704,7 +2734,7 @@
         "category": "Otros"
       },
       {
-        "name": "VOA Persian",
+        "name": "VOA Persian (1080p)",
         "url": "https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8",
         "logo": "",
         "category": "Otros"
@@ -2776,7 +2806,7 @@
         "category": "Otros"
       },
       {
-        "name": "WEDQ-DT4",
+        "name": "WEDQ-DT4 (1080p)",
         "url": "https://wedqdt4.lls.pbs.org/wedqdt4-hls.m3u8",
         "logo": "",
         "category": "Otros"
@@ -2806,19 +2836,25 @@
         "category": "Otros"
       },
       {
+        "name": "WGAL-DT3 (1080p) [Geo-blocked]",
+        "url": "https://lowa8026-cmyk.github.io/iptv/WGAL-DT3/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
         "name": "WGGS-DT1 (720p)",
         "url": "https://cdn-unified-hls.streamspot.com/ingest1/c7956aac88/playlist.m3u8?origin=1",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "WGN-DT1",
+        "name": "WGN-DT1 (720p)",
         "url": "http://23.237.104.106:8080/USA_WGN/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "WGTV-DT3",
+        "name": "WGTV-DT3 (1080p)",
         "url": "https://wgtvdt3.lls.pbs.org/wgtvdt3-cmaf-hls.m3u8",
         "logo": "",
         "category": "Otros"
@@ -2872,7 +2908,7 @@
         "category": "Otros"
       },
       {
-        "name": "WJBK-DT1",
+        "name": "WJBK-DT1 (1080p)",
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox2detroitwjbk-vizious/playlist.m3u8",
         "logo": "",
         "category": "Otros"
@@ -2908,7 +2944,7 @@
         "category": "Otros"
       },
       {
-        "name": "WLMB",
+        "name": "WLMB (1080p)",
         "url": "https://rpn.bozztv.com/wlmb/wlmb/wlmb/index.m3u8",
         "logo": "",
         "category": "Otros"
@@ -3148,7 +3184,7 @@
         "category": "Otros"
       },
       {
-        "name": "Zarin TV",
+        "name": "Zarin TV (1080p)",
         "url": "https://fl1002.bozztv.com/gf-zarintv/index.m3u8",
         "logo": "",
         "category": "Otros"

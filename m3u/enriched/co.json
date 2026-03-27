@@ -1,6 +1,6 @@
 {
   "name": "co",
-  "updated_at": 1774579478746,
+  "updated_at": 1774595693524,
   "m3u": "https://ube1492.github.io/IPTV-UBE/co.m3u",
   "channels": [
     {
@@ -18,6 +18,12 @@
     {
       "name": "Bendicion Channel (720p)",
       "url": "https://s.emisoras.tv:8081/bendicionchannel/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Blu Radio (720p)",
+      "url": "https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -82,8 +88,20 @@
       "category": "Otros"
     },
     {
+      "name": "Canal Capital (1080p) [Geo-blocked]",
+      "url": "https://mdstrm.com/live-stream-playlist/6952dc88cb62083467eb6ab4.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
       "name": "Canal Dos Yopal (720p)",
       "url": "http://131.221.41.94/hls/canal2.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Canal Institucional (720p)",
+      "url": "https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -108,6 +126,12 @@
     {
       "name": "Canal Oración Con Son (1080p)",
       "url": "https://canal.mediaserver.com.co/live/oracionconson.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Canal Santa Marta TV (720p)",
+      "url": "https://stream.amelbasoluciones.co/live/santamartalive.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -139,6 +163,12 @@
       "category": "Otros"
     },
     {
+      "name": "CMB Television (1080p)",
+      "url": "https://cdn1.cmbcolombia.tv/bethesda/video.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
       "name": "CMB Televisión (1080p)",
       "url": "https://catv.cmbcolombia.tv/bethesda/bethesda/chunklist.m3u8",
       "logo": "",
@@ -163,6 +193,12 @@
       "category": "Otros"
     },
     {
+      "name": "CNC La Union (720p)",
+      "url": "https://live.amelbatv.co:81/cnclaunion/index.fmp4.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
       "name": "CNC Pasto (720p) [Geo-blocked]",
       "url": "https://hvtraficonew.ddns.net/pastocnc9/cnc9/playlist.m3u8",
       "logo": "",
@@ -181,6 +217,12 @@
       "category": "Otros"
     },
     {
+      "name": "CNC Tulua (1080p)",
+      "url": "https://live.amelbatv.co:81/cnctulualive/index.fmp4.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
       "name": "CNC Tuluá (720p)",
       "url": "https://cdn.amelbasoluciones.co:8081/cnctulualive/index.m3u8",
       "logo": "",
@@ -189,6 +231,12 @@
     {
       "name": "Cosmovision (720p) [Geo-blocked]",
       "url": "https://videohls2.cosmovision.tv/hls/sd.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Cristovision (720p)",
+      "url": "https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -202,6 +250,12 @@
       }
     },
     {
+      "name": "Tele Mocoa Canal 10 (720p)",
+      "url": "https://live.amelbatv.co:81/telemocoalive/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
       "name": "Tele Vid (1080p)",
       "url": "#EXTINF:-1 tvg-id=\"Teleantioquia2.co@SD\",Teleantioquia 2 (720p)",
       "logo": "",
@@ -211,8 +265,8 @@
       }
     },
     {
-      "name": "Telecaribe Plus (720p)",
-      "url": "#EXTINF:-1 tvg-id=\"BluRadio.co@SD\",Blu Radio (720p)",
+      "name": "Telecaribe (720p)",
+      "url": "#EXTINF:-1 tvg-id=\"Teleislas.co@SD\",Teleislas (486p) [Not 24/7]",
       "logo": "",
       "category": "Otros",
       "options": {
@@ -220,80 +274,17 @@
       }
     },
     {
-      "name": "Eureka (1080p) [Geo-blocked]",
-      "url": "https://mdstrm.com/live-stream-playlist/6952e02d19eabace52e2885f.m3u8",
+      "name": "Telemedellin (720p)",
+      "url": "#EXTINF:-1 tvg-id=\"TuUniversoTV.co@SD\",Tu Universo TV (720p)",
       "logo": "",
-      "category": "Otros"
+      "category": "Otros",
+      "options": {
+        "http-referrer": "https://player.instantvideocloud.net/"
+      }
     },
     {
-      "name": "Canal Capital (1080p) [Geo-blocked]",
-      "url": "https://mdstrm.com/live-stream-playlist/6952dc88cb62083467eb6ab4.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "CTV Barranquilla (1080p)",
-      "url": "https://live.ctvbarranquilla.com/live/ctv-4ad31c89f3764bf0980e642bc12fd00a.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Mundo Mas (720p)",
-      "url": "https://edge.teveo.net/live/AeAAAgA_AALTA1IAyADIUDAAAAGAAAAAAmnFPGG-RDKFAAAA/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Cristovision (720p)",
-      "url": "https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Canal Santa Marta TV (720p)",
-      "url": "https://stream.amelbasoluciones.co/live/santamartalive.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "CMB Television (1080p)",
-      "url": "https://cdn1.cmbcolombia.tv/bethesda/video.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "CNC La Union (720p)",
-      "url": "https://live.amelbatv.co:81/cnclaunion/index.fmp4.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "CNC Tulua (1080p)",
-      "url": "https://live.amelbatv.co:81/cnctulualive/index.fmp4.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Frecuencia F TV (1080p)",
-      "url": "https://tv.frecuenciaf.com/live/envivo_1080p4000kbs/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Noticiero 90 Minutos (1080p)",
-      "url": "https://play.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/021/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Rio Television (720p)",
-      "url": "https://stream.amelbasoluciones.co/live/riotv.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Tele Mocoa Canal 10 (720p)",
-      "url": "https://live.amelbatv.co:81/telemocoalive/index.m3u8",
+      "name": "TV3 La Plata (720p)",
+      "url": "https://cdn.amelbasoluciones.co:8081/teleopitalive/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -310,12 +301,48 @@
       "category": "Otros"
     },
     {
-      "name": "Telecafe (1080p)",
-      "url": "#EXTINF:-1 tvg-id=\"Telemedellin.co@SD\",Telemedellin (720p)",
+      "name": "TV Peñol (720p)",
+      "url": "https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "TV Rivera [Not 24/7]",
+      "url": "https://movil.ejeserver.com/live/tvrivera.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "TV San Jorge (1080p) [Not 24/7]",
+      "url": "https://asucap.com/livestream/asucap_envivo.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Ultra Casanare TV (1080p) [Not 24/7]",
+      "url": "https://eu1.servers10.com:8081/8072/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "UMC TV (720p)",
+      "url": "https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Vive TV Colombia (1080p)",
+      "url": "http://192.144.113.132:1935/live/ViveTV/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Zoom (1080p)",
+      "url": "",
       "logo": "",
       "category": "Otros",
       "options": {
-        "http-referrer": "https://player.instantvideocloud.net/"
+        "http-referrer": "https://canalzoom.org/senal-en-vivo"
       }
     }
   ],
@@ -336,6 +363,12 @@
       {
         "name": "Bendicion Channel (720p)",
         "url": "https://s.emisoras.tv:8081/bendicionchannel/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Blu Radio (720p)",
+        "url": "https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -400,8 +433,20 @@
         "category": "Otros"
       },
       {
+        "name": "Canal Capital (1080p) [Geo-blocked]",
+        "url": "https://mdstrm.com/live-stream-playlist/6952dc88cb62083467eb6ab4.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
         "name": "Canal Dos Yopal (720p)",
         "url": "http://131.221.41.94/hls/canal2.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Canal Institucional (720p)",
+        "url": "https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -426,6 +471,12 @@
       {
         "name": "Canal Oración Con Son (1080p)",
         "url": "https://canal.mediaserver.com.co/live/oracionconson.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Canal Santa Marta TV (720p)",
+        "url": "https://stream.amelbasoluciones.co/live/santamartalive.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -457,6 +508,12 @@
         "category": "Otros"
       },
       {
+        "name": "CMB Television (1080p)",
+        "url": "https://cdn1.cmbcolombia.tv/bethesda/video.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
         "name": "CMB Televisión (1080p)",
         "url": "https://catv.cmbcolombia.tv/bethesda/bethesda/chunklist.m3u8",
         "logo": "",
@@ -481,6 +538,12 @@
         "category": "Otros"
       },
       {
+        "name": "CNC La Union (720p)",
+        "url": "https://live.amelbatv.co:81/cnclaunion/index.fmp4.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
         "name": "CNC Pasto (720p) [Geo-blocked]",
         "url": "https://hvtraficonew.ddns.net/pastocnc9/cnc9/playlist.m3u8",
         "logo": "",
@@ -499,6 +562,12 @@
         "category": "Otros"
       },
       {
+        "name": "CNC Tulua (1080p)",
+        "url": "https://live.amelbatv.co:81/cnctulualive/index.fmp4.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
         "name": "CNC Tuluá (720p)",
         "url": "https://cdn.amelbasoluciones.co:8081/cnctulualive/index.m3u8",
         "logo": "",
@@ -507,6 +576,12 @@
       {
         "name": "Cosmovision (720p) [Geo-blocked]",
         "url": "https://videohls2.cosmovision.tv/hls/sd.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Cristovision (720p)",
+        "url": "https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -520,6 +595,12 @@
         }
       },
       {
+        "name": "Tele Mocoa Canal 10 (720p)",
+        "url": "https://live.amelbatv.co:81/telemocoalive/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
         "name": "Tele Vid (1080p)",
         "url": "#EXTINF:-1 tvg-id=\"Teleantioquia2.co@SD\",Teleantioquia 2 (720p)",
         "logo": "",
@@ -529,8 +610,8 @@
         }
       },
       {
-        "name": "Telecaribe Plus (720p)",
-        "url": "#EXTINF:-1 tvg-id=\"BluRadio.co@SD\",Blu Radio (720p)",
+        "name": "Telecaribe (720p)",
+        "url": "#EXTINF:-1 tvg-id=\"Teleislas.co@SD\",Teleislas (486p) [Not 24/7]",
         "logo": "",
         "category": "Otros",
         "options": {
@@ -538,80 +619,17 @@
         }
       },
       {
-        "name": "Eureka (1080p) [Geo-blocked]",
-        "url": "https://mdstrm.com/live-stream-playlist/6952e02d19eabace52e2885f.m3u8",
+        "name": "Telemedellin (720p)",
+        "url": "#EXTINF:-1 tvg-id=\"TuUniversoTV.co@SD\",Tu Universo TV (720p)",
         "logo": "",
-        "category": "Otros"
+        "category": "Otros",
+        "options": {
+          "http-referrer": "https://player.instantvideocloud.net/"
+        }
       },
       {
-        "name": "Canal Capital (1080p) [Geo-blocked]",
-        "url": "https://mdstrm.com/live-stream-playlist/6952dc88cb62083467eb6ab4.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "CTV Barranquilla (1080p)",
-        "url": "https://live.ctvbarranquilla.com/live/ctv-4ad31c89f3764bf0980e642bc12fd00a.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Mundo Mas (720p)",
-        "url": "https://edge.teveo.net/live/AeAAAgA_AALTA1IAyADIUDAAAAGAAAAAAmnFPGG-RDKFAAAA/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Cristovision (720p)",
-        "url": "https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Canal Santa Marta TV (720p)",
-        "url": "https://stream.amelbasoluciones.co/live/santamartalive.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "CMB Television (1080p)",
-        "url": "https://cdn1.cmbcolombia.tv/bethesda/video.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "CNC La Union (720p)",
-        "url": "https://live.amelbatv.co:81/cnclaunion/index.fmp4.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "CNC Tulua (1080p)",
-        "url": "https://live.amelbatv.co:81/cnctulualive/index.fmp4.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Frecuencia F TV (1080p)",
-        "url": "https://tv.frecuenciaf.com/live/envivo_1080p4000kbs/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Noticiero 90 Minutos (1080p)",
-        "url": "https://play.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/021/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Rio Television (720p)",
-        "url": "https://stream.amelbasoluciones.co/live/riotv.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Tele Mocoa Canal 10 (720p)",
-        "url": "https://live.amelbatv.co:81/telemocoalive/index.m3u8",
+        "name": "TV3 La Plata (720p)",
+        "url": "https://cdn.amelbasoluciones.co:8081/teleopitalive/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -628,12 +646,48 @@
         "category": "Otros"
       },
       {
-        "name": "Telecafe (1080p)",
-        "url": "#EXTINF:-1 tvg-id=\"Telemedellin.co@SD\",Telemedellin (720p)",
+        "name": "TV Peñol (720p)",
+        "url": "https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "TV Rivera [Not 24/7]",
+        "url": "https://movil.ejeserver.com/live/tvrivera.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "TV San Jorge (1080p) [Not 24/7]",
+        "url": "https://asucap.com/livestream/asucap_envivo.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Ultra Casanare TV (1080p) [Not 24/7]",
+        "url": "https://eu1.servers10.com:8081/8072/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "UMC TV (720p)",
+        "url": "https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Vive TV Colombia (1080p)",
+        "url": "http://192.144.113.132:1935/live/ViveTV/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Zoom (1080p)",
+        "url": "",
         "logo": "",
         "category": "Otros",
         "options": {
-          "http-referrer": "https://player.instantvideocloud.net/"
+          "http-referrer": "https://canalzoom.org/senal-en-vivo"
         }
       }
     ]
