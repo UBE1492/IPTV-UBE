@@ -26,4 +26,4 @@
 | 20 | UnionTV | tigocloud.desdeparaguay.net | <https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8> |
 | 21 | Venus Media (720p) | rds3gen.desdeparaguay.net | <https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/.m3u8> |
 
-Updated at **Fri Mar 27 2026 07:14:53 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 27 2026 13:15:41 GMT+0000 (Coordinated Universal Time)**
