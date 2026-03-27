@@ -7,6 +7,7 @@ Audaz_TV_(432p)_[Not_24/7],https://cloud2.streaminglivehd.com:1936/8264/8264/pla
 Barinas_TV_(720p)_[Not_24/7],https://vcp13.myplaytv.com/barinastv/barinastv/playlist.m3u8
 BTA_TV_(720p),https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
 Canal_21_Táchira_(360p),https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8
+Canal_C_Del_Zulia_(720p),https://vs20.live.opencaster.com/cristianhilos_314b91b0/index.m3u8
 Canal_Once_(480p),#EXTVLCOPT:http-referrer=https://canal11delzulia.com/
 TAM_TV_(240p),https://tv.webtuya.com:3726/live/tammeridalive.m3u8
 TeleAragua_(480p),http://45.173.198.59:8080/hls/nginx3.m3u8?tla=

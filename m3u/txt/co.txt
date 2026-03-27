@@ -17,7 +17,6 @@ Canal_Más_Televisión_(720p),https://movil.ejeserver.com/live/teledoradahd.m3u8
 Canal_Mundo_Visión_(720p)_[Not_24/7],https://movil.ejeserver.com/live/mundovisiontv.m3u8
 Canal_Nets_(720p)_[Not_24/7],https://movil.ejeserver.com/live/nets.m3u8
 Canal_Oración_Con_Son_(1080p),https://canal.mediaserver.com.co/live/oracionconson.m3u8
-Canal_Santa_Marta_TV_(720p)_[Not_24/7],https://cdn.amelbasoluciones.co:8081/santamartalive/index.m3u8
 Canal_Telefamilia_(360p)_[Not_24/7],https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
 Canal_TRO_(1080p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 Canal_TV3_(720p)_[Not_24/7],https://streaming.telenetdigital.net.co:8086/canal3tv/stream.m3u8
@@ -27,7 +26,6 @@ CMB_Televisión_(1080p),https://catv.cmbcolombia.tv/bethesda/bethesda/chunklist.
 CNC_Bugavisión_(720p),https://movil.ejeserver.com/live/cncbuga.m3u8
 CNC_Chocó_(720p)_[Not_24/7],https://hvtraficonew.ddns.net/corescomunicaciones/index.fmp4.m3u8
 CNC_HD_Online_(1080p)_[Geo-blocked],https://hvtraficonew.ddns.net/pastocnc6/cnc6/playlist.m3u8
-CNC_La_Unión_(720p)_[Not_24/7],https://cdn.streamtech.com.co/cnclaunion/streams/xqujjFzO6xsKIDbS1371921740891.m3u8
 CNC_Pasto_(720p)_[Geo-blocked],https://hvtraficonew.ddns.net/pastocnc9/cnc9/playlist.m3u8
 CNC_Pereira_(720p),https://cloudpro.servidoresdestream.com:19360/latinchanel/latinchanel.m3u8
 CNC_Santander_de_Quilichao_(480p),https://movil.ejeserver.com/live/cncsantander.m3u8
@@ -37,17 +35,22 @@ Cristovisión_(480p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Wi
 Tele_Mocoa_Canal_10_(1080p),https://cdn.amelbasoluciones.co:8081/telemocoalive/index.m3u8
 Tele_Vid_(1080p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 Teleantioquia_2_(720p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-Telecaribe_(720p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-Teleislas_(486p)_[Not_24/7],https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
-Telepacífico_(1080p)_[Geo-blocked],https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
-TeveColombia_(720p)_[Not_24/7],https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8
-Trece+_(480p),http://190.2.212.209:8050/play/a0nf
-Tu_Universo_TV_(720p),https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
-TV3_La_Plata_(720p),https://cdn.amelbasoluciones.co:8081/teleopitalive/index.m3u8
-TV_Peñol_(720p),https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8
-TV_Rivera_[Not_24/7],https://movil.ejeserver.com/live/tvrivera.m3u8
-TV_San_Jorge_(1080p)_[Not_24/7],https://asucap.com/livestream/asucap_envivo.m3u8
-Ultra_Casanare_TV_(1080p)_[Not_24/7],https://eu1.servers10.com:8081/8072/index.m3u8
-UMC_TV_(720p),https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8
-Vive_TV_Colombia_(1080p),http://192.144.113.132:1935/live/ViveTV/playlist.m3u8
-Zoom_(1080p),#EXTVLCOPT:http-referrer=https://canalzoom.org/senal-en-vivo
+Telecaribe_Plus_(720p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+Blu_Radio_(720p),https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
+Eureka_(1080p)_[Geo-blocked],https://mdstrm.com/live-stream-playlist/6952e02d19eabace52e2885f.m3u8
+Canal_Capital_(1080p)_[Geo-blocked],https://mdstrm.com/live-stream-playlist/6952dc88cb62083467eb6ab4.m3u8
+CTV_Barranquilla_(1080p),https://live.ctvbarranquilla.com/live/ctv-4ad31c89f3764bf0980e642bc12fd00a.m3u8
+Mundo_Mas_(720p),https://edge.teveo.net/live/AeAAAgA_AALTA1IAyADIUDAAAAGAAAAAAmnFPGG-RDKFAAAA/playlist.m3u8
+Cristovision_(720p),https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8
+Canal_Santa_Marta_TV_(720p),https://stream.amelbasoluciones.co/live/santamartalive.m3u8
+CMB_Television_(1080p),https://cdn1.cmbcolombia.tv/bethesda/video.m3u8
+CNC_La_Union_(720p),https://live.amelbatv.co:81/cnclaunion/index.fmp4.m3u8
+CNC_Tulua_(1080p),https://live.amelbatv.co:81/cnctulualive/index.fmp4.m3u8
+Frecuencia_F_TV_(1080p),https://tv.frecuenciaf.com/live/envivo_1080p4000kbs/index.m3u8
+Noticiero_90_Minutos_(1080p),https://play.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/021/playlist.m3u8
+Rio_Television_(720p),https://stream.amelbasoluciones.co/live/riotv.m3u8
+Tele_Mocoa_Canal_10_(720p),https://live.amelbatv.co:81/telemocoalive/index.m3u8
+TV3_La_Plata_(480p),https://live.amelbatv.co:81/teleopita/index.fmp4.m3u8
+TV_Penol_(720p)_[Not_24/7],https://live20.bozztv.com/akamaissh101/ssh101/tvpenol2026/playlist.m3u8
+Telecafe_(1080p),#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+Telemedellin_(720p),#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/

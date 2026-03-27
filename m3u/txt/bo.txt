@@ -10,12 +10,12 @@ CEACOM_TV_[Not_24/7],https://eu1.servers10.com:8081/ceacom/index.m3u8
 CTV,https://live.ctvbolivia.com/hls/ctv.m3u8
 F10_HD_[Geo-blocked],https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
 FAP_TV_(480p),https://nd106.republicaservers.com/hls/c7284/index.m3u8
-FTV,https://master.tucableip.com/ftvhd/index.m3u8
+FTV_(720p),https://master.tucableip.com/ftvhd/index.m3u8
 Palenque_TV,https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8
 PAT_La_Paz,https://www.redpat.tv/proxylpz/index.m3u8
 Red_ADvenir_TV_(360p)_[Not_24/7],http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
 Red_CCTV_(480p),https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
-Red_TV_Shop,https://master.tucableip.com/redtvshop/index.m3u8
+Red_TV_Shop_(720p),https://master.tucableip.com/redtvshop/index.m3u8
 Red_Uno_Santa_Cruz,https://master.tucableip.com/muxredunosc/index.m3u8
 RTP,https://rtp.noxun.net/hls/stream.m3u8
 TDT_Multimedia_(720p),https://video01.kshost.com.br:4443/juan6318/juan6318/playlist.m3u8

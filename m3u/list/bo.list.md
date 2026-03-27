@@ -15,12 +15,12 @@
 | 9 | CTV | live.ctvbolivia.com | <https://live.ctvbolivia.com/hls/ctv.m3u8> |
 | 10 | F10 HD [Geo-blocked] | tv2.bitstreaming.net:3235 | <https://tv2.bitstreaming.net:3235/multi_live/play.m3u8> |
 | 11 | FAP TV (480p) | nd106.republicaservers.com | <https://nd106.republicaservers.com/hls/c7284/index.m3u8> |
-| 12 | FTV | master.tucableip.com | <https://master.tucableip.com/ftvhd/index.m3u8> |
+| 12 | FTV (720p) | master.tucableip.com | <https://master.tucableip.com/ftvhd/index.m3u8> |
 | 13 | Palenque TV | tv.bitstreaming.net:3234 | <https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8> |
 | 14 | PAT La Paz | www.redpat.tv | <https://www.redpat.tv/proxylpz/index.m3u8> |
 | 15 | Red ADvenir TV (360p) [Not 24/7] | streamer1.streamhost.org:1935 | <http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8> |
 | 16 | Red CCTV (480p) | solo.disfrutaenlared.com:1936 | <https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8> |
-| 17 | Red TV Shop | master.tucableip.com | <https://master.tucableip.com/redtvshop/index.m3u8> |
+| 17 | Red TV Shop (720p) | master.tucableip.com | <https://master.tucableip.com/redtvshop/index.m3u8> |
 | 18 | Red Uno Santa Cruz | master.tucableip.com | <https://master.tucableip.com/muxredunosc/index.m3u8> |
 | 19 | RTP | rtp.noxun.net | <https://rtp.noxun.net/hls/stream.m3u8> |
 | 20 | TDT Multimedia (720p) | video01.kshost.com.br:4443 | <https://video01.kshost.com.br:4443/juan6318/juan6318/playlist.m3u8> |
@@ -31,4 +31,4 @@
 | 25 | UPP TV/Bolivisión SCZ (720p) [Not 24/7] | alba-bo-bolivision-upptv.stream.mediatiquestream.com | <https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/index.m3u8> |
 | 26 | VTV Canal 17 (720p) [Not 24/7] | solo.disfrutaenlared.com:1936 | <https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/playlist.m3u8> |
 
-Updated at **Thu Mar 26 2026 19:13:27 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 27 2026 02:44:38 GMT+0000 (Coordinated Universal Time)**

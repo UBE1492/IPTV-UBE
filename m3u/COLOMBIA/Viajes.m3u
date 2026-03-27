@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="CanalMundoVision.co@SD",Canal Mundo Visión (720p) [Not 24/7]
 https://movil.ejeserver.com/live/mundovisiontv.m3u8
+#EXTINF:-1 tvg-id="MundoMas.co@SD",Mundo Mas (720p)
+https://edge.teveo.net/live/AeAAAgA_AALTA1IAyADIUDAAAAGAAAAAAmnFPGG-RDKFAAAA/playlist.m3u8

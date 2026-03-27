@@ -1,11 +1,17 @@
 {
   "name": "py",
-  "updated_at": 1774552407858,
+  "updated_at": 1774579479190,
   "m3u": "https://ube1492.github.io/IPTV-UBE/py.m3u",
   "channels": [
     {
       "name": "4DmásNoticias TV (1080p) [Not 24/7]",
       "url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Almaya TV (720p)",
+      "url": "https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -122,12 +128,6 @@
       "url": "https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/.m3u8",
       "logo": "",
       "category": "Otros"
-    },
-    {
-      "name": "Almaya TV (720p)",
-      "url": "https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8",
-      "logo": "",
-      "category": "Otros"
     }
   ],
   "categories": {
@@ -135,6 +135,12 @@
       {
         "name": "4DmásNoticias TV (1080p) [Not 24/7]",
         "url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Almaya TV (720p)",
+        "url": "https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -249,12 +255,6 @@
       {
         "name": "Venus Media (720p)",
         "url": "https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Almaya TV (720p)",
-        "url": "https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8",
         "logo": "",
         "category": "Otros"
       }

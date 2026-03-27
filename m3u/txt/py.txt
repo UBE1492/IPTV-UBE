@@ -1,5 +1,6 @@
 Undefined,#genre#
 4DmásNoticias_TV_(1080p)_[Not_24/7],https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
+Almaya_TV_(720p),https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8
 Bruno_Masi_TV_(720p),https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
 C9N,https://alba-py-c9n-c9n.stream.mediatiquestream.com/playlist.m3u8
 Canal_5_TV_Max_(720p),https://video.wilohosting.com:19360/tvmax/tvmax.m3u8
@@ -19,4 +20,3 @@ TelePortal_Canal_53.1_(1080p)_[Geo-blocked],https://live20.bozztv.com/giatv/giat
 Trece_Paraguay_(1080p)_[Not_24/7],https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
 UnionTV,https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
 Venus_Media_(720p),https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/.m3u8
-Almaya_TV_(720p),https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8

@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="LaFabulosaTV.pe@SD",La Fabulosa Radio y TV
+#EXTINF:-1 tvg-id="LaFabulosaTV.pe@SD",La Fabulosa Radio y TV (720p)
 https://eu1.servers10.com:8081/8004/index.m3u8
 #EXTINF:-1 tvg-id="RadioMaster.pe@HD",Radio Master (720p)
 https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8

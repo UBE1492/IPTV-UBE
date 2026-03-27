@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Canal21Tachira.ve@SD",Canal 21 Táchira (360p)
 https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalCdelZulia.ve@HD",Canal C Del Zulia (720p)
+https://vs20.live.opencaster.com/cristianhilos_314b91b0/index.m3u8
 #EXTINF:-1 tvg-id="CanalOnce.ve@SD",Canal Once (480p)
 #EXTVLCOPT:http-referrer=https://canal11delzulia.com/
 #EXTINF:-1 tvg-id="TeleAragua.ve@SD",TeleAragua (480p)

@@ -1,6 +1,6 @@
 {
   "name": "bo",
-  "updated_at": 1774552407653,
+  "updated_at": 1774579478586,
   "m3u": "https://ube1492.github.io/IPTV-UBE/bo.m3u",
   "channels": [
     {
@@ -70,7 +70,7 @@
       "category": "Otros"
     },
     {
-      "name": "FTV",
+      "name": "FTV (720p)",
       "url": "https://master.tucableip.com/ftvhd/index.m3u8",
       "logo": "",
       "category": "Otros"
@@ -100,7 +100,7 @@
       "category": "Otros"
     },
     {
-      "name": "Red TV Shop",
+      "name": "Red TV Shop (720p)",
       "url": "https://master.tucableip.com/redtvshop/index.m3u8",
       "logo": "",
       "category": "Otros"
@@ -244,7 +244,7 @@
         "category": "Otros"
       },
       {
-        "name": "FTV",
+        "name": "FTV (720p)",
         "url": "https://master.tucableip.com/ftvhd/index.m3u8",
         "logo": "",
         "category": "Otros"
@@ -274,7 +274,7 @@
         "category": "Otros"
       },
       {
-        "name": "Red TV Shop",
+        "name": "Red TV Shop (720p)",
         "url": "https://master.tucableip.com/redtvshop/index.m3u8",
         "logo": "",
         "category": "Otros"
