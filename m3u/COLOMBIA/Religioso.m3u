@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Telecafe.co@SD",Telecafe (1080p)
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/

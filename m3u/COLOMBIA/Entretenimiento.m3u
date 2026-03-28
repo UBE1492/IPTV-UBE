@@ -10,7 +10,7 @@ http://190.211.140.89:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal55TelemoriscoTV.co@SD",Canal 55 Telemorisco TV (720p)
 http://canal.mediaserver.com.co/live/telemorisco.m3u8
 #EXTINF:-1 tvg-id="CanalCalimaTV.co@SD",Canal Calima TV (720p)
-https://cdn.amelbasoluciones.co:8081/calimalive/index.m3u8
+https://movil.ejeserver.com/live/calimatv.m3u8
 #EXTINF:-1 tvg-id="CanalSantaMartaTV.co@SD",Canal Santa Marta TV (720p)
 https://stream.amelbasoluciones.co/live/santamartalive.m3u8
 #EXTINF:-1 tvg-id="CanalTV3.co@SD",Canal TV3 (720p) [Not 24/7]
@@ -19,23 +19,39 @@ https://streaming.telenetdigital.net.co:8086/canal3tv/stream.m3u8
 https://stmv4.voxtvhd.com.br/canicatv/canicatv/playlist.m3u8
 #EXTINF:-1 tvg-id="CitytvBogota.co@SD",Citytv Bogota (1080p)
 http://181.114.57.246:4000/play/u2H4dIJoRipgGI3A/index.m3u8
-#EXTINF:-1 tvg-id="TuUniversoTV.co@SD",Tu Universo TV (720p)
-https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
-#EXTINF:-1 tvg-id="TV3LaPlata.co@SD",TV3 La Plata (720p)
-https://cdn.amelbasoluciones.co:8081/teleopitalive/index.m3u8
-#EXTINF:-1 tvg-id="TV3LaPlata.co@SD",TV3 La Plata (480p)
-https://live.amelbatv.co:81/teleopita/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="TVPenol.co@SD",TV Penol (720p) [Not 24/7]
-https://live20.bozztv.com/akamaissh101/ssh101/tvpenol2026/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPenol.co@SD",TV Peñol (720p)
-https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8
-#EXTINF:-1 tvg-id="TVRivera.co@SD",TV Rivera [Not 24/7]
-https://movil.ejeserver.com/live/tvrivera.m3u8
-#EXTINF:-1 tvg-id="TVSanJorge.co@SD",TV San Jorge (1080p) [Not 24/7]
-https://asucap.com/livestream/asucap_envivo.m3u8
-#EXTINF:-1 tvg-id="UltraCasanareTV.co@SD",Ultra Casanare TV (1080p) [Not 24/7]
-https://eu1.servers10.com:8081/8072/index.m3u8
-#EXTINF:-1 tvg-id="UMCTV.co@SD",UMC TV (720p)
-https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8
-#EXTINF:-1 tvg-id="ViveTV.co@SD",Vive TV Colombia (1080p)
-http://192.144.113.132:1935/live/ViveTV/playlist.m3u8
+#EXTINF:-1 tvg-id="CTVBarranquilla.co@SD",CTV Barranquilla (1080p) [Not 24/7]
+https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8
+#EXTINF:-1 tvg-id="CTVBarranquilla.co@SD",CTV Barranquilla (1080p)
+https://live.ctvbarranquilla.com/live/ctv-4ad31c89f3764bf0980e642bc12fd00a.m3u8
+#EXTINF:-1 tvg-id="CucutaRetroTV.co@SD",Cúcuta Retro TV [Not 24/7]
+https://mist01.homestream.fun/hls/ntvlive/0_1/index.m3u8
+#EXTINF:-1 tvg-id="FrecuenciaFTV.co@SD",Frecuencia F TV (1080p)
+https://tv.frecuenciaf.com/live/envivo.m3u8
+#EXTINF:-1 tvg-id="KaluTV.co@SD",Kalu TV (720p)
+https://tv.kaludecolombia.com/memfs/800a956d-5ada-4bf1-ac15-0d11e689179c.m3u8
+#EXTINF:-1 tvg-id="MasNorteTV.co@SD",Mas Norte TV [Not 24/7]
+https://live.arnoproducciones.com/hls/norte.m3u8
+#EXTINF:-1 tvg-id="MaxTV.co@HD",MaxTV [Not 24/7]
+https://inliveserver.com:1936/8078/8078/playlist.m3u8
+#EXTINF:-1 tvg-id="MemoriasTVClassic.co@SD",Memorias TV Classic (480p) [Geo-blocked]
+https://video.xtrematv.com:3576/live/memoriasclassiclive.m3u8
+#EXTINF:-1 tvg-id="MemoriasTVFilm.co@SD",Memorias TV Film (720p) [Geo-blocked]
+https://video.xtrematv.com:3725/live/memoriasfilmlive.m3u8
+#EXTINF:-1 tvg-id="MemoriasTVTropical.co@SD",Memorias TV Tropical (480p) [Geo-blocked]
+https://video.xtrematv.com:3361/live/memoriastropicallive.m3u8
+#EXTINF:-1 tvg-id="MiGenteTV.co@SD",Mi Gente TV (720p) [Geo-blocked]
+https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/video.m3u8
+#EXTINF:-1 tvg-id="NSTV.co@SD",NSTV (1080p)
+https://sistemastr.tropicalmoonmedia.com/live/2C7CA6CECC9B8F8C3A07315FDA110936/21.m3u8
+#EXTINF:-1 tvg-id="NSTV.co@SD",NSTV (720p)
+http://138.186.23.7:22281/nstv/nstv/playlist.m3u8
+#EXTINF:-1 tvg-id="OasisTV.co@SD",Oasis TV (720p) [Not 24/7]
+https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
+#EXTINF:-1 tvg-id="OndambientalTV.co@SD",Ondambiental TV (360p)
+https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8
+#EXTINF:-1 tvg-id="SupermusicaTV.co@SD",Supermúsica TV (720p)
+https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8
+#EXTINF:-1 tvg-id="SuramTV.co@SD",Suram TV (1080p)
+https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8
+#EXTINF:-1 tvg-id="SuramTV.co@SD",Suram TV (720p)
+https://us.streaminghd.cl/suramtv/index.m3u8

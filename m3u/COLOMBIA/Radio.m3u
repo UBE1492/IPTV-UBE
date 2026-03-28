@@ -1,3 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="BluRadio.co@SD",Blu Radio (720p)
 https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
+#EXTINF:-1 tvg-id="LaMoradaRadioTV.co@SD",La Morada Radio TV (720p)
+https://movil.ejeserver.com/live/lamoradatv.m3u8
+#EXTINF:-1 tvg-id="LunaEstereo1064FM.co@SD",Luna Estéreo 106.4 FM (720p) [Not 24/7]
+https://servervideo.intermediacolombia.com:19360/kychbbfhdz/kychbbfhdz.m3u8
+#EXTINF:-1 tvg-id="MasMusicaFM.co@SD",MasMusica FM (720p)
+https://movil.ejeserver.com/live/masmusica.m3u8
+#EXTINF:-1 tvg-id="MemoriasFMPopLatino.co@SD",Memorias FM Pop Latino (480p) [Geo-blocked]
+https://video.xtrematv.com:3891/live/memoriaspoplatinolive.m3u8

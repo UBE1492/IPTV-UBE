@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="CanalMundoVision.co@SD",Canal Mundo Visión (720p) [Not 24/7]
 https://movil.ejeserver.com/live/mundovisiontv.m3u8
+#EXTINF:-1 tvg-id="ElMundodelCampo.co@SD",El Mundo del Campo (720p)
+https://movil.ejeserver.com/live/elmundodelcampo.m3u8
