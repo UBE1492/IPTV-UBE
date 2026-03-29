@@ -84,4 +84,4 @@
 | 78 | Telepacífico (1080p) [Geo-blocked] | play.cdn.enetres.net | <https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8> |
 | 79 | TeveColombia (720p) [Not 24/7] | cloud6.livescast.com:3900 | <https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8> |
 
-Updated at **Sat Mar 28 2026 18:48:23 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Mar 29 2026 02:48:47 GMT+0000 (Coordinated Universal Time)**
