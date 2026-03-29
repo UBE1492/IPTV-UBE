@@ -8,4 +8,4 @@
 | 2 | Radio Tropical Tarapoto (480p) [Not 24/7] | videoserver.tmcreativos.com:19360 | <https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8> |
 | 3 | La Fabulosa Radio y TV (720p) | eu1.servers10.com:8081 | <https://eu1.servers10.com:8081/8004/index.m3u8> |
 
-Updated at **Sun Mar 29 2026 13:04:31 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Mar 29 2026 18:50:40 GMT+0000 (Coordinated Universal Time)**
