@@ -4,11 +4,11 @@ Autentica_TV_|_PE,https://live.obslivestream.com/autenticatvmux/index.m3u8?Playl
 Vision_Musica_TV_|_PE,https://videoserver.tmcreativos.com:19360/visionmusica/visionmusica.m3u8?PlaylistM3UCL
 Canal_8_Catacaos_|_PE,https://live.obslivestream.com/canal8/index.m3u8?PlaylistM3UCL
 CR_TV_|_PE,https://live.obslivestream.com/crtvmux/index.m3u8?PlaylistM3UCL
-Mundo_de_la_Musica_TV_|_CL,https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL
 ATV_|_PE,https://d19e55ehz2il4i.cloudfront.net/index.m3u8?PlaylistM3UCL
 ATV_Sur_|_PE,https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8?PlaylistM3UCL
-Mega_TV_Jaen_|_PE,https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8?PlaylistM3UCL
 OK_TeVe_|_PE,https://live.obslivestream.com/oktv/video.m3u8?token=Bk-DXAXulO1OV0&PlaylistM3UCL
+Mega_TV_Jaen_|_PE,https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8?PlaylistM3UCL
+Mundo_de_la_Musica_TV_|_CL,https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL
 ATV+_|_PE,https://d1svme839xkbsn.cloudfront.net/index.m3u8?PlaylistM3UCL
 Tele_Selva_|_PE,https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8?PlaylistM3UCL
 Telecolor_TV_|_PE,https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL
