@@ -1,6 +1,6 @@
 {
   "name": "ar",
-  "updated_at": 1774768207332,
+  "updated_at": 1774789468576,
   "m3u": "https://ube1492.github.io/IPTV-UBE/ar.m3u",
   "channels": [
     {
@@ -23,6 +23,12 @@
       "options": {
         "http-user-agent": "Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36"
       }
+    },
+    {
+      "name": "Atcco Canal 2",
+      "url": "https://ola1.com.ar/atccohd/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
     },
     {
       "name": "ATV Argentina",
@@ -374,6 +380,12 @@
         "options": {
           "http-user-agent": "Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36"
         }
+      },
+      {
+        "name": "Atcco Canal 2",
+        "url": "https://ola1.com.ar/atccohd/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
       },
       {
         "name": "ATV Argentina",

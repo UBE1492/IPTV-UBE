@@ -3,6 +3,7 @@ Undefined,#genre#
 24/7_Canal_de_Noticias,https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
 A24_(720p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 Argentinísima_Satelital_(540p),https://stream1.sersat.com/hls/argentinisima.m3u8
+Atcco_Canal_2,https://ola1.com.ar/atccohd/playlist.m3u8
 ATV_Argentina,https://tv.streaming.com.bo/atvargentina/index.m3u8
 Azahares_Radio_Multimedia_(720p),https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
 Bayres_TV_(720p),https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
