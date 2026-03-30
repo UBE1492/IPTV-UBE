@@ -81,7 +81,17 @@
 | 75 | Suram TV (1080p) | livetv.305streamhd.com:3111 | <https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8> |
 | 76 | Suram TV (720p) | us.streaminghd.cl | <https://us.streaminghd.cl/suramtv/index.m3u8> |
 | 77 | Telebolívar (720p) | live20.bozztv.com | <https://live20.bozztv.com/akamaissh101/ssh101/telebolivar/playlist.m3u8> |
-| 78 | Telepacífico (1080p) [Geo-blocked] | play.cdn.enetres.net | <https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8> |
-| 79 | TeveColombia (720p) [Not 24/7] | cloud6.livescast.com:3900 | <https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8> |
+| 78 | Teleislas (486p) [Not 24/7] | 5ab772334c39c.streamlock.net | <https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8> |
+| 79 | Tu Universo TV (720p) | 5bf8041cb3fed.streamlock.net | <https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8> |
+| 80 | TV3 La Plata (480p) | live.amelbatv.co:81 | <https://live.amelbatv.co:81/teleopita/index.fmp4.m3u8> |
+| 81 | TV Penol (720p) [Not 24/7] | live20.bozztv.com | <https://live20.bozztv.com/akamaissh101/ssh101/tvpenol2026/playlist.m3u8> |
+| 82 | TV Rivera [Not 24/7] | movil.ejeserver.com | <https://movil.ejeserver.com/live/tvrivera.m3u8> |
+| 83 | TV San Jorge (1080p) [Not 24/7] | asucap.com | <https://asucap.com/livestream/asucap_envivo.m3u8> |
+| 84 | Ultra Casanare TV (1080p) [Not 24/7] | eu1.servers10.com:8081 | <https://eu1.servers10.com:8081/8072/index.m3u8> |
+| 85 | UMC TV (720p) | streaming5.globalhostla.com | <https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8> |
+| 86 | Vive TV Colombia (1080p) | IPv4 直链 | <http://192.144.113.132:1935/live/ViveTV/playlist.m3u8> |
+| 87 | La Cheverisima Radio TV (720p) | byecablecluster.ddns.net | <https://byecablecluster.ddns.net/neira/neira.stream/index.fmp4.m3u8> |
+| 88 | Telesangil (720p) | live20.bozztv.com | <https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8> |
+| 89 | Canal PyC (720p) | live20.bozztv.com | <https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8> |
 
-Updated at **Sun Mar 29 2026 18:50:37 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Mar 30 2026 02:51:01 GMT+0000 (Coordinated Universal Time)**

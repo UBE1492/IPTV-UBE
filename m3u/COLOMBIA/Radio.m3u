@@ -9,3 +9,5 @@ https://servervideo.intermediacolombia.com:19360/kychbbfhdz/kychbbfhdz.m3u8
 https://movil.ejeserver.com/live/masmusica.m3u8
 #EXTINF:-1 tvg-id="MemoriasFMPopLatino.co@SD",Memorias FM Pop Latino (480p) [Geo-blocked]
 https://video.xtrematv.com:3891/live/memoriaspoplatinolive.m3u8
+#EXTINF:-1 tvg-id="LaCheverisimaRadioTV.co@SD",La Cheverisima Radio TV (720p)
+https://byecablecluster.ddns.net/neira/neira.stream/index.fmp4.m3u8

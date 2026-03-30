@@ -59,7 +59,6 @@
 | 53 | Chilecito TV (480p) | vivo.solumedia.com:19360 | <https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8> |
 | 54 | Ciudad Magazine (1080p) [Geo-blocked] | live-01-07-ciudad.vodgc.net | <https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8> |
 | 55 | Cumbia Mix (720p) | cloud.tvomix.com | <https://cloud.tvomix.com/CUMBIAMIX/index.m3u8> |
-| 56 | Disney Channel Latin America (1080p) | IPv4 直链 | <http://201.230.121.186:8000/play/a0fb/index.m3u8> |
-| 57 | El Trece (1080p) | live-01-02-eltrece.vodgc.net | <https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8> |
+| 56 | El Trece (1080p) | live-01-02-eltrece.vodgc.net | <https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8> |
 
-Updated at **Sun Mar 29 2026 18:50:37 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Mar 30 2026 02:50:59 GMT+0000 (Coordinated Universal Time)**

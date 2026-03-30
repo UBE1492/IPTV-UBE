@@ -1,6 +1,6 @@
 {
   "name": "ar",
-  "updated_at": 1774810237028,
+  "updated_at": 1774839059445,
   "m3u": "https://ube1492.github.io/IPTV-UBE/ar.m3u",
   "channels": [
     {
@@ -333,12 +333,6 @@
     {
       "name": "Cumbia Mix (720p)",
       "url": "https://cloud.tvomix.com/CUMBIAMIX/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Disney Channel Latin America (1080p)",
-      "url": "http://201.230.121.186:8000/play/a0fb/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -690,12 +684,6 @@
       {
         "name": "Cumbia Mix (720p)",
         "url": "https://cloud.tvomix.com/CUMBIAMIX/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Disney Channel Latin America (1080p)",
-        "url": "http://201.230.121.186:8000/play/a0fb/index.m3u8",
         "logo": "",
         "category": "Otros"
       },

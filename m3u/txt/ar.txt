@@ -55,7 +55,6 @@ Chaco_TV_(720p)_[Not_24/7],https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playli
 Chilecito_TV_(480p),https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
 Ciudad_Magazine_(1080p)_[Geo-blocked],https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 Cumbia_Mix_(720p),https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
-Disney_Channel_Latin_America_(1080p),http://201.230.121.186:8000/play/a0fb/index.m3u8
 El_Trece_(1080p),https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 Xtrema_Cartoons,#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1390
 Xtrema_Terror,#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1456

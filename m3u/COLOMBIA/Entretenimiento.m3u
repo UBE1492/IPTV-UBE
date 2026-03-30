@@ -55,3 +55,19 @@ https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8
 https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8
 #EXTINF:-1 tvg-id="SuramTV.co@SD",Suram TV (720p)
 https://us.streaminghd.cl/suramtv/index.m3u8
+#EXTINF:-1 tvg-id="TuUniversoTV.co@SD",Tu Universo TV (720p)
+https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
+#EXTINF:-1 tvg-id="TV3LaPlata.co@SD",TV3 La Plata (480p)
+https://live.amelbatv.co:81/teleopita/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="TVPenol.co@SD",TV Penol (720p) [Not 24/7]
+https://live20.bozztv.com/akamaissh101/ssh101/tvpenol2026/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRivera.co@SD",TV Rivera [Not 24/7]
+https://movil.ejeserver.com/live/tvrivera.m3u8
+#EXTINF:-1 tvg-id="TVSanJorge.co@SD",TV San Jorge (1080p) [Not 24/7]
+https://asucap.com/livestream/asucap_envivo.m3u8
+#EXTINF:-1 tvg-id="UltraCasanareTV.co@SD",Ultra Casanare TV (1080p) [Not 24/7]
+https://eu1.servers10.com:8081/8072/index.m3u8
+#EXTINF:-1 tvg-id="UMCTV.co@SD",UMC TV (720p)
+https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8
+#EXTINF:-1 tvg-id="ViveTV.co@SD",Vive TV Colombia (1080p)
+http://192.144.113.132:1935/live/ViveTV/playlist.m3u8
