@@ -94,4 +94,4 @@
 | 88 | Telesangil (720p) | live20.bozztv.com | <https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8> |
 | 89 | Canal PyC (720p) | live20.bozztv.com | <https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8> |
 
-Updated at **Mon Mar 30 2026 07:48:35 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Mar 30 2026 13:42:56 GMT+0000 (Coordinated Universal Time)**
