@@ -52,4 +52,4 @@
 | 46 | Vos y TV (720p) [Not 24/7] | cloud37.ecuatel.com | <https://cloud37.ecuatel.com/vostv/live/manifest.m3u8> |
 | 47 | Zaracay TV (1080p) [Not 24/7] | video2.makrodigital.com | <https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8> |
 
-Updated at **Mon Mar 30 2026 13:42:56 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Mar 30 2026 19:05:05 GMT+0000 (Coordinated Universal Time)**

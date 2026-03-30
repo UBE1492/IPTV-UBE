@@ -1,6 +1,6 @@
 {
   "name": "pe_regionales",
-  "updated_at": 1774878182797,
+  "updated_at": 1774897512337,
   "m3u": "https://ube1492.github.io/IPTV-UBE/pe_regionales.m3u",
   "channels": [
     {
@@ -22,21 +22,15 @@
       "category": "Without category"
     },
     {
-      "name": "ATV Sur | PE",
-      "url": "https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/1492_ATV_Sur.png",
-      "category": "Without category"
-    },
-    {
       "name": "Controversia TV | PE",
       "url": "https://live.obslivestream.com/controversiatv/index.m3u8?PlaylistM3UCL",
       "logo": "https://cdn.m3u.cl/logo/1188_Controversia_TV.png",
       "category": "Without category"
     },
     {
-      "name": "OK TeVe | PE",
-      "url": "https://live.obslivestream.com/oktv/video.m3u8?token=Bk-DXAXulO1OV0&PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/1095_OK_TeVe.png",
+      "name": "ATV Sur | PE",
+      "url": "https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/1492_ATV_Sur.png",
       "category": "Without category"
     },
     {
@@ -46,9 +40,15 @@
       "category": "Without category"
     },
     {
-      "name": "Mega TV Jaen | PE",
-      "url": "https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/1491_Mega_TV_Jaen.png",
+      "name": "OK TeVe | PE",
+      "url": "https://live.obslivestream.com/oktv/video.m3u8?token=Bk-DXAXulO1OV0&PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/1095_OK_TeVe.png",
+      "category": "Without category"
+    },
+    {
+      "name": "Turbo Mix TV | PE",
+      "url": "https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/43_Turbo_Mix_TV.png",
       "category": "Without category"
     },
     {
@@ -58,9 +58,9 @@
       "category": "Without category"
     },
     {
-      "name": "Canal 8 Catacaos | PE",
-      "url": "https://live.obslivestream.com/canal8/index.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/1097_Canal_8_Catacaos.png",
+      "name": "BHTV | PE",
+      "url": "https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/695_BHTV.png",
       "category": "Without category"
     },
     {
@@ -70,9 +70,9 @@
       "category": "Without category"
     },
     {
-      "name": "BHTV | PE",
-      "url": "https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/695_BHTV.png",
+      "name": "Canal 8 Catacaos | PE",
+      "url": "https://live.obslivestream.com/canal8/index.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/1097_Canal_8_Catacaos.png",
       "category": "Without category"
     },
     {
@@ -88,21 +88,9 @@
       "category": "Without category"
     },
     {
-      "name": "Tele Selva | PE",
-      "url": "https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/1546_Tele_Selva.png",
-      "category": "Without category"
-    },
-    {
       "name": "Uranio TV | PE",
       "url": "https://live.obslivestream.com/uraniotv/index.m3u8?PlaylistM3UCL",
       "logo": "https://cdn.m3u.cl/logo/1094_Uranio_TV.png",
-      "category": "Without category"
-    },
-    {
-      "name": "Via Alto Mayo TV | PE",
-      "url": "https://live.obslivestream.com/viaaltomayomux/index.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/1191_Via_Alto_Mayo_TV.png",
       "category": "Without category"
     },
     {
@@ -112,9 +100,27 @@
       "category": "Without category"
     },
     {
+      "name": "Via Alto Mayo TV | PE",
+      "url": "https://live.obslivestream.com/viaaltomayomux/index.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/1191_Via_Alto_Mayo_TV.png",
+      "category": "Without category"
+    },
+    {
       "name": "Via Television Tarapoto | PE",
       "url": "https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8?PlaylistM3UCL",
       "logo": "https://cdn.m3u.cl/logo/703_Via_Television_Tarapoto.png",
+      "category": "Without category"
+    },
+    {
+      "name": "Tele Selva | PE",
+      "url": "https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/1546_Tele_Selva.png",
+      "category": "Without category"
+    },
+    {
+      "name": "Mega TV Jaen | PE",
+      "url": "https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/1491_Mega_TV_Jaen.png",
       "category": "Without category"
     },
     {
@@ -145,21 +151,15 @@
         "category": "Without category"
       },
       {
-        "name": "ATV Sur | PE",
-        "url": "https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/1492_ATV_Sur.png",
-        "category": "Without category"
-      },
-      {
         "name": "Controversia TV | PE",
         "url": "https://live.obslivestream.com/controversiatv/index.m3u8?PlaylistM3UCL",
         "logo": "https://cdn.m3u.cl/logo/1188_Controversia_TV.png",
         "category": "Without category"
       },
       {
-        "name": "OK TeVe | PE",
-        "url": "https://live.obslivestream.com/oktv/video.m3u8?token=Bk-DXAXulO1OV0&PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/1095_OK_TeVe.png",
+        "name": "ATV Sur | PE",
+        "url": "https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/1492_ATV_Sur.png",
         "category": "Without category"
       },
       {
@@ -169,9 +169,15 @@
         "category": "Without category"
       },
       {
-        "name": "Mega TV Jaen | PE",
-        "url": "https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/1491_Mega_TV_Jaen.png",
+        "name": "OK TeVe | PE",
+        "url": "https://live.obslivestream.com/oktv/video.m3u8?token=Bk-DXAXulO1OV0&PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/1095_OK_TeVe.png",
+        "category": "Without category"
+      },
+      {
+        "name": "Turbo Mix TV | PE",
+        "url": "https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/43_Turbo_Mix_TV.png",
         "category": "Without category"
       },
       {
@@ -181,9 +187,9 @@
         "category": "Without category"
       },
       {
-        "name": "Canal 8 Catacaos | PE",
-        "url": "https://live.obslivestream.com/canal8/index.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/1097_Canal_8_Catacaos.png",
+        "name": "BHTV | PE",
+        "url": "https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/695_BHTV.png",
         "category": "Without category"
       },
       {
@@ -193,9 +199,9 @@
         "category": "Without category"
       },
       {
-        "name": "BHTV | PE",
-        "url": "https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/695_BHTV.png",
+        "name": "Canal 8 Catacaos | PE",
+        "url": "https://live.obslivestream.com/canal8/index.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/1097_Canal_8_Catacaos.png",
         "category": "Without category"
       },
       {
@@ -211,21 +217,9 @@
         "category": "Without category"
       },
       {
-        "name": "Tele Selva | PE",
-        "url": "https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/1546_Tele_Selva.png",
-        "category": "Without category"
-      },
-      {
         "name": "Uranio TV | PE",
         "url": "https://live.obslivestream.com/uraniotv/index.m3u8?PlaylistM3UCL",
         "logo": "https://cdn.m3u.cl/logo/1094_Uranio_TV.png",
-        "category": "Without category"
-      },
-      {
-        "name": "Via Alto Mayo TV | PE",
-        "url": "https://live.obslivestream.com/viaaltomayomux/index.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/1191_Via_Alto_Mayo_TV.png",
         "category": "Without category"
       },
       {
@@ -235,9 +229,27 @@
         "category": "Without category"
       },
       {
+        "name": "Via Alto Mayo TV | PE",
+        "url": "https://live.obslivestream.com/viaaltomayomux/index.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/1191_Via_Alto_Mayo_TV.png",
+        "category": "Without category"
+      },
+      {
         "name": "Via Television Tarapoto | PE",
         "url": "https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8?PlaylistM3UCL",
         "logo": "https://cdn.m3u.cl/logo/703_Via_Television_Tarapoto.png",
+        "category": "Without category"
+      },
+      {
+        "name": "Tele Selva | PE",
+        "url": "https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/1546_Tele_Selva.png",
+        "category": "Without category"
+      },
+      {
+        "name": "Mega TV Jaen | PE",
+        "url": "https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/1491_Mega_TV_Jaen.png",
         "category": "Without category"
       },
       {
