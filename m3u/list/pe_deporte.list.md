@@ -6,9 +6,10 @@
 | --- | ------------ | ---- | ------ |
 | 1 | Fox Sports 3 | IPv4 直链 | <http://179.1.87.75:8098/play/a0fh/index.m3u8> |
 | 2 | ESPN 4 | IPv4 直链 | <http://179.1.87.75:8098/play/a0fu/index.m3u8> |
-| 3 | ESPN 2 | IPv4 直链 | <http://179.1.87.75:8098/play/a0ew/index.m3u8> |
-| 4 | Fox Sports 2 | IPv4 直链 | <http://179.1.87.75:8098/play/a0fg/index.m3u8> |
-| 5 | ESPN 3 | IPv4 直链 | <http://179.1.87.75:8098/play/a0hn/index.m3u8> |
+| 3 | Fox Sports 2 | IPv4 直链 | <http://179.1.87.75:8098/play/a0fg/index.m3u8> |
+| 4 | ESPN 3 | IPv4 直链 | <http://179.1.87.75:8098/play/a0hn/index.m3u8> |
+| 5 | ESPN 2 | IPv4 直链 | <http://179.1.87.75:8098/play/a0ew/index.m3u8> |
 | 6 | LIGA 1 MAX (Op 4) | IPv4 直链 | <http://38.210.3.64:8090/play/a0nn/index.m3u8> |
+| 7 | L1 Max (720p) | live20.bozztv.com | <https://live20.bozztv.com/akamaissh101/ssh101/l1maxhd/playlist.m3u8> |
 
-Updated at **Mon Mar 30 2026 19:05:04 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Mar 31 2026 02:44:05 GMT+0000 (Coordinated Universal Time)**
