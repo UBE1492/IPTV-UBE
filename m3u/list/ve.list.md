@@ -34,4 +34,4 @@
 | 28 | TVM para ti (1080p) | streamtv.intervenhosting.net:3529 | <https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8> |
 | 29 | TVS (720p) | vcp10.myplaytv.com | <https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8> |
 
-Updated at **Tue Mar 31 2026 13:42:09 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Mar 31 2026 19:07:21 GMT+0000 (Coordinated Universal Time)**
