@@ -95,4 +95,4 @@
 | 89 | Canal PyC (720p) | live20.bozztv.com | <https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8> |
 | 90 | Win+ Futbol (1080p) | live20.bozztv.com | <https://live20.bozztv.com/akamaissh101/ssh101/winsporplusco/playlist.m3u8> |
 
-Updated at **Wed Apr 01 2026 13:43:12 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Apr 01 2026 19:08:35 GMT+0000 (Coordinated Universal Time)**
