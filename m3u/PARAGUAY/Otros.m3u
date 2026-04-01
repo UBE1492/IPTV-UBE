@@ -11,3 +11,15 @@ https://alba-py-snt-snt.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
 https://live20.bozztv.com/giatv/giatv-miseñalhd/miseñalhd/playlist.m3u8
 #EXTINF:-1 tvg-id="Trece.py@SD",Trece Paraguay (1080p) [Not 24/7]
 https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
+#EXTINF:-1 tvg-id="Unicanal.py@SD",Unicanal (1080p)
+#EXTVLCOPT:http-referrer=https://unicanal.com.py/
+#EXTINF:-1 tvg-id="Telefuturo.py@SD",Telefuturo (1080p)
+#EXTVLCOPT:http-referrer=https://www.telefuturo.com.py
+#EXTINF:-1 tvg-id="Paravision.py@SD",Paravision
+#EXTVLCOPT:http-referrer=https://www.paravision.com.py/
+#EXTINF:-1 tvg-id="NPY.py@SD",NPY (1080p)
+#EXTVLCOPT:http-referrer=https://www.npy.com.py/
+#EXTINF:-1 tvg-id="Latele.py@SD",Latele (1080p)
+#EXTVLCOPT:http-referrer=https://www.latele.com.py/en-vivo
+#EXTINF:-1 tvg-id="Gen.py@SD",Gen
+#EXTVLCOPT:http-referrer=https://www.gen.com.py/

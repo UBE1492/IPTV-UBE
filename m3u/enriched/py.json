@@ -1,6 +1,6 @@
 {
   "name": "py",
-  "updated_at": 1774984042388,
+  "updated_at": 1775012167617,
   "m3u": "https://ube1492.github.io/IPTV-UBE/py.m3u",
   "channels": [
     {
@@ -128,6 +128,42 @@
       "url": "https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/.m3u8",
       "logo": "",
       "category": "Otros"
+    },
+    {
+      "name": "Unicanal (1080p)",
+      "url": "#EXTINF:-1 tvg-id=\"Telefuturo.py@SD\",Telefuturo (1080p)",
+      "logo": "",
+      "category": "Otros",
+      "options": {
+        "http-referrer": "https://unicanal.com.py/"
+      }
+    },
+    {
+      "name": "Paravision",
+      "url": "#EXTINF:-1 tvg-id=\"NPY.py@SD\",NPY (1080p)",
+      "logo": "",
+      "category": "Otros",
+      "options": {
+        "http-referrer": "https://www.paravision.com.py/"
+      }
+    },
+    {
+      "name": "Latele (1080p)",
+      "url": "#EXTINF:-1 tvg-id=\"ABCTVParaguay.py@SD\",ABC-TV Paraguay",
+      "logo": "",
+      "category": "Otros",
+      "options": {
+        "http-referrer": "https://www.latele.com.py/en-vivo"
+      }
+    },
+    {
+      "name": "Gen",
+      "url": "",
+      "logo": "",
+      "category": "Otros",
+      "options": {
+        "http-referrer": "https://www.gen.com.py/"
+      }
     }
   ],
   "categories": {
@@ -257,6 +293,42 @@
         "url": "https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/.m3u8",
         "logo": "",
         "category": "Otros"
+      },
+      {
+        "name": "Unicanal (1080p)",
+        "url": "#EXTINF:-1 tvg-id=\"Telefuturo.py@SD\",Telefuturo (1080p)",
+        "logo": "",
+        "category": "Otros",
+        "options": {
+          "http-referrer": "https://unicanal.com.py/"
+        }
+      },
+      {
+        "name": "Paravision",
+        "url": "#EXTINF:-1 tvg-id=\"NPY.py@SD\",NPY (1080p)",
+        "logo": "",
+        "category": "Otros",
+        "options": {
+          "http-referrer": "https://www.paravision.com.py/"
+        }
+      },
+      {
+        "name": "Latele (1080p)",
+        "url": "#EXTINF:-1 tvg-id=\"ABCTVParaguay.py@SD\",ABC-TV Paraguay",
+        "logo": "",
+        "category": "Otros",
+        "options": {
+          "http-referrer": "https://www.latele.com.py/en-vivo"
+        }
+      },
+      {
+        "name": "Gen",
+        "url": "",
+        "logo": "",
+        "category": "Otros",
+        "options": {
+          "http-referrer": "https://www.gen.com.py/"
+        }
       }
     ]
   }

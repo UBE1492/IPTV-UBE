@@ -199,7 +199,7 @@ WBRA_PBS_Kids_(1080p),https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f
 WBTS-CD1_(1080p),https://d368vp0qqzvkid.cloudfront.net/11603/88889713/hls/master.m3u8?ads.xumo_channelId=88889713a&ads.xumo_ifaType=&ads.xumo_providerId=3820&ads.xumo_providerName=NBCNBOS
 WBTV-DT1_(720p),https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-wbtvnews-vizious/playlist.m3u8
 WCAU-DT1_(1080p),https://d368vp0qqzvkid.cloudfront.net/11603/88889705/hls/master.m3u8?ads.xumo_channelId=88889705a&ads.xumo_ifaType=&ads.xumo_providerId=3819&ads.xumo_providerName=NBCNPHI
-WCBS-DT1_(720p)_[Not_24/7],https://tvpass.org/live/WCBSDT1/hd
+WCBS-DT1_(720p)_[Geo-blocked],https://tvpass.org/live/WCBSDT1/hd
 WEDQ-DT4_(1080p),https://wedqdt4.lls.pbs.org/wedqdt4-hls.m3u8
 WFLD-DT1_(1080p),https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8
 WFTT-DT1,https://stream-tampa.scientology.org/master.m3u8

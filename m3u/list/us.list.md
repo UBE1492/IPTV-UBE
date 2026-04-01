@@ -203,7 +203,7 @@
 | 197 | WBTS-CD1 (1080p) | d368vp0qqzvkid.cloudfront.net | <https://d368vp0qqzvkid.cloudfront.net/11603/88889713/hls/master.m3u8?ads.xumo_channelId=88889713a&ads.xumo_ifaType=&ads.xumo_providerId=3820&ads.xumo_providerName=NBCNBOS> |
 | 198 | WBTV-DT1 (720p) | cdn-uw2-prod.tsv2.amagi.tv | <https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-wbtvnews-vizious/playlist.m3u8> |
 | 199 | WCAU-DT1 (1080p) | d368vp0qqzvkid.cloudfront.net | <https://d368vp0qqzvkid.cloudfront.net/11603/88889705/hls/master.m3u8?ads.xumo_channelId=88889705a&ads.xumo_ifaType=&ads.xumo_providerId=3819&ads.xumo_providerName=NBCNPHI> |
-| 200 | WCBS-DT1 (720p) [Not 24/7] | tvpass.org | <https://tvpass.org/live/WCBSDT1/hd> |
+| 200 | WCBS-DT1 (720p) [Geo-blocked] | tvpass.org | <https://tvpass.org/live/WCBSDT1/hd> |
 | 201 | WEDQ-DT4 (1080p) | wedqdt4.lls.pbs.org | <https://wedqdt4.lls.pbs.org/wedqdt4-hls.m3u8> |
 | 202 | WFLD-DT1 (1080p) | cdn-uw2-prod.tsv2.amagi.tv | <https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8> |
 | 203 | WFTT-DT1 | stream-tampa.scientology.org | <https://stream-tampa.scientology.org/master.m3u8> |
@@ -269,4 +269,4 @@
 | 263 | Yu-Gi-Oh! (1080p) | amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv | <https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8> |
 | 264 | Zarin TV (1080p) | fl1002.bozztv.com | <https://fl1002.bozztv.com/gf-zarintv/index.m3u8> |
 
-Updated at **Tue Mar 31 2026 19:07:21 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Apr 01 2026 02:56:07 GMT+0000 (Coordinated Universal Time)**

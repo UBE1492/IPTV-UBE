@@ -41,3 +41,17 @@ https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
 https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
 #EXTINF:-1 tvg-id="VenusMedia.py@SD",Venus Media (720p)
 https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/.m3u8
+#EXTINF:-1 tvg-id="Unicanal.py@SD",Unicanal (1080p)
+#EXTVLCOPT:http-referrer=https://unicanal.com.py/
+#EXTINF:-1 tvg-id="Telefuturo.py@SD",Telefuturo (1080p)
+#EXTVLCOPT:http-referrer=https://www.telefuturo.com.py
+#EXTINF:-1 tvg-id="Paravision.py@SD",Paravision
+#EXTVLCOPT:http-referrer=https://www.paravision.com.py/
+#EXTINF:-1 tvg-id="NPY.py@SD",NPY (1080p)
+#EXTVLCOPT:http-referrer=https://www.npy.com.py/
+#EXTINF:-1 tvg-id="Latele.py@SD",Latele (1080p)
+#EXTVLCOPT:http-referrer=https://www.latele.com.py/en-vivo
+#EXTINF:-1 tvg-id="ABCTVParaguay.py@SD",ABC-TV Paraguay
+#EXTVLCOPT:http-referrer=https://www.abc.com.py/
+#EXTINF:-1 tvg-id="Gen.py@SD",Gen
+#EXTVLCOPT:http-referrer=https://www.gen.com.py/

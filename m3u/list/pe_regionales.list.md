@@ -4,22 +4,22 @@
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
-| 1 | Vision Musica TV  PE | videoserver.tmcreativos.com:19360 | <https://videoserver.tmcreativos.com:19360/visionmusica/visionmusica.m3u8?PlaylistM3UCL> |
-| 2 | Turbo Mix TV  PE | 7.innovatestream.pe:19360 | <https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL> |
-| 3 | Autentica TV  PE | live.obslivestream.com | <https://live.obslivestream.com/autenticatvmux/index.m3u8?PlaylistM3UCL> |
-| 4 | Controversia TV  PE | live.obslivestream.com | <https://live.obslivestream.com/controversiatv/index.m3u8?PlaylistM3UCL> |
-| 5 | ATV  PE | d19e55ehz2il4i.cloudfront.net | <https://d19e55ehz2il4i.cloudfront.net/index.m3u8?PlaylistM3UCL> |
-| 6 | ATV Sur  PE | d3r5ioyjqcy69v.cloudfront.net | <https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8?PlaylistM3UCL> |
-| 7 | Mega TV Jaen  PE | 7.innovatestream.pe:19360 | <https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8?PlaylistM3UCL> |
-| 8 | OK TeVe  PE | live.obslivestream.com | <https://live.obslivestream.com/oktv/video.m3u8?token=Bk-DXAXulO1OV0&PlaylistM3UCL> |
-| 9 | Mundo de la Musica TV  CL | tv.arkeo.cl:1936 | <https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL> |
-| 10 | Nativa  PE | oneplay.iptvperu.tv:1936 | <https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8?PlaylistM3UCL> |
-| 11 | ATV+  PE | d1svme839xkbsn.cloudfront.net | <https://d1svme839xkbsn.cloudfront.net/index.m3u8?PlaylistM3UCL> |
-| 12 | BHTV  PE | sc1.wasidata.com | <https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8?PlaylistM3UCL> |
-| 13 | Canal 8 Catacaos  PE | live.obslivestream.com | <https://live.obslivestream.com/canal8/index.m3u8?PlaylistM3UCL> |
-| 14 | CR TV  PE | live.obslivestream.com | <https://live.obslivestream.com/crtvmux/index.m3u8?PlaylistM3UCL> |
-| 15 | Telecolor TV  PE | live.obslivestream.com | <https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL> |
-| 16 | Tele Selva  PE | 7.innovatestream.pe:19360 | <https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8?PlaylistM3UCL> |
+| 1 | Turbo Mix TV  PE | 7.innovatestream.pe:19360 | <https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL> |
+| 2 | Autentica TV  PE | live.obslivestream.com | <https://live.obslivestream.com/autenticatvmux/index.m3u8?PlaylistM3UCL> |
+| 3 | Vision Musica TV  PE | videoserver.tmcreativos.com:19360 | <https://videoserver.tmcreativos.com:19360/visionmusica/visionmusica.m3u8?PlaylistM3UCL> |
+| 4 | Canal 8 Catacaos  PE | live.obslivestream.com | <https://live.obslivestream.com/canal8/index.m3u8?PlaylistM3UCL> |
+| 5 | CR TV  PE | live.obslivestream.com | <https://live.obslivestream.com/crtvmux/index.m3u8?PlaylistM3UCL> |
+| 6 | Mundo de la Musica TV  CL | tv.arkeo.cl:1936 | <https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL> |
+| 7 | ATV Sur  PE | d3r5ioyjqcy69v.cloudfront.net | <https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8?PlaylistM3UCL> |
+| 8 | Mega TV Jaen  PE | 7.innovatestream.pe:19360 | <https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8?PlaylistM3UCL> |
+| 9 | OK TeVe  PE | live.obslivestream.com | <https://live.obslivestream.com/oktv/video.m3u8?token=Bk-DXAXulO1OV0&PlaylistM3UCL> |
+| 10 | ATV  PE | d19e55ehz2il4i.cloudfront.net | <https://d19e55ehz2il4i.cloudfront.net/index.m3u8?PlaylistM3UCL> |
+| 11 | Nativa  PE | oneplay.iptvperu.tv:1936 | <https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8?PlaylistM3UCL> |
+| 12 | ATV+  PE | d1svme839xkbsn.cloudfront.net | <https://d1svme839xkbsn.cloudfront.net/index.m3u8?PlaylistM3UCL> |
+| 13 | Controversia TV  PE | live.obslivestream.com | <https://live.obslivestream.com/controversiatv/index.m3u8?PlaylistM3UCL> |
+| 14 | Tele Selva  PE | 7.innovatestream.pe:19360 | <https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8?PlaylistM3UCL> |
+| 15 | BHTV  PE | sc1.wasidata.com | <https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8?PlaylistM3UCL> |
+| 16 | Telecolor TV  PE | live.obslivestream.com | <https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL> |
 | 17 | Cultura 24 TV  PE | www.opencaster.com | <https://www.opencaster.com/resources/hls_stream/cultura24.m3u8?PlaylistM3UCL> |
 | 18 | Uranio TV  PE | live.obslivestream.com | <https://live.obslivestream.com/uraniotv/index.m3u8?PlaylistM3UCL> |
 | 19 | Via Alto Mayo TV  PE | live.obslivestream.com | <https://live.obslivestream.com/viaaltomayomux/index.m3u8?PlaylistM3UCL> |
@@ -28,4 +28,4 @@
 | 22 | TV en linea Cusco  PE | s4.tvdatta.com:3450 | <https://s4.tvdatta.com:3450/live/tvenlinealive.m3u8?PlaylistM3UCL> |
 | 23 | TVperuanisima  PE | k20.usastreams.com:8081 | <https://k20.usastreams.com:8081/tvperuanisima/index.m3u8?PlaylistM3UCL> |
 
-Updated at **Tue Mar 31 2026 19:07:24 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Apr 01 2026 02:56:13 GMT+0000 (Coordinated Universal Time)**

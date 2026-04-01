@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1774984041937,
+  "updated_at": 1775012167059,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -1201,7 +1201,7 @@
       "category": "Otros"
     },
     {
-      "name": "WCBS-DT1 (720p) [Not 24/7]",
+      "name": "WCBS-DT1 (720p) [Geo-blocked]",
       "url": "https://tvpass.org/live/WCBSDT1/hd",
       "logo": "",
       "category": "Otros"
@@ -2800,7 +2800,7 @@
         "category": "Otros"
       },
       {
-        "name": "WCBS-DT1 (720p) [Not 24/7]",
+        "name": "WCBS-DT1 (720p) [Geo-blocked]",
         "url": "https://tvpass.org/live/WCBSDT1/hd",
         "logo": "",
         "category": "Otros"

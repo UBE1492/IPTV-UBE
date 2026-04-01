@@ -93,5 +93,6 @@
 | 87 | La Cheverisima Radio TV (720p) | byecablecluster.ddns.net | <https://byecablecluster.ddns.net/neira/neira.stream/index.fmp4.m3u8> |
 | 88 | Telesangil (720p) | live20.bozztv.com | <https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8> |
 | 89 | Canal PyC (720p) | live20.bozztv.com | <https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8> |
+| 90 | Win+ Futbol (1080p) | live20.bozztv.com | <https://live20.bozztv.com/akamaissh101/ssh101/winsporplusco/playlist.m3u8> |
 
-Updated at **Tue Mar 31 2026 19:07:22 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Apr 01 2026 02:56:07 GMT+0000 (Coordinated Universal Time)**

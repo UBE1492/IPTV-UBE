@@ -61,4 +61,4 @@
 | 55 | Cumbia Mix (720p) | cloud.tvomix.com | <https://cloud.tvomix.com/CUMBIAMIX/index.m3u8> |
 | 56 | El Trece (1080p) | live-01-02-eltrece.vodgc.net | <https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8> |
 
-Updated at **Tue Mar 31 2026 19:07:20 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Apr 01 2026 02:56:06 GMT+0000 (Coordinated Universal Time)**

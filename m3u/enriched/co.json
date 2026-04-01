@@ -1,6 +1,6 @@
 {
   "name": "co",
-  "updated_at": 1774984042213,
+  "updated_at": 1775012167653,
   "m3u": "https://ube1492.github.io/IPTV-UBE/co.m3u",
   "channels": [
     {
@@ -555,6 +555,12 @@
     {
       "name": "Canal PyC (720p)",
       "url": "https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Win+ Futbol (1080p)",
+      "url": "https://live20.bozztv.com/akamaissh101/ssh101/winsporplusco/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -1113,6 +1119,12 @@
       {
         "name": "Canal PyC (720p)",
         "url": "https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Win+ Futbol (1080p)",
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/winsporplusco/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       }

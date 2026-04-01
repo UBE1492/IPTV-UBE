@@ -94,3 +94,4 @@ Zoom_(1080p),#EXTVLCOPT:http-referrer=https://canalzoom.org/senal-en-vivo
 La_Cheverisima_Radio_TV_(720p),https://byecablecluster.ddns.net/neira/neira.stream/index.fmp4.m3u8
 Telesangil_(720p),https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8
 Canal_PyC_(720p),https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8
+Win+_Futbol_(1080p),https://live20.bozztv.com/akamaissh101/ssh101/winsporplusco/playlist.m3u8
