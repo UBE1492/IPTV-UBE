@@ -46,53 +46,46 @@
 | 40 | El Mundo del Campo (720p) | movil.ejeserver.com | <https://movil.ejeserver.com/live/elmundodelcampo.m3u8> |
 | 41 | Eureka (1080p) [Geo-blocked] | mdstrm.com | <https://mdstrm.com/live-stream-playlist/6952e02d19eabace52e2885f.m3u8> |
 | 42 | Frecuencia F TV (1080p) | tv.frecuenciaf.com | <https://tv.frecuenciaf.com/live/envivo.m3u8> |
-| 43 | Kalu TV (720p) | tv.kaludecolombia.com | <https://tv.kaludecolombia.com/memfs/800a956d-5ada-4bf1-ac15-0d11e689179c.m3u8> |
-| 44 | La Cantina Memorias (480p) [Geo-blocked] | video.xtrematv.com:3208 | <https://video.xtrematv.com:3208/live/memoriaslacantinalive.m3u8> |
-| 45 | La Hermandad Salsera (1080p) [Not 24/7] | streamlov.alsolnet.com | <https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8> |
-| 46 | La Kalle (720p) | mdstrm.com | <https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8> |
-| 47 | La Morada Radio TV (720p) | movil.ejeserver.com | <https://movil.ejeserver.com/live/lamoradatv.m3u8> |
-| 48 | Luna Estéreo 106.4 FM (720p) [Not 24/7] | servervideo.intermediacolombia.com:19360 | <https://servervideo.intermediacolombia.com:19360/kychbbfhdz/kychbbfhdz.m3u8> |
-| 49 | Mas Norte TV [Not 24/7] | live.arnoproducciones.com | <https://live.arnoproducciones.com/hls/norte.m3u8> |
-| 50 | MasMusica FM (720p) | movil.ejeserver.com | <https://movil.ejeserver.com/live/masmusica.m3u8> |
-| 51 | MaxTV [Not 24/7] | inliveserver.com:1936 | <https://inliveserver.com:1936/8078/8078/playlist.m3u8> |
-| 52 | MCI Televisión (1080p) | video.ejeserver.com | <https://video.ejeserver.com/live/mcitelevision.m3u8> |
-| 53 | Memorias del Corazon (480p) [Geo-blocked] | video.xtrematv.com:3401 | <https://video.xtrematv.com:3401/live/grupomemoriaslive.m3u8> |
-| 54 | Memorias FM Pop Latino (480p) [Geo-blocked] | video.xtrematv.com:3891 | <https://video.xtrematv.com:3891/live/memoriaspoplatinolive.m3u8> |
-| 55 | Memorias TV Classic (480p) [Geo-blocked] | video.xtrematv.com:3576 | <https://video.xtrematv.com:3576/live/memoriasclassiclive.m3u8> |
-| 56 | Memorias TV Film (720p) [Geo-blocked] | video.xtrematv.com:3725 | <https://video.xtrematv.com:3725/live/memoriasfilmlive.m3u8> |
-| 57 | Memorias TV Series (720p) [Geo-blocked] | video.xtrematv.com:3633 | <https://video.xtrematv.com:3633/live/memoriasserieslive.m3u8> |
-| 58 | Memorias TV Toons (480p) [Geo-blocked] | video.xtrematv.com:3812 | <https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8> |
-| 59 | Memorias TV Tropical (480p) [Geo-blocked] | video.xtrematv.com:3361 | <https://video.xtrematv.com:3361/live/memoriastropicallive.m3u8> |
-| 60 | Mi Gente TV (720p) [Geo-blocked] | byecableiptvnew3.ddns.net | <https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/video.m3u8> |
-| 61 | Noticiero 90 Minutos (1080p) | play.cdn.enetres.net | <https://play.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/021/playlist.m3u8> |
-| 62 | Noticiero 90 Minutos (720p) [Not 24/7] | cdns.livewave.co:8081 | <https://cdns.livewave.co:8081/90minutoslive/index.m3u8> |
-| 63 | NSTV (1080p) | sistemastr.tropicalmoonmedia.com | <https://sistemastr.tropicalmoonmedia.com/live/2C7CA6CECC9B8F8C3A07315FDA110936/21.m3u8> |
-| 64 | NSTV (720p) | IPv4 直链 | <http://138.186.23.7:22281/nstv/nstv/playlist.m3u8> |
-| 65 | Oasis TV (720p) [Not 24/7] | 5e85d90130e77.streamlock.net | <https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8> |
-| 66 | Ondambiental TV (360p) | stmv4.voxtvhd.com.br | <https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8> |
-| 67 | Parranda Vallenata (720p) | backupmaxmedia.hvmultiplay.com | <https://backupmaxmedia.hvmultiplay.com/hls/stream3/parrandavallenata.m3u8> |
-| 68 | Red+ (1080p) | inforedvos.lcdn.claro.net.co | <https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8> |
-| 69 | Reyali (614p) | eu1.servers10.com:8081 | <https://eu1.servers10.com:8081/8090/index.m3u8> |
-| 70 | Rio Television (720p) | stream.amelbasoluciones.co | <https://stream.amelbasoluciones.co/live/riotv.m3u8> |
-| 71 | Río Televisión [Geo-blocked] | cdn.amelbasoluciones.co:8081 | <https://cdn.amelbasoluciones.co:8081/riotv/index.fmp4.m3u8> |
-| 72 | Salsa Gorda Television (1080p) [Not 24/7] | live20.bozztv.com | <https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8> |
-| 73 | Senal Colombia (720p) | streaming.rtvc.gov.co | <https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8> |
-| 74 | Supermúsica TV (720p) | backupmaxmedia.hvmultiplay.com | <https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8> |
-| 75 | Suram TV (1080p) | livetv.305streamhd.com:3111 | <https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8> |
-| 76 | Suram TV (720p) | us.streaminghd.cl | <https://us.streaminghd.cl/suramtv/index.m3u8> |
-| 77 | Telebolívar (720p) | live20.bozztv.com | <https://live20.bozztv.com/akamaissh101/ssh101/telebolivar/playlist.m3u8> |
-| 78 | Teleislas (486p) [Not 24/7] | 5ab772334c39c.streamlock.net | <https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8> |
-| 79 | Tu Universo TV (720p) | 5bf8041cb3fed.streamlock.net | <https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8> |
-| 80 | TV3 La Plata (480p) | live.amelbatv.co:81 | <https://live.amelbatv.co:81/teleopita/index.fmp4.m3u8> |
-| 81 | TV Penol (720p) [Not 24/7] | live20.bozztv.com | <https://live20.bozztv.com/akamaissh101/ssh101/tvpenol2026/playlist.m3u8> |
-| 82 | TV Rivera [Not 24/7] | movil.ejeserver.com | <https://movil.ejeserver.com/live/tvrivera.m3u8> |
-| 83 | TV San Jorge (1080p) [Not 24/7] | asucap.com | <https://asucap.com/livestream/asucap_envivo.m3u8> |
-| 84 | Ultra Casanare TV (1080p) [Not 24/7] | eu1.servers10.com:8081 | <https://eu1.servers10.com:8081/8072/index.m3u8> |
-| 85 | UMC TV (720p) | streaming5.globalhostla.com | <https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8> |
-| 86 | Vive TV Colombia (1080p) | IPv4 直链 | <http://192.144.113.132:1935/live/ViveTV/playlist.m3u8> |
-| 87 | La Cheverisima Radio TV (720p) | byecablecluster.ddns.net | <https://byecablecluster.ddns.net/neira/neira.stream/index.fmp4.m3u8> |
-| 88 | Telesangil (720p) | live20.bozztv.com | <https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8> |
-| 89 | Canal PyC (720p) | live20.bozztv.com | <https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8> |
-| 90 | Win+ Futbol (1080p) | live20.bozztv.com | <https://live20.bozztv.com/akamaissh101/ssh101/winsporplusco/playlist.m3u8> |
+| 43 | La Cantina Memorias (480p) [Geo-blocked] | video.xtrematv.com:3208 | <https://video.xtrematv.com:3208/live/memoriaslacantinalive.m3u8> |
+| 44 | La Hermandad Salsera (1080p) [Not 24/7] | streamlov.alsolnet.com | <https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8> |
+| 45 | La Kalle (720p) | mdstrm.com | <https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8> |
+| 46 | La Morada Radio TV (720p) | movil.ejeserver.com | <https://movil.ejeserver.com/live/lamoradatv.m3u8> |
+| 47 | Luna Estéreo 106.4 FM (720p) [Not 24/7] | servervideo.intermediacolombia.com:19360 | <https://servervideo.intermediacolombia.com:19360/kychbbfhdz/kychbbfhdz.m3u8> |
+| 48 | Mas Norte TV [Not 24/7] | live.arnoproducciones.com | <https://live.arnoproducciones.com/hls/norte.m3u8> |
+| 49 | MasMusica FM (720p) | movil.ejeserver.com | <https://movil.ejeserver.com/live/masmusica.m3u8> |
+| 50 | MaxTV [Not 24/7] | inliveserver.com:1936 | <https://inliveserver.com:1936/8078/8078/playlist.m3u8> |
+| 51 | MCI Televisión (1080p) | video.ejeserver.com | <https://video.ejeserver.com/live/mcitelevision.m3u8> |
+| 52 | Memorias del Corazon (480p) [Geo-blocked] | video.xtrematv.com:3401 | <https://video.xtrematv.com:3401/live/grupomemoriaslive.m3u8> |
+| 53 | Memorias FM Pop Latino (480p) [Geo-blocked] | video.xtrematv.com:3891 | <https://video.xtrematv.com:3891/live/memoriaspoplatinolive.m3u8> |
+| 54 | Memorias TV Classic (480p) [Geo-blocked] | video.xtrematv.com:3576 | <https://video.xtrematv.com:3576/live/memoriasclassiclive.m3u8> |
+| 55 | Memorias TV Film (720p) [Geo-blocked] | video.xtrematv.com:3725 | <https://video.xtrematv.com:3725/live/memoriasfilmlive.m3u8> |
+| 56 | Memorias TV Series (720p) [Geo-blocked] | video.xtrematv.com:3633 | <https://video.xtrematv.com:3633/live/memoriasserieslive.m3u8> |
+| 57 | Memorias TV Toons (480p) [Geo-blocked] | video.xtrematv.com:3812 | <https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8> |
+| 58 | Memorias TV Tropical (480p) [Geo-blocked] | video.xtrematv.com:3361 | <https://video.xtrematv.com:3361/live/memoriastropicallive.m3u8> |
+| 59 | Mi Gente TV (720p) [Geo-blocked] | byecableiptvnew3.ddns.net | <https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/video.m3u8> |
+| 60 | Noticiero 90 Minutos (1080p) | play.cdn.enetres.net | <https://play.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/021/playlist.m3u8> |
+| 61 | Noticiero 90 Minutos (720p) [Not 24/7] | cdns.livewave.co:8081 | <https://cdns.livewave.co:8081/90minutoslive/index.m3u8> |
+| 62 | NSTV (1080p) | sistemastr.tropicalmoonmedia.com | <https://sistemastr.tropicalmoonmedia.com/live/2C7CA6CECC9B8F8C3A07315FDA110936/21.m3u8> |
+| 63 | NSTV (720p) | IPv4 直链 | <http://138.186.23.7:22281/nstv/nstv/playlist.m3u8> |
+| 64 | Oasis TV (720p) [Not 24/7] | 5e85d90130e77.streamlock.net | <https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8> |
+| 65 | Ondambiental TV (360p) | stmv4.voxtvhd.com.br | <https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8> |
+| 66 | Parranda Vallenata (720p) | backupmaxmedia.hvmultiplay.com | <https://backupmaxmedia.hvmultiplay.com/hls/stream3/parrandavallenata.m3u8> |
+| 67 | Red+ (1080p) | inforedvos.lcdn.claro.net.co | <https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8> |
+| 68 | Reyali (614p) | eu1.servers10.com:8081 | <https://eu1.servers10.com:8081/8090/index.m3u8> |
+| 69 | Rio Television (720p) | stream.amelbasoluciones.co | <https://stream.amelbasoluciones.co/live/riotv.m3u8> |
+| 70 | Río Televisión [Geo-blocked] | cdn.amelbasoluciones.co:8081 | <https://cdn.amelbasoluciones.co:8081/riotv/index.fmp4.m3u8> |
+| 71 | Salsa Gorda Television (1080p) [Not 24/7] | live20.bozztv.com | <https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8> |
+| 72 | Senal Colombia (720p) | streaming.rtvc.gov.co | <https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8> |
+| 73 | Supermúsica TV (720p) | backupmaxmedia.hvmultiplay.com | <https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8> |
+| 74 | Suram TV (1080p) | livetv.305streamhd.com:3111 | <https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8> |
+| 75 | Suram TV (720p) | us.streaminghd.cl | <https://us.streaminghd.cl/suramtv/index.m3u8> |
+| 76 | Telebolívar (720p) | live20.bozztv.com | <https://live20.bozztv.com/akamaissh101/ssh101/telebolivar/playlist.m3u8> |
+| 77 | Telepacífico (1080p) [Geo-blocked] | play.cdn.enetres.net | <https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8> |
+| 78 | TeveColombia (720p) [Not 24/7] | cloud6.livescast.com:3900 | <https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8> |
+| 79 | La Cheverisima Radio TV (720p) | byecablecluster.ddns.net | <https://byecablecluster.ddns.net/neira/neira.stream/index.fmp4.m3u8> |
+| 80 | Telesangil (720p) | live20.bozztv.com | <https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8> |
+| 81 | Canal PyC (720p) | live20.bozztv.com | <https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8> |
+| 82 | Win+ Futbol (1080p) | live20.bozztv.com | <https://live20.bozztv.com/akamaissh101/ssh101/winsporplusco/playlist.m3u8> |
+| 83 | Kalu TV (1080p) | tv.kaludecolombia.com | <https://tv.kaludecolombia.com/memfs/d71c0104-4752-4690-bdbf-19aa849da6c4.m3u8> |
 
-Updated at **Wed Apr 01 2026 19:08:35 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Apr 02 2026 02:40:13 GMT+0000 (Coordinated Universal Time)**
