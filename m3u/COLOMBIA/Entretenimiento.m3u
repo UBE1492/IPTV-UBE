@@ -19,14 +19,12 @@ https://streaming.telenetdigital.net.co:8086/canal3tv/stream.m3u8
 https://stmv4.voxtvhd.com.br/canicatv/canicatv/playlist.m3u8
 #EXTINF:-1 tvg-id="CitytvBogota.co@SD",Citytv Bogota (1080p)
 http://181.114.57.246:4000/play/u2H4dIJoRipgGI3A/index.m3u8
-#EXTINF:-1 tvg-id="CTVBarranquilla.co@SD",CTV Barranquilla (1080p) [Not 24/7]
-https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8
 #EXTINF:-1 tvg-id="CTVBarranquilla.co@SD",CTV Barranquilla (1080p)
 https://live.ctvbarranquilla.com/live/ctv-4ad31c89f3764bf0980e642bc12fd00a.m3u8
 #EXTINF:-1 tvg-id="CucutaRetroTV.co@SD",Cúcuta Retro TV [Not 24/7]
 https://mist01.homestream.fun/hls/ntvlive/0_1/index.m3u8
 #EXTINF:-1 tvg-id="FrecuenciaFTV.co@SD",Frecuencia F TV (1080p)
-https://tv.frecuenciaf.com/live/envivo.m3u8
+https://tv.frecuenciaf.com/live/envivo_1080p4000kbs/index.m3u8
 #EXTINF:-1 tvg-id="MasNorteTV.co@SD",Mas Norte TV [Not 24/7]
 https://live.arnoproducciones.com/hls/norte.m3u8
 #EXTINF:-1 tvg-id="MaxTV.co@HD",MaxTV [Not 24/7]

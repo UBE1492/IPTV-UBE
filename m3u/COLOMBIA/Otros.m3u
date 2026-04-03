@@ -41,8 +41,6 @@ https://cloudvideo.servers10.com:8081/latinchaneltv/index.m3u8
 https://movil.ejeserver.com/live/cncsantander.m3u8
 #EXTINF:-1 tvg-id="CNCTulua.co@SD",CNC Tulua (1080p)
 https://live.amelbatv.co:81/cnctulualive/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="CNCTulua.co@SD",CNC Tuluá (720p)
-https://cdn.amelbasoluciones.co:8081/cnctulualive/index.m3u8
 #EXTINF:-1 tvg-id="Cosmovision.co@SD",Cosmovision (720p) [Geo-blocked]
 https://videohls2.cosmovision.tv/hls/sd.m3u8
 #EXTINF:-1 tvg-id="Cristovision.co@SD",Cristovision (720p)
@@ -63,8 +61,6 @@ https://video.ejeserver.com/live/mcitelevision.m3u8
 https://video.xtrematv.com:3401/live/grupomemoriaslive.m3u8
 #EXTINF:-1 tvg-id="Noticiero90Minutos.co@SD",Noticiero 90 Minutos (1080p)
 https://play.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/021/playlist.m3u8
-#EXTINF:-1 tvg-id="Noticiero90Minutos.co@SD",Noticiero 90 Minutos (720p) [Not 24/7]
-https://cdns.livewave.co:8081/90minutoslive/index.m3u8
 #EXTINF:-1 tvg-id="ParrandaVallenata.co@SD",Parranda Vallenata (720p)
 https://backupmaxmedia.hvmultiplay.com/hls/stream3/parrandavallenata.m3u8
 #EXTINF:-1 tvg-id="RedPlus.co@SD",Red+ (1080p)
@@ -73,8 +69,6 @@ https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWE
 https://eu1.servers10.com:8081/8090/index.m3u8
 #EXTINF:-1 tvg-id="RioTelevision.co@SD",Rio Television (720p)
 https://stream.amelbasoluciones.co/live/riotv.m3u8
-#EXTINF:-1 tvg-id="RioTelevision.co@SD",Río Televisión [Geo-blocked]
-https://cdn.amelbasoluciones.co:8081/riotv/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="SalsaGordaTelevision.co@SD",Salsa Gorda Television (1080p) [Not 24/7]
 https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8
 #EXTINF:-1 tvg-id="SenalColombia.co@SD",Senal Colombia (720p)
