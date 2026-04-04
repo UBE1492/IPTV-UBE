@@ -4,6 +4,6 @@
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
-| 1 | Latina.SD | photocall.tv | <http://photocall.tv/latina.php/.m3u8> |
 
-Updated at **Fri Apr 03 2026 18:54:14 GMT+0000 (Coordinated Universal Time)**
+
+Updated at **Sat Apr 04 2026 02:33:26 GMT+0000 (Coordinated Universal Time)**
