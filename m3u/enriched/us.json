@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1775328613720,
+  "updated_at": 1775357486764,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -1592,7 +1592,7 @@
     },
     {
       "name": "Zoom TV Kurdish (720p)",
-      "url": "",
+      "url": "#EXTINF:-1 tvg-id=\"HistoryAsia.us@SD\",History Asia",
       "logo": "",
       "category": "Otros",
       "options": {
@@ -3191,7 +3191,7 @@
       },
       {
         "name": "Zoom TV Kurdish (720p)",
-        "url": "",
+        "url": "#EXTINF:-1 tvg-id=\"HistoryAsia.us@SD\",History Asia",
         "logo": "",
         "category": "Otros",
         "options": {

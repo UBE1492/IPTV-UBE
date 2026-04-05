@@ -1,6 +1,6 @@
 {
   "name": "py",
-  "updated_at": 1775328614251,
+  "updated_at": 1775357487138,
   "m3u": "https://ube1492.github.io/IPTV-UBE/py.m3u",
   "channels": [
     {
@@ -23,7 +23,7 @@
     },
     {
       "name": "C9N",
-      "url": "https://alba-py-c9n-c9n.stream.mediatiquestream.com/playlist.m3u8",
+      "url": "https://d1y0t05eznkmpn.cloudfront.net/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -158,7 +158,7 @@
     },
     {
       "name": "Gen",
-      "url": "",
+      "url": "#EXTINF:-1 tvg-id=\"DelReyTV.py@SD\",Del Rey TV (1080p)",
       "logo": "",
       "category": "Otros",
       "options": {
@@ -188,7 +188,7 @@
       },
       {
         "name": "C9N",
-        "url": "https://alba-py-c9n-c9n.stream.mediatiquestream.com/playlist.m3u8",
+        "url": "https://d1y0t05eznkmpn.cloudfront.net/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -323,7 +323,7 @@
       },
       {
         "name": "Gen",
-        "url": "",
+        "url": "#EXTINF:-1 tvg-id=\"DelReyTV.py@SD\",Del Rey TV (1080p)",
         "logo": "",
         "category": "Otros",
         "options": {

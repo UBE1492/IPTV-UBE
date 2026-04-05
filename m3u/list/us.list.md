@@ -268,5 +268,6 @@
 | 262 | YTA TV | yta.unitedteleports.tv | <https://yta.unitedteleports.tv/hls/YTA.m3u8> |
 | 263 | Yu-Gi-Oh! (1080p) | amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv | <https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8> |
 | 264 | Zarin TV (1080p) | fl1002.bozztv.com | <https://fl1002.bozztv.com/gf-zarintv/index.m3u8> |
+| 265 | History Asia | liveh34.vtvprime.vn | <https://liveh34.vtvprime.vn/hls/HISTORY/index.m3u8> |
 
-Updated at **Sat Apr 04 2026 18:50:13 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Apr 05 2026 02:51:26 GMT+0000 (Coordinated Universal Time)**

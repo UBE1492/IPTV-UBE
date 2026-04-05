@@ -6,7 +6,7 @@ https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8
 #EXTINF:-1 tvg-id="BrunoMasiTV.py@SD",Bruno Masi TV (720p)
 https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
 #EXTINF:-1 tvg-id="C9N.py@SD",C9N
-https://alba-py-c9n-c9n.stream.mediatiquestream.com/playlist.m3u8
+https://d1y0t05eznkmpn.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-id="Canal5TVMax.py@SD",Canal 5 TV Max (720p)
 https://video.wilohosting.com:19360/tvmax/tvmax.m3u8
 #EXTINF:-1 tvg-id="CaritasTV.py@SD",Cáritas TV (1080p)
@@ -55,3 +55,5 @@ https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/.m3u8
 #EXTVLCOPT:http-referrer=https://www.abc.com.py/
 #EXTINF:-1 tvg-id="Gen.py@SD",Gen
 #EXTVLCOPT:http-referrer=https://www.gen.com.py/
+#EXTINF:-1 tvg-id="DelReyTV.py@SD",Del Rey TV (1080p)
+#EXTVLCOPT:http-referrer=https://tvonline.com.py/

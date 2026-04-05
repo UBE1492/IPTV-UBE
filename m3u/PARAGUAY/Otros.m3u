@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="C9N.py@SD",C9N
-https://alba-py-c9n-c9n.stream.mediatiquestream.com/playlist.m3u8
+https://d1y0t05eznkmpn.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-id="FarraPlay.py@SD",Farra Play (720p) [Not 24/7]
 http://159.203.148.226/live/farra.m3u8
 #EXTINF:-1 tvg-id="NextHD.py@SD",Next HD (480p)

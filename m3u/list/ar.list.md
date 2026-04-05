@@ -59,6 +59,16 @@
 | 53 | Chilecito TV (480p) | vivo.solumedia.com:19360 | <https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8> |
 | 54 | Ciudad Magazine (1080p) [Geo-blocked] | live-01-07-ciudad.vodgc.net | <https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8> |
 | 55 | Cumbia Mix (720p) | cloud.tvomix.com | <https://cloud.tvomix.com/CUMBIAMIX/index.m3u8> |
-| 56 | El Trece (1080p) | live-01-02-eltrece.vodgc.net | <https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8> |
+| 56 | TyC Sports (720p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-90.playlist.m3u8> |
+| 57 | TN (2160p) | latam-cache-sv2-cdn.latamlive.net | <https://latam-cache-sv2-cdn.latamlive.net/TN_ENC_LIVE/index.mpd> |
+| 58 | Telefe Santa Fe (1080p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-10.playlist.m3u8> |
+| 59 | Telefe (1080p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/telefe.playlist.m3u8> |
+| 60 | Pakapaka (1080p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-36_400.m3u8> |
+| 61 | Encuentro (1080p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-19.playlist.m3u8> |
+| 62 | Disney Jr. Latin America South | tr.live.clarovtrcdn.vtrplay.com | <http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD> |
+| 63 | DeporTV | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/deportv_720.m3u8> |
+| 64 | Cronica TV (1280p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/CronicaTv.playlist.m3u8> |
+| 65 | Cine.Ar (1080p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-20.playlist.m3u8> |
+| 66 | Canal Rural (1080p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/rural.playlist.m3u8> |
 
-Updated at **Sat Apr 04 2026 18:50:13 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Apr 05 2026 02:51:26 GMT+0000 (Coordinated Universal Time)**

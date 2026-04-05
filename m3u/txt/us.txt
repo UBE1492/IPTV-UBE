@@ -265,3 +265,4 @@ YTA_TV,https://yta.unitedteleports.tv/hls/YTA.m3u8
 Yu-Gi-Oh!_(1080p),https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8
 Zarin_TV_(1080p),https://fl1002.bozztv.com/gf-zarintv/index.m3u8
 Zoom_TV_Kurdish_(720p),#EXTVLCOPT:http-referrer=https://zoomnews.info/
+History_Asia,https://liveh34.vtvprime.vn/hls/HISTORY/index.m3u8

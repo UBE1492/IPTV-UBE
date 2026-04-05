@@ -531,3 +531,5 @@ https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg0
 https://fl1002.bozztv.com/gf-zarintv/index.m3u8
 #EXTINF:-1 tvg-id="ZoomNews.us@SD",Zoom TV Kurdish (720p)
 #EXTVLCOPT:http-referrer=https://zoomnews.info/
+#EXTINF:-1 tvg-id="HistoryAsia.us@SD",History Asia
+https://liveh34.vtvprime.vn/hls/HISTORY/index.m3u8

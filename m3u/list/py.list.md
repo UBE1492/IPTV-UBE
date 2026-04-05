@@ -7,7 +7,7 @@
 | 1 | 4DmásNoticias TV (1080p) [Not 24/7] | rds3.desdeparaguay.net | <https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8> |
 | 2 | Almaya TV (720p) | video.hostingcaaguazu.com:19360 | <https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8> |
 | 3 | Bruno Masi TV (720p) | rds3.desdeparaguay.net | <https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8> |
-| 4 | C9N | alba-py-c9n-c9n.stream.mediatiquestream.com | <https://alba-py-c9n-c9n.stream.mediatiquestream.com/playlist.m3u8> |
+| 4 | C9N | d1y0t05eznkmpn.cloudfront.net | <https://d1y0t05eznkmpn.cloudfront.net/index.m3u8> |
 | 5 | Canal 5 TV Max (720p) | video.wilohosting.com:19360 | <https://video.wilohosting.com:19360/tvmax/tvmax.m3u8> |
 | 6 | Cáritas TV (1080p) | rds3.desdeparaguay.net | <https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8> |
 | 7 | Cosmos TV (720p) | video.hostingcaaguazu.com:19360 | <https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8> |
@@ -26,4 +26,4 @@
 | 20 | UnionTV | tigocloud.desdeparaguay.net | <https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8> |
 | 21 | Venus Media (720p) | rds3gen.desdeparaguay.net | <https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/.m3u8> |
 
-Updated at **Sat Apr 04 2026 18:50:14 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Apr 05 2026 02:51:27 GMT+0000 (Coordinated Universal Time)**

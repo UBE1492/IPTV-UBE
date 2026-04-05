@@ -1,6 +1,6 @@
 {
   "name": "ar",
-  "updated_at": 1775328613531,
+  "updated_at": 1775357486474,
   "m3u": "https://ube1492.github.io/IPTV-UBE/ar.m3u",
   "channels": [
     {
@@ -338,18 +338,81 @@
     },
     {
       "name": "El Trece (1080p)",
-      "url": "https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8",
+      "url": "#EXTINF:-1 tvg-id=\"XtremaCartoons.ar@SD\",Xtrema Cartoons",
+      "logo": "",
+      "category": "Otros",
+      "options": {
+        "http-referrer": "https://vodgc.net"
+      }
+    },
+    {
+      "name": "Xtrema Terror",
+      "url": "#EXTINF:-1 tvg-id=\"TyCSports.ar@SD\",TyC Sports (720p)",
+      "logo": "",
+      "category": "Otros",
+      "options": {
+        "http-referrer": "https://xtrematv.com/?p=1456"
+      }
+    },
+    {
+      "name": "TN (2160p)",
+      "url": "https://latam-cache-sv2-cdn.latamlive.net/TN_ENC_LIVE/index.mpd",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "Xtrema Cartoons",
-      "url": "#EXTINF:-1 tvg-id=\"XtremaTerror.ar@SD\",Xtrema Terror",
+      "name": "Telefe Santa Fe (1080p)",
+      "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-10.playlist.m3u8",
       "logo": "",
-      "category": "Otros",
-      "options": {
-        "http-referrer": "https://xtrematv.com/?p=1390"
-      }
+      "category": "Otros"
+    },
+    {
+      "name": "Telefe (1080p)",
+      "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/telefe.playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Pakapaka (1080p)",
+      "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-36_400.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Encuentro (1080p)",
+      "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-19.playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Disney Jr. Latin America South",
+      "url": "http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "DeporTV",
+      "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/deportv_720.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Cronica TV (1280p)",
+      "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/CronicaTv.playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Cine.Ar (1080p)",
+      "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-20.playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Canal Rural (1080p)",
+      "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/rural.playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
     }
   ],
   "categories": {
@@ -689,18 +752,81 @@
       },
       {
         "name": "El Trece (1080p)",
-        "url": "https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8",
+        "url": "#EXTINF:-1 tvg-id=\"XtremaCartoons.ar@SD\",Xtrema Cartoons",
+        "logo": "",
+        "category": "Otros",
+        "options": {
+          "http-referrer": "https://vodgc.net"
+        }
+      },
+      {
+        "name": "Xtrema Terror",
+        "url": "#EXTINF:-1 tvg-id=\"TyCSports.ar@SD\",TyC Sports (720p)",
+        "logo": "",
+        "category": "Otros",
+        "options": {
+          "http-referrer": "https://xtrematv.com/?p=1456"
+        }
+      },
+      {
+        "name": "TN (2160p)",
+        "url": "https://latam-cache-sv2-cdn.latamlive.net/TN_ENC_LIVE/index.mpd",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "Xtrema Cartoons",
-        "url": "#EXTINF:-1 tvg-id=\"XtremaTerror.ar@SD\",Xtrema Terror",
+        "name": "Telefe Santa Fe (1080p)",
+        "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-10.playlist.m3u8",
         "logo": "",
-        "category": "Otros",
-        "options": {
-          "http-referrer": "https://xtrematv.com/?p=1390"
-        }
+        "category": "Otros"
+      },
+      {
+        "name": "Telefe (1080p)",
+        "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/telefe.playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Pakapaka (1080p)",
+        "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-36_400.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Encuentro (1080p)",
+        "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-19.playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Disney Jr. Latin America South",
+        "url": "http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "DeporTV",
+        "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/deportv_720.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Cronica TV (1280p)",
+        "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/CronicaTv.playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Cine.Ar (1080p)",
+        "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-20.playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Canal Rural (1080p)",
+        "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/rural.playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
       }
     ]
   }
