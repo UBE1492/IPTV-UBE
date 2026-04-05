@@ -270,4 +270,4 @@
 | 264 | Zarin TV (1080p) | fl1002.bozztv.com | <https://fl1002.bozztv.com/gf-zarintv/index.m3u8> |
 | 265 | History Asia | liveh34.vtvprime.vn | <https://liveh34.vtvprime.vn/hls/HISTORY/index.m3u8> |
 
-Updated at **Sun Apr 05 2026 07:13:21 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Apr 05 2026 13:06:23 GMT+0000 (Coordinated Universal Time)**

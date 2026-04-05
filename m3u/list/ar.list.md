@@ -71,4 +71,4 @@
 | 65 | Cine.Ar (1080p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-20.playlist.m3u8> |
 | 66 | Canal Rural (1080p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/rural.playlist.m3u8> |
 
-Updated at **Sun Apr 05 2026 07:13:21 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Apr 05 2026 13:06:22 GMT+0000 (Coordinated Universal Time)**
