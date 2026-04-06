@@ -275,4 +275,4 @@
 | 269 | Pluto TV Futbol Para Fans (1080p) | jmp2.uk | <https://jmp2.uk/plu-63c6e37e636b7e0007ccb635.m3u8> |
 | 270 | DirecTV Sports (1080p) | latam-cache-sv2-cdn.latamlive.net | <https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd> |
 
-Updated at **Mon Apr 06 2026 07:50:16 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Apr 06 2026 13:19:36 GMT+0000 (Coordinated Universal Time)**
