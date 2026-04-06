@@ -29,4 +29,4 @@
 | 23 | Tigo Sports (720p) | live.enhdtv.com:8081 | <https://live.enhdtv.com:8081/8160/index.m3u8> |
 | 24 | TV Aire | video.hostingcaaguazu.com:19360 | <https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8> |
 
-Updated at **Mon Apr 06 2026 13:19:36 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Apr 06 2026 19:07:18 GMT+0000 (Coordinated Universal Time)**
