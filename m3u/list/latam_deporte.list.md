@@ -5,5 +5,6 @@
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
 | 1 | ESPN Deportes (360p) | e3.thetvapp.to | <https://e3.thetvapp.to/hls/espn-deportes/index.m3u8> |
+| 2 | DirecTV Sports (1080p) | latam-cache-sv2-cdn.latamlive.net | <https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd> |
 
-Updated at **Sun Apr 05 2026 18:51:40 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Apr 06 2026 02:52:10 GMT+0000 (Coordinated Universal Time)**

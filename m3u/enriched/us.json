@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1775415102296,
+  "updated_at": 1775443931392,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -1598,6 +1598,36 @@
       "options": {
         "http-referrer": "https://zoomnews.info/"
       }
+    },
+    {
+      "name": "AXN Latin America South (2160p)",
+      "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-77.playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "AMC Latin America (1280p)",
+      "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-76.playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Telemundo Internacional Central America (1080p)",
+      "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-26.playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Pluto TV Futbol Para Fans (1080p)",
+      "url": "https://jmp2.uk/plu-63c6e37e636b7e0007ccb635.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "DirecTV Sports (1080p)",
+      "url": "https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd",
+      "logo": "",
+      "category": "Otros"
     }
   ],
   "categories": {
@@ -3197,6 +3227,36 @@
         "options": {
           "http-referrer": "https://zoomnews.info/"
         }
+      },
+      {
+        "name": "AXN Latin America South (2160p)",
+        "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-77.playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "AMC Latin America (1280p)",
+        "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-76.playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Telemundo Internacional Central America (1080p)",
+        "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-26.playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Pluto TV Futbol Para Fans (1080p)",
+        "url": "https://jmp2.uk/plu-63c6e37e636b7e0007ccb635.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "DirecTV Sports (1080p)",
+        "url": "https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd",
+        "logo": "",
+        "category": "Otros"
       }
     ]
   }

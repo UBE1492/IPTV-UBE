@@ -69,3 +69,5 @@ DeporTV,http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/deport
 Cronica_TV_(1280p),http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/CronicaTv.playlist.m3u8
 Cine.Ar_(1080p),http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-20.playlist.m3u8
 Canal_Rural_(1080p),http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/rural.playlist.m3u8
+Quiero_Musica_en_mi_Idioma_(1080p),http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-51.playlist.m3u8
+Disney_Jr._Latin_America_South_HD_(1080p),http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-35.playlist.m3u8

@@ -70,5 +70,7 @@
 | 64 | Cronica TV (1280p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/CronicaTv.playlist.m3u8> |
 | 65 | Cine.Ar (1080p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-20.playlist.m3u8> |
 | 66 | Canal Rural (1080p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/rural.playlist.m3u8> |
+| 67 | Quiero Musica en mi Idioma (1080p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-51.playlist.m3u8> |
+| 68 | Disney Jr. Latin America South HD (1080p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-35.playlist.m3u8> |
 
-Updated at **Sun Apr 05 2026 18:51:41 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Apr 06 2026 02:52:10 GMT+0000 (Coordinated Universal Time)**

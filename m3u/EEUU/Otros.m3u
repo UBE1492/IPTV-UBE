@@ -239,3 +239,7 @@ https://dvrfl04.tulix.tv/teleup-laff/mpegts
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="YuGiOh.us@SD",Yu-Gi-Oh! (1080p)
 https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8
+#EXTINF:-1 tvg-id="AXNLatinAmerica.us@South",AXN Latin America South (2160p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-77.playlist.m3u8
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us@SD",AMC Latin America (1280p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-76.playlist.m3u8

@@ -1,6 +1,6 @@
 {
   "name": "mx",
-  "updated_at": 1775415101787,
+  "updated_at": 1775443931294,
   "m3u": "https://ube1492.github.io/IPTV-UBE/mx.m3u",
   "channels": [
     {
@@ -399,6 +399,12 @@
     {
       "name": "ZAZ (1080p)",
       "url": "https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "TUDN (1080p)",
+      "url": "https://streaming.alwaysdata.net/tudn.php",
       "logo": "",
       "category": "Otros"
     }
@@ -801,6 +807,12 @@
       {
         "name": "ZAZ (1080p)",
         "url": "https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "TUDN (1080p)",
+        "url": "https://streaming.alwaysdata.net/tudn.php",
         "logo": "",
         "category": "Otros"
       }

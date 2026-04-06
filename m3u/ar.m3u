@@ -139,3 +139,7 @@ http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/CronicaTv.play
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-20.playlist.m3u8
 #EXTINF:-1 tvg-id="CanalRural.ar@SD",Canal Rural (1080p)
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/rural.playlist.m3u8
+#EXTINF:-1 tvg-id="QuieroMusicaenmiIdioma.ar@SD",Quiero Musica en mi Idioma (1080p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-51.playlist.m3u8
+#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@SouthHD",Disney Jr. Latin America South HD (1080p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-35.playlist.m3u8

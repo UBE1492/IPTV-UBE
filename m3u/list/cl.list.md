@@ -65,4 +65,4 @@
 | 59 | TVN3 (1080p) [Geo-blocked] | mdstrm.com | <https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8> |
 | 60 | VTV Valle de Aconcagua (720p) [Not 24/7] | unlimited1-us.dps.live | <https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8> |
 
-Updated at **Sun Apr 05 2026 18:51:41 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Apr 06 2026 02:52:10 GMT+0000 (Coordinated Universal Time)**

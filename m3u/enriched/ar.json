@@ -1,6 +1,6 @@
 {
   "name": "ar",
-  "updated_at": 1775415101636,
+  "updated_at": 1775443930868,
   "m3u": "https://ube1492.github.io/IPTV-UBE/ar.m3u",
   "channels": [
     {
@@ -411,6 +411,18 @@
     {
       "name": "Canal Rural (1080p)",
       "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/rural.playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Quiero Musica en mi Idioma (1080p)",
+      "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-51.playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Disney Jr. Latin America South HD (1080p)",
+      "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-35.playlist.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -825,6 +837,18 @@
       {
         "name": "Canal Rural (1080p)",
         "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/rural.playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Quiero Musica en mi Idioma (1080p)",
+        "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-51.playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Disney Jr. Latin America South HD (1080p)",
+        "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-35.playlist.m3u8",
         "logo": "",
         "category": "Otros"
       }

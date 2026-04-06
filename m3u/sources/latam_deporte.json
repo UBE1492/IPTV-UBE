@@ -1,1 +1,1 @@
-{"name":"LatAm Deportes","sources":{"espn deportes":["https://e3.thetvapp.to/hls/espn-deportes/index.m3u8"]}}
+{"name":"LatAm Deportes","sources":{"espn deportes":["https://e3.thetvapp.to/hls/espn-deportes/index.m3u8"],"directv sports":["https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd"]}}

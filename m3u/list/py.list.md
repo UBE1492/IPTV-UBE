@@ -22,8 +22,11 @@
 | 16 | SNT (480p) | alba-py-snt-snt.stream.mediatiquestream.com | <https://alba-py-snt-snt.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8> |
 | 17 | Suceso TV [Not 24/7] | live.enhdtv.com:8081 | <https://live.enhdtv.com:8081/8060/index.m3u8> |
 | 18 | TelePortal Canal 53.1 (1080p) [Geo-blocked] | live20.bozztv.com | <https://live20.bozztv.com/giatv/giatv-miseñalhd/miseñalhd/playlist.m3u8> |
-| 19 | Trece Paraguay (1080p) [Not 24/7] | rds3gen.desdeparaguay.net | <https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8> |
-| 20 | UnionTV | tigocloud.desdeparaguay.net | <https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8> |
-| 21 | Venus Media (720p) | rds3gen.desdeparaguay.net | <https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/.m3u8> |
+| 19 | UnionTV | tigocloud.desdeparaguay.net | <https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8> |
+| 20 | Venus Media (720p) | rds3gen.desdeparaguay.net | <https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/.m3u8> |
+| 21 | Productiva TV | copacoradios.desdeparaguay.net | <https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion> |
+| 22 | Nanduti (720p) | zn1tf.desdeparaguay.net | <https://zn1tf.desdeparaguay.net/nandutitv/nandutitv_alta/playlist.m3u8> |
+| 23 | Tigo Sports (720p) | live.enhdtv.com:8081 | <https://live.enhdtv.com:8081/8160/index.m3u8> |
+| 24 | TV Aire | video.hostingcaaguazu.com:19360 | <https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8> |
 
-Updated at **Sun Apr 05 2026 18:51:42 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Apr 06 2026 02:52:11 GMT+0000 (Coordinated Universal Time)**

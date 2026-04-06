@@ -3,3 +3,5 @@
 #EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1390
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@South",Disney Jr. Latin America South
 http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@SouthHD",Disney Jr. Latin America South HD (1080p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-35.playlist.m3u8

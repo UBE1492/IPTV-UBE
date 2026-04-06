@@ -266,3 +266,8 @@ Yu-Gi-Oh!_(1080p),https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amag
 Zarin_TV_(1080p),https://fl1002.bozztv.com/gf-zarintv/index.m3u8
 Zoom_TV_Kurdish_(720p),#EXTVLCOPT:http-referrer=https://zoomnews.info/
 History_Asia,https://liveh34.vtvprime.vn/hls/HISTORY/index.m3u8
+AXN_Latin_America_South_(2160p),http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-77.playlist.m3u8
+AMC_Latin_America_(1280p),http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-76.playlist.m3u8
+Telemundo_Internacional_Central_America_(1080p),http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-26.playlist.m3u8
+Pluto_TV_Futbol_Para_Fans_(1080p),https://jmp2.uk/plu-63c6e37e636b7e0007ccb635.m3u8
+DirecTV_Sports_(1080p),https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd

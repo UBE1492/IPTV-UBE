@@ -66,3 +66,4 @@ Unison_TV_(1080p)_[Not_24/7],https://stream.unison.mx/hls/unisontvatem.m3u8
 VB_Media_TV_(1080p),https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
 Visión_Televisión_(720p),https://cloudvideo.servers10.com:8081/8016/index.m3u8
 ZAZ_(1080p),https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
+TUDN_(1080p),https://streaming.alwaysdata.net/tudn.php

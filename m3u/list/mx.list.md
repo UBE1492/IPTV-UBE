@@ -70,5 +70,6 @@
 | 64 | VB Media TV (1080p) | capomo01-enitv.eninetworks.com | <https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8> |
 | 65 | Visión Televisión (720p) | cloudvideo.servers10.com:8081 | <https://cloudvideo.servers10.com:8081/8016/index.m3u8> |
 | 66 | ZAZ (1080p) | cloud.fastchannel.es | <https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8> |
+| 67 | TUDN (1080p) | streaming.alwaysdata.net | <https://streaming.alwaysdata.net/tudn.php> |
 
-Updated at **Sun Apr 05 2026 18:51:41 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Apr 06 2026 02:52:11 GMT+0000 (Coordinated Universal Time)**

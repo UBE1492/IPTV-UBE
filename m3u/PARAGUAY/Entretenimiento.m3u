@@ -27,3 +27,7 @@ https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.abc.com.py/
 #EXTINF:-1 tvg-id="DelReyTV.py@SD",Del Rey TV (1080p)
 #EXTVLCOPT:http-referrer=https://tvonline.com.py/
+#EXTINF:-1 tvg-id="ProductivaTV.py@SD",Productiva TV
+https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion
+#EXTINF:-1 tvg-id="TVAire.py@SD",TV Aire
+https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8
