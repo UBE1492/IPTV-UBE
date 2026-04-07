@@ -1,3 +1,4 @@
 Undefined,#genre#
-ESPN_Deportes_(360p),https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
 DirecTV_Sports_(1080p),https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd
+ESPN_Deportes_(360p),http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8
+Fox_Sports_3_Latin_America_(1080p),http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-92.playlist.m3u8

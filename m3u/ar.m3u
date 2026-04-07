@@ -143,3 +143,13 @@ http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/rural.playlist
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-51.playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@SouthHD",Disney Jr. Latin America South HD (1080p)
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-35.playlist.m3u8
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional",Disney Channel Latin America (720p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-32_720.m3u8
+#EXTINF:-1 tvg-id="TyCSportsLatinAmerica.ar@Panregional",TyC Sports Latin America (1080p)
+http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-90.playlist.m3u8
+#EXTINF:-1 tvg-id="C5N.ar@SD",C5N (1080p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/c5n_480.m3u8
+#EXTINF:-1 tvg-id="LaNacionPlus.ar@SD",La Nacion + (720p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/lntv.playlist.m3u8
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional",Disney Channel Latin America (1080p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-32.playlist.m3u8

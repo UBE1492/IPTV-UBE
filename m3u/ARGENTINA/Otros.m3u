@@ -89,3 +89,7 @@ http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-36_400.m
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-19.playlist.m3u8
 #EXTINF:-1 tvg-id="CanalRural.ar@SD",Canal Rural (1080p)
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/rural.playlist.m3u8
+#EXTINF:-1 tvg-id="C5N.ar@SD",C5N (1080p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/c5n_480.m3u8
+#EXTINF:-1 tvg-id="LaNacionPlus.ar@SD",La Nacion + (720p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/lntv.playlist.m3u8

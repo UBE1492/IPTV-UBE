@@ -47,3 +47,4 @@ UNIANDES_TV_(720p)_[Not_24/7],https://video.compuwebecuador.com:3323/live/uniand
 Unsion_TV_(1080p),http://provedores.unsion.tv:8081/srt/1/playlist.m3u8
 Vos_y_TV_(720p)_[Not_24/7],https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
 Zaracay_TV_(1080p)_[Not_24/7],https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
+KCHTV_(1080p),http://iptv.kchtv.video.makrodigital.com:8081/kchtv/iptv/playlist.m3u8

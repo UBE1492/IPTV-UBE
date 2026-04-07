@@ -3,3 +3,7 @@
 https://rpn.bozztv.com/gusa/gusa-tvshollywoohistory/index.m3u8
 #EXTINF:-1 tvg-id="HistoryAsia.us@SD",History Asia
 https://liveh34.vtvprime.vn/hls/HISTORY/index.m3u8
+#EXTINF:-1 tvg-id="History2LatinAmerica.us@Panregional",History 2 Latin America (480p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-41_480.m3u8
+#EXTINF:-1 tvg-id="HistoryenEspanol.us@SD",History en Espanol (480p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-40_480.m3u8

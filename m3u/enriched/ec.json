@@ -1,6 +1,6 @@
 {
   "name": "ec",
-  "updated_at": 1775502437329,
+  "updated_at": 1775529942560,
   "m3u": "https://ube1492.github.io/IPTV-UBE/ec.m3u",
   "channels": [
     {
@@ -285,6 +285,12 @@
     {
       "name": "Zaracay TV (1080p) [Not 24/7]",
       "url": "https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "KCHTV (1080p)",
+      "url": "http://iptv.kchtv.video.makrodigital.com:8081/kchtv/iptv/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -573,6 +579,12 @@
       {
         "name": "Zaracay TV (1080p) [Not 24/7]",
         "url": "https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "KCHTV (1080p)",
+        "url": "http://iptv.kchtv.video.makrodigital.com:8081/kchtv/iptv/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       }

@@ -3,3 +3,7 @@
 https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8
 #EXTINF:-1 tvg-id="WBRADT3.us@SD",WBRA PBS Kids (1080p)
 https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_124.m3u8
+#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@North",Nickelodeon Latin America North (480p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-33_480.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.us@East",Nickelodeon (576i)
+http://79.127.207.193/Nickelodeon/playlist.m3u8

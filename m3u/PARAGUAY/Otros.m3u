@@ -23,3 +23,7 @@ https://live20.bozztv.com/giatv/giatv-miseñalhd/miseñalhd/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.gen.com.py/
 #EXTINF:-1 tvg-id="Nanduti.py@SD",Nanduti (720p)
 https://zn1tf.desdeparaguay.net/nandutitv/nandutitv_alta/playlist.m3u8
+#EXTINF:-1 tvg-id="Trece.py@SD",Trece (1080p)
+#EXTVLCOPT:http-referrer=https://trece.com.py/
+#EXTINF:-1 tvg-id="A24Paraguay.py@SD",A24 Paraguay
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/6.m3u8

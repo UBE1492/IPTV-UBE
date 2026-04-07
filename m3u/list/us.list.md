@@ -274,5 +274,16 @@
 | 268 | Telemundo Internacional Central America (1080p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-26.playlist.m3u8> |
 | 269 | Pluto TV Futbol Para Fans (1080p) | jmp2.uk | <https://jmp2.uk/plu-63c6e37e636b7e0007ccb635.m3u8> |
 | 270 | DirecTV Sports (1080p) | latam-cache-sv2-cdn.latamlive.net | <https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd> |
+| 271 | ESPN Deportes (360p) | Tdo@origin.thetvapp.to | <http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8> |
+| 272 | Lifetime Latin America (720p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/Lifetime_720.m3u8> |
+| 273 | Telemundo Internacional (720p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-26_720.m3u8> |
+| 274 | Nickelodeon Latin America North (480p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-33_480.m3u8> |
+| 275 | History 2 Latin America (480p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-41_480.m3u8> |
+| 276 | History en Espanol (480p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-40_480.m3u8> |
+| 277 | A&E Latin America South (480p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-71_480.m3u8> |
+| 278 | Star Channel Latin America South (1080p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-68.playlist.m3u8> |
+| 279 | Comedy Central Latin America (1080p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-60.playlist.m3u8> |
+| 280 | Fox Sports 3 Latin America (1080p) | IPv4 直链 | <http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-92.playlist.m3u8> |
+| 281 | Nickelodeon (576i) | IPv4 直链 | <http://79.127.207.193/Nickelodeon/playlist.m3u8> |
 
-Updated at **Mon Apr 06 2026 19:07:17 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Apr 07 2026 02:45:42 GMT+0000 (Coordinated Universal Time)**

@@ -28,5 +28,6 @@
 | 22 | Nanduti (720p) | zn1tf.desdeparaguay.net | <https://zn1tf.desdeparaguay.net/nandutitv/nandutitv_alta/playlist.m3u8> |
 | 23 | Tigo Sports (720p) | live.enhdtv.com:8081 | <https://live.enhdtv.com:8081/8160/index.m3u8> |
 | 24 | TV Aire | video.hostingcaaguazu.com:19360 | <https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8> |
+| 25 | A24 Paraguay | IPv4 直链 | <http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/6.m3u8> |
 
-Updated at **Mon Apr 06 2026 19:07:18 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Apr 07 2026 02:45:43 GMT+0000 (Coordinated Universal Time)**

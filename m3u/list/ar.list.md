@@ -72,5 +72,10 @@
 | 66 | Canal Rural (1080p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/rural.playlist.m3u8> |
 | 67 | Quiero Musica en mi Idioma (1080p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-51.playlist.m3u8> |
 | 68 | Disney Jr. Latin America South HD (1080p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-35.playlist.m3u8> |
+| 69 | Disney Channel Latin America (720p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-32_720.m3u8> |
+| 70 | TyC Sports Latin America (1080p) | IPv4 直链 | <http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-90.playlist.m3u8> |
+| 71 | C5N (1080p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/c5n_480.m3u8> |
+| 72 | La Nacion + (720p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/lntv.playlist.m3u8> |
+| 73 | Disney Channel Latin America (1080p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-32.playlist.m3u8> |
 
-Updated at **Mon Apr 06 2026 19:07:17 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Apr 07 2026 02:45:42 GMT+0000 (Coordinated Universal Time)**

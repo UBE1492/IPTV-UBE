@@ -4,7 +4,8 @@
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
-| 1 | ESPN Deportes (360p) | e3.thetvapp.to | <https://e3.thetvapp.to/hls/espn-deportes/index.m3u8> |
-| 2 | DirecTV Sports (1080p) | latam-cache-sv2-cdn.latamlive.net | <https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd> |
+| 1 | DirecTV Sports (1080p) | latam-cache-sv2-cdn.latamlive.net | <https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd> |
+| 2 | ESPN Deportes (360p) | Tdo@origin.thetvapp.to | <http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8> |
+| 3 | Fox Sports 3 Latin America (1080p) | IPv4 直链 | <http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-92.playlist.m3u8> |
 
-Updated at **Mon Apr 06 2026 19:07:16 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Apr 07 2026 02:45:41 GMT+0000 (Coordinated Universal Time)**

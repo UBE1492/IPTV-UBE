@@ -1,6 +1,6 @@
 {
   "name": "py",
-  "updated_at": 1775502438099,
+  "updated_at": 1775529943440,
   "m3u": "https://ube1492.github.io/IPTV-UBE/py.m3u",
   "channels": [
     {
@@ -182,6 +182,15 @@
       "url": "https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8",
       "logo": "",
       "category": "Otros"
+    },
+    {
+      "name": "Trece (1080p)",
+      "url": "#EXTINF:-1 tvg-id=\"A24Paraguay.py@SD\",A24 Paraguay",
+      "logo": "",
+      "category": "Otros",
+      "options": {
+        "http-referrer": "https://trece.com.py/"
+      }
     }
   ],
   "categories": {
@@ -365,6 +374,15 @@
         "url": "https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8",
         "logo": "",
         "category": "Otros"
+      },
+      {
+        "name": "Trece (1080p)",
+        "url": "#EXTINF:-1 tvg-id=\"A24Paraguay.py@SD\",A24 Paraguay",
+        "logo": "",
+        "category": "Otros",
+        "options": {
+          "http-referrer": "https://trece.com.py/"
+        }
       }
     ]
   }

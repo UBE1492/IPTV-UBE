@@ -1,17 +1,23 @@
 {
   "name": "latam_deporte",
-  "updated_at": 1775502436321,
+  "updated_at": 1775529941799,
   "m3u": "https://ube1492.github.io/IPTV-UBE/latam_deporte.m3u",
   "channels": [
     {
-      "name": "ESPN Deportes (360p)",
-      "url": "https://e3.thetvapp.to/hls/espn-deportes/index.m3u8",
+      "name": "DirecTV Sports (1080p)",
+      "url": "https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "DirecTV Sports (1080p)",
-      "url": "https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd",
+      "name": "ESPN Deportes (360p)",
+      "url": "http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Fox Sports 3 Latin America (1080p)",
+      "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-92.playlist.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -19,14 +25,20 @@
   "categories": {
     "Otros": [
       {
-        "name": "ESPN Deportes (360p)",
-        "url": "https://e3.thetvapp.to/hls/espn-deportes/index.m3u8",
+        "name": "DirecTV Sports (1080p)",
+        "url": "https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "DirecTV Sports (1080p)",
-        "url": "https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd",
+        "name": "ESPN Deportes (360p)",
+        "url": "http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Fox Sports 3 Latin America (1080p)",
+        "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-92.playlist.m3u8",
         "logo": "",
         "category": "Otros"
       }

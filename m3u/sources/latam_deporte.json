@@ -1,1 +1,1 @@
-{"name":"LatAm Deportes","sources":{"espn deportes":["https://e3.thetvapp.to/hls/espn-deportes/index.m3u8"],"directv sports":["https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd"]}}
+{"name":"LatAm Deportes","sources":{"directv sports":["https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd"],"espn deportes":["http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8"],"fox sports 3 latin america":["http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-92.playlist.m3u8"]}}

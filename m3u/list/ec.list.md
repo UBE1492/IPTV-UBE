@@ -51,5 +51,6 @@
 | 45 | Unsion TV (1080p) | provedores.unsion.tv:8081 | <http://provedores.unsion.tv:8081/srt/1/playlist.m3u8> |
 | 46 | Vos y TV (720p) [Not 24/7] | cloud37.ecuatel.com | <https://cloud37.ecuatel.com/vostv/live/manifest.m3u8> |
 | 47 | Zaracay TV (1080p) [Not 24/7] | video2.makrodigital.com | <https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8> |
+| 48 | KCHTV (1080p) | iptv.kchtv.video.makrodigital.com:8081 | <http://iptv.kchtv.video.makrodigital.com:8081/kchtv/iptv/playlist.m3u8> |
 
-Updated at **Mon Apr 06 2026 19:07:17 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Apr 07 2026 02:45:42 GMT+0000 (Coordinated Universal Time)**
