@@ -30,4 +30,4 @@
 | 24 | TV Aire | video.hostingcaaguazu.com:19360 | <https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8> |
 | 25 | A24 Paraguay | IPv4 直链 | <http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/6.m3u8> |
 
-Updated at **Tue Apr 07 2026 13:40:50 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Apr 07 2026 19:10:22 GMT+0000 (Coordinated Universal Time)**

@@ -78,4 +78,4 @@
 | 72 | La Nacion + (720p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/lntv.playlist.m3u8> |
 | 73 | Disney Channel Latin America (1080p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-32.playlist.m3u8> |
 
-Updated at **Tue Apr 07 2026 13:40:49 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Apr 07 2026 19:10:21 GMT+0000 (Coordinated Universal Time)**
