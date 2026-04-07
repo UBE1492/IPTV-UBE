@@ -286,4 +286,4 @@
 | 280 | Fox Sports 3 Latin America (1080p) | IPv4 直链 | <http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-92.playlist.m3u8> |
 | 281 | Nickelodeon (576i) | IPv4 直链 | <http://79.127.207.193/Nickelodeon/playlist.m3u8> |
 
-Updated at **Tue Apr 07 2026 02:45:42 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Apr 07 2026 07:24:18 GMT+0000 (Coordinated Universal Time)**
