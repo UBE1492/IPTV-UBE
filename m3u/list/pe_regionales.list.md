@@ -16,14 +16,12 @@
 | 10 | Nativa  PE | oneplay.iptvperu.tv:1936 | <https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8?PlaylistM3UCL> |
 | 11 | ATV+  PE | d1svme839xkbsn.cloudfront.net | <https://d1svme839xkbsn.cloudfront.net/index.m3u8?PlaylistM3UCL> |
 | 12 | Tele Selva  PE | 7.innovatestream.pe:19360 | <https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8?PlaylistM3UCL> |
-| 13 | BHTV  PE | sc1.wasidata.com | <https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8?PlaylistM3UCL> |
+| 13 | Controversia TV  PE | live.obslivestream.com | <https://live.obslivestream.com/controversiatv/index.m3u8?PlaylistM3UCL> |
 | 14 | Telecolor TV  PE | live.obslivestream.com | <https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL> |
-| 15 | Controversia TV  PE | live.obslivestream.com | <https://live.obslivestream.com/controversiatv/index.m3u8?PlaylistM3UCL> |
-| 16 | Cultura 24 TV  PE | www.opencaster.com | <https://www.opencaster.com/resources/hls_stream/cultura24.m3u8?PlaylistM3UCL> |
-| 17 | Uranio TV  PE | live.obslivestream.com | <https://live.obslivestream.com/uraniotv/index.m3u8?PlaylistM3UCL> |
-| 18 | Via Alto Mayo TV  PE | live.obslivestream.com | <https://live.obslivestream.com/viaaltomayomux/index.m3u8?PlaylistM3UCL> |
-| 19 | Via Television Tarapoto  PE | videoserver.tmcreativos.com:19360 | <https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8?PlaylistM3UCL> |
-| 20 | San Pedro SAT  PE | eu1.servers10.com:8081 | <https://eu1.servers10.com:8081/8156/index.m3u8?PlaylistM3UCL> |
-| 21 | TVperuanisima  PE | k20.usastreams.com:8081 | <https://k20.usastreams.com:8081/tvperuanisima/index.m3u8?PlaylistM3UCL> |
+| 15 | San Pedro SAT  PE | eu1.servers10.com:8081 | <https://eu1.servers10.com:8081/8156/index.m3u8?PlaylistM3UCL> |
+| 16 | Uranio TV  PE | live.obslivestream.com | <https://live.obslivestream.com/uraniotv/index.m3u8?PlaylistM3UCL> |
+| 17 | Via Alto Mayo TV  PE | live.obslivestream.com | <https://live.obslivestream.com/viaaltomayomux/index.m3u8?PlaylistM3UCL> |
+| 18 | TV en linea Cusco  PE | s4.tvdatta.com:3450 | <https://s4.tvdatta.com:3450/live/tvenlinealive.m3u8?PlaylistM3UCL> |
+| 19 | TVperuanisima  PE | k20.usastreams.com:8081 | <https://k20.usastreams.com:8081/tvperuanisima/index.m3u8?PlaylistM3UCL> |
 
-Updated at **Tue Apr 07 2026 07:24:26 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Apr 07 2026 13:41:01 GMT+0000 (Coordinated Universal Time)**
