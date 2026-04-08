@@ -67,3 +67,5 @@ VB_Media_TV_(1080p),https://capomo01-enitv.eninetworks.com/locales_vbmedia_publi
 Visión_Televisión_(720p),https://cloudvideo.servers10.com:8081/8016/index.m3u8
 ZAZ_(1080p),https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 TUDN_(1080p),https://streaming.alwaysdata.net/tudn.php
+Las_Estrellas_Latin_America_(720p),http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/lasestrellas_720.m3u8
+Las_Estrellas_Latin_America_(1080p),http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/lasestrellas.playlist.m3u8

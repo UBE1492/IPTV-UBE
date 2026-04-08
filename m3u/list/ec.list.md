@@ -52,5 +52,6 @@
 | 46 | Vos y TV (720p) [Not 24/7] | cloud37.ecuatel.com | <https://cloud37.ecuatel.com/vostv/live/manifest.m3u8> |
 | 47 | Zaracay TV (1080p) [Not 24/7] | video2.makrodigital.com | <https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8> |
 | 48 | KCHTV (1080p) | iptv.kchtv.video.makrodigital.com:8081 | <http://iptv.kchtv.video.makrodigital.com:8081/kchtv/iptv/playlist.m3u8> |
+| 49 | VitoTVO (1080p) | iptv.vitotvo.video.makrodigital.com:8081 | <http://iptv.vitotvo.video.makrodigital.com:8081/vitotvo/iptv/playlist.m3u8> |
 
-Updated at **Tue Apr 07 2026 19:10:21 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Apr 08 2026 02:46:46 GMT+0000 (Coordinated Universal Time)**

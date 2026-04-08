@@ -53,7 +53,6 @@ Catamarca_TV_(720p),https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7cata
 Celta_TV_(240p),https://vivo.solumedia.com:19360/celta/celta.m3u8
 Chaco_TV_(720p)_[Not_24/7],https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
 Chilecito_TV_(480p),https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
-Ciudad_Magazine_(1080p)_[Geo-blocked],https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 Cumbia_Mix_(720p),https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
 El_Trece_(1080p),#EXTVLCOPT:http-referrer=https://vodgc.net
 Xtrema_Cartoons,#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1390
@@ -76,3 +75,10 @@ TyC_Sports_Latin_America_(1080p),http://201.217.246.42:44310/Live/d93a7c495cb5f5
 C5N_(1080p),http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/c5n_480.m3u8
 La_Nacion_+_(720p),http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/lntv.playlist.m3u8
 Disney_Channel_Latin_America_(1080p),http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-32.playlist.m3u8
+TV_Publica_(720p),http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/tvpublica_720.m3u8
+Metro_(480p),http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-53_480.m3u8
+El_Nueve_(720p),http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-16_720.m3u8
+Ciudad_Magazine_(720p),http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/ciudadmagazine_720.m3u8
+El_Gourmet_South_(720p),http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-25_720.m3u8
+America_Internacional_(720p),http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-17_720.m3u8
+MusicTop_(1080p),https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8

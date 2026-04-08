@@ -71,5 +71,7 @@
 | 65 | Visión Televisión (720p) | cloudvideo.servers10.com:8081 | <https://cloudvideo.servers10.com:8081/8016/index.m3u8> |
 | 66 | ZAZ (1080p) | cloud.fastchannel.es | <https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8> |
 | 67 | TUDN (1080p) | streaming.alwaysdata.net | <https://streaming.alwaysdata.net/tudn.php> |
+| 68 | Las Estrellas Latin America (720p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/lasestrellas_720.m3u8> |
+| 69 | Las Estrellas Latin America (1080p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/lasestrellas.playlist.m3u8> |
 
-Updated at **Tue Apr 07 2026 19:10:21 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Apr 08 2026 02:46:46 GMT+0000 (Coordinated Universal Time)**

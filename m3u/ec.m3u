@@ -97,3 +97,5 @@ https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
 https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
 #EXTINF:-1 tvg-id="KCHTV.ec@SD",KCHTV (1080p)
 http://iptv.kchtv.video.makrodigital.com:8081/kchtv/iptv/playlist.m3u8
+#EXTINF:-1 tvg-id="VitoTVO.ec@SD",VitoTVO (1080p)
+http://iptv.vitotvo.video.makrodigital.com:8081/vitotvo/iptv/playlist.m3u8

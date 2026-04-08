@@ -14,9 +14,7 @@ Mega_TV_(720p)_[Not_24/7],https://ott3.streann.com/loadbalancer/services/public/
 MiTV_(720p),https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 Next_HD_(480p),https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 República_TV_(720p),https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8
-SNT_(480p),https://alba-py-snt-snt.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
 Suceso_TV_[Not_24/7],https://live.enhdtv.com:8081/8060/index.m3u8
-TelePortal_Canal_53.1_(1080p)_[Geo-blocked],https://live20.bozztv.com/giatv/giatv-miseñalhd/miseñalhd/playlist.m3u8
 UnionTV,https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
 Venus_Media_(720p),https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/.m3u8
 Unicanal_(1080p),#EXTVLCOPT:http-referrer=https://unicanal.com.py/
@@ -33,3 +31,8 @@ Tigo_Sports_(720p),https://live.enhdtv.com:8081/8160/index.m3u8
 TV_Aire,https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8
 Trece_(1080p),#EXTVLCOPT:http-referrer=https://trece.com.py/
 A24_Paraguay,http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/6.m3u8
+Red_Digital_(1080p)_[Not_24/7],https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8
+Mega_TV_(1080p),https://www.desde-paraguay.com/mega.m3u8
+SNT_(1080p),https://d2qsan2ut81n2k.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/ts:abr.m3u8
+Villa_Elisa_Radio_TV_(1080p),https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/playlist.m3u8?admin=nacion
+RCC_TV_(1080p)_[Not_24/7],https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion
