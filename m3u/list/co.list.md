@@ -84,4 +84,4 @@
 | 78 | Win+ Futbol (1080p) | live20.bozztv.com | <https://live20.bozztv.com/akamaissh101/ssh101/winsporplusco/playlist.m3u8> |
 | 79 | Kalu TV (1080p) | tv.kaludecolombia.com | <https://tv.kaludecolombia.com/memfs/d71c0104-4752-4690-bdbf-19aa849da6c4.m3u8> |
 
-Updated at **Wed Apr 08 2026 02:46:47 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Apr 08 2026 07:27:34 GMT+0000 (Coordinated Universal Time)**
