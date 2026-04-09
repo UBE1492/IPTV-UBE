@@ -55,4 +55,4 @@
 | 49 | VitoTVO (1080p) | iptv.vitotvo.video.makrodigital.com:8081 | <http://iptv.vitotvo.video.makrodigital.com:8081/vitotvo/iptv/playlist.m3u8> |
 | 50 | Telepremier Plus (1080p) | iptv.telepremier.video.makrodigital.com:8081 | <http://iptv.telepremier.video.makrodigital.com:8081/telepremier/iptv/playlist.m3u8> |
 
-Updated at **Thu Apr 09 2026 13:53:55 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Apr 09 2026 19:13:38 GMT+0000 (Coordinated Universal Time)**
