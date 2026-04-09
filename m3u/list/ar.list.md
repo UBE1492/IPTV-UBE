@@ -83,5 +83,7 @@
 | 77 | El Gourmet South (720p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-25_720.m3u8> |
 | 78 | America Internacional (720p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-17_720.m3u8> |
 | 79 | MusicTop (1080p) | stream-gtlc.telecentro.net.ar | <https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8> |
+| 80 | Volver (480p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-74_480.m3u8> |
+| 81 | IP Noticias (480p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-21_480.m3u8> |
 
-Updated at **Wed Apr 08 2026 19:23:05 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Apr 09 2026 02:41:26 GMT+0000 (Coordinated Universal Time)**

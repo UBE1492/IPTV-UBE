@@ -1,6 +1,6 @@
 {
   "name": "ar",
-  "updated_at": 1775676185641,
+  "updated_at": 1775702486930,
   "m3u": "https://ube1492.github.io/IPTV-UBE/ar.m3u",
   "channels": [
     {
@@ -489,6 +489,18 @@
     {
       "name": "MusicTop (1080p)",
       "url": "https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Volver (480p)",
+      "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-74_480.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "IP Noticias (480p)",
+      "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-21_480.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -981,6 +993,18 @@
       {
         "name": "MusicTop (1080p)",
         "url": "https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Volver (480p)",
+        "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-74_480.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "IP Noticias (480p)",
+        "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-21_480.m3u8",
         "logo": "",
         "category": "Otros"
       }

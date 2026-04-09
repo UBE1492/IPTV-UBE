@@ -8,4 +8,4 @@
 | 2 | ESPN Deportes (360p) | Tdo@origin.thetvapp.to | <http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8> |
 | 3 | Fox Sports 3 Latin America (1080p) | IPv4 直链 | <http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-92.playlist.m3u8> |
 
-Updated at **Wed Apr 08 2026 19:23:04 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Apr 09 2026 02:41:26 GMT+0000 (Coordinated Universal Time)**

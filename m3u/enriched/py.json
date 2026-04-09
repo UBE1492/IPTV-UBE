@@ -1,6 +1,6 @@
 {
   "name": "py",
-  "updated_at": 1775676186151,
+  "updated_at": 1775702487873,
   "m3u": "https://ube1492.github.io/IPTV-UBE/py.m3u",
   "channels": [
     {
@@ -66,12 +66,6 @@
     {
       "name": "LIM TV (720p)",
       "url": "https://tv.invasivamedia.com/hls/limtv.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Mega TV (720p) [Not 24/7]",
-      "url": "https://ott3.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -209,6 +203,18 @@
       "url": "https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion",
       "logo": "",
       "category": "Otros"
+    },
+    {
+      "name": "Farra Play (576p)",
+      "url": "https://stream.farra.com.py/live/farra_low.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "En Lengua de Senas TV (720p)",
+      "url": "https://cloudtv.streaming.com.py/lenguasdesenas/lenguasdesenas/chunklist.m3u8",
+      "logo": "",
+      "category": "Otros"
     }
   ],
   "categories": {
@@ -276,12 +282,6 @@
       {
         "name": "LIM TV (720p)",
         "url": "https://tv.invasivamedia.com/hls/limtv.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Mega TV (720p) [Not 24/7]",
-        "url": "https://ott3.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -417,6 +417,18 @@
       {
         "name": "RCC TV (1080p) [Not 24/7]",
         "url": "https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Farra Play (576p)",
+        "url": "https://stream.farra.com.py/live/farra_low.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "En Lengua de Senas TV (720p)",
+        "url": "https://cloudtv.streaming.com.py/lenguasdesenas/lenguasdesenas/chunklist.m3u8",
         "logo": "",
         "category": "Otros"
       }
