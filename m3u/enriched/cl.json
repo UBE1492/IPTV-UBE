@@ -1,6 +1,6 @@
 {
   "name": "cl",
-  "updated_at": 1775762018731,
+  "updated_at": 1775789585307,
   "m3u": "https://ube1492.github.io/IPTV-UBE/cl.m3u",
   "channels": [
     {
@@ -374,6 +374,12 @@
       "options": {
         "http-referrer": "http://www.tvosanvicente.cl/"
       }
+    },
+    {
+      "name": "Orbita Chile TV (1080p)",
+      "url": "https://orbitachiletv.org/hls/0/stream.m3u8",
+      "logo": "",
+      "category": "Otros"
     }
   ],
   "categories": {
@@ -749,6 +755,12 @@
         "options": {
           "http-referrer": "http://www.tvosanvicente.cl/"
         }
+      },
+      {
+        "name": "Orbita Chile TV (1080p)",
+        "url": "https://orbitachiletv.org/hls/0/stream.m3u8",
+        "logo": "",
+        "category": "Otros"
       }
     ]
   }
