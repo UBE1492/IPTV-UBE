@@ -35,15 +35,15 @@ https://servilive.com:3538/live/v6qe84b6flive.m3u8
 https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8
 #EXTINF:-1 tvg-id="RNTelevision.pe@SD",RN Televisión (720p) [Not 24/7]
 https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
-#EXTINF:-1 tvg-id="TelevisionTarapoto.pe@SD",Televisión Tarapoto (720p) [Not 24/7]
-https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
-#EXTINF:-1 tvg-id="Trivu.pe@SD",Trivu (1080p) [Not 24/7]
-https://www.chasquirouter.com/salida/sd/trivu.m3u8
-#EXTINF:-1 tvg-id="ViaAltomayo.pe@SD",Vía Altomayo (720p) [Not 24/7]
-https://live.obslivestream.com/viaaltomayomux/index.m3u8
-#EXTINF:-1 tvg-id="ViaTelevision.pe@SD",Vía Televisión (720P) [Not 24/7]
-https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
-#EXTINF:-1 tvg-id="VNP.pe@SD",VNP
-https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
-#EXTINF:-1 tvg-id="L1Max.pe@SD",L1 Max (720p)
-https://live20.bozztv.com/akamaissh101/ssh101/l1maxhd/playlist.m3u8
+#EXTINF:-1 tvg-id="SolTV.pe@SD",Sol Televisión (720p)
+https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
+#EXTINF:-1 tvg-id="TelecolorYurimaguas.pe@SD",Telecolor Yurimaguas (720p) [Not 24/7]
+https://live.obslivestream.com/telecolormux/index.m3u8
+#EXTINF:-1 tvg-id="Teleselva.pe@SD",Teleselva
+https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
+#EXTINF:-1 tvg-id="TelesurCamana.pe@SD",Telesur Camana [Not 24/7]
+https://telesurnew.b-cdn.net/hls/camana.m3u8
+#EXTINF:-1 tvg-id="TelesurMoquegua.pe@SD",Telesur Moquegua [Not 24/7]
+#EXTVLCOPT:http-referrer=https://www.telesur.com.pe/
+#EXTINF:-1 tvg-id="Unitel.pe@SD",Unitel (1080p)
+https://play.agenciastreaming.com:8081/uniteltv/index.m3u8

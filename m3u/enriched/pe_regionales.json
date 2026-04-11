@@ -1,6 +1,6 @@
 {
   "name": "pe_regionales",
-  "updated_at": 1775847630904,
+  "updated_at": 1775875048626,
   "m3u": "https://ube1492.github.io/IPTV-UBE/pe_regionales.m3u",
   "channels": [
     {
@@ -58,6 +58,12 @@
       "category": "Without category"
     },
     {
+      "name": "Nativa | PE",
+      "url": "https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/684_Nativa.png",
+      "category": "Without category"
+    },
+    {
       "name": "ATV+ | PE",
       "url": "https://d1svme839xkbsn.cloudfront.net/index.m3u8?PlaylistM3UCL",
       "logo": "https://cdn.m3u.cl/logo/1066_ATV_.png",
@@ -70,9 +76,9 @@
       "category": "Without category"
     },
     {
-      "name": "Nativa | PE",
-      "url": "https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/684_Nativa.png",
+      "name": "CR TV | PE",
+      "url": "https://live.obslivestream.com/crtvmux/index.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/1180_CR_TV.png",
       "category": "Without category"
     },
     {
@@ -85,12 +91,6 @@
       "name": "Telecolor TV | PE",
       "url": "https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL",
       "logo": "https://cdn.m3u.cl/logo/1189_Telecolor_TV.png",
-      "category": "Without category"
-    },
-    {
-      "name": "CR TV | PE",
-      "url": "https://live.obslivestream.com/crtvmux/index.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/1180_CR_TV.png",
       "category": "Without category"
     },
     {
@@ -130,15 +130,15 @@
       "category": "Without category"
     },
     {
-      "name": "TV en linea Cusco | PE",
-      "url": "https://s4.tvdatta.com:3450/live/tvenlinealive.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/1590_TV_en_linea_Cusco.png",
-      "category": "Without category"
-    },
-    {
       "name": "TVperuanisima | PE",
       "url": "https://k20.usastreams.com:8081/tvperuanisima/index.m3u8?PlaylistM3UCL",
       "logo": "https://cdn.m3u.cl/logo/686_TVperuanisima.png",
+      "category": "Without category"
+    },
+    {
+      "name": "TV en linea Cusco | PE",
+      "url": "https://s4.tvdatta.com:3450/live/tvenlinealive.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/1590_TV_en_linea_Cusco.png",
       "category": "Without category"
     }
   ],
@@ -199,6 +199,12 @@
         "category": "Without category"
       },
       {
+        "name": "Nativa | PE",
+        "url": "https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/684_Nativa.png",
+        "category": "Without category"
+      },
+      {
         "name": "ATV+ | PE",
         "url": "https://d1svme839xkbsn.cloudfront.net/index.m3u8?PlaylistM3UCL",
         "logo": "https://cdn.m3u.cl/logo/1066_ATV_.png",
@@ -211,9 +217,9 @@
         "category": "Without category"
       },
       {
-        "name": "Nativa | PE",
-        "url": "https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/684_Nativa.png",
+        "name": "CR TV | PE",
+        "url": "https://live.obslivestream.com/crtvmux/index.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/1180_CR_TV.png",
         "category": "Without category"
       },
       {
@@ -226,12 +232,6 @@
         "name": "Telecolor TV | PE",
         "url": "https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL",
         "logo": "https://cdn.m3u.cl/logo/1189_Telecolor_TV.png",
-        "category": "Without category"
-      },
-      {
-        "name": "CR TV | PE",
-        "url": "https://live.obslivestream.com/crtvmux/index.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/1180_CR_TV.png",
         "category": "Without category"
       },
       {
@@ -271,15 +271,15 @@
         "category": "Without category"
       },
       {
-        "name": "TV en linea Cusco | PE",
-        "url": "https://s4.tvdatta.com:3450/live/tvenlinealive.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/1590_TV_en_linea_Cusco.png",
-        "category": "Without category"
-      },
-      {
         "name": "TVperuanisima | PE",
         "url": "https://k20.usastreams.com:8081/tvperuanisima/index.m3u8?PlaylistM3UCL",
         "logo": "https://cdn.m3u.cl/logo/686_TVperuanisima.png",
+        "category": "Without category"
+      },
+      {
+        "name": "TV en linea Cusco | PE",
+        "url": "https://s4.tvdatta.com:3450/live/tvenlinealive.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/1590_TV_en_linea_Cusco.png",
         "category": "Without category"
       }
     ]

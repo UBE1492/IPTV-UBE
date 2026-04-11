@@ -41,13 +41,17 @@ https://panel.host-live.com:19360/20000/20000.m3u8
 https://live.obslivestream.com/planetatv/index.m3u8
 #EXTINF:-1 tvg-id="RadioTVOriente.pe@SD",RadioTV Oriente (720p)
 https://live.obslivestream.com/tvoriente/index.m3u8
-#EXTINF:-1 tvg-id="RPPTV.pe@SD",RPP TV [Not 24/7]
-#EXTVLCOPT:http-referrer=https://rpp.pe/tv.html
-#EXTINF:-1 tvg-id="TVCosmos.pe@SD",TV Cosmos (720p) [Not 24/7]
-https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPeru.pe@SD",TV Peru (1080p)
-#EXTVLCOPT:http-referrer=http://tvperu.gob.pe/
-#EXTINF:-1 tvg-id="VisionSur.pe@SD",Visión Sur TV (1080p) [Not 24/7]
-https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
-#EXTINF:-1 tvg-id="VivaTVYurimaguas.pe@SD",Viva TV Yurimaguas (720p)
-https://live.obslivestream.com/vivatv/index.m3u8
+#EXTINF:-1 tvg-id="RSelvaTV.pe@SD",RSelvaTV (720p)
+https://live.obslivestream.com/selvatv/index.m3u8
+#EXTINF:-1 tvg-id="SenalPeruTV.pe@SD",Señal Perú TV (404p) [Not 24/7]
+https://livestream.perucast.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="TVPeruInternacional.pe@SD",TV Peru Internacional (720p)
+#EXTVLCOPT:http-referrer=https://www.tvperu.gob.pe/internacional
+#EXTINF:-1 tvg-id="TVSistemasCuzco.pe@SD",TV Sistemas Cuzco (360p) [Not 24/7]
+https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8
+#EXTINF:-1 tvg-id="TVUNO.pe@SD",TVUNO (720p)
+https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
+#EXTINF:-1 tvg-id="UranioTV.pe@SD",Uranio TV (Yurimaguas) (720p) [Not 24/7]
+https://live.obslivestream.com/uraniotv/index.m3u8
+#EXTINF:-1 tvg-id="USMPTV.pe@SD",USMPTV
+#EXTVLCOPT:http-referrer=https://usmptv.pe/
