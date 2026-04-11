@@ -1,6 +1,6 @@
 {
   "name": "pe_regionales",
-  "updated_at": 1775912832848,
+  "updated_at": 1775933547584,
   "m3u": "https://ube1492.github.io/IPTV-UBE/pe_regionales.m3u",
   "channels": [
     {
@@ -16,9 +16,9 @@
       "category": "Without category"
     },
     {
-      "name": "Turbo Mix TV | PE",
-      "url": "https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/43_Turbo_Mix_TV.png",
+      "name": "BHTV | PE",
+      "url": "https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/695_BHTV.png",
       "category": "Without category"
     },
     {
@@ -28,15 +28,21 @@
       "category": "Without category"
     },
     {
+      "name": "Controversia TV | PE",
+      "url": "https://live.obslivestream.com/controversiatv/index.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/1188_Controversia_TV.png",
+      "category": "Without category"
+    },
+    {
       "name": "CR TV | PE",
       "url": "https://live.obslivestream.com/crtvmux/index.m3u8?PlaylistM3UCL",
       "logo": "https://cdn.m3u.cl/logo/1180_CR_TV.png",
       "category": "Without category"
     },
     {
-      "name": "Mundo de la Musica TV | CL",
-      "url": "https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png",
+      "name": "Turbo Mix TV | PE",
+      "url": "https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/43_Turbo_Mix_TV.png",
       "category": "Without category"
     },
     {
@@ -52,21 +58,21 @@
       "category": "Without category"
     },
     {
+      "name": "Mundo de la Musica TV | CL",
+      "url": "https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png",
+      "category": "Without category"
+    },
+    {
+      "name": "San Pedro SAT | PE",
+      "url": "https://eu1.servers10.com:8081/8156/index.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/1686_San_Pedro_SAT.png",
+      "category": "Without category"
+    },
+    {
       "name": "Nativa | PE",
       "url": "https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8?PlaylistM3UCL",
       "logo": "https://cdn.m3u.cl/logo/684_Nativa.png",
-      "category": "Without category"
-    },
-    {
-      "name": "BHTV | PE",
-      "url": "https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/695_BHTV.png",
-      "category": "Without category"
-    },
-    {
-      "name": "Controversia TV | PE",
-      "url": "https://live.obslivestream.com/controversiatv/index.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/1188_Controversia_TV.png",
       "category": "Without category"
     },
     {
@@ -76,21 +82,15 @@
       "category": "Without category"
     },
     {
-      "name": "Cultura 24 TV | PE",
-      "url": "https://www.opencaster.com/resources/hls_stream/cultura24.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/696_Cultura_24_TV.png",
-      "category": "Without category"
-    },
-    {
       "name": "Telecolor TV | PE",
       "url": "https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL",
       "logo": "https://cdn.m3u.cl/logo/1189_Telecolor_TV.png",
       "category": "Without category"
     },
     {
-      "name": "San Pedro SAT | PE",
-      "url": "https://eu1.servers10.com:8081/8156/index.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/1686_San_Pedro_SAT.png",
+      "name": "Cultura 24 TV | PE",
+      "url": "https://www.opencaster.com/resources/hls_stream/cultura24.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/696_Cultura_24_TV.png",
       "category": "Without category"
     },
     {
@@ -103,6 +103,12 @@
       "name": "Via Alto Mayo TV | PE",
       "url": "https://live.obslivestream.com/viaaltomayomux/index.m3u8?PlaylistM3UCL",
       "logo": "https://cdn.m3u.cl/logo/1191_Via_Alto_Mayo_TV.png",
+      "category": "Without category"
+    },
+    {
+      "name": "TV en linea Cusco | PE",
+      "url": "https://s4.tvdatta.com:3450/live/tvenlinealive.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/1590_TV_en_linea_Cusco.png",
       "category": "Without category"
     },
     {
@@ -133,9 +139,9 @@
         "category": "Without category"
       },
       {
-        "name": "Turbo Mix TV | PE",
-        "url": "https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/43_Turbo_Mix_TV.png",
+        "name": "BHTV | PE",
+        "url": "https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/695_BHTV.png",
         "category": "Without category"
       },
       {
@@ -145,15 +151,21 @@
         "category": "Without category"
       },
       {
+        "name": "Controversia TV | PE",
+        "url": "https://live.obslivestream.com/controversiatv/index.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/1188_Controversia_TV.png",
+        "category": "Without category"
+      },
+      {
         "name": "CR TV | PE",
         "url": "https://live.obslivestream.com/crtvmux/index.m3u8?PlaylistM3UCL",
         "logo": "https://cdn.m3u.cl/logo/1180_CR_TV.png",
         "category": "Without category"
       },
       {
-        "name": "Mundo de la Musica TV | CL",
-        "url": "https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png",
+        "name": "Turbo Mix TV | PE",
+        "url": "https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/43_Turbo_Mix_TV.png",
         "category": "Without category"
       },
       {
@@ -169,21 +181,21 @@
         "category": "Without category"
       },
       {
+        "name": "Mundo de la Musica TV | CL",
+        "url": "https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png",
+        "category": "Without category"
+      },
+      {
+        "name": "San Pedro SAT | PE",
+        "url": "https://eu1.servers10.com:8081/8156/index.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/1686_San_Pedro_SAT.png",
+        "category": "Without category"
+      },
+      {
         "name": "Nativa | PE",
         "url": "https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8?PlaylistM3UCL",
         "logo": "https://cdn.m3u.cl/logo/684_Nativa.png",
-        "category": "Without category"
-      },
-      {
-        "name": "BHTV | PE",
-        "url": "https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/695_BHTV.png",
-        "category": "Without category"
-      },
-      {
-        "name": "Controversia TV | PE",
-        "url": "https://live.obslivestream.com/controversiatv/index.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/1188_Controversia_TV.png",
         "category": "Without category"
       },
       {
@@ -193,21 +205,15 @@
         "category": "Without category"
       },
       {
-        "name": "Cultura 24 TV | PE",
-        "url": "https://www.opencaster.com/resources/hls_stream/cultura24.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/696_Cultura_24_TV.png",
-        "category": "Without category"
-      },
-      {
         "name": "Telecolor TV | PE",
         "url": "https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL",
         "logo": "https://cdn.m3u.cl/logo/1189_Telecolor_TV.png",
         "category": "Without category"
       },
       {
-        "name": "San Pedro SAT | PE",
-        "url": "https://eu1.servers10.com:8081/8156/index.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/1686_San_Pedro_SAT.png",
+        "name": "Cultura 24 TV | PE",
+        "url": "https://www.opencaster.com/resources/hls_stream/cultura24.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/696_Cultura_24_TV.png",
         "category": "Without category"
       },
       {
@@ -220,6 +226,12 @@
         "name": "Via Alto Mayo TV | PE",
         "url": "https://live.obslivestream.com/viaaltomayomux/index.m3u8?PlaylistM3UCL",
         "logo": "https://cdn.m3u.cl/logo/1191_Via_Alto_Mayo_TV.png",
+        "category": "Without category"
+      },
+      {
+        "name": "TV en linea Cusco | PE",
+        "url": "https://s4.tvdatta.com:3450/live/tvenlinealive.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/1590_TV_en_linea_Cusco.png",
         "category": "Without category"
       },
       {
