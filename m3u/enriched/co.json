@@ -1,6 +1,6 @@
 {
   "name": "co",
-  "updated_at": 1775933535097,
+  "updated_at": 1775962599471,
   "m3u": "https://ube1492.github.io/IPTV-UBE/co.m3u",
   "channels": [
     {
@@ -484,14 +484,20 @@
       "category": "Otros"
     },
     {
-      "name": "Win+ Futbol (1080p)",
-      "url": "https://live20.bozztv.com/akamaissh101/ssh101/winsporplusco/playlist.m3u8",
+      "name": "Kalu TV (1080p)",
+      "url": "https://tv.kaludecolombia.com/memfs/d71c0104-4752-4690-bdbf-19aa849da6c4.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "Kalu TV (1080p)",
-      "url": "https://tv.kaludecolombia.com/memfs/d71c0104-4752-4690-bdbf-19aa849da6c4.m3u8",
+      "name": "Win+ Futbol",
+      "url": "http://190.60.40.34:8001/play/a02r",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Win Sports (1080p)",
+      "url": "http://190.60.40.34:8001/play/a0ef",
       "logo": "",
       "category": "Otros"
     }
@@ -979,14 +985,20 @@
         "category": "Otros"
       },
       {
-        "name": "Win+ Futbol (1080p)",
-        "url": "https://live20.bozztv.com/akamaissh101/ssh101/winsporplusco/playlist.m3u8",
+        "name": "Kalu TV (1080p)",
+        "url": "https://tv.kaludecolombia.com/memfs/d71c0104-4752-4690-bdbf-19aa849da6c4.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "Kalu TV (1080p)",
-        "url": "https://tv.kaludecolombia.com/memfs/d71c0104-4752-4690-bdbf-19aa849da6c4.m3u8",
+        "name": "Win+ Futbol",
+        "url": "http://190.60.40.34:8001/play/a02r",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Win Sports (1080p)",
+        "url": "http://190.60.40.34:8001/play/a0ef",
         "logo": "",
         "category": "Otros"
       }

@@ -81,5 +81,6 @@ Trece_(720p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64
 La_Cheverisima_Radio_TV_(720p),https://byecablecluster.ddns.net/neira/neira.stream/index.fmp4.m3u8
 Telesangil_(720p),https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8
 Canal_PyC_(720p),https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8
-Win+_Futbol_(1080p),https://live20.bozztv.com/akamaissh101/ssh101/winsporplusco/playlist.m3u8
 Kalu_TV_(1080p),https://tv.kaludecolombia.com/memfs/d71c0104-4752-4690-bdbf-19aa849da6c4.m3u8
+Win+_Futbol,http://190.60.40.34:8001/play/a02r
+Win_Sports_(1080p),http://190.60.40.34:8001/play/a0ef

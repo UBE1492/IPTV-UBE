@@ -81,7 +81,8 @@
 | 75 | La Cheverisima Radio TV (720p) | byecablecluster.ddns.net | <https://byecablecluster.ddns.net/neira/neira.stream/index.fmp4.m3u8> |
 | 76 | Telesangil (720p) | live20.bozztv.com | <https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8> |
 | 77 | Canal PyC (720p) | live20.bozztv.com | <https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8> |
-| 78 | Win+ Futbol (1080p) | live20.bozztv.com | <https://live20.bozztv.com/akamaissh101/ssh101/winsporplusco/playlist.m3u8> |
-| 79 | Kalu TV (1080p) | tv.kaludecolombia.com | <https://tv.kaludecolombia.com/memfs/d71c0104-4752-4690-bdbf-19aa849da6c4.m3u8> |
+| 78 | Kalu TV (1080p) | tv.kaludecolombia.com | <https://tv.kaludecolombia.com/memfs/d71c0104-4752-4690-bdbf-19aa849da6c4.m3u8> |
+| 79 | Win+ Futbol | IPv4 直链 | <http://190.60.40.34:8001/play/a02r> |
+| 80 | Win Sports (1080p) | IPv4 直链 | <http://190.60.40.34:8001/play/a0ef> |
 
-Updated at **Sat Apr 11 2026 18:52:15 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Apr 12 2026 02:56:39 GMT+0000 (Coordinated Universal Time)**

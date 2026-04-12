@@ -163,7 +163,9 @@ https://byecablecluster.ddns.net/neira/neira.stream/index.fmp4.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalPyC.co@SD",Canal PyC (720p)
 https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8
-#EXTINF:-1 tvg-id="WinPlusFutbol.co@SD",Win+ Futbol (1080p)
-https://live20.bozztv.com/akamaissh101/ssh101/winsporplusco/playlist.m3u8
 #EXTINF:-1 tvg-id="KaluTV.co@SD",Kalu TV (1080p)
 https://tv.kaludecolombia.com/memfs/d71c0104-4752-4690-bdbf-19aa849da6c4.m3u8
+#EXTINF:-1 tvg-id="WinPlusFutbol.co@SD",Win+ Futbol
+http://190.60.40.34:8001/play/a02r
+#EXTINF:-1 tvg-id="WinSports.co@SD",Win Sports (1080p)
+http://190.60.40.34:8001/play/a0ef
