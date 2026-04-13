@@ -86,4 +86,4 @@
 | 80 | Volver (480p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-74_480.m3u8> |
 | 81 | IP Noticias (480p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-21_480.m3u8> |
 
-Updated at **Mon Apr 13 2026 08:10:55 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Apr 13 2026 13:48:38 GMT+0000 (Coordinated Universal Time)**
