@@ -1,6 +1,6 @@
 {
   "name": "ec",
-  "updated_at": 1776020190926,
+  "updated_at": 1776050482906,
   "m3u": "https://ube1492.github.io/IPTV-UBE/ec.m3u",
   "channels": [
     {
@@ -303,6 +303,18 @@
     {
       "name": "Telepremier Plus (1080p)",
       "url": "http://iptv.telepremier.video.makrodigital.com:8081/telepremier/iptv/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Planeta Channel",
+      "url": "https://vs20.live.opencaster.com/planetachannel_089eff6d/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "MakroDigital Television (720p)",
+      "url": "http://iptv.makrodigitaltv.makrodigital.com:8081/makrodigitaltelevision/iptv/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -609,6 +621,18 @@
       {
         "name": "Telepremier Plus (1080p)",
         "url": "http://iptv.telepremier.video.makrodigital.com:8081/telepremier/iptv/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Planeta Channel",
+        "url": "https://vs20.live.opencaster.com/planetachannel_089eff6d/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "MakroDigital Television (720p)",
+        "url": "http://iptv.makrodigitaltv.makrodigital.com:8081/makrodigitaltelevision/iptv/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       }

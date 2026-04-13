@@ -54,5 +54,7 @@
 | 48 | KCHTV (1080p) | iptv.kchtv.video.makrodigital.com:8081 | <http://iptv.kchtv.video.makrodigital.com:8081/kchtv/iptv/playlist.m3u8> |
 | 49 | VitoTVO (1080p) | iptv.vitotvo.video.makrodigital.com:8081 | <http://iptv.vitotvo.video.makrodigital.com:8081/vitotvo/iptv/playlist.m3u8> |
 | 50 | Telepremier Plus (1080p) | iptv.telepremier.video.makrodigital.com:8081 | <http://iptv.telepremier.video.makrodigital.com:8081/telepremier/iptv/playlist.m3u8> |
+| 51 | Planeta Channel | vs20.live.opencaster.com | <https://vs20.live.opencaster.com/planetachannel_089eff6d/index.m3u8> |
+| 52 | MakroDigital Television (720p) | iptv.makrodigitaltv.makrodigital.com:8081 | <http://iptv.makrodigitaltv.makrodigital.com:8081/makrodigitaltelevision/iptv/playlist.m3u8> |
 
-Updated at **Sun Apr 12 2026 18:56:30 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Apr 13 2026 03:21:22 GMT+0000 (Coordinated Universal Time)**

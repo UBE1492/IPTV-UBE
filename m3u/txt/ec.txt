@@ -50,3 +50,5 @@ Zaracay_TV_(1080p)_[Not_24/7],https://video2.makrodigital.com/zaracay/zaracay/pl
 KCHTV_(1080p),http://iptv.kchtv.video.makrodigital.com:8081/kchtv/iptv/playlist.m3u8
 VitoTVO_(1080p),http://iptv.vitotvo.video.makrodigital.com:8081/vitotvo/iptv/playlist.m3u8
 Telepremier_Plus_(1080p),http://iptv.telepremier.video.makrodigital.com:8081/telepremier/iptv/playlist.m3u8
+Planeta_Channel,https://vs20.live.opencaster.com/planetachannel_089eff6d/index.m3u8
+MakroDigital_Television_(720p),http://iptv.makrodigitaltv.makrodigital.com:8081/makrodigitaltelevision/iptv/playlist.m3u8
