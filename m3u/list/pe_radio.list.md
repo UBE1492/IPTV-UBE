@@ -6,770 +6,754 @@
 | --- | ------------ | ---- | ------ |
 | 1 | Radio Programas del Perú | us-b4-p-e-ml19-audio.cdn.mdstrm.com | <https://us-b4-p-e-ml19-audio.cdn.mdstrm.com/live-audio-aw/5fab3416b5f9ef165cfab6e9/playlist.m3u8?aid=5faaeb72f92d7b07dfe10181&pid=m89CNvoj1CtfP3e7gUlEBhtXpPJDL6G7&sid=bqDv2UimJic6GkpyvB3lW0qIlYBqcRS6&uid=RX9PtqH5aMJEL0FPMR4mUGyVyxp3nUm8&es=us-b4-p-e-ml19-audio.cdn.mdstrm.com&ote=1766420155064&ot=ebddLgUn5R1IoJ_vQ-mlvA&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fab3416b5f9ef165cfab6e9&listenerId=RX9PtqH5aMJEL0FPMR4mUGyVyxp3nUm8> |
 | 2 | Bossa Nova Perú Radio | conectperu.com | <https://conectperu.com/8158/stream> |
-| 3 | Esfera-Chachapoyas | oyotunstream.com:7360 | <http://oyotunstream.com:7360/stream> |
-| 4 | Jazzcontempo | conectperu.com:8048 | <http://conectperu.com:8048/stream.mp3> |
-| 5 | Chalaca | conectperu.com:7041 | <https://conectperu.com:7041/stream?icy=http> |
-| 6 | Fidelisima | st3.inkaniserver.net:8008 | <https://st3.inkaniserver.net:8008/stream> |
-| 7 | Fama Sur (Tarata) | sp.oyotunstream.com | <https://sp.oyotunstream.com/9326/stream> |
-| 8 | Onda Digital Radio | conectperu.com | <https://conectperu.com/8354/stream> |
-| 9 | Kpopway Radio | streamer.radio.co | <https://streamer.radio.co/s06b196587/listen.m3u> |
-| 10 | Mambo INN Radio | radio.perustream.com:7000 | <https://radio.perustream.com:7000/stream> |
-| 11 | Latidos 94.7 FM | ip.peruhits.com:9944 | <http://ip.peruhits.com:9944/stream.mp3> |
-| 12 | Onda Popular | dattavolt.com | <https://dattavolt.com/8278/stream?1634322652441> |
-| 13 | Laser 100.7 FM | conectperu.com | <https://conectperu.com/8078/stream> |
-| 14 | Radio - Congreso del Perú | vivo.miradio.in | <https://vivo.miradio.in/8048/stream> |
-| 15 | La voz de Oyotún | sp.oyotunstream.com:10966 | <https://sp.oyotunstream.com:10966/> |
-| 16 | Pachamama | servidor14-2.brlogic.com:8744 | <https://servidor14-2.brlogic.com:8744/live> |
-| 17 | Radio Azul | dattavolt.com | <https://dattavolt.com/8212/stream> |
-| 18 | Radio Coremarca | sonicpanel.streaming10.net | <https://sonicpanel.streaming10.net/7044/stream> |
-| 19 | RADIO ESTACION 90 (PERU) | radio.livestreamingmundial.com:7004 | <https://radio.livestreamingmundial.com:7004/stream/1/> |
-| 20 | Radio Del Progreso | conectperu.com:7036 | <https://conectperu.com:7036/stream?icy=http> |
-| 21 | Radio Fantasía Iquitos 88.3 | sp.oyotunstream.com:10943 | <https://sp.oyotunstream.com:10943/stream?icy=http> |
+| 3 | Chalaca | conectperu.com:7041 | <https://conectperu.com:7041/stream?icy=http> |
+| 4 | Fidelisima | st3.inkaniserver.net:8008 | <https://st3.inkaniserver.net:8008/stream> |
+| 5 | Fama Sur (Tarata) | sp.oyotunstream.com | <https://sp.oyotunstream.com/9326/stream> |
+| 6 | Onda Digital Radio | conectperu.com | <https://conectperu.com/8354/stream> |
+| 7 | Kpopway Radio | streamer.radio.co | <https://streamer.radio.co/s06b196587/listen.m3u> |
+| 8 | Latidos 94.7 FM | ip.peruhits.com:9944 | <http://ip.peruhits.com:9944/stream.mp3> |
+| 9 | Mambo INN Radio | radio.perustream.com:7000 | <https://radio.perustream.com:7000/stream> |
+| 10 | Laser 100.7 FM | conectperu.com | <https://conectperu.com/8078/stream> |
+| 11 | Onda Popular | dattavolt.com | <https://dattavolt.com/8278/stream?1634322652441> |
+| 12 | Radio - Congreso del Perú | vivo.miradio.in | <https://vivo.miradio.in/8048/stream> |
+| 13 | La voz de Oyotún | sp.oyotunstream.com:10966 | <https://sp.oyotunstream.com:10966/> |
+| 14 | Pachamama | servidor14-2.brlogic.com:8744 | <https://servidor14-2.brlogic.com:8744/live> |
+| 15 | Radio Azul | dattavolt.com | <https://dattavolt.com/8212/stream> |
+| 16 | RADIO ESTACION 90 (PERU) | radio.livestreamingmundial.com:7004 | <https://radio.livestreamingmundial.com:7004/stream/1/> |
+| 17 | Radio Coremarca | sonicpanel.streaming10.net | <https://sonicpanel.streaming10.net/7044/stream> |
+| 18 | Radio Corazón (94.3 FM Lima) | us-b4-p-e-qg12-audio.cdn.mdstrm.com | <https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/5fada514fc16c006bd63370f?aid=5faaeb72f92d7b07dfe10181&pid=mm2RiF3Ii2Ib1BNIFmQVZ7pJgz9gUIsO&sid=NmNlGBXPBq8RLiJN7MNaBUCNlvEBHXkq&uid=Vg3Df1jF9Wc3n9yce2zltKMPlRLk3yGb&es=us-b4-p-e-qg12-audio.cdn.mdstrm.com&ote=1766420167400&ot=MeTOQcfiTpDciVg62ZMwZg&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada514fc16c006bd63370f&listenerId=Vg3Df1jF9Wc3n9yce2zltKMPlRLk3yGb> |
+| 19 | Radio Del Progreso | conectperu.com:7036 | <https://conectperu.com:7036/stream?icy=http> |
+| 20 | Radio Fantasía Iquitos 88.3 | sp.oyotunstream.com:10943 | <https://sp.oyotunstream.com:10943/stream?icy=http> |
+| 21 | Radio Estrella Trujillo (102.7 Trujillo) | radio.datahost.pe | <https://radio.datahost.pe/9660/stream> |
 | 22 | Radio Frecuencia Popular (Chala) | radio.sistemasandinos.org | <https://radio.sistemasandinos.org/7412/stream> |
-| 23 | Radio Galáctica | sonic.dattassd.com:10949 | <https://sonic.dattassd.com:10949/stream?icy=http> |
-| 24 | Radio Armonía | radio.sistemasandinos.org:10978 | <https://radio.sistemasandinos.org:10978/> |
-| 25 | Radio Estrella Trujillo (102.7 Trujillo) | radio.datahost.pe | <https://radio.datahost.pe/9660/stream> |
-| 26 | Radio Galaxia (99.9 FM, Moquegua) | st3.inkaniserver.net:8096 | <https://st3.inkaniserver.net:8096/stream> |
-| 27 | Radio Corazón (94.3 FM Lima) | us-b4-p-e-qg12-audio.cdn.mdstrm.com | <https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/5fada514fc16c006bd63370f?aid=5faaeb72f92d7b07dfe10181&pid=mm2RiF3Ii2Ib1BNIFmQVZ7pJgz9gUIsO&sid=NmNlGBXPBq8RLiJN7MNaBUCNlvEBHXkq&uid=Vg3Df1jF9Wc3n9yce2zltKMPlRLk3yGb&es=us-b4-p-e-qg12-audio.cdn.mdstrm.com&ote=1766420167400&ot=MeTOQcfiTpDciVg62ZMwZg&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada514fc16c006bd63370f&listenerId=Vg3Df1jF9Wc3n9yce2zltKMPlRLk3yGb> |
-| 28 | Radio frecuencia 100 - Trujillo | oyotunstream.com:7066 | <http://oyotunstream.com:7066/> |
-| 29 | Radio Girasol | miradioperu.com | <https://miradioperu.com/8008/stream> |
-| 30 | Radio JR (88.7, Arequipa) | tupanel.info:2000 | <https://tupanel.info:2000/stream/radiojr/stream> |
-| 31 | Radio La Mega | us-b4-p-e-ja16-audio.cdn.mdstrm.com | <https://us-b4-p-e-ja16-audio.cdn.mdstrm.com/live-audio-aw/5fada56fe4e09508207a7951?aid=5faaeb72f92d7b07dfe10181&pid=enwanL20HS56Dabam60wBPmfUVfUnHV5&sid=mHEgmywgv6M9nn2egytZZ1WxOOxilmxT&uid=LmntYczQ75D99SC4cwTwYEsAY3grP7Tp&es=us-b4-p-e-ja16-audio.cdn.mdstrm.com&ote=1766420175751&ot=pYpR7TdN8H2e_mhOp5ccTQ&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada56fe4e09508207a7951&listenerId=LmntYczQ75D99SC4cwTwYEsAY3grP7Tp> |
-| 32 | Radio La Inolvidable (OBT-4C, 93.7 MHz FM, Lima) | provisioning.streamtheworld.com | <https://provisioning.streamtheworld.com/pls/CRP_LI.pls> |
-| 33 | Radio La Norteña | radio.livestreamingmundial.com:7060 | <https://radio.livestreamingmundial.com:7060/live> |
-| 34 | Radio Latidos 94.7 FM (Huaral) | radio.pjcks.com | <https://radio.pjcks.com/9944/stream> |
-| 35 | Radio Llata 92.3 (Huánuco) | sonic.dattassd.com:10945 | <https://sonic.dattassd.com:10945/stream> |
-| 36 | Radio Latina (Huancavelica) | corporacionlatina.com:7004 | <http://corporacionlatina.com:7004/> |
-| 37 | Radio Huancayo | cloud9.ldwebstudios.net:7000 | <https://cloud9.ldwebstudios.net:7000/> |
-| 38 | Radio JHC 107.7 FM | sp.oyotunstream.com:10979 | <https://sp.oyotunstream.com:10979/> |
-| 39 | Radio Mágica 88.3 FM (OCX-4G, Lima, Perú) | playerservices.streamtheworld.com | <http://playerservices.streamtheworld.com/pls/MAG_AAC.pls> |
-| 40 | Radio La Unika | cloud9.ldwebstudios.net:7011 | <https://cloud9.ldwebstudios.net:7011/> |
+| 23 | Radio Armonía | radio.sistemasandinos.org:10978 | <https://radio.sistemasandinos.org:10978/> |
+| 24 | Radio Galáctica | sonic.dattassd.com:10949 | <https://sonic.dattassd.com:10949/stream?icy=http> |
+| 25 | Radio frecuencia 100 - Trujillo | oyotunstream.com:7066 | <http://oyotunstream.com:7066/> |
+| 26 | Radio JR (88.7, Arequipa) | tupanel.info:2000 | <https://tupanel.info:2000/stream/radiojr/stream> |
+| 27 | Radio Girasol | miradioperu.com | <https://miradioperu.com/8008/stream> |
+| 28 | Radio La Mega | us-b4-p-e-ja16-audio.cdn.mdstrm.com | <https://us-b4-p-e-ja16-audio.cdn.mdstrm.com/live-audio-aw/5fada56fe4e09508207a7951?aid=5faaeb72f92d7b07dfe10181&pid=enwanL20HS56Dabam60wBPmfUVfUnHV5&sid=mHEgmywgv6M9nn2egytZZ1WxOOxilmxT&uid=LmntYczQ75D99SC4cwTwYEsAY3grP7Tp&es=us-b4-p-e-ja16-audio.cdn.mdstrm.com&ote=1766420175751&ot=pYpR7TdN8H2e_mhOp5ccTQ&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada56fe4e09508207a7951&listenerId=LmntYczQ75D99SC4cwTwYEsAY3grP7Tp> |
+| 29 | Radio Latidos 94.7 FM (Huaral) | radio.pjcks.com | <https://radio.pjcks.com/9944/stream> |
+| 30 | Radio Huancayo | cloud9.ldwebstudios.net:7000 | <https://cloud9.ldwebstudios.net:7000/> |
+| 31 | Radio Llata 92.3 (Huánuco) | sonic.dattassd.com:10945 | <https://sonic.dattassd.com:10945/stream> |
+| 32 | Radio Latina (Huancavelica) | corporacionlatina.com:7004 | <http://corporacionlatina.com:7004/> |
+| 33 | Radio Level Hits | ip.peruhits.com:7234 | <http://ip.peruhits.com:7234/> |
+| 34 | Radio La Inolvidable (OBT-4C, 93.7 MHz FM, Lima) | provisioning.streamtheworld.com | <https://provisioning.streamtheworld.com/pls/CRP_LI.pls> |
+| 35 | Radio JHC 107.7 FM | sp.oyotunstream.com:10979 | <https://sp.oyotunstream.com:10979/> |
+| 36 | RADIO LA MEGA 96.7 FM (PERU) | us-b4-p-e-pb13-audio.cdn.mdstrm.com | <https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/5fada56fe4e09508207a7951?> |
+| 37 | Radio Mágica 88.3 FM (OCX-4G, Lima, Perú) | playerservices.streamtheworld.com | <http://playerservices.streamtheworld.com/pls/MAG_AAC.pls> |
+| 38 | Radio La Zona (90.5 FM, Lima) | us-b4-p-e-qg12-audio.cdn.mdstrm.com | <https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/5fada54116646e098d97e6a5?aid=5faaeb72f92d7b07dfe10181&pid=X6ggHA2BEf11u648CJ7XZC6ovxdNSQdl&sid=h4ULDcIW9klR4haIxpLFK6711DUAsyQi&uid=DzfgtkQum3x5wzinQdFAyy7y83nvtXZJ&es=us-b4-p-e-qg12-audio.cdn.mdstrm.com&ote=1766420177041&ot=2sb5XJuEiRPTCyu1MEuxFA&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada54116646e098d97e6a5&listenerId=DzfgtkQum3x5wzinQdFAyy7y83nvtXZJ> |
+| 39 | Radio La Unika | cloud9.ldwebstudios.net:7011 | <https://cloud9.ldwebstudios.net:7011/> |
+| 40 | Radio Loreto | sp.oyotunstream.com | <https://sp.oyotunstream.com/8006/stream> |
 | 41 | Radio Los Angeles - Chepen | IPv4 直链 | <http://94.23.159.187:9950/> |
 | 42 | Radio Nueva Q (OCZ-4P, 107.1 MHz, Lima) | playerservices.streamtheworld.com | <http://playerservices.streamtheworld.com/pls/CRP_NQ.pls> |
-| 43 | Radio Loreto | sp.oyotunstream.com | <https://sp.oyotunstream.com/8006/stream> |
-| 44 | Radio Level Hits | ip.peruhits.com:7234 | <http://ip.peruhits.com:7234/> |
+| 43 | Radio Milenia (1530 AM Lima) | radio.pjcks.com | <https://radio.pjcks.com/8020/stream> |
+| 44 | Radio Oxígeno | us-b4-p-e-ja16-audio.cdn.mdstrm.com | <https://us-b4-p-e-ja16-audio.cdn.mdstrm.com/live-audio-aw/5fab0687bcd6c2389ee9480c/playlist.m3u8?aid=5faaeb72f92d7b07dfe10181&pid=yvzF0JdfbnTPl0akXIFR6o2ilVW8xuBr&sid=RqrUjlFspO9TYr7oJKR997kMqvDj0G0D&uid=IUSumzaBE5EOwZaOslVC39YIH5H1oKJX&es=us-b4-p-e-ja16-audio.cdn.mdstrm.com&ote=1766420181360&ot=GTeKUoneyJtw8_an4lKyFg&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fab0687bcd6c2389ee9480c&listenerId=IUSumzaBE5EOwZaOslVC39YIH5H1oKJX> |
 | 45 | Radio Oasis (OCX-4U, 100.1 MHz, Lima) | playerservices.streamtheworld.com | <http://playerservices.streamtheworld.com/pls/CRP_OAS.pls> |
-| 46 | Radio OK Lambayeque | dattavolt.com | <https://dattavolt.com/8090/> |
-| 47 | Radio Milenia (1530 AM Lima) | radio.pjcks.com | <https://radio.pjcks.com/8020/stream> |
-| 48 | Radio Manantial de Vida | server.streamingradios.net | <https://server.streamingradios.net/8036/stream> |
-| 49 | Radio Oriente | sonic.dattassd.com | <https://sonic.dattassd.com/9312/stream> |
-| 50 | Radio Planeta (OCZ-4L, 107.7 MHz FM, Lima) | playerservices.streamtheworld.com | <http://playerservices.streamtheworld.com/pls/CRP_PLA.pls> |
-| 51 | Radio Paraíso | radio.sistemasandinos.org | <https://radio.sistemasandinos.org/7150/stream> |
-| 52 | Radio Ritmo Romántica | playerservices.streamtheworld.com | <http://playerservices.streamtheworld.com/pls/CRP_RIT.pls> |
-| 53 | Radio Matucana (102.9 FM, Lima) | radio.transmite.pe:9316 | <http://radio.transmite.pe:9316/> |
-| 54 | Radio Oxígeno | us-b4-p-e-ja16-audio.cdn.mdstrm.com | <https://us-b4-p-e-ja16-audio.cdn.mdstrm.com/live-audio-aw/5fab0687bcd6c2389ee9480c/playlist.m3u8?aid=5faaeb72f92d7b07dfe10181&pid=yvzF0JdfbnTPl0akXIFR6o2ilVW8xuBr&sid=RqrUjlFspO9TYr7oJKR997kMqvDj0G0D&uid=IUSumzaBE5EOwZaOslVC39YIH5H1oKJX&es=us-b4-p-e-ja16-audio.cdn.mdstrm.com&ote=1766420181360&ot=GTeKUoneyJtw8_an4lKyFg&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fab0687bcd6c2389ee9480c&listenerId=IUSumzaBE5EOwZaOslVC39YIH5H1oKJX> |
-| 55 | Radio Poder Inka 92.1 FM | radio.livestreamingmundial.com:7094 | <https://radio.livestreamingmundial.com:7094/live> |
-| 56 | Radio Maria Peru (OAX-4M, 580 kHz AM / OBT-4Z 97.7 MHz FM, Lima) | dreamsiteradiocp4.com:8020 | <http://dreamsiteradiocp4.com:8020/> |
-| 57 | Radio Pucallpa | sp.dattavolt.com | <https://sp.dattavolt.com/8026/stream> |
-| 58 | Radio Positiva Tacna | sp.oyotunstream.com:8034 | <http://sp.oyotunstream.com:8034/> |
-| 59 | Radio Sol De Los Andes | cloudstream2036.conectarhosting.com | <https://cloudstream2036.conectarhosting.com/8036/stream> |
-| 60 | Radio Unheval | radio13.servidorderadio.net | <https://radio13.servidorderadio.net/8002/stream> |
-| 61 | Radio Stereo TV | sp.onliveperu.com | <https://sp.onliveperu.com/8098/stream> |
-| 62 | RADIO LA MEGA 96.7 FM (PERU) | us-b4-p-e-pb13-audio.cdn.mdstrm.com | <https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/5fada56fe4e09508207a7951?> |
-| 63 | Radiomar Plus 106.3 Lima | playerservices.streamtheworld.com | <http://playerservices.streamtheworld.com/m3u/CRP_MARAAC.m3u> |
-| 64 | Radio y TV Éxito 99.7FM (Urcos) | sonic.dattassd.com | <https://sonic.dattassd.com/8102/stream> |
-| 65 | Red Radio Integridad (RRI) | dattavolt.com | <https://dattavolt.com/8164/stream> |
-| 66 | Radio San Martín | conectperu.com:7020 | <https://conectperu.com:7020/stream?icy=http> |
-| 67 | Sin Mordaza FM | radio.livestreamingmundial.com | <https://radio.livestreamingmundial.com/9350/stream> |
-| 68 | Top Latino | online.radiodifusion.net:8020 | <http://online.radiodifusion.net:8020/stream> |
-| 69 | Radio Satélite (100.7 FM, Callao) | conectperu.com | <https://conectperu.com/8166/stream> |
-| 70 | Radio Studio 97 | sechin.grupocentroserver.com | <https://sechin.grupocentroserver.com/radio/8140/radio.mp3> |
-| 71 | Señal Pitara Radio | conectperu.com:8082 | <http://conectperu.com:8082/stream> |
-| 72 | Zona Latina 97.1 FM | sp.onliveperu.com:7021 | <https://sp.onliveperu.com:7021/stream> |
-| 73 | Radio Regional Sicusani | conectperu.com:7106 | <https://conectperu.com:7106/> |
-| 74 | Codigo Binario | streamingp.shoutcast.com | <http://streamingp.shoutcast.com/JamendoLounge?lang=*> |
-| 75 | Fans Radio | sp.onliveperu.com | <https://sp.onliveperu.com/8148/stream> |
+| 46 | Radio Planeta (OCZ-4L, 107.7 MHz FM, Lima) | playerservices.streamtheworld.com | <http://playerservices.streamtheworld.com/pls/CRP_PLA.pls> |
+| 47 | Radio Manantial de Vida | server.streamingradios.net | <https://server.streamingradios.net/8036/stream> |
+| 48 | Radio OK Lambayeque | dattavolt.com | <https://dattavolt.com/8090/> |
+| 49 | Radio Paraíso | radio.sistemasandinos.org | <https://radio.sistemasandinos.org/7150/stream> |
+| 50 | Radio Ritmo Romántica | playerservices.streamtheworld.com | <http://playerservices.streamtheworld.com/pls/CRP_RIT.pls> |
+| 51 | Radio Oriente | sonic.dattassd.com | <https://sonic.dattassd.com/9312/stream> |
+| 52 | Radio Pucallpa | sp.dattavolt.com | <https://sp.dattavolt.com/8026/stream> |
+| 53 | Radio Satélite (100.7 FM, Callao) | conectperu.com | <https://conectperu.com/8166/stream> |
+| 54 | Radio Matucana (102.9 FM, Lima) | radio.transmite.pe:9316 | <http://radio.transmite.pe:9316/> |
+| 55 | Radio Sol De Los Andes | cloudstream2036.conectarhosting.com | <https://cloudstream2036.conectarhosting.com/8036/stream> |
+| 56 | Radio San Martín | conectperu.com:7020 | <https://conectperu.com:7020/stream?icy=http> |
+| 57 | Radio Positiva Tacna | sp.oyotunstream.com:8034 | <http://sp.oyotunstream.com:8034/> |
+| 58 | Radiomar Plus 106.3 Lima | playerservices.streamtheworld.com | <http://playerservices.streamtheworld.com/m3u/CRP_MARAAC.m3u> |
+| 59 | Radio Maria Peru (OAX-4M, 580 kHz AM / OBT-4Z 97.7 MHz FM, Lima) | dreamsiteradiocp4.com:8020 | <http://dreamsiteradiocp4.com:8020/> |
+| 60 | Radio Stereo TV | sp.onliveperu.com | <https://sp.onliveperu.com/8098/stream> |
+| 61 | Radio y TV Éxito 99.7FM (Urcos) | sonic.dattassd.com | <https://sonic.dattassd.com/8102/stream> |
+| 62 | Sin Mordaza FM | radio.livestreamingmundial.com | <https://radio.livestreamingmundial.com/9350/stream> |
+| 63 | Radio Unheval | radio13.servidorderadio.net | <https://radio13.servidorderadio.net/8002/stream> |
+| 64 | Top Latino | online.radiodifusion.net:8020 | <http://online.radiodifusion.net:8020/stream> |
+| 65 | Radio Studio 97 | sechin.grupocentroserver.com | <https://sechin.grupocentroserver.com/radio/8140/radio.mp3> |
+| 66 | Zona Latina 97.1 FM | sp.onliveperu.com:7021 | <https://sp.onliveperu.com:7021/stream> |
+| 67 | Señal Pitara Radio | conectperu.com:8082 | <http://conectperu.com:8082/stream> |
+| 68 | Red Radio Integridad (RRI) | dattavolt.com | <https://dattavolt.com/8164/stream> |
+| 69 | Radio Regional Sicusani | conectperu.com:7106 | <https://conectperu.com:7106/> |
+| 70 | Codigo Binario | streamingp.shoutcast.com | <http://streamingp.shoutcast.com/JamendoLounge?lang=*> |
+| 71 | Radio Latidos Peru | ip.peruhits.com:7230 | <http://ip.peruhits.com:7230/> |
+| 72 | Fans Radio | sp.onliveperu.com | <https://sp.onliveperu.com/8148/stream> |
+| 73 | Radio Antena10 | miradioperu.com:9970 | <http://miradioperu.com:9970/stream/> |
+| 74 | Cadena Dance Perú | sonic.streamingchilenos.com:8138 | <https://sonic.streamingchilenos.com:8138> |
+| 75 | Súper Vip | rautemusik.stream38.radiohost.de | <https://rautemusik.stream38.radiohost.de/charthits?upd-meta&upd-scheme=https&_art=dD0xNzY2MzM0MDkzJmQ9NGI1YmYxYjkxNTQwYzk3YzJmYzM> |
 | 76 | Radio Calor | corporacionlatina.com:8000 | <http://corporacionlatina.com:8000> |
-| 77 | Radio Latidos Peru | ip.peruhits.com:7230 | <http://ip.peruhits.com:7230/> |
-| 78 | Cadena Dance Perú | sonic.streamingchilenos.com:8138 | <https://sonic.streamingchilenos.com:8138> |
-| 79 | Radio Antena10 | miradioperu.com:9970 | <http://miradioperu.com:9970/stream/> |
-| 80 | Súper Vip | rautemusik.stream38.radiohost.de | <https://rautemusik.stream38.radiohost.de/charthits?upd-meta&upd-scheme=https&_art=dD0xNzY2MzM0MDkzJmQ9NGI1YmYxYjkxNTQwYzk3YzJmYzM> |
-| 81 | Chicha Radio | stream.radioshd.info:9376 | <http://stream.radioshd.info:9376/> |
-| 82 | Top Latino Radio | online.radiodifusion.net:8020 | <http://online.radiodifusion.net:8020/> |
-| 83 | Radio Hurakan | sp.onliveperu.com | <https://sp.onliveperu.com/8038/stream/> |
-| 84 | Radio Tacna | conectperu.com:8024 | <http://conectperu.com:8024/stream/> |
+| 77 | Studio 92 (92.5 FM Lima) | us-b4-p-e-cg11-audio.cdn.mdstrm.com | <https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5fada553978fe1080e3ac5ea?aid=5faaeb72f92d7b07dfe10181&pid=NZchZUIQxsFzD3KtnBhYY80d9WRM2xsU&sid=00r5HXsAAf7uWxlMatzXiKrjJpTBTrSl&uid=9AfEyYTZvukvTxxpCNr2T3iWALDo9UdT&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1766420192560&ot=4A2ADOZTF94U9Sa7V6iTjQ&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada553978fe1080e3ac5ea&listenerId=9AfEyYTZvukvTxxpCNr2T3iWALDo9UdT> |
+| 78 | Top Latino Radio | online.radiodifusion.net:8020 | <http://online.radiodifusion.net:8020/> |
+| 79 | Chicha Radio | stream.radioshd.info:9376 | <http://stream.radioshd.info:9376/> |
+| 80 | Radio Tacna | conectperu.com:8024 | <http://conectperu.com:8024/stream/> |
+| 81 | Radio Libertad de Junin | radio.transmite.pe:9342 | <http://radio.transmite.pe:9342/stream> |
+| 82 | Radio Pucajirca | radio.sistemasandinos.org | <https://radio.sistemasandinos.org/7180/stream> |
+| 83 | Radio La Luz | cdn.instant.audio | <https://cdn.instant.audio/images/countries/peru.ico> |
+| 84 | Radio Hurakan | sp.onliveperu.com | <https://sp.onliveperu.com/8038/stream/> |
 | 85 | Jose Luis Perez Albela | streaming.brol.tech | <https://streaming.brol.tech/rtfmlounge> |
-| 86 | Radio La Luz | cdn.instant.audio | <https://cdn.instant.audio/images/countries/peru.ico> |
-| 87 | Radio Pucajirca | radio.sistemasandinos.org | <https://radio.sistemasandinos.org/7180/stream> |
-| 88 | Radio Libertad de Junin | radio.transmite.pe:9342 | <http://radio.transmite.pe:9342/stream> |
-| 89 | Studio 92 (92.5 FM Lima) | us-b4-p-e-cg11-audio.cdn.mdstrm.com | <https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5fada553978fe1080e3ac5ea?aid=5faaeb72f92d7b07dfe10181&pid=NZchZUIQxsFzD3KtnBhYY80d9WRM2xsU&sid=00r5HXsAAf7uWxlMatzXiKrjJpTBTrSl&uid=9AfEyYTZvukvTxxpCNr2T3iWALDo9UdT&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1766420192560&ot=4A2ADOZTF94U9Sa7V6iTjQ&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada553978fe1080e3ac5ea&listenerId=9AfEyYTZvukvTxxpCNr2T3iWALDo9UdT> |
-| 90 | Radio La Zona (90.5 FM, Lima) | us-b4-p-e-qg12-audio.cdn.mdstrm.com | <https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/5fada54116646e098d97e6a5?aid=5faaeb72f92d7b07dfe10181&pid=X6ggHA2BEf11u648CJ7XZC6ovxdNSQdl&sid=h4ULDcIW9klR4haIxpLFK6711DUAsyQi&uid=DzfgtkQum3x5wzinQdFAyy7y83nvtXZJ&es=us-b4-p-e-qg12-audio.cdn.mdstrm.com&ote=1766420177041&ot=2sb5XJuEiRPTCyu1MEuxFA&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada54116646e098d97e6a5&listenerId=DzfgtkQum3x5wzinQdFAyy7y83nvtXZJ> |
-| 91 | Radio Chevere | radio.sistemasandinos.org:7084 | <http://radio.sistemasandinos.org:7084/> |
-| 92 | Radio Inkafuego | radiohd.us | <https://radiohd.us/8022/stream> |
-| 93 | Radio Armonia 91.7 | radio.sistemasandinos.org:7146 | <http://radio.sistemasandinos.org:7146/> |
-| 94 | Radio MegamixFM94 | radio.perustream.com | <https://radio.perustream.com/8002/stream?1601983992033> |
-| 95 | Sensacion Radio | conectperu.com:7108 | <https://conectperu.com:7108/> |
-| 96 | Radio Terra | centova.radios.pt:9404 | <http://centova.radios.pt:9404/stream?type=.mp3> |
-| 97 | Amer Radio Tv | sonic.dattassd.com | <https://sonic.dattassd.com/8090/stream> |
+| 86 | Radio Chevere | radio.sistemasandinos.org:7084 | <http://radio.sistemasandinos.org:7084/> |
+| 87 | Radio Armonia 91.7 | radio.sistemasandinos.org:7146 | <http://radio.sistemasandinos.org:7146/> |
+| 88 | Radio Inkafuego | radiohd.us | <https://radiohd.us/8022/stream> |
+| 89 | Radio MegamixFM94 | radio.perustream.com | <https://radio.perustream.com/8002/stream?1601983992033> |
+| 90 | Radio Terra | centova.radios.pt:9404 | <http://centova.radios.pt:9404/stream?type=.mp3> |
+| 91 | WebR Radio | s3.radio.co | <https://s3.radio.co/s99c3ad220/listen> |
+| 92 | Amer Radio Tv | sonic.dattassd.com | <https://sonic.dattassd.com/8090/stream> |
+| 93 | Senal Pirata Radio | conectperu.com | <https://conectperu.com/8082/stream> |
+| 94 | Sensacion Radio | conectperu.com:7108 | <https://conectperu.com:7108/> |
+| 95 | Radio La J te Pone | sonic.dattassd.com | <https://sonic.dattassd.com/8138/stream> |
+| 96 | Mi Radio Peruana | servidor14-2.brlogic.com:7436 | <https://servidor14-2.brlogic.com:7436/live> |
+| 97 | Radio Moda Star | sp.onliveperu.com | <https://sp.onliveperu.com/8004/stream> |
 | 98 | Radio Stereo Network | sonicpanel.globalstream.pro:10934 | <https://sonicpanel.globalstream.pro:10934/> |
-| 99 | Senal Pirata Radio | conectperu.com | <https://conectperu.com/8082/stream> |
-| 100 | Radio La J te Pone | sonic.dattassd.com | <https://sonic.dattassd.com/8138/stream> |
-| 101 | Radio Moda Star | sp.onliveperu.com | <https://sp.onliveperu.com/8004/stream> |
-| 102 | Radio Retro Peru | stream2.eistreaming.com:10992 | <https://stream2.eistreaming.com:10992/> |
-| 103 | Gaceta Ucayalina Radio | station.gacetaucayalina.com | <https://station.gacetaucayalina.com/radio/8000/radio.mp3> |
-| 104 | WebR Radio | s3.radio.co | <https://s3.radio.co/s99c3ad220/listen> |
-| 105 | Mi Radio Peruana | servidor14-2.brlogic.com:7436 | <https://servidor14-2.brlogic.com:7436/live> |
-| 106 | Radio Go Latino | antonyokumura.radioca.st | <https://antonyokumura.radioca.st/stream> |
-| 107 | Radio Aroma Del Cielo | whmsonic.playerfullhd.com | <https://whmsonic.playerfullhd.com/8048/stream> |
-| 108 | Radio AnimeX | dj91.hostingnuclear.com | <https://dj91.hostingnuclear.com/8014/stream> |
-| 109 | Radio Soberana Peru | sp.tvcontrolcp.com | <https://sp.tvcontrolcp.com/8046/stream> |
-| 110 | Radio Onda Digital | conectperu.com | <https://conectperu.com/8180/stream> |
-| 111 | RBC La Estación | dattavolt.com | <https://dattavolt.com/8366/stream> |
-| 112 | Radio Eten FM Oficial | sp.onliveperu.com:7080 | <https://sp.onliveperu.com:7080/> |
-| 113 | Radio Tabocas Mix | sp.onliveperu.com | <https://sp.onliveperu.com/8092/stream> |
-| 114 | New Age Notes | das-edge11-live365-dal03.cdnstream.com | <https://das-edge11-live365-dal03.cdnstream.com/a55861> |
-| 115 | Radio La Karibea | radio.transmite.pe:9310 | <http://radio.transmite.pe:9310/stream> |
-| 116 | Radio Top Mix | ip.peruhits.com:7232 | <http://ip.peruhits.com:7232/stream/1/> |
-| 117 | Mambo Inn Radio | centova.perustream.com:9992 | <http://centova.perustream.com:9992/> |
-| 118 | Radio Cantea 989 FM  Te Encanta | sonic.globalstream.pro | <https://sonic.globalstream.pro/8010/stream> |
-| 119 | Mega Mix | us-b4-p-e-ja16-audio.cdn.mdstrm.com | <https://us-b4-p-e-ja16-audio.cdn.mdstrm.com/live-audio-aw/5fada56fe4e09508207a7951/playlist.m3u8?aid=5faaeb72f92d7b07dfe10181&pid=KAPGnghZWpzyhzRz16vvXmZm5LllufqJ&sid=mjVZ6XUsIv9WZABNdG3hwu78swilDQkH&uid=iFJhTiRFQbLeudNE5BIsAByIUGPIYkFj&es=us-b4-p-e-ja16-audio.cdn.mdstrm.com&ote=1766420318584&ot=F9AijgQ0TwMhSBe4l_20tw&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada56fe4e09508207a7951&listenerId=iFJhTiRFQbLeudNE5BIsAByIUGPIYkFj> |
-| 120 | Sound Play | dattavolt.com | <https://dattavolt.com/8180/stream> |
-| 121 | Radio Latidos | ip.peruhits.com:7234 | <http://ip.peruhits.com:7234/?> |
-| 122 | Radioactiva | st3.inkaniserver.net:8052 | <https://st3.inkaniserver.net:8052/stream> |
-| 123 | Red FM | whmsonic.playerfullhd.com | <https://whmsonic.playerfullhd.com/8214/stream> |
-| 124 | Radio Tigre | sp.oyotunstream.com | <https://sp.oyotunstream.com/9352/stream> |
-| 125 | Feliz | cloudstream2036.conectarhosting.com | <https://cloudstream2036.conectarhosting.com/8152/stream> |
-| 126 | Independencia | sonic.dattassd.com | <https://sonic.dattassd.com/8172/stream> |
-| 127 | MJM Radyo | mfm.ice.infomaniak.ch | <https://mfm.ice.infomaniak.ch/mfm-128> |
-| 128 | Doble Nueve - LIVE | conectperu.com:7000 | <https://conectperu.com:7000/stream?icy=http> |
-| 129 | Rede | dattavolt.com:7139 | <https://dattavolt.com:7139/live> |
-| 130 | Yaraví | tupanel.info:2000 | <https://tupanel.info:2000/stream/radioyaravi/stream> |
-| 131 | Radio Frecuencia Primera | ur58.lorini.net:10999 | <http://ur58.lorini.net:10999/exitosccs.mp3> |
-| 132 | JR | us-b4-p-e-jn18-audio.cdn.mdstrm.com | <https://us-b4-p-e-jn18-audio.cdn.mdstrm.com/live-audio-aw/5fada553978fe1080e3ac5ea/playlist.m3u8?aid=5faaeb72f92d7b07dfe10181&pid=Ycyf9YJ4k2SVcJLYrQYz2SiNOG1l3FCP&sid=OZ9MHxNJqnI929V8wCymN7Vqm4PdVy6C&uid=xyqiGwBN7cqkUfH6gbGDi6l9A6MEUFOq&es=us-b4-p-e-jn18-audio.cdn.mdstrm.com&ote=1766420322018&ot=D0Y8b8qauNFzvC8bT4yYNg&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada553978fe1080e3ac5ea&listenerId=xyqiGwBN7cqkUfH6gbGDi6l9A6MEUFOq> |
-| 133 | Enmanuel | conectperu.com | <https://conectperu.com/8220/stream> |
-| 134 | Stereo 1 | cloudstream.oppublicidad.com | <https://cloudstream.oppublicidad.com/8026/stream> |
-| 135 | Radio Mil | conectperu.com | <https://conectperu.com/8252/stream> |
-| 136 | RADIO IDENTIDAD FM (MOLLENDO) | genexservicios.com:8284 | <http://genexservicios.com:8284/stream?icy=https&type=.flv> |
-| 137 | Melodía | stream.radiomelodia.com.pe:8000 | <https://stream.radiomelodia.com.pe:8000/radio.mp3> |
-| 138 | ActivaVida Radio | sp1.streamingssl.com | <https://sp1.streamingssl.com/8018/stream> |
-| 139 | RADIO VICTORIA EN CRISTO | server.streamingradios.net:7013 | <https://server.streamingradios.net:7013/type=mp3> |
-| 140 | Victoria | radio.sistemasandinos.org:10961 | <https://radio.sistemasandinos.org:10961/> |
-| 141 | Full Adventistas Radio | server2.ejeserver.com:8457 | <https://server2.ejeserver.com:8457/autodj> |
-| 142 | Felicidad (AM) | us-b4-p-e-ml19-audio.cdn.mdstrm.com | <https://us-b4-p-e-ml19-audio.cdn.mdstrm.com/live-audio-aw/5fad731fcf097a068af3c8f7?aid=5faaeb72f92d7b07dfe10181&pid=Zb2wuTKln0Q1bzWD0Nn2z4y0R8uD8xug&sid=PP6JYXwPe4SrqP3rcXzO8ISFy3kzY6Lw&uid=fwQtSYIlwz84s1N8x2Fuo49bziO2KeZV&es=us-b4-p-e-ml19-audio.cdn.mdstrm.com&ote=1766420320694&ot=I604VEHFoZoIBo6ZRZWw7Q&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fad731fcf097a068af3c8f7&listenerId=fwQtSYIlwz84s1N8x2Fuo49bziO2KeZV> |
-| 143 | La Inolvidable | 26643.live.streamtheworld.com | <https://26643.live.streamtheworld.com/DISNEY_PER_LM_SC> |
-| 144 | Fidelidad FM | cast.fmhits80s.net.pe | <https://cast.fmhits80s.net.pe/radio/8000/stream128> |
-| 145 | Radio Apurimeña 97.3 | sonic.dattassd.com | <https://sonic.dattassd.com/8080/stream> |
-| 146 | Radio Curahuasi 104.5 FM | sonic.dattassd.com | <https://sonic.dattassd.com/9162/stream> |
-| 147 | Jesús Vive radio | sh1.radioonlinehd.com:8060 | <https://sh1.radioonlinehd.com:8060/stream> |
-| 148 | Alegria Radio | radio.sistemasandinos.org:10974 | <https://radio.sistemasandinos.org:10974/stream> |
-| 149 | Radio Cordillera 102.9 FM | sonic.dattassd.com | <https://sonic.dattassd.com/2002/stream> |
-| 150 | Radio Git Uripa | radio.perustream.com:7005 | <https://radio.perustream.com:7005/index> |
-| 151 | Open Radio Tacna | stream2.eistreaming.com:7003 | <https://stream2.eistreaming.com:7003/> |
-| 152 | Holy Spirit Of God Radio – Praise | hoth.alonhosting.com:3265 | <https://hoth.alonhosting.com:3265/stream> |
-| 153 | Radio Libertad | radio.pjcks.com | <https://radio.pjcks.com/9972/stream> |
-| 154 | Buenos Momentos Radio | conectperu.com:7077 | <https://conectperu.com:7077/> |
-| 155 | Radio La Uncion | jml-stream.com | <https://jml-stream.com/radio/8010/radio.mp3> |
-| 156 | Radio Alerta General | soniceuropa.globalstream.pro | <https://soniceuropa.globalstream.pro/8042/stream> |
-| 157 | Radio Del Callao | conectperu.com | <https://conectperu.com/8084/stream> |
-| 158 | Radio KISS FM Cajamarca | panelautodj.innovatestream.pe:10829 | <https://panelautodj.innovatestream.pe:10829/stream.nsv> |
-| 159 | Radio Mira 101.1 FM | dattavolt.com | <https://dattavolt.com/8050/stream> |
-| 160 | Radio Huanuco 94.7 FM | sonic.globalstream.pro | <https://sonic.globalstream.pro/8072/stream> |
-| 161 | Radio Loretana | radios.cosit.pe | <https://radios.cosit.pe/8005/stream.nsv> |
-| 162 | Radio Frecuencia Popular | sp.oyotunstream.com:7001 | <https://sp.oyotunstream.com:7001/> |
-| 163 | Radio Pentagrama Paiján | conectperu.com | <https://conectperu.com/8340/stream> |
-| 164 | Radio Positiva | sp.oyotunstream.com:10923 | <https://sp.oyotunstream.com:10923/stream.nsv> |
-| 165 | Radio Power TV | sp.dattavolt.com | <https://sp.dattavolt.com/8062/stream> |
-| 166 | Radio Roliz | radio.sistemasandinos.org | <https://radio.sistemasandinos.org/7420/stream> |
-| 167 | Radio Patamarca | radio.transmite.pe:7011 | <https://radio.transmite.pe:7011/> |
-| 168 | Top Latino Urbano | 5cefcbf58ba2e.streamlock.net:543 | <https://5cefcbf58ba2e.streamlock.net:543/latino/latino.stream/chunklist_w1029773597.m3u8> |
-| 169 | Radio Americana | st3.inkaniserver.net:8010 | <http://st3.inkaniserver.net:8010/stream> |
-| 170 | Radio Del Sur 91.9 | streaming01.shockmedia.com.ar:9516 | <http://streaming01.shockmedia.com.ar:9516/stream/> |
-| 171 | Radio Sabor Mix 95.3 FM | dattavolt.com:7066 | <https://dattavolt.com:7066/> |
-| 172 | Radio Urbana | radio.sistemasandinos.org:10905 | <https://radio.sistemasandinos.org:10905//stream?icy=http> |
-| 173 | RadioDoki | janus.shoutca.st:8972 | <http://janus.shoutca.st:8972/stream> |
-| 174 | Top Latino - Urbano | 5cefcbf58ba2e.streamlock.net:543 | <https://5cefcbf58ba2e.streamlock.net:543/latino/latino.stream/chunklist_w1943257390.m3u8> |
-| 175 | Radio San Martin | conectperu.com:7020 | <https://conectperu.com:7020/stream> |
-| 176 | Radio Victoria | radio.sistemasandinos.org:7238 | <http://radio.sistemasandinos.org:7238/stream/> |
-| 177 | Metropolitana Radio Peruna | IPv4 直链 | <http://99.198.110.162:8130/stream/> |
-| 178 | Remembranzas del Criollismo | sonic.sistemahost.es:7045 | <https://sonic.sistemahost.es:7045/stream.nsv> |
-| 179 | Jazz Contempo Radio | conectperu.com:8048 | <http://conectperu.com:8048/stream/> |
-| 180 | Radio Reggae | online.radiodifusion.net:8054 | <http://online.radiodifusion.net:8054/stream> |
-| 181 | Radio Vesánico | radiosonline.one:8390 | <http://radiosonline.one:8390/radio.mp3> |
-| 182 | Radio La Zona 90.5 | us-b4-p-e-nq15-audio.cdn.mdstrm.com | <http://us-b4-p-e-nq15-audio.cdn.mdstrm.com/live-audio-aw/5fada54116646e098d97e6a5?aid=5faaeb72f92d7b07dfe10181&pid=KeD5bSyygotVV1HVq8aOkFst9KQFYruH&sid=SiCth8bg9Wxtrn1ADCFdEbl69ouc23oL&uid=wPVRo1N2bARPj6QhEZuAlXJLeSHud1l2&es=us-b4-p-e-nq15-audio.cdn.mdstrm.com&ote=1766420347349&ot=uROvYy1-BRZHYUfCan3YMA&proto=http&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada54116646e098d97e6a5&listenerId=wPVRo1N2bARPj6QhEZuAlXJLeSHud1l2> |
-| 183 | Kodama Station | cast.kodamastation.com:8000 | <http://cast.kodamastation.com:8000/radio.mp3> |
-| 184 | Filarmonia 102.7 | c22.radioboss.fm:8100 | <http://c22.radioboss.fm:8100/autodj> |
-| 185 | Radio Disney Perú | 27403.live.streamtheworld.com | <http://27403.live.streamtheworld.com/DISNEY_PER_LM.mp3> |
-| 186 | Radio Frecuencia 100 | sp.oyotunstream.com:7066 | <http://sp.oyotunstream.com:7066/stream/> |
-| 187 | Super Color FM | conectperu.com:7132 | <https://conectperu.com:7132/> |
-| 188 | BBN Peru | audio-edge-5bkfj.fra.h.radiomast.io | <https://audio-edge-5bkfj.fra.h.radiomast.io/475ebed1-595e-4717-b888-64fe8fc6b09f> |
-| 189 | Radio Onda Popular | dattavolt.com:8278 | <http://dattavolt.com:8278/stream/> |
-| 190 | Radio ZonaVip | conectperu.com | <https://conectperu.com/8058/stream/> |
-| 191 | Radio Tropical Tarapoto | shoutcast.tmcreativos.com:8066 | <http://shoutcast.tmcreativos.com:8066/stream> |
-| 192 | Radio Alegria | radio.sistemasandinos.org:7352 | <http://radio.sistemasandinos.org:7352/stream/> |
-| 193 | Radio Armonia | radio.sistemasandinos.org:7146 | <http://radio.sistemasandinos.org:7146/stream/> |
-| 194 | Radio Yaraví Arequipa | tupanel.info:7060 | <http://tupanel.info:7060/stream/> |
-| 195 | Radio Estrella 102.7 FM | radio.datahost.pe:9660 | <http://radio.datahost.pe:9660/stream/> |
-| 196 | Sinai Radio | stream20.usastreams.com:8194 | <http://stream20.usastreams.com:8194/stream> |
-| 197 | Radio Sol | st3.inkaniserver.net:8060 | <http://st3.inkaniserver.net:8060/stream> |
-| 198 | Radio JR 88.7 FM | tupanel.info:7040 | <http://tupanel.info:7040/stream/> |
-| 199 | Millenium Radio Tocache | IPv4 直链 | <http://5.161.107.217:8058/stream> |
-| 200 | Radio Sinaí Alternativa | whmsonic.playerfullhd.com | <https://whmsonic.playerfullhd.com/8116/stream> |
-| 201 | Radio Vida Cusco | radio.transmite.pe | <https://radio.transmite.pe/9318/stream/> |
-| 202 | Radio Shilipoder | mediastreamm.com | <http://mediastreamm.com/shilipoder/> |
-| 203 | Radio Melodia AM | stream.radiomelodia.com.pe:8010 | <http://stream.radiomelodia.com.pe:8010/radio.mp3> |
-| 204 | Maxima FM Peru | conectperu.com:8132 | <http://conectperu.com:8132/stream/> |
-| 205 | Millenium Radio Lamas | shoutcast.tmcreativos.com:8024 | <http://shoutcast.tmcreativos.com:8024/stream> |
-| 206 | La Mega | us-b4-p-e-mg17-audio.cdn.mdstrm.com | <http://us-b4-p-e-mg17-audio.cdn.mdstrm.com/live-audio-aw/5fada56fe4e09508207a7951?aid=5faaeb72f92d7b07dfe10181&pid=V0iJAODOeAwz4Qm2AO9RSPLODU0cM0tV&sid=Zv5scc6yx0JMxjepfB7Cosd7lxoFwUBX&uid=NSdKLxHKmu1PeZWlXu5E1r8mcFzpiRCd&es=us-b4-p-e-mg17-audio.cdn.mdstrm.com&ote=1766420354675&ot=yp7q47Y3svddqgFPH4TeHg&proto=http&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada56fe4e09508207a7951&listenerId=NSdKLxHKmu1PeZWlXu5E1r8mcFzpiRCd> |
-| 207 | Radio Paraíso - Pichanaki | radio.sistemasandinos.org:7242 | <http://radio.sistemasandinos.org:7242/stream/> |
-| 208 | Red Radio Integridad 700 | dattavolt.com:8164 | <http://dattavolt.com:8164/stream/> |
-| 209 | Radio Exito Peru | IPv4 直链 | <http://67.212.179.138:7200/stream/> |
-| 210 | Radio Peruanisima | stream10.usastreams.com:9348 | <http://stream10.usastreams.com:9348/stream> |
-| 211 | Señal Pirata Radio | conectperu.com:8082 | <http://conectperu.com:8082/stream/> |
-| 212 | Generación KPop | stream9.mexiserver.com:8242 | <http://stream9.mexiserver.com:8242/stream/> |
-| 213 | Radio Central Galáctica | sonic.dattassd.com:4062 | <http://sonic.dattassd.com:4062/stream> |
-| 214 | Jesús Vive Radio Peru | sh1.radioonlinehd.com:8060 | <http://sh1.radioonlinehd.com:8060/stream> |
-| 215 | InClub Radio | conectperu.com:8018 | <http://conectperu.com:8018/stream/> |
-| 216 | Radio Amor por Cable | conectperu.com:8224 | <http://conectperu.com:8224/stream/> |
-| 217 | RCC Lima | radio.rcclima.org.pe | <https://radio.rcclima.org.pe/listen/rcc_lima/radio.mp3> |
-| 218 | La Nueva Restauracion Radio FM | stm.gmpro.top:7052 | <http://stm.gmpro.top:7052/> |
-| 219 | Radio Inka Tropical 91.3 FM | radio.perustream.com | <http://radio.perustream.com/8004/stream> |
-| 220 | Radio Super Vip | rautemusik.stream43.radiohost.de | <http://rautemusik.stream43.radiohost.de/charthits?upd-meta&upd-scheme=http&_art=dD0xNzY2MzM0MjU2JmQ9Nzc5MGJmNTVmNTYxYzJkOTcwM2Y> |
-| 221 | Radio El Pueblo 93.3 FM | conectperu.com | <http://conectperu.com/8240/stream> |
-| 222 | Radio Latidos.pe | ip.peruhits.com:7230 | <http://ip.peruhits.com:7230/stream> |
-| 223 | Radio Union 880 AM | sp.onliveperu.com | <http://sp.onliveperu.com/8008/stream> |
-| 224 | Radio Super Latina Stereo 97.1 FM | corporacionlatina.com:7002 | <http://corporacionlatina.com:7002/> |
-| 225 | Radio Reina de la Selva | stream.eistreaming.com:7068 | <http://stream.eistreaming.com:7068/> |
-| 226 | Satélite 100.7 FM | conectperu.com | <http://conectperu.com/8166/stream> |
-| 227 | RadioMv - Spanish Christian Radio | es-low.radiomv.co:3010 | <http://es-low.radiomv.co:3010/> |
-| 228 | Radio Revolucion Mix | sp.tvcontrolcp.com | <http://sp.tvcontrolcp.com/8012/stream> |
-| 229 | Radio Tacna 104.3 FM | conectperu.com | <http://conectperu.com/8024/stream/> |
-| 230 | RADIO CLASICA ROCK&POP | cloudstream2036.conectarhosting.com | <https://cloudstream2036.conectarhosting.com/8130/stream%20%20https://radioclasicarockandpop.com> |
-| 231 | Radio Amazónica | cloudstream2034.conectarhosting.com:8172 | <http://cloudstream2034.conectarhosting.com:8172/stream/> |
-| 232 | El Sembrador 590 AM | panel.streamenviron.com:8158 | <https://panel.streamenviron.com:8158/stream.mp3> |
-| 233 | Radio Andahuaylas | sonic01.instainternet.com:8102 | <http://sonic01.instainternet.com:8102/stream/> |
-| 234 | Radio Agua Marina | miradioperu.com:8564 | <http://miradioperu.com:8564/stream/> |
-| 235 | Radio El Patrón | sp.onliveperu.com:8046 | <http://sp.onliveperu.com:8046/stream/> |
-| 236 | Radio Escarabajo | sp.onliveperu.com:8010 | <http://sp.onliveperu.com:8010/stream/> |
-| 237 | Radio Bahia 5 | conectperu.com:8174 | <http://conectperu.com:8174/stream/> |
-| 238 | Radio Estación Alpamayo | sonic01.instainternet.com:8032 | <http://sonic01.instainternet.com:8032/stream/> |
-| 239 | Radio Huracán | radio.sistemasandinos.org:7158 | <http://radio.sistemasandinos.org:7158/stream/> |
-| 240 | Radio Karicia Tarapoto | shoutcast.tmcreativos.com:8012 | <http://shoutcast.tmcreativos.com:8012/stream/> |
-| 241 | Radio Los Angeles Chepén | IPv4 直链 | <http://94.23.159.187:9950/stream/> |
-| 242 | Radio Corazón | us-b4-p-e-ml19-audio.cdn.mdstrm.com | <http://us-b4-p-e-ml19-audio.cdn.mdstrm.com/live-audio-aw/5fada514fc16c006bd63370f?aid=5faaeb72f92d7b07dfe10181&pid=aBq9j1foLoIcArqHbv4q7uRiojnioctd&sid=KrTZVekuOe9BlmFv7MOwrDoCCI6SIAqG&uid=zlXcDiMSnlXkmnfM7cZUQvBaCCLEnUsR&es=us-b4-p-e-ml19-audio.cdn.mdstrm.com&ote=1766420355409&ot=tAqiMq9ivF9LjQPKoJaGjQ&proto=http&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada514fc16c006bd63370f&listenerId=zlXcDiMSnlXkmnfM7cZUQvBaCCLEnUsR> |
-| 243 | Radio Latidos FM | ip.peruhits.com:7230 | <http://ip.peruhits.com:7230/stream/> |
-| 244 | Radio JHC | sp.oyotunstream.com:10979 | <https://sp.oyotunstream.com:10979/stream/> |
-| 245 | Radio Patamarca FM 100.7 | radio.transmite.pe:9400 | <http://radio.transmite.pe:9400/stream/> |
-| 246 | Radio Tabocas Mix 92.1 FM | sp.onliveperu.com:8092 | <http://sp.onliveperu.com:8092/stream/> |
-| 247 | Radio Satélite 100.7 FM | conectperu.com:8166 | <http://conectperu.com:8166/stream/> |
-| 248 | Radio Sensación Universe 97.7 | conectperu.com:8218 | <http://conectperu.com:8218/stream/> |
-| 249 | Apurimeña 92.7 fm - Antabamba | sonic.dattassd.com | <https://sonic.dattassd.com/4054/stream> |
-| 250 | Radio Urbana 95.7 La Mar - Ayacucho | radio.rtvstreaming.com | <https://radio.rtvstreaming.com/8014/stream> |
-| 251 | MALKI RETRO - Pop, Rock & Latino | radio.andaina.net | <https://radio.andaina.net/8072/stream> |
-| 252 | Doble Nueve  -  Heritage | conectperu.com:7002 | <https://conectperu.com:7002/stream> |
-| 253 | Doble Nueve | conectperu.com:7000 | <https://conectperu.com:7000/stream> |
-| 254 | Radio JVM la Estación | jvmlaestacion.stream.laut.fm | <https://jvmlaestacion.stream.laut.fm/jvmlaestacion?t302=2025-12-21_16-24-42&uuid=4c528fc0-7f09-4a90-a469-6a55ffd32f00> |
-| 255 | AeroOnline | conectperu.com:7025 | <https://conectperu.com:7025/stream> |
-| 256 | Metroploitanara Radio Peruna | IPv4 直链 | <http://99.198.110.162:8130/> |
-| 257 | Radio Apurimeña 98.1 Tambobamba | sonic.dattassd.com | <https://sonic.dattassd.com/6836/stream> |
-| 258 | RADIO AMAZONICA | cloudstream2034.conectarhosting.com | <https://cloudstream2034.conectarhosting.com/8172/stream> |
-| 259 | Generacion KPOP | stream9.mexiserver.com:7122 | <https://stream9.mexiserver.com:7122/stream> |
-| 260 | Fuego Mix | radio.sistemasandinos.org:7166 | <http://radio.sistemasandinos.org:7166> |
-| 261 | Doble Nueve  -  Millennial | conectperu.com:7001 | <https://conectperu.com:7001/stream> |
-| 262 | Kiss FM | laradiossl.online:10644 | <https://laradiossl.online:10644/stream.nsv> |
-| 263 | La Vero Radio "Romantica" | us-b4-p-e-ml19-audio.cdn.mdstrm.com | <https://us-b4-p-e-ml19-audio.cdn.mdstrm.com/live-audio-aw/5fada54116646e098d97e6a5/playlist.m3u8?aid=5faaeb72f92d7b07dfe10181&pid=st0C4TjUJ5esa0EZywkeFZVajxBgUbX1&sid=DGbG3ODW4iW1NzwTtRXMuHDT7AYp4JWi&uid=FN8Fv5iGjaiUphwhvdZB9imqF5ujBiet&es=us-b4-p-e-ml19-audio.cdn.mdstrm.com&ote=1766420684659&ot=tdFtQ_lvFcwkA6mh8Q-5Lw&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada54116646e098d97e6a5&listenerId=FN8Fv5iGjaiUphwhvdZB9imqF5ujBiet> |
-| 264 | Radio Central Mix Del Perù | oyotunstream.com:60004 | <http://oyotunstream.com:60004/> |
-| 265 | Radio Exclusiva del Peru | sp.oyotunstream.com | <https://sp.oyotunstream.com/8042/> |
-| 266 | Radio Ecuajey | radio.plhradio.com:7000 | <https://radio.plhradio.com:7000/> |
-| 267 | Radio KISS FM | panelautodj.innovatestream.pe | <https://panelautodj.innovatestream.pe/8156/stream> |
-| 268 | Radio Liberación Divina | radio.transmite.pe:9342 | <http://radio.transmite.pe:9342/> |
-| 269 | Radio Mega Hits - Huayllay | radio.transmite.pe:9304 | <http://radio.transmite.pe:9304/stream.nsv> |
-| 270 | Radio Maria | dreamsiteradiocp4.com:8020 | <http://dreamsiteradiocp4.com:8020/stream.mp3> |
-| 271 | Radio CIPBAN ENM | conectperu.com:7110 | <https://conectperu.com:7110/> |
-| 272 | Radio Moyobamba | conectperu.com:7117 | <https://conectperu.com:7117/stream> |
-| 273 | radio Trujillo web | stream1.svrdedicado.org | <https://stream1.svrdedicado.org/8344/stream> |
-| 274 | Radio Union Cristiana 98.5 Fm | stream2.eistreaming.com:10995 | <https://stream2.eistreaming.com:10995/> |
-| 275 | Radio Vinilo Peru | sp.onliveperu.com:7003 | <https://sp.onliveperu.com:7003/> |
-| 276 | Rtv Santa Monica Cusco | player.voxhd.com.br | <https://player.voxhd.com.br/proxy/7400> |
-| 277 | Radio Filarmonia | c22.radioboss.fm:8100 | <http://c22.radioboss.fm:8100/stream> |
-| 278 | Ovacion | stream9.mexiserver.com:8242 | <http://stream9.mexiserver.com:8242/> |
-| 279 | Radio Onda Cero 98.1 | conectperu.com:7089 | <https://conectperu.com:7089/> |
-| 280 | Radio Calor Huancayo | corporacionlatina.com:8000 | <http://corporacionlatina.com:8000/> |
-| 281 | SuperStereo | radio.pjcks.com | <https://radio.pjcks.com/7230/stream> |
-| 282 | Radio Sensación | evcast.mediacp.eu:2060 | <https://evcast.mediacp.eu:2060/stream> |
-| 283 | Doble Nueve  -  HERITAGE | conectperu.com | <https://conectperu.com/8006/stream> |
-| 284 | Radio Corazón (Peru) | us-b4-p-e-pb13-audio.cdn.mdstrm.com | <https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/5fada514fc16c006bd63370f/playlist.m3u8?aid=5faaeb72f92d7b07dfe10181&pid=2hNc8vYd68wWxwhj2fEyfxZimfTN303p&sid=1qhhlLH3Bn7GbZAVCVbO1Oymhp8Abwnt&uid=Ev06ubBsODclgfwnqT6mg4ntUwrOjspG&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1766420703627&ot=2BqMEXjFffGPGd7TbP7SCg&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada514fc16c006bd63370f&listenerId=Ev06ubBsODclgfwnqT6mg4ntUwrOjspG> |
-| 285 | Doble Nueve - MILLENNIAL | conectperu.com | <https://conectperu.com/8004/stream> |
-| 286 | Radio Satélite Callao | cloudstream2032.conectarhosting.com | <https://cloudstream2032.conectarhosting.com/9558/stream> |
-| 287 | Radio Cristo Viene Pronto | whmsonic.playerfullhd.com | <https://whmsonic.playerfullhd.com/9440/stream> |
-| 288 | Radio Patamarca FM | radio.transmite.pe | <https://radio.transmite.pe/9400/stream> |
-| 289 | Radio Emmanuel La Voz de la Esperanza - Chulucanas | conectperu.com | <https://conectperu.com/8216/stream> |
-| 290 | Radio Super Fiesta | radio.sistemasandinos.org | <https://radio.sistemasandinos.org/7274/stream> |
-| 291 | RADIO GO | equinox.shoutca.st:8741 | <http://equinox.shoutca.st:8741/stream> |
-| 292 | RADIO PAMPA YURAC | rr5200.globalhost1.com | <https://rr5200.globalhost1.com/8242/stream> |
-| 293 | Radio Sound Play | dattavolt.com | <https://dattavolt.com/8214/stream> |
-| 294 | La Ribereña | sp.oyotunstream.com | <https://sp.oyotunstream.com/9404/stream> |
-| 295 | Radio Clasica Rock&Pop | sonicpanel.globalstream.pro | <https://sonicpanel.globalstream.pro/8042/stream> |
-| 296 | EUFORIA PERUANA | sp.oyotunstream.com:10969 | <https://sp.oyotunstream.com:10969/> |
-| 297 | RetRock | sonicpanel.streaming10.net | <https://sonicpanel.streaming10.net/7044/stream/1/> |
-| 298 | Radio Stereo Mix | radio.sistemasandinos.org | <https://radio.sistemasandinos.org/7208/stream> |
-| 299 | Estereo Luz Celestial | hd.streamingfullhd.net:7032 | <https://hd.streamingfullhd.net:7032/> |
-| 300 | Radio Estrella | radio.datahost.pe:9660 | <http://radio.datahost.pe:9660/stream> |
-| 301 | Radio Ondas del Rio Mayo – 105.7 FM – PE-LIM | sp.onliveperu.com | <https://sp.onliveperu.com/8090/stream/1/> |
-| 302 | MÁXIMA FM – Barranca – Lima region – PE | conectperu.com | <https://conectperu.com/8132/stream> |
-| 303 | Radio Unsj 93.1 FM – 93.1 FM – San Juan – PE-CAJ | streaming.radiosenlinea.com.ar | <https://streaming.radiosenlinea.com.ar/cp/links.php?p=8122&m=pls> |
-| 304 | Radio Onda Sureña – PE | sonicpanel.streaming10.net | <https://sonicpanel.streaming10.net/7040/stream> |
-| 305 | La Super 99.3 FM – 99.3 FM – PE-CAJ | sh1.radioonlinehd.com:8066 | <http://sh1.radioonlinehd.com:8066/> |
-| 306 | Radio Nokaut – PE | cloudstream.oppublicidad.com | <https://cloudstream.oppublicidad.com/8040/stream> |
-| 307 | Radio Estación Paraiso – PE-LIM | cloudstream2034.conectarhosting.com | <https://cloudstream2034.conectarhosting.com/8202/stream> |
-| 308 | La Kuadra – 94.3 FM – Chota – PE-CAJ | dattavolt.com | <https://dattavolt.com/8046/stream> |
-| 309 | Radio Disney Peru – PE-LIM | 26573.live.streamtheworld.com | <https://26573.live.streamtheworld.com/DISNEY_PER_LM_SC?dist=web-radiodisney-disneylatino> |
-| 310 | Tropikana Radio – Andahuaylas – Andahuaylas – PE-APU | tupanel.info:9930 | <https://tupanel.info:9930/> |
-| 311 | Neysan Plus – Trujillo – PE-LAL | rr5100.globalhost1.com | <https://rr5100.globalhost1.com/8264/stream> |
-| 312 | Radio Es-Perú – 107.8 FM – PE-LIM | player.lcinternet.es | <https://player.lcinternet.es/v9/cc694_id1022/?pl=winamp&c=Radio%20Es-Per%C3%BA> |
-| 313 | Radio Eten FM – Eten – PE-LAM | sp.onliveperu.com:7080 | <https://sp.onliveperu.com:7080> |
+| 99 | Radio AnimeX | dj91.hostingnuclear.com | <https://dj91.hostingnuclear.com/8014/stream> |
+| 100 | Radio Eten FM Oficial | sp.onliveperu.com:7080 | <https://sp.onliveperu.com:7080/> |
+| 101 | Radio Retro Peru | stream2.eistreaming.com:10992 | <https://stream2.eistreaming.com:10992/> |
+| 102 | Radio Aroma Del Cielo | whmsonic.playerfullhd.com | <https://whmsonic.playerfullhd.com/8048/stream> |
+| 103 | Radio Onda Digital | conectperu.com | <https://conectperu.com/8180/stream> |
+| 104 | Radio Go Latino | antonyokumura.radioca.st | <https://antonyokumura.radioca.st/stream> |
+| 105 | Radio Soberana Peru | sp.tvcontrolcp.com | <https://sp.tvcontrolcp.com/8046/stream> |
+| 106 | New Age Notes | das-edge11-live365-dal03.cdnstream.com | <https://das-edge11-live365-dal03.cdnstream.com/a55861> |
+| 107 | RBC La Estación | dattavolt.com | <https://dattavolt.com/8366/stream> |
+| 108 | Radio Tabocas Mix | sp.onliveperu.com | <https://sp.onliveperu.com/8092/stream> |
+| 109 | Radio La Karibea | radio.transmite.pe:9310 | <http://radio.transmite.pe:9310/stream> |
+| 110 | Radio Top Mix | ip.peruhits.com:7232 | <http://ip.peruhits.com:7232/stream/1/> |
+| 111 | Radio Latidos | ip.peruhits.com:7234 | <http://ip.peruhits.com:7234/?> |
+| 112 | Mega Mix | us-b4-p-e-ja16-audio.cdn.mdstrm.com | <https://us-b4-p-e-ja16-audio.cdn.mdstrm.com/live-audio-aw/5fada56fe4e09508207a7951/playlist.m3u8?aid=5faaeb72f92d7b07dfe10181&pid=KAPGnghZWpzyhzRz16vvXmZm5LllufqJ&sid=mjVZ6XUsIv9WZABNdG3hwu78swilDQkH&uid=iFJhTiRFQbLeudNE5BIsAByIUGPIYkFj&es=us-b4-p-e-ja16-audio.cdn.mdstrm.com&ote=1766420318584&ot=F9AijgQ0TwMhSBe4l_20tw&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada56fe4e09508207a7951&listenerId=iFJhTiRFQbLeudNE5BIsAByIUGPIYkFj> |
+| 113 | Mambo Inn Radio | centova.perustream.com:9992 | <http://centova.perustream.com:9992/> |
+| 114 | Radio Cantea 989 FM  Te Encanta | sonic.globalstream.pro | <https://sonic.globalstream.pro/8010/stream> |
+| 115 | Sound Play | dattavolt.com | <https://dattavolt.com/8180/stream> |
+| 116 | Red FM | whmsonic.playerfullhd.com | <https://whmsonic.playerfullhd.com/8214/stream> |
+| 117 | Radio Tigre | sp.oyotunstream.com | <https://sp.oyotunstream.com/9352/stream> |
+| 118 | Independencia | sonic.dattassd.com | <https://sonic.dattassd.com/8172/stream> |
+| 119 | Feliz | cloudstream2036.conectarhosting.com | <https://cloudstream2036.conectarhosting.com/8152/stream> |
+| 120 | Doble Nueve - LIVE | conectperu.com:7000 | <https://conectperu.com:7000/stream?icy=http> |
+| 121 | Yaraví | tupanel.info:2000 | <https://tupanel.info:2000/stream/radioyaravi/stream> |
+| 122 | Enmanuel | conectperu.com | <https://conectperu.com/8220/stream> |
+| 123 | Felicidad (AM) | us-b4-p-e-ml19-audio.cdn.mdstrm.com | <https://us-b4-p-e-ml19-audio.cdn.mdstrm.com/live-audio-aw/5fad731fcf097a068af3c8f7?aid=5faaeb72f92d7b07dfe10181&pid=Zb2wuTKln0Q1bzWD0Nn2z4y0R8uD8xug&sid=PP6JYXwPe4SrqP3rcXzO8ISFy3kzY6Lw&uid=fwQtSYIlwz84s1N8x2Fuo49bziO2KeZV&es=us-b4-p-e-ml19-audio.cdn.mdstrm.com&ote=1766420320694&ot=I604VEHFoZoIBo6ZRZWw7Q&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fad731fcf097a068af3c8f7&listenerId=fwQtSYIlwz84s1N8x2Fuo49bziO2KeZV> |
+| 124 | JR | us-b4-p-e-jn18-audio.cdn.mdstrm.com | <https://us-b4-p-e-jn18-audio.cdn.mdstrm.com/live-audio-aw/5fada553978fe1080e3ac5ea/playlist.m3u8?aid=5faaeb72f92d7b07dfe10181&pid=Ycyf9YJ4k2SVcJLYrQYz2SiNOG1l3FCP&sid=OZ9MHxNJqnI929V8wCymN7Vqm4PdVy6C&uid=xyqiGwBN7cqkUfH6gbGDi6l9A6MEUFOq&es=us-b4-p-e-jn18-audio.cdn.mdstrm.com&ote=1766420322018&ot=D0Y8b8qauNFzvC8bT4yYNg&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada553978fe1080e3ac5ea&listenerId=xyqiGwBN7cqkUfH6gbGDi6l9A6MEUFOq> |
+| 125 | Radio Frecuencia Primera | ur58.lorini.net:10999 | <http://ur58.lorini.net:10999/exitosccs.mp3> |
+| 126 | MJM Radyo | mfm.ice.infomaniak.ch | <https://mfm.ice.infomaniak.ch/mfm-128> |
+| 127 | Radio Mil | conectperu.com | <https://conectperu.com/8252/stream> |
+| 128 | Melodía | stream.radiomelodia.com.pe:8000 | <https://stream.radiomelodia.com.pe:8000/radio.mp3> |
+| 129 | ActivaVida Radio | sp1.streamingssl.com | <https://sp1.streamingssl.com/8018/stream> |
+| 130 | Stereo 1 | cloudstream.oppublicidad.com | <https://cloudstream.oppublicidad.com/8026/stream> |
+| 131 | Victoria | radio.sistemasandinos.org:10961 | <https://radio.sistemasandinos.org:10961/> |
+| 132 | RADIO IDENTIDAD FM (MOLLENDO) | genexservicios.com:8284 | <http://genexservicios.com:8284/stream?icy=https&type=.flv> |
+| 133 | Fidelidad FM | cast.fmhits80s.net.pe | <https://cast.fmhits80s.net.pe/radio/8000/stream128> |
+| 134 | La Inolvidable | 26643.live.streamtheworld.com | <https://26643.live.streamtheworld.com/DISNEY_PER_LM_SC> |
+| 135 | Full Adventistas Radio | server2.ejeserver.com:8457 | <https://server2.ejeserver.com:8457/autodj> |
+| 136 | RADIO VICTORIA EN CRISTO | server.streamingradios.net:7013 | <https://server.streamingradios.net:7013/type=mp3> |
+| 137 | Radio Apurimeña 97.3 | sonic.dattassd.com | <https://sonic.dattassd.com/8080/stream> |
+| 138 | Alegria Radio | radio.sistemasandinos.org:10974 | <https://radio.sistemasandinos.org:10974/stream> |
+| 139 | Jesús Vive radio | sh1.radioonlinehd.com:8060 | <https://sh1.radioonlinehd.com:8060/stream> |
+| 140 | Radio Curahuasi 104.5 FM | sonic.dattassd.com | <https://sonic.dattassd.com/9162/stream> |
+| 141 | Open Radio Tacna | stream2.eistreaming.com:7003 | <https://stream2.eistreaming.com:7003/> |
+| 142 | Radio Git Uripa | radio.perustream.com:7005 | <https://radio.perustream.com:7005/index> |
+| 143 | Holy Spirit Of God Radio – Praise | hoth.alonhosting.com:3265 | <https://hoth.alonhosting.com:3265/stream> |
+| 144 | Radio Cordillera 102.9 FM | sonic.dattassd.com | <https://sonic.dattassd.com/2002/stream> |
+| 145 | Radio Alerta General | soniceuropa.globalstream.pro | <https://soniceuropa.globalstream.pro/8042/stream> |
+| 146 | Radio Libertad | radio.pjcks.com | <https://radio.pjcks.com/9972/stream> |
+| 147 | Radio KISS FM Cajamarca | panelautodj.innovatestream.pe:10829 | <https://panelautodj.innovatestream.pe:10829/stream.nsv> |
+| 148 | Buenos Momentos Radio | conectperu.com:7077 | <https://conectperu.com:7077/> |
+| 149 | Radio Del Callao | conectperu.com | <https://conectperu.com/8084/stream> |
+| 150 | Radio La Uncion | jml-stream.com | <https://jml-stream.com/radio/8010/radio.mp3> |
+| 151 | Radio Mira 101.1 FM | dattavolt.com | <https://dattavolt.com/8050/stream> |
+| 152 | Radio Huanuco 94.7 FM | sonic.globalstream.pro | <https://sonic.globalstream.pro/8072/stream> |
+| 153 | Radio Power TV | sp.dattavolt.com | <https://sp.dattavolt.com/8062/stream> |
+| 154 | Radio Loretana | radios.cosit.pe | <https://radios.cosit.pe/8005/stream.nsv> |
+| 155 | Radio Roliz | radio.sistemasandinos.org | <https://radio.sistemasandinos.org/7420/stream> |
+| 156 | Radio Frecuencia Popular | sp.oyotunstream.com:7001 | <https://sp.oyotunstream.com:7001/> |
+| 157 | Radio Sabor Mix 95.3 FM | dattavolt.com:7066 | <https://dattavolt.com:7066/> |
+| 158 | Radio Positiva | sp.oyotunstream.com:10923 | <https://sp.oyotunstream.com:10923/stream.nsv> |
+| 159 | Radio Pentagrama Paiján | conectperu.com | <https://conectperu.com/8340/stream> |
+| 160 | Radio Urbana | radio.sistemasandinos.org:10905 | <https://radio.sistemasandinos.org:10905//stream?icy=http> |
+| 161 | Radio San Martin | conectperu.com:7020 | <https://conectperu.com:7020/stream> |
+| 162 | Top Latino Urbano | 5cefcbf58ba2e.streamlock.net:543 | <https://5cefcbf58ba2e.streamlock.net:543/latino/latino.stream/chunklist_w1029773597.m3u8> |
+| 163 | Radio Americana | st3.inkaniserver.net:8010 | <http://st3.inkaniserver.net:8010/stream> |
+| 164 | Radio Patamarca | radio.transmite.pe:7011 | <https://radio.transmite.pe:7011/> |
+| 165 | Radio Del Sur 91.9 | streaming01.shockmedia.com.ar:9516 | <http://streaming01.shockmedia.com.ar:9516/stream/> |
+| 166 | Top Latino - Urbano | 5cefcbf58ba2e.streamlock.net:543 | <https://5cefcbf58ba2e.streamlock.net:543/latino/latino.stream/chunklist_w1943257390.m3u8> |
+| 167 | Radio Victoria | radio.sistemasandinos.org:7238 | <http://radio.sistemasandinos.org:7238/stream/> |
+| 168 | Radio La Zona 90.5 | us-b4-p-e-nq15-audio.cdn.mdstrm.com | <http://us-b4-p-e-nq15-audio.cdn.mdstrm.com/live-audio-aw/5fada54116646e098d97e6a5?aid=5faaeb72f92d7b07dfe10181&pid=KeD5bSyygotVV1HVq8aOkFst9KQFYruH&sid=SiCth8bg9Wxtrn1ADCFdEbl69ouc23oL&uid=wPVRo1N2bARPj6QhEZuAlXJLeSHud1l2&es=us-b4-p-e-nq15-audio.cdn.mdstrm.com&ote=1766420347349&ot=uROvYy1-BRZHYUfCan3YMA&proto=http&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada54116646e098d97e6a5&listenerId=wPVRo1N2bARPj6QhEZuAlXJLeSHud1l2> |
+| 169 | Metropolitana Radio Peruna | IPv4 直链 | <http://99.198.110.162:8130/stream/> |
+| 170 | RadioDoki | janus.shoutca.st:8972 | <http://janus.shoutca.st:8972/stream> |
+| 171 | Remembranzas del Criollismo | sonic.sistemahost.es:7045 | <https://sonic.sistemahost.es:7045/stream.nsv> |
+| 172 | Filarmonia 102.7 | c22.radioboss.fm:8100 | <http://c22.radioboss.fm:8100/autodj> |
+| 173 | Radio Vesánico | radiosonline.one:8390 | <http://radiosonline.one:8390/radio.mp3> |
+| 174 | Radio Reggae | online.radiodifusion.net:8054 | <http://online.radiodifusion.net:8054/stream> |
+| 175 | Radio Disney Perú | 27403.live.streamtheworld.com | <http://27403.live.streamtheworld.com/DISNEY_PER_LM.mp3> |
+| 176 | Kodama Station | cast.kodamastation.com:8000 | <http://cast.kodamastation.com:8000/radio.mp3> |
+| 177 | Radio Onda Popular | dattavolt.com:8278 | <http://dattavolt.com:8278/stream/> |
+| 178 | Radio Tropical Tarapoto | shoutcast.tmcreativos.com:8066 | <http://shoutcast.tmcreativos.com:8066/stream> |
+| 179 | Radio Frecuencia 100 | sp.oyotunstream.com:7066 | <http://sp.oyotunstream.com:7066/stream/> |
+| 180 | Radio Alegria | radio.sistemasandinos.org:7352 | <http://radio.sistemasandinos.org:7352/stream/> |
+| 181 | BBN Peru | audio-edge-5bkfj.fra.h.radiomast.io | <https://audio-edge-5bkfj.fra.h.radiomast.io/475ebed1-595e-4717-b888-64fe8fc6b09f> |
+| 182 | Radio Yaraví Arequipa | tupanel.info:7060 | <http://tupanel.info:7060/stream/> |
+| 183 | Radio JR 88.7 FM | tupanel.info:7040 | <http://tupanel.info:7040/stream/> |
+| 184 | Sinai Radio | stream20.usastreams.com:8194 | <http://stream20.usastreams.com:8194/stream> |
+| 185 | Super Color FM | conectperu.com:7132 | <https://conectperu.com:7132/> |
+| 186 | Radio Vida Cusco | radio.transmite.pe | <https://radio.transmite.pe/9318/stream/> |
+| 187 | Radio Melodia AM | stream.radiomelodia.com.pe:8010 | <http://stream.radiomelodia.com.pe:8010/radio.mp3> |
+| 188 | Radio Estrella 102.7 FM | radio.datahost.pe:9660 | <http://radio.datahost.pe:9660/stream/> |
+| 189 | Radio Sol | st3.inkaniserver.net:8060 | <http://st3.inkaniserver.net:8060/stream> |
+| 190 | Millenium Radio Tocache | IPv4 直链 | <http://5.161.107.217:8058/stream> |
+| 191 | Radio Shilipoder | mediastreamm.com | <http://mediastreamm.com/shilipoder/> |
+| 192 | Radio Sinaí Alternativa | whmsonic.playerfullhd.com | <https://whmsonic.playerfullhd.com/8116/stream> |
+| 193 | La Mega | us-b4-p-e-mg17-audio.cdn.mdstrm.com | <http://us-b4-p-e-mg17-audio.cdn.mdstrm.com/live-audio-aw/5fada56fe4e09508207a7951?aid=5faaeb72f92d7b07dfe10181&pid=V0iJAODOeAwz4Qm2AO9RSPLODU0cM0tV&sid=Zv5scc6yx0JMxjepfB7Cosd7lxoFwUBX&uid=NSdKLxHKmu1PeZWlXu5E1r8mcFzpiRCd&es=us-b4-p-e-mg17-audio.cdn.mdstrm.com&ote=1766420354675&ot=yp7q47Y3svddqgFPH4TeHg&proto=http&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada56fe4e09508207a7951&listenerId=NSdKLxHKmu1PeZWlXu5E1r8mcFzpiRCd> |
+| 194 | Radio ZonaVip | conectperu.com | <https://conectperu.com/8058/stream/> |
+| 195 | Millenium Radio Lamas | shoutcast.tmcreativos.com:8024 | <http://shoutcast.tmcreativos.com:8024/stream> |
+| 196 | Red Radio Integridad 700 | dattavolt.com:8164 | <http://dattavolt.com:8164/stream/> |
+| 197 | Radio Exito Peru | IPv4 直链 | <http://67.212.179.138:7200/stream/> |
+| 198 | Radio Paraíso - Pichanaki | radio.sistemasandinos.org:7242 | <http://radio.sistemasandinos.org:7242/stream/> |
+| 199 | Generación KPop | stream9.mexiserver.com:8242 | <http://stream9.mexiserver.com:8242/stream/> |
+| 200 | Señal Pirata Radio | conectperu.com:8082 | <http://conectperu.com:8082/stream/> |
+| 201 | Radio Peruanisima | stream10.usastreams.com:9348 | <http://stream10.usastreams.com:9348/stream> |
+| 202 | Radio Central Galáctica | sonic.dattassd.com:4062 | <http://sonic.dattassd.com:4062/stream> |
+| 203 | Jesús Vive Radio Peru | sh1.radioonlinehd.com:8060 | <http://sh1.radioonlinehd.com:8060/stream> |
+| 204 | Radio Super Vip | rautemusik.stream43.radiohost.de | <http://rautemusik.stream43.radiohost.de/charthits?upd-meta&upd-scheme=http&_art=dD0xNzY2MzM0MjU2JmQ9Nzc5MGJmNTVmNTYxYzJkOTcwM2Y> |
+| 205 | Radio Corazón | us-b4-p-e-ml19-audio.cdn.mdstrm.com | <http://us-b4-p-e-ml19-audio.cdn.mdstrm.com/live-audio-aw/5fada514fc16c006bd63370f?aid=5faaeb72f92d7b07dfe10181&pid=aBq9j1foLoIcArqHbv4q7uRiojnioctd&sid=KrTZVekuOe9BlmFv7MOwrDoCCI6SIAqG&uid=zlXcDiMSnlXkmnfM7cZUQvBaCCLEnUsR&es=us-b4-p-e-ml19-audio.cdn.mdstrm.com&ote=1766420355409&ot=tAqiMq9ivF9LjQPKoJaGjQ&proto=http&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada514fc16c006bd63370f&listenerId=zlXcDiMSnlXkmnfM7cZUQvBaCCLEnUsR> |
+| 206 | InClub Radio | conectperu.com:8018 | <http://conectperu.com:8018/stream/> |
+| 207 | Radio Amor por Cable | conectperu.com:8224 | <http://conectperu.com:8224/stream/> |
+| 208 | La Nueva Restauracion Radio FM | stm.gmpro.top:7052 | <http://stm.gmpro.top:7052/> |
+| 209 | RCC Lima | radio.rcclima.org.pe | <https://radio.rcclima.org.pe/listen/rcc_lima/radio.mp3> |
+| 210 | Radio Inka Tropical 91.3 FM | radio.perustream.com | <http://radio.perustream.com/8004/stream> |
+| 211 | Radio El Pueblo 93.3 FM | conectperu.com | <http://conectperu.com/8240/stream> |
+| 212 | Radio Latidos.pe | ip.peruhits.com:7230 | <http://ip.peruhits.com:7230/stream> |
+| 213 | RadioMv - Spanish Christian Radio | es-low.radiomv.co:3010 | <http://es-low.radiomv.co:3010/> |
+| 214 | Radio Union 880 AM | sp.onliveperu.com | <http://sp.onliveperu.com/8008/stream> |
+| 215 | El Sembrador 590 AM | panel.streamenviron.com:8158 | <https://panel.streamenviron.com:8158/stream.mp3> |
+| 216 | Radio Reina de la Selva | stream.eistreaming.com:7068 | <http://stream.eistreaming.com:7068/> |
+| 217 | Radio Super Latina Stereo 97.1 FM | corporacionlatina.com:7002 | <http://corporacionlatina.com:7002/> |
+| 218 | Radio Revolucion Mix | sp.tvcontrolcp.com | <http://sp.tvcontrolcp.com/8012/stream> |
+| 219 | Radio Tacna 104.3 FM | conectperu.com | <http://conectperu.com/8024/stream/> |
+| 220 | Radio Amazónica | cloudstream2034.conectarhosting.com:8172 | <http://cloudstream2034.conectarhosting.com:8172/stream/> |
+| 221 | Radio Andahuaylas | sonic01.instainternet.com:8102 | <http://sonic01.instainternet.com:8102/stream/> |
+| 222 | RADIO CLASICA ROCK&POP | cloudstream2036.conectarhosting.com | <https://cloudstream2036.conectarhosting.com/8130/stream%20%20https://radioclasicarockandpop.com> |
+| 223 | Satélite 100.7 FM | conectperu.com | <http://conectperu.com/8166/stream> |
+| 224 | Radio El Patrón | sp.onliveperu.com:8046 | <http://sp.onliveperu.com:8046/stream/> |
+| 225 | Radio Escarabajo | sp.onliveperu.com:8010 | <http://sp.onliveperu.com:8010/stream/> |
+| 226 | Radio Estación Alpamayo | sonic01.instainternet.com:8032 | <http://sonic01.instainternet.com:8032/stream/> |
+| 227 | Radio Karicia Tarapoto | shoutcast.tmcreativos.com:8012 | <http://shoutcast.tmcreativos.com:8012/stream/> |
+| 228 | Radio Latidos FM | ip.peruhits.com:7230 | <http://ip.peruhits.com:7230/stream/> |
+| 229 | Radio Agua Marina | miradioperu.com:8564 | <http://miradioperu.com:8564/stream/> |
+| 230 | Radio Bahia 5 | conectperu.com:8174 | <http://conectperu.com:8174/stream/> |
+| 231 | Radio Huracán | radio.sistemasandinos.org:7158 | <http://radio.sistemasandinos.org:7158/stream/> |
+| 232 | Radio Patamarca FM 100.7 | radio.transmite.pe:9400 | <http://radio.transmite.pe:9400/stream/> |
+| 233 | Radio Los Angeles Chepén | IPv4 直链 | <http://94.23.159.187:9950/stream/> |
+| 234 | Radio Tabocas Mix 92.1 FM | sp.onliveperu.com:8092 | <http://sp.onliveperu.com:8092/stream/> |
+| 235 | Radio Sensación Universe 97.7 | conectperu.com:8218 | <http://conectperu.com:8218/stream/> |
+| 236 | Radio Satélite 100.7 FM | conectperu.com:8166 | <http://conectperu.com:8166/stream/> |
+| 237 | Radio JHC | sp.oyotunstream.com:10979 | <https://sp.oyotunstream.com:10979/stream/> |
+| 238 | Apurimeña 92.7 fm - Antabamba | sonic.dattassd.com | <https://sonic.dattassd.com/4054/stream> |
+| 239 | Radio Urbana 95.7 La Mar - Ayacucho | radio.rtvstreaming.com | <https://radio.rtvstreaming.com/8014/stream> |
+| 240 | MALKI RETRO - Pop, Rock & Latino | radio.andaina.net | <https://radio.andaina.net/8072/stream> |
+| 241 | Doble Nueve | conectperu.com:7000 | <https://conectperu.com:7000/stream> |
+| 242 | Doble Nueve  -  Heritage | conectperu.com:7002 | <https://conectperu.com:7002/stream> |
+| 243 | AeroOnline | conectperu.com:7025 | <https://conectperu.com:7025/stream> |
+| 244 | Doble Nueve  -  Millennial | conectperu.com:7001 | <https://conectperu.com:7001/stream> |
+| 245 | Generacion KPOP | stream9.mexiserver.com:7122 | <https://stream9.mexiserver.com:7122/stream> |
+| 246 | Radio Apurimeña 98.1 Tambobamba | sonic.dattassd.com | <https://sonic.dattassd.com/6836/stream> |
+| 247 | Metroploitanara Radio Peruna | IPv4 直链 | <http://99.198.110.162:8130/> |
+| 248 | Fuego Mix | radio.sistemasandinos.org:7166 | <http://radio.sistemasandinos.org:7166> |
+| 249 | RADIO AMAZONICA | cloudstream2034.conectarhosting.com | <https://cloudstream2034.conectarhosting.com/8172/stream> |
+| 250 | La Vero Radio "Romantica" | us-b4-p-e-ml19-audio.cdn.mdstrm.com | <https://us-b4-p-e-ml19-audio.cdn.mdstrm.com/live-audio-aw/5fada54116646e098d97e6a5/playlist.m3u8?aid=5faaeb72f92d7b07dfe10181&pid=st0C4TjUJ5esa0EZywkeFZVajxBgUbX1&sid=DGbG3ODW4iW1NzwTtRXMuHDT7AYp4JWi&uid=FN8Fv5iGjaiUphwhvdZB9imqF5ujBiet&es=us-b4-p-e-ml19-audio.cdn.mdstrm.com&ote=1766420684659&ot=tdFtQ_lvFcwkA6mh8Q-5Lw&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada54116646e098d97e6a5&listenerId=FN8Fv5iGjaiUphwhvdZB9imqF5ujBiet> |
+| 251 | Radio Central Mix Del Perù | oyotunstream.com:60004 | <http://oyotunstream.com:60004/> |
+| 252 | Radio Exclusiva del Peru | sp.oyotunstream.com | <https://sp.oyotunstream.com/8042/> |
+| 253 | Kiss FM | laradiossl.online:10644 | <https://laradiossl.online:10644/stream.nsv> |
+| 254 | Radio Ecuajey | radio.plhradio.com:7000 | <https://radio.plhradio.com:7000/> |
+| 255 | Radio KISS FM | panelautodj.innovatestream.pe | <https://panelautodj.innovatestream.pe/8156/stream> |
+| 256 | Radio Mega Hits - Huayllay | radio.transmite.pe:9304 | <http://radio.transmite.pe:9304/stream.nsv> |
+| 257 | Radio Liberación Divina | radio.transmite.pe:9342 | <http://radio.transmite.pe:9342/> |
+| 258 | Radio Maria | dreamsiteradiocp4.com:8020 | <http://dreamsiteradiocp4.com:8020/stream.mp3> |
+| 259 | Radio CIPBAN ENM | conectperu.com:7110 | <https://conectperu.com:7110/> |
+| 260 | Radio Moyobamba | conectperu.com:7117 | <https://conectperu.com:7117/stream> |
+| 261 | radio Trujillo web | stream1.svrdedicado.org | <https://stream1.svrdedicado.org/8344/stream> |
+| 262 | Ovacion | stream9.mexiserver.com:8242 | <http://stream9.mexiserver.com:8242/> |
+| 263 | Radio Vinilo Peru | sp.onliveperu.com:7003 | <https://sp.onliveperu.com:7003/> |
+| 264 | Radio Union Cristiana 98.5 Fm | stream2.eistreaming.com:10995 | <https://stream2.eistreaming.com:10995/> |
+| 265 | Radio Filarmonia | c22.radioboss.fm:8100 | <http://c22.radioboss.fm:8100/stream> |
+| 266 | Rtv Santa Monica Cusco | player.voxhd.com.br | <https://player.voxhd.com.br/proxy/7400> |
+| 267 | Radio JVM la Estación | jvmlaestacion.stream.laut.fm | <https://jvmlaestacion.stream.laut.fm/jvmlaestacion?t302=2025-12-21_16-24-42&uuid=4c528fc0-7f09-4a90-a469-6a55ffd32f00> |
+| 268 | Radio Onda Cero 98.1 | conectperu.com:7089 | <https://conectperu.com:7089/> |
+| 269 | SuperStereo | radio.pjcks.com | <https://radio.pjcks.com/7230/stream> |
+| 270 | Radio Calor Huancayo | corporacionlatina.com:8000 | <http://corporacionlatina.com:8000/> |
+| 271 | Doble Nueve - MILLENNIAL | conectperu.com | <https://conectperu.com/8004/stream> |
+| 272 | Doble Nueve  -  HERITAGE | conectperu.com | <https://conectperu.com/8006/stream> |
+| 273 | Radio Satélite Callao | cloudstream2032.conectarhosting.com | <https://cloudstream2032.conectarhosting.com/9558/stream> |
+| 274 | Radio Corazón (Peru) | us-b4-p-e-pb13-audio.cdn.mdstrm.com | <https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/5fada514fc16c006bd63370f/playlist.m3u8?aid=5faaeb72f92d7b07dfe10181&pid=2hNc8vYd68wWxwhj2fEyfxZimfTN303p&sid=1qhhlLH3Bn7GbZAVCVbO1Oymhp8Abwnt&uid=Ev06ubBsODclgfwnqT6mg4ntUwrOjspG&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1766420703627&ot=2BqMEXjFffGPGd7TbP7SCg&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada514fc16c006bd63370f&listenerId=Ev06ubBsODclgfwnqT6mg4ntUwrOjspG> |
+| 275 | Radio Patamarca FM | radio.transmite.pe | <https://radio.transmite.pe/9400/stream> |
+| 276 | Radio Sensación | evcast.mediacp.eu:2060 | <https://evcast.mediacp.eu:2060/stream> |
+| 277 | Radio Cristo Viene Pronto | whmsonic.playerfullhd.com | <https://whmsonic.playerfullhd.com/9440/stream> |
+| 278 | Radio Emmanuel La Voz de la Esperanza - Chulucanas | conectperu.com | <https://conectperu.com/8216/stream> |
+| 279 | RADIO GO | equinox.shoutca.st:8741 | <http://equinox.shoutca.st:8741/stream> |
+| 280 | Radio Super Fiesta | radio.sistemasandinos.org | <https://radio.sistemasandinos.org/7274/stream> |
+| 281 | RADIO PAMPA YURAC | rr5200.globalhost1.com | <https://rr5200.globalhost1.com/8242/stream> |
+| 282 | La Ribereña | sp.oyotunstream.com | <https://sp.oyotunstream.com/9404/stream> |
+| 283 | Radio Sound Play | dattavolt.com | <https://dattavolt.com/8214/stream> |
+| 284 | Radio Stereo Mix | radio.sistemasandinos.org | <https://radio.sistemasandinos.org/7208/stream> |
+| 285 | EUFORIA PERUANA | sp.oyotunstream.com:10969 | <https://sp.oyotunstream.com:10969/> |
+| 286 | RetRock | sonicpanel.streaming10.net | <https://sonicpanel.streaming10.net/7044/stream/1/> |
+| 287 | Radio Clasica Rock&Pop | sonicpanel.globalstream.pro | <https://sonicpanel.globalstream.pro/8042/stream> |
+| 288 | MÁXIMA FM – Barranca – Lima region – PE | conectperu.com | <https://conectperu.com/8132/stream> |
+| 289 | Radio Estrella | radio.datahost.pe:9660 | <http://radio.datahost.pe:9660/stream> |
+| 290 | Radio Ondas del Rio Mayo – 105.7 FM – PE-LIM | sp.onliveperu.com | <https://sp.onliveperu.com/8090/stream/1/> |
+| 291 | Estereo Luz Celestial | hd.streamingfullhd.net:7032 | <https://hd.streamingfullhd.net:7032/> |
+| 292 | Radio Onda Sureña – PE | sonicpanel.streaming10.net | <https://sonicpanel.streaming10.net/7040/stream> |
+| 293 | La Super 99.3 FM – 99.3 FM – PE-CAJ | sh1.radioonlinehd.com:8066 | <http://sh1.radioonlinehd.com:8066/> |
+| 294 | Radio Unsj 93.1 FM – 93.1 FM – San Juan – PE-CAJ | streaming.radiosenlinea.com.ar | <https://streaming.radiosenlinea.com.ar/cp/links.php?p=8122&m=pls> |
+| 295 | Radio Estación Paraiso – PE-LIM | cloudstream2034.conectarhosting.com | <https://cloudstream2034.conectarhosting.com/8202/stream> |
+| 296 | Radio Nokaut – PE | cloudstream.oppublicidad.com | <https://cloudstream.oppublicidad.com/8040/stream> |
+| 297 | Tropikana Radio – Andahuaylas – Andahuaylas – PE-APU | tupanel.info:9930 | <https://tupanel.info:9930/> |
+| 298 | Neysan Plus – Trujillo – PE-LAL | rr5100.globalhost1.com | <https://rr5100.globalhost1.com/8264/stream> |
+| 299 | La Kuadra – 94.3 FM – Chota – PE-CAJ | dattavolt.com | <https://dattavolt.com/8046/stream> |
+| 300 | Radio Es-Perú – 107.8 FM – PE-LIM | player.lcinternet.es | <https://player.lcinternet.es/v9/cc694_id1022/?pl=winamp&c=Radio%20Es-Per%C3%BA> |
+| 301 | Radio Eten FM – Eten – PE-LAM | sp.onliveperu.com:7080 | <https://sp.onliveperu.com:7080> |
+| 302 | Radio Disney Peru – PE-LIM | 26573.live.streamtheworld.com | <https://26573.live.streamtheworld.com/DISNEY_PER_LM_SC?dist=web-radiodisney-disneylatino> |
+| 303 | Mi Radio Peruana – PE | servidor14.brlogic.com:7436 | <https://servidor14.brlogic.com:7436/live> |
+| 304 | Radio Huancayo – 870 AM – PE-ARE | cloud9.ldwebstudios.net | <https://cloud9.ldwebstudios.net/8002/stream> |
+| 305 | La Super 99.3 FM – 99.3 FM – PE-TAC | sh1.radioonlinehd.com:8068 | <https://sh1.radioonlinehd.com:8068/> |
+| 306 | Radio Wayra Huancansancos – PE-AYA | start.hostreamperu.com:10108 | <http://start.hostreamperu.com:10108/> |
+| 307 | RADIO BAHÍA 5 FM – 102.5 FM – San Bartolo – Lima region – PE | conectperu.com:7086 | <https://conectperu.com:7086/stream?icy=http> |
+| 308 | Fidelísima Radio – 107.7 FM – Chachapoyas – PE-AMA | st3.inkaniserver.net:8008 | <http://st3.inkaniserver.net:8008/> |
+| 309 | Radio Inspiracion – 98.1 FM – Nauta – PE-LOR | sp.dattavolt.com | <https://sp.dattavolt.com/8098/stream> |
+| 310 | Radio Caliente – 100.5 FM – Trujillo – PE-LAL | rr5100.globalhost1.com | <https://rr5100.globalhost1.com/8564/stream> |
+| 311 | Esfera Radio – Chachapoyas – PE-AMA | oyotunstream.com:7360 | <http://oyotunstream.com:7360/> |
+| 312 | Radio Onda Popular FM – Juliaca – PE-PUN | dattavolt.com | <https://dattavolt.com/8278/stream> |
+| 313 | Radio Voz Cristiana – 1470 AM – Huancayo – Junín Region – PE | dattavolt.com | <https://dattavolt.com/8086/stream> |
 | 314 | RocaFM Lima – 104.8 FM – Trujillo – PE-LAL | xxdelgado.radioca.st | <https://xxdelgado.radioca.st> |
-| 315 | Radio Huancayo – 870 AM – PE-ARE | cloud9.ldwebstudios.net | <https://cloud9.ldwebstudios.net/8002/stream> |
-| 316 | La Super 99.3 FM – 99.3 FM – PE-TAC | sh1.radioonlinehd.com:8068 | <https://sh1.radioonlinehd.com:8068/> |
-| 317 | RADIO BAHÍA 5 FM – 102.5 FM – San Bartolo – Lima region – PE | conectperu.com:7086 | <https://conectperu.com:7086/stream?icy=http> |
-| 318 | Radio Onda Popular FM – Juliaca – PE-PUN | dattavolt.com | <https://dattavolt.com/8278/stream> |
-| 319 | Radio Inspiracion – 98.1 FM – Nauta – PE-LOR | sp.dattavolt.com | <https://sp.dattavolt.com/8098/stream> |
-| 320 | Mi Radio Peruana – PE | servidor14.brlogic.com:7436 | <https://servidor14.brlogic.com:7436/live> |
-| 321 | Fidelísima Radio – 107.7 FM – Chachapoyas – PE-AMA | st3.inkaniserver.net:8008 | <http://st3.inkaniserver.net:8008/> |
-| 322 | Radio Caliente – 100.5 FM – Trujillo – PE-LAL | rr5100.globalhost1.com | <https://rr5100.globalhost1.com/8564/stream> |
-| 323 | Radio Wayra Huancansancos – PE-AYA | start.hostreamperu.com:10108 | <http://start.hostreamperu.com:10108/> |
-| 324 | Radio Voz Cristiana – 1470 AM – Huancayo – Junín Region – PE | dattavolt.com | <https://dattavolt.com/8086/stream> |
-| 325 | Esfera Radio – Chachapoyas – PE-AMA | oyotunstream.com:7360 | <http://oyotunstream.com:7360/> |
-| 326 | Radio Libertad – Casma – PE-ANC | conectperu.com:7152 | <https://conectperu.com:7152/> |
-| 327 | Estéreo G La Grande – PE-LAM | dattavolt.com | <https://dattavolt.com/8132/stream> |
-| 328 | Radio Stereo Network – PE-LIM | sonic.cloudstreaming.eu | <https://sonic.cloudstreaming.eu/8122/stream> |
-| 329 | Radio Level Hits – PE | ip.peruhits.com:7234 | <http://ip.peruhits.com:7234/stream.mp3> |
-| 330 | Radio Potencial – Trujillo – PE-LAL | rr5100.globalhost1.com | <https://rr5100.globalhost1.com/8086/stream> |
-| 331 | Fama Sur – PE | oyotunstream.com:9326 | <http://oyotunstream.com:9326/stream> |
-| 332 | Punta Radio – Acos – Lima region – PE | dattavolt.com | <https://dattavolt.com/8328/stream> |
-| 333 | Radio Líder – 970 AM – PE-CAJ | sonicpanel.streaming10.net:10981 | <https://sonicpanel.streaming10.net:10981/live> |
-| 334 | Sentimiento Andino – Trujillo – PE-LAL | rr5100.globalhost1.com | <https://rr5100.globalhost1.com/8572/stream> |
-| 335 | La tuna radio – PE-LIM | cast.latunaradio.com | <https://cast.latunaradio.com/radio/8000/stream> |
-| 336 | Radio Chevere – Huaraz – PE-ANC | radio.sistemasandinos.org:10992 | <https://radio.sistemasandinos.org:10992/stream?icy=http> |
-| 337 | Fuego Mix – PE-ARE | radio.sistemasandinos.org:7166 | <http://radio.sistemasandinos.org:7166/> |
-| 338 | Radio La Chismosa – PE-TUM | server.streamingradios.net:7053 | <https://server.streamingradios.net:7053> |
-| 339 | Radio Titanka – Abancay – Abancay – PE-APU | tupanel.info:8480 | <https://tupanel.info:8480/> |
-| 340 | RADIO EXITO 97.9 FM – PE-CAJ | rr5100.globalhost1.com | <https://rr5100.globalhost1.com/8352/stream> |
-| 341 | RADIO NORANDINA – PE | mediastreamm.com | <https://mediastreamm.com/norandina/stream> |
-| 342 | Radio Felicidad AM – PE-ARE | us-b4-p-e-mg17-audio.cdn.mdstrm.com | <https://us-b4-p-e-mg17-audio.cdn.mdstrm.com/live-audio-aw/5fad731fcf097a068af3c8f7/playlist.m3u8?aid=5faaeb72f92d7b07dfe10181&pid=RHFS8v7L5Hty2IM9Jmfl8vJLHFZXEqvw&sid=EKLiQXOdpS1Foad5ghQNu6s1SnU8MzUD&uid=QtY8VKQh3I1gUodPXoE9qLXdrnJxUgBt&es=us-b4-p-e-mg17-audio.cdn.mdstrm.com&ote=1766420740168&ot=DECkdMNxF-Xekc8eqsoL-g&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fad731fcf097a068af3c8f7&listenerId=QtY8VKQh3I1gUodPXoE9qLXdrnJxUgBt> |
-| 343 | Radio Nueva Jerusalen 103.7 FM – 103.7 FM – Trujillo – PE-LAL | server.streamingradios.net:8214 | <https://server.streamingradios.net:8214> |
-| 344 | Radio Girasol Sechura – 99.5 FM – Sechura – PE-PIU | miradioperu.com:7010 | <https://miradioperu.com:7010/> |
-| 345 | Radio Sol – PE-MOQ | st3.inkaniserver.net:8060 | <https://st3.inkaniserver.net:8060/stream> |
-| 346 | Radio Qhaphiya 99.7 FM – 99.7 FM – Yunguyo – PE-PUN | server.streamingradios.net:7001 | <https://server.streamingradios.net:7001> |
-| 347 | Radio Karicia – 107.5 FM – Tarapoto – PE-SAM | reproductor.tmcreativos.com | <https://reproductor.tmcreativos.com/radiokar/index.php?pl=winamp&c=Kargen%20Enk%20Radio> |
-| 348 | Radio Eco – 91.1 FM – PE-AYA | server.streamingradios.net:7097 | <https://server.streamingradios.net:7097> |
-| 349 | Radio Vida Cusco – Cusco – PE | radio.transmite.pe | <https://radio.transmite.pe/9318/stream> |
-| 350 | Radio Deep Music – PE | sbc-radio.stream.laut.fm | <https://sbc-radio.stream.laut.fm/sbc-radio?t302=2025-12-21_16-25-39&uuid=7b8b09de-6be2-4896-90ab-143e1e44928e> |
-| 351 | Radio Llata – 92.3 FM – Llata – Huanuco – PE | sonic.dattassd.com:10945 | <https://sonic.dattassd.com:10945/> |
-| 352 | RADIO 15-50 – PE-PUN | cloud9.ldwebstudios.net:7001 | <https://cloud9.ldwebstudios.net:7001/> |
-| 353 | Radio Estrella 98.1 FM – 98.1 FM – Chimbote – PE-ANC | radio.datahost.pe:9496 | <http://radio.datahost.pe:9496/> |
-| 354 | La chismosa – Cachimayo – Cusco – PE | puroradio.net:8002 | <http://puroradio.net:8002/stream.mp3> |
-| 355 | Radio Sudamericana Tarma – Tarma – Junín Region – PE | conectperu.com | <https://conectperu.com/8262/stream> |
-| 356 | Radio Los Angeles Chepén – Chepén – PE-LAL | IPv4 直链 | <http://94.23.159.187:9950/live> |
-| 357 | 96.5 FM Trujillo – Trujillo – PE-LAL | stream9.mexiserver.com | <https://stream9.mexiserver.com/8194/stream> |
-| 358 | Estrella Supermercados – Camaná – PE-ARE | streamingp.shoutcast.com | <https://streamingp.shoutcast.com/JamendoLounge?lang=*> |
-| 359 | Nora Noryta – PE-LIM | radioenlinea.click:8110 | <https://radioenlinea.click:8110/radio.mp3> |
-| 360 | Stacion San Alejandro 91.3 FM – 91.3 FM – San Clemente – PE-ICA | radio.livestreamingmundial.com:7015 | <https://radio.livestreamingmundial.com:7015/stream?icy=http> |
-| 361 | RPM – Cuarto Poder – Yunguyo – PE-PUN | radiosonline.one | <https://radiosonline.one/listen/rpm/radio.mp3> |
-| 362 | Radio Tropicana 94.5 FM – 94.5 FM – Huacho – Lima region – PE | conectperu.com | <https://conectperu.com/8190/stream> |
-| 363 | Radio La Preferida – 106.7 FM – Chongoyape – PE-LAM | dattavolt.com | <https://dattavolt.com/8144/stream> |
-| 364 | Radio Amor por Cable – Chiclayo – PE-LAM | conectperu.com:7111 | <https://conectperu.com:7111/> |
-| 365 | Radio Coishco Miradio Mix – PE | sp.oyotunstream.com:10964 | <https://sp.oyotunstream.com:10964> |
-| 366 | Sabrosa 1540 AM – 1540 AM – Trujillo – PE-LAL | rr5100.globalhost1.com | <https://rr5100.globalhost1.com/8404/stream> |
-| 367 | Tropicalisima – 106.1 FM – Trujillo – PE-LAL | rr5100.globalhost1.com | <https://rr5100.globalhost1.com/8574/stream> |
-| 368 | DESKA Radio – PE-LIM | studio25.radiolize.com | <https://studio25.radiolize.com/radio/8010/radio.mp3> |
-| 369 | Radio Fascinación – PE | sonicpanel.totalstreaming.net | <https://sonicpanel.totalstreaming.net/8046/stream/> |
-| 370 | ADEP RADIO ONLINE – PE-LIM | conectperu.com | <https://conectperu.com/8146/stream> |
-| 371 | Diario Perú – 101.1 FM – PE-CAJ | mpc1.mediacp.eu:8112 | <https://mpc1.mediacp.eu:8112/stream> |
-| 372 | Radio Loreto – Iquitos – PE-LOR | oyotunstream.com:8006 | <http://oyotunstream.com:8006/stream> |
-| 373 | Xtreme Radio – PE-LIM | server.streamingradios.net:7003 | <https://server.streamingradios.net:7003> |
-| 374 | Radio Esfera – Uchiza – Uchiza – PE-SAM | dattavolt.com | <https://dattavolt.com/8008/stream> |
-| 375 | Radio Cosmos Digital – Huacho – Lima region – PE | conectperu.com | <https://conectperu.com/8170/stream> |
-| 376 | Radio Otuzco – Otuzco – PE-LAL | centova.perustream.com:8034 | <http://centova.perustream.com:8034> |
-| 377 | Generación Kpop – PE | stream9.mexiserver.com:8242 | <http://stream9.mexiserver.com:8242/stream?type=http&nocache=384> |
-| 378 | Antena Sur Chincheros – Andahuaylas – PE-APU | radio.perustream.com | <https://radio.perustream.com/8028/stream> |
-| 379 | Remembranzas del Criollismo – PE | sonic.sistemahost.es:7045 | <https://sonic.sistemahost.es:7045> |
-| 380 | Radio IEMPSA – PE-LIM | conectperu.com | <https://conectperu.com/8112/stream> |
-| 381 | Presencia Regional – PE-LAM | dattavolt.com | <https://dattavolt.com/8142/stream> |
-| 382 | Radio Sucre – PE-LIM | server.streamingradios.net:7059 | <https://server.streamingradios.net:7059> |
-| 383 | Radio Tucume – PE-LAM | sp.onliveperu.com:7023 | <https://sp.onliveperu.com:7023> |
-| 384 | Radio Armonia – 91.7 FM – Huaraz – PE-ANC | radio.sistemasandinos.org:7146 | <http://radio.sistemasandinos.org:7146/listen.pls> |
-| 385 | Radio Frecuencia 100 – 100 FM – Trujillo – PE-LAL | oyotunstream.com:7066 | <http://oyotunstream.com:7066/.aac> |
-| 386 | Onda Okey 95.5 FM – 95.5 FM – PE-HUV | conectperu.com | <https://conectperu.com/8238/stream> |
-| 387 | Radio Tv Aroma Del Cielo Oficial – Trujillo – PE-LAL | radio.playerfullhd.com | <https://radio.playerfullhd.com/8108/stream> |
-| 388 | Radio Virus – PE | sp.onliveperu.com | <https://sp.onliveperu.com/8008/stream> |
-| 389 | T3RX Radio – PE | streamingp.shoutcast.com | <http://streamingp.shoutcast.com/JamendoLounge?lang=en-US%2cen%3bq%3d0.5> |
-| 390 | Estacion 90’s radio – Ilo – PE-MOQ | radio.livestreamingmundial.com:7004 | <https://radio.livestreamingmundial.com:7004/live> |
-| 391 | Radio Latina 95.9 FM – 95.9 FM – San José de Sisa – PE-SAM | sp.oyotunstream.com:7006 | <https://sp.oyotunstream.com:7006/type=mp3> |
-| 392 | Reina de la Selva – Chachapoyas – PE-AMA | tupanel.info:8244 | <https://tupanel.info:8244/> |
-| 393 | San Ignacio AM – Otuzco – PE-LAL | rr5100.globalhost1.com | <https://rr5100.globalhost1.com/8512/stream> |
-| 394 | RADIO RUMBO – PE | mediastreamm.com | <https://mediastreamm.com/8008/stream> |
-| 395 | Radio K’arisia – Lluchubamba – PE-CAJ | radio.livestreamingmundial.com:7044 | <https://radio.livestreamingmundial.com:7044/> |
-| 396 | La Super 99.3 FM – 99.3 FM – Soloco – PE-AMA | iwc2.radioonlinehd.com:8053 | <http://iwc2.radioonlinehd.com:8053/stream> |
-| 397 | Radio Apolo – PE-LIM | conectperu.com:7141 | <https://conectperu.com:7141/> |
-| 398 | Radio Titanka – 95.5 FM – Andahuaylas – PE-APU | tupanel.info:8920 | <https://tupanel.info:8920/> |
-| 399 | Señal Pirata Radio – PE | conectperu.com:7040 | <https://conectperu.com:7040> |
-| 400 | Kodama Station – PE-LIM | cast.kodamastation.com | <https://cast.kodamastation.com/radio/8000/radio.mp3> |
-| 401 | Radio Corporación Famicarr – Carabamba – PE-LAL | server.streamingradios.net:7000 | <https://server.streamingradios.net:7000> |
-| 402 | RADIO BULEVAR – PE-TAC | conectperu.com | <https://conectperu.com/8028/stream> |
-| 403 | Radio Vision Peru – PE-LIM | technoplayerserver.net:8106 | <https://technoplayerserver.net:8106> |
-| 404 | Radio Comas FM – PE-LIM | tupanel.info:7390 | <https://tupanel.info:7390/> |
-| 405 | Radio OD Noticias – PE-LIM | conectperu.com:7176 | <https://conectperu.com:7176/> |
-| 406 | Radio Danitza Producciones – PE | miradioperu.com:7016 | <https://miradioperu.com:7016/stream> |
-| 407 | Radio STUDIO 2190 – PE-LIM | radioenlinea.click:8000 | <https://radioenlinea.click:8000/radio.mp3> |
-| 408 | Diáspora Radio – PE-LIM | server6.globalhostla.com:9156 | <https://server6.globalhostla.com:9156/stream> |
-| 409 | Ginocchio RockStar – Chimbote – PE-ANC | sp.onliveperu.com | <https://sp.onliveperu.com/8140/stream> |
-| 410 | Melomana Radio – PE-ARE | melomana.stream.laut.fm | <http://melomana.stream.laut.fm/melomana?t302=2025-12-21_16-26-25&uuid=6ac8dd48-d7ac-4e40-a042-8707f6e8fe17> |
-| 411 | Top 40 Radio – PE-ARE | conectperu.com | <https://conectperu.com/8130/stream> |
-| 412 | Radio Huracan – Jauja – Junín Region – PE | radiosonline.one | <https://radiosonline.one/listen/huracan/radio.mp3> |
-| 413 | Inka Stereo – 100.5 FM – Trujillo – PE-LAL | rr5100.globalhost1.com | <https://rr5100.globalhost1.com/8578/stream> |
-| 414 | Radio Mega Hits Peru – PE | sp.dattavolt.com | <https://sp.dattavolt.com/8024/stream> |
-| 415 | Rescate Rock and Pop radio – Callao – PE | cloudstream2032.conectarhosting.com | <https://cloudstream2032.conectarhosting.com/9558/> |
-| 416 | Radio Estrella – Trujillo – PE-LAL | radio.datahost.pe:9660 | <http://radio.datahost.pe:9660/> |
-| 417 | Radio Victoria – PE | radio.sistemasandinos.org | <https://radio.sistemasandinos.org/7238/stream> |
-| 418 | Radio Melodia AM – PE-ARE | stream.radiomelodia.com.pe:8010 | <https://stream.radiomelodia.com.pe:8010/radio.mp3> |
-| 419 | DUNK Radio – PE-LIM | listen.radioking.com | <https://listen.radioking.com/radio/1743/stream/125> |
-| 420 | Radio Synthpop – PE-LIM | radio.blueditor.com | <https://radio.blueditor.com/8250/stream> |
-| 421 | Radio Vesánico – PE-LIM | radiosonline.one | <https://radiosonline.one/radio/8390/radio.mp3> |
-| 422 | ABN Radio – PE-LIM | jml-stream.com | <https://jml-stream.com/radio/8000/radio.mp3> |
-| 423 | Radio la voz – PE-TAC | radio.sistemasandinos.org:7096 | <http://radio.sistemasandinos.org:7096/> |
-| 424 | Radio Maravillosa – Trujillo – PE-LAL | streaming.servicioswebmx.com | <https://streaming.servicioswebmx.com/8144/stream> |
-| 425 | Radio Lancones – 99.1 FM – Sullana – PE-PIU | radio.livestreamingmundial.com:7020 | <https://radio.livestreamingmundial.com:7020/stream?icy=http> |
-| 426 | Radio Stereo Uno 102.9 FM – 102.9 FM – PE-HUC | server.streamingradios.net:7040 | <https://server.streamingradios.net:7040> |
-| 427 | Rocio y Sus amigos – PE | mx.hdaudiostreaming.com:7202 | <https://mx.hdaudiostreaming.com:7202> |
-| 428 | Radio Carlos Guido – Yunguyo – PE-PUN | server.streamingradios.net:8006 | <https://server.streamingradios.net:8006> |
-| 429 | Arbusa Radio – Trujillo – PE-LAL | rr5100.globalhost1.com | <https://rr5100.globalhost1.com/8570/stream> |
-| 430 | Radio RSD Chimbote – 102.1 FM – Chimbote – PE-ANC | tupanel.info:8240 | <https://tupanel.info:8240/> |
-| 431 | Radio Zona Latina 97.1 FM – 97.1 FM – PE-CAJ | sp.onliveperu.com:7021 | <https://sp.onliveperu.com:7021/> |
-| 432 | Radio Cinetica – 97.3 FM – La Oroya – Junín Region – PE | radio.blueditor.com | <https://radio.blueditor.com/8252/stream> |
-| 433 | Radio Lider TV – PE-LIM | conectperu.com:7145 | <https://conectperu.com:7145/> |
-| 434 | Radio Uno – PE-TAC | stream2.eistreaming.com:10986 | <https://stream2.eistreaming.com:10986/> |
-| 435 | Radio Studio 97 – Trujillo – PE-LAL | rr5100.globalhost1.com | <https://rr5100.globalhost1.com/8598/stream> |
-| 436 | INCLUB Radio – PE | conectperu.com:7008 | <https://conectperu.com:7008/> |
-| 437 | Urbana – Huaraz – PE-ANC | radio.sistemasandinos.org:10905 | <https://radio.sistemasandinos.org:10905/stream> |
-| 438 | Radio Tacna FM – PE-TAC | conectperu.com | <https://conectperu.com/8024/stream/> |
-| 439 | W80 – PE | sonic.portalfoxmix.club:7130 | <https://sonic.portalfoxmix.club:7130/> |
-| 440 | Radio Hits – PE-LAM | dattavolt.com | <https://dattavolt.com/8084/stream> |
-| 441 | Radio Onda Digital – PE-LIM | conectperu.com:7089 | <https://conectperu.com:7089/stream.mp3> |
-| 442 | Radio Nova Uno – PE | sv2.globalhostlive.com:7042 | <http://sv2.globalhostlive.com:7042/stream> |
-| 443 | RADIO CORA 1250 AM – 1250 AM – PE-LIM | mediastreamm.com | <https://mediastreamm.com/radiocora/stream> |
-| 444 | Radio Tv Gracia y Verdad – Iquitos – PE-LOR | sonicpanel.us | <https://sonicpanel.us/8078/stream> |
-| 445 | La Rock N Pop – PE-LIM | panelautodj.innovatestream.pe:10951 | <https://panelautodj.innovatestream.pe:10951> |
-| 446 | Radio La Nube radio | us-b4-p-e-mg17-audio.cdn.mdstrm.com | <https://us-b4-p-e-mg17-audio.cdn.mdstrm.com/live-audio-aw/6598b70f86344b02b58ce836?aid=658ddcc0b2c7835d48fee06d&pid=avyOHNbHIUXixxwlEfppNGLeZfHMvHV7&sid=UP3PyAIoVJofriOK971XmcGrtZunT5lV&uid=YSHdFWiPfVrvh2lOJZOCce7Xo4Fzrsie&es=us-b4-p-e-mg17-audio.cdn.mdstrm.com&ote=1766420813557&ot=Uqeknt1S7joK70G2-v0BFA&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b70f86344b02b58ce836&listenerId=YSHdFWiPfVrvh2lOJZOCce7Xo4Fzrsie> |
-| 447 | Radio Nacional del Peru radio | cdnhd.iblups.com | <http://cdnhd.iblups.com/hls/0773874174fd4eba8bb9eff741d190dc.m3u8> |
-| 448 | Stereo Lima radio | panel.innovatestream.pe | <https://panel.innovatestream.pe/8042/stream> |
-| 449 | Radio Power, Lima radio | conectperu.com:7040 | <https://conectperu.com:7040/stream.nsv> |
-| 450 | LA ROCK N POP radio | panelautodj.innovatestream.pe:10951 | <https://panelautodj.innovatestream.pe:10951/stream> |
-| 451 | Radio Felicidad 88.9 FM radio | 5cefcbf58ba2e.streamlock.net:543 | <https://5cefcbf58ba2e.streamlock.net:543/latino/latino.stream/playlist.m3u8> |
-| 452 | Viva FM 91.9 radio | tupanel.info:8780 | <https://tupanel.info:8780//stream> |
-| 453 | Radio Comas 101.7 FM radio | tupanel.info:7390 | <https://tupanel.info:7390/stream.nsv> |
-| 454 | Radio 1160 radio | us-b4-p-e-pb13-audio.cdn.mdstrm.com | <https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/6598b6e1261d9e088a6de859?aid=658ddcc0b2c7835d48fee06d&pid=5VGSkBJSmAN9lL2j68hIBaYxaAlWORvb&sid=cdpHFhzWvVQyAbJoTYmYFO6iv1E8EXOq&uid=Zv67qwZZazR9iNFcYsk3lRIDq2y9YxgS&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1766420809155&ot=GuOHu83mbacY5k0e2Vq0iA&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b6e1261d9e088a6de859&listenerId=Zv67qwZZazR9iNFcYsk3lRIDq2y9YxgS> |
-| 455 | Herencia Rumbera radio | sonic.streamseguro.com | <https://sonic.streamseguro.com/8020/stream> |
-| 456 | Radio Panamericana radio | us-b4-p-e-qg12-audio.cdn.mdstrm.com | <https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/6598b62dded1380470f4e539?aid=658ddcc0b2c7835d48fee06d&pid=aTpVEeBdrtAEY8hXoVlquBjycAxO0XAr&sid=nCK8k5WqnYAeylVdRKumTemMylQNLvs9&uid=UbxVkn187g6F6bRGOQw2NRlrEjOxNdsy&es=us-b4-p-e-qg12-audio.cdn.mdstrm.com&ote=1766420809005&ot=u29x41LNdrkdXAw8fWEZjg&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b62dded1380470f4e539&listenerId=UbxVkn187g6F6bRGOQw2NRlrEjOxNdsy> |
-| 457 | Aeroestereo 94.3 FM radio | sonic.globalstream.pro | <https://sonic.globalstream.pro/8054/stream> |
-| 458 | Radio Level Hits radio | radio.pjcks.com | <https://radio.pjcks.com/7234/stream> |
-| 459 | Radio Vinilo Perú radio | panel.innovatestream.pe | <https://panel.innovatestream.pe/7246/stream> |
-| 460 | Onda Cero radio | us-b4-p-e-jn18-audio.cdn.mdstrm.com | <https://us-b4-p-e-jn18-audio.cdn.mdstrm.com/live-audio-aw/6598b65ab398c90871aff8cc?aid=658ddcc0b2c7835d48fee06d&pid=KsCJ30n1E0ksI8BlgiQk9yeeASEYXgcv&sid=eF8b5oPDtOacqo5WBccxmhyZHa0bt8oG&uid=qS3lHpXpWeaI9v5A89uPJTobCM8STFnH&es=us-b4-p-e-jn18-audio.cdn.mdstrm.com&ote=1766420813354&ot=rp-lM9yojfzoJMFpykRA0g&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b65ab398c90871aff8cc&listenerId=qS3lHpXpWeaI9v5A89uPJTobCM8STFnH> |
-| 461 | La Vaca radio | radio.streamingnacional.online | <https://radio.streamingnacional.online/8168/stream> |
-| 462 | Radio Chalaca radio | sonicpanel.tmcreativos.com | <https://sonicpanel.tmcreativos.com/8030/stream> |
-| 463 | Poprock Classic radio | music.poprockenlinea.com | <https://music.poprockenlinea.com/listen/poprock/radio.mp3> |
-| 464 | Radio Tacna radio | mediastreamm.com | <https://mediastreamm.com/8056/stream> |
-| 465 | Radio Cumbia Mix radio | us-b4-p-e-ml19-audio.cdn.mdstrm.com | <https://us-b4-p-e-ml19-audio.cdn.mdstrm.com/live-audio-aw/6598b6ab95a235085823b24f?aid=658ddcc0b2c7835d48fee06d&pid=N0l8YHtK2cTOKiNfrx1QmsvbFsOtBByY&sid=zkI4SfZazAORqaznHV6CXKKN0NENQeGF&uid=Xs4B9FXeD2LmfbTd34PtuwjOsnqiyWPJ&es=us-b4-p-e-ml19-audio.cdn.mdstrm.com&ote=1766420813346&ot=oNmYWhjnd9IaItlkIrK-eA&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b6ab95a235085823b24f&listenerId=Xs4B9FXeD2LmfbTd34PtuwjOsnqiyWPJ> |
-| 466 | Radio RSD radio | tupanel.info:8240 | <https://tupanel.info:8240/stream.nsv> |
-| 467 | Radio La Tremenda radio | sp2.servidorrprivado.com | <https://sp2.servidorrprivado.com/8004/stream.mp3> |
-| 468 | Radio Virus radio | sp.onliveperu.com | <https://sp.onliveperu.com/8158/stream> |
-| 469 | Fuego - Usquil radio | server01.heplayer.com | <https://server01.heplayer.com/8112/stream> |
-| 470 | Radio Usquil 96.5 FM radio | server.streamingradios.net | <https://server.streamingradios.net/8128/stream> |
-| 471 | AEROSTEREO radio | panel.aerostereo.com | <https://panel.aerostereo.com/listen/aerostereo/radio.mp3> |
-| 472 | Radio Sudamericana Tarma radio | conectperu.com | <https://conectperu.com/8262/stream.> |
-| 473 | Su Majestad el Bolero radio | conectperu.com | <https://conectperu.com/8366/stream> |
-| 474 | Radio La Rumba Pa'gozar radio | rr5100.globalhost1.com | <https://rr5100.globalhost1.com/8336/> |
-| 475 | Rock N bar radio | sp.dattavolt.com | <https://sp.dattavolt.com/8018/stream> |
-| 476 | Sintonia Latina radio | solid67.streamupsolutions.com:8048 | <http://solid67.streamupsolutions.com:8048/;> |
-| 477 | Radio Elite radio | radio.livestreamingmundial.com | <https://radio.livestreamingmundial.com/9242/> |
-| 478 | Fuego Cristiano radio | mediastreamm.com | <https://mediastreamm.com/8072/stream> |
-| 479 | Radio Hurakan radio | conectperu.com | <https://conectperu.com/8406/stream> |
-| 480 | Radio Victoria En Cristo radio | server.streamingradios.net:8028 | <https://server.streamingradios.net:8028/stream> |
-| 481 | Radio Furor Impresionante! radio | dattavolt.com | <https://dattavolt.com/8188/stream> |
-| 482 | Radio Retro Ilo radio | sp.dattavolt.com | <https://sp.dattavolt.com/8094/stream> |
-| 483 | Radio Esperanza Chepén radio | conectperu.com | <https://conectperu.com/8588/stream> |
-| 484 | Locaza fm radio | sonicpanel.tmcreativos.com | <https://sonicpanel.tmcreativos.com/8056/stream> |
-| 485 | Radio Sónica 103.3 radio | sonica-zikoxweb2.radioca.st | <https://sonica-zikoxweb2.radioca.st/stream> |
-| 486 | Vida Nueva Radio, Trujillo | fpsnew2.listen2myradio.com:2199 | <https://fpsnew2.listen2myradio.com:2199/listen.php?ip=212.84.160.3\u0026port=8924\u0026type=s2\u0026mount=1> |
-| 487 | Radio Peruana Union radio | cloudstream2034.conectarhosting.com | <https://cloudstream2034.conectarhosting.com/8008/stream> |
-| 488 | Radio Power TV radio | dattavolt.com | <https://dattavolt.com/8038/stream> |
-| 489 | La Kaprichoza ke buena radio | sp.oyotunstream.com | <https://sp.oyotunstream.com/9398/stream> |
-| 490 | RCM - Radio Cristo en Mí | radio.andaina.net | <https://radio.andaina.net/8052/stream> |
-| 491 | Radio Apurimeña 100.5 fm radio | sonic.dattassd.com | <https://sonic.dattassd.com/8200/streamstream.nsv> |
-| 492 | Planeta99 radio | sonicpanel.us:8064 | <https://sonicpanel.us:8064/stream> |
-| 493 | Radio Mega Mix siempre va con tigo radio | sp.onliveperu.com | <https://sp.onliveperu.com/8120/stream> |
-| 494 | Radiomundialrn radio | sonic.globalstreaming.net:8238 | <https://sonic.globalstreaming.net:8238/live> |
-| 495 | Alpha plus radio | conectperu.com | <https://conectperu.com/8362/stream> |
-| 496 | Platinium radio | cloudstream2032.conectarhosting.com | <https://cloudstream2032.conectarhosting.com/8116/stream> |
-| 497 | Radio Tucume radio | sp.onliveperu.com:7023 | <https://sp.onliveperu.com:7023/stream.nsv> |
-| 498 | Radio Titanka radio | tupanel.info:8480 | <https://tupanel.info:8480/stream.nsv> |
-| 499 | Radio emanuel7 radio | stm.voxhd.com.br:10224 | <https://stm.voxhd.com.br:10224/> |
-| 500 | Radio la Positiva - carabamba radio | mediastreamm.com | <https://mediastreamm.com/8110/stream> |
-| 501 | Radio Huanuco radio | sonic.globalstream.pro | <https://sonic.globalstream.pro/8072/streamstream.nsv> |
-| 502 | La Juerga radio | conectperu.com | <https://conectperu.com/8276/stream> |
-| 503 | Sin Mordaza radio | radio.livestreamingmundial.com | <https://radio.livestreamingmundial.com/8346/stream> |
-| 504 | Radio Cora radio | mediastreamm.com | <https://mediastreamm.com/8010/stream> |
-| 505 | Vision Radio | sonicpanel.tmcreativos.com | <https://sonicpanel.tmcreativos.com/8010/stream> |
-| 506 | Radio Rumba radio | dattavolt.com | <https://dattavolt.com/8248/stream> |
-| 507 | Radio Horizonte 102.7 FM radio | conectperu.com | <https://conectperu.com/8144/stream> |
-| 508 | Radio Milenio 104.9 FM radio | sonic.dattassd.com | <https://sonic.dattassd.com/9924/steram> |
-| 509 | Flow Cristiano radio | mediastreamm.com | <https://mediastreamm.com/8054/stream> |
-| 510 | Radio Coishco mi Radiomix | sp.oyotunstream.com:10964 | <https://sp.oyotunstream.com:10964/stream.nsv> |
-| 511 | Radio Metropolitana radio | Fps3.listen2myradio.com:2199 | <https://Fps3.listen2myradio.com:2199/listen.php?ip=109.169.23.124\u0026port=8404\u0026type=ice\u0026mount=stream> |
-| 512 | RPP Mundial radio | us-b4-p-e-zs14-audio.cdn.mdstrm.com | <https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/5faee885eb830d06cf22ed4a> |
-| 513 | LAS NOCHES CON ARNOLD RADIO | as100.globalhost1.com | <https://as100.globalhost1.com/8042/stream> |
-| 514 | Radio Del Sur radio | mediastreamm.com | <https://mediastreamm.com/8078/stream> |
-| 515 | Radio Las Vegas radio | radio.perustreaming.net | <https://radio.perustreaming.net/8014/stream> |
-| 516 | Radio Gozo Alabanza radio | sp.dattavolt.com | <https://sp.dattavolt.com/8170/stream> |
-| 517 | Radio Apurimeña 97.3 radio | sonic.dattassd.com | <https://sonic.dattassd.com/8080/stream:stream.nsv> |
-| 518 | Estación Libre - Tambo radio | IPv4 直链 | <http://150.136.177.28:8000/radio.mp3> |
-| 519 | Radio Latina 990 AM radio | stm2.srvif.com:7974 | <https://stm2.srvif.com:7974/stream> |
-| 520 | Radio Otuzco radio | Centova.perustream.com:8034 | <http://Centova.perustream.com:8034/stream.nsv> |
-| 521 | Radio Capullana 95.7 radio | radio.livestreamingmundial.com:7032 | <https://radio.livestreamingmundial.com:7032/> |
-| 522 | Radio Urano fm radio | c6.radioboss.fm:8271 | <https://c6.radioboss.fm:8271/stream> |
-| 523 | Radio Superior Fm | server.streamingradios.net | <https://server.streamingradios.net/8134/stream> |
-| 524 | Radio Khaos radio | khaos.stream.laut.fm | <https://khaos.stream.laut.fm/khaos> |
-| 525 | Radio Poder Sureño radio | conectperu.com | <http://conectperu.com/8038/stream> |
-| 526 | Radio Aeroestereo Online radio | conectperu.com:7025 | <https://conectperu.com:7025/stream?icy=http> |
-| 527 | Radio Fantàstico Piura radio | IPv4 直链 | <http://147.135.130.215:8666/> |
-| 528 | Radio La Rumba Pa'gozar | server.streamingradios.net | <https://server.streamingradios.net/8116/stream> |
-| 529 | Reina de la Selva radio | tupanel.info:8244 | <http://tupanel.info:8244/> |
-| 530 | Radio Melodia Arequipa AM | online.radiodifusion.net:8020 | <http://online.radiodifusion.net:8020/stream.nsv> |
-| 531 | Radio Apurimeña 100.5 fm | sonic.dattassd.com | <https://sonic.dattassd.com/8200/stream> |
-| 532 | Radio Studio Lider Fm | sonic.dattassd.com | <https://sonic.dattassd.com/8080/stream:> |
-| 533 | Radio La Hermosa Perú | vivo.miradio.in | <https://vivo.miradio.in/8080/stream> |
-| 534 | Studio 1 | sp.dattavolt.com:7049 | <https://sp.dattavolt.com:7049/stream.nsv> |
-| 535 | Radio Lamud | cloudstream2036.conectarhosting.com | <https://cloudstream2036.conectarhosting.com/8130/stream> |
-| 536 | Radio Stereo A 103.9 Fm | stream2.eistreaming.com:10992 | <https://stream2.eistreaming.com:10992/stream.nsv> |
-| 537 | PopRock En Línea Directa | whmsonic.playerfullhd.com | <https://whmsonic.playerfullhd.com/8346/stream> |
-| 538 | Radio Millenium Lima | server.streamingradios.net | <https://server.streamingradios.net/8174/stream> |
-| 539 | Radio Cadenatop (Lima) | online.radiodifusion.net:8020 | <http://online.radiodifusion.net:8020/stream/1/> |
-| 540 | Radio Lazer - Trujillo | server.streamingradios.net | <https://server.streamingradios.net/8108/stream> |
-| 541 | Radio Libertad de Junín | radio.transmite.pe:9342 | <http://radio.transmite.pe:9342/stream/1/> |
-| 542 | Radio Calor (Huancayo) | corporacionlatina.com:8000 | <http://corporacionlatina.com:8000/stream/1/> |
-| 543 | Radio Super Latina Mono (Huancayo) | corporacionlatina.com:7004 | <http://corporacionlatina.com:7004/stream/1/> |
-| 544 | Radio Victoria En Cristo | server.streamingradios.net | <https://server.streamingradios.net/8048/stream> |
-| 545 | Metropolitana Radio Peruana (Lima) | IPv4 直链 | <http://99.198.110.162:8130/stream/1/> |
-| 546 | Radio Sistemas (Cusco) | player.xcast.com.br | <https://player.xcast.com.br/proxy/7362> |
-| 547 | Radio Estación X 102.1 FM | whmsonic.playerfullhd.com | <https://whmsonic.playerfullhd.com/8342/stream> |
-| 548 | Libertad Online | sechin.grupocentroserver.com | <https://sechin.grupocentroserver.com/radio/8020/radio.mp3> |
-| 549 | Radio Yaravi (Arequipa) | tupanel.info:2000 | <https://tupanel.info:2000/stream/radioyaravi/stream/1/> |
-| 550 | Radio Norandina de Celendin | mediastreamm.com | <https://mediastreamm.com/8012/stream> |
-| 551 | Cadena Top Radio Reggae (Lima) | online.radiodifusion.net:8054 | <http://online.radiodifusion.net:8054/stream/1/> |
-| 552 | MALKI Radio World Music | tupanel.info:8244 | <https://tupanel.info:8244/stream/1/> |
-| 553 | Radio Los Angeles (Chepen) | IPv4 直链 | <http://94.23.159.187:9950/stream/1/> |
-| 554 | Radio Uyay | conectperu.com | <https://conectperu.com/8196/stream/1/> |
-| 555 | Radio María | dreamsiteradiocp4.com:8020 | <http://dreamsiteradiocp4.com:8020/stream/1/> |
-| 556 | Radio Chevere (Caraz) | radio.sistemasandinos.org:7084 | <http://radio.sistemasandinos.org:7084/stream/1/> |
-| 557 | Radio La Luz (Lima) | radio.transmite.pe:9310 | <http://radio.transmite.pe:9310/stream/1/> |
-| 558 | Radio Vida Cusco - AM | radio.transmite.pe:9318 | <http://radio.transmite.pe:9318/stream> |
-| 559 | GISS RADIO | radio.gisslive.com:9000 | <http://radio.gisslive.com:9000/> |
-| 560 | Radio Emanuel de Tocache | myradiostream.com | <http://myradiostream.com/200925> |
-| 561 | Radio Fantàstico Piura | IPv4 直链 | <http://147.135.130.215:8666/;> |
-| 562 | KOOL FLASHBACK | radio.sistemasandinos.org | <https://radio.sistemasandinos.org/7354/stream> |
-| 563 | Radio Od Noticias | server.streamingradios.net | <https://server.streamingradios.net/8028/;> |
-| 564 | RADIO LA ESTACION.FM | tustreaming.co | <https://tustreaming.co/AUDIO/LAESTACION/> |
-| 565 | Radio Apurimaq | sonic.dattassd.com:8080 | <http://sonic.dattassd.com:8080/> |
-| 566 | KISS FM | panelautodj.innovatestream.pe:10829 | <https://panelautodj.innovatestream.pe:10829/;stream.nsv> |
-| 567 | Radio Clasica Rock&amp;Pop | tupanel.info:9910 | <https://tupanel.info:9910/;stream.nsv> |
-| 568 | JVM la Estación | jvmlaestacion.stream.laut.fm | <http://jvmlaestacion.stream.laut.fm/jvmlaestacion?t302=2025-12-21_16-30-24&uuid=2e45f943-3a82-4631-a394-c8b03b969aae> |
-| 569 | Radio Exito 97.9 FM | nazca.globalhost1.com | <https://nazca.globalhost1.com/8030/stream> |
-| 570 | Radio Deep Music | sbc-radio.stream.laut.fm | <https://sbc-radio.stream.laut.fm/sbc-radio?t302=2023-04-25_20-33-27&uuid=dc5bb021-c024-4110-8492-523b69bcd16a> |
-| 571 | Radio Nueva Jerusalén | server.streamingradios.net:8214 | <https://server.streamingradios.net:8214/stream> |
-| 572 | VOX FM | us-b4-p-e-pb13-audio.cdn.mdstrm.com | <https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/60bfd82b9488941e9d86eb1d/playlist.m3u8?aid=5b8ea6f89ff52d0770a144c4&pid=CupTnKqJK07lu5BOZeqB5IrnhwzCwS6S&sid=GTHRBaWN0V6ayrGmr7csnlvS6pY0KIdN&uid=OCB0GpQhcgsn3OFEzj5mls5nXREs8mic&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1695206243496&ot=OkOnWgLo6P7CD-QTm9d47w&proto=https&pz=us&cP=128000&awCollectionId=5b8ea6f89ff52d0770a144c4&liveId=60bfd82b9488941e9d86eb1d&listenerId=OCB0GpQhcgsn3OFEzj5mls5nXREs8mic> |
-| 573 | Retro Latin Hits (Lima) Radio | stream02.pcradio.biz | <https://stream02.pcradio.biz/rad_rtrltnhts-med> |
-| 574 | La 10 FM Está Buenaza | server.streamingradios.net:8074 | <http://server.streamingradios.net:8074/;> |
-| 575 | Radio Rumbo La Radio Que Se Ve | fps3.listen2myradio.com:2199 | <https://fps3.listen2myradio.com:2199/listen.php?ip=109.169.23.124&port=8404&type=ice&mount=stream> |
-| 576 | Radio Altura de Ancash | stream.mediatexcomunicaciones.com:7030 | <https://stream.mediatexcomunicaciones.com:7030/;> |
-| 577 | Generación Kpop | stream9.mexiserver.com:7122 | <https://stream9.mexiserver.com:7122/stream?icy=http> |
-| 578 | Radio Nacional Del Peru | cdnhd.iblups.com | <https://cdnhd.iblups.com/hls/0773874174fd4eba8bb9eff741d190dc.m3u8> |
-| 579 | Radio Central Galactica | sonic.dattassd.com | <https://sonic.dattassd.com/4062/stream> |
-| 580 | Jov | panelautodj.innovatestream.pe:10993 | <https://panelautodj.innovatestream.pe:10993/stream?icy=http> |
-| 581 | Radio Central Mix | sp.oyotunstream.com | <https://sp.oyotunstream.com/60004/stream> |
-| 582 | Bella Radio 88.5 | server01.heplayer.com | <https://server01.heplayer.com/8150/stream> |
-| 583 | RPP Mundial | us-b4-p-e-zs14-audio.cdn.mdstrm.com | <https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/5faee885eb830d06cf22ed4a?aid=5faaeb72f92d7b07dfe10181&pid=y9eerynDMGplJvZGzhhhxeiGZQ8qxJ0x&sid=YwdhPDrccA5iNGXcasTljS59bjbzamjZ&uid=1zfBrEVff0K0jT1nL7yI2op7rxXgppL0&es=us-b4-p-e-pb13-audio.cdn.mdst> |
-| 584 | Radio Armonia 97.5 | streamhotsperu.purosurfm.com:8140 | <https://streamhotsperu.purosurfm.com:8140/radioArmonia/status-json.xsl//radioArmonia> |
-| 585 | LatinPOP | music.poprockenlinea.com | <https://music.poprockenlinea.com/listen/latin/radio.mp3> |
-| 586 | Radio Disco Plus 103.3 FM | streaming.servernorte.com | <https://streaming.servernorte.com/8146/stream> |
-| 587 | Radio RPP Mundial | us-b4-p-e-cg11-audio.cdn.mdstrm.com | <https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5faee885eb830d06cf22ed4a> |
-| 588 | El Refugio Del Puma | radio.perustreaming.net | <https://radio.perustreaming.net/8006/stream> |
-| 589 | RPP Mundial (Check 25/11/2022) | us-b4-p-e-qg12-audio.cdn.mdstrm.com | <https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/5faee885eb830d06cf22ed4a> |
-| 590 | ElBarranquino Radio | panel.foxradios.com:8020 | <https://panel.foxradios.com:8020/live> |
-| 591 | Radio Rockas | radio.perustreaming.net | <https://radio.perustreaming.net/8008/stream> |
-| 592 | Radio Poprock Heavin | music.poprockenlinea.com | <https://music.poprockenlinea.com/listen/heavin/radio.mp3> |
-| 593 | RPP Mundial (Perú) | us-b4-p-e-cg11-audio.cdn.mdstrm.com | <https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5faee885eb830d06cf22ed4a/playlist.m3u8?listeningSessionID=636caa560fe65225_1006885_YNhDxhXb__0000001B3Ny&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=4KOWgzZ9nfekeotUYauzmeKrOQfRCQma&sid=LhXvvJVKZUrLvqSvYiI4DFZ2YiVMf0Uw&pid=GhVrREycHyvqzg9XezY4IhgwwgiPzsgQ&ref=audioplayer.pe&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1669158810445&ot=-57RkzEDB4oSQczBsPKIMw&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&aw_0_1st.playerId=audioplayer_web&liveId=5faee885eb830d06cf22ed4a&referer=https%3A%2F%2Faudioplayer.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=v0.0.199> |
-| 594 | Radio Platinium Rock And Pop | panelautodj.innovatestream.pe | <https://panelautodj.innovatestream.pe/8336/stream> |
-| 595 | Radio Poprock Alternativo | music.poprockenlinea.com | <https://music.poprockenlinea.com/listen/alternativo/radio.mp3> |
-| 596 | Radio Play Peru | radioplay.egostreaming.pe | <https://radioplay.egostreaming.pe/c83a-4d7e-9d15-29d2e2fa4f8e> |
-| 597 | Radio MALKI Latino | radio.andaina.net | <https://radio.andaina.net/radiomalkilatino/stream> |
-| 598 | CJ rad - 0 - Peru - classical | conectperu.com | <https://conectperu.com/8012/stream> |
-| 599 | RADIO S M M 98.5 FM | maximacenterdata.com | <https://maximacenterdata.com/8116/stream> |
-| 600 | Radio Besame | radiobesame.egostreaming.pe | <https://radiobesame.egostreaming.pe/radiobesame> |
-| 601 | Radio La Cheverísima - Utcubamba  - 192 - Peru - | sp.onliveperu.com | <https://sp.onliveperu.com/8114/stream/;> |
-| 602 | Radio La Voz del Nor Oriente - Utcubamba - 128 - Peru - | sp.onliveperu.com:7038 | <https://sp.onliveperu.com:7038/;> |
-| 603 | Radio Milenium - Bagua Grande - 192 - Peru - | sp.onliveperu.com | <https://sp.onliveperu.com/8102/stream> |
-| 604 | RADIO INTIRAYMI DEL CUSCO 830 AM - 128 - Peru - | streamhotsperu.purosurfm.com:8150 | <https://streamhotsperu.purosurfm.com:8150/intiraymi> |
-| 605 | PortalCumbia.PE | conectperu.com:7159 | <https://conectperu.com:7159/stream?icy=http> |
-| 606 | Radio Amor por Cable - 128 - Peru - amor - baladas - baladas en español - music - musica romantica - pop - reggaeton - urbano | conectperu.com:7111 | <https://conectperu.com:7111/;> |
-| 607 | Radio Astoria Iquitos 94.9 FM - 128 - Peru - cristiana - evangelio - gospel - religious | conectperu.com:7112 | <https://conectperu.com:7112/;> |
-| 608 | Radio Superstereo | IPv4 直链 | <http://51.89.173.53:8031/stream> |
-| 609 | Peru folk radio - 128 - Peru - | raymistream.net | <https://raymistream.net/listen/perufolkradio/live> |
-| 610 | Fuego Cristiano | mediastreamm.com:7035 | <https://mediastreamm.com:7035/> |
-| 611 | radiomegamixperufm | sonicpanel.globalstream.pro | <https://sonicpanel.globalstream.pro/8070/stream> |
-| 612 | Cita Romántica | ec5.yesstreaming.net:1490 | <https://ec5.yesstreaming.net:1490/stream> |
-| 613 | Studio Mix - Progreso -  Amazonas en Vivo - 0 - Peru - | icy.unitedradio.it | <http://icy.unitedradio.it/SubasioPerUnOraDAmore.mp3> |
-| 614 | MALKI RETRO - Radio Pop, Rock & Latino | radio.andaina.net | <https://radio.andaina.net/8054/stream> |
-| 615 | Peruana Radio | cloudstream2036.conectarhosting.com:7176 | <https://cloudstream2036.conectarhosting.com:7176/> |
-| 616 | Tropikana Radio | radios.cosit.pe | <https://radios.cosit.pe/8007/stream.mp3> |
-| 617 | KISS FM, Cajamarca | panelautodj.innovatestream.pe:10829 | <https://panelautodj.innovatestream.pe:10829/> |
-| 618 | Radio Las Vegas - Te Activa | panel.innovatestream.pe | <https://panel.innovatestream.pe/7286/stream> |
-| 619 | Vida Nueva Radio | fps2.listen2myradio.com:2199 | <https://fps2.listen2myradio.com:2199/listen.php?ip=109.169.23.17&port=9760&type=s2&mount=1> |
-| 620 | PENTAGRAMA LATINOAMERICANO Radio Folk | radio.andaina.net | <https://radio.andaina.net/pentagramalatino/stream> |
-| 621 | RCM - Radio CRISTO en MI - Música que te Habla | radio.andaina.net | <https://radio.andaina.net/rcm/stream> |
-| 622 | Radio Trinidad 1070 AM | maximacenterdata.com | <https://maximacenterdata.com/8056/stream> |
-| 623 | Radio Perfeccion FM | maximacenterdata.com | <https://maximacenterdata.com/8092/stream> |
-| 624 | Radio Adventista Jumbilla | server2.ejeserver.com:8086 | <https://server2.ejeserver.com:8086/live> |
-| 625 | Radio Maria Peru | dreamsiteradiocp.com:8074 | <http://dreamsiteradiocp.com:8074/> |
-| 626 | Radio La Típica de Cusco | server.streamingradios.net:8002 | <https://server.streamingradios.net:8002/stream> |
-| 627 | Radio Corbán Perú | mediastreamm.com | <https://mediastreamm.com/8222/stream> |
-| 628 | Zona Radio Activa | tupanel.info:9940 | <https://tupanel.info:9940/stream> |
-| 629 | Radio Rumba | radio.sistemasandinos.org | <https://radio.sistemasandinos.org/7504/stream> |
-| 630 | Radio Kalor | conectperu.com | <https://conectperu.com/8076/stream> |
-| 631 | Radio La Mega 94.9 Fm | audio.miradioenvivo.com:10913 | <https://audio.miradioenvivo.com:10913/live> |
-| 632 | Antenna Web Arequipa Radio | italiavera.radioca.st | <https://italiavera.radioca.st/stream> |
-| 633 | Radio Kilowatt | mediastreamm.com | <https://mediastreamm.com/8036/stream> |
-| 634 | Radio Coral 97.5 Fm | maximacenterdata.com | <https://maximacenterdata.com/8052/stream> |
-| 635 | Radio Megamix  Mollendo | stream.teranproducciones.pro | <https://stream.teranproducciones.pro/8172/stream> |
-| 636 | Evangelio Eterno Radio | sp.onliveperu.com | <https://sp.onliveperu.com/8172/stream> |
-| 637 | Radio Fm suprema | radio.juanjuistream.uk | <https://radio.juanjuistream.uk/listen/radiosuprema/stream> |
-| 638 | Radio J Mix Juanjui | radio.juanjuiserver.com:8110 | <https://radio.juanjuiserver.com:8110/radio.mp3> |
-| 639 | Radio Arusureños | conectperu.com | <https://conectperu.com/8522/stream> |
-| 640 | Radio Soul Songs | live.radiorockhits.com | <https://live.radiorockhits.com/listen/radiosoulsongs/radio.mp3> |
-| 641 | Radio Sureña Puno | sp.oyotunstream.com:8050 | <https://sp.oyotunstream.com:8050/stream> |
-| 642 | Onda 7 Radio | sp1.streamingssl.com | <https://sp1.streamingssl.com/8074/stream> |
-| 643 | Radio la Jefa | panelautodj.innovatestream.pe:10987 | <https://panelautodj.innovatestream.pe:10987/stream> |
-| 644 | Ok Radio Retro | sonicpanel.zonaradio.net | <https://sonicpanel.zonaradio.net/8050/stream> |
-| 645 | ElOchentero.com Radio | stream.cajamarcahost.com | <https://stream.cajamarcahost.com/8154/stream> |
-| 646 | Onda Stereo Radio | audiostream.site | <https://audiostream.site/listen/ondastereo/stream> |
-| 647 | Radio Luz de Tarma | radio.publikarte.com.pe | <https://radio.publikarte.com.pe/listen/radioluz/stream> |
-| 648 | Radio Ondas Del Misti | maximacenterdata.com | <https://maximacenterdata.com/8124/stream> |
-| 649 | CADENA CRISTIANA DEL PERU Radio | maximacenterdata.com | <https://maximacenterdata.com/8104/stream> |
-| 650 | Radio Maxima FM | maxradio.azuracast.com.es:8020 | <https://maxradio.azuracast.com.es:8020/AQP.mp3> |
-| 651 | huallagaonline.com Radio | conectperu.com | <https://conectperu.com/8472/stream> |
-| 652 | Radio Sonika | audio.miradioenvivo.com:10938 | <https://audio.miradioenvivo.com:10938/stream> |
-| 653 | n2 Perú Radio | server01.heplayer.com | <https://server01.heplayer.com/8116/stream> |
-| 654 | Radio Rock | mediastreamm.com:8134 | <http://mediastreamm.com:8134/stream> |
-| 655 | Radio Otuzco | Centova.perustream.com:8034 | <http://Centova.perustream.com:8034/stream> |
-| 656 | Rumba Music 106.9 Fm &quot;Esta Buenaza&quot; Radio | radio.sistemasandinos.org | <https://radio.sistemasandinos.org/7516/stream> |
-| 657 | Radio Sucre 100.5 Fm | server.streamingradios.net:8120 | <https://server.streamingradios.net:8120/stream> |
-| 658 | Mas RocknPop Radio | streaming.masrocknpop.com:7093 | <https://streaming.masrocknpop.com:7093/> |
-| 659 | Armonía 10 Radio | antenapiura.stream.laut.fm | <https://antenapiura.stream.laut.fm/antenapiura?t302=2025-12-21_16-31-05&uuid=71d283f6-2cf6-439f-a39f-5acedb18cf90> |
-| 660 | Radio Sotelo Llamellin 101.3FM | live.radiofolkperu.com | <https://live.radiofolkperu.com/listen/radiosotelo/radio.mp3> |
-| 661 | Radio Tropicana | cloud9.ldwebstudios.net:7004 | <https://cloud9.ldwebstudios.net:7004/> |
-| 662 | Hits radio | radios.medialive.stream:7013 | <https://radios.medialive.stream:7013/stream> |
-| 663 | Radio Arumarka Rock 80s. | conectperu.com | <https://conectperu.com/8520/stream> |
-| 664 | VOX FM Radio | panel.innovatestream.pe:10887 | <https://panel.innovatestream.pe:10887/stream> |
-| 665 | Radio Cafe Lepa | maxradio.azuracast.com.es:8000 | <https://maxradio.azuracast.com.es:8000/CAFELEPA.mp3> |
-| 666 | RADIO MAXIMA FM | maxradio.azuracast.com.es:8020 | <https://maxradio.azuracast.com.es:8020/HUARAZ.mp3> |
-| 667 | Radio Nova - Piura | panel.innovatestream.pe:10987 | <https://panel.innovatestream.pe:10987/undefined> |
-| 668 | Stereo 33 Radio | maximacenterdata.com | <https://maximacenterdata.com/8092/STEREO33> |
-| 669 | Radio Metrópolis  (Puno - Perú ) | virtual5.emisorasvirtuales.com:8260 | <https://virtual5.emisorasvirtuales.com:8260/live> |
-| 670 | Kiss Fm Arequipa Radio | panelautodj.innovatestream.pe:10829 | <https://panelautodj.innovatestream.pe:10829/stream/1/> |
-| 671 | La Rueda Radio | conectperu.com | <https://conectperu.com/8508/stream> |
-| 672 | Radio Paz - Poder De Dios | sp.oyotunstream.com:8072 | <https://sp.oyotunstream.com:8072/> |
-| 673 | Radio Imperial TV | sechin.grupocentroserver.com | <https://sechin.grupocentroserver.com/listen/imperial_angaraes/radio.mp3> |
-| 674 | Radio Market | raymistream.net | <https://raymistream.net/listen/radiomarket/live> |
-| 675 | Radio Esfera | mediastreamm.com | <https://mediastreamm.com/8202/stream> |
-| 676 | Radio La Única | eu57-sonic.instainternet.com | <https://eu57-sonic.instainternet.com/8158/stream> |
-| 677 | okey Radio | fpsnew1.listen2myradio.com:2199 | <https://fpsnew1.listen2myradio.com:2199/listen.php?ip=82.145.63.6&ampport=4784&amptype=s1> |
-| 678 | Voz que clama en el desierto Radio | hd.streamingfullhd.net | <https://hd.streamingfullhd.net/8162/stream/1/> |
-| 679 | Radio Titanka | tupanel.info:8480 | <https://tupanel.info:8480/stream> |
-| 680 | Radio Universo 88.3 FM | panel.innovatestream.pe:10896 | <https://panel.innovatestream.pe:10896/> |
-| 681 | Radio Doble N | conectperu.com:7035 | <https://conectperu.com:7035/stream> |
-| 682 | Radio Yakumama | panelautodj.innovatestream.pe:10685 | <https://panelautodj.innovatestream.pe:10685/yakumama> |
-| 683 | Radio Silencio 101.3 Fm | maxradio.azuracast.com.es:8020 | <https://maxradio.azuracast.com.es:8020/RADIOSILENCIOAREQUIPA.mp3> |
-| 684 | Radio la VOZ del SUR Moquegua | sonicpanel.us:8102 | <https://sonicpanel.us:8102/stream> |
-| 685 | Radio Apurimeña 97.9 | sonic.dattassd.com | <https://sonic.dattassd.com/8080/streamstream.nsv> |
-| 686 | RADIO METROPOLITANA  AREQUIPA | maximacenterdata.com | <https://maximacenterdata.com/8120/stream> |
-| 687 | Radio Carlos Guido | server.streamingradios.net:8196 | <https://server.streamingradios.net:8196/stream> |
-| 688 | Radio Paz | panelautodj.innovatestream.pe:10939 | <https://panelautodj.innovatestream.pe:10939/stream> |
-| 689 | Radio Sureña - Azangaro | sp.oyotunstream.com:8052 | <https://sp.oyotunstream.com:8052/> |
-| 690 | Radio rock peruano | mediastreamm.com:7066 | <https://mediastreamm.com:7066/stream> |
-| 691 | Radio Sonrisa | radioshd.meytam.com.pe | <https://radioshd.meytam.com.pe/8002/stream> |
-| 692 | Radio Nor Andina | conectperu.com | <https://conectperu.com/8122/stream> |
-| 693 | Radio La Ribereña - Camaná | streaming.serviclictecnologia.com:8058 | <https://streaming.serviclictecnologia.com:8058> |
-| 694 | Radio Nova - Trujillo | panel.innovatestream.pe:10989 | <https://panel.innovatestream.pe:10989/> |
-| 695 | Radio LaMega Fiesta | conectperu.com | <https://conectperu.com/8250/stream> |
-| 696 | Emanuel7tv Radio | stmv6.voxtvhd.com.br | <https://stmv6.voxtvhd.com.br/emanueltv/emanueltv/playlist.m3u8> |
-| 697 | Galasy Radio Online | fdsfdsfdsf.radio12345.com | <https://fdsfdsfdsf.radio12345.com/intro.mp3> |
-| 698 | Radio La Estacion.fm | emisorasdigitales2.com:7023 | <https://emisorasdigitales2.com:7023/stream> |
-| 699 | Radio Nova - Chiclayo | panel.innovatestream.pe:10991 | <https://panel.innovatestream.pe:10991/> |
-| 700 | Radio Titanka - Andahuaylas | tupanel.info:8920 | <https://tupanel.info:8920/stream> |
-| 701 | AEROSTEREO Radio | panel.aerostereo.com:8000 | <https://panel.aerostereo.com:8000/radio.mp3> |
-| 702 | Radio Neysan Plus | nazca.globalhost1.com:8040 | <https://nazca.globalhost1.com:8040/> |
-| 703 | supermix juanjui Radio | radio.juanjuiserver.com:8120 | <https://radio.juanjuiserver.com:8120/radiosupermix.mp3> |
-| 704 | Radio Sintonia - La Q pega Bien | sonic.globalstream.pro | <https://sonic.globalstream.pro/8112/stream> |
-| 705 | Radio RSD | tupanel.info:8240 | <https://tupanel.info:8240/stream> |
-| 706 | Radio SinPatrones | panelautodj.innovatestream.pe:10685 | <https://panelautodj.innovatestream.pe:10685/puno> |
-| 707 | La Juerga Radio | conectperu.com | <https://conectperu.com/8134/stream> |
-| 708 | RadioTV Qorisonqo | mediastreamm.com:7115 | <https://mediastreamm.com:7115/> |
-| 709 | Radio Sin Patrones | panelautodj.innovatestream.pe:10685 | <https://panelautodj.innovatestream.pe:10685/> |
-| 710 | Radio Extramix | virtual4.emisorasvirtuales.com:8180 | <https://virtual4.emisorasvirtuales.com:8180/live> |
-| 711 | Radio Nycoll en vivo - 90.9 FM | mediastreamm.com | <https://mediastreamm.com/8068/stream> |
-| 712 | Radio Fiesta - Tacna | streaming.serviclictecnologia.com:8056 | <https://streaming.serviclictecnologia.com:8056/> |
-| 713 | Wiñaymarka Radio | server.streamingradios.net:8184 | <https://server.streamingradios.net:8184/> |
-| 714 | Megasat Radio | panelautodj.innovatestream.pe | <https://panelautodj.innovatestream.pe/8254/stream> |
-| 715 | Radio Rutas Peru | securestream.radioshd.info | <https://securestream.radioshd.info/9376/stream> |
-| 716 | Radio Star Mollendo | maximacenterdata.com | <https://maximacenterdata.com/8004/stream> |
-| 717 | El Refugio del Puma Radio | radio.perustreaming.net:8006 | <https://radio.perustreaming.net:8006/stream/> |
-| 718 | Radio Sabor Mix - Majes Pedregal | a11.asurahosting.com:8070 | <https://a11.asurahosting.com:8070/radio.mp3> |
-| 719 | Qhaphiya Radio | server.streamingradios.net | <https://server.streamingradios.net/8004/stream.mp3> |
-| 720 | Radio Frecuencia Del Espíritu Santo | streaming.serviclictecnologia.com:8060 | <https://streaming.serviclictecnologia.com:8060/> |
-| 721 | Radio Tropikana | tupanel.info:9930 | <https://tupanel.info:9930/stream> |
-| 722 | San Miguel de Coina Radio | server01.heplayer.com | <https://server01.heplayer.com/8184/stream> |
-| 723 | Radio Tucume | sp.onliveperu.com:7023 | <https://sp.onliveperu.com:7023/stream> |
-| 724 | Radio RPP Noticias | us-b4-p-e-ml19-audio.cdn.mdstrm.com | <https://us-b4-p-e-ml19-audio.cdn.mdstrm.com/live-audio-aw/5fab3416b5f9ef165cfab6e9?aid=5faaeb72f92d7b07dfe10181&pid=Xqms6wIfX2XFjXGypTuWZ9kdUwmMXaBl&sid=qY4lsX78PzxTwm9V2qFru2lWJoiWynTi&uid=YpxAiyximQTDKkjZWR702RBTYjX6Y8ll&es=us-b4-p-e-ml19-audio.cdn.mdstrm.com&ote=1769973296335&ot=yS1Tt7yNLY4wONvqJtZgmg&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fab3416b5f9ef165cfab6e9&listenerId=YpxAiyximQTDKkjZWR702RBTYjX6Y8ll> |
-| 725 | Panamericana Retro Rock | us-b4-p-e-ml19-audio.cdn.mdstrm.com | <https://us-b4-p-e-ml19-audio.cdn.mdstrm.com/live-audio-aw/6598b728d982060896866b8a?aid=658ddcc0b2c7835d48fee06d&pid=G7ssyjSqlzcNhQgCYHuhwpF10JtOnF5V&sid=vuVIk8TMrxYUm4dOUDsQZkL3HLrl64Ae&uid=gNLa3n98JzJUmbBSRuFDOXzk2yEzGpEi&es=us-b4-p-e-ml19-audio.cdn.mdstrm.com&ote=1769973297074&ot=tsY1n-zxj5oSIe6nraAT_g&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b728d982060896866b8a&listenerId=gNLa3n98JzJUmbBSRuFDOXzk2yEzGpEi> |
-| 726 | Z Rock & Pop | radioz.egostreaming.pe | <https://radioz.egostreaming.pe/radio/3e4f6a1b2c3d4e567890abcd/> |
-| 727 | Generacion Kpop | stream9.mexiserver.com:8242 | <http://stream9.mexiserver.com:8242/stream> |
-| 728 | Radio La Cheverísima - Utcubamba | sp.onliveperu.com | <https://sp.onliveperu.com/8114/stream/> |
-| 729 | Radio Nova peru | panel.innovatestream.pe:10990 | <https://panel.innovatestream.pe:10990/undefined> |
-| 730 | Radio La Voz del Nor Oriente - Utcubamba | sp.onliveperu.com:7038 | <https://sp.onliveperu.com:7038/> |
-| 731 | Radio Nova | panel.innovatestream.pe:10989 | <https://panel.innovatestream.pe:10989/stream> |
-| 732 | Melodia Arequipa | stream.radiomelodia.com.pe:8000 | <http://stream.radiomelodia.com.pe:8000/radio.mp3> |
-| 733 | RADIO HUANCAYO | cloud9.ldwebstudios.net:7000 | <https://cloud9.ldwebstudios.net:7000/stream> |
-| 734 | Radio 1160 Peru | us-b4-p-e-pb13-audio.cdn.mdstrm.com | <https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/6598b6e1261d9e088a6de859?aid=658ddcc0b2c7835d48fee06d&pid=G3FnIvg2s2uxHg1lIbLUlWa3cFT5KPBg&sid=XAAefdCCMC9B9MvNg9TwqdstYTKnk3li&uid=Nkdb2uczAeFQEIGw1fojci2BEYfd4Tye&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1711464716330&ot=YgiDR9HDtOJKN3UCFo0-xg&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b6e1261d9e088a6de859&listenerId=Nkdb2uczAeFQEIGw1fojci2BEYfd4Tye> |
-| 735 | Radio Panamericana | us-b4-p-e-cg11-audio.cdn.mdstrm.com | <https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/6598b62dded1380470f4e539?aid=658ddcc0b2c7835d48fee06d&pid=ddwZWXtBLPc53gEO8C88Jc9N6mngOYJw&sid=QfrzWQQfj9zHnvogx2q9ZL1HQP9ePVOr&uid=ExUcqanQ5L0NJkX9dG6QXvof0IybQpj3&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1769973297704&ot=VvXBrRTSfaybSJyJzimIEQ&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b62dded1380470f4e539&listenerId=ExUcqanQ5L0NJkX9dG6QXvof0IybQpj3> |
-| 736 | La Kalle 96.1 Lima | lakalle.egostreaming.pe | <https://lakalle.egostreaming.pe/radio/a7b9c3e4567f8d0123456789/> |
-| 737 | Radio Cumbia Mix | us-b4-p-e-jn18-audio.cdn.mdstrm.com | <https://us-b4-p-e-jn18-audio.cdn.mdstrm.com/live-audio-aw/6598b6ab95a235085823b24f?aid=658ddcc0b2c7835d48fee06d&pid=1grlRLiJUedRx6L8Zkz8RaR4tdtTZFtH&sid=AWX5feu1mhwkExMkdegC6uaZEWW00ktQ&uid=rIN3d2ynfU96zISHccV8uRLbdWvH75YP&es=us-b4-p-e-jn18-audio.cdn.mdstrm.com&ote=1769973298124&ot=dpa1JhwiGMOIov67a2OcLg&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b6ab95a235085823b24f&listenerId=rIN3d2ynfU96zISHccV8uRLbdWvH75YP> |
-| 738 | Karibeña | karibena.egostreaming.pe | <https://karibena.egostreaming.pe/radio/6898b6e52d9e088a6de159/> |
-| 739 | Radio Megamix Lima | us-b4-p-e-cg11-audio.cdn.mdstrm.com | <https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5fada56fe4e09508207a7951/playlist.m3u8?aid=5faaeb72f92d7b07dfe10181&pid=0dlHTWVivFNco4kWt821CsXhnVIXJowN&sid=px1Hb89ImN4pIZKFOlHBFYWscdTsu4Dn&uid=YYcwOpnRqVh3hya21X1Au5jJAZ5ber9u&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1769973302509&ot=YJOcLYqNin3eZwYuAcAs7g&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada56fe4e09508207a7951&listenerId=YYcwOpnRqVh3hya21X1Au5jJAZ5ber9u> |
-| 740 | Radio Yaraví | tupanel.info | <https://tupanel.info/stream/radioyaravi/stream> |
-| 741 | Viva FM Smart | tupanel.info:8780 | <https://tupanel.info:8780/stream> |
-| 742 | Radio Stereo G La Grande - Rodriguez de Mendoza | dattavolt.com | <https://dattavolt.com/8138/stream> |
-| 743 | Radio Felicidad 88.9 | us-b4-p-e-cg11-audio.cdn.mdstrm.com | <https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5fad731fcf097a068af3c8f7?aid=5faaeb72f92d7b07dfe10181&pid=SizD5IcXgPshdy2BwoWzgwJctGVgzody&sid=B0q6kSXWs6cQPQRiJqIogfMHbN23pxb7&uid=LJN7A0fUFg9cKmpDPCjkzO4dAyC27D3c&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1769973297522&ot=Vgn1qmbwovtG7HvKL752Kw&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fad731fcf097a068af3c8f7&listenerId=LJN7A0fUFg9cKmpDPCjkzO4dAyC27D3c> |
-| 744 | Radio Stereo 99 - Bagua Grande | sechin.grupocentroserver.com | <https://sechin.grupocentroserver.com/radio/8300/radio.mp3> |
-| 745 | Onda Cero Te Activa | us-b4-p-e-zs14-audio.cdn.mdstrm.com | <https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/6598b65ab398c90871aff8cc?aid=658ddcc0b2c7835d48fee06d&pid=pErBsQIKgMqbGUsc3CPjsGywZCcTjFMr&sid=BdR91dCdI1k6TIioStlCPesbYRddyJtJ&uid=uqjtqPFeTmM5V8LSP8or4JU490HBdCUm&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1769973300339&ot=lDW2j3mIGn2kMiI_NiMvEg&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b65ab398c90871aff8cc&listenerId=uqjtqPFeTmM5V8LSP8or4JU490HBdCUm> |
-| 746 | Radio Un Hueco en el Espacio | cloudstream2032.conectarhosting.com | <https://cloudstream2032.conectarhosting.com/8106/stream> |
-| 747 | Panamericana Latino Refrescante | us-b4-p-e-jn18-audio.cdn.mdstrm.com | <https://us-b4-p-e-jn18-audio.cdn.mdstrm.com/live-audio-aw/6598b76c6c07d80644b7321f?aid=658ddcc0b2c7835d48fee06d&pid=FMT4q8AAM7bmUvJJPVqPWZMzVnR9htGT&sid=DAkXFgqOpmcca26D5hyqHyZKeDhTfoGd&uid=8PfSSgyGaa79wS918kUcdER7gEvULY0w&es=us-b4-p-e-jn18-audio.cdn.mdstrm.com&ote=1769973299285&ot=GDxKOLnImJ0QRSUJ8pmB6g&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b76c6c07d80644b7321f&listenerId=8PfSSgyGaa79wS918kUcdER7gEvULY0w> |
-| 748 | radio Disney Perú | 27413.live.streamtheworld.com | <https://27413.live.streamtheworld.com/DISNEY_PER_LMAAC/HLS/playlist.m3u8> |
-| 749 | Panamericana Salsa Power | us-b4-p-e-zs14-audio.cdn.mdstrm.com | <https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/6598b751261d9e088a6deadd?aid=658ddcc0b2c7835d48fee06d&pid=uub6n2bt1dwhexOjSNEg7p8MCnPDaai2&sid=kfEnteyb7IoMnp77gab1aIO1MW6UINCO&uid=wAcBfojJprgJqGUaozeubWjoEbrMuDw2&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1769973298831&ot=ij6mzyoZhTlqQmm4s-m5kA&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b751261d9e088a6deadd&listenerId=wAcBfojJprgJqGUaozeubWjoEbrMuDw2> |
+| 315 | Radio Level Hits – PE | ip.peruhits.com:7234 | <http://ip.peruhits.com:7234/stream.mp3> |
+| 316 | Radio Libertad – Casma – PE-ANC | conectperu.com:7152 | <https://conectperu.com:7152/> |
+| 317 | Estéreo G La Grande – PE-LAM | dattavolt.com | <https://dattavolt.com/8132/stream> |
+| 318 | Radio Potencial – Trujillo – PE-LAL | rr5100.globalhost1.com | <https://rr5100.globalhost1.com/8086/stream> |
+| 319 | Fama Sur – PE | oyotunstream.com:9326 | <http://oyotunstream.com:9326/stream> |
+| 320 | Radio Stereo Network – PE-LIM | sonic.cloudstreaming.eu | <https://sonic.cloudstreaming.eu/8122/stream> |
+| 321 | Punta Radio – Acos – Lima region – PE | dattavolt.com | <https://dattavolt.com/8328/stream> |
+| 322 | Radio Líder – 970 AM – PE-CAJ | sonicpanel.streaming10.net:10981 | <https://sonicpanel.streaming10.net:10981/live> |
+| 323 | Sentimiento Andino – Trujillo – PE-LAL | rr5100.globalhost1.com | <https://rr5100.globalhost1.com/8572/stream> |
+| 324 | La tuna radio – PE-LIM | cast.latunaradio.com | <https://cast.latunaradio.com/radio/8000/stream> |
+| 325 | Radio Chevere – Huaraz – PE-ANC | radio.sistemasandinos.org:10992 | <https://radio.sistemasandinos.org:10992/stream?icy=http> |
+| 326 | Fuego Mix – PE-ARE | radio.sistemasandinos.org:7166 | <http://radio.sistemasandinos.org:7166/> |
+| 327 | Radio Titanka – Abancay – Abancay – PE-APU | tupanel.info:8480 | <https://tupanel.info:8480/> |
+| 328 | Radio La Chismosa – PE-TUM | server.streamingradios.net:7053 | <https://server.streamingradios.net:7053> |
+| 329 | Radio Estrella 98.1 FM – 98.1 FM – Chimbote – PE-ANC | radio.datahost.pe:9496 | <http://radio.datahost.pe:9496/> |
+| 330 | RADIO NORANDINA – PE | mediastreamm.com | <https://mediastreamm.com/norandina/stream> |
+| 331 | Radio Nueva Jerusalen 103.7 FM – 103.7 FM – Trujillo – PE-LAL | server.streamingradios.net:8214 | <https://server.streamingradios.net:8214> |
+| 332 | RADIO EXITO 97.9 FM – PE-CAJ | rr5100.globalhost1.com | <https://rr5100.globalhost1.com/8352/stream> |
+| 333 | Radio Girasol Sechura – 99.5 FM – Sechura – PE-PIU | miradioperu.com:7010 | <https://miradioperu.com:7010/> |
+| 334 | Radio Felicidad AM – PE-ARE | us-b4-p-e-mg17-audio.cdn.mdstrm.com | <https://us-b4-p-e-mg17-audio.cdn.mdstrm.com/live-audio-aw/5fad731fcf097a068af3c8f7/playlist.m3u8?aid=5faaeb72f92d7b07dfe10181&pid=RHFS8v7L5Hty2IM9Jmfl8vJLHFZXEqvw&sid=EKLiQXOdpS1Foad5ghQNu6s1SnU8MzUD&uid=QtY8VKQh3I1gUodPXoE9qLXdrnJxUgBt&es=us-b4-p-e-mg17-audio.cdn.mdstrm.com&ote=1766420740168&ot=DECkdMNxF-Xekc8eqsoL-g&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fad731fcf097a068af3c8f7&listenerId=QtY8VKQh3I1gUodPXoE9qLXdrnJxUgBt> |
+| 335 | Radio Karicia – 107.5 FM – Tarapoto – PE-SAM | reproductor.tmcreativos.com | <https://reproductor.tmcreativos.com/radiokar/index.php?pl=winamp&c=Kargen%20Enk%20Radio> |
+| 336 | Radio Sol – PE-MOQ | st3.inkaniserver.net:8060 | <https://st3.inkaniserver.net:8060/stream> |
+| 337 | Radio Qhaphiya 99.7 FM – 99.7 FM – Yunguyo – PE-PUN | server.streamingradios.net:7001 | <https://server.streamingradios.net:7001> |
+| 338 | Radio Vida Cusco – Cusco – PE | radio.transmite.pe | <https://radio.transmite.pe/9318/stream> |
+| 339 | Radio Eco – 91.1 FM – PE-AYA | server.streamingradios.net:7097 | <https://server.streamingradios.net:7097> |
+| 340 | Radio Llata – 92.3 FM – Llata – Huanuco – PE | sonic.dattassd.com:10945 | <https://sonic.dattassd.com:10945/> |
+| 341 | La chismosa – Cachimayo – Cusco – PE | puroradio.net:8002 | <http://puroradio.net:8002/stream.mp3> |
+| 342 | Radio Sudamericana Tarma – Tarma – Junín Region – PE | conectperu.com | <https://conectperu.com/8262/stream> |
+| 343 | RADIO 15-50 – PE-PUN | cloud9.ldwebstudios.net:7001 | <https://cloud9.ldwebstudios.net:7001/> |
+| 344 | 96.5 FM Trujillo – Trujillo – PE-LAL | stream9.mexiserver.com | <https://stream9.mexiserver.com/8194/stream> |
+| 345 | Radio Los Angeles Chepén – Chepén – PE-LAL | IPv4 直链 | <http://94.23.159.187:9950/live> |
+| 346 | Radio Girasol Piura – 107.1 FM – PE-PIU | miradioperu.com:7009 | <https://miradioperu.com:7009/> |
+| 347 | Stacion San Alejandro 91.3 FM – 91.3 FM – San Clemente – PE-ICA | radio.livestreamingmundial.com:7015 | <https://radio.livestreamingmundial.com:7015/stream?icy=http> |
+| 348 | Radio Tropicana 94.5 FM – 94.5 FM – Huacho – Lima region – PE | conectperu.com | <https://conectperu.com/8190/stream> |
+| 349 | Estrella Supermercados – Camaná – PE-ARE | streamingp.shoutcast.com | <https://streamingp.shoutcast.com/JamendoLounge?lang=*> |
+| 350 | Radio Coishco Miradio Mix – PE | sp.oyotunstream.com:10964 | <https://sp.oyotunstream.com:10964> |
+| 351 | RPM – Cuarto Poder – Yunguyo – PE-PUN | radiosonline.one | <https://radiosonline.one/listen/rpm/radio.mp3> |
+| 352 | Nora Noryta – PE-LIM | radioenlinea.click:8110 | <https://radioenlinea.click:8110/radio.mp3> |
+| 353 | Diario Perú – 101.1 FM – PE-CAJ | mpc1.mediacp.eu:8112 | <https://mpc1.mediacp.eu:8112/stream> |
+| 354 | Radio La Preferida – 106.7 FM – Chongoyape – PE-LAM | dattavolt.com | <https://dattavolt.com/8144/stream> |
+| 355 | Sabrosa 1540 AM – 1540 AM – Trujillo – PE-LAL | rr5100.globalhost1.com | <https://rr5100.globalhost1.com/8404/stream> |
+| 356 | Radio Amor por Cable – Chiclayo – PE-LAM | conectperu.com:7111 | <https://conectperu.com:7111/> |
+| 357 | Tropicalisima – 106.1 FM – Trujillo – PE-LAL | rr5100.globalhost1.com | <https://rr5100.globalhost1.com/8574/stream> |
+| 358 | Radio Fascinación – PE | sonicpanel.totalstreaming.net | <https://sonicpanel.totalstreaming.net/8046/stream/> |
+| 359 | DESKA Radio – PE-LIM | studio25.radiolize.com | <https://studio25.radiolize.com/radio/8010/radio.mp3> |
+| 360 | Radio Loreto – Iquitos – PE-LOR | oyotunstream.com:8006 | <http://oyotunstream.com:8006/stream> |
+| 361 | Xtreme Radio – PE-LIM | server.streamingradios.net:7003 | <https://server.streamingradios.net:7003> |
+| 362 | ADEP RADIO ONLINE – PE-LIM | conectperu.com | <https://conectperu.com/8146/stream> |
+| 363 | Radio Esfera – Uchiza – Uchiza – PE-SAM | dattavolt.com | <https://dattavolt.com/8008/stream> |
+| 364 | Radio IEMPSA – PE-LIM | conectperu.com | <https://conectperu.com/8112/stream> |
+| 365 | Generación Kpop – PE | stream9.mexiserver.com:8242 | <http://stream9.mexiserver.com:8242/stream?type=http&nocache=384> |
+| 366 | Radio Cosmos Digital – Huacho – Lima region – PE | conectperu.com | <https://conectperu.com/8170/stream> |
+| 367 | Radio Otuzco – Otuzco – PE-LAL | centova.perustream.com:8034 | <http://centova.perustream.com:8034> |
+| 368 | Antena Sur Chincheros – Andahuaylas – PE-APU | radio.perustream.com | <https://radio.perustream.com/8028/stream> |
+| 369 | Remembranzas del Criollismo – PE | sonic.sistemahost.es:7045 | <https://sonic.sistemahost.es:7045> |
+| 370 | Radio Frecuencia 100 – 100 FM – Trujillo – PE-LAL | oyotunstream.com:7066 | <http://oyotunstream.com:7066/.aac> |
+| 371 | Radio Tucume – PE-LAM | sp.onliveperu.com:7023 | <https://sp.onliveperu.com:7023> |
+| 372 | Estacion 90’s radio – Ilo – PE-MOQ | radio.livestreamingmundial.com:7004 | <https://radio.livestreamingmundial.com:7004/live> |
+| 373 | Radio Armonia – 91.7 FM – Huaraz – PE-ANC | radio.sistemasandinos.org:7146 | <http://radio.sistemasandinos.org:7146/listen.pls> |
+| 374 | Presencia Regional – PE-LAM | dattavolt.com | <https://dattavolt.com/8142/stream> |
+| 375 | Radio Sucre – PE-LIM | server.streamingradios.net:7059 | <https://server.streamingradios.net:7059> |
+| 376 | Onda Okey 95.5 FM – 95.5 FM – PE-HUV | conectperu.com | <https://conectperu.com/8238/stream> |
+| 377 | Radio Tv Aroma Del Cielo Oficial – Trujillo – PE-LAL | radio.playerfullhd.com | <https://radio.playerfullhd.com/8108/stream> |
+| 378 | T3RX Radio – PE | streamingp.shoutcast.com | <http://streamingp.shoutcast.com/JamendoLounge?lang=en-US%2cen%3bq%3d0.5> |
+| 379 | Radio Virus – PE | sp.onliveperu.com | <https://sp.onliveperu.com/8008/stream> |
+| 380 | Reina de la Selva – Chachapoyas – PE-AMA | tupanel.info:8244 | <https://tupanel.info:8244/> |
+| 381 | Radio K’arisia – Lluchubamba – PE-CAJ | radio.livestreamingmundial.com:7044 | <https://radio.livestreamingmundial.com:7044/> |
+| 382 | San Ignacio AM – Otuzco – PE-LAL | rr5100.globalhost1.com | <https://rr5100.globalhost1.com/8512/stream> |
+| 383 | Radio Deep Music – PE | sbc-radio.stream.laut.fm | <https://sbc-radio.stream.laut.fm/sbc-radio?t302=2025-12-21_16-25-39&uuid=7b8b09de-6be2-4896-90ab-143e1e44928e> |
+| 384 | RADIO RUMBO – PE | mediastreamm.com | <https://mediastreamm.com/8008/stream> |
+| 385 | Diáspora Radio – PE-LIM | server6.globalhostla.com:9156 | <https://server6.globalhostla.com:9156/stream> |
+| 386 | Radio Titanka – 95.5 FM – Andahuaylas – PE-APU | tupanel.info:8920 | <https://tupanel.info:8920/> |
+| 387 | La Super 99.3 FM – 99.3 FM – Soloco – PE-AMA | iwc2.radioonlinehd.com:8053 | <http://iwc2.radioonlinehd.com:8053/stream> |
+| 388 | Radio Apolo – PE-LIM | conectperu.com:7141 | <https://conectperu.com:7141/> |
+| 389 | Señal Pirata Radio – PE | conectperu.com:7040 | <https://conectperu.com:7040> |
+| 390 | RADIO BULEVAR – PE-TAC | conectperu.com | <https://conectperu.com/8028/stream> |
+| 391 | Radio Corporación Famicarr – Carabamba – PE-LAL | server.streamingradios.net:7000 | <https://server.streamingradios.net:7000> |
+| 392 | Kodama Station – PE-LIM | cast.kodamastation.com | <https://cast.kodamastation.com/radio/8000/radio.mp3> |
+| 393 | Radio Comas FM – PE-LIM | tupanel.info:7390 | <https://tupanel.info:7390/> |
+| 394 | Radio STUDIO 2190 – PE-LIM | radioenlinea.click:8000 | <https://radioenlinea.click:8000/radio.mp3> |
+| 395 | Radio OD Noticias – PE-LIM | conectperu.com:7176 | <https://conectperu.com:7176/> |
+| 396 | Radio Vision Peru – PE-LIM | technoplayerserver.net:8106 | <https://technoplayerserver.net:8106> |
+| 397 | Ginocchio RockStar – Chimbote – PE-ANC | sp.onliveperu.com | <https://sp.onliveperu.com/8140/stream> |
+| 398 | Radio Danitza Producciones – PE | miradioperu.com:7016 | <https://miradioperu.com:7016/stream> |
+| 399 | Radio Huracan – Jauja – Junín Region – PE | radiosonline.one | <https://radiosonline.one/listen/huracan/radio.mp3> |
+| 400 | Radio Estrella – Trujillo – PE-LAL | radio.datahost.pe:9660 | <http://radio.datahost.pe:9660/> |
+| 401 | Inka Stereo – 100.5 FM – Trujillo – PE-LAL | rr5100.globalhost1.com | <https://rr5100.globalhost1.com/8578/stream> |
+| 402 | Radio Mega Hits Peru – PE | sp.dattavolt.com | <https://sp.dattavolt.com/8024/stream> |
+| 403 | Radio Victoria – PE | radio.sistemasandinos.org | <https://radio.sistemasandinos.org/7238/stream> |
+| 404 | Top 40 Radio – PE-ARE | conectperu.com | <https://conectperu.com/8130/stream> |
+| 405 | Radio Melodia AM – PE-ARE | stream.radiomelodia.com.pe:8010 | <https://stream.radiomelodia.com.pe:8010/radio.mp3> |
+| 406 | Rescate Rock and Pop radio – Callao – PE | cloudstream2032.conectarhosting.com | <https://cloudstream2032.conectarhosting.com/9558/> |
+| 407 | DUNK Radio – PE-LIM | listen.radioking.com | <https://listen.radioking.com/radio/1743/stream/125> |
+| 408 | Radio Synthpop – PE-LIM | radio.blueditor.com | <https://radio.blueditor.com/8250/stream> |
+| 409 | Radio la voz – PE-TAC | radio.sistemasandinos.org:7096 | <http://radio.sistemasandinos.org:7096/> |
+| 410 | Radio Vesánico – PE-LIM | radiosonline.one | <https://radiosonline.one/radio/8390/radio.mp3> |
+| 411 | ABN Radio – PE-LIM | jml-stream.com | <https://jml-stream.com/radio/8000/radio.mp3> |
+| 412 | Radio Maravillosa – Trujillo – PE-LAL | streaming.servicioswebmx.com | <https://streaming.servicioswebmx.com/8144/stream> |
+| 413 | Radio Stereo Uno 102.9 FM – 102.9 FM – PE-HUC | server.streamingradios.net:7040 | <https://server.streamingradios.net:7040> |
+| 414 | Rocio y Sus amigos – PE | mx.hdaudiostreaming.com:7202 | <https://mx.hdaudiostreaming.com:7202> |
+| 415 | Radio Carlos Guido – Yunguyo – PE-PUN | server.streamingradios.net:8006 | <https://server.streamingradios.net:8006> |
+| 416 | Arbusa Radio – Trujillo – PE-LAL | rr5100.globalhost1.com | <https://rr5100.globalhost1.com/8570/stream> |
+| 417 | Radio Uno – PE-TAC | stream2.eistreaming.com:10986 | <https://stream2.eistreaming.com:10986/> |
+| 418 | Radio RSD Chimbote – 102.1 FM – Chimbote – PE-ANC | tupanel.info:8240 | <https://tupanel.info:8240/> |
+| 419 | Radio Lider TV – PE-LIM | conectperu.com:7145 | <https://conectperu.com:7145/> |
+| 420 | Radio Cinetica – 97.3 FM – La Oroya – Junín Region – PE | radio.blueditor.com | <https://radio.blueditor.com/8252/stream> |
+| 421 | Radio Zona Latina 97.1 FM – 97.1 FM – PE-CAJ | sp.onliveperu.com:7021 | <https://sp.onliveperu.com:7021/> |
+| 422 | INCLUB Radio – PE | conectperu.com:7008 | <https://conectperu.com:7008/> |
+| 423 | Radio Studio 97 – Trujillo – PE-LAL | rr5100.globalhost1.com | <https://rr5100.globalhost1.com/8598/stream> |
+| 424 | Radio Tacna FM – PE-TAC | conectperu.com | <https://conectperu.com/8024/stream/> |
+| 425 | Urbana – Huaraz – PE-ANC | radio.sistemasandinos.org:10905 | <https://radio.sistemasandinos.org:10905/stream> |
+| 426 | Radio Onda Digital – PE-LIM | conectperu.com:7089 | <https://conectperu.com:7089/stream.mp3> |
+| 427 | Radio Hits – PE-LAM | dattavolt.com | <https://dattavolt.com/8084/stream> |
+| 428 | Radio Nova Uno – PE | sv2.globalhostlive.com:7042 | <http://sv2.globalhostlive.com:7042/stream> |
+| 429 | RADIO CORA 1250 AM – 1250 AM – PE-LIM | mediastreamm.com | <https://mediastreamm.com/radiocora/stream> |
+| 430 | La Rock N Pop – PE-LIM | panelautodj.innovatestream.pe:10951 | <https://panelautodj.innovatestream.pe:10951> |
+| 431 | Radio Tv Gracia y Verdad – Iquitos – PE-LOR | sonicpanel.us | <https://sonicpanel.us/8078/stream> |
+| 432 | W80 – PE | sonic.portalfoxmix.club:7130 | <https://sonic.portalfoxmix.club:7130/> |
+| 433 | Radio Nacional del Peru radio | cdnhd.iblups.com | <http://cdnhd.iblups.com/hls/0773874174fd4eba8bb9eff741d190dc.m3u8> |
+| 434 | Radio La Nube radio | us-b4-p-e-mg17-audio.cdn.mdstrm.com | <https://us-b4-p-e-mg17-audio.cdn.mdstrm.com/live-audio-aw/6598b70f86344b02b58ce836?aid=658ddcc0b2c7835d48fee06d&pid=avyOHNbHIUXixxwlEfppNGLeZfHMvHV7&sid=UP3PyAIoVJofriOK971XmcGrtZunT5lV&uid=YSHdFWiPfVrvh2lOJZOCce7Xo4Fzrsie&es=us-b4-p-e-mg17-audio.cdn.mdstrm.com&ote=1766420813557&ot=Uqeknt1S7joK70G2-v0BFA&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b70f86344b02b58ce836&listenerId=YSHdFWiPfVrvh2lOJZOCce7Xo4Fzrsie> |
+| 435 | Stereo Lima radio | panel.innovatestream.pe | <https://panel.innovatestream.pe/8042/stream> |
+| 436 | Radio Felicidad 88.9 FM radio | 5cefcbf58ba2e.streamlock.net:543 | <https://5cefcbf58ba2e.streamlock.net:543/latino/latino.stream/playlist.m3u8> |
+| 437 | Viva FM 91.9 radio | tupanel.info:8780 | <https://tupanel.info:8780//stream> |
+| 438 | Radio Panamericana radio | us-b4-p-e-qg12-audio.cdn.mdstrm.com | <https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/6598b62dded1380470f4e539?aid=658ddcc0b2c7835d48fee06d&pid=aTpVEeBdrtAEY8hXoVlquBjycAxO0XAr&sid=nCK8k5WqnYAeylVdRKumTemMylQNLvs9&uid=UbxVkn187g6F6bRGOQw2NRlrEjOxNdsy&es=us-b4-p-e-qg12-audio.cdn.mdstrm.com&ote=1766420809005&ot=u29x41LNdrkdXAw8fWEZjg&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b62dded1380470f4e539&listenerId=UbxVkn187g6F6bRGOQw2NRlrEjOxNdsy> |
+| 439 | Onda Cero radio | us-b4-p-e-jn18-audio.cdn.mdstrm.com | <https://us-b4-p-e-jn18-audio.cdn.mdstrm.com/live-audio-aw/6598b65ab398c90871aff8cc?aid=658ddcc0b2c7835d48fee06d&pid=KsCJ30n1E0ksI8BlgiQk9yeeASEYXgcv&sid=eF8b5oPDtOacqo5WBccxmhyZHa0bt8oG&uid=qS3lHpXpWeaI9v5A89uPJTobCM8STFnH&es=us-b4-p-e-jn18-audio.cdn.mdstrm.com&ote=1766420813354&ot=rp-lM9yojfzoJMFpykRA0g&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b65ab398c90871aff8cc&listenerId=qS3lHpXpWeaI9v5A89uPJTobCM8STFnH> |
+| 440 | LA ROCK N POP radio | panelautodj.innovatestream.pe:10951 | <https://panelautodj.innovatestream.pe:10951/stream> |
+| 441 | Radio 1160 radio | us-b4-p-e-pb13-audio.cdn.mdstrm.com | <https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/6598b6e1261d9e088a6de859?aid=658ddcc0b2c7835d48fee06d&pid=5VGSkBJSmAN9lL2j68hIBaYxaAlWORvb&sid=cdpHFhzWvVQyAbJoTYmYFO6iv1E8EXOq&uid=Zv67qwZZazR9iNFcYsk3lRIDq2y9YxgS&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1766420809155&ot=GuOHu83mbacY5k0e2Vq0iA&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b6e1261d9e088a6de859&listenerId=Zv67qwZZazR9iNFcYsk3lRIDq2y9YxgS> |
+| 442 | Radio Cumbia Mix radio | us-b4-p-e-ml19-audio.cdn.mdstrm.com | <https://us-b4-p-e-ml19-audio.cdn.mdstrm.com/live-audio-aw/6598b6ab95a235085823b24f?aid=658ddcc0b2c7835d48fee06d&pid=N0l8YHtK2cTOKiNfrx1QmsvbFsOtBByY&sid=zkI4SfZazAORqaznHV6CXKKN0NENQeGF&uid=Xs4B9FXeD2LmfbTd34PtuwjOsnqiyWPJ&es=us-b4-p-e-ml19-audio.cdn.mdstrm.com&ote=1766420813346&ot=oNmYWhjnd9IaItlkIrK-eA&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b6ab95a235085823b24f&listenerId=Xs4B9FXeD2LmfbTd34PtuwjOsnqiyWPJ> |
+| 443 | Melomana Radio – PE-ARE | melomana.stream.laut.fm | <http://melomana.stream.laut.fm/melomana?t302=2025-12-21_16-26-25&uuid=6ac8dd48-d7ac-4e40-a042-8707f6e8fe17> |
+| 444 | Radio Power, Lima radio | conectperu.com:7040 | <https://conectperu.com:7040/stream.nsv> |
+| 445 | Radio Comas 101.7 FM radio | tupanel.info:7390 | <https://tupanel.info:7390/stream.nsv> |
+| 446 | Radio Chalaca radio | sonicpanel.tmcreativos.com | <https://sonicpanel.tmcreativos.com/8030/stream> |
+| 447 | Radio Level Hits radio | radio.pjcks.com | <https://radio.pjcks.com/7234/stream> |
+| 448 | Radio Vinilo Perú radio | panel.innovatestream.pe | <https://panel.innovatestream.pe/7246/stream> |
+| 449 | Herencia Rumbera radio | sonic.streamseguro.com | <https://sonic.streamseguro.com/8020/stream> |
+| 450 | Poprock Classic radio | music.poprockenlinea.com | <https://music.poprockenlinea.com/listen/poprock/radio.mp3> |
+| 451 | La Vaca radio | radio.streamingnacional.online | <https://radio.streamingnacional.online/8168/stream> |
+| 452 | Aeroestereo 94.3 FM radio | sonic.globalstream.pro | <https://sonic.globalstream.pro/8054/stream> |
+| 453 | Radio Tacna radio | mediastreamm.com | <https://mediastreamm.com/8056/stream> |
+| 454 | Radio Usquil 96.5 FM radio | server.streamingradios.net | <https://server.streamingradios.net/8128/stream> |
+| 455 | Radio RSD radio | tupanel.info:8240 | <https://tupanel.info:8240/stream.nsv> |
+| 456 | Fuego - Usquil radio | server01.heplayer.com | <https://server01.heplayer.com/8112/stream> |
+| 457 | Radio La Tremenda radio | sp2.servidorrprivado.com | <https://sp2.servidorrprivado.com/8004/stream.mp3> |
+| 458 | Radio Virus radio | sp.onliveperu.com | <https://sp.onliveperu.com/8158/stream> |
+| 459 | Radio Sudamericana Tarma radio | conectperu.com | <https://conectperu.com/8262/stream.> |
+| 460 | AEROSTEREO radio | panel.aerostereo.com | <https://panel.aerostereo.com/listen/aerostereo/radio.mp3> |
+| 461 | Su Majestad el Bolero radio | conectperu.com | <https://conectperu.com/8366/stream> |
+| 462 | Radio Elite radio | radio.livestreamingmundial.com | <https://radio.livestreamingmundial.com/9242/> |
+| 463 | Radio La Rumba Pa'gozar radio | rr5100.globalhost1.com | <https://rr5100.globalhost1.com/8336/> |
+| 464 | Rock N bar radio | sp.dattavolt.com | <https://sp.dattavolt.com/8018/stream> |
+| 465 | Sintonia Latina radio | solid67.streamupsolutions.com:8048 | <http://solid67.streamupsolutions.com:8048/;> |
+| 466 | Radio Hurakan radio | conectperu.com | <https://conectperu.com/8406/stream> |
+| 467 | Radio Victoria En Cristo radio | server.streamingradios.net:8028 | <https://server.streamingradios.net:8028/stream> |
+| 468 | Radio Sónica 103.3 radio | sonica-zikoxweb2.radioca.st | <https://sonica-zikoxweb2.radioca.st/stream> |
+| 469 | La Kaprichoza ke buena radio | sp.oyotunstream.com | <https://sp.oyotunstream.com/9398/stream> |
+| 470 | Fuego Cristiano radio | mediastreamm.com | <https://mediastreamm.com/8072/stream> |
+| 471 | Radio Esperanza Chepén radio | conectperu.com | <https://conectperu.com/8588/stream> |
+| 472 | Vida Nueva Radio, Trujillo | fpsnew2.listen2myradio.com:2199 | <https://fpsnew2.listen2myradio.com:2199/listen.php?ip=212.84.160.3\u0026port=8924\u0026type=s2\u0026mount=1> |
+| 473 | Locaza fm radio | sonicpanel.tmcreativos.com | <https://sonicpanel.tmcreativos.com/8056/stream> |
+| 474 | RPP Mundial radio | us-b4-p-e-zs14-audio.cdn.mdstrm.com | <https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/5faee885eb830d06cf22ed4a> |
+| 475 | Radio Furor Impresionante! radio | dattavolt.com | <https://dattavolt.com/8188/stream> |
+| 476 | Radio Retro Ilo radio | sp.dattavolt.com | <https://sp.dattavolt.com/8094/stream> |
+| 477 | Radio Peruana Union radio | cloudstream2034.conectarhosting.com | <https://cloudstream2034.conectarhosting.com/8008/stream> |
+| 478 | Radio Power TV radio | dattavolt.com | <https://dattavolt.com/8038/stream> |
+| 479 | Planeta99 radio | sonicpanel.us:8064 | <https://sonicpanel.us:8064/stream> |
+| 480 | RCM - Radio Cristo en Mí | radio.andaina.net | <https://radio.andaina.net/8052/stream> |
+| 481 | Radio Apurimeña 100.5 fm radio | sonic.dattassd.com | <https://sonic.dattassd.com/8200/streamstream.nsv> |
+| 482 | Alpha plus radio | conectperu.com | <https://conectperu.com/8362/stream> |
+| 483 | Radio la Positiva - carabamba radio | mediastreamm.com | <https://mediastreamm.com/8110/stream> |
+| 484 | Radio Mega Mix siempre va con tigo radio | sp.onliveperu.com | <https://sp.onliveperu.com/8120/stream> |
+| 485 | Platinium radio | cloudstream2032.conectarhosting.com | <https://cloudstream2032.conectarhosting.com/8116/stream> |
+| 486 | Radiomundialrn radio | sonic.globalstreaming.net:8238 | <https://sonic.globalstreaming.net:8238/live> |
+| 487 | Radio Huanuco radio | sonic.globalstream.pro | <https://sonic.globalstream.pro/8072/streamstream.nsv> |
+| 488 | Radio Horizonte 102.7 FM radio | conectperu.com | <https://conectperu.com/8144/stream> |
+| 489 | Radio Tucume radio | sp.onliveperu.com:7023 | <https://sp.onliveperu.com:7023/stream.nsv> |
+| 490 | Sin Mordaza radio | radio.livestreamingmundial.com | <https://radio.livestreamingmundial.com/8346/stream> |
+| 491 | La Juerga radio | conectperu.com | <https://conectperu.com/8276/stream> |
+| 492 | Radio Cora radio | mediastreamm.com | <https://mediastreamm.com/8010/stream> |
+| 493 | Vision Radio | sonicpanel.tmcreativos.com | <https://sonicpanel.tmcreativos.com/8010/stream> |
+| 494 | Radio Rumba radio | dattavolt.com | <https://dattavolt.com/8248/stream> |
+| 495 | Radio Milenio 104.9 FM radio | sonic.dattassd.com | <https://sonic.dattassd.com/9924/steram> |
+| 496 | Radio emanuel7 radio | stm.voxhd.com.br:10224 | <https://stm.voxhd.com.br:10224/> |
+| 497 | Flow Cristiano radio | mediastreamm.com | <https://mediastreamm.com/8054/stream> |
+| 498 | Radio Metropolitana radio | Fps3.listen2myradio.com:2199 | <https://Fps3.listen2myradio.com:2199/listen.php?ip=109.169.23.124\u0026port=8404\u0026type=ice\u0026mount=stream> |
+| 499 | Radio Del Sur radio | mediastreamm.com | <https://mediastreamm.com/8078/stream> |
+| 500 | Radio Coishco mi Radiomix | sp.oyotunstream.com:10964 | <https://sp.oyotunstream.com:10964/stream.nsv> |
+| 501 | LAS NOCHES CON ARNOLD RADIO | as100.globalhost1.com | <https://as100.globalhost1.com/8042/stream> |
+| 502 | Radio Apurimeña 97.3 radio | sonic.dattassd.com | <https://sonic.dattassd.com/8080/stream:stream.nsv> |
+| 503 | Estación Libre - Tambo radio | IPv4 直链 | <http://150.136.177.28:8000/radio.mp3> |
+| 504 | Radio Capullana 95.7 radio | radio.livestreamingmundial.com:7032 | <https://radio.livestreamingmundial.com:7032/> |
+| 505 | Radio Las Vegas radio | radio.perustreaming.net | <https://radio.perustreaming.net/8014/stream> |
+| 506 | Radio Gozo Alabanza radio | sp.dattavolt.com | <https://sp.dattavolt.com/8170/stream> |
+| 507 | Radio Otuzco radio | Centova.perustream.com:8034 | <http://Centova.perustream.com:8034/stream.nsv> |
+| 508 | Radio Latina 990 AM radio | stm2.srvif.com:7974 | <https://stm2.srvif.com:7974/stream> |
+| 509 | Radio Urano fm radio | c6.radioboss.fm:8271 | <https://c6.radioboss.fm:8271/stream> |
+| 510 | Reina de la Selva radio | tupanel.info:8244 | <http://tupanel.info:8244/> |
+| 511 | Radio Superior Fm | server.streamingradios.net | <https://server.streamingradios.net/8134/stream> |
+| 512 | Radio La Hermosa Perú | vivo.miradio.in | <https://vivo.miradio.in/8080/stream> |
+| 513 | Radio Aeroestereo Online radio | conectperu.com:7025 | <https://conectperu.com:7025/stream?icy=http> |
+| 514 | Radio Fantàstico Piura radio | IPv4 直链 | <http://147.135.130.215:8666/> |
+| 515 | Radio Poder Sureño radio | conectperu.com | <http://conectperu.com/8038/stream> |
+| 516 | Radio Apurimeña 100.5 fm | sonic.dattassd.com | <https://sonic.dattassd.com/8200/stream> |
+| 517 | Radio Melodia Arequipa AM | online.radiodifusion.net:8020 | <http://online.radiodifusion.net:8020/stream.nsv> |
+| 518 | Radio Studio Lider Fm | sonic.dattassd.com | <https://sonic.dattassd.com/8080/stream:> |
+| 519 | PopRock En Línea Directa | whmsonic.playerfullhd.com | <https://whmsonic.playerfullhd.com/8346/stream> |
+| 520 | Radio Millenium Lima | server.streamingradios.net | <https://server.streamingradios.net/8174/stream> |
+| 521 | Radio Lamud | cloudstream2036.conectarhosting.com | <https://cloudstream2036.conectarhosting.com/8130/stream> |
+| 522 | Radio La Rumba Pa'gozar | server.streamingradios.net | <https://server.streamingradios.net/8116/stream> |
+| 523 | Radio Stereo A 103.9 Fm | stream2.eistreaming.com:10992 | <https://stream2.eistreaming.com:10992/stream.nsv> |
+| 524 | Radio Cadenatop (Lima) | online.radiodifusion.net:8020 | <http://online.radiodifusion.net:8020/stream/1/> |
+| 525 | Radio Lazer - Trujillo | server.streamingradios.net | <https://server.streamingradios.net/8108/stream> |
+| 526 | Radio Estación X 102.1 FM | whmsonic.playerfullhd.com | <https://whmsonic.playerfullhd.com/8342/stream> |
+| 527 | Radio Victoria En Cristo | server.streamingradios.net | <https://server.streamingradios.net/8048/stream> |
+| 528 | Metropolitana Radio Peruana (Lima) | IPv4 直链 | <http://99.198.110.162:8130/stream/1/> |
+| 529 | Radio Libertad de Junín | radio.transmite.pe:9342 | <http://radio.transmite.pe:9342/stream/1/> |
+| 530 | Libertad Online | sechin.grupocentroserver.com | <https://sechin.grupocentroserver.com/radio/8020/radio.mp3> |
+| 531 | Radio Sistemas (Cusco) | player.xcast.com.br | <https://player.xcast.com.br/proxy/7362> |
+| 532 | Radio Yaravi (Arequipa) | tupanel.info:2000 | <https://tupanel.info:2000/stream/radioyaravi/stream/1/> |
+| 533 | Cadena Top Radio Reggae (Lima) | online.radiodifusion.net:8054 | <http://online.radiodifusion.net:8054/stream/1/> |
+| 534 | MALKI Radio World Music | tupanel.info:8244 | <https://tupanel.info:8244/stream/1/> |
+| 535 | Radio Norandina de Celendin | mediastreamm.com | <https://mediastreamm.com/8012/stream> |
+| 536 | Radio María | dreamsiteradiocp4.com:8020 | <http://dreamsiteradiocp4.com:8020/stream/1/> |
+| 537 | Radio Uyay | conectperu.com | <https://conectperu.com/8196/stream/1/> |
+| 538 | Radio Los Angeles (Chepen) | IPv4 直链 | <http://94.23.159.187:9950/stream/1/> |
+| 539 | Radio Chevere (Caraz) | radio.sistemasandinos.org:7084 | <http://radio.sistemasandinos.org:7084/stream/1/> |
+| 540 | Radio La Luz (Lima) | radio.transmite.pe:9310 | <http://radio.transmite.pe:9310/stream/1/> |
+| 541 | Radio Vida Cusco - AM | radio.transmite.pe:9318 | <http://radio.transmite.pe:9318/stream> |
+| 542 | GISS RADIO | radio.gisslive.com:9000 | <http://radio.gisslive.com:9000/> |
+| 543 | Radio Emanuel de Tocache | myradiostream.com | <http://myradiostream.com/200925> |
+| 544 | Radio Clasica Rock&amp;Pop | tupanel.info:9910 | <https://tupanel.info:9910/;stream.nsv> |
+| 545 | Radio Apurimaq | sonic.dattassd.com:8080 | <http://sonic.dattassd.com:8080/> |
+| 546 | KISS FM | panelautodj.innovatestream.pe:10829 | <https://panelautodj.innovatestream.pe:10829/;stream.nsv> |
+| 547 | RADIO LA ESTACION.FM | tustreaming.co | <https://tustreaming.co/AUDIO/LAESTACION/> |
+| 548 | Radio Fantàstico Piura | IPv4 直链 | <http://147.135.130.215:8666/;> |
+| 549 | KOOL FLASHBACK | radio.sistemasandinos.org | <https://radio.sistemasandinos.org/7354/stream> |
+| 550 | VOX FM | us-b4-p-e-pb13-audio.cdn.mdstrm.com | <https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/60bfd82b9488941e9d86eb1d/playlist.m3u8?aid=5b8ea6f89ff52d0770a144c4&pid=CupTnKqJK07lu5BOZeqB5IrnhwzCwS6S&sid=GTHRBaWN0V6ayrGmr7csnlvS6pY0KIdN&uid=OCB0GpQhcgsn3OFEzj5mls5nXREs8mic&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1695206243496&ot=OkOnWgLo6P7CD-QTm9d47w&proto=https&pz=us&cP=128000&awCollectionId=5b8ea6f89ff52d0770a144c4&liveId=60bfd82b9488941e9d86eb1d&listenerId=OCB0GpQhcgsn3OFEzj5mls5nXREs8mic> |
+| 551 | Radio Od Noticias | server.streamingradios.net | <https://server.streamingradios.net/8028/;> |
+| 552 | Radio Exito 97.9 FM | nazca.globalhost1.com | <https://nazca.globalhost1.com/8030/stream> |
+| 553 | RPP Mundial (Perú) | us-b4-p-e-cg11-audio.cdn.mdstrm.com | <https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5faee885eb830d06cf22ed4a/playlist.m3u8?listeningSessionID=636caa560fe65225_1006885_YNhDxhXb__0000001B3Ny&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=4KOWgzZ9nfekeotUYauzmeKrOQfRCQma&sid=LhXvvJVKZUrLvqSvYiI4DFZ2YiVMf0Uw&pid=GhVrREycHyvqzg9XezY4IhgwwgiPzsgQ&ref=audioplayer.pe&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1669158810445&ot=-57RkzEDB4oSQczBsPKIMw&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&aw_0_1st.playerId=audioplayer_web&liveId=5faee885eb830d06cf22ed4a&referer=https%3A%2F%2Faudioplayer.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=v0.0.199> |
+| 554 | Retro Latin Hits (Lima) Radio | stream02.pcradio.biz | <https://stream02.pcradio.biz/rad_rtrltnhts-med> |
+| 555 | Radio Nueva Jerusalén | server.streamingradios.net:8214 | <https://server.streamingradios.net:8214/stream> |
+| 556 | Radio Rumbo La Radio Que Se Ve | fps3.listen2myradio.com:2199 | <https://fps3.listen2myradio.com:2199/listen.php?ip=109.169.23.124&port=8404&type=ice&mount=stream> |
+| 557 | RPP Mundial | us-b4-p-e-zs14-audio.cdn.mdstrm.com | <https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/5faee885eb830d06cf22ed4a?aid=5faaeb72f92d7b07dfe10181&pid=y9eerynDMGplJvZGzhhhxeiGZQ8qxJ0x&sid=YwdhPDrccA5iNGXcasTljS59bjbzamjZ&uid=1zfBrEVff0K0jT1nL7yI2op7rxXgppL0&es=us-b4-p-e-pb13-audio.cdn.mdst> |
+| 558 | Radio Khaos radio | khaos.stream.laut.fm | <https://khaos.stream.laut.fm/khaos> |
+| 559 | Generación Kpop | stream9.mexiserver.com:7122 | <https://stream9.mexiserver.com:7122/stream?icy=http> |
+| 560 | La 10 FM Está Buenaza | server.streamingradios.net:8074 | <http://server.streamingradios.net:8074/;> |
+| 561 | RPP Mundial (Check 25/11/2022) | us-b4-p-e-qg12-audio.cdn.mdstrm.com | <https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/5faee885eb830d06cf22ed4a> |
+| 562 | Jov | panelautodj.innovatestream.pe:10993 | <https://panelautodj.innovatestream.pe:10993/stream?icy=http> |
+| 563 | Radio Nacional Del Peru | cdnhd.iblups.com | <https://cdnhd.iblups.com/hls/0773874174fd4eba8bb9eff741d190dc.m3u8> |
+| 564 | Radio RPP Mundial | us-b4-p-e-cg11-audio.cdn.mdstrm.com | <https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5faee885eb830d06cf22ed4a> |
+| 565 | Radio Central Galactica | sonic.dattassd.com | <https://sonic.dattassd.com/4062/stream> |
+| 566 | Radio Altura de Ancash | stream.mediatexcomunicaciones.com:7030 | <https://stream.mediatexcomunicaciones.com:7030/;> |
+| 567 | Radio Central Mix | sp.oyotunstream.com | <https://sp.oyotunstream.com/60004/stream> |
+| 568 | Radio Armonia 97.5 | streamhotsperu.purosurfm.com:8140 | <https://streamhotsperu.purosurfm.com:8140/radioArmonia/status-json.xsl//radioArmonia> |
+| 569 | LatinPOP | music.poprockenlinea.com | <https://music.poprockenlinea.com/listen/latin/radio.mp3> |
+| 570 | Bella Radio 88.5 | server01.heplayer.com | <https://server01.heplayer.com/8150/stream> |
+| 571 | JVM la Estación | jvmlaestacion.stream.laut.fm | <http://jvmlaestacion.stream.laut.fm/jvmlaestacion?t302=2025-12-21_16-30-24&uuid=2e45f943-3a82-4631-a394-c8b03b969aae> |
+| 572 | Radio Deep Music | sbc-radio.stream.laut.fm | <https://sbc-radio.stream.laut.fm/sbc-radio?t302=2023-04-25_20-33-27&uuid=dc5bb021-c024-4110-8492-523b69bcd16a> |
+| 573 | ElBarranquino Radio | panel.foxradios.com:8020 | <https://panel.foxradios.com:8020/live> |
+| 574 | El Refugio Del Puma | radio.perustreaming.net | <https://radio.perustreaming.net/8006/stream> |
+| 575 | Radio Poprock Alternativo | music.poprockenlinea.com | <https://music.poprockenlinea.com/listen/alternativo/radio.mp3> |
+| 576 | Radio Rockas | radio.perustreaming.net | <https://radio.perustreaming.net/8008/stream> |
+| 577 | Radio MALKI Latino | radio.andaina.net | <https://radio.andaina.net/radiomalkilatino/stream> |
+| 578 | RADIO S M M 98.5 FM | maximacenterdata.com | <https://maximacenterdata.com/8116/stream> |
+| 579 | Radio Poprock Heavin | music.poprockenlinea.com | <https://music.poprockenlinea.com/listen/heavin/radio.mp3> |
+| 580 | Radio Platinium Rock And Pop | panelautodj.innovatestream.pe | <https://panelautodj.innovatestream.pe/8336/stream> |
+| 581 | Radio Play Peru | radioplay.egostreaming.pe | <https://radioplay.egostreaming.pe/c83a-4d7e-9d15-29d2e2fa4f8e> |
+| 582 | Radio Besame | radiobesame.egostreaming.pe | <https://radiobesame.egostreaming.pe/radiobesame> |
+| 583 | PortalCumbia.PE | conectperu.com:7159 | <https://conectperu.com:7159/stream?icy=http> |
+| 584 | CJ rad - 0 - Peru - classical | conectperu.com | <https://conectperu.com/8012/stream> |
+| 585 | Radio La Voz del Nor Oriente - Utcubamba - 128 - Peru - | sp.onliveperu.com:7038 | <https://sp.onliveperu.com:7038/;> |
+| 586 | Radio La Cheverísima - Utcubamba  - 192 - Peru - | sp.onliveperu.com | <https://sp.onliveperu.com/8114/stream/;> |
+| 587 | Radio Milenium - Bagua Grande - 192 - Peru - | sp.onliveperu.com | <https://sp.onliveperu.com/8102/stream> |
+| 588 | RADIO INTIRAYMI DEL CUSCO 830 AM - 128 - Peru - | streamhotsperu.purosurfm.com:8150 | <https://streamhotsperu.purosurfm.com:8150/intiraymi> |
+| 589 | Peru folk radio - 128 - Peru - | raymistream.net | <https://raymistream.net/listen/perufolkradio/live> |
+| 590 | Radio Superstereo | IPv4 直链 | <http://51.89.173.53:8031/stream> |
+| 591 | Radio Amor por Cable - 128 - Peru - amor - baladas - baladas en español - music - musica romantica - pop - reggaeton - urbano | conectperu.com:7111 | <https://conectperu.com:7111/;> |
+| 592 | Radio Astoria Iquitos 94.9 FM - 128 - Peru - cristiana - evangelio - gospel - religious | conectperu.com:7112 | <https://conectperu.com:7112/;> |
+| 593 | Fuego Cristiano | mediastreamm.com:7035 | <https://mediastreamm.com:7035/> |
+| 594 | radiomegamixperufm | sonicpanel.globalstream.pro | <https://sonicpanel.globalstream.pro/8070/stream> |
+| 595 | Peruana Radio | cloudstream2036.conectarhosting.com:7176 | <https://cloudstream2036.conectarhosting.com:7176/> |
+| 596 | Cita Romántica | ec5.yesstreaming.net:1490 | <https://ec5.yesstreaming.net:1490/stream> |
+| 597 | Studio Mix - Progreso -  Amazonas en Vivo - 0 - Peru - | icy.unitedradio.it | <http://icy.unitedradio.it/SubasioPerUnOraDAmore.mp3> |
+| 598 | KISS FM, Cajamarca | panelautodj.innovatestream.pe:10829 | <https://panelautodj.innovatestream.pe:10829/> |
+| 599 | MALKI RETRO - Radio Pop, Rock & Latino | radio.andaina.net | <https://radio.andaina.net/8054/stream> |
+| 600 | PENTAGRAMA LATINOAMERICANO Radio Folk | radio.andaina.net | <https://radio.andaina.net/pentagramalatino/stream> |
+| 601 | Radio Disco Plus 103.3 FM | streaming.servernorte.com | <https://streaming.servernorte.com/8146/stream> |
+| 602 | Tropikana Radio | radios.cosit.pe | <https://radios.cosit.pe/8007/stream.mp3> |
+| 603 | Radio Las Vegas - Te Activa | panel.innovatestream.pe | <https://panel.innovatestream.pe/7286/stream> |
+| 604 | Radio Perfeccion FM | maximacenterdata.com | <https://maximacenterdata.com/8092/stream> |
+| 605 | RCM - Radio CRISTO en MI - Música que te Habla | radio.andaina.net | <https://radio.andaina.net/rcm/stream> |
+| 606 | Radio Trinidad 1070 AM | maximacenterdata.com | <https://maximacenterdata.com/8056/stream> |
+| 607 | Vida Nueva Radio | fps2.listen2myradio.com:2199 | <https://fps2.listen2myradio.com:2199/listen.php?ip=109.169.23.17&port=9760&type=s2&mount=1> |
+| 608 | Radio Adventista Jumbilla | server2.ejeserver.com:8086 | <https://server2.ejeserver.com:8086/live> |
+| 609 | Radio La Típica de Cusco | server.streamingradios.net:8002 | <https://server.streamingradios.net:8002/stream> |
+| 610 | Radio Rumba | radio.sistemasandinos.org | <https://radio.sistemasandinos.org/7504/stream> |
+| 611 | Radio Maria Peru | dreamsiteradiocp.com:8074 | <http://dreamsiteradiocp.com:8074/> |
+| 612 | Zona Radio Activa | tupanel.info:9940 | <https://tupanel.info:9940/stream> |
+| 613 | Radio Corbán Perú | mediastreamm.com | <https://mediastreamm.com/8222/stream> |
+| 614 | Radio Kalor | conectperu.com | <https://conectperu.com/8076/stream> |
+| 615 | Radio La Mega 94.9 Fm | audio.miradioenvivo.com:10913 | <https://audio.miradioenvivo.com:10913/live> |
+| 616 | Evangelio Eterno Radio | sp.onliveperu.com | <https://sp.onliveperu.com/8172/stream> |
+| 617 | Radio Kilowatt | mediastreamm.com | <https://mediastreamm.com/8036/stream> |
+| 618 | Radio Megamix  Mollendo | stream.teranproducciones.pro | <https://stream.teranproducciones.pro/8172/stream> |
+| 619 | Radio Coral 97.5 Fm | maximacenterdata.com | <https://maximacenterdata.com/8052/stream> |
+| 620 | Radio Fm suprema | radio.juanjuistream.uk | <https://radio.juanjuistream.uk/listen/radiosuprema/stream> |
+| 621 | Antenna Web Arequipa Radio | italiavera.radioca.st | <https://italiavera.radioca.st/stream> |
+| 622 | Radio Arusureños | conectperu.com | <https://conectperu.com/8522/stream> |
+| 623 | Radio Sureña Puno | sp.oyotunstream.com:8050 | <https://sp.oyotunstream.com:8050/stream> |
+| 624 | Radio Luz de Tarma | radio.publikarte.com.pe | <https://radio.publikarte.com.pe/listen/radioluz/stream> |
+| 625 | Radio Soul Songs | live.radiorockhits.com | <https://live.radiorockhits.com/listen/radiosoulsongs/radio.mp3> |
+| 626 | Radio J Mix Juanjui | radio.juanjuiserver.com:8110 | <https://radio.juanjuiserver.com:8110/radio.mp3> |
+| 627 | Radio la Jefa | panelautodj.innovatestream.pe:10987 | <https://panelautodj.innovatestream.pe:10987/stream> |
+| 628 | Onda 7 Radio | sp1.streamingssl.com | <https://sp1.streamingssl.com/8074/stream> |
+| 629 | Radio Ondas Del Misti | maximacenterdata.com | <https://maximacenterdata.com/8124/stream> |
+| 630 | Radio Maxima FM | maxradio.azuracast.com.es:8020 | <https://maxradio.azuracast.com.es:8020/AQP.mp3> |
+| 631 | ElOchentero.com Radio | stream.cajamarcahost.com | <https://stream.cajamarcahost.com/8154/stream> |
+| 632 | Onda Stereo Radio | audiostream.site | <https://audiostream.site/listen/ondastereo/stream> |
+| 633 | CADENA CRISTIANA DEL PERU Radio | maximacenterdata.com | <https://maximacenterdata.com/8104/stream> |
+| 634 | Ok Radio Retro | sonicpanel.zonaradio.net | <https://sonicpanel.zonaradio.net/8050/stream> |
+| 635 | huallagaonline.com Radio | conectperu.com | <https://conectperu.com/8472/stream> |
+| 636 | Radio Rock | mediastreamm.com:8134 | <http://mediastreamm.com:8134/stream> |
+| 637 | n2 Perú Radio | server01.heplayer.com | <https://server01.heplayer.com/8116/stream> |
+| 638 | Radio Sonika | audio.miradioenvivo.com:10938 | <https://audio.miradioenvivo.com:10938/stream> |
+| 639 | Rumba Music 106.9 Fm &quot;Esta Buenaza&quot; Radio | radio.sistemasandinos.org | <https://radio.sistemasandinos.org/7516/stream> |
+| 640 | Radio Otuzco | Centova.perustream.com:8034 | <http://Centova.perustream.com:8034/stream> |
+| 641 | Radio Arumarka Rock 80s. | conectperu.com | <https://conectperu.com/8520/stream> |
+| 642 | VOX FM Radio | panel.innovatestream.pe:10887 | <https://panel.innovatestream.pe:10887/stream> |
+| 643 | Radio Sucre 100.5 Fm | server.streamingradios.net:8120 | <https://server.streamingradios.net:8120/stream> |
+| 644 | Radio Cafe Lepa | maxradio.azuracast.com.es:8000 | <https://maxradio.azuracast.com.es:8000/CAFELEPA.mp3> |
+| 645 | Mas RocknPop Radio | streaming.masrocknpop.com:7093 | <https://streaming.masrocknpop.com:7093/> |
+| 646 | Radio Tropicana | cloud9.ldwebstudios.net:7004 | <https://cloud9.ldwebstudios.net:7004/> |
+| 647 | Radio Sotelo Llamellin 101.3FM | live.radiofolkperu.com | <https://live.radiofolkperu.com/listen/radiosotelo/radio.mp3> |
+| 648 | Hits radio | radios.medialive.stream:7013 | <https://radios.medialive.stream:7013/stream> |
+| 649 | RADIO MAXIMA FM | maxradio.azuracast.com.es:8020 | <https://maxradio.azuracast.com.es:8020/HUARAZ.mp3> |
+| 650 | Stereo 33 Radio | maximacenterdata.com | <https://maximacenterdata.com/8092/STEREO33> |
+| 651 | Radio Nova - Piura | panel.innovatestream.pe:10987 | <https://panel.innovatestream.pe:10987/undefined> |
+| 652 | Radio Metrópolis  (Puno - Perú ) | virtual5.emisorasvirtuales.com:8260 | <https://virtual5.emisorasvirtuales.com:8260/live> |
+| 653 | Radio Paz - Poder De Dios | sp.oyotunstream.com:8072 | <https://sp.oyotunstream.com:8072/> |
+| 654 | Radio Esfera | mediastreamm.com | <https://mediastreamm.com/8202/stream> |
+| 655 | La Rueda Radio | conectperu.com | <https://conectperu.com/8508/stream> |
+| 656 | Kiss Fm Arequipa Radio | panelautodj.innovatestream.pe:10829 | <https://panelautodj.innovatestream.pe:10829/stream/1/> |
+| 657 | Radio La Única | eu57-sonic.instainternet.com | <https://eu57-sonic.instainternet.com/8158/stream> |
+| 658 | Radio Market | raymistream.net | <https://raymistream.net/listen/radiomarket/live> |
+| 659 | Voz que clama en el desierto Radio | hd.streamingfullhd.net | <https://hd.streamingfullhd.net/8162/stream/1/> |
+| 660 | okey Radio | fpsnew1.listen2myradio.com:2199 | <https://fpsnew1.listen2myradio.com:2199/listen.php?ip=82.145.63.6&ampport=4784&amptype=s1> |
+| 661 | Radio Imperial TV | sechin.grupocentroserver.com | <https://sechin.grupocentroserver.com/listen/imperial_angaraes/radio.mp3> |
+| 662 | Radio Universo 88.3 FM | panel.innovatestream.pe:10896 | <https://panel.innovatestream.pe:10896/> |
+| 663 | Radio Yakumama | panelautodj.innovatestream.pe:10685 | <https://panelautodj.innovatestream.pe:10685/yakumama> |
+| 664 | Radio la VOZ del SUR Moquegua | sonicpanel.us:8102 | <https://sonicpanel.us:8102/stream> |
+| 665 | RADIO METROPOLITANA  AREQUIPA | maximacenterdata.com | <https://maximacenterdata.com/8120/stream> |
+| 666 | Radio Silencio 101.3 Fm | maxradio.azuracast.com.es:8020 | <https://maxradio.azuracast.com.es:8020/RADIOSILENCIOAREQUIPA.mp3> |
+| 667 | Radio Apurimeña 97.9 | sonic.dattassd.com | <https://sonic.dattassd.com/8080/streamstream.nsv> |
+| 668 | Radio Sonrisa | radioshd.meytam.com.pe | <https://radioshd.meytam.com.pe/8002/stream> |
+| 669 | Radio Carlos Guido | server.streamingradios.net:8196 | <https://server.streamingradios.net:8196/stream> |
+| 670 | Radio Paz | panelautodj.innovatestream.pe:10939 | <https://panelautodj.innovatestream.pe:10939/stream> |
+| 671 | Radio rock peruano | mediastreamm.com:7066 | <https://mediastreamm.com:7066/stream> |
+| 672 | Radio Sureña - Azangaro | sp.oyotunstream.com:8052 | <https://sp.oyotunstream.com:8052/> |
+| 673 | Radio La Estacion.fm | emisorasdigitales2.com:7023 | <https://emisorasdigitales2.com:7023/stream> |
+| 674 | Radio Nor Andina | conectperu.com | <https://conectperu.com/8122/stream> |
+| 675 | Armonía 10 Radio | antenapiura.stream.laut.fm | <https://antenapiura.stream.laut.fm/antenapiura?t302=2025-12-21_16-31-05&uuid=71d283f6-2cf6-439f-a39f-5acedb18cf90> |
+| 676 | Radio Nova - Trujillo | panel.innovatestream.pe:10989 | <https://panel.innovatestream.pe:10989/> |
+| 677 | Emanuel7tv Radio | stmv6.voxtvhd.com.br | <https://stmv6.voxtvhd.com.br/emanueltv/emanueltv/playlist.m3u8> |
+| 678 | Galasy Radio Online | fdsfdsfdsf.radio12345.com | <https://fdsfdsfdsf.radio12345.com/intro.mp3> |
+| 679 | Radio Sintonia - La Q pega Bien | sonic.globalstream.pro | <https://sonic.globalstream.pro/8112/stream> |
+| 680 | AEROSTEREO Radio | panel.aerostereo.com:8000 | <https://panel.aerostereo.com:8000/radio.mp3> |
+| 681 | Radio La Ribereña - Camaná | streaming.serviclictecnologia.com:8058 | <https://streaming.serviclictecnologia.com:8058> |
+| 682 | Radio Fiesta - Tacna | streaming.serviclictecnologia.com:8056 | <https://streaming.serviclictecnologia.com:8056/> |
+| 683 | Radio Titanka - Andahuaylas | tupanel.info:8920 | <https://tupanel.info:8920/stream> |
+| 684 | Radio Nova - Chiclayo | panel.innovatestream.pe:10991 | <https://panel.innovatestream.pe:10991/> |
+| 685 | supermix juanjui Radio | radio.juanjuiserver.com:8120 | <https://radio.juanjuiserver.com:8120/radiosupermix.mp3> |
+| 686 | Radio LaMega Fiesta | conectperu.com | <https://conectperu.com/8250/stream> |
+| 687 | Radio RSD | tupanel.info:8240 | <https://tupanel.info:8240/stream> |
+| 688 | Radio Sin Patrones | panelautodj.innovatestream.pe:10685 | <https://panelautodj.innovatestream.pe:10685/> |
+| 689 | Radio SinPatrones | panelautodj.innovatestream.pe:10685 | <https://panelautodj.innovatestream.pe:10685/puno> |
+| 690 | Radio Neysan Plus | nazca.globalhost1.com:8040 | <https://nazca.globalhost1.com:8040/> |
+| 691 | RadioTV Qorisonqo | mediastreamm.com:7115 | <https://mediastreamm.com:7115/> |
+| 692 | La Juerga Radio | conectperu.com | <https://conectperu.com/8134/stream> |
+| 693 | Megasat Radio | panelautodj.innovatestream.pe | <https://panelautodj.innovatestream.pe/8254/stream> |
+| 694 | Radio Extramix | virtual4.emisorasvirtuales.com:8180 | <https://virtual4.emisorasvirtuales.com:8180/live> |
+| 695 | Radio Rutas Peru | securestream.radioshd.info | <https://securestream.radioshd.info/9376/stream> |
+| 696 | El Refugio del Puma Radio | radio.perustreaming.net:8006 | <https://radio.perustreaming.net:8006/stream/> |
+| 697 | Radio Nycoll en vivo - 90.9 FM | mediastreamm.com | <https://mediastreamm.com/8068/stream> |
+| 698 | Radio Star Mollendo | maximacenterdata.com | <https://maximacenterdata.com/8004/stream> |
+| 699 | Wiñaymarka Radio | server.streamingradios.net:8184 | <https://server.streamingradios.net:8184/> |
+| 700 | Radio Sabor Mix - Majes Pedregal | a11.asurahosting.com:8070 | <https://a11.asurahosting.com:8070/radio.mp3> |
+| 701 | Radio Tropikana | tupanel.info:9930 | <https://tupanel.info:9930/stream> |
+| 702 | Radio Tucume | sp.onliveperu.com:7023 | <https://sp.onliveperu.com:7023/stream> |
+| 703 | San Miguel de Coina Radio | server01.heplayer.com | <https://server01.heplayer.com/8184/stream> |
+| 704 | Qhaphiya Radio | server.streamingradios.net | <https://server.streamingradios.net/8004/stream.mp3> |
+| 705 | Generacion Kpop | stream9.mexiserver.com:8242 | <http://stream9.mexiserver.com:8242/stream> |
+| 706 | Z Rock & Pop | radioz.egostreaming.pe | <https://radioz.egostreaming.pe/radio/3e4f6a1b2c3d4e567890abcd/> |
+| 707 | Radio Felicidad 88.9 | us-b4-p-e-cg11-audio.cdn.mdstrm.com | <https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5fad731fcf097a068af3c8f7?aid=5faaeb72f92d7b07dfe10181&pid=SizD5IcXgPshdy2BwoWzgwJctGVgzody&sid=B0q6kSXWs6cQPQRiJqIogfMHbN23pxb7&uid=LJN7A0fUFg9cKmpDPCjkzO4dAyC27D3c&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1769973297522&ot=Vgn1qmbwovtG7HvKL752Kw&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fad731fcf097a068af3c8f7&listenerId=LJN7A0fUFg9cKmpDPCjkzO4dAyC27D3c> |
+| 708 | Panamericana Retro Rock | us-b4-p-e-ml19-audio.cdn.mdstrm.com | <https://us-b4-p-e-ml19-audio.cdn.mdstrm.com/live-audio-aw/6598b728d982060896866b8a?aid=658ddcc0b2c7835d48fee06d&pid=G7ssyjSqlzcNhQgCYHuhwpF10JtOnF5V&sid=vuVIk8TMrxYUm4dOUDsQZkL3HLrl64Ae&uid=gNLa3n98JzJUmbBSRuFDOXzk2yEzGpEi&es=us-b4-p-e-ml19-audio.cdn.mdstrm.com&ote=1769973297074&ot=tsY1n-zxj5oSIe6nraAT_g&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b728d982060896866b8a&listenerId=gNLa3n98JzJUmbBSRuFDOXzk2yEzGpEi> |
+| 709 | Radio RPP Noticias | us-b4-p-e-ml19-audio.cdn.mdstrm.com | <https://us-b4-p-e-ml19-audio.cdn.mdstrm.com/live-audio-aw/5fab3416b5f9ef165cfab6e9?aid=5faaeb72f92d7b07dfe10181&pid=Xqms6wIfX2XFjXGypTuWZ9kdUwmMXaBl&sid=qY4lsX78PzxTwm9V2qFru2lWJoiWynTi&uid=YpxAiyximQTDKkjZWR702RBTYjX6Y8ll&es=us-b4-p-e-ml19-audio.cdn.mdstrm.com&ote=1769973296335&ot=yS1Tt7yNLY4wONvqJtZgmg&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fab3416b5f9ef165cfab6e9&listenerId=YpxAiyximQTDKkjZWR702RBTYjX6Y8ll> |
+| 710 | Radio 1160 Peru | us-b4-p-e-pb13-audio.cdn.mdstrm.com | <https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/6598b6e1261d9e088a6de859?aid=658ddcc0b2c7835d48fee06d&pid=G3FnIvg2s2uxHg1lIbLUlWa3cFT5KPBg&sid=XAAefdCCMC9B9MvNg9TwqdstYTKnk3li&uid=Nkdb2uczAeFQEIGw1fojci2BEYfd4Tye&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1711464716330&ot=YgiDR9HDtOJKN3UCFo0-xg&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b6e1261d9e088a6de859&listenerId=Nkdb2uczAeFQEIGw1fojci2BEYfd4Tye> |
+| 711 | Radio Panamericana | us-b4-p-e-cg11-audio.cdn.mdstrm.com | <https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/6598b62dded1380470f4e539?aid=658ddcc0b2c7835d48fee06d&pid=ddwZWXtBLPc53gEO8C88Jc9N6mngOYJw&sid=QfrzWQQfj9zHnvogx2q9ZL1HQP9ePVOr&uid=ExUcqanQ5L0NJkX9dG6QXvof0IybQpj3&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1769973297704&ot=VvXBrRTSfaybSJyJzimIEQ&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b62dded1380470f4e539&listenerId=ExUcqanQ5L0NJkX9dG6QXvof0IybQpj3> |
+| 712 | Radio Cumbia Mix | us-b4-p-e-jn18-audio.cdn.mdstrm.com | <https://us-b4-p-e-jn18-audio.cdn.mdstrm.com/live-audio-aw/6598b6ab95a235085823b24f?aid=658ddcc0b2c7835d48fee06d&pid=1grlRLiJUedRx6L8Zkz8RaR4tdtTZFtH&sid=AWX5feu1mhwkExMkdegC6uaZEWW00ktQ&uid=rIN3d2ynfU96zISHccV8uRLbdWvH75YP&es=us-b4-p-e-jn18-audio.cdn.mdstrm.com&ote=1769973298124&ot=dpa1JhwiGMOIov67a2OcLg&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b6ab95a235085823b24f&listenerId=rIN3d2ynfU96zISHccV8uRLbdWvH75YP> |
+| 713 | Radio La Cheverísima - Utcubamba | sp.onliveperu.com | <https://sp.onliveperu.com/8114/stream/> |
+| 714 | Radio Nova peru | panel.innovatestream.pe:10990 | <https://panel.innovatestream.pe:10990/undefined> |
+| 715 | peru cumbia | servistream.info:8330 | <https://servistream.info:8330/stream> |
+| 716 | Radio La Voz del Nor Oriente - Utcubamba | sp.onliveperu.com:7038 | <https://sp.onliveperu.com:7038/> |
+| 717 | Melodia Arequipa | stream.radiomelodia.com.pe:8000 | <http://stream.radiomelodia.com.pe:8000/radio.mp3> |
+| 718 | Radio Nova | panel.innovatestream.pe:10989 | <https://panel.innovatestream.pe:10989/stream> |
+| 719 | Panamericana Salsa Power | us-b4-p-e-zs14-audio.cdn.mdstrm.com | <https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/6598b751261d9e088a6deadd?aid=658ddcc0b2c7835d48fee06d&pid=uub6n2bt1dwhexOjSNEg7p8MCnPDaai2&sid=kfEnteyb7IoMnp77gab1aIO1MW6UINCO&uid=wAcBfojJprgJqGUaozeubWjoEbrMuDw2&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1769973298831&ot=ij6mzyoZhTlqQmm4s-m5kA&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b751261d9e088a6deadd&listenerId=wAcBfojJprgJqGUaozeubWjoEbrMuDw2> |
+| 720 | La Kalle 96.1 Lima | lakalle.egostreaming.pe | <https://lakalle.egostreaming.pe/radio/a7b9c3e4567f8d0123456789/> |
+| 721 | Radio Megamix Lima | us-b4-p-e-cg11-audio.cdn.mdstrm.com | <https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5fada56fe4e09508207a7951/playlist.m3u8?aid=5faaeb72f92d7b07dfe10181&pid=0dlHTWVivFNco4kWt821CsXhnVIXJowN&sid=px1Hb89ImN4pIZKFOlHBFYWscdTsu4Dn&uid=YYcwOpnRqVh3hya21X1Au5jJAZ5ber9u&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1769973302509&ot=YJOcLYqNin3eZwYuAcAs7g&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada56fe4e09508207a7951&listenerId=YYcwOpnRqVh3hya21X1Au5jJAZ5ber9u> |
+| 722 | Onda Cero Te Activa | us-b4-p-e-zs14-audio.cdn.mdstrm.com | <https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/6598b65ab398c90871aff8cc?aid=658ddcc0b2c7835d48fee06d&pid=pErBsQIKgMqbGUsc3CPjsGywZCcTjFMr&sid=BdR91dCdI1k6TIioStlCPesbYRddyJtJ&uid=uqjtqPFeTmM5V8LSP8or4JU490HBdCUm&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1769973300339&ot=lDW2j3mIGn2kMiI_NiMvEg&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b65ab398c90871aff8cc&listenerId=uqjtqPFeTmM5V8LSP8or4JU490HBdCUm> |
+| 723 | Karibeña | karibena.egostreaming.pe | <https://karibena.egostreaming.pe/radio/6898b6e52d9e088a6de159/> |
+| 724 | Panamericana Latino Refrescante | us-b4-p-e-jn18-audio.cdn.mdstrm.com | <https://us-b4-p-e-jn18-audio.cdn.mdstrm.com/live-audio-aw/6598b76c6c07d80644b7321f?aid=658ddcc0b2c7835d48fee06d&pid=FMT4q8AAM7bmUvJJPVqPWZMzVnR9htGT&sid=DAkXFgqOpmcca26D5hyqHyZKeDhTfoGd&uid=8PfSSgyGaa79wS918kUcdER7gEvULY0w&es=us-b4-p-e-jn18-audio.cdn.mdstrm.com&ote=1769973299285&ot=GDxKOLnImJ0QRSUJ8pmB6g&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b76c6c07d80644b7321f&listenerId=8PfSSgyGaa79wS918kUcdER7gEvULY0w> |
+| 725 | RADIO HUANCAYO | cloud9.ldwebstudios.net:7000 | <https://cloud9.ldwebstudios.net:7000/stream> |
+| 726 | Viva FM Smart | tupanel.info:8780 | <https://tupanel.info:8780/stream> |
+| 727 | Radio Yaraví | tupanel.info | <https://tupanel.info/stream/radioyaravi/stream> |
+| 728 | Radio Stereo G La Grande - Rodriguez de Mendoza | dattavolt.com | <https://dattavolt.com/8138/stream> |
+| 729 | Radio Stereo 99 - Bagua Grande | sechin.grupocentroserver.com | <https://sechin.grupocentroserver.com/radio/8300/radio.mp3> |
+| 730 | Radio Un Hueco en el Espacio | cloudstream2032.conectarhosting.com | <https://cloudstream2032.conectarhosting.com/8106/stream> |
+| 731 | radio Disney Perú | 27413.live.streamtheworld.com | <https://27413.live.streamtheworld.com/DISNEY_PER_LMAAC/HLS/playlist.m3u8> |
+| 732 | Andina Radio | panel.innovatestream.pe:7058 | <http://panel.innovatestream.pe:7058/> |
+| 733 | Radio La Zona Urbana | us-b4-p-e-ml19-audio.cdn.mdstrm.com | <https://us-b4-p-e-ml19-audio.cdn.mdstrm.com/live-audio-aw/5fada54116646e098d97e6a5/playlist.m3u8?aid=5faaeb72f92d7b07dfe10181&pid=PodXvtShc3TrEYd6Y2NKoWF2RMA4MFtv&sid=vMnRhSMLgrPDL4x9DCr1M7vvmGTYXt4c&uid=AWsoN76fXI2L8U79Dta0JzTohij0d6Jp&es=us-b4-p-e-ml19-audio.cdn.mdstrm.com&ote=1769973303882&ot=2KZixhI2yHmixDGGpP_eog&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada54116646e098d97e6a5&listenerId=AWsoN76fXI2L8U79Dta0JzTohij0d6Jp> |
+| 734 | Radio 1550, La Radio Joven. Huancayo. 88.9 FM. | streaming.virtugo.digital:8002 | <https://streaming.virtugo.digital:8002/stream> |
+| 735 | Exa FM | 27063.live.streamtheworld.com | <https://27063.live.streamtheworld.com/XHPSFMAAC.aac> |
+| 736 | Radio Caramelo | panelautodj.innovatestream.pe:10857 | <https://panelautodj.innovatestream.pe:10857/stream> |
+| 737 | La Nube 91.9 | us-b4-p-e-jn18-audio.cdn.mdstrm.com | <https://us-b4-p-e-jn18-audio.cdn.mdstrm.com/live-audio-aw/6598b70f86344b02b58ce836?aid=658ddcc0b2c7835d48fee06d&pid=DTtOkkApRjRrF1R30rDpTCAPMQhSmzVC&sid=BNJm9c1etdoUU31Rbf1CCNpARThqumbN&uid=TVUALP2vbc0HjX4eym2RooZIWFx9CNzn&es=us-b4-p-e-jn18-audio.cdn.mdstrm.com&ote=1769973304166&ot=Vf1OvCX1sBPVvx-BnfuS1w&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b70f86344b02b58ce836&listenerId=TVUALP2vbc0HjX4eym2RooZIWFx9CNzn> |
+| 738 | Frecuencia 100 101.9 | sp.oyotunstream.com | <https://sp.oyotunstream.com/7066/> |
+| 739 | Filarmonía | c22.radioboss.fm:8100 | <https://c22.radioboss.fm:8100/stream> |
+| 740 | Superstereo 105.5 fm | IPv4 直链 | <http://51.89.173.53:8031/> |
+| 741 | Radio Retro | stream2.eistreaming.com | <https://stream2.eistreaming.com/7068/stream> |
+| 742 | Zona 5 93.3 | panel.innovatestream.pe:10975 | <https://panel.innovatestream.pe:10975/stream> |
+| 743 | Abdulbasit Abdulsamad | radio.mp3islam.com | <https://radio.mp3islam.com/listen/abdulbasit/radio.mp3> |
+| 744 | Radio Super Pucallpa | sechin.grupocentroserver.com | <https://sechin.grupocentroserver.com/listen/mi_super_radio/radio.mp3> |
+| 745 | Radio Shack Music | c30.radioboss.fm:18415 | <https://c30.radioboss.fm:18415/stream> |
+| 746 | Radio Armonía Cristiana 94.9 FM (El Sonido Celestial) | eu6.fastcast4u.com:5264 | <http://eu6.fastcast4u.com:5264/> |
+| 747 | Radio Frecuencia Del Espíritu Santo | streaming.serviclictecnologia.com:8060 | <https://streaming.serviclictecnologia.com:8060/> |
+| 748 | Radio Mágica 88.3 FM | pe-p1-p-e-xm2-audio.cdn.mdstrm.com | <https://pe-p1-p-e-xm2-audio.cdn.mdstrm.com/live-audio-aw/6839e28eb3fdc597ac2e2e43?aid=68386a6e44ba64f6064b25c9&pid=feTbRIuYIYCrMwO4fNUTwX6cqyUl3MUo&sid=JkMZvIkbbH8f017OQm8BN32kAZ8TPYUI&uid=HGunCsyBd0aMB34Mc7RhEkRXBlaSib3u&es=pe-p1-p-e-xm2-audio.cdn.mdstrm.com&ote=1767062598351&ot=f8MpWy_qc1rzl0h33cbq6g&proto=https&pz=us&cP=128000&awCollectionId=68386a6e44ba64f6064b25c9&liveId=6839e28eb3fdc597ac2e2e43&listenerId=HGunCsyBd0aMB34Mc7RhEkRXBlaSib3u> |
+| 749 | Radio Astoria Iquitos 94.9 FM | conectperu.com:7112 | <https://conectperu.com:7112/> |
 | 750 | RAM Cusco | ramcusco.stream.laut.fm | <http://ramcusco.stream.laut.fm/ramcusco?t302=2026-01-15_01-10-35&uuid=aee0051b-f27d-4062-9145-3d93ea7887d1> |
-| 751 | Radio La Zona Urbana | us-b4-p-e-ml19-audio.cdn.mdstrm.com | <https://us-b4-p-e-ml19-audio.cdn.mdstrm.com/live-audio-aw/5fada54116646e098d97e6a5/playlist.m3u8?aid=5faaeb72f92d7b07dfe10181&pid=PodXvtShc3TrEYd6Y2NKoWF2RMA4MFtv&sid=vMnRhSMLgrPDL4x9DCr1M7vvmGTYXt4c&uid=AWsoN76fXI2L8U79Dta0JzTohij0d6Jp&es=us-b4-p-e-ml19-audio.cdn.mdstrm.com&ote=1769973303882&ot=2KZixhI2yHmixDGGpP_eog&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada54116646e098d97e6a5&listenerId=AWsoN76fXI2L8U79Dta0JzTohij0d6Jp> |
-| 752 | Exa FM | 27063.live.streamtheworld.com | <https://27063.live.streamtheworld.com/XHPSFMAAC.aac> |
-| 753 | JVM la Estación (Cusco) | jvmlaestacion.stream.laut.fm | <https://jvmlaestacion.stream.laut.fm/jvmlaestacion?t302=2026-01-15_04-34-56&uuid=09ed593b-f76a-4a34-98b6-daca2d17a37b> |
-| 754 | Frecuencia 100 101.9 | sp.oyotunstream.com | <https://sp.oyotunstream.com/7066/> |
-| 755 | Andina Radio | panel.innovatestream.pe:7058 | <http://panel.innovatestream.pe:7058/> |
-| 756 | Superstereo 105.5 fm | IPv4 直链 | <http://51.89.173.53:8031/> |
-| 757 | Filarmonía | c22.radioboss.fm:8100 | <https://c22.radioboss.fm:8100/stream> |
-| 758 | Radio Caramelo | panelautodj.innovatestream.pe:10857 | <https://panelautodj.innovatestream.pe:10857/stream> |
-| 759 | Radio Retro | stream2.eistreaming.com | <https://stream2.eistreaming.com/7068/stream> |
-| 760 | Zona 5 93.3 | panel.innovatestream.pe:10975 | <https://panel.innovatestream.pe:10975/stream> |
-| 761 | Radio Super Pucallpa | sechin.grupocentroserver.com | <https://sechin.grupocentroserver.com/listen/mi_super_radio/radio.mp3> |
-| 762 | Radio Shack Music | c30.radioboss.fm:18415 | <https://c30.radioboss.fm:18415/stream> |
-| 763 | La Nube 91.9 | us-b4-p-e-jn18-audio.cdn.mdstrm.com | <https://us-b4-p-e-jn18-audio.cdn.mdstrm.com/live-audio-aw/6598b70f86344b02b58ce836?aid=658ddcc0b2c7835d48fee06d&pid=DTtOkkApRjRrF1R30rDpTCAPMQhSmzVC&sid=BNJm9c1etdoUU31Rbf1CCNpARThqumbN&uid=TVUALP2vbc0HjX4eym2RooZIWFx9CNzn&es=us-b4-p-e-jn18-audio.cdn.mdstrm.com&ote=1769973304166&ot=Vf1OvCX1sBPVvx-BnfuS1w&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b70f86344b02b58ce836&listenerId=TVUALP2vbc0HjX4eym2RooZIWFx9CNzn> |
-| 764 | Radio Armonía Cristiana 94.9 FM (El Sonido Celestial) | eu6.fastcast4u.com:5264 | <http://eu6.fastcast4u.com:5264/> |
-| 765 | Abdulbasit Abdulsamad | radio.mp3islam.com | <https://radio.mp3islam.com/listen/abdulbasit/radio.mp3> |
-| 766 | Radio Astoria Iquitos 94.9 FM | conectperu.com:7112 | <https://conectperu.com:7112/> |
-| 767 | Radio Mágica 88.3 FM | pe-p1-p-e-xm2-audio.cdn.mdstrm.com | <https://pe-p1-p-e-xm2-audio.cdn.mdstrm.com/live-audio-aw/6839e28eb3fdc597ac2e2e43?aid=68386a6e44ba64f6064b25c9&pid=feTbRIuYIYCrMwO4fNUTwX6cqyUl3MUo&sid=JkMZvIkbbH8f017OQm8BN32kAZ8TPYUI&uid=HGunCsyBd0aMB34Mc7RhEkRXBlaSib3u&es=pe-p1-p-e-xm2-audio.cdn.mdstrm.com&ote=1767062598351&ot=f8MpWy_qc1rzl0h33cbq6g&proto=https&pz=us&cP=128000&awCollectionId=68386a6e44ba64f6064b25c9&liveId=6839e28eb3fdc597ac2e2e43&listenerId=HGunCsyBd0aMB34Mc7RhEkRXBlaSib3u> |
+| 751 | JVM la Estación (Cusco) | jvmlaestacion.stream.laut.fm | <https://jvmlaestacion.stream.laut.fm/jvmlaestacion?t302=2026-01-15_04-34-56&uuid=09ed593b-f76a-4a34-98b6-daca2d17a37b> |
 
-Updated at **Tue Apr 14 2026 02:55:31 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Apr 14 2026 07:55:01 GMT+0000 (Coordinated Universal Time)**
