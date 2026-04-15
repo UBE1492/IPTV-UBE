@@ -59,3 +59,5 @@ https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlis
 https://stream.unison.mx/hls/unisontvatem.m3u8
 #EXTINF:-1 tvg-id="VBMediaTV.mx@SD",VB Media TV (1080p)
 https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
+#EXTINF:-1 tvg-id="GikTVMX.mx@SD",GikTVMX (720p)
+#EXTVLCOPT:http-referrer=https://giktv.com

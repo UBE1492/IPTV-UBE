@@ -1,6 +1,6 @@
 {
   "name": "mx",
-  "updated_at": 1776194568401,
+  "updated_at": 1776221505141,
   "m3u": "https://ube1492.github.io/IPTV-UBE/mx.m3u",
   "channels": [
     {
@@ -419,6 +419,15 @@
       "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/lasestrellas.playlist.m3u8",
       "logo": "",
       "category": "Otros"
+    },
+    {
+      "name": "GikTVMX (720p)",
+      "url": "",
+      "logo": "",
+      "category": "Otros",
+      "options": {
+        "http-referrer": "https://giktv.com"
+      }
     }
   ],
   "categories": {
@@ -839,6 +848,15 @@
         "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/lasestrellas.playlist.m3u8",
         "logo": "",
         "category": "Otros"
+      },
+      {
+        "name": "GikTVMX (720p)",
+        "url": "",
+        "logo": "",
+        "category": "Otros",
+        "options": {
+          "http-referrer": "https://giktv.com"
+        }
       }
     ]
   }
