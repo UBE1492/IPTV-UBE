@@ -85,3 +85,4 @@ MusicTop_(1080p),https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlis
 Volver_(480p),http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-74_480.m3u8
 IP_Noticias_(480p),http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-21_480.m3u8
 TyC_Sports_(1080p)_[Geo-blocked],https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
+Canal_Pulpo_TV,https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8

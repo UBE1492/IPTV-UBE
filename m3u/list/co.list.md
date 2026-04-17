@@ -84,5 +84,7 @@
 | 78 | Kalu TV (1080p) | tv.kaludecolombia.com | <https://tv.kaludecolombia.com/memfs/d71c0104-4752-4690-bdbf-19aa849da6c4.m3u8> |
 | 79 | Win+ Futbol | IPv4 直链 | <http://190.60.40.34:8001/play/a02r> |
 | 80 | Win Sports (1080p) | IPv4 直链 | <http://190.60.40.34:8001/play/a0ef> |
+| 81 | Canal CHD | vs20.live.opencaster.com | <https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8> |
+| 82 | Emisora Las Vegas | vs20.live.opencaster.com | <https://vs20.live.opencaster.com/emisoralasvegas_b84f5781/index.m3u8> |
 
-Updated at **Thu Apr 16 2026 19:22:05 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Apr 17 2026 02:54:24 GMT+0000 (Coordinated Universal Time)**

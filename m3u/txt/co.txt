@@ -84,3 +84,5 @@ Canal_PyC_(720p),https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/pla
 Kalu_TV_(1080p),https://tv.kaludecolombia.com/memfs/d71c0104-4752-4690-bdbf-19aa849da6c4.m3u8
 Win+_Futbol,http://190.60.40.34:8001/play/a02r
 Win_Sports_(1080p),http://190.60.40.34:8001/play/a0ef
+Canal_CHD,https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8
+Emisora_Las_Vegas,https://vs20.live.opencaster.com/emisoralasvegas_b84f5781/index.m3u8
