@@ -88,4 +88,4 @@
 | 82 | TyC Sports (1080p) [Geo-blocked] | live-04-11-tyc24.vodgc.net | <https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8> |
 | 83 | Canal Pulpo TV | vs20.live.opencaster.com | <https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8> |
 
-Updated at **Sat Apr 18 2026 02:45:35 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Apr 18 2026 07:14:28 GMT+0000 (Coordinated Universal Time)**
