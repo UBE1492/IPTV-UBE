@@ -34,4 +34,4 @@
 | 28 | Farra Play (576p) | stream.farra.com.py | <https://stream.farra.com.py/live/farra_low.m3u8> |
 | 29 | En Lengua de Senas TV (720p) | cloudtv.streaming.com.py | <https://cloudtv.streaming.com.py/lenguasdesenas/lenguasdesenas/chunklist.m3u8> |
 
-Updated at **Sat Apr 18 2026 07:14:29 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Apr 18 2026 13:10:45 GMT+0000 (Coordinated Universal Time)**

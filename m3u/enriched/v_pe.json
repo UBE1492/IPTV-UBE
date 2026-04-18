@@ -1,7 +1,23 @@
 {
   "name": "v_pe",
-  "updated_at": 1776496484840,
+  "updated_at": 1776517858219,
   "m3u": "https://ube1492.github.io/IPTV-UBE/v_pe.m3u",
-  "channels": [],
-  "categories": {}
+  "channels": [
+    {
+      "name": "Latina.|SD|",
+      "url": "http://photocall.tv/latina.php/.m3u8",
+      "logo": "LG",
+      "category": "Otros"
+    }
+  ],
+  "categories": {
+    "Otros": [
+      {
+        "name": "Latina.|SD|",
+        "url": "http://photocall.tv/latina.php/.m3u8",
+        "logo": "LG",
+        "category": "Otros"
+      }
+    ]
+  }
 }
