@@ -89,4 +89,4 @@
 | 83 | Canal Pulpo TV | vs20.live.opencaster.com | <https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8> |
 | 84 | TyC Sports USA | IPv4 直链 | <http://45.170.130.224:8000/play/a020/index.m3u8> |
 
-Updated at **Sun Apr 19 2026 03:19:46 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Apr 19 2026 07:25:32 GMT+0000 (Coordinated Universal Time)**

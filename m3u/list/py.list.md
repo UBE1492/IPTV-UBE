@@ -36,4 +36,4 @@
 | 30 | SUR TV Itapua | IPv4 直链 | <http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1596.m3u8> |
 | 31 | TV Camara (1080p) | IPv4 直链 | <http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/119.m3u8> |
 
-Updated at **Sun Apr 19 2026 03:19:48 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Apr 19 2026 07:25:32 GMT+0000 (Coordinated Universal Time)**
