@@ -1,6 +1,6 @@
 {
   "name": "py",
-  "updated_at": 1776538641552,
+  "updated_at": 1776568788582,
   "m3u": "https://ube1492.github.io/IPTV-UBE/py.m3u",
   "channels": [
     {
@@ -213,6 +213,18 @@
     {
       "name": "En Lengua de Senas TV (720p)",
       "url": "https://cloudtv.streaming.com.py/lenguasdesenas/lenguasdesenas/chunklist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "SUR TV Itapua",
+      "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1596.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "TV Camara (1080p)",
+      "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/119.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -429,6 +441,18 @@
       {
         "name": "En Lengua de Senas TV (720p)",
         "url": "https://cloudtv.streaming.com.py/lenguasdesenas/lenguasdesenas/chunklist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "SUR TV Itapua",
+        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1596.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "TV Camara (1080p)",
+        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/119.m3u8",
         "logo": "",
         "category": "Otros"
       }

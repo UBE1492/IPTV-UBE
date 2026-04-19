@@ -33,5 +33,7 @@
 | 27 | RCC TV (1080p) [Not 24/7] | copacoradios.desdeparaguay.net | <https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion> |
 | 28 | Farra Play (576p) | stream.farra.com.py | <https://stream.farra.com.py/live/farra_low.m3u8> |
 | 29 | En Lengua de Senas TV (720p) | cloudtv.streaming.com.py | <https://cloudtv.streaming.com.py/lenguasdesenas/lenguasdesenas/chunklist.m3u8> |
+| 30 | SUR TV Itapua | IPv4 直链 | <http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1596.m3u8> |
+| 31 | TV Camara (1080p) | IPv4 直链 | <http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/119.m3u8> |
 
-Updated at **Sat Apr 18 2026 18:57:21 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Apr 19 2026 03:19:48 GMT+0000 (Coordinated Universal Time)**

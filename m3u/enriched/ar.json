@@ -1,6 +1,6 @@
 {
   "name": "ar",
-  "updated_at": 1776538638356,
+  "updated_at": 1776568786681,
   "m3u": "https://ube1492.github.io/IPTV-UBE/ar.m3u",
   "channels": [
     {
@@ -513,6 +513,12 @@
     {
       "name": "Canal Pulpo TV",
       "url": "https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "TyC Sports USA",
+      "url": "http://45.170.130.224:8000/play/a020/index.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -1029,6 +1035,12 @@
       {
         "name": "Canal Pulpo TV",
         "url": "https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "TyC Sports USA",
+        "url": "http://45.170.130.224:8000/play/a020/index.m3u8",
         "logo": "",
         "category": "Otros"
       }

@@ -87,5 +87,6 @@
 | 81 | IP Noticias (480p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-21_480.m3u8> |
 | 82 | TyC Sports (1080p) [Geo-blocked] | live-04-11-tyc24.vodgc.net | <https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8> |
 | 83 | Canal Pulpo TV | vs20.live.opencaster.com | <https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8> |
+| 84 | TyC Sports USA | IPv4 直链 | <http://45.170.130.224:8000/play/a020/index.m3u8> |
 
-Updated at **Sat Apr 18 2026 18:57:18 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Apr 19 2026 03:19:46 GMT+0000 (Coordinated Universal Time)**
