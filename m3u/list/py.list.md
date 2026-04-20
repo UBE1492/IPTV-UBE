@@ -35,5 +35,6 @@
 | 29 | En Lengua de Senas TV (720p) | cloudtv.streaming.com.py | <https://cloudtv.streaming.com.py/lenguasdesenas/lenguasdesenas/chunklist.m3u8> |
 | 30 | SUR TV Itapua | IPv4 直链 | <http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1596.m3u8> |
 | 31 | TV Camara (1080p) | IPv4 直链 | <http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/119.m3u8> |
+| 32 | Tigo Sports+ | IPv4 直链 | <http://45.170.130.224:8000/play/a04i/index.m3u8> |
 
-Updated at **Sun Apr 19 2026 18:57:25 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Apr 20 2026 03:22:00 GMT+0000 (Coordinated Universal Time)**
