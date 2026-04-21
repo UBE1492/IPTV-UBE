@@ -74,4 +74,4 @@
 | 68 | Las Estrellas Latin America (720p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/lasestrellas_720.m3u8> |
 | 69 | Las Estrellas Latin America (1080p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/lasestrellas.playlist.m3u8> |
 
-Updated at **Tue Apr 21 2026 02:55:25 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Apr 21 2026 07:59:04 GMT+0000 (Coordinated Universal Time)**
