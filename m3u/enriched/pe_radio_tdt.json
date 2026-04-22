@@ -1,33 +1,33 @@
 {
   "name": "pe_radio_tdt",
-  "updated_at": 1776799145539,
+  "updated_at": 1776826457126,
   "m3u": "https://ube1492.github.io/IPTV-UBE/pe_radio_tdt.m3u",
   "channels": [
-    {
-      "name": "RPP Noticias Perú",
-      "url": "https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/live.m3u8",
-      "logo": "https://graph.facebook.com/rppnoticias/picture?width=200&height=200",
-      "category": "Música"
-    },
     {
       "name": "Radio Oxígeno Perú",
       "url": "https://mdstrm.com/audio/5fab0687bcd6c2389ee9480c/icecast.audio",
       "logo": "https://graph.facebook.com/RadioOxigenoFM/picture?width=200&height=200",
+      "category": "Música"
+    },
+    {
+      "name": "RPP Noticias Perú",
+      "url": "https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/live.m3u8",
+      "logo": "https://graph.facebook.com/rppnoticias/picture?width=200&height=200",
       "category": "Música"
     }
   ],
   "categories": {
     "Música": [
       {
-        "name": "RPP Noticias Perú",
-        "url": "https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/live.m3u8",
-        "logo": "https://graph.facebook.com/rppnoticias/picture?width=200&height=200",
-        "category": "Música"
-      },
-      {
         "name": "Radio Oxígeno Perú",
         "url": "https://mdstrm.com/audio/5fab0687bcd6c2389ee9480c/icecast.audio",
         "logo": "https://graph.facebook.com/RadioOxigenoFM/picture?width=200&height=200",
+        "category": "Música"
+      },
+      {
+        "name": "RPP Noticias Perú",
+        "url": "https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/live.m3u8",
+        "logo": "https://graph.facebook.com/rppnoticias/picture?width=200&height=200",
         "category": "Música"
       }
     ]
