@@ -21,21 +21,9 @@ https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8
 https://live.enhdtv.com:8081/8060/index.m3u8
 #EXTINF:-1 tvg-id="UnionTV.py@SD",UnionTV
 https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ABCTVParaguay.py@SD",ABC-TV Paraguay
-#EXTVLCOPT:http-referrer=https://www.abc.com.py/
-#EXTINF:-1 tvg-id="DelReyTV.py@SD",Del Rey TV (1080p)
-#EXTVLCOPT:http-referrer=https://tvonline.com.py/
-#EXTINF:-1 tvg-id="ProductivaTV.py@SD",Productiva TV
-https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion
-#EXTINF:-1 tvg-id="TVAire.py@SD",TV Aire
-https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8
-#EXTINF:-1 tvg-id="MegaTV.py@SD",Mega TV (1080p)
-https://www.desde-paraguay.com/mega.m3u8
-#EXTINF:-1 tvg-id="RCCTV.py@SD",RCC TV (1080p) [Not 24/7]
-https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion
-#EXTINF:-1 tvg-id="EnLenguadeSenasTV.py@SD",En Lengua de Senas TV (720p)
-https://cloudtv.streaming.com.py/lenguasdesenas/lenguasdesenas/chunklist.m3u8
-#EXTINF:-1 tvg-id="SURTVItapua.py@SD",SUR TV Itapua
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1596.m3u8
-#EXTINF:-1 tvg-id="TVCamara.py@SD",TV Camara (1080p)
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/119.m3u8
+#EXTINF:-1 tvg-id="NandejaraNeeTV.py@SD",Nandejara Ne'e TV
+https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion
+#EXTINF:-1 tvg-id="MonumentalTV.py@SD",Monumental TV
+#EXTVLCOPT:http-referrer=https://www.monumental.com.py/
+#EXTINF:-1 tvg-id="Canal8VisionTV.py@SD",Canal 8 Vision TV (1080p)
+#EXTVLCOPT:http-referrer=https://www.visioncomunicaciones.com.py/
