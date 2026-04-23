@@ -23,4 +23,4 @@
 | 17 | Venus Media (720p) | rds3gen.desdeparaguay.net | <https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/.m3u8> |
 | 18 | Nandejara Ne'e TV | copacogen.desdeparaguay.net | <https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion> |
 
-Updated at **Thu Apr 23 2026 08:01:47 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Apr 23 2026 13:54:19 GMT+0000 (Coordinated Universal Time)**
