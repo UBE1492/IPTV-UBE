@@ -70,23 +70,23 @@
 | 64 | Cine.Ar (1080p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-20.playlist.m3u8> |
 | 65 | Canal Rural (1080p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/rural.playlist.m3u8> |
 | 66 | Quiero Musica en mi Idioma (1080p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-51.playlist.m3u8> |
-| 67 | Disney Jr. Latin America South HD (1080p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-35.playlist.m3u8> |
-| 68 | Disney Channel Latin America (720p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-32_720.m3u8> |
-| 69 | TyC Sports Latin America (1080p) | IPv4 直链 | <http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-90.playlist.m3u8> |
-| 70 | C5N (1080p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/c5n_480.m3u8> |
-| 71 | La Nacion + (720p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/lntv.playlist.m3u8> |
-| 72 | Disney Channel Latin America (1080p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-32.playlist.m3u8> |
-| 73 | TV Publica (720p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/tvpublica_720.m3u8> |
-| 74 | Metro (480p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-53_480.m3u8> |
-| 75 | El Nueve (720p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-16_720.m3u8> |
-| 76 | Ciudad Magazine (720p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/ciudadmagazine_720.m3u8> |
-| 77 | El Gourmet South (720p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-25_720.m3u8> |
-| 78 | America Internacional (720p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-17_720.m3u8> |
-| 79 | MusicTop (1080p) | stream-gtlc.telecentro.net.ar | <https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8> |
-| 80 | Volver (480p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-74_480.m3u8> |
-| 81 | IP Noticias (480p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-21_480.m3u8> |
-| 82 | TyC Sports (1080p) [Geo-blocked] | live-04-11-tyc24.vodgc.net | <https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8> |
-| 83 | Canal Pulpo TV | vs20.live.opencaster.com | <https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8> |
-| 84 | TyC Sports USA | IPv4 直链 | <http://45.170.130.224:8000/play/a020/index.m3u8> |
+| 67 | Disney Channel Latin America (720p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-32_720.m3u8> |
+| 68 | TyC Sports Latin America (1080p) | IPv4 直链 | <http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-90.playlist.m3u8> |
+| 69 | C5N (1080p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/c5n_480.m3u8> |
+| 70 | La Nacion + (720p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/lntv.playlist.m3u8> |
+| 71 | Disney Channel Latin America (1080p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-32.playlist.m3u8> |
+| 72 | TV Publica (720p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/tvpublica_720.m3u8> |
+| 73 | Metro (480p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-53_480.m3u8> |
+| 74 | El Nueve (720p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-16_720.m3u8> |
+| 75 | Ciudad Magazine (720p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/ciudadmagazine_720.m3u8> |
+| 76 | El Gourmet South (720p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-25_720.m3u8> |
+| 77 | America Internacional (720p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-17_720.m3u8> |
+| 78 | MusicTop (1080p) | stream-gtlc.telecentro.net.ar | <https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8> |
+| 79 | Volver (480p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-74_480.m3u8> |
+| 80 | IP Noticias (480p) | IPv4 直链 | <http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-21_480.m3u8> |
+| 81 | TyC Sports (1080p) [Geo-blocked] | live-04-11-tyc24.vodgc.net | <https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8> |
+| 82 | Canal Pulpo TV | vs20.live.opencaster.com | <https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8> |
+| 83 | TyC Sports USA | IPv4 直链 | <http://45.170.130.224:8000/play/a020/index.m3u8> |
+| 84 | Tele Posadas (720p) | live20.bozztv.com | <https://live20.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8> |
 
-Updated at **Thu Apr 23 2026 19:17:04 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Apr 24 2026 02:57:51 GMT+0000 (Coordinated Universal Time)**

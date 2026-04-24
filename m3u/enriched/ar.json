@@ -1,6 +1,6 @@
 {
   "name": "ar",
-  "updated_at": 1776971824032,
+  "updated_at": 1776999471363,
   "m3u": "https://ube1492.github.io/IPTV-UBE/ar.m3u",
   "channels": [
     {
@@ -415,12 +415,6 @@
       "category": "Otros"
     },
     {
-      "name": "Disney Jr. Latin America South HD (1080p)",
-      "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-35.playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Disney Channel Latin America (720p)",
       "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-32_720.m3u8",
       "logo": "",
@@ -519,6 +513,12 @@
     {
       "name": "TyC Sports USA",
       "url": "http://45.170.130.224:8000/play/a020/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Tele Posadas (720p)",
+      "url": "https://live20.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -937,12 +937,6 @@
         "category": "Otros"
       },
       {
-        "name": "Disney Jr. Latin America South HD (1080p)",
-        "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-35.playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "Disney Channel Latin America (720p)",
         "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-32_720.m3u8",
         "logo": "",
@@ -1041,6 +1035,12 @@
       {
         "name": "TyC Sports USA",
         "url": "http://45.170.130.224:8000/play/a020/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Tele Posadas (720p)",
+        "url": "https://live20.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       }

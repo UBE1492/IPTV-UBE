@@ -69,7 +69,6 @@ Cronica_TV_(1280p),http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3c
 Cine.Ar_(1080p),http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-20.playlist.m3u8
 Canal_Rural_(1080p),http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/rural.playlist.m3u8
 Quiero_Musica_en_mi_Idioma_(1080p),http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-51.playlist.m3u8
-Disney_Jr._Latin_America_South_HD_(1080p),http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-35.playlist.m3u8
 Disney_Channel_Latin_America_(720p),http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-32_720.m3u8
 TyC_Sports_Latin_America_(1080p),http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-90.playlist.m3u8
 C5N_(1080p),http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/c5n_480.m3u8
@@ -87,3 +86,4 @@ IP_Noticias_(480p),http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3c
 TyC_Sports_(1080p)_[Geo-blocked],https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
 Canal_Pulpo_TV,https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8
 TyC_Sports_USA,http://45.170.130.224:8000/play/a020/index.m3u8
+Tele_Posadas_(720p),https://live20.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8
