@@ -89,4 +89,4 @@
 | 83 | TyC Sports USA | IPv4 直链 | <http://45.170.130.224:8000/play/a020/index.m3u8> |
 | 84 | Tele Posadas (720p) | live20.bozztv.com | <https://live20.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8> |
 
-Updated at **Fri Apr 24 2026 02:57:51 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Apr 24 2026 08:10:30 GMT+0000 (Coordinated Universal Time)**
