@@ -66,4 +66,4 @@
 | 60 | VTV Valle de Aconcagua (720p) [Not 24/7] | unlimited1-us.dps.live | <https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8> |
 | 61 | Orbita Chile TV (1080p) | orbitachiletv.org | <https://orbitachiletv.org/hls/0/stream.m3u8> |
 
-Updated at **Fri Apr 24 2026 08:10:30 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Apr 24 2026 13:44:34 GMT+0000 (Coordinated Universal Time)**
