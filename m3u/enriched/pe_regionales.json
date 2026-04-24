@@ -1,6 +1,6 @@
 {
   "name": "pe_regionales",
-  "updated_at": 1777038280599,
+  "updated_at": 1777057134632,
   "m3u": "https://ube1492.github.io/IPTV-UBE/pe_regionales.m3u",
   "channels": [
     {
@@ -70,6 +70,12 @@
       "category": "Without category"
     },
     {
+      "name": "ATV+ | PE",
+      "url": "https://d1svme839xkbsn.cloudfront.net/index.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/1066_ATV_.png",
+      "category": "Without category"
+    },
+    {
       "name": "Tele Selva | PE",
       "url": "https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8?PlaylistM3UCL",
       "logo": "https://cdn.m3u.cl/logo/1546_Tele_Selva.png",
@@ -82,15 +88,15 @@
       "category": "Without category"
     },
     {
-      "name": "Controversia TV | PE",
-      "url": "https://live.obslivestream.com/controversiatv/index.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/1188_Controversia_TV.png",
-      "category": "Without category"
-    },
-    {
       "name": "BHTV | PE",
       "url": "https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8?PlaylistM3UCL",
       "logo": "https://cdn.m3u.cl/logo/695_BHTV.png",
+      "category": "Without category"
+    },
+    {
+      "name": "Controversia TV | PE",
+      "url": "https://live.obslivestream.com/controversiatv/index.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/1188_Controversia_TV.png",
       "category": "Without category"
     },
     {
@@ -211,6 +217,12 @@
         "category": "Without category"
       },
       {
+        "name": "ATV+ | PE",
+        "url": "https://d1svme839xkbsn.cloudfront.net/index.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/1066_ATV_.png",
+        "category": "Without category"
+      },
+      {
         "name": "Tele Selva | PE",
         "url": "https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8?PlaylistM3UCL",
         "logo": "https://cdn.m3u.cl/logo/1546_Tele_Selva.png",
@@ -223,15 +235,15 @@
         "category": "Without category"
       },
       {
-        "name": "Controversia TV | PE",
-        "url": "https://live.obslivestream.com/controversiatv/index.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/1188_Controversia_TV.png",
-        "category": "Without category"
-      },
-      {
         "name": "BHTV | PE",
         "url": "https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8?PlaylistM3UCL",
         "logo": "https://cdn.m3u.cl/logo/695_BHTV.png",
+        "category": "Without category"
+      },
+      {
+        "name": "Controversia TV | PE",
+        "url": "https://live.obslivestream.com/controversiatv/index.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/1188_Controversia_TV.png",
         "category": "Without category"
       },
       {
