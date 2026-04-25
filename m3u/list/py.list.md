@@ -41,4 +41,4 @@
 | 35 | Venus Media (1280p) [Not 24/7] | IPv4 直链 | <http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/66.m3u8> |
 | 36 | America Paraguay | IPv4 直链 | <http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/83.m3u8> |
 
-Updated at **Sat Apr 25 2026 07:23:46 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Apr 25 2026 13:13:21 GMT+0000 (Coordinated Universal Time)**
