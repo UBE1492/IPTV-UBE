@@ -88,5 +88,6 @@
 | 82 | Canal Pulpo TV | vs20.live.opencaster.com | <https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8> |
 | 83 | TyC Sports USA | IPv4 直链 | <http://45.170.130.224:8000/play/a020/index.m3u8> |
 | 84 | Tele Posadas (720p) | live20.bozztv.com | <https://live20.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8> |
+| 85 | TyC Sports (1080p) | amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv | <https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8> |
 
-Updated at **Fri Apr 24 2026 18:58:47 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Apr 25 2026 02:47:18 GMT+0000 (Coordinated Universal Time)**

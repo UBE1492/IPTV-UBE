@@ -87,3 +87,4 @@ TyC_Sports_(1080p)_[Geo-blocked],https://live-04-11-tyc24.vodgc.net/tyc24/index_
 Canal_Pulpo_TV,https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8
 TyC_Sports_USA,http://45.170.130.224:8000/play/a020/index.m3u8
 Tele_Posadas_(720p),https://live20.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8
+TyC_Sports_(1080p),https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8

@@ -1,6 +1,6 @@
 {
   "name": "ar",
-  "updated_at": 1777057127034,
+  "updated_at": 1777085238219,
   "m3u": "https://ube1492.github.io/IPTV-UBE/ar.m3u",
   "channels": [
     {
@@ -519,6 +519,12 @@
     {
       "name": "Tele Posadas (720p)",
       "url": "https://live20.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "TyC Sports (1080p)",
+      "url": "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -1041,6 +1047,12 @@
       {
         "name": "Tele Posadas (720p)",
         "url": "https://live20.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "TyC Sports (1080p)",
+        "url": "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       }
