@@ -54,4 +54,4 @@
 | 48 | Telequince (1080p) | video.hostingcaaguazu.com:19360 | <https://video.hostingcaaguazu.com:19360/telequince/telequince.m3u8> |
 | 49 | TV Canindeyu (1080p) | video.hostingcaaguazu.com:19360 | <https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8> |
 
-Updated at **Sun Apr 26 2026 03:24:37 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Apr 26 2026 07:45:01 GMT+0000 (Coordinated Universal Time)**
