@@ -43,3 +43,16 @@ Paraguay_TV,http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/118.m3u8
 Tropicalia_93.9_FM_(1280p),http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/67.m3u8
 Venus_Media_(1280p)_[Not_24/7],http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/66.m3u8
 America_Paraguay,http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/83.m3u8
+Alcance_FM_PLAY_TV,https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8
+Red_Interior_TV,https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8
+Occidental_TV,https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8
+Radio_San_Cristobal_88.7_FM,https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8
+Nande_Portetepe_TV,https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8
+UniRadio_TV_(1080p),https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8
+Radio_TV_El_Arca_del_Pacto_(1080p),https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8
+Oasis_TV_(720p),https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8
+Canal_8_C&C_Producciones,https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8
+Obedira_TV,https://video.hostingcaaguazu.com:19360/obediratv/obediratv.m3u8
+Regional_TV_Yaguaron_(1080p),https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8
+Telequince_(1080p),https://video.hostingcaaguazu.com:19360/telequince/telequince.m3u8
+TV_Canindeyu_(1080p),https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8

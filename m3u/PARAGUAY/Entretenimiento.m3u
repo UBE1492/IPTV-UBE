@@ -41,3 +41,19 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1596.m3u8
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/119.m3u8
 #EXTINF:-1 tvg-id="ParaguayTV.py@SD",Paraguay TV
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/118.m3u8
+#EXTINF:-1 tvg-id="RedInteriorTV.py@SD",Red Interior TV
+https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8
+#EXTINF:-1 tvg-id="OccidentalTV.py@SD",Occidental TV
+https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8
+#EXTINF:-1 tvg-id="NandePortetepeTV.py@SD",Nande Portetepe TV
+https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8
+#EXTINF:-1 tvg-id="UniRadioTV.py@SD",UniRadio TV (1080p)
+https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8
+#EXTINF:-1 tvg-id="OasisTV.py@SD",Oasis TV (720p)
+https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8
+#EXTINF:-1 tvg-id="ObediraTV.py@SD",Obedira TV
+https://video.hostingcaaguazu.com:19360/obediratv/obediratv.m3u8
+#EXTINF:-1 tvg-id="RegionalTVYaguaron.py@SD",Regional TV Yaguaron (1080p)
+https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8
+#EXTINF:-1 tvg-id="TVCanindeyu.py@SD",TV Canindeyu (1080p)
+https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8

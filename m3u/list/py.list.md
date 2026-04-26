@@ -40,5 +40,18 @@
 | 34 | Tropicalia 93.9 FM (1280p) | IPv4 直链 | <http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/67.m3u8> |
 | 35 | Venus Media (1280p) [Not 24/7] | IPv4 直链 | <http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/66.m3u8> |
 | 36 | America Paraguay | IPv4 直链 | <http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/83.m3u8> |
+| 37 | Alcance FM PLAY TV | video.wilohosting.com:19360 | <https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8> |
+| 38 | Red Interior TV | video.wilohosting.com:19360 | <https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8> |
+| 39 | Occidental TV | video.wilohosting.com:19360 | <https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8> |
+| 40 | Radio San Cristobal 88.7 FM | video.wilohosting.com:19360 | <https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8> |
+| 41 | Nande Portetepe TV | video.hostingcaaguazu.com:19360 | <https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8> |
+| 42 | UniRadio TV (1080p) | video.hostingcaaguazu.com:19360 | <https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8> |
+| 43 | Radio TV El Arca del Pacto (1080p) | video.wilohosting.com:19360 | <https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8> |
+| 44 | Oasis TV (720p) | video.hostingcaaguazu.com:19360 | <https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8> |
+| 45 | Canal 8 C&C Producciones | video.hostingcaaguazu.com:19360 | <https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8> |
+| 46 | Obedira TV | video.hostingcaaguazu.com:19360 | <https://video.hostingcaaguazu.com:19360/obediratv/obediratv.m3u8> |
+| 47 | Regional TV Yaguaron (1080p) | video.hostingcaaguazu.com:19360 | <https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8> |
+| 48 | Telequince (1080p) | video.hostingcaaguazu.com:19360 | <https://video.hostingcaaguazu.com:19360/telequince/telequince.m3u8> |
+| 49 | TV Canindeyu (1080p) | video.hostingcaaguazu.com:19360 | <https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8> |
 
-Updated at **Sat Apr 25 2026 18:59:43 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Apr 26 2026 03:24:37 GMT+0000 (Coordinated Universal Time)**
