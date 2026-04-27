@@ -468,7 +468,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-cleveland19ne
 #EXTINF:-1 tvg-id="WorldChannel.us@SD",World Channel (1080p)
 https://world.lls.pbs.org/index.m3u8
 #EXTINF:-1 tvg-id="WPIX71.us@HD",WPIX-DT1
-https://dvrfl04.tulix.tv/teleup-wpix/mpegts
+https://e1.thetvapp.to/hls/WPIX/index.m3u8
 #EXTINF:-1 tvg-id="WPXI111.us@HD",WPXI-DT1 (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wpxibreaking-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="WPXXTV501.us@HD",WPXX-DT1

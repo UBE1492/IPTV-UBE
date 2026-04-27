@@ -57,3 +57,5 @@ https://video.hostingcaaguazu.com:19360/obediratv/obediratv.m3u8
 https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8
 #EXTINF:-1 tvg-id="TVCanindeyu.py@SD",TV Canindeyu (1080p)
 https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8
+#EXTINF:-1 tvg-id="OviedoTV.py@SD",Oviedo TV
+https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8

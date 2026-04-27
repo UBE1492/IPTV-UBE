@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1777230074860,
+  "updated_at": 1777260568292,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -1406,7 +1406,7 @@
     },
     {
       "name": "WPIX-DT1",
-      "url": "https://dvrfl04.tulix.tv/teleup-wpix/mpegts",
+      "url": "https://e1.thetvapp.to/hls/WPIX/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -3005,7 +3005,7 @@
       },
       {
         "name": "WPIX-DT1",
-        "url": "https://dvrfl04.tulix.tv/teleup-wpix/mpegts",
+        "url": "https://e1.thetvapp.to/hls/WPIX/index.m3u8",
         "logo": "",
         "category": "Otros"
       },

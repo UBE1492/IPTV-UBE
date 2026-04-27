@@ -237,7 +237,7 @@
 | 231 | WNYW-DT1 (1080p) | cdn-uw2-prod.tsv2.amagi.tv | <https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8> |
 | 232 | WOIO-DT1 (720p) | cdn-uw2-prod.tsv2.amagi.tv | <https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-cleveland19newsplus-vizious/playlist.m3u8> |
 | 233 | World Channel (1080p) | world.lls.pbs.org | <https://world.lls.pbs.org/index.m3u8> |
-| 234 | WPIX-DT1 | dvrfl04.tulix.tv | <https://dvrfl04.tulix.tv/teleup-wpix/mpegts> |
+| 234 | WPIX-DT1 | e1.thetvapp.to | <https://e1.thetvapp.to/hls/WPIX/index.m3u8> |
 | 235 | WPXI-DT1 (1080p) | cdn-ue1-prod.tsv2.amagi.tv | <https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wpxibreaking-ono/playlist.m3u8> |
 | 236 | WPXX-DT1 | IPv4 直链 | <http://104.255.88.155/ion/index.m3u8> |
 | 237 | WRC-DT1 (1080p) | d368vp0qqzvkid.cloudfront.net | <https://d368vp0qqzvkid.cloudfront.net/11603/88889708/hls/master.m3u8?ads.xumo_channelId=88889708a&ads.xumo_ifaType=&ads.xumo_providerId=3830&ads.xumo_providerName=NBCNWAS> |
@@ -269,4 +269,4 @@
 | 263 | Yu-Gi-Oh! (1080p) | amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv | <https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8> |
 | 264 | Zarin TV (1080p) | fl1002.bozztv.com | <https://fl1002.bozztv.com/gf-zarintv/index.m3u8> |
 
-Updated at **Sun Apr 26 2026 19:01:14 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Apr 27 2026 03:29:28 GMT+0000 (Coordinated Universal Time)**
