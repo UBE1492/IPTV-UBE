@@ -87,4 +87,4 @@
 | 81 | Canal CHD | vs20.live.opencaster.com | <https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8> |
 | 82 | Emisora Las Vegas | vs20.live.opencaster.com | <https://vs20.live.opencaster.com/emisoralasvegas_b84f5781/index.m3u8> |
 
-Updated at **Wed Apr 29 2026 03:33:33 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Apr 29 2026 08:24:22 GMT+0000 (Coordinated Universal Time)**
