@@ -56,4 +56,4 @@
 | 50 | Radio Ciudad 98.9 FM TV | video.wilohosting.com:19360 | <https://video.wilohosting.com:19360/radiociudadtv/radiociudadtv.m3u8> |
 | 51 | Oviedo TV | video.wilohosting.com:19360 | <https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8> |
 
-Updated at **Fri May 01 2026 13:26:13 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri May 01 2026 19:17:30 GMT+0000 (Coordinated Universal Time)**
