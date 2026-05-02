@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1777663050160,
+  "updated_at": 1777691988782,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -570,12 +570,6 @@
     {
       "name": "CAN TV36 (1080p)",
       "url": "https://cantv.streamguys1.com/cantv/cantv36hls/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Cars.TV",
-      "url": "https://dvrfl04.tulix.tv/teleup-carstv/mpegts",
       "logo": "",
       "category": "Otros"
     },
@@ -2169,12 +2163,6 @@
       {
         "name": "CAN TV36 (1080p)",
         "url": "https://cantv.streamguys1.com/cantv/cantv36hls/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Cars.TV",
-        "url": "https://dvrfl04.tulix.tv/teleup-carstv/mpegts",
         "logo": "",
         "category": "Otros"
       },

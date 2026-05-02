@@ -4,8 +4,8 @@
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
-| 1 | Radio Master (720p) | videoserver.tmcreativos.com:19360 | <https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8> |
-| 2 | Radio Tropical Tarapoto (480p) [Not 24/7] | videoserver.tmcreativos.com:19360 | <https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8> |
+| 1 | Radio Tropical Tarapoto (480p) [Not 24/7] | videoserver.tmcreativos.com:19360 | <https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8> |
+| 2 | Radio Master (720p) | videoserver.tmcreativos.com:19360 | <https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8> |
 | 3 | Turbo Mix Radio TV (360p) [Not 24/7] | 7.innovatestream.pe:19360 | <https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8> |
 
-Updated at **Fri May 01 2026 19:17:32 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat May 02 2026 03:19:50 GMT+0000 (Coordinated Universal Time)**
