@@ -1,6 +1,6 @@
 {
   "name": "py",
-  "updated_at": 1777748745719,
+  "updated_at": 1777779429715,
   "m3u": "https://ube1492.github.io/IPTV-UBE/py.m3u",
   "channels": [
     {
@@ -18,12 +18,6 @@
     {
       "name": "Bruno Masi TV (720p)",
       "url": "https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "C9N",
-      "url": "https://d1y0t05eznkmpn.cloudfront.net/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -96,12 +90,6 @@
     {
       "name": "UnionTV",
       "url": "https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Venus Media (720p)",
-      "url": "https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -241,12 +229,6 @@
       "category": "Otros"
     },
     {
-      "name": "Venus Media (1280p) [Not 24/7]",
-      "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/66.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "America Paraguay",
       "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/83.m3u8",
       "logo": "",
@@ -341,6 +323,36 @@
       "url": "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8",
       "logo": "",
       "category": "Otros"
+    },
+    {
+      "name": "C9N (1080p)",
+      "url": "https://alba-py-c9n-c9n.stream.mediatiquestream.com/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "RQP Paraguay (1080i)",
+      "url": "https://alba-py-rqp-rqp.stream.mediatiquestream.com/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Venus Media (1080p)",
+      "url": "https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Radio Nacional del Paraguay",
+      "url": "https://stream.paraguaytv.gov.py/memfs/ea8a90e9-10f7-4b00-8e88-42f4a838d74b.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Paraguay TV (1080p)",
+      "url": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8",
+      "logo": "",
+      "category": "Otros"
     }
   ],
   "categories": {
@@ -360,12 +372,6 @@
       {
         "name": "Bruno Masi TV (720p)",
         "url": "https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "C9N",
-        "url": "https://d1y0t05eznkmpn.cloudfront.net/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -438,12 +444,6 @@
       {
         "name": "UnionTV",
         "url": "https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Venus Media (720p)",
-        "url": "https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -583,12 +583,6 @@
         "category": "Otros"
       },
       {
-        "name": "Venus Media (1280p) [Not 24/7]",
-        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/66.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "America Paraguay",
         "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/83.m3u8",
         "logo": "",
@@ -681,6 +675,36 @@
       {
         "name": "Oviedo TV",
         "url": "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "C9N (1080p)",
+        "url": "https://alba-py-c9n-c9n.stream.mediatiquestream.com/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "RQP Paraguay (1080i)",
+        "url": "https://alba-py-rqp-rqp.stream.mediatiquestream.com/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Venus Media (1080p)",
+        "url": "https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Radio Nacional del Paraguay",
+        "url": "https://stream.paraguaytv.gov.py/memfs/ea8a90e9-10f7-4b00-8e88-42f4a838d74b.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Paraguay TV (1080p)",
+        "url": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8",
         "logo": "",
         "category": "Otros"
       }

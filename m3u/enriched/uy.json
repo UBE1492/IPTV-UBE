@@ -1,6 +1,6 @@
 {
   "name": "uy",
-  "updated_at": 1777748745885,
+  "updated_at": 1777779429406,
   "m3u": "https://ube1492.github.io/IPTV-UBE/uy.m3u",
   "channels": [
     {
@@ -12,6 +12,12 @@
     {
       "name": "VIVO TV (1080p)",
       "url": "https://stream.vivotv.uy/hls/stream.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "DSports Uruguay",
+      "url": "https://cors-proxy.cooks.fyi/http://147.135.114.221:8001/play/a00m/index.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -27,6 +33,12 @@
       {
         "name": "VIVO TV (1080p)",
         "url": "https://stream.vivotv.uy/hls/stream.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "DSports Uruguay",
+        "url": "https://cors-proxy.cooks.fyi/http://147.135.114.221:8001/play/a00m/index.m3u8",
         "logo": "",
         "category": "Otros"
       }
