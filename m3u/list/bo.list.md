@@ -31,4 +31,4 @@
 | 25 | UPP TV/Bolivisión SCZ (720p) [Not 24/7] | alba-bo-bolivision-upptv.stream.mediatiquestream.com | <https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/index.m3u8> |
 | 26 | VTV Canal 17 (720p) [Not 24/7] | solo.disfrutaenlared.com:1936 | <https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/playlist.m3u8> |
 
-Updated at **Sun May 03 2026 13:19:28 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun May 03 2026 19:05:25 GMT+0000 (Coordinated Universal Time)**
