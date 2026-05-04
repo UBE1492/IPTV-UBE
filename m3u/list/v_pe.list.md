@@ -6,4 +6,4 @@
 | --- | ------------ | ---- | ------ |
 | 1 | Latina.SD | photocall.tv | <http://photocall.tv/latina.php/.m3u8> |
 
-Updated at **Sun May 03 2026 19:05:41 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon May 04 2026 03:35:58 GMT+0000 (Coordinated Universal Time)**
