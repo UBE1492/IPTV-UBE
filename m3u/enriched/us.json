@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1778009187098,
+  "updated_at": 1778038342845,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -1075,12 +1075,6 @@
       "category": "Otros"
     },
     {
-      "name": "Univision Tlnovelas [Not 24/7]",
-      "url": "https://moviezona593.com:8443/play/cO7SMyYsfVeNHbC5IQqRpHzyzgpISTmz_ch_ZVKDwhuebPX8UYW2fAiSlZGjGoPc/m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Vallenato Internacional (720p) [Not 24/7]",
       "url": "https://59a564764e2b6.streamlock.net/vallenato/vallenatom/playlist.m3u8",
       "logo": "",
@@ -1183,12 +1177,6 @@
       "category": "Otros"
     },
     {
-      "name": "WBTV-DT1 (720p)",
-      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-wbtvnews-vizious/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "WCAU-DT1 (1080p)",
       "url": "https://d368vp0qqzvkid.cloudfront.net/11603/88889705/hls/master.m3u8?ads.xumo_channelId=88889705a&ads.xumo_ifaType=&ads.xumo_providerId=3819&ads.xumo_providerName=NBCNPHI",
       "logo": "",
@@ -1275,12 +1263,6 @@
     {
       "name": "WHSG-DT4",
       "url": "https://dvrfl03.bozztv.com/hondu/hondu-ovair1-enlacetv-atl/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "WHSV-DT4",
-      "url": "http://104.255.88.155/metv/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -1387,12 +1369,6 @@
       "category": "Otros"
     },
     {
-      "name": "WOIO-DT1 (720p)",
-      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-cleveland19newsplus-vizious/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "World Channel (1080p)",
       "url": "https://world.lls.pbs.org/index.m3u8",
       "logo": "",
@@ -1407,12 +1383,6 @@
     {
       "name": "WPXI-DT1 (1080p)",
       "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wpxibreaking-ono/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "WPXX-DT1",
-      "url": "http://104.255.88.155/ion/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -1539,12 +1509,6 @@
     {
       "name": "WWOR-DT1",
       "url": "http://37c18028.akadatel.com/iptv/T6XNCP6L7LLKPD/1088/mpegts",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "WXIX-DT1 (720p)",
-      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-wxixfox19news-vizious/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -2668,12 +2632,6 @@
         "category": "Otros"
       },
       {
-        "name": "Univision Tlnovelas [Not 24/7]",
-        "url": "https://moviezona593.com:8443/play/cO7SMyYsfVeNHbC5IQqRpHzyzgpISTmz_ch_ZVKDwhuebPX8UYW2fAiSlZGjGoPc/m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "Vallenato Internacional (720p) [Not 24/7]",
         "url": "https://59a564764e2b6.streamlock.net/vallenato/vallenatom/playlist.m3u8",
         "logo": "",
@@ -2776,12 +2734,6 @@
         "category": "Otros"
       },
       {
-        "name": "WBTV-DT1 (720p)",
-        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-wbtvnews-vizious/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "WCAU-DT1 (1080p)",
         "url": "https://d368vp0qqzvkid.cloudfront.net/11603/88889705/hls/master.m3u8?ads.xumo_channelId=88889705a&ads.xumo_ifaType=&ads.xumo_providerId=3819&ads.xumo_providerName=NBCNPHI",
         "logo": "",
@@ -2868,12 +2820,6 @@
       {
         "name": "WHSG-DT4",
         "url": "https://dvrfl03.bozztv.com/hondu/hondu-ovair1-enlacetv-atl/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "WHSV-DT4",
-        "url": "http://104.255.88.155/metv/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -2980,12 +2926,6 @@
         "category": "Otros"
       },
       {
-        "name": "WOIO-DT1 (720p)",
-        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-cleveland19newsplus-vizious/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "World Channel (1080p)",
         "url": "https://world.lls.pbs.org/index.m3u8",
         "logo": "",
@@ -3000,12 +2940,6 @@
       {
         "name": "WPXI-DT1 (1080p)",
         "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wpxibreaking-ono/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "WPXX-DT1",
-        "url": "http://104.255.88.155/ion/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -3132,12 +3066,6 @@
       {
         "name": "WWOR-DT1",
         "url": "http://37c18028.akadatel.com/iptv/T6XNCP6L7LLKPD/1088/mpegts",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "WXIX-DT1 (720p)",
-        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-wxixfox19news-vizious/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },

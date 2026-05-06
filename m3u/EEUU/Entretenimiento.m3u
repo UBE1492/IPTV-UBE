@@ -185,8 +185,6 @@ https://vdopanel.jlahozconsulting.com:3407/hybrid/play.m3u8
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
 #EXTINF:-1 tvg-id="W14DKD141.us@HD",W14DK-D 14.1 TV Delmarva
 https://2-fss-2.streamhoster.com/pl_118/amlst:204972-1949480/playlist.m3u8
-#EXTINF:-1 tvg-id="WBTV641.us@HD",WBTV-DT1 (720p)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-wbtvnews-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="WGTV83.us@SD",WGTV-DT3 (1080p)
 https://wgtvdt3.lls.pbs.org/wgtvdt3-cmaf-hls.m3u8
 #EXTINF:-1 tvg-id="WLTVDT231.us@HD",WLTV-DT1 [Geo-blocked]

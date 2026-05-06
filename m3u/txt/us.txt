@@ -178,7 +178,6 @@ TVSConsumerDirect_(720p),https://rpn.bozztv.com/gusa/gusa-ConsumerDirect/index.m
 UN_Web_TV_(540p),https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 Universal_Cinema_(480p),http://190.2.212.209:8050/play/a0q3
 Universal_Comedy_(480p),http://190.2.212.209:8050/play/a0q4
-Univision_Tlnovelas_[Not_24/7],https://moviezona593.com:8443/play/cO7SMyYsfVeNHbC5IQqRpHzyzgpISTmz_ch_ZVKDwhuebPX8UYW2fAiSlZGjGoPc/m3u8
 Vallenato_Internacional_(720p)_[Not_24/7],https://59a564764e2b6.streamlock.net/vallenato/vallenatom/playlist.m3u8
 VBS_TV_(480p)_[Not_24/7],https://tgn.bozztv.com/vbstvcdn/vbstv/ngrp:vbstv_all/playlist.m3u8
 Velayat_TV_(480p),https://nl.livekadeh.com/hls2/velayattv.m3u8
@@ -196,7 +195,6 @@ W14DK-D_14.5_All_Sports_Television_Network,https://2-fss-2.streamhoster.com/pl_1
 WAGA-DT1,https://dvrfl03.bozztv.com/hondu/hondu-rick-fox5/index.m3u8
 WBRA_PBS_Kids_(1080p),https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_124.m3u8
 WBTS-CD1_(1080p),https://d368vp0qqzvkid.cloudfront.net/11603/88889713/hls/master.m3u8?ads.xumo_channelId=88889713a&ads.xumo_ifaType=&ads.xumo_providerId=3820&ads.xumo_providerName=NBCNBOS
-WBTV-DT1_(720p),https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-wbtvnews-vizious/playlist.m3u8
 WCAU-DT1_(1080p),https://d368vp0qqzvkid.cloudfront.net/11603/88889705/hls/master.m3u8?ads.xumo_channelId=88889705a&ads.xumo_ifaType=&ads.xumo_providerId=3819&ads.xumo_providerName=NBCNPHI
 WCBS-DT1_(720p)_[Geo-blocked],https://tvpass.org/live/WCBSDT1/hd
 WEDQ-DT4_(1080p),https://wedqdt4.lls.pbs.org/wedqdt4-hls.m3u8
@@ -212,7 +210,6 @@ WHBQ-DT1_(1080p),https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcom
 WHIO-DT1_(1080p),https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-whiobreaking-ono/playlist.m3u8
 WHPS_Detroit,https://f-tx-edge-87.christianworldmedia.com/313watkins/mp4:313watkins/playlist.m3u8
 WHSG-DT4,https://dvrfl03.bozztv.com/hondu/hondu-ovair1-enlacetv-atl/index.m3u8
-WHSV-DT4,http://104.255.88.155/metv/index.m3u8
 Willow_Sports_(1080p)_[Geo-blocked],https://amg01269-amg01269c1-firetv-us-5377.playouts.now.amagi.tv/playlist.m3u8
 WITI-DT1_(1080p),https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-witi-lgus/playlist.m3u8
 WJAX-DT1_(1080p),https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wjaxbreaking-ono/playlist.m3u8
@@ -230,11 +227,9 @@ WMBC-DT1,http://61ce5915.amazzin.pw/iptv/FF38ZQWZHTSV8T4XX9RDZYLB/1098/index.m3u
 WNBC-DT1_(1080p),https://d368vp0qqzvkid.cloudfront.net/11603/88889709/hls/master.m3u8?ads.xumo_channelId=88889709a&ads.xumo_ifaType=&ads.xumo_providerId=3816&ads.xumo_providerName=NBCNNY
 WNJU-DT1,http://104.238.205.28:9090/278678_.m3u8
 WNYW-DT1_(1080p),https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8
-WOIO-DT1_(720p),https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-cleveland19newsplus-vizious/playlist.m3u8
 World_Channel_(1080p),https://world.lls.pbs.org/index.m3u8
 WPIX-DT1,https://e1.thetvapp.to/hls/WPIX/index.m3u8
 WPXI-DT1_(1080p),https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wpxibreaking-ono/playlist.m3u8
-WPXX-DT1,http://104.255.88.155/ion/index.m3u8
 WRC-DT1_(1080p),https://d368vp0qqzvkid.cloudfront.net/11603/88889708/hls/master.m3u8?ads.xumo_channelId=88889708a&ads.xumo_ifaType=&ads.xumo_providerId=3830&ads.xumo_providerName=NBCNWAS
 WSB-DT1_(1080p),https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsbbreakingnews-ono/playlist.m3u8
 WSB-DT1,https://dvrfl03.bozztv.com/hondu/hondu-rick-abc/index.m3u8
@@ -256,7 +251,6 @@ WVCU-LP_Concord_University_Radio_The_Cure_97.7_(1080p),https://video1.getstreamh
 WVIT-DT1_(1080p),https://d368vp0qqzvkid.cloudfront.net/11603/88889707/hls/master.m3u8?ads.xumo_channelId=88889707a&ads.xumo_ifaType=&ads.xumo_providerId=3832&ads.xumo_providerName=NBCNCT
 WWON_TV_CH_48,https://tv2.fastcast4u.com:3943/stream/play.m3u8
 WWOR-DT1,http://37c18028.akadatel.com/iptv/T6XNCP6L7LLKPD/1088/mpegts
-WXIX-DT1_(720p),https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-wxixfox19news-vizious/playlist.m3u8
 WXTV-DT1,https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
 WXXA-DT3,https://dvrfl04.tulix.tv/teleup-laff/mpegts
 Yahoo!_Finance_(1080p),https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8

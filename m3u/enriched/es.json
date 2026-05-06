@@ -1,6 +1,6 @@
 {
   "name": "es",
-  "updated_at": 1778009186979,
+  "updated_at": 1778038343185,
   "m3u": "https://ube1492.github.io/IPTV-UBE/es.m3u",
   "channels": [
     {
@@ -132,12 +132,6 @@
     {
       "name": "Antena 3 Internacional (1080p)",
       "url": "http://187.190.55.136:5501/udp/225.1.1.101:5101",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Antena 3 Internacional [Not 24 7]",
-      "url": "https://moviezona593.com:8443/play/cO7SMyYsfVeNHbC5IQqRpHzyzgpISTmz_ch_ZVKDwhs2a6SBsY0RnvGwCP6rgwKx/m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -864,12 +858,6 @@
       {
         "name": "Antena 3 Internacional (1080p)",
         "url": "http://187.190.55.136:5501/udp/225.1.1.101:5101",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Antena 3 Internacional [Not 24 7]",
-        "url": "https://moviezona593.com:8443/play/cO7SMyYsfVeNHbC5IQqRpHzyzgpISTmz_ch_ZVKDwhs2a6SBsY0RnvGwCP6rgwKx/m3u8",
         "logo": "",
         "category": "Otros"
       },
