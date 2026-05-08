@@ -118,7 +118,7 @@ Discovery_Turbo,http://179.1.87.75:8098/play/a0hl/index.m3u8
 Discovery_World_HD,http://179.1.87.75:8098/play/a0ur/index.m3u8
 
 Deportes,#genre#
-ESPN_2_HD,http://179.1.87.75:8098/play/a0tj/index.m3u8
+ESPN_2_HD,http://179.1.87.75:8098/play/a0ui/index.m3u8
 ESPN_2_Latin,http://179.1.87.75:8098/play/a0ew/index.m3u8
 ESPN_3,http://179.1.87.75:8098/play/a0hn/index.m3u8
 ESPN_3_HD,http://179.1.87.75:8098/play/a0ut/index.m3u8

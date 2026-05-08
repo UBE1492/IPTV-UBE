@@ -42,7 +42,7 @@
 | 36 | Disney Channel | IPv4 直链 | <http://179.1.87.75:8098/play/a0eq/index.m3u8> |
 | 37 | Disney Jr | IPv4 直链 | <http://179.1.87.75:8098/play/a0ei/index.m3u8> |
 | 38 | E Entertainment | IPv4 直链 | <http://179.1.87.75:8098/play/a0eu/index.m3u8> |
-| 39 | ESPN 2 HD | IPv4 直链 | <http://179.1.87.75:8098/play/a0tj/index.m3u8> |
+| 39 | ESPN 2 HD | IPv4 直链 | <http://179.1.87.75:8098/play/a0ui/index.m3u8> |
 | 40 | ESPN 2 Latin | IPv4 直链 | <http://179.1.87.75:8098/play/a0ew/index.m3u8> |
 | 41 | ESPN 3 | IPv4 直链 | <http://179.1.87.75:8098/play/a0hn/index.m3u8> |
 | 42 | ESPN 3 HD | IPv4 直链 | <http://179.1.87.75:8098/play/a0ut/index.m3u8> |
@@ -132,4 +132,4 @@
 | 126 | Zona Latina | IPv4 直链 | <http://179.1.87.75:8098/play/a0dr/index.m3u8> |
 | 127 | Zoom | IPv4 直链 | <http://179.1.87.75:8098/play/a0gh/index.m3u8> |
 
-Updated at **Thu May 07 2026 19:46:32 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri May 08 2026 03:28:14 GMT+0000 (Coordinated Universal Time)**
