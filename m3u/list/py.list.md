@@ -58,4 +58,4 @@
 | 52 | Radio Nacional del Paraguay | stream.paraguaytv.gov.py | <https://stream.paraguaytv.gov.py/memfs/ea8a90e9-10f7-4b00-8e88-42f4a838d74b.m3u8> |
 | 53 | Paraguay TV (1080p) | stream.paraguaytv.gov.py | <https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8> |
 
-Updated at **Sat May 09 2026 08:00:59 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat May 09 2026 13:24:42 GMT+0000 (Coordinated Universal Time)**
