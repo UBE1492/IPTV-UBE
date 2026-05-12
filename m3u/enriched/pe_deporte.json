@@ -1,18 +1,18 @@
 {
   "name": "pe_deporte",
-  "updated_at": 1778529183800,
+  "updated_at": 1778557000801,
   "m3u": "https://ube1492.github.io/IPTV-UBE/pe_deporte.m3u",
   "channels": [
-    {
-      "name": "ESPN 3",
-      "url": "http://179.1.87.75:8098/play/a0hn/index.m3u8",
-      "logo": "https://raw.githubusercontent.com/iptv-org/api/master/logos/ESPN3.ar.png",
-      "category": "Deportes"
-    },
     {
       "name": "Fox Sports 2",
       "url": "http://179.1.87.75:8098/play/a0fg/index.m3u8",
       "logo": "https://raw.githubusercontent.com/iptv-org/api/master/logos/FoxSports2.ar.png",
+      "category": "Deportes"
+    },
+    {
+      "name": "Fox Sports 3",
+      "url": "http://179.1.87.75:8098/play/a0fh/index.m3u8",
+      "logo": "https://raw.githubusercontent.com/iptv-org/api/master/logos/FoxSports3.ar.png",
       "category": "Deportes"
     },
     {
@@ -22,9 +22,9 @@
       "category": "Deportes"
     },
     {
-      "name": "Fox Sports 3",
-      "url": "http://179.1.87.75:8098/play/a0fh/index.m3u8",
-      "logo": "https://raw.githubusercontent.com/iptv-org/api/master/logos/FoxSports3.ar.png",
+      "name": "ESPN 3",
+      "url": "http://179.1.87.75:8098/play/a0hn/index.m3u8",
+      "logo": "https://raw.githubusercontent.com/iptv-org/api/master/logos/ESPN3.ar.png",
       "category": "Deportes"
     },
     {
@@ -43,15 +43,15 @@
   "categories": {
     "Deportes": [
       {
-        "name": "ESPN 3",
-        "url": "http://179.1.87.75:8098/play/a0hn/index.m3u8",
-        "logo": "https://raw.githubusercontent.com/iptv-org/api/master/logos/ESPN3.ar.png",
-        "category": "Deportes"
-      },
-      {
         "name": "Fox Sports 2",
         "url": "http://179.1.87.75:8098/play/a0fg/index.m3u8",
         "logo": "https://raw.githubusercontent.com/iptv-org/api/master/logos/FoxSports2.ar.png",
+        "category": "Deportes"
+      },
+      {
+        "name": "Fox Sports 3",
+        "url": "http://179.1.87.75:8098/play/a0fh/index.m3u8",
+        "logo": "https://raw.githubusercontent.com/iptv-org/api/master/logos/FoxSports3.ar.png",
         "category": "Deportes"
       },
       {
@@ -61,9 +61,9 @@
         "category": "Deportes"
       },
       {
-        "name": "Fox Sports 3",
-        "url": "http://179.1.87.75:8098/play/a0fh/index.m3u8",
-        "logo": "https://raw.githubusercontent.com/iptv-org/api/master/logos/FoxSports3.ar.png",
+        "name": "ESPN 3",
+        "url": "http://179.1.87.75:8098/play/a0hn/index.m3u8",
+        "logo": "https://raw.githubusercontent.com/iptv-org/api/master/logos/ESPN3.ar.png",
         "category": "Deportes"
       },
       {
