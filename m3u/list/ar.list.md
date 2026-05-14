@@ -90,4 +90,4 @@
 | 84 | Tele Posadas (720p) | live20.bozztv.com | <https://live20.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8> |
 | 85 | TyC Sports (1080p) | amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv | <https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8> |
 
-Updated at **Wed May 13 2026 20:00:13 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu May 14 2026 03:44:04 GMT+0000 (Coordinated Universal Time)**
