@@ -1,23 +1,29 @@
 {
   "name": "pe",
-  "updated_at": 1778730256904,
+  "updated_at": 1778748141245,
   "m3u": "https://ube1492.github.io/IPTV-UBE/pe.m3u",
   "channels": [
     {
-      "name": "Auténtica Televisión (720p) [Not 24/7]",
-      "url": "https://live.obslivestream.com/autenticatvmux/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Controversia TV (720p) [Not 24/7]",
-      "url": "https://live.obslivestream.com/controversiatv/index.m3u8",
+      "name": "Conecta2TV (720p) [Not 24/7]",
+      "url": "https://live.obslivestream.com/conecta2/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
       "name": "ATV (720p) [Not 24/7]",
       "url": "https://d2qsan2ut81n2k.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/ts:abr.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "CR Televisión Moyobamba (720p) [Not 24/7]",
+      "url": "https://live.obslivestream.com/crtvmux/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Auténtica Televisión (720p) [Not 24/7]",
+      "url": "https://live.obslivestream.com/autenticatvmux/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -46,12 +52,6 @@
       "category": "Otros"
     },
     {
-      "name": "Conecta2TV (720p) [Not 24/7]",
-      "url": "https://live.obslivestream.com/conecta2/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "AsiriTV (720p) [Not 24/7]",
       "url": "https://video2.lhdserver.es/asiritv/live.m3u8",
       "logo": "",
@@ -76,8 +76,8 @@
       "category": "Otros"
     },
     {
-      "name": "CR Televisión Moyobamba (720p) [Not 24/7]",
-      "url": "https://live.obslivestream.com/crtvmux/index.m3u8",
+      "name": "Controversia TV (720p) [Not 24/7]",
+      "url": "https://live.obslivestream.com/controversiatv/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -106,8 +106,8 @@
       "category": "Otros"
     },
     {
-      "name": "JN19 (1080p) [Not 24/7]",
-      "url": "https://servilive.com:3028/live/jntv19live.m3u8",
+      "name": "ECO Television",
+      "url": "https://stream.ecoperu.tv/ECOTV/tracks-v1a1/mono.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -118,14 +118,20 @@
       "category": "Otros"
     },
     {
-      "name": "ECO Television",
-      "url": "https://stream.ecoperu.tv/ECOTV/tracks-v1a1/mono.m3u8",
+      "name": "Intuitiva TV (720p)",
+      "url": "https://video2.lhdserver.es/cableperu/live.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
       "name": "Nativa TV Satipo (720p) [Not 24/7]",
       "url": "https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "JN19 (1080p) [Not 24/7]",
+      "url": "https://servilive.com:3028/live/jntv19live.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -138,12 +144,6 @@
     {
       "name": "Ovacion TV (720p) [Not 24/7]",
       "url": "http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Intuitiva TV (720p)",
-      "url": "https://video2.lhdserver.es/cableperu/live.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -172,8 +172,8 @@
       "category": "Otros"
     },
     {
-      "name": "ONDA DIGITAL (720p)",
-      "url": "https://tv.ondadigital.pe/ondadigital/index.m3u8",
+      "name": "RN Televisión (720p) [Not 24/7]",
+      "url": "https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -184,14 +184,14 @@
       "category": "Otros"
     },
     {
-      "name": "RN Televisión (720p) [Not 24/7]",
-      "url": "https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8",
+      "name": "ONDA DIGITAL (720p)",
+      "url": "https://tv.ondadigital.pe/ondadigital/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "MO Channel (720p)",
-      "url": "https://cloudvideo.servers10.com:8081/8070/index.m3u8",
+      "name": "Radio Tropical Tarapoto (480p) [Not 24/7]",
+      "url": "https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -202,8 +202,14 @@
       "category": "Otros"
     },
     {
-      "name": "Radio Tropical Tarapoto (480p) [Not 24/7]",
-      "url": "https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8",
+      "name": "Teleselva",
+      "url": "https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "MO Channel (720p)",
+      "url": "https://cloudvideo.servers10.com:8081/8070/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -226,18 +232,6 @@
       "category": "Otros"
     },
     {
-      "name": "Señal Perú TV (404p) [Not 24/7]",
-      "url": "https://livestream.perucast.com/hls/stream.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Teleselva",
-      "url": "https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "TVUNO (720p)",
       "url": "https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8",
       "logo": "",
@@ -250,14 +244,14 @@
       "category": "Otros"
     },
     {
-      "name": "Sol Televisión (720p)",
-      "url": "https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8",
+      "name": "Señal Perú TV (404p) [Not 24/7]",
+      "url": "https://livestream.perucast.com/hls/stream.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "Unitel (1080p)",
-      "url": "https://play.agenciastreaming.com:8081/uniteltv/index.m3u8",
+      "name": "Sol Televisión (720p)",
+      "url": "https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -265,20 +259,26 @@
   "categories": {
     "Otros": [
       {
-        "name": "Auténtica Televisión (720p) [Not 24/7]",
-        "url": "https://live.obslivestream.com/autenticatvmux/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Controversia TV (720p) [Not 24/7]",
-        "url": "https://live.obslivestream.com/controversiatv/index.m3u8",
+        "name": "Conecta2TV (720p) [Not 24/7]",
+        "url": "https://live.obslivestream.com/conecta2/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
         "name": "ATV (720p) [Not 24/7]",
         "url": "https://d2qsan2ut81n2k.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/ts:abr.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "CR Televisión Moyobamba (720p) [Not 24/7]",
+        "url": "https://live.obslivestream.com/crtvmux/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Auténtica Televisión (720p) [Not 24/7]",
+        "url": "https://live.obslivestream.com/autenticatvmux/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -307,12 +307,6 @@
         "category": "Otros"
       },
       {
-        "name": "Conecta2TV (720p) [Not 24/7]",
-        "url": "https://live.obslivestream.com/conecta2/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "AsiriTV (720p) [Not 24/7]",
         "url": "https://video2.lhdserver.es/asiritv/live.m3u8",
         "logo": "",
@@ -337,8 +331,8 @@
         "category": "Otros"
       },
       {
-        "name": "CR Televisión Moyobamba (720p) [Not 24/7]",
-        "url": "https://live.obslivestream.com/crtvmux/index.m3u8",
+        "name": "Controversia TV (720p) [Not 24/7]",
+        "url": "https://live.obslivestream.com/controversiatv/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -367,8 +361,8 @@
         "category": "Otros"
       },
       {
-        "name": "JN19 (1080p) [Not 24/7]",
-        "url": "https://servilive.com:3028/live/jntv19live.m3u8",
+        "name": "ECO Television",
+        "url": "https://stream.ecoperu.tv/ECOTV/tracks-v1a1/mono.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -379,14 +373,20 @@
         "category": "Otros"
       },
       {
-        "name": "ECO Television",
-        "url": "https://stream.ecoperu.tv/ECOTV/tracks-v1a1/mono.m3u8",
+        "name": "Intuitiva TV (720p)",
+        "url": "https://video2.lhdserver.es/cableperu/live.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
         "name": "Nativa TV Satipo (720p) [Not 24/7]",
         "url": "https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "JN19 (1080p) [Not 24/7]",
+        "url": "https://servilive.com:3028/live/jntv19live.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -399,12 +399,6 @@
       {
         "name": "Ovacion TV (720p) [Not 24/7]",
         "url": "http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Intuitiva TV (720p)",
-        "url": "https://video2.lhdserver.es/cableperu/live.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -433,8 +427,8 @@
         "category": "Otros"
       },
       {
-        "name": "ONDA DIGITAL (720p)",
-        "url": "https://tv.ondadigital.pe/ondadigital/index.m3u8",
+        "name": "RN Televisión (720p) [Not 24/7]",
+        "url": "https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -445,14 +439,14 @@
         "category": "Otros"
       },
       {
-        "name": "RN Televisión (720p) [Not 24/7]",
-        "url": "https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8",
+        "name": "ONDA DIGITAL (720p)",
+        "url": "https://tv.ondadigital.pe/ondadigital/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "MO Channel (720p)",
-        "url": "https://cloudvideo.servers10.com:8081/8070/index.m3u8",
+        "name": "Radio Tropical Tarapoto (480p) [Not 24/7]",
+        "url": "https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -463,8 +457,14 @@
         "category": "Otros"
       },
       {
-        "name": "Radio Tropical Tarapoto (480p) [Not 24/7]",
-        "url": "https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8",
+        "name": "Teleselva",
+        "url": "https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "MO Channel (720p)",
+        "url": "https://cloudvideo.servers10.com:8081/8070/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -487,18 +487,6 @@
         "category": "Otros"
       },
       {
-        "name": "Señal Perú TV (404p) [Not 24/7]",
-        "url": "https://livestream.perucast.com/hls/stream.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Teleselva",
-        "url": "https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "TVUNO (720p)",
         "url": "https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8",
         "logo": "",
@@ -511,14 +499,14 @@
         "category": "Otros"
       },
       {
-        "name": "Sol Televisión (720p)",
-        "url": "https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8",
+        "name": "Señal Perú TV (404p) [Not 24/7]",
+        "url": "https://livestream.perucast.com/hls/stream.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "Unitel (1080p)",
-        "url": "https://play.agenciastreaming.com:8081/uniteltv/index.m3u8",
+        "name": "Sol Televisión (720p)",
+        "url": "https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       }
