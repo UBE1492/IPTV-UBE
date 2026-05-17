@@ -72,4 +72,4 @@
 | 66 | ZAZ (1080p) | cloud.fastchannel.es | <https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8> |
 | 67 | TUDN (1080p) | streaming.alwaysdata.net | <https://streaming.alwaysdata.net/tudn.php> |
 
-Updated at **Sun May 17 2026 03:49:41 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun May 17 2026 08:25:16 GMT+0000 (Coordinated Universal Time)**
