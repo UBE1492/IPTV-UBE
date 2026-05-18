@@ -65,10 +65,10 @@ You can also use the services provided by Mirror Sites Matrix! See <https://m3u.
 | 112114.xyz | [112114_xyz.xml](/epg/112114_xyz.xml) | - |
 | fanmingming/live | [fmml.xml](/epg/fmml.xml) | ✅ |
 | 51zmt.top | [51zmt.xml](/epg/51zmt.xml) | - |
-| 51zmt.top cc | [51zmt_cc.xml](/epg/51zmt_cc.xml) | - |
+| 51zmt.top cc | [51zmt_cc.xml](/epg/51zmt_cc.xml) | ✅ |
 | 51zmt.top difang | [51zmt_df.xml](/epg/51zmt_df.xml) | - |
 
-Updated at **Sun May 17 2026 19:15:07 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon May 18 2026 04:02:56 GMT+0000 (Coordinated Universal Time)**
 
 See <https://m3u.ibert.me> to get more.
 
