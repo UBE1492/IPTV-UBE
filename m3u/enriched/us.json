@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1779220544183,
+  "updated_at": 1779249357307,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -1515,12 +1515,6 @@
     {
       "name": "WXTV-DT1",
       "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "WXXA-DT3",
-      "url": "https://dvrfl04.tulix.tv/teleup-laff/mpegts",
       "logo": "",
       "category": "Otros"
     },
@@ -3072,12 +3066,6 @@
       {
         "name": "WXTV-DT1",
         "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "WXXA-DT3",
-        "url": "https://dvrfl04.tulix.tv/teleup-laff/mpegts",
         "logo": "",
         "category": "Otros"
       },

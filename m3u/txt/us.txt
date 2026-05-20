@@ -252,7 +252,6 @@ WVIT-DT1_(1080p),https://d368vp0qqzvkid.cloudfront.net/11603/88889707/hls/master
 WWON_TV_CH_48,https://tv2.fastcast4u.com:3943/stream/play.m3u8
 WWOR-DT1,http://37c18028.akadatel.com/iptv/T6XNCP6L7LLKPD/1088/mpegts
 WXTV-DT1,https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
-WXXA-DT3,https://dvrfl04.tulix.tv/teleup-laff/mpegts
 Yahoo!_Finance_(1080p),https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 YTA_TV,https://yta.unitedteleports.tv/hls/YTA.m3u8
 Yu-Gi-Oh!_(1080p),https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8

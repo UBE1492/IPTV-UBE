@@ -256,10 +256,9 @@
 | 250 | WWON TV CH 48 | tv2.fastcast4u.com:3943 | <https://tv2.fastcast4u.com:3943/stream/play.m3u8> |
 | 251 | WWOR-DT1 | 37c18028.akadatel.com | <http://37c18028.akadatel.com/iptv/T6XNCP6L7LLKPD/1088/mpegts> |
 | 252 | WXTV-DT1 | streaming-live-fcdn.api.prd.univisionnow.com | <https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8> |
-| 253 | WXXA-DT3 | dvrfl04.tulix.tv | <https://dvrfl04.tulix.tv/teleup-laff/mpegts> |
-| 254 | Yahoo! Finance (1080p) | d1ewctnvcwvvvu.cloudfront.net | <https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8> |
-| 255 | YTA TV | yta.unitedteleports.tv | <https://yta.unitedteleports.tv/hls/YTA.m3u8> |
-| 256 | Yu-Gi-Oh! (1080p) | amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv | <https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8> |
-| 257 | Zarin TV (1080p) | fl1002.bozztv.com | <https://fl1002.bozztv.com/gf-zarintv/index.m3u8> |
+| 253 | Yahoo! Finance (1080p) | d1ewctnvcwvvvu.cloudfront.net | <https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8> |
+| 254 | YTA TV | yta.unitedteleports.tv | <https://yta.unitedteleports.tv/hls/YTA.m3u8> |
+| 255 | Yu-Gi-Oh! (1080p) | amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv | <https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8> |
+| 256 | Zarin TV (1080p) | fl1002.bozztv.com | <https://fl1002.bozztv.com/gf-zarintv/index.m3u8> |
 
-Updated at **Tue May 19 2026 19:55:44 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed May 20 2026 03:55:57 GMT+0000 (Coordinated Universal Time)**
