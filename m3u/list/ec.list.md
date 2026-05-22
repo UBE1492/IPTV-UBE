@@ -57,4 +57,4 @@
 | 51 | Planeta Channel | vs20.live.opencaster.com | <https://vs20.live.opencaster.com/planetachannel_089eff6d/index.m3u8> |
 | 52 | MakroDigital Television (720p) | iptv.makrodigitaltv.makrodigital.com:8081 | <http://iptv.makrodigitaltv.makrodigital.com:8081/makrodigitaltelevision/iptv/playlist.m3u8> |
 
-Updated at **Thu May 21 2026 19:58:08 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri May 22 2026 03:59:55 GMT+0000 (Coordinated Universal Time)**

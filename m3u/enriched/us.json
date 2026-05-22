@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1779393487563,
+  "updated_at": 1779422395638,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -210,12 +210,6 @@
     {
       "name": "Aliento Vision (720p) [Not 24/7]",
       "url": "https://627bb251f23c7.streamlock.net:444/Alientoenvivo/Alientoenvivo/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Aliento Vision",
-      "url": "https://dvrfl03.bozztv.com/hondu-alientovision/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -823,12 +817,6 @@
       "category": "Otros"
     },
     {
-      "name": "True Crime Network",
-      "url": "https://dvrfl03.bozztv.com/hdirect/hdirect-ovair1-truecrimenetwork/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "TSTV (720p)",
       "url": "https://reflector.watchtstv.com/hls/livestream.m3u8",
       "logo": "",
@@ -1159,12 +1147,6 @@
       "category": "Otros"
     },
     {
-      "name": "WAGA-DT1",
-      "url": "https://dvrfl03.bozztv.com/hondu/hondu-rick-fox5/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "WBRA PBS Kids (1080p)",
       "url": "https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_124.m3u8",
       "logo": "",
@@ -1261,12 +1243,6 @@
       "category": "Otros"
     },
     {
-      "name": "WHSG-DT4",
-      "url": "https://dvrfl03.bozztv.com/hondu/hondu-ovair1-enlacetv-atl/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Willow Sports (1080p) [Geo-blocked]",
       "url": "https://amg01269-amg01269c1-firetv-us-5377.playouts.now.amagi.tv/playlist.m3u8",
       "logo": "",
@@ -1303,24 +1279,6 @@
       "category": "Otros"
     },
     {
-      "name": "WKCF-DT2",
-      "url": "https://dvrfl03.bozztv.com/hondu-lxnews/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "WKMG-DT1",
-      "url": "https://dvrfl03.bozztv.com/hondu-cbsorlando/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "WKOH-DT4",
-      "url": "https://dvrfl03.bozztv.com/hondu/hondu-pbs-kids/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "WLMB (1080p)",
       "url": "https://rpn.bozztv.com/wlmb/wlmb/wlmb/index.m3u8",
       "logo": "",
@@ -1329,12 +1287,6 @@
     {
       "name": "WLTV-DT1 [Geo-blocked]",
       "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "WLVT-DT1",
-      "url": "https://dvrfl03.bozztv.com/hondu/hondu-gbp-pbs/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -1399,12 +1351,6 @@
       "category": "Otros"
     },
     {
-      "name": "WSB-DT1",
-      "url": "https://dvrfl03.bozztv.com/hondu/hondu-rick-abc/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "WSBS-DT1 (1080p)",
       "url": "https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8",
       "logo": "",
@@ -1425,12 +1371,6 @@
     {
       "name": "WSOC-DT1 (1080p)",
       "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsocbreaking-ono/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "WTMO-CD1",
-      "url": "https://dvrfl03.bozztv.com/hondu-telexitos/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -1479,12 +1419,6 @@
     {
       "name": "WTXF-DT1 (1080p)",
       "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "WUPA-DT1",
-      "url": "https://dvrfl03.bozztv.com/hondu/hondu-ovair1-cwhd/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -1761,12 +1695,6 @@
       {
         "name": "Aliento Vision (720p) [Not 24/7]",
         "url": "https://627bb251f23c7.streamlock.net:444/Alientoenvivo/Alientoenvivo/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Aliento Vision",
-        "url": "https://dvrfl03.bozztv.com/hondu-alientovision/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -2374,12 +2302,6 @@
         "category": "Otros"
       },
       {
-        "name": "True Crime Network",
-        "url": "https://dvrfl03.bozztv.com/hdirect/hdirect-ovair1-truecrimenetwork/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "TSTV (720p)",
         "url": "https://reflector.watchtstv.com/hls/livestream.m3u8",
         "logo": "",
@@ -2710,12 +2632,6 @@
         "category": "Otros"
       },
       {
-        "name": "WAGA-DT1",
-        "url": "https://dvrfl03.bozztv.com/hondu/hondu-rick-fox5/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "WBRA PBS Kids (1080p)",
         "url": "https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_124.m3u8",
         "logo": "",
@@ -2812,12 +2728,6 @@
         "category": "Otros"
       },
       {
-        "name": "WHSG-DT4",
-        "url": "https://dvrfl03.bozztv.com/hondu/hondu-ovair1-enlacetv-atl/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "Willow Sports (1080p) [Geo-blocked]",
         "url": "https://amg01269-amg01269c1-firetv-us-5377.playouts.now.amagi.tv/playlist.m3u8",
         "logo": "",
@@ -2854,24 +2764,6 @@
         "category": "Otros"
       },
       {
-        "name": "WKCF-DT2",
-        "url": "https://dvrfl03.bozztv.com/hondu-lxnews/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "WKMG-DT1",
-        "url": "https://dvrfl03.bozztv.com/hondu-cbsorlando/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "WKOH-DT4",
-        "url": "https://dvrfl03.bozztv.com/hondu/hondu-pbs-kids/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "WLMB (1080p)",
         "url": "https://rpn.bozztv.com/wlmb/wlmb/wlmb/index.m3u8",
         "logo": "",
@@ -2880,12 +2772,6 @@
       {
         "name": "WLTV-DT1 [Geo-blocked]",
         "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "WLVT-DT1",
-        "url": "https://dvrfl03.bozztv.com/hondu/hondu-gbp-pbs/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -2950,12 +2836,6 @@
         "category": "Otros"
       },
       {
-        "name": "WSB-DT1",
-        "url": "https://dvrfl03.bozztv.com/hondu/hondu-rick-abc/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "WSBS-DT1 (1080p)",
         "url": "https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8",
         "logo": "",
@@ -2976,12 +2856,6 @@
       {
         "name": "WSOC-DT1 (1080p)",
         "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsocbreaking-ono/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "WTMO-CD1",
-        "url": "https://dvrfl03.bozztv.com/hondu-telexitos/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -3030,12 +2904,6 @@
       {
         "name": "WTXF-DT1 (1080p)",
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "WUPA-DT1",
-        "url": "https://dvrfl03.bozztv.com/hondu/hondu-ovair1-cwhd/index.m3u8",
         "logo": "",
         "category": "Otros"
       },

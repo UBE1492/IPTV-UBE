@@ -35,8 +35,6 @@ https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsaf
 https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8
 #EXTINF:-1 tvg-id="AlientoVision.us@SD",Aliento Vision (720p) [Not 24/7]
 https://627bb251f23c7.streamlock.net:444/Alientoenvivo/Alientoenvivo/playlist.m3u8
-#EXTINF:-1 tvg-id="AlientoVision.us@SD",Aliento Vision
-https://dvrfl03.bozztv.com/hondu-alientovision/index.m3u8
 #EXTINF:-1 tvg-id="AmericanHorrors.us@SD",American Horrors (480p)
 http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
 #EXTINF:-1 tvg-id="AppleValleyChannel180.us@SD",Apple Valley Channel 180
@@ -113,8 +111,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 #EXTINF:-1 tvg-id="TrinityChannel.us@SD",Trinity Channel
 https://edge66.magictvbox.com/liveApple/trinity/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TrueCrimeNetwork.us@SD",True Crime Network
-https://dvrfl03.bozztv.com/hdirect/hdirect-ovair1-truecrimenetwork/index.m3u8
 #EXTINF:-1 tvg-id="TUDN.us@SD",TUDN (1080p) [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
 #EXTINF:-1 tvg-id="UniversalComedy.us@SD",Universal Comedy (480p)
@@ -125,8 +121,6 @@ https://59a564764e2b6.streamlock.net/vallenato/vallenatom/playlist.m3u8
 https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
 #EXTINF:-1 tvg-id="VSiN.us@SD",VSiN (720p)
 https://vsin-sgrewind.streamguys1.com/scte/live-2k/playlist.m3u8
-#EXTINF:-1 tvg-id="WAGATV51.us@HD",WAGA-DT1
-https://dvrfl03.bozztv.com/hondu/hondu-rick-fox5/index.m3u8
 #EXTINF:-1 tvg-id="WBTSCD151.us@HD",WBTS-CD1 (1080p)
 https://d368vp0qqzvkid.cloudfront.net/11603/88889713/hls/master.m3u8?ads.xumo_channelId=88889713a&ads.xumo_ifaType=&ads.xumo_providerId=3820&ads.xumo_providerName=NBCNBOS
 #EXTINF:-1 tvg-id="WCAU621.us@HD",WCAU-DT1 (1080p)
@@ -155,8 +149,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-whbqbreaking-
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-whiobreaking-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="WHPSCD152.us@SD",WHPS Detroit
 https://f-tx-edge-87.christianworldmedia.com/313watkins/mp4:313watkins/playlist.m3u8
-#EXTINF:-1 tvg-id="WHSGTV634.us@SD",WHSG-DT4
-https://dvrfl03.bozztv.com/hondu/hondu-ovair1-enlacetv-atl/index.m3u8
 #EXTINF:-1 tvg-id="WITI61.us@HD",WITI-DT1 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-witi-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="WJAXTV471.us@HD",WJAX-DT1 (1080p)
@@ -167,16 +159,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox2detroitwjbk-vi
 https://e5.thetvapp.to/hls/metv-wjlp-new-jerseynew-york/index.m3u8
 #EXTINF:-1 tvg-id="WJLP332.us@SD",WJLP-DT2 (360p)
 https://e3.thetvapp.to/hls/metv-toons/index.m3u8
-#EXTINF:-1 tvg-id="WKCF22.us@SD",WKCF-DT2
-https://dvrfl03.bozztv.com/hondu-lxnews/index.m3u8
-#EXTINF:-1 tvg-id="WKMGTV61.us@HD",WKMG-DT1
-https://dvrfl03.bozztv.com/hondu-cbsorlando/index.m3u8
-#EXTINF:-1 tvg-id="WKOH314.us@SD",WKOH-DT4
-https://dvrfl03.bozztv.com/hondu/hondu-pbs-kids/index.m3u8
 #EXTINF:-1 tvg-id="WLMB.us@SD",WLMB (1080p)
 https://rpn.bozztv.com/wlmb/wlmb/wlmb/index.m3u8
-#EXTINF:-1 tvg-id="WLVTTV691.us@HD",WLVT-DT1
-https://dvrfl03.bozztv.com/hondu/hondu-gbp-pbs/index.m3u8
 #EXTINF:-1 tvg-id="WMBCTV631.us@HD",WMBC-DT1 (720p)
 http://d029dcec.kazmazpaz.ru/iptv/GVR4V8HYAGBS5V/1098/manifest.m3u8
 #EXTINF:-1 tvg-id="WMBCTV631.us@HD",WMBC-DT1
@@ -195,8 +179,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wpxibreaking-on
 https://d368vp0qqzvkid.cloudfront.net/11603/88889708/hls/master.m3u8?ads.xumo_channelId=88889708a&ads.xumo_ifaType=&ads.xumo_providerId=3830&ads.xumo_providerName=NBCNWAS
 #EXTINF:-1 tvg-id="WSBDT1.us@SD",WSB-DT1 (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsbbreakingnews-ono/playlist.m3u8
-#EXTINF:-1 tvg-id="WSBDT1.us@SD",WSB-DT1
-https://dvrfl03.bozztv.com/hondu/hondu-rick-abc/index.m3u8
 #EXTINF:-1 tvg-id="WSBSTV221.us@HD",WSBS-DT1 (1080p)
 https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8
 #EXTINF:-1 tvg-id="WSCV61.us@HD",WSCV-DT1
@@ -205,8 +187,6 @@ http://181.114.57.246:4000/play/NnnBAHA2yQc4AG82/index.m3u8
 https://amg00327-coxmediagroup-wsocbreaking-plex-t51et.amagi.tv/playlist/amg00327-coxmediagroup-wsocbreaking-plex/playlist.m3u8
 #EXTINF:-1 tvg-id="WSOCTV91.us@HD",WSOC-DT1 (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsocbreaking-ono/playlist.m3u8
-#EXTINF:-1 tvg-id="WTMOCD311.us@HD",WTMO-CD1
-https://dvrfl03.bozztv.com/hondu-telexitos/index.m3u8
 #EXTINF:-1 tvg-id="WTNH81.us@HD",WTNH-DT1 (720p)
 https://tkx.mp.lura.live/rest/v2/mcp/video/11135425.m3u8?anvack=pDKqMLyG9pVqMkSYRJHWu3XROjAlvR6z&eud=1iqQ+zazzEobWIhmmj6bA8STRJm4HceYQApO7QYBvy9BTps0KI7LuXGD4KK7RLtBTyO8KsbFw40vgX8hrw+xqw==
 #EXTINF:-1 tvg-id="WTTG51.us@HD",WTTG-DT1 (1080p)
@@ -219,8 +199,6 @@ http://68.251.105.81:5004/auto/v11.2
 http://68.251.105.81:5004/auto/v11.3
 #EXTINF:-1 tvg-id="WTXFTV291.us@HD",WTXF-DT1 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8
-#EXTINF:-1 tvg-id="WUPA691.us@HD",WUPA-DT1
-https://dvrfl03.bozztv.com/hondu/hondu-ovair1-cwhd/index.m3u8
 #EXTINF:-1 tvg-id="WVIT301.us@HD",WVIT-DT1 (1080p)
 https://d368vp0qqzvkid.cloudfront.net/11603/88889707/hls/master.m3u8?ads.xumo_channelId=88889707a&ads.xumo_ifaType=&ads.xumo_providerId=3832&ads.xumo_providerName=NBCNCT
 #EXTINF:-1 tvg-id="WWORTV91.us@HD",WWOR-DT1
