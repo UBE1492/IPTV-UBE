@@ -1,6 +1,6 @@
 {
   "name": "pe_regionales",
-  "updated_at": 1779442448466,
+  "updated_at": 1779461208529,
   "m3u": "https://ube1492.github.io/IPTV-UBE/pe_regionales.m3u",
   "channels": [
     {
@@ -46,9 +46,9 @@
       "category": "Without category"
     },
     {
-      "name": "OK TeVe | PE",
-      "url": "https://live.obslivestream.com/oktv/video.m3u8?token=Bk-DXAXulO1OV0&PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/1095_OK_TeVe.png",
+      "name": "ATV Sur | PE",
+      "url": "https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/1492_ATV_Sur.png",
       "category": "Without category"
     },
     {
@@ -58,9 +58,9 @@
       "category": "Without category"
     },
     {
-      "name": "ATV Sur | PE",
-      "url": "https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/1492_ATV_Sur.png",
+      "name": "OK TeVe | PE",
+      "url": "https://live.obslivestream.com/oktv/video.m3u8?token=Bk-DXAXulO1OV0&PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/1095_OK_TeVe.png",
       "category": "Without category"
     },
     {
@@ -94,15 +94,15 @@
       "category": "Without category"
     },
     {
-      "name": "BHTV | PE",
-      "url": "https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/695_BHTV.png",
-      "category": "Without category"
-    },
-    {
       "name": "Controversia TV | PE",
       "url": "https://live.obslivestream.com/controversiatv/index.m3u8?PlaylistM3UCL",
       "logo": "https://cdn.m3u.cl/logo/1188_Controversia_TV.png",
+      "category": "Without category"
+    },
+    {
+      "name": "BHTV | PE",
+      "url": "https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/695_BHTV.png",
       "category": "Without category"
     },
     {
@@ -139,6 +139,12 @@
       "name": "San Pedro SAT | PE",
       "url": "https://eu1.servers10.com:8081/8156/index.m3u8?PlaylistM3UCL",
       "logo": "https://cdn.m3u.cl/logo/1686_San_Pedro_SAT.png",
+      "category": "Without category"
+    },
+    {
+      "name": "TV en linea Cusco | PE",
+      "url": "https://s4.tvdatta.com:3450/live/tvenlinealive.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/1590_TV_en_linea_Cusco.png",
       "category": "Without category"
     },
     {
@@ -193,9 +199,9 @@
         "category": "Without category"
       },
       {
-        "name": "OK TeVe | PE",
-        "url": "https://live.obslivestream.com/oktv/video.m3u8?token=Bk-DXAXulO1OV0&PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/1095_OK_TeVe.png",
+        "name": "ATV Sur | PE",
+        "url": "https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/1492_ATV_Sur.png",
         "category": "Without category"
       },
       {
@@ -205,9 +211,9 @@
         "category": "Without category"
       },
       {
-        "name": "ATV Sur | PE",
-        "url": "https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/1492_ATV_Sur.png",
+        "name": "OK TeVe | PE",
+        "url": "https://live.obslivestream.com/oktv/video.m3u8?token=Bk-DXAXulO1OV0&PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/1095_OK_TeVe.png",
         "category": "Without category"
       },
       {
@@ -241,15 +247,15 @@
         "category": "Without category"
       },
       {
-        "name": "BHTV | PE",
-        "url": "https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/695_BHTV.png",
-        "category": "Without category"
-      },
-      {
         "name": "Controversia TV | PE",
         "url": "https://live.obslivestream.com/controversiatv/index.m3u8?PlaylistM3UCL",
         "logo": "https://cdn.m3u.cl/logo/1188_Controversia_TV.png",
+        "category": "Without category"
+      },
+      {
+        "name": "BHTV | PE",
+        "url": "https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/695_BHTV.png",
         "category": "Without category"
       },
       {
@@ -286,6 +292,12 @@
         "name": "San Pedro SAT | PE",
         "url": "https://eu1.servers10.com:8081/8156/index.m3u8?PlaylistM3UCL",
         "logo": "https://cdn.m3u.cl/logo/1686_San_Pedro_SAT.png",
+        "category": "Without category"
+      },
+      {
+        "name": "TV en linea Cusco | PE",
+        "url": "https://s4.tvdatta.com:3450/live/tvenlinealive.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/1590_TV_en_linea_Cusco.png",
         "category": "Without category"
       },
       {
