@@ -11,4 +11,4 @@
 | 5 | ESPN 3 | IPv4 直链 | <http://179.1.87.75:8098/play/a0hn/index.m3u8> |
 | 6 | LIGA 1 MAX (Op 4) | IPv4 直链 | <http://38.210.3.64:8090/play/a0nn/index.m3u8> |
 
-Updated at **Mon May 25 2026 04:10:18 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon May 25 2026 10:16:30 GMT+0000 (Coordinated Universal Time)**
