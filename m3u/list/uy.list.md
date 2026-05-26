@@ -8,4 +8,4 @@
 | 2 | VIVO TV (1080p) | stream.vivotv.uy | <https://stream.vivotv.uy/hls/stream.m3u8> |
 | 3 | DSports Uruguay | cors-proxy.cooks.fyi | <https://cors-proxy.cooks.fyi/http://147.135.114.221:8001/play/a00m/index.m3u8> |
 
-Updated at **Mon May 25 2026 19:46:15 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue May 26 2026 03:55:57 GMT+0000 (Coordinated Universal Time)**
