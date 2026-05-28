@@ -10,11 +10,11 @@
 | 4 | Canal 8 Catacaos  PE | live.obslivestream.com | <https://live.obslivestream.com/canal8/index.m3u8?PlaylistM3UCL> |
 | 5 | CR TV  PE | live.obslivestream.com | <https://live.obslivestream.com/crtvmux/index.m3u8?PlaylistM3UCL> |
 | 6 | ATV  PE | d19e55ehz2il4i.cloudfront.net | <https://d19e55ehz2il4i.cloudfront.net/index.m3u8?PlaylistM3UCL> |
-| 7 | Mundo de la Musica TV  CL | tv.arkeo.cl:1936 | <https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL> |
-| 8 | TV Peru Noticias  PE | cdnhd.iblups.com | <https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8?PlaylistM3UCL> |
-| 9 | ATV Sur  PE | d3r5ioyjqcy69v.cloudfront.net | <https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8?PlaylistM3UCL> |
-| 10 | Mega TV Jaen  PE | 7.innovatestream.pe:19360 | <https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8?PlaylistM3UCL> |
-| 11 | OK TeVe  PE | live.obslivestream.com | <https://live.obslivestream.com/oktv/video.m3u8?token=Bk-DXAXulO1OV0&PlaylistM3UCL> |
+| 7 | ATV Sur  PE | d3r5ioyjqcy69v.cloudfront.net | <https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8?PlaylistM3UCL> |
+| 8 | Mega TV Jaen  PE | 7.innovatestream.pe:19360 | <https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8?PlaylistM3UCL> |
+| 9 | OK TeVe  PE | live.obslivestream.com | <https://live.obslivestream.com/oktv/video.m3u8?token=Bk-DXAXulO1OV0&PlaylistM3UCL> |
+| 10 | Mundo de la Musica TV  CL | tv.arkeo.cl:1936 | <https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL> |
+| 11 | TV Peru Noticias  PE | cdnhd.iblups.com | <https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8?PlaylistM3UCL> |
 | 12 | Nativa  PE | oneplay.iptvperu.tv:1936 | <https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8?PlaylistM3UCL> |
 | 13 | ATV+  PE | d1svme839xkbsn.cloudfront.net | <https://d1svme839xkbsn.cloudfront.net/index.m3u8?PlaylistM3UCL> |
 | 14 | Tele Selva  PE | 7.innovatestream.pe:19360 | <https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8?PlaylistM3UCL> |
@@ -29,4 +29,4 @@
 | 23 | San Pedro SAT  PE | eu1.servers10.com:8081 | <https://eu1.servers10.com:8081/8156/index.m3u8?PlaylistM3UCL> |
 | 24 | TVperuanisima  PE | k20.usastreams.com:8081 | <https://k20.usastreams.com:8081/tvperuanisima/index.m3u8?PlaylistM3UCL> |
 
-Updated at **Thu May 28 2026 03:57:49 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu May 28 2026 10:09:47 GMT+0000 (Coordinated Universal Time)**

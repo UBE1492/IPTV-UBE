@@ -1,6 +1,6 @@
 {
   "name": "pe_regionales",
-  "updated_at": 1779940669087,
+  "updated_at": 1779962987577,
   "m3u": "https://ube1492.github.io/IPTV-UBE/pe_regionales.m3u",
   "channels": [
     {
@@ -40,18 +40,6 @@
       "category": "Without category"
     },
     {
-      "name": "Mundo de la Musica TV | CL",
-      "url": "https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png",
-      "category": "Without category"
-    },
-    {
-      "name": "TV Peru Noticias | PE",
-      "url": "https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/705_TV_Peru_Noticias.png",
-      "category": "Without category"
-    },
-    {
       "name": "ATV Sur | PE",
       "url": "https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8?PlaylistM3UCL",
       "logo": "https://cdn.m3u.cl/logo/1492_ATV_Sur.png",
@@ -67,6 +55,18 @@
       "name": "OK TeVe | PE",
       "url": "https://live.obslivestream.com/oktv/video.m3u8?token=Bk-DXAXulO1OV0&PlaylistM3UCL",
       "logo": "https://cdn.m3u.cl/logo/1095_OK_TeVe.png",
+      "category": "Without category"
+    },
+    {
+      "name": "Mundo de la Musica TV | CL",
+      "url": "https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png",
+      "category": "Without category"
+    },
+    {
+      "name": "TV Peru Noticias | PE",
+      "url": "https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/705_TV_Peru_Noticias.png",
       "category": "Without category"
     },
     {
@@ -187,18 +187,6 @@
         "category": "Without category"
       },
       {
-        "name": "Mundo de la Musica TV | CL",
-        "url": "https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png",
-        "category": "Without category"
-      },
-      {
-        "name": "TV Peru Noticias | PE",
-        "url": "https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/705_TV_Peru_Noticias.png",
-        "category": "Without category"
-      },
-      {
         "name": "ATV Sur | PE",
         "url": "https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8?PlaylistM3UCL",
         "logo": "https://cdn.m3u.cl/logo/1492_ATV_Sur.png",
@@ -214,6 +202,18 @@
         "name": "OK TeVe | PE",
         "url": "https://live.obslivestream.com/oktv/video.m3u8?token=Bk-DXAXulO1OV0&PlaylistM3UCL",
         "logo": "https://cdn.m3u.cl/logo/1095_OK_TeVe.png",
+        "category": "Without category"
+      },
+      {
+        "name": "Mundo de la Musica TV | CL",
+        "url": "https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png",
+        "category": "Without category"
+      },
+      {
+        "name": "TV Peru Noticias | PE",
+        "url": "https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/705_TV_Peru_Noticias.png",
         "category": "Without category"
       },
       {
