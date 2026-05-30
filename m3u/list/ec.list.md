@@ -56,5 +56,6 @@
 | 50 | Telepremier Plus (1080p) | iptv.telepremier.video.makrodigital.com:8081 | <http://iptv.telepremier.video.makrodigital.com:8081/telepremier/iptv/playlist.m3u8> |
 | 51 | Planeta Channel | vs20.live.opencaster.com | <https://vs20.live.opencaster.com/planetachannel_089eff6d/index.m3u8> |
 | 52 | MakroDigital Television (720p) | iptv.makrodigitaltv.makrodigital.com:8081 | <http://iptv.makrodigitaltv.makrodigital.com:8081/makrodigitaltelevision/iptv/playlist.m3u8> |
+| 53 | Kasterwey Media (1080p) | live.fansplay.tv | <https://live.fansplay.tv/livestreams/45.b0JPENQx19PG2pxg.m3u8> |
 
-Updated at **Fri May 29 2026 20:30:36 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat May 30 2026 03:46:21 GMT+0000 (Coordinated Universal Time)**
