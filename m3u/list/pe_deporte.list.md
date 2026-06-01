@@ -6,4 +6,4 @@
 | --- | ------------ | ---- | ------ |
 | 1 | LIGA 1 MAX (Op 4) | IPv4 直链 | <http://38.210.3.64:8090/play/a0nn/index.m3u8> |
 
-Updated at **Mon Jun 01 2026 04:25:39 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jun 01 2026 11:42:40 GMT+0000 (Coordinated Universal Time)**
