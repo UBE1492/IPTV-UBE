@@ -58,4 +58,4 @@
 | 52 | MakroDigital Television (720p) | iptv.makrodigitaltv.makrodigital.com:8081 | <http://iptv.makrodigitaltv.makrodigital.com:8081/makrodigitaltelevision/iptv/playlist.m3u8> |
 | 53 | Kasterwey Media (1080p) | live.fansplay.tv | <https://live.fansplay.tv/livestreams/45.b0JPENQx19PG2pxg.m3u8> |
 
-Updated at **Tue Jun 02 2026 10:42:40 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jun 02 2026 16:40:07 GMT+0000 (Coordinated Universal Time)**

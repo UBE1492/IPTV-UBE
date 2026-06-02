@@ -8,4 +8,4 @@
 | 2 | ESPN Deportes (360p) | Tdo@origin.thetvapp.to | <http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8> |
 | 3 | Fox Sports 1 (1280p) | cors-proxy.cooks.fyi | <https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8> |
 
-Updated at **Tue Jun 02 2026 10:42:38 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jun 02 2026 16:40:05 GMT+0000 (Coordinated Universal Time)**
