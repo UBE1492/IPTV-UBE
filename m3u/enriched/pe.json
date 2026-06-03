@@ -1,6 +1,6 @@
 {
   "name": "pe",
-  "updated_at": 1780505819175,
+  "updated_at": 1780521548833,
   "m3u": "https://ube1492.github.io/IPTV-UBE/pe.m3u",
   "channels": [
     {
@@ -10,14 +10,14 @@
       "category": "Otros"
     },
     {
-      "name": "ATV (720p) [Not 24/7]",
-      "url": "https://d2qsan2ut81n2k.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/ts:abr.m3u8",
+      "name": "Cadena TV (720p) [Not 24/7]",
+      "url": "https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "Antena SUR (720p)",
-      "url": "https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8",
+      "name": "ATV (720p) [Not 24/7]",
+      "url": "https://d2qsan2ut81n2k.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/ts:abr.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -34,8 +34,8 @@
       "category": "Otros"
     },
     {
-      "name": "Cadena TV (720p) [Not 24/7]",
-      "url": "https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8",
+      "name": "BHTV (1080p)",
+      "url": "https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -46,26 +46,32 @@
       "category": "Otros"
     },
     {
-      "name": "BHTV (1080p)",
-      "url": "https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Canal 8 Catacaos (720p) [Not 24/7]",
       "url": "https://live.obslivestream.com/canal8/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "Bethel TV (720p)",
-      "url": "https://alfa.betheltv.tv/srt/3_abr/playlist.m3u8",
+      "name": "Antena SUR (720p)",
+      "url": "https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "La Fabulosa Radio y TV (720p)",
+      "url": "https://eu1.servers10.com:8081/8004/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
       "name": "Canal 21 Huancayo (720p)",
       "url": "https://play.agenciastreaming.com:8081/tvwanka/tracks-v1/index.fmp4.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Bethel TV (720p)",
+      "url": "https://alfa.betheltv.tv/srt/3_abr/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -82,26 +88,14 @@
       "category": "Otros"
     },
     {
-      "name": "JN19 (1080p) [Not 24/7]",
-      "url": "https://servilive.com:3028/live/jntv19live.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Miel TV (720p) [Not 24/7]",
       "url": "https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "Intuitiva TV (720p)",
-      "url": "https://video2.lhdserver.es/cableperu/live.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Impacto Televisión (360p) [Not 24/7]",
-      "url": "https://cloudvideo.servers10.com:8081/impactotv/index.m3u8",
+      "name": "JN19 (1080p) [Not 24/7]",
+      "url": "https://servilive.com:3028/live/jntv19live.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -112,14 +106,20 @@
       "category": "Otros"
     },
     {
+      "name": "Impacto Televisión (360p) [Not 24/7]",
+      "url": "https://cloudvideo.servers10.com:8081/impactotv/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
       "name": "Nativa TV Satipo (720p) [Not 24/7]",
       "url": "https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "Nativa (720p) [Not 24/7]",
-      "url": "https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8",
+      "name": "Intuitiva TV (720p)",
+      "url": "https://video2.lhdserver.es/cableperu/live.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -130,8 +130,8 @@
       "category": "Otros"
     },
     {
-      "name": "La Fabulosa Radio y TV (720p)",
-      "url": "https://eu1.servers10.com:8081/8004/index.m3u8",
+      "name": "Nativa (720p) [Not 24/7]",
+      "url": "https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -208,6 +208,12 @@
       "category": "Otros"
     },
     {
+      "name": "Unitel (1080p)",
+      "url": "https://play.agenciastreaming.com:8081/uniteltv/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
       "name": "Uranio TV (Yurimaguas) (720p) [Not 24/7]",
       "url": "https://live.obslivestream.com/uraniotv/index.m3u8",
       "logo": "",
@@ -226,20 +232,14 @@
       "category": "Otros"
     },
     {
-      "name": "Unife TV",
-      "url": "https://cdn.mycloudstream.io/hls/live/broadcast/ic1frrzz/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "TVUNO (720p)",
       "url": "https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "Unitel (1080p)",
-      "url": "https://play.agenciastreaming.com:8081/uniteltv/index.m3u8",
+      "name": "Unife TV",
+      "url": "https://cdn.mycloudstream.io/hls/live/broadcast/ic1frrzz/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -259,14 +259,14 @@
         "category": "Otros"
       },
       {
-        "name": "ATV (720p) [Not 24/7]",
-        "url": "https://d2qsan2ut81n2k.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/ts:abr.m3u8",
+        "name": "Cadena TV (720p) [Not 24/7]",
+        "url": "https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "Antena SUR (720p)",
-        "url": "https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8",
+        "name": "ATV (720p) [Not 24/7]",
+        "url": "https://d2qsan2ut81n2k.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/ts:abr.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -283,8 +283,8 @@
         "category": "Otros"
       },
       {
-        "name": "Cadena TV (720p) [Not 24/7]",
-        "url": "https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8",
+        "name": "BHTV (1080p)",
+        "url": "https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -295,26 +295,32 @@
         "category": "Otros"
       },
       {
-        "name": "BHTV (1080p)",
-        "url": "https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "Canal 8 Catacaos (720p) [Not 24/7]",
         "url": "https://live.obslivestream.com/canal8/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "Bethel TV (720p)",
-        "url": "https://alfa.betheltv.tv/srt/3_abr/playlist.m3u8",
+        "name": "Antena SUR (720p)",
+        "url": "https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "La Fabulosa Radio y TV (720p)",
+        "url": "https://eu1.servers10.com:8081/8004/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
         "name": "Canal 21 Huancayo (720p)",
         "url": "https://play.agenciastreaming.com:8081/tvwanka/tracks-v1/index.fmp4.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Bethel TV (720p)",
+        "url": "https://alfa.betheltv.tv/srt/3_abr/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -331,26 +337,14 @@
         "category": "Otros"
       },
       {
-        "name": "JN19 (1080p) [Not 24/7]",
-        "url": "https://servilive.com:3028/live/jntv19live.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "Miel TV (720p) [Not 24/7]",
         "url": "https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "Intuitiva TV (720p)",
-        "url": "https://video2.lhdserver.es/cableperu/live.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Impacto Televisión (360p) [Not 24/7]",
-        "url": "https://cloudvideo.servers10.com:8081/impactotv/index.m3u8",
+        "name": "JN19 (1080p) [Not 24/7]",
+        "url": "https://servilive.com:3028/live/jntv19live.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -361,14 +355,20 @@
         "category": "Otros"
       },
       {
+        "name": "Impacto Televisión (360p) [Not 24/7]",
+        "url": "https://cloudvideo.servers10.com:8081/impactotv/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
         "name": "Nativa TV Satipo (720p) [Not 24/7]",
         "url": "https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "Nativa (720p) [Not 24/7]",
-        "url": "https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8",
+        "name": "Intuitiva TV (720p)",
+        "url": "https://video2.lhdserver.es/cableperu/live.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -379,8 +379,8 @@
         "category": "Otros"
       },
       {
-        "name": "La Fabulosa Radio y TV (720p)",
-        "url": "https://eu1.servers10.com:8081/8004/index.m3u8",
+        "name": "Nativa (720p) [Not 24/7]",
+        "url": "https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -457,6 +457,12 @@
         "category": "Otros"
       },
       {
+        "name": "Unitel (1080p)",
+        "url": "https://play.agenciastreaming.com:8081/uniteltv/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
         "name": "Uranio TV (Yurimaguas) (720p) [Not 24/7]",
         "url": "https://live.obslivestream.com/uraniotv/index.m3u8",
         "logo": "",
@@ -475,20 +481,14 @@
         "category": "Otros"
       },
       {
-        "name": "Unife TV",
-        "url": "https://cdn.mycloudstream.io/hls/live/broadcast/ic1frrzz/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "TVUNO (720p)",
         "url": "https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "Unitel (1080p)",
-        "url": "https://play.agenciastreaming.com:8081/uniteltv/index.m3u8",
+        "name": "Unife TV",
+        "url": "https://cdn.mycloudstream.io/hls/live/broadcast/ic1frrzz/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
