@@ -7,5 +7,6 @@
 | 1 | DirecTV Sports (1080p) | latam-cache-sv2-cdn.latamlive.net | <https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd> |
 | 2 | ESPN Deportes (360p) | Tdo@origin.thetvapp.to | <http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8> |
 | 3 | Fox Sports 1 (1280p) | cors-proxy.cooks.fyi | <https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8> |
+| 4 | beIN SPORTS XTRA (1080p) | bein-xtra-bein.amagi.tv | <https://bein-xtra-bein.amagi.tv/playlist.m3u8> |
 
-Updated at **Wed Jun 03 2026 21:19:01 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jun 04 2026 04:23:28 GMT+0000 (Coordinated Universal Time)**
