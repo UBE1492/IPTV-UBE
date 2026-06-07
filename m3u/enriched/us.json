@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1780774628513,
+  "updated_at": 1780805823739,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -1161,12 +1161,6 @@
     {
       "name": "WCAU-DT1 (1080p)",
       "url": "https://d368vp0qqzvkid.cloudfront.net/11603/88889705/hls/master.m3u8?ads.xumo_channelId=88889705a&ads.xumo_ifaType=&ads.xumo_providerId=3819&ads.xumo_providerName=NBCNPHI",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "WCBS-DT1 (720p) [Geo-blocked]",
-      "url": "https://tvpass.org/live/WCBSDT1/hd",
       "logo": "",
       "category": "Otros"
     },
@@ -2646,12 +2640,6 @@
       {
         "name": "WCAU-DT1 (1080p)",
         "url": "https://d368vp0qqzvkid.cloudfront.net/11603/88889705/hls/master.m3u8?ads.xumo_channelId=88889705a&ads.xumo_ifaType=&ads.xumo_providerId=3819&ads.xumo_providerName=NBCNPHI",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "WCBS-DT1 (720p) [Geo-blocked]",
-        "url": "https://tvpass.org/live/WCBSDT1/hd",
         "logo": "",
         "category": "Otros"
       },

@@ -387,8 +387,6 @@ https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_124.m
 https://d368vp0qqzvkid.cloudfront.net/11603/88889713/hls/master.m3u8?ads.xumo_channelId=88889713a&ads.xumo_ifaType=&ads.xumo_providerId=3820&ads.xumo_providerName=NBCNBOS
 #EXTINF:-1 tvg-id="WCAU621.us@HD",WCAU-DT1 (1080p)
 https://d368vp0qqzvkid.cloudfront.net/11603/88889705/hls/master.m3u8?ads.xumo_channelId=88889705a&ads.xumo_ifaType=&ads.xumo_providerId=3819&ads.xumo_providerName=NBCNPHI
-#EXTINF:-1 tvg-id="WCBSTV21.us@HD",WCBS-DT1 (720p) [Geo-blocked]
-https://tvpass.org/live/WCBSDT1/hd
 #EXTINF:-1 tvg-id="WEDQ34.us@HD",WEDQ-DT4 (1080p)
 https://wedqdt4.lls.pbs.org/wedqdt4-hls.m3u8
 #EXTINF:-1 tvg-id="WFLD501.us@HD",WFLD-DT1 (1080p)
