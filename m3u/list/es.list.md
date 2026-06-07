@@ -147,4 +147,4 @@
 | 141 | ETB1 On (1080p) | cdn1.etbon.eus | <https://cdn1.etbon.eus/etb1on/index.m3u8> |
 | 142 | ETB2 On (1080p) | cdn1.etbon.eus | <https://cdn1.etbon.eus/etb2on/index.m3u8> |
 
-Updated at **Sun Jun 07 2026 14:01:33 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jun 07 2026 19:37:44 GMT+0000 (Coordinated Universal Time)**
