@@ -149,4 +149,4 @@
 | 143 | ETB 1 (1080p) [Geo-blocked] | cdn1.etbon.eus | <https://cdn1.etbon.eus/etb1/index.m3u8> |
 | 144 | ETB 2 (1080p) [Geo-blocked] | cdn1.etbon.eus | <https://cdn1.etbon.eus/etb2/index.m3u8> |
 
-Updated at **Mon Jun 08 2026 04:21:23 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jun 08 2026 11:03:08 GMT+0000 (Coordinated Universal Time)**
