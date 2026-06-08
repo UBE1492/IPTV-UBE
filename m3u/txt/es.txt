@@ -157,3 +157,5 @@ TVE_Internacional_America_(576p)_[Geo-blocked],https://rtvelivestream-rtveplaypl
 TVE_Internacional_Asia-Oceania_(576p)_[Geo-blocked],https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_576.m3u8
 ETB1_On_(1080p),https://cdn1.etbon.eus/etb1on/index.m3u8
 ETB2_On_(1080p),https://cdn1.etbon.eus/etb2on/index.m3u8
+ETB_1_(1080p)_[Geo-blocked],https://cdn1.etbon.eus/etb1/index.m3u8
+ETB_2_(1080p)_[Geo-blocked],https://cdn1.etbon.eus/etb2/index.m3u8

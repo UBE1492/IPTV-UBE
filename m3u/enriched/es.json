@@ -1,6 +1,6 @@
 {
   "name": "es",
-  "updated_at": 1780861064516,
+  "updated_at": 1780892483135,
   "m3u": "https://ube1492.github.io/IPTV-UBE/es.m3u",
   "channels": [
     {
@@ -909,6 +909,18 @@
     {
       "name": "ETB2 On (1080p)",
       "url": "https://cdn1.etbon.eus/etb2on/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "ETB 1 (1080p) [Geo-blocked]",
+      "url": "https://cdn1.etbon.eus/etb1/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "ETB 2 (1080p) [Geo-blocked]",
+      "url": "https://cdn1.etbon.eus/etb2/index.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -1821,6 +1833,18 @@
       {
         "name": "ETB2 On (1080p)",
         "url": "https://cdn1.etbon.eus/etb2on/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "ETB 1 (1080p) [Geo-blocked]",
+        "url": "https://cdn1.etbon.eus/etb1/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "ETB 2 (1080p) [Geo-blocked]",
+        "url": "https://cdn1.etbon.eus/etb2/index.m3u8",
         "logo": "",
         "category": "Otros"
       }
