@@ -9,4 +9,4 @@
 | 3 | Fox Sports 1 (1280p) | cors-proxy.cooks.fyi | <https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8> |
 | 4 | beIN SPORTS XTRA (1080p) | bein-xtra-bein.amagi.tv | <https://bein-xtra-bein.amagi.tv/playlist.m3u8> |
 
-Updated at **Mon Jun 08 2026 20:23:03 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jun 09 2026 03:52:39 GMT+0000 (Coordinated Universal Time)**

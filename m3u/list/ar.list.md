@@ -59,4 +59,4 @@
 | 53 | Chilecito TV (480p) | vivo.solumedia.com:19360 | <https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8> |
 | 54 | Cumbia Mix (720p) | cloud.tvomix.com | <https://cloud.tvomix.com/CUMBIAMIX/index.m3u8> |
 
-Updated at **Mon Jun 08 2026 20:23:04 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jun 09 2026 03:52:39 GMT+0000 (Coordinated Universal Time)**
