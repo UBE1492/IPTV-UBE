@@ -150,4 +150,4 @@
 | 144 | ETB 2 (1080p) [Geo-blocked] | cdn1.etbon.eus | <https://cdn1.etbon.eus/etb2/index.m3u8> |
 | 145 | AXN CEE Romania [Not 24/7] | 315e5a5d.ottrast.com | <http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/7008/index.m3u8> |
 
-Updated at **Wed Jun 10 2026 04:04:02 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jun 10 2026 10:08:57 GMT+0000 (Coordinated Universal Time)**

@@ -1,6 +1,6 @@
 {
   "name": "pe_regionales",
-  "updated_at": 1781064247132,
+  "updated_at": 1781086143676,
   "m3u": "https://ube1492.github.io/IPTV-UBE/pe_regionales.m3u",
   "channels": [
     {
@@ -64,6 +64,12 @@
       "category": "Without category"
     },
     {
+      "name": "ATV Sur | PE",
+      "url": "https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/1492_ATV_Sur.png",
+      "category": "Without category"
+    },
+    {
       "name": "Nativa | PE",
       "url": "https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8?PlaylistM3UCL",
       "logo": "https://cdn.m3u.cl/logo/684_Nativa.png",
@@ -82,9 +88,9 @@
       "category": "Without category"
     },
     {
-      "name": "Telecolor TV | PE",
-      "url": "https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/1189_Telecolor_TV.png",
+      "name": "Controversia TV | PE",
+      "url": "https://live.obslivestream.com/controversiatv/index.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/1188_Controversia_TV.png",
       "category": "Without category"
     },
     {
@@ -94,9 +100,9 @@
       "category": "Without category"
     },
     {
-      "name": "Controversia TV | PE",
-      "url": "https://live.obslivestream.com/controversiatv/index.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/1188_Controversia_TV.png",
+      "name": "Telecolor TV | PE",
+      "url": "https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/1189_Telecolor_TV.png",
       "category": "Without category"
     },
     {
@@ -133,12 +139,6 @@
       "name": "San Pedro SAT | PE",
       "url": "https://eu1.servers10.com:8081/8156/index.m3u8?PlaylistM3UCL",
       "logo": "https://cdn.m3u.cl/logo/1686_San_Pedro_SAT.png",
-      "category": "Without category"
-    },
-    {
-      "name": "TV en linea Cusco | PE",
-      "url": "https://s4.tvdatta.com:3450/live/tvenlinealive.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/1590_TV_en_linea_Cusco.png",
       "category": "Without category"
     },
     {
@@ -211,6 +211,12 @@
         "category": "Without category"
       },
       {
+        "name": "ATV Sur | PE",
+        "url": "https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/1492_ATV_Sur.png",
+        "category": "Without category"
+      },
+      {
         "name": "Nativa | PE",
         "url": "https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8?PlaylistM3UCL",
         "logo": "https://cdn.m3u.cl/logo/684_Nativa.png",
@@ -229,9 +235,9 @@
         "category": "Without category"
       },
       {
-        "name": "Telecolor TV | PE",
-        "url": "https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/1189_Telecolor_TV.png",
+        "name": "Controversia TV | PE",
+        "url": "https://live.obslivestream.com/controversiatv/index.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/1188_Controversia_TV.png",
         "category": "Without category"
       },
       {
@@ -241,9 +247,9 @@
         "category": "Without category"
       },
       {
-        "name": "Controversia TV | PE",
-        "url": "https://live.obslivestream.com/controversiatv/index.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/1188_Controversia_TV.png",
+        "name": "Telecolor TV | PE",
+        "url": "https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/1189_Telecolor_TV.png",
         "category": "Without category"
       },
       {
@@ -280,12 +286,6 @@
         "name": "San Pedro SAT | PE",
         "url": "https://eu1.servers10.com:8081/8156/index.m3u8?PlaylistM3UCL",
         "logo": "https://cdn.m3u.cl/logo/1686_San_Pedro_SAT.png",
-        "category": "Without category"
-      },
-      {
-        "name": "TV en linea Cusco | PE",
-        "url": "https://s4.tvdatta.com:3450/live/tvenlinealive.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/1590_TV_en_linea_Cusco.png",
         "category": "Without category"
       },
       {
