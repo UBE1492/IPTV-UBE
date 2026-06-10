@@ -25,7 +25,6 @@ Canal_13_Oaxaca_(720p)_[Not_24/7],https://stream-207963.castr.net/65313d270e7497
 Canal_13_Puebla_(720p)_[Not_24/7],https://stream-207963.castr.net/65313d270e749722b6474684/live_19c1e870dfbf11eeadd41749c3286f4a/index.fmp4.m3u8
 Canal_13_Tabasco_(720p)_[Not_24/7],https://stream-207963.castr.net/65313d270e749722b6474684/live_185f5f10888711ee83e2f144889e3879/index.fmp4.m3u8
 Canal_13_Tapachula_(720p)_[Not_24/7],https://stream-207963.castr.net/65313d270e749722b6474684/live_2b589fc0dfbf11ee9ce13534ca2a46c3/index.fmp4.m3u8
-Canal_13_Yucatán_(720p)_[Not_24/7],https://stream-207963.castr.net/65313d270e749722b6474684/live_4d3635d0dfbf11eeaae187cc1ffaf09b/index.fmp4.m3u8
 Canal_15_ILCE_Summa_Sabres_(720p),https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
 Canal_22_Nacional_(720p)_[Geo-blocked],https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 Canal_26_Aguascalientes_(1080p),https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
