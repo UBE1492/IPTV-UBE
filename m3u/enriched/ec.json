@@ -1,6 +1,6 @@
 {
   "name": "ec",
-  "updated_at": 1781123681230,
+  "updated_at": 1781151452856,
   "m3u": "https://ube1492.github.io/IPTV-UBE/ec.m3u",
   "channels": [
     {
@@ -190,6 +190,18 @@
       "category": "Otros"
     },
     {
+      "name": "Kasterwey Media (1080p)",
+      "url": "https://live.fansplay.tv/livestreams/45.b0JPENQx19PG2pxg.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "KCHTV (1080p)",
+      "url": "http://iptv.kchtv.video.makrodigital.com:8081/kchtv/iptv/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
       "name": "La Nueva Radio TV 97.7 (1080p)",
       "url": "https://sv72.ecuaradiotv.net/lanuevatv/live/playlist.m3u8",
       "logo": "",
@@ -277,6 +289,12 @@
       "category": "Otros"
     },
     {
+      "name": "VitoTVO (1080p)",
+      "url": "http://iptv.vitotvo.video.makrodigital.com:8081/vitotvo/iptv/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
       "name": "Vos y TV (720p) [Not 24/7]",
       "url": "https://cloud37.ecuatel.com/vostv/live/manifest.m3u8",
       "logo": "",
@@ -285,42 +303,6 @@
     {
       "name": "Zaracay TV (1080p) [Not 24/7]",
       "url": "https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "KCHTV (1080p)",
-      "url": "http://iptv.kchtv.video.makrodigital.com:8081/kchtv/iptv/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "VitoTVO (1080p)",
-      "url": "http://iptv.vitotvo.video.makrodigital.com:8081/vitotvo/iptv/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Telepremier Plus (1080p)",
-      "url": "http://iptv.telepremier.video.makrodigital.com:8081/telepremier/iptv/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Planeta Channel",
-      "url": "https://vs20.live.opencaster.com/planetachannel_089eff6d/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "MakroDigital Television (720p)",
-      "url": "http://iptv.makrodigitaltv.makrodigital.com:8081/makrodigitaltelevision/iptv/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Kasterwey Media (1080p)",
-      "url": "https://live.fansplay.tv/livestreams/45.b0JPENQx19PG2pxg.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -514,6 +496,18 @@
         "category": "Otros"
       },
       {
+        "name": "Kasterwey Media (1080p)",
+        "url": "https://live.fansplay.tv/livestreams/45.b0JPENQx19PG2pxg.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "KCHTV (1080p)",
+        "url": "http://iptv.kchtv.video.makrodigital.com:8081/kchtv/iptv/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
         "name": "La Nueva Radio TV 97.7 (1080p)",
         "url": "https://sv72.ecuaradiotv.net/lanuevatv/live/playlist.m3u8",
         "logo": "",
@@ -601,6 +595,12 @@
         "category": "Otros"
       },
       {
+        "name": "VitoTVO (1080p)",
+        "url": "http://iptv.vitotvo.video.makrodigital.com:8081/vitotvo/iptv/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
         "name": "Vos y TV (720p) [Not 24/7]",
         "url": "https://cloud37.ecuatel.com/vostv/live/manifest.m3u8",
         "logo": "",
@@ -609,42 +609,6 @@
       {
         "name": "Zaracay TV (1080p) [Not 24/7]",
         "url": "https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "KCHTV (1080p)",
-        "url": "http://iptv.kchtv.video.makrodigital.com:8081/kchtv/iptv/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "VitoTVO (1080p)",
-        "url": "http://iptv.vitotvo.video.makrodigital.com:8081/vitotvo/iptv/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Telepremier Plus (1080p)",
-        "url": "http://iptv.telepremier.video.makrodigital.com:8081/telepremier/iptv/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Planeta Channel",
-        "url": "https://vs20.live.opencaster.com/planetachannel_089eff6d/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "MakroDigital Television (720p)",
-        "url": "http://iptv.makrodigitaltv.makrodigital.com:8081/makrodigitaltelevision/iptv/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Kasterwey Media (1080p)",
-        "url": "https://live.fansplay.tv/livestreams/45.b0JPENQx19PG2pxg.m3u8",
         "logo": "",
         "category": "Otros"
       }

@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD",beIN SPORTS XTRA (1080p)
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSClassicSports.us@SD",TVS Classic Sports (360p)
 https://rpn.bozztv.com/gusa/gusa-tvs/index.m3u8
 #EXTINF:-1 tvg-id="TVSPinballNetwork.us@SD",TVS Pinball Network (480p)
@@ -13,3 +15,5 @@ https://rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8
 https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8
 #EXTINF:-1 tvg-id="WillowSports.us@SD",Willow Sports (1080p) [Geo-blocked]
 https://amg01269-amg01269c1-firetv-us-5377.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="WillowSports.us@HD",Willow Sports (1080p)
+https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8

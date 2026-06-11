@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AghapyKids.us@SD",Aghapy Kids (1080p)
 https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8
+#EXTINF:-1 tvg-id="WatchitKID.us@SD",Watch it KID! (480i)
+https://stream-us-east-1.getpublica.com/cl/260415d7g24jv4hnf3ahfafgog/318x234_424101_3_f.m3u8?i=513_2256
 #EXTINF:-1 tvg-id="WBRATV153.us@HD",WBRA PBS Kids (1080p)
 https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_124.m3u8

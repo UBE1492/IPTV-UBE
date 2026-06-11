@@ -1,63 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AlmayaTV.py@SD",Almaya TV (720p)
-https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8
-#EXTINF:-1 tvg-id="BrunoMasiTV.py@SD",Bruno Masi TV (720p)
-https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal5TVMax.py@SD",Canal 5 TV Max (720p)
-https://video.wilohosting.com:19360/tvmax/tvmax.m3u8
-#EXTINF:-1 tvg-id="CaritasTV.py@SD",Cáritas TV (1080p)
-https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
-#EXTINF:-1 tvg-id="CosmosTV.py@SD",Cosmos TV (720p)
-https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
+#EXTINF:-1 tvg-id="ABCTVParaguay.py@SD",ABC-TV Paraguay
+#EXTVLCOPT:http-referrer=https://www.abc.com.py/
 #EXTINF:-1 tvg-id="GOTV.py@SD",GO TV (720p)
 https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
 #EXTINF:-1 tvg-id="LIMTV.py@SD",LIM TV (720p)
 https://tv.invasivamedia.com/hls/limtv.m3u8
-#EXTINF:-1 tvg-id="MiTV.py@SD",MiTV (720p)
-https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
-#EXTINF:-1 tvg-id="RepublicaTV.py@SD",República TV (720p)
-https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8
-#EXTINF:-1 tvg-id="SucesoTV.py@SD",Suceso TV [Not 24/7]
-https://live.enhdtv.com:8081/8060/index.m3u8
-#EXTINF:-1 tvg-id="UnionTV.py@SD",UnionTV
-https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ABCTVParaguay.py@SD",ABC-TV Paraguay
-#EXTVLCOPT:http-referrer=https://www.abc.com.py/
-#EXTINF:-1 tvg-id="DelReyTV.py@SD",Del Rey TV (1080p)
-#EXTVLCOPT:http-referrer=https://tvonline.com.py/
-#EXTINF:-1 tvg-id="ProductivaTV.py@SD",Productiva TV
-https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion
-#EXTINF:-1 tvg-id="TVAire.py@SD",TV Aire
-https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8
 #EXTINF:-1 tvg-id="MegaTV.py@SD",Mega TV (1080p)
 https://www.desde-paraguay.com/mega.m3u8
-#EXTINF:-1 tvg-id="RCCTV.py@SD",RCC TV (1080p) [Not 24/7]
-https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion
-#EXTINF:-1 tvg-id="EnLenguadeSenasTV.py@SD",En Lengua de Senas TV (720p)
-https://cloudtv.streaming.com.py/lenguasdesenas/lenguasdesenas/chunklist.m3u8
-#EXTINF:-1 tvg-id="SURTVItapua.py@SD",SUR TV Itapua
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1596.m3u8
-#EXTINF:-1 tvg-id="TVCamara.py@SD",TV Camara (1080p)
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/119.m3u8
-#EXTINF:-1 tvg-id="ParaguayTV.py@SD",Paraguay TV
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/118.m3u8
-#EXTINF:-1 tvg-id="RedInteriorTV.py@SD",Red Interior TV
-https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8
-#EXTINF:-1 tvg-id="OccidentalTV.py@SD",Occidental TV
-https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8
-#EXTINF:-1 tvg-id="NandePortetepeTV.py@SD",Nande Portetepe TV
-https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8
+#EXTINF:-1 tvg-id="MiTV.py@SD",MiTV (720p)
+https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
+#EXTINF:-1 tvg-id="MonumentalTV.py@SD",Monumental TV
+#EXTVLCOPT:http-referrer=https://www.monumental.com.py/
+#EXTINF:-1 tvg-id="UnionTV.py@SD",UnionTV
+https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
 #EXTINF:-1 tvg-id="UniRadioTV.py@SD",UniRadio TV (1080p)
 https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8
-#EXTINF:-1 tvg-id="OasisTV.py@SD",Oasis TV (720p)
-https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8
-#EXTINF:-1 tvg-id="ObediraTV.py@SD",Obedira TV
-https://video.hostingcaaguazu.com:19360/obediratv/obediratv.m3u8
-#EXTINF:-1 tvg-id="RegionalTVYaguaron.py@SD",Regional TV Yaguaron (1080p)
-https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8
-#EXTINF:-1 tvg-id="TVCanindeyu.py@SD",TV Canindeyu (1080p)
-https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8
-#EXTINF:-1 tvg-id="OviedoTV.py@SD",Oviedo TV
-https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8
-#EXTINF:-1 tvg-id="ParaguayTV.py@SD",Paraguay TV (1080p)
-https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8

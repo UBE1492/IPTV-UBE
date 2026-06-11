@@ -11,7 +11,7 @@
 | 5 | Bolivia TV 7.2 (720p) | video1.getstreamhosting.com:1936 | <https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8> |
 | 6 | Bolivisión LPZ (720p) | alba-bo-bolivision-bolivision.stream.mediatiquestream.com | <https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8> |
 | 7 | Cadena A (720p) [Not 24/7] | 5fe2654d6127d.streamlock.net | <https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8> |
-| 8 | CEACOM TV [Not 24/7] | eu1.servers10.com:8081 | <https://eu1.servers10.com:8081/ceacom/index.m3u8> |
+| 8 | CEACOM TV (1080p) [Not 24/7] | eu1.servers10.com:8081 | <https://eu1.servers10.com:8081/ceacom/index.m3u8> |
 | 9 | CTV | live.ctvbolivia.com | <https://live.ctvbolivia.com/hls/ctv.m3u8> |
 | 10 | F10 HD [Geo-blocked] | tv2.bitstreaming.net:3235 | <https://tv2.bitstreaming.net:3235/multi_live/play.m3u8> |
 | 11 | FAP TV (480p) | nd106.republicaservers.com | <https://nd106.republicaservers.com/hls/c7284/index.m3u8> |
@@ -31,4 +31,4 @@
 | 25 | UPP TV/Bolivisión SCZ (720p) [Not 24/7] | alba-bo-bolivision-upptv.stream.mediatiquestream.com | <https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/index.m3u8> |
 | 26 | VTV Canal 17 (720p) [Not 24/7] | solo.disfrutaenlared.com:1936 | <https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/playlist.m3u8> |
 
-Updated at **Wed Jun 10 2026 20:34:41 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jun 11 2026 04:17:33 GMT+0000 (Coordinated Universal Time)**

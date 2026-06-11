@@ -28,7 +28,7 @@
 | 22 | CDTV (720p) [Not 24/7] | camara.03.cl.cdnz.cl | <http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8> |
 | 23 | Chile Channel (720p) | v2.tustreaming.cl | <https://v2.tustreaming.cl/chilechannel/index.m3u8> |
 | 24 | ChileVision (1080p) | IPv4 直链 | <http://38.250.127.17:9800/play/a05h/index.m3u8> |
-| 25 | Chiloe Red 25 | v2.tustreaming.cl | <https://v2.tustreaming.cl/chiloered/index.m3u8> |
+| 25 | Chiloe Red 25 (720p) | v2.tustreaming.cl | <https://v2.tustreaming.cl/chiloered/index.m3u8> |
 | 26 | Click TV (Coronel) (720p) | v2.tustreaming.cl | <https://v2.tustreaming.cl/clicktv/playlist.m3u8> |
 | 27 | Contivision (720p) | unlimited6-cl.dps.live | <https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8> |
 | 28 | Dance FM (720p) | 5eaccbab48461.streamlock.net:1936 | <https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8> |
@@ -64,6 +64,5 @@
 | 58 | TVN (1080p) | IPv4 直链 | <http://217.26.190.76:8888/play/a0m6/index.m3u8> |
 | 59 | TVN3 (1080p) [Geo-blocked] | mdstrm.com | <https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8> |
 | 60 | VTV Valle de Aconcagua (720p) [Not 24/7] | unlimited1-us.dps.live | <https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8> |
-| 61 | Orbita Chile TV (1080p) | orbitachiletv.org | <https://orbitachiletv.org/hls/0/stream.m3u8> |
 
-Updated at **Wed Jun 10 2026 20:34:42 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jun 11 2026 04:17:32 GMT+0000 (Coordinated Universal Time)**

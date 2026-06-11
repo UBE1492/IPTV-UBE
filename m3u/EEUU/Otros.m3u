@@ -39,6 +39,8 @@ https://627bb251f23c7.streamlock.net:444/Alientoenvivo/Alientoenvivo/playlist.m3
 http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
 #EXTINF:-1 tvg-id="AppleValleyChannel180.us@SD",Apple Valley Channel 180
 https://reflect-applevalley.cablecast.tv/live-3/live/live.m3u8
+#EXTINF:-1 tvg-id="Atlas.us@SD",Atlas (480p)
+https://cdn.whiplash.cc/whiplash-atlas/index.m3u8
 #EXTINF:-1 tvg-id="ATXN1.us@SD",ATXN1 (1080p)
 https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(616d6f49-eaec-6f7e-7186-2bbaf66c69c0)/index.m3u8
 #EXTINF:-1 tvg-id="ATXN2.us@SD",ATXN2 (1080p)
@@ -47,6 +49,10 @@ https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(f97b5ddc-b7e4-dff8-9f1
 https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(c55d1594-ad62-7434-aa17-4d71adb80f99)/index.m3u8
 #EXTINF:-1 tvg-id="AWEEncore.us@SD",AWE Encore (720p) [Geo-blocked]
 https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
+#EXTINF:-1 tvg-id="AXNBlack.us@Romania",AXN Black Romania [Not 24/7]
+http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6952/index.m3u8
+#EXTINF:-1 tvg-id="AXNWhite.us@SD",AXN White [Not 24/7]
+http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6950/index.m3u8
 #EXTINF:-1 tvg-id="BBCAmerica.us@East",BBC America
 https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-id="BIGCivicChannel.us@SD",BIG Civic Channel
@@ -85,13 +91,15 @@ https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8
 https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
 #EXTINF:-1 tvg-id="ChristianYouthChannelCYC.us@SD",Christian Youth Channel (CYC) (1080p)
 http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CityofMonroeGovernmentChannel.us@SD",City of Monroe Government Channel
+https://reflect-monroe-mi-ci.cablecast.tv/live-1/live/live.m3u8
 #EXTINF:-1 tvg-id="CNBC.us@SD",CNBC (720p)
 #EXTVLCOPT:http-referrer=https://www.newslive.com/business/cnbc-live-free.html
 #EXTINF:-1 tvg-id="TheCountryNetwork.us@SD",The Country Network (1080p)
 https://amg00600-amg00600c1-thecountrynetwork-us-5497.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TheCyclingChannel.at@SD",The Cycling Channel
 https://cyclingtv.playout.vju.tv/cyclingtv/main.m3u8
-#EXTINF:-1 tvg-id="TheNest.us@SD",The Nest
+#EXTINF:-1 tvg-id="TheNest.us@SD",The Nest (1080p)
 https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
 #EXTINF:-1 tvg-id="TheNowNetwork.us@SD",The Now Network (480p) [Not 24/7]
 https://mediaprod1.nowcast.cc:5443/LiveApp/streams/anZPy7eaVWLyDMZB1697488814699.m3u8
@@ -113,6 +121,8 @@ http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 https://edge66.magictvbox.com/liveApple/trinity/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TUDN.us@SD",TUDN (1080p) [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+#EXTINF:-1 tvg-id="TUDN.us@SD",TUDN (1080p)
+http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTVL9TbgOeYnXUEC2UjoDBYk/m3u8
 #EXTINF:-1 tvg-id="UniversalComedy.us@SD",Universal Comedy (480p)
 http://190.2.212.209:8050/play/a0q4
 #EXTINF:-1 tvg-id="VallenatoInternacional.us@SD",Vallenato Internacional (720p) [Not 24/7]
@@ -145,8 +155,14 @@ http://23.237.104.106:8080/USA_WGN/index.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-whbqbreaking-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="WHIOTV71.us@HD",WHIO-DT1 (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-whiobreaking-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="Whiplash.us@HD",Whiplash (720p)
+https://cdn.whiplash.cc/whiplash/index.m3u8
+#EXTINF:-1 tvg-id="WhiplashII.us@SD",Whiplash II (480p)
+https://cdn.whiplash.cc/whiplash-2/index.m3u8
 #EXTINF:-1 tvg-id="WHPSCD152.us@SD",WHPS Detroit
 https://f-tx-edge-87.christianworldmedia.com/313watkins/mp4:313watkins/playlist.m3u8
+#EXTINF:-1 tvg-id="Willow.us@SD",Willow (720p)
+https://tvsen5.aynaott.com/willowhd/index.m3u8
 #EXTINF:-1 tvg-id="WITI61.us@HD",WITI-DT1 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-witi-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="WJAXTV471.us@HD",WJAX-DT1 (1080p)
@@ -197,10 +213,14 @@ http://68.251.105.81:5004/auto/v11.2
 http://68.251.105.81:5004/auto/v11.3
 #EXTINF:-1 tvg-id="WTXFTV291.us@HD",WTXF-DT1 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="WuTangCollection.us@SD",Wu Tang Collection (720p)
+https://dbrb49pjoymg4.cloudfront.net/10001/99991745/hls/master.m3u8?ads.xumo_channelId=99991745
 #EXTINF:-1 tvg-id="WVIT301.us@HD",WVIT-DT1 (1080p)
 https://d368vp0qqzvkid.cloudfront.net/11603/88889707/hls/master.m3u8?ads.xumo_channelId=88889707a&ads.xumo_ifaType=&ads.xumo_providerId=3832&ads.xumo_providerName=NBCNCT
 #EXTINF:-1 tvg-id="WWORTV91.us@HD",WWOR-DT1
 http://37c18028.akadatel.com/iptv/T6XNCP6L7LLKPD/1088/mpegts
+#EXTINF:-1 tvg-id="XITE90sThrowback.us@SD",XITE 90's Throwback (1080p)
+https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8
 #EXTINF:-1 tvg-id="YahooFinance.us@SD",Yahoo! Finance (1080p)
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="YuGiOh.us@SD",Yu-Gi-Oh! (1080p)

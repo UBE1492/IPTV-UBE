@@ -19,3 +19,5 @@ https://rpn.bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8
 http://190.2.212.209:8050/play/a0q3
 #EXTINF:-1 tvg-id="VictorValleyTV.us@SD",Victor Valley Movies (1080p) [Not 24/7]
 https://2-fss-2.streamhoster.com/pl_138/201950-5317556-1/playlist.m3u8
+#EXTINF:-1 tvg-id="WhiplashCinema.us@SD",Whiplash Cinema (480p)
+https://cdn.whiplash.cc/whiplash-cinema/index.m3u8

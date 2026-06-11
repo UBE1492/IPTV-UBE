@@ -35,27 +35,24 @@
 | 29 | Imperio TV Canal 6 (720p) | live21.bozztv.com | <https://live21.bozztv.com/akamaissh101/ssh101/imperiotvcanal6/playlist.m3u8> |
 | 30 | Infinita TV (1080p) | s2.tvdatta.com:3753 | <https://s2.tvdatta.com:3753/hybrid/play.m3u8> |
 | 31 | Inti TV (1080p) [Not 24/7] | 5e2f36bc1c433.streamlock.net | <https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8> |
-| 32 | La Nueva Radio TV 97.7 (1080p) | sv72.ecuaradiotv.net | <https://sv72.ecuaradiotv.net/lanuevatv/live/playlist.m3u8> |
-| 33 | La Perla Radio TV (720p) [Not 24/7] | eu1.servers10.com:8081 | <https://eu1.servers10.com:8081/8068/index.m3u8> |
-| 34 | Latacunga TV (360p) | stmv1.voxtvhd.com.br | <https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8> |
-| 35 | Loreto TV (720p) | loretotv.moxapps.shop | <https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8> |
-| 36 | Mágica Tv (1080p) | magicatv.4pu.com | <https://magicatv.4pu.com/hls/stream.m3u8> |
-| 37 | Majestad Televisión (720p) | videoserver.tmcreativos.com:19360 | <https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8> |
-| 38 | TV Cisne (1080p) | video2.lhdserver.es | <https://video2.lhdserver.es/tvcisne/live.m3u8> |
-| 39 | TV Color Canal 36 (720p) | video.compuwebecuador.com:3067 | <https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8> |
-| 40 | TV Legislativa (1080p) [Not 24/7] | streamingav.asambleanacional.gob.ec | <https://streamingav.asambleanacional.gob.ec/hls/stream.m3u8> |
-| 41 | TV Universal Ecuador (720p) | cdn.mycloudstream.io | <https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8> |
-| 42 | TVC (480p) | d2qsan2ut81n2k.cloudfront.net | <https://d2qsan2ut81n2k.cloudfront.net/live/19e86940-42cc-485e-80f4-89ae27c69f1b/ts:abr.m3u8> |
-| 43 | UEBI TV Online (720p) [Not 24/7] | ventaxtv.com:3575 | <https://ventaxtv.com:3575/live/uebilive.m3u8> |
-| 44 | UNIANDES TV (720p) [Not 24/7] | video.compuwebecuador.com:3323 | <https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8> |
-| 45 | Unsion TV (1080p) | provedores.unsion.tv:8081 | <http://provedores.unsion.tv:8081/srt/1/playlist.m3u8> |
-| 46 | Vos y TV (720p) [Not 24/7] | cloud37.ecuatel.com | <https://cloud37.ecuatel.com/vostv/live/manifest.m3u8> |
-| 47 | Zaracay TV (1080p) [Not 24/7] | video2.makrodigital.com | <https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8> |
-| 48 | KCHTV (1080p) | iptv.kchtv.video.makrodigital.com:8081 | <http://iptv.kchtv.video.makrodigital.com:8081/kchtv/iptv/playlist.m3u8> |
-| 49 | VitoTVO (1080p) | iptv.vitotvo.video.makrodigital.com:8081 | <http://iptv.vitotvo.video.makrodigital.com:8081/vitotvo/iptv/playlist.m3u8> |
-| 50 | Telepremier Plus (1080p) | iptv.telepremier.video.makrodigital.com:8081 | <http://iptv.telepremier.video.makrodigital.com:8081/telepremier/iptv/playlist.m3u8> |
-| 51 | Planeta Channel | vs20.live.opencaster.com | <https://vs20.live.opencaster.com/planetachannel_089eff6d/index.m3u8> |
-| 52 | MakroDigital Television (720p) | iptv.makrodigitaltv.makrodigital.com:8081 | <http://iptv.makrodigitaltv.makrodigital.com:8081/makrodigitaltelevision/iptv/playlist.m3u8> |
-| 53 | Kasterwey Media (1080p) | live.fansplay.tv | <https://live.fansplay.tv/livestreams/45.b0JPENQx19PG2pxg.m3u8> |
+| 32 | Kasterwey Media (1080p) | live.fansplay.tv | <https://live.fansplay.tv/livestreams/45.b0JPENQx19PG2pxg.m3u8> |
+| 33 | KCHTV (1080p) | iptv.kchtv.video.makrodigital.com:8081 | <http://iptv.kchtv.video.makrodigital.com:8081/kchtv/iptv/playlist.m3u8> |
+| 34 | La Nueva Radio TV 97.7 (1080p) | sv72.ecuaradiotv.net | <https://sv72.ecuaradiotv.net/lanuevatv/live/playlist.m3u8> |
+| 35 | La Perla Radio TV (720p) [Not 24/7] | eu1.servers10.com:8081 | <https://eu1.servers10.com:8081/8068/index.m3u8> |
+| 36 | Latacunga TV (360p) | stmv1.voxtvhd.com.br | <https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8> |
+| 37 | Loreto TV (720p) | loretotv.moxapps.shop | <https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8> |
+| 38 | Mágica Tv (1080p) | magicatv.4pu.com | <https://magicatv.4pu.com/hls/stream.m3u8> |
+| 39 | Majestad Televisión (720p) | videoserver.tmcreativos.com:19360 | <https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8> |
+| 40 | TV Cisne (1080p) | video2.lhdserver.es | <https://video2.lhdserver.es/tvcisne/live.m3u8> |
+| 41 | TV Color Canal 36 (720p) | video.compuwebecuador.com:3067 | <https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8> |
+| 42 | TV Legislativa (1080p) [Not 24/7] | streamingav.asambleanacional.gob.ec | <https://streamingav.asambleanacional.gob.ec/hls/stream.m3u8> |
+| 43 | TV Universal Ecuador (720p) | cdn.mycloudstream.io | <https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8> |
+| 44 | TVC (480p) | d2qsan2ut81n2k.cloudfront.net | <https://d2qsan2ut81n2k.cloudfront.net/live/19e86940-42cc-485e-80f4-89ae27c69f1b/ts:abr.m3u8> |
+| 45 | UEBI TV Online (720p) [Not 24/7] | ventaxtv.com:3575 | <https://ventaxtv.com:3575/live/uebilive.m3u8> |
+| 46 | UNIANDES TV (720p) [Not 24/7] | video.compuwebecuador.com:3323 | <https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8> |
+| 47 | Unsion TV (1080p) | provedores.unsion.tv:8081 | <http://provedores.unsion.tv:8081/srt/1/playlist.m3u8> |
+| 48 | VitoTVO (1080p) | iptv.vitotvo.video.makrodigital.com:8081 | <http://iptv.vitotvo.video.makrodigital.com:8081/vitotvo/iptv/playlist.m3u8> |
+| 49 | Vos y TV (720p) [Not 24/7] | cloud37.ecuatel.com | <https://cloud37.ecuatel.com/vostv/live/manifest.m3u8> |
+| 50 | Zaracay TV (1080p) [Not 24/7] | video2.makrodigital.com | <https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8> |
 
-Updated at **Wed Jun 10 2026 20:34:41 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jun 11 2026 04:17:32 GMT+0000 (Coordinated Universal Time)**

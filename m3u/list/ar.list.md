@@ -12,7 +12,7 @@
 | 6 | Azahares Radio Multimedia (720p) | streamyes.alsolnet.com | <https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8> |
 | 7 | Bayres TV (720p) | streaming01.mikrolive.tv | <https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8> |
 | 8 | Beats Radio (480p) | videostream.shockmedia.com.ar:19360 | <https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8> |
-| 9 | Bravo TV | redirector.rudo.video | <https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef> |
+| 9 | Bravo TV (1080p) | redirector.rudo.video | <https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef> |
 | 10 | Cable Imagen Armstrong (540p) [Not 24/7] | stream.arcast.com.ar | <https://stream.arcast.com.ar/casse/casse/playlist.m3u8> |
 | 11 | Cadena 103 (720p) [Not 24/7] | arcast.net:1935 | <http://arcast.net:1935/cadena103/cadena103/playlist.m3u8> |
 | 12 | Canal 2 de Ushuaia (1080p) | nd106.republicaservers.com:4433 | <https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8> |
@@ -33,7 +33,7 @@
 | 27 | Canal 7 Santiago del Estero (720p) | stream.arcast.com.ar | <https://stream.arcast.com.ar/envivo/castv/playlist.m3u8> |
 | 28 | Canal 9 Litoral (720p) | stream.arcast.live | <https://stream.arcast.live/ahora/ahora/playlist.m3u8> |
 | 29 | Canal 9 Resistencia (720p) | coninfo.net:1935 | <http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8> |
-| 30 | Canal 9 Televida | unlimited1-saopaulo.dps.live | <https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8> |
+| 30 | Canal 9 Televida (720p) | unlimited1-saopaulo.dps.live | <https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8> |
 | 31 | Canal 10 Cordoba | stream.arcast.net:4443 | <https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8> |
 | 32 | Canal 11 de la Costa (720p) | vivo.solumedia.com:19360 | <https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8> |
 | 33 | Canal 12 Puerto Madryn (720p) [Not 24/7] | 5f700d5b2c46f.streamlock.net | <https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8> |
@@ -52,11 +52,13 @@
 | 46 | Canal E (720p) | unlimited1-us.dps.live | <https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8> |
 | 47 | Canal Orbe 21 | stream.arcast.net:4443 | <https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8> |
 | 48 | Canal Provincial (360p) | streaming.telered.com.ar | <https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8> |
-| 49 | Canal Santa María (360p) | streaming.telered.com.ar | <https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8> |
-| 50 | Catamarca TV (720p) | stream.arcast.com.ar | <https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=> |
-| 51 | Celta TV (240p) | vivo.solumedia.com:19360 | <https://vivo.solumedia.com:19360/celta/celta.m3u8> |
-| 52 | Chaco TV (720p) [Not 24/7] | wowzasrv.chaco.gov.ar | <https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8> |
-| 53 | Chilecito TV (480p) | vivo.solumedia.com:19360 | <https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8> |
-| 54 | Cumbia Mix (720p) | cloud.tvomix.com | <https://cloud.tvomix.com/CUMBIAMIX/index.m3u8> |
+| 49 | Canal Pulpo TV | vs20.live.opencaster.com | <https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8> |
+| 50 | Canal Santa María (360p) | streaming.telered.com.ar | <https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8> |
+| 51 | Catamarca TV (720p) | stream.arcast.com.ar | <https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=> |
+| 52 | Celta TV (240p) | vivo.solumedia.com:19360 | <https://vivo.solumedia.com:19360/celta/celta.m3u8> |
+| 53 | Chaco TV (720p) [Not 24/7] | wowzasrv.chaco.gov.ar | <https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8> |
+| 54 | Chilecito TV (480p) | vivo.solumedia.com:19360 | <https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8> |
+| 55 | Cumbia Mix (720p) | cloud.tvomix.com | <https://cloud.tvomix.com/CUMBIAMIX/index.m3u8> |
+| 56 | Disney Jr. Latin America South | tr.live.clarovtrcdn.vtrplay.com | <http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD> |
 
-Updated at **Wed Jun 10 2026 20:34:41 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jun 11 2026 04:17:32 GMT+0000 (Coordinated Universal Time)**

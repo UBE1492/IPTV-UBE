@@ -23,7 +23,7 @@ Canal_ISB_(Iglesia_San_Bernardo)_(720p),https://unlimited1-us.dps.live/isb/isb.s
 CDTV_(720p)_[Not_24/7],http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8
 Chile_Channel_(720p),https://v2.tustreaming.cl/chilechannel/index.m3u8
 ChileVision_(1080p),http://38.250.127.17:9800/play/a05h/index.m3u8
-Chiloe_Red_25,https://v2.tustreaming.cl/chiloered/index.m3u8
+Chiloe_Red_25_(720p),https://v2.tustreaming.cl/chiloered/index.m3u8
 Click_TV_(Coronel)_(720p),https://v2.tustreaming.cl/clicktv/playlist.m3u8
 Contivision_(720p),https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
 Dance_FM_(720p),https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
@@ -62,4 +62,3 @@ TVN_(1080p),http://217.26.190.76:8888/play/a0m6/index.m3u8
 TVN3_(1080p)_[Geo-blocked],https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 TVO_San_Vicente_(720p),#EXTVLCOPT:http-referrer=http://www.tvosanvicente.cl/
 VTV_Valle_de_Aconcagua_(720p)_[Not_24/7],https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
-Orbita_Chile_TV_(1080p),https://orbitachiletv.org/hls/0/stream.m3u8

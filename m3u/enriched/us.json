@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1781123682324,
+  "updated_at": 1781151452998,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -298,6 +298,12 @@
       "category": "Otros"
     },
     {
+      "name": "Atlas (480p)",
+      "url": "https://cdn.whiplash.cc/whiplash-atlas/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
       "name": "ATXN1 (1080p)",
       "url": "https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(616d6f49-eaec-6f7e-7186-2bbaf66c69c0)/index.m3u8",
       "logo": "",
@@ -324,6 +330,18 @@
     {
       "name": "AWE Encore (720p) [Geo-blocked]",
       "url": "https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "AXN Black Romania [Not 24/7]",
+      "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6952/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "AXN White [Not 24/7]",
+      "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6950/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -366,6 +384,12 @@
     {
       "name": "Beach TV Panama City (720p)",
       "url": "http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "beIN SPORTS XTRA (1080p)",
+      "url": "https://bein-xtra-bein.amagi.tv/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -492,6 +516,12 @@
     {
       "name": "BPX TV Radio",
       "url": "https://video1.getstreamhosting.com:1936/8212/8212/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Brat TV (1080p)",
+      "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04072b68-dc6a-4d5e-98af-f356ba8d5063/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -640,6 +670,12 @@
       "category": "Otros"
     },
     {
+      "name": "City of Monroe Government Channel",
+      "url": "https://reflect-monroe-mi-ci.cablecast.tv/live-1/live/live.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
       "name": "Classic Arts Showcase (720p)",
       "url": "https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8",
       "logo": "",
@@ -703,7 +739,7 @@
       "category": "Otros"
     },
     {
-      "name": "The Nest",
+      "name": "The Nest (1080p)",
       "url": "https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8",
       "logo": "",
       "category": "Otros"
@@ -825,6 +861,12 @@
     {
       "name": "TUDN (1080p) [Geo-blocked]",
       "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "TUDN (1080p)",
+      "url": "http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTVL9TbgOeYnXUEC2UjoDBYk/m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -1147,6 +1189,12 @@
       "category": "Otros"
     },
     {
+      "name": "Watch it KID! (480i)",
+      "url": "https://stream-us-east-1.getpublica.com/cl/260415d7g24jv4hnf3ahfafgog/318x234_424101_3_f.m3u8?i=513_2256",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
       "name": "WBRA PBS Kids (1080p)",
       "url": "https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_124.m3u8",
       "logo": "",
@@ -1231,14 +1279,50 @@
       "category": "Otros"
     },
     {
+      "name": "Whiplash (720p)",
+      "url": "https://cdn.whiplash.cc/whiplash/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Whiplash Cinema (480p)",
+      "url": "https://cdn.whiplash.cc/whiplash-cinema/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Whiplash II (480p)",
+      "url": "https://cdn.whiplash.cc/whiplash-2/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
       "name": "WHPS Detroit",
       "url": "https://f-tx-edge-87.christianworldmedia.com/313watkins/mp4:313watkins/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
+      "name": "Willow (720p)",
+      "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
       "name": "Willow Sports (1080p) [Geo-blocked]",
       "url": "https://amg01269-amg01269c1-firetv-us-5377.playouts.now.amagi.tv/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Willow Sports (1080p)",
+      "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Window TV (720p)",
+      "url": "https://cdn.whiplash.cc/whiplash-windowtv/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -1417,6 +1501,12 @@
       "category": "Otros"
     },
     {
+      "name": "Wu Tang Collection (720p)",
+      "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99991745/hls/master.m3u8?ads.xumo_channelId=99991745",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
       "name": "WVCU-LP Concord University Radio The Cure 97.7 (1080p)",
       "url": "https://video1.getstreamhosting.com:1936/8152/8152/playlist.m3u8",
       "logo": "",
@@ -1443,6 +1533,24 @@
     {
       "name": "WXTV-DT1",
       "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "XITE 90's Throwback (1080p)",
+      "url": "https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "XITE Nuevo Latino (1080p)",
+      "url": "https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "XITE Siempre Latino (1080p)",
+      "url": "https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -1777,6 +1885,12 @@
         "category": "Otros"
       },
       {
+        "name": "Atlas (480p)",
+        "url": "https://cdn.whiplash.cc/whiplash-atlas/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
         "name": "ATXN1 (1080p)",
         "url": "https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(616d6f49-eaec-6f7e-7186-2bbaf66c69c0)/index.m3u8",
         "logo": "",
@@ -1803,6 +1917,18 @@
       {
         "name": "AWE Encore (720p) [Geo-blocked]",
         "url": "https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "AXN Black Romania [Not 24/7]",
+        "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6952/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "AXN White [Not 24/7]",
+        "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6950/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -1845,6 +1971,12 @@
       {
         "name": "Beach TV Panama City (720p)",
         "url": "http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "beIN SPORTS XTRA (1080p)",
+        "url": "https://bein-xtra-bein.amagi.tv/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -1971,6 +2103,12 @@
       {
         "name": "BPX TV Radio",
         "url": "https://video1.getstreamhosting.com:1936/8212/8212/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Brat TV (1080p)",
+        "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04072b68-dc6a-4d5e-98af-f356ba8d5063/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -2119,6 +2257,12 @@
         "category": "Otros"
       },
       {
+        "name": "City of Monroe Government Channel",
+        "url": "https://reflect-monroe-mi-ci.cablecast.tv/live-1/live/live.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
         "name": "Classic Arts Showcase (720p)",
         "url": "https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8",
         "logo": "",
@@ -2182,7 +2326,7 @@
         "category": "Otros"
       },
       {
-        "name": "The Nest",
+        "name": "The Nest (1080p)",
         "url": "https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8",
         "logo": "",
         "category": "Otros"
@@ -2304,6 +2448,12 @@
       {
         "name": "TUDN (1080p) [Geo-blocked]",
         "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "TUDN (1080p)",
+        "url": "http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTVL9TbgOeYnXUEC2UjoDBYk/m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -2626,6 +2776,12 @@
         "category": "Otros"
       },
       {
+        "name": "Watch it KID! (480i)",
+        "url": "https://stream-us-east-1.getpublica.com/cl/260415d7g24jv4hnf3ahfafgog/318x234_424101_3_f.m3u8?i=513_2256",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
         "name": "WBRA PBS Kids (1080p)",
         "url": "https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_124.m3u8",
         "logo": "",
@@ -2710,14 +2866,50 @@
         "category": "Otros"
       },
       {
+        "name": "Whiplash (720p)",
+        "url": "https://cdn.whiplash.cc/whiplash/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Whiplash Cinema (480p)",
+        "url": "https://cdn.whiplash.cc/whiplash-cinema/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Whiplash II (480p)",
+        "url": "https://cdn.whiplash.cc/whiplash-2/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
         "name": "WHPS Detroit",
         "url": "https://f-tx-edge-87.christianworldmedia.com/313watkins/mp4:313watkins/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
+        "name": "Willow (720p)",
+        "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
         "name": "Willow Sports (1080p) [Geo-blocked]",
         "url": "https://amg01269-amg01269c1-firetv-us-5377.playouts.now.amagi.tv/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Willow Sports (1080p)",
+        "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Window TV (720p)",
+        "url": "https://cdn.whiplash.cc/whiplash-windowtv/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -2896,6 +3088,12 @@
         "category": "Otros"
       },
       {
+        "name": "Wu Tang Collection (720p)",
+        "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99991745/hls/master.m3u8?ads.xumo_channelId=99991745",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
         "name": "WVCU-LP Concord University Radio The Cure 97.7 (1080p)",
         "url": "https://video1.getstreamhosting.com:1936/8152/8152/playlist.m3u8",
         "logo": "",
@@ -2922,6 +3120,24 @@
       {
         "name": "WXTV-DT1",
         "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "XITE 90's Throwback (1080p)",
+        "url": "https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "XITE Nuevo Latino (1080p)",
+        "url": "https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "XITE Siempre Latino (1080p)",
+        "url": "https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8",
         "logo": "",
         "category": "Otros"
       },

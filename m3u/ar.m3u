@@ -17,7 +17,7 @@ https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
 https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="BeatsRadio.ar@SD",Beats Radio (480p)
 https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
-#EXTINF:-1 tvg-id="BravoTV.ar@SD",Bravo TV
+#EXTINF:-1 tvg-id="BravoTV.ar@SD",Bravo TV (1080p)
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef
 #EXTINF:-1 tvg-id="CableImagenArmstrong.ar@SD",Cable Imagen Armstrong (540p) [Not 24/7]
 https://stream.arcast.com.ar/casse/casse/playlist.m3u8
@@ -59,7 +59,7 @@ https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal9Resistencia.ar@SD",Canal 9 Resistencia (720p)
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal9Televida.ar@SD",Canal 9 Televida
+#EXTINF:-1 tvg-id="Canal9Televida.ar@SD",Canal 9 Televida (720p)
 https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal10Cordoba.ar@SD",Canal 10 Cordoba
 https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
@@ -97,6 +97,8 @@ https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalProvincial.ar@SD",Canal Provincial (360p)
 https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8
+#EXTINF:-1 tvg-id="CanalPulpoTV.ar@SD",Canal Pulpo TV
+https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8
 #EXTINF:-1 tvg-id="CanalSantaMaria.ar@SD",Canal Santa María (360p)
 https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
 #EXTINF:-1 tvg-id="CatamarcaTV.ar@SD",Catamarca TV (720p)
@@ -109,6 +111,8 @@ https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
 https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
 #EXTINF:-1 tvg-id="CumbiaMix.ar@HD",Cumbia Mix (720p)
 https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@South",Disney Jr. Latin America South
+http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF:-1 tvg-id="ElTrece.ar@SD",El Trece (1080p)
 #EXTVLCOPT:http-referrer=https://vodgc.net
 #EXTINF:-1 tvg-id="XtremaCartoons.ar@SD",Xtrema Cartoons

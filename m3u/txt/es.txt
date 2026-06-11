@@ -25,8 +25,10 @@ Antena_3_Internacional,http://177.10.184.193:8000/play/a06a/index.m3u8
 Arabí_TV_(1080p),https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8
 Aragon_TV_Internacional_(720p)_[Not_24/7],https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 Atrescine_(1080p),http://181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8
+AXN_CEE_Romania_[Not_24/7],http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/7008/index.m3u8
 Bailén_TV_(720p)_[Not_24/7],http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8
 Barca_TV,https://live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8
+BCN_Gospel_TV_HD_(720p),https://live1.ovalcast.com:3916/live/bcngospeltvlive.m3u8
 BDNCOM_(1080p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 Canal_San_Roque_(1080p)_[Not_24/7],https://cdnlivevlc.codev8.net/aytosanroquelive/smil:channel1.smil/playlist.m3u8
 Canal_Sierra_de_Cádiz_(1080p)_[Not_24/7],https://s.emisoras.tv:8081/sierradecadiz/index.m3u8
@@ -87,6 +89,8 @@ La_1_Catalunya_(720p),https://ztnr.rtve.es/ztnr/3293681.m3u8
 La_2_Canarias_(720p),https://ztnr.rtve.es/ztnr/5468585.m3u8
 La_2_Catalunya_(720p),https://ztnr.rtve.es/ztnr/3987218.m3u8
 La_Urban_TV_(1080p)_[Not_24/7],https://urbanrevolution.es:8443/live/TV/playlist.m3u8
+LaLiga_Hypermotion_(1080p),http://latam-cache-sv2-cdn.latamlive.net/LA_LIGA_SMARTBANK_IP_ENC_LIVE/index.m3u8
+LaLiga_TV,http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTZID4SFOqZLZ81NguVP-JxM/m3u8
 Lancelot_TV_(404p),https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8
 LaOtra_(720p),https://laotra-1-23-secure2.akamaized.net/master.m3u8
 Lleida_Televisió_(1080p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
@@ -96,6 +100,7 @@ Molahits_TV_(720p),http://ventdelnord.tv:8080/mola/directe.m3u8
 Music_TV_Granada_(1080p)_[Not_24/7],https://cloudvideo.servers10.com:8081/8032/index.m3u8
 NatureTime_(1080p),https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
 Negocios_TV_(1080p),https://streaming013.gestec-video.com/hls/negociostv.m3u8
+Nickelodeon_(1080p),https://xykt-fix.github.io/iptv/streams/SP57.m3u8
 NORTEvisión_(1080p),http://amaru.dyndns.org:8870/0.m3u8
 Olot_TV_(1080p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 Pequeradio_(720p)_[Not_24/7],https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
@@ -127,7 +132,9 @@ TV_Costa_Brava_(1080p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; 
 TV_Ripollès_(1080p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 TV_San_Vicente_(1080p),https://emision.arpamedia.es:4343/hls/tvsanvicenteweb.m3u8
 TVCentro_Andalucía_(720p)_[Not_24/7],https://5fa5de1a545ae.streamlock.net/8052/8052/playlist.m3u8
+TVE_Internacional_America_(576p)_[Geo-blocked],https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_576.m3u8
 TVE_Internacional_America_HD_(1080p)_[Geo-blocked],https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
+TVE_Internacional_Asia-Oceania_(576p)_[Geo-blocked],https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_576.m3u8
 TVE_Internacional_Asia-Oceania_HD_(1080p)_[Geo-blocked],https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_1080.m3u8
 TVE_Internacional_Europe_(576p)_[Geo-blocked],https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_576.m3u8
 TVE_Internacional_Europe_HD_(1080p)_[Geo-blocked],https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_1080.m3u8
@@ -146,17 +153,3 @@ Vallès_Visió_(1080p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; 
 XPTV1_(720p),https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
 XPTV2_(720p),https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8
 XPTV_US_(720p),https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8
-Disney_Junior_(576p),https://bbb.exoadash.com/TVD1561/index.mpd
-LaLiga_Hypermotion_(1080p),http://latam-cache-sv2-cdn.latamlive.net/LA_LIGA_SMARTBANK_IP_ENC_LIVE/index.m3u8
-LaLiga_TV,http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTZID4SFOqZLZ81NguVP-JxM/m3u8
-Tito_TV_(720p),https://cloud.tvomix.com/TITOTV/index.m3u8
-Television_Canaria_(576p),https://d1oyt3v08gcy18.cloudfront.net/index-events.m3u8
-Nickelodeon_(1080p),https://xykt-fix.github.io/iptv/streams/SP57.m3u8
-BCN_Gospel_TV_HD_(720p),https://live1.ovalcast.com:3916/live/bcngospeltvlive.m3u8
-TVE_Internacional_America_(576p)_[Geo-blocked],https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_576.m3u8
-TVE_Internacional_Asia-Oceania_(576p)_[Geo-blocked],https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_576.m3u8
-ETB1_On_(1080p),https://cdn1.etbon.eus/etb1on/index.m3u8
-ETB2_On_(1080p),https://cdn1.etbon.eus/etb2on/index.m3u8
-ETB_1_(1080p)_[Geo-blocked],https://cdn1.etbon.eus/etb1/index.m3u8
-ETB_2_(1080p)_[Geo-blocked],https://cdn1.etbon.eus/etb2/index.m3u8
-AXN_CEE_Romania_[Not_24/7],http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/7008/index.m3u8

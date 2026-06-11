@@ -1,6 +1,6 @@
 {
   "name": "bo",
-  "updated_at": 1781123681908,
+  "updated_at": 1781151453276,
   "m3u": "https://ube1492.github.io/IPTV-UBE/bo.m3u",
   "channels": [
     {
@@ -46,7 +46,7 @@
       "category": "Otros"
     },
     {
-      "name": "CEACOM TV [Not 24/7]",
+      "name": "CEACOM TV (1080p) [Not 24/7]",
       "url": "https://eu1.servers10.com:8081/ceacom/index.m3u8",
       "logo": "",
       "category": "Otros"
@@ -220,7 +220,7 @@
         "category": "Otros"
       },
       {
-        "name": "CEACOM TV [Not 24/7]",
+        "name": "CEACOM TV (1080p) [Not 24/7]",
         "url": "https://eu1.servers10.com:8081/ceacom/index.m3u8",
         "logo": "",
         "category": "Otros"

@@ -25,6 +25,8 @@ https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8
 #EXTINF:-1 tvg-id="BarcaTV.es@SD",Barca TV
 https://live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8
+#EXTINF:-1 tvg-id="BCNGospelTV.es@HD",BCN Gospel TV HD (720p)
+https://live1.ovalcast.com:3916/live/bcngospeltvlive.m3u8
 #EXTINF:-1 tvg-id="CancioneroTV.es@SD",Cancionero TV (360p)
 http://89.140.229.5/hls1/cancionero.m3u8
 #EXTINF:-1 tvg-id="CetelmonTV.es@SD",Cetelmón TV (404p)
@@ -105,8 +107,12 @@ https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8
 https://emision.arpamedia.es:4343/hls/tvsanvicenteweb.m3u8
 #EXTINF:-1 tvg-id="TVCentroAndalucia.es@SD",TVCentro Andalucía (720p) [Not 24/7]
 https://5fa5de1a545ae.streamlock.net/8052/8052/playlist.m3u8
+#EXTINF:-1 tvg-id="TVEInternacionalAmerica.es@SD",TVE Internacional America (576p) [Geo-blocked]
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_576.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalAmerica.es@HD",TVE Internacional America HD (1080p) [Geo-blocked]
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
+#EXTINF:-1 tvg-id="TVEInternacionalAsiaOceania.es@SD",TVE Internacional Asia-Oceania (576p) [Geo-blocked]
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_576.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalAsiaOceania.es@HD",TVE Internacional Asia-Oceania HD (1080p) [Geo-blocked]
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_1080.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalEurope.es@SD",TVE Internacional Europe (576p) [Geo-blocked]
@@ -133,11 +139,3 @@ https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
 https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8
 #EXTINF:-1 tvg-id="XPTVUS.es@SD",XPTV US (720p)
 https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8
-#EXTINF:-1 tvg-id="TitoTV.es@HD",Tito TV (720p)
-https://cloud.tvomix.com/TITOTV/index.m3u8
-#EXTINF:-1 tvg-id="BCNGospelTV.es@HD",BCN Gospel TV HD (720p)
-https://live1.ovalcast.com:3916/live/bcngospeltvlive.m3u8
-#EXTINF:-1 tvg-id="TVEInternacionalAmerica.es@SD",TVE Internacional America (576p) [Geo-blocked]
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_576.m3u8
-#EXTINF:-1 tvg-id="TVEInternacionalAsiaOceania.es@SD",TVE Internacional Asia-Oceania (576p) [Geo-blocked]
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_576.m3u8

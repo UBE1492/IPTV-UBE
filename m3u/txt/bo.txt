@@ -6,7 +6,7 @@ Bolivia_TV_(720p)_[Not_24/7],http://boliviatv1.srfms.com:5735/live/livestream/pl
 Bolivia_TV_7.2_(720p),https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 Bolivisión_LPZ_(720p),https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
 Cadena_A_(720p)_[Not_24/7],https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
-CEACOM_TV_[Not_24/7],https://eu1.servers10.com:8081/ceacom/index.m3u8
+CEACOM_TV_(1080p)_[Not_24/7],https://eu1.servers10.com:8081/ceacom/index.m3u8
 CTV,https://live.ctvbolivia.com/hls/ctv.m3u8
 F10_HD_[Geo-blocked],https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
 FAP_TV_(480p),https://nd106.republicaservers.com/hls/c7284/index.m3u8

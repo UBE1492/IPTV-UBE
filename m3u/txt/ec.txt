@@ -30,6 +30,8 @@ IeanJesus_Ecuador_(720p),https://cloud37.ecuatel.com/iglesia2020/Stream1/playlis
 Imperio_TV_Canal_6_(720p),https://live21.bozztv.com/akamaissh101/ssh101/imperiotvcanal6/playlist.m3u8
 Infinita_TV_(1080p),https://s2.tvdatta.com:3753/hybrid/play.m3u8
 Inti_TV_(1080p)_[Not_24/7],https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8
+Kasterwey_Media_(1080p),https://live.fansplay.tv/livestreams/45.b0JPENQx19PG2pxg.m3u8
+KCHTV_(1080p),http://iptv.kchtv.video.makrodigital.com:8081/kchtv/iptv/playlist.m3u8
 La_Nueva_Radio_TV_97.7_(1080p),https://sv72.ecuaradiotv.net/lanuevatv/live/playlist.m3u8
 La_Perla_Radio_TV_(720p)_[Not_24/7],https://eu1.servers10.com:8081/8068/index.m3u8
 Latacunga_TV_(360p),https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8
@@ -45,11 +47,6 @@ TVC_(480p),https://d2qsan2ut81n2k.cloudfront.net/live/19e86940-42cc-485e-80f4-89
 UEBI_TV_Online_(720p)_[Not_24/7],https://ventaxtv.com:3575/live/uebilive.m3u8
 UNIANDES_TV_(720p)_[Not_24/7],https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
 Unsion_TV_(1080p),http://provedores.unsion.tv:8081/srt/1/playlist.m3u8
+VitoTVO_(1080p),http://iptv.vitotvo.video.makrodigital.com:8081/vitotvo/iptv/playlist.m3u8
 Vos_y_TV_(720p)_[Not_24/7],https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
 Zaracay_TV_(1080p)_[Not_24/7],https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
-KCHTV_(1080p),http://iptv.kchtv.video.makrodigital.com:8081/kchtv/iptv/playlist.m3u8
-VitoTVO_(1080p),http://iptv.vitotvo.video.makrodigital.com:8081/vitotvo/iptv/playlist.m3u8
-Telepremier_Plus_(1080p),http://iptv.telepremier.video.makrodigital.com:8081/telepremier/iptv/playlist.m3u8
-Planeta_Channel,https://vs20.live.opencaster.com/planetachannel_089eff6d/index.m3u8
-MakroDigital_Television_(720p),http://iptv.makrodigitaltv.makrodigital.com:8081/makrodigitaltelevision/iptv/playlist.m3u8
-Kasterwey_Media_(1080p),https://live.fansplay.tv/livestreams/45.b0JPENQx19PG2pxg.m3u8

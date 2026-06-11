@@ -91,6 +91,8 @@ https://reflect-batv.cablecast.tv/live-5/live/live.m3u8
 https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
 #EXTINF:-1 tvg-id="BMCHDTV.us@SD",BMC-HD TV (720p)
 https://livestream.telvue.com/belmontmedia4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="BratTV.us@SD",Brat TV (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04072b68-dc6a-4d5e-98af-f356ba8d5063/playlist.m3u8
 #EXTINF:-1 tvg-id="CANTV19.us@SD",CAN TV19 (1080p)
 https://cantv.streamguys1.com/cantv/cantv19hls/playlist.m3u8
 #EXTINF:-1 tvg-id="CANTV21.us@SD",CAN TV21 (1080p)
@@ -187,6 +189,8 @@ https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_118/amlst:204972-1949480/playlist.m3u8
 #EXTINF:-1 tvg-id="WGTV83.us@SD",WGTV-DT3 (1080p)
 https://wgtvdt3.lls.pbs.org/wgtvdt3-cmaf-hls.m3u8
+#EXTINF:-1 tvg-id="WindowTV.us@SD",Window TV (720p)
+https://cdn.whiplash.cc/whiplash-windowtv/index.m3u8
 #EXTINF:-1 tvg-id="WLTVDT231.us@HD",WLTV-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv.m3u8
 #EXTINF:-1 tvg-id="WTVJ61.us@HD",WTVJ-DT1 (1080p)

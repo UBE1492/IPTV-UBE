@@ -97,6 +97,8 @@ https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8
 #EXTINF:-1 tvg-id="AppleValleyChannel180.us@SD",Apple Valley Channel 180
 https://reflect-applevalley.cablecast.tv/live-3/live/live.m3u8
+#EXTINF:-1 tvg-id="Atlas.us@SD",Atlas (480p)
+https://cdn.whiplash.cc/whiplash-atlas/index.m3u8
 #EXTINF:-1 tvg-id="ATXN1.us@SD",ATXN1 (1080p)
 https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(616d6f49-eaec-6f7e-7186-2bbaf66c69c0)/index.m3u8
 #EXTINF:-1 tvg-id="ATXN2.us@SD",ATXN2 (1080p)
@@ -107,6 +109,10 @@ https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(c55d1594-ad62-7434-aa1
 https://hls.avang.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AWEEncore.us@SD",AWE Encore (720p) [Geo-blocked]
 https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
+#EXTINF:-1 tvg-id="AXNBlack.us@Romania",AXN Black Romania [Not 24/7]
+http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6952/index.m3u8
+#EXTINF:-1 tvg-id="AXNWhite.us@SD",AXN White [Not 24/7]
+http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6950/index.m3u8
 #EXTINF:-1 tvg-id="AyenehTV.us@SD",Ayeneh TV
 https://2nbyjjx7y53k-hls-live.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCAmerica.us@East",BBC America
@@ -121,6 +127,8 @@ https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8
 http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
 #EXTINF:-1 tvg-id="BeachTVPanamaCity.us@SD",Beach TV Panama City (720p)
 http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD",beIN SPORTS XTRA (1080p)
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BerksCommunityTV.us@SD",Berks Community TV (1080p)
 https://livestream.telvue.com/berkscmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="BetterHealthTV.us@SD",Better Health TV (480p)
@@ -163,6 +171,8 @@ https://livestream.telvue.com/belmontmedia4/f7b44cfafd5c52223d5498196c8a2e7b.sdp
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tablo/playlist.m3u8
 #EXTINF:-1 tvg-id="BPXTVRadio.us@SD",BPX TV Radio
 https://video1.getstreamhosting.com:1936/8212/8212/playlist.m3u8
+#EXTINF:-1 tvg-id="BratTV.us@SD",Brat TV (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04072b68-dc6a-4d5e-98af-f356ba8d5063/playlist.m3u8
 #EXTINF:-1 tvg-id="BXArts.us@SD",BX Arts (720p)
 https://reflect-stream-bronxnet.cablecast.tv/live-19/live/stream-2/live.m3u8
 #EXTINF:-1 tvg-id="BXCulture.us@SD",BX Culture (720p)
@@ -211,6 +221,8 @@ https://rpn.bozztv.com/gusa/gusa-chefrock/index.m3u8
 http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CineLife.us@SD",CineLife (1080p)
 https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="CityofMonroeGovernmentChannel.us@SD",City of Monroe Government Channel
+https://reflect-monroe-mi-ci.cablecast.tv/live-1/live/live.m3u8
 #EXTINF:-1 tvg-id="ClassicArtsShowcase.us@SD",Classic Arts Showcase (720p)
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 #EXTINF:-1 tvg-id="ClassicCinema.us@SD",Classic Cinema (240p) [Not 24/7]
@@ -233,7 +245,7 @@ https://cyclingtv.playout.vju.tv/cyclingtv/main.m3u8
 https://thefirst-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="WYPLTV18.us@SD",The Library Channel TV18 (360p)
 https://reflect-memphis.cablecast.tv/live-2/live/live.m3u8
-#EXTINF:-1 tvg-id="TheNest.us@SD",The Nest
+#EXTINF:-1 tvg-id="TheNest.us@SD",The Nest (1080p)
 https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
 #EXTINF:-1 tvg-id="TheNowNetwork.us@SD",The Now Network (480p) [Not 24/7]
 https://mediaprod1.nowcast.cc:5443/LiveApp/streams/anZPy7eaVWLyDMZB1697488814699.m3u8
@@ -275,6 +287,8 @@ https://59a564764e2b6.streamlock.net/vallenato/tropical/playlist.m3u8
 https://reflector.watchtstv.com/hls/livestream.m3u8
 #EXTINF:-1 tvg-id="TUDN.us@SD",TUDN (1080p) [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+#EXTINF:-1 tvg-id="TUDN.us@SD",TUDN (1080p)
+http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTVL9TbgOeYnXUEC2UjoDBYk/m3u8
 #EXTINF:-1 tvg-id="TUTV.us@SD",TUTV (1080p)
 https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAsia.us@SD",TV Asia (1080p)
@@ -381,6 +395,8 @@ https://2-fss-2.streamhoster.com/pl_118/amlst:204972-1949480/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8
 #EXTINF:-1 tvg-id="W14DKD145.us@SD",W14DK-D 14.5 All Sports Television Network
 https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8
+#EXTINF:-1 tvg-id="WatchitKID.us@SD",Watch it KID! (480i)
+https://stream-us-east-1.getpublica.com/cl/260415d7g24jv4hnf3ahfafgog/318x234_424101_3_f.m3u8?i=513_2256
 #EXTINF:-1 tvg-id="WBRATV153.us@HD",WBRA PBS Kids (1080p)
 https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_124.m3u8
 #EXTINF:-1 tvg-id="WBTSCD151.us@HD",WBTS-CD1 (1080p)
@@ -409,10 +425,22 @@ https://wgtvdt3.lls.pbs.org/wgtvdt3-cmaf-hls.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-whbqbreaking-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="WHIOTV71.us@HD",WHIO-DT1 (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-whiobreaking-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="Whiplash.us@HD",Whiplash (720p)
+https://cdn.whiplash.cc/whiplash/index.m3u8
+#EXTINF:-1 tvg-id="WhiplashCinema.us@SD",Whiplash Cinema (480p)
+https://cdn.whiplash.cc/whiplash-cinema/index.m3u8
+#EXTINF:-1 tvg-id="WhiplashII.us@SD",Whiplash II (480p)
+https://cdn.whiplash.cc/whiplash-2/index.m3u8
 #EXTINF:-1 tvg-id="WHPSCD152.us@SD",WHPS Detroit
 https://f-tx-edge-87.christianworldmedia.com/313watkins/mp4:313watkins/playlist.m3u8
+#EXTINF:-1 tvg-id="Willow.us@SD",Willow (720p)
+https://tvsen5.aynaott.com/willowhd/index.m3u8
 #EXTINF:-1 tvg-id="WillowSports.us@SD",Willow Sports (1080p) [Geo-blocked]
 https://amg01269-amg01269c1-firetv-us-5377.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="WillowSports.us@HD",Willow Sports (1080p)
+https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8
+#EXTINF:-1 tvg-id="WindowTV.us@SD",Window TV (720p)
+https://cdn.whiplash.cc/whiplash-windowtv/index.m3u8
 #EXTINF:-1 tvg-id="WITI61.us@HD",WITI-DT1 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-witi-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="WJAXTV471.us@HD",WJAX-DT1 (1080p)
@@ -471,6 +499,8 @@ https://nbculocallive.akamaized.net/hls/live/2037498/miami/stream1/master.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13tampabaywtvt-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="WTXFTV291.us@HD",WTXF-DT1 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="WuTangCollection.us@SD",Wu Tang Collection (720p)
+https://dbrb49pjoymg4.cloudfront.net/10001/99991745/hls/master.m3u8?ads.xumo_channelId=99991745
 #EXTINF:-1 tvg-id="WVCULP.us@SD",WVCU-LP Concord University Radio The Cure 97.7 (1080p)
 https://video1.getstreamhosting.com:1936/8152/8152/playlist.m3u8
 #EXTINF:-1 tvg-id="WVIT301.us@HD",WVIT-DT1 (1080p)
@@ -481,6 +511,12 @@ https://tv2.fastcast4u.com:3943/stream/play.m3u8
 http://37c18028.akadatel.com/iptv/T6XNCP6L7LLKPD/1088/mpegts
 #EXTINF:-1 tvg-id="WXTVDT681.us@HD",WXTV-DT1
 https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
+#EXTINF:-1 tvg-id="XITE90sThrowback.us@SD",XITE 90's Throwback (1080p)
+https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8
+#EXTINF:-1 tvg-id="XITENuevoLatino.us@SD",XITE Nuevo Latino (1080p)
+https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8
+#EXTINF:-1 tvg-id="XITESiempreLatino.us@SD",XITE Siempre Latino (1080p)
+https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8
 #EXTINF:-1 tvg-id="YahooFinance.us@SD",Yahoo! Finance (1080p)
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="YTATV.us@SD",YTA TV

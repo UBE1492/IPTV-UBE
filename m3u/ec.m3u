@@ -61,6 +61,10 @@ https://live21.bozztv.com/akamaissh101/ssh101/imperiotvcanal6/playlist.m3u8
 https://s2.tvdatta.com:3753/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="IntiTV.ec@SD",Inti TV (1080p) [Not 24/7]
 https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8
+#EXTINF:-1 tvg-id="KasterweyMedia.ec@HD",Kasterwey Media (1080p)
+https://live.fansplay.tv/livestreams/45.b0JPENQx19PG2pxg.m3u8
+#EXTINF:-1 tvg-id="KCHTV.ec@SD",KCHTV (1080p)
+http://iptv.kchtv.video.makrodigital.com:8081/kchtv/iptv/playlist.m3u8
 #EXTINF:-1 tvg-id="LaNuevaRadioTV977.ec@SD",La Nueva Radio TV 97.7 (1080p)
 https://sv72.ecuaradiotv.net/lanuevatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="LaPerlaRadioTV.ec@SD",La Perla Radio TV (720p) [Not 24/7]
@@ -91,19 +95,9 @@ https://ventaxtv.com:3575/live/uebilive.m3u8
 https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
 #EXTINF:-1 tvg-id="UnsionTV.ec@SD",Unsion TV (1080p)
 http://provedores.unsion.tv:8081/srt/1/playlist.m3u8
+#EXTINF:-1 tvg-id="VitoTVO.ec@SD",VitoTVO (1080p)
+http://iptv.vitotvo.video.makrodigital.com:8081/vitotvo/iptv/playlist.m3u8
 #EXTINF:-1 tvg-id="VosyTV.ec@SD",Vos y TV (720p) [Not 24/7]
 https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
 #EXTINF:-1 tvg-id="ZaracayTV.ec@SD",Zaracay TV (1080p) [Not 24/7]
 https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
-#EXTINF:-1 tvg-id="KCHTV.ec@SD",KCHTV (1080p)
-http://iptv.kchtv.video.makrodigital.com:8081/kchtv/iptv/playlist.m3u8
-#EXTINF:-1 tvg-id="VitoTVO.ec@SD",VitoTVO (1080p)
-http://iptv.vitotvo.video.makrodigital.com:8081/vitotvo/iptv/playlist.m3u8
-#EXTINF:-1 tvg-id="TelepremierPlus.ec@SD",Telepremier Plus (1080p)
-http://iptv.telepremier.video.makrodigital.com:8081/telepremier/iptv/playlist.m3u8
-#EXTINF:-1 tvg-id="PlanetaChannel.ec@SD",Planeta Channel
-https://vs20.live.opencaster.com/planetachannel_089eff6d/index.m3u8
-#EXTINF:-1 tvg-id="MakroDigitalTelevision.ec@SD",MakroDigital Television (720p)
-http://iptv.makrodigitaltv.makrodigital.com:8081/makrodigitaltelevision/iptv/playlist.m3u8
-#EXTINF:-1 tvg-id="KasterweyMedia.ec@HD",Kasterwey Media (1080p)
-https://live.fansplay.tv/livestreams/45.b0JPENQx19PG2pxg.m3u8
