@@ -1,14 +1,8 @@
 {
   "name": "pe_regionales",
-  "updated_at": 1781209574495,
+  "updated_at": 1781237978601,
   "m3u": "https://ube1492.github.io/IPTV-UBE/pe_regionales.m3u",
   "channels": [
-    {
-      "name": "Turbo Mix TV | PE",
-      "url": "https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/43_Turbo_Mix_TV.png",
-      "category": "Without category"
-    },
     {
       "name": "Vision Musica TV | PE",
       "url": "https://videoserver.tmcreativos.com:19360/visionmusica/visionmusica.m3u8?PlaylistM3UCL",
@@ -16,15 +10,21 @@
       "category": "Without category"
     },
     {
-      "name": "Canal 8 Catacaos | PE",
-      "url": "https://live.obslivestream.com/canal8/index.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/1097_Canal_8_Catacaos.png",
+      "name": "Autentica TV | PE",
+      "url": "https://live.obslivestream.com/autenticatvmux/index.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/1089_Autentica_TV.png",
       "category": "Without category"
     },
     {
-      "name": "Mundo de la Musica TV | CL",
-      "url": "https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png",
+      "name": "Turbo Mix TV | PE",
+      "url": "https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/43_Turbo_Mix_TV.png",
+      "category": "Without category"
+    },
+    {
+      "name": "Canal 8 Catacaos | PE",
+      "url": "https://live.obslivestream.com/canal8/index.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/1097_Canal_8_Catacaos.png",
       "category": "Without category"
     },
     {
@@ -40,12 +40,6 @@
       "category": "Without category"
     },
     {
-      "name": "Mega TV Jaen | PE",
-      "url": "https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/1491_Mega_TV_Jaen.png",
-      "category": "Without category"
-    },
-    {
       "name": "ATV Sur | PE",
       "url": "https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8?PlaylistM3UCL",
       "logo": "https://cdn.m3u.cl/logo/1492_ATV_Sur.png",
@@ -55,6 +49,18 @@
       "name": "OK TeVe | PE",
       "url": "https://live.obslivestream.com/oktv/video.m3u8?token=Bk-DXAXulO1OV0&PlaylistM3UCL",
       "logo": "https://cdn.m3u.cl/logo/1095_OK_TeVe.png",
+      "category": "Without category"
+    },
+    {
+      "name": "Mundo de la Musica TV | CL",
+      "url": "https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png",
+      "category": "Without category"
+    },
+    {
+      "name": "Mega TV Jaen | PE",
+      "url": "https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/1491_Mega_TV_Jaen.png",
       "category": "Without category"
     },
     {
@@ -76,9 +82,9 @@
       "category": "Without category"
     },
     {
-      "name": "Autentica TV | PE",
-      "url": "https://live.obslivestream.com/autenticatvmux/index.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/1089_Autentica_TV.png",
+      "name": "Controversia TV | PE",
+      "url": "https://live.obslivestream.com/controversiatv/index.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/1188_Controversia_TV.png",
       "category": "Without category"
     },
     {
@@ -97,12 +103,6 @@
       "name": "BHTV | PE",
       "url": "https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8?PlaylistM3UCL",
       "logo": "https://cdn.m3u.cl/logo/695_BHTV.png",
-      "category": "Without category"
-    },
-    {
-      "name": "Controversia TV | PE",
-      "url": "https://live.obslivestream.com/controversiatv/index.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/1188_Controversia_TV.png",
       "category": "Without category"
     },
     {
@@ -157,27 +157,27 @@
   "categories": {
     "Without category": [
       {
-        "name": "Turbo Mix TV | PE",
-        "url": "https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/43_Turbo_Mix_TV.png",
-        "category": "Without category"
-      },
-      {
         "name": "Vision Musica TV | PE",
         "url": "https://videoserver.tmcreativos.com:19360/visionmusica/visionmusica.m3u8?PlaylistM3UCL",
         "logo": "https://cdn.m3u.cl/logo/876_Vision_Musica_TV.png",
         "category": "Without category"
       },
       {
-        "name": "Canal 8 Catacaos | PE",
-        "url": "https://live.obslivestream.com/canal8/index.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/1097_Canal_8_Catacaos.png",
+        "name": "Autentica TV | PE",
+        "url": "https://live.obslivestream.com/autenticatvmux/index.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/1089_Autentica_TV.png",
         "category": "Without category"
       },
       {
-        "name": "Mundo de la Musica TV | CL",
-        "url": "https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png",
+        "name": "Turbo Mix TV | PE",
+        "url": "https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/43_Turbo_Mix_TV.png",
+        "category": "Without category"
+      },
+      {
+        "name": "Canal 8 Catacaos | PE",
+        "url": "https://live.obslivestream.com/canal8/index.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/1097_Canal_8_Catacaos.png",
         "category": "Without category"
       },
       {
@@ -193,12 +193,6 @@
         "category": "Without category"
       },
       {
-        "name": "Mega TV Jaen | PE",
-        "url": "https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/1491_Mega_TV_Jaen.png",
-        "category": "Without category"
-      },
-      {
         "name": "ATV Sur | PE",
         "url": "https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8?PlaylistM3UCL",
         "logo": "https://cdn.m3u.cl/logo/1492_ATV_Sur.png",
@@ -208,6 +202,18 @@
         "name": "OK TeVe | PE",
         "url": "https://live.obslivestream.com/oktv/video.m3u8?token=Bk-DXAXulO1OV0&PlaylistM3UCL",
         "logo": "https://cdn.m3u.cl/logo/1095_OK_TeVe.png",
+        "category": "Without category"
+      },
+      {
+        "name": "Mundo de la Musica TV | CL",
+        "url": "https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png",
+        "category": "Without category"
+      },
+      {
+        "name": "Mega TV Jaen | PE",
+        "url": "https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/1491_Mega_TV_Jaen.png",
         "category": "Without category"
       },
       {
@@ -229,9 +235,9 @@
         "category": "Without category"
       },
       {
-        "name": "Autentica TV | PE",
-        "url": "https://live.obslivestream.com/autenticatvmux/index.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/1089_Autentica_TV.png",
+        "name": "Controversia TV | PE",
+        "url": "https://live.obslivestream.com/controversiatv/index.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/1188_Controversia_TV.png",
         "category": "Without category"
       },
       {
@@ -250,12 +256,6 @@
         "name": "BHTV | PE",
         "url": "https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8?PlaylistM3UCL",
         "logo": "https://cdn.m3u.cl/logo/695_BHTV.png",
-        "category": "Without category"
-      },
-      {
-        "name": "Controversia TV | PE",
-        "url": "https://live.obslivestream.com/controversiatv/index.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/1188_Controversia_TV.png",
         "category": "Without category"
       },
       {
