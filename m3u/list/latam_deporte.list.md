@@ -10,4 +10,4 @@
 | 4 | Fox Sports 1 (1280p) | cors-proxy.cooks.fyi | <https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8> |
 | 5 | Fox Sports 2 (480p) | tvsen7.aynaott.com | <https://tvsen7.aynaott.com/foxsports2/index.m3u8> |
 
-Updated at **Fri Jun 12 2026 15:23:01 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jun 12 2026 20:14:47 GMT+0000 (Coordinated Universal Time)**
