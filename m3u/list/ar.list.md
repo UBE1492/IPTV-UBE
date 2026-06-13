@@ -61,4 +61,4 @@
 | 55 | Cumbia Mix (720p) | cloud.tvomix.com | <https://cloud.tvomix.com/CUMBIAMIX/index.m3u8> |
 | 56 | Disney Jr. Latin America South | tr.live.clarovtrcdn.vtrplay.com | <http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD> |
 
-Updated at **Sat Jun 13 2026 04:08:33 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jun 13 2026 09:20:59 GMT+0000 (Coordinated Universal Time)**

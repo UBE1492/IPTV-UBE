@@ -416,4 +416,4 @@
 | 410 | Tennis Channel (1080p) | cdn-uw2-prod.tsv2.amagi.tv | <https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8> |
 | 411 | Teve Vida Network (480p) [Not 24/7] | 5bf8041cb3fed.streamlock.net | <https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/.m3u8> |
 
-Updated at **Sat Jun 13 2026 04:08:34 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jun 13 2026 09:20:59 GMT+0000 (Coordinated Universal Time)**
