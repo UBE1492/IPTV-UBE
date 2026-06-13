@@ -1,6 +1,6 @@
 {
   "name": "mx",
-  "updated_at": 1781295288507,
+  "updated_at": 1781323714190,
   "m3u": "https://ube1492.github.io/IPTV-UBE/mx.m3u",
   "channels": [
     {
@@ -40,20 +40,8 @@
       "category": "Otros"
     },
     {
-      "name": "Azteca 7 (720p) [Geo-blocked]",
-      "url": "https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Azteca Internacional (1080p)",
       "url": "https://azt-mun.otteravision.com/azt/mun/mun.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Azteca Uno (720p) [Geo-blocked]",
-      "url": "https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -487,20 +475,8 @@
         "category": "Otros"
       },
       {
-        "name": "Azteca 7 (720p) [Geo-blocked]",
-        "url": "https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "Azteca Internacional (1080p)",
         "url": "https://azt-mun.otteravision.com/azt/mun/mun.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Azteca Uno (720p) [Geo-blocked]",
-        "url": "https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8",
         "logo": "",
         "category": "Otros"
       },
