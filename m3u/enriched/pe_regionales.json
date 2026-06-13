@@ -1,6 +1,6 @@
 {
   "name": "pe_regionales",
-  "updated_at": 1781359645338,
+  "updated_at": 1781379705589,
   "m3u": "https://ube1492.github.io/IPTV-UBE/pe_regionales.m3u",
   "channels": [
     {
@@ -34,15 +34,15 @@
       "category": "Without category"
     },
     {
-      "name": "CR TV | PE",
-      "url": "https://live.obslivestream.com/crtvmux/index.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/1180_CR_TV.png",
+      "name": "Turbo Mix TV | PE",
+      "url": "https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/43_Turbo_Mix_TV.png",
       "category": "Without category"
     },
     {
-      "name": "TV Peru Noticias | PE",
-      "url": "https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/705_TV_Peru_Noticias.png",
+      "name": "Mundo de la Musica TV | CL",
+      "url": "https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png",
       "category": "Without category"
     },
     {
@@ -52,9 +52,9 @@
       "category": "Without category"
     },
     {
-      "name": "Mundo de la Musica TV | CL",
-      "url": "https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png",
+      "name": "TV Peru Noticias | PE",
+      "url": "https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/705_TV_Peru_Noticias.png",
       "category": "Without category"
     },
     {
@@ -70,12 +70,6 @@
       "category": "Without category"
     },
     {
-      "name": "Turbo Mix TV | PE",
-      "url": "https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/43_Turbo_Mix_TV.png",
-      "category": "Without category"
-    },
-    {
       "name": "BHTV | PE",
       "url": "https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8?PlaylistM3UCL",
       "logo": "https://cdn.m3u.cl/logo/695_BHTV.png",
@@ -85,6 +79,12 @@
       "name": "Controversia TV | PE",
       "url": "https://live.obslivestream.com/controversiatv/index.m3u8?PlaylistM3UCL",
       "logo": "https://cdn.m3u.cl/logo/1188_Controversia_TV.png",
+      "category": "Without category"
+    },
+    {
+      "name": "CR TV | PE",
+      "url": "https://live.obslivestream.com/crtvmux/index.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/1180_CR_TV.png",
       "category": "Without category"
     },
     {
@@ -106,9 +106,9 @@
       "category": "Without category"
     },
     {
-      "name": "TVPE | PE",
-      "url": "https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/1091_TVPE.png",
+      "name": "Mega TV Jaen | PE",
+      "url": "https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/1491_Mega_TV_Jaen.png",
       "category": "Without category"
     },
     {
@@ -124,21 +124,15 @@
       "category": "Without category"
     },
     {
-      "name": "Via Television Tarapoto | PE",
-      "url": "https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/703_Via_Television_Tarapoto.png",
-      "category": "Without category"
-    },
-    {
-      "name": "Mega TV Jaen | PE",
-      "url": "https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/1491_Mega_TV_Jaen.png",
-      "category": "Without category"
-    },
-    {
       "name": "San Pedro SAT | PE",
       "url": "https://eu1.servers10.com:8081/8156/index.m3u8?PlaylistM3UCL",
       "logo": "https://cdn.m3u.cl/logo/1686_San_Pedro_SAT.png",
+      "category": "Without category"
+    },
+    {
+      "name": "TVperuanisima | PE",
+      "url": "https://k20.usastreams.com:8081/tvperuanisima/index.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/686_TVperuanisima.png",
       "category": "Without category"
     },
     {
@@ -148,9 +142,15 @@
       "category": "Without category"
     },
     {
-      "name": "TVperuanisima | PE",
-      "url": "https://k20.usastreams.com:8081/tvperuanisima/index.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/686_TVperuanisima.png",
+      "name": "TVPE | PE",
+      "url": "https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/1091_TVPE.png",
+      "category": "Without category"
+    },
+    {
+      "name": "Via Television Tarapoto | PE",
+      "url": "https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/703_Via_Television_Tarapoto.png",
       "category": "Without category"
     }
   ],
@@ -187,15 +187,15 @@
         "category": "Without category"
       },
       {
-        "name": "CR TV | PE",
-        "url": "https://live.obslivestream.com/crtvmux/index.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/1180_CR_TV.png",
+        "name": "Turbo Mix TV | PE",
+        "url": "https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/43_Turbo_Mix_TV.png",
         "category": "Without category"
       },
       {
-        "name": "TV Peru Noticias | PE",
-        "url": "https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/705_TV_Peru_Noticias.png",
+        "name": "Mundo de la Musica TV | CL",
+        "url": "https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png",
         "category": "Without category"
       },
       {
@@ -205,9 +205,9 @@
         "category": "Without category"
       },
       {
-        "name": "Mundo de la Musica TV | CL",
-        "url": "https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png",
+        "name": "TV Peru Noticias | PE",
+        "url": "https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/705_TV_Peru_Noticias.png",
         "category": "Without category"
       },
       {
@@ -223,12 +223,6 @@
         "category": "Without category"
       },
       {
-        "name": "Turbo Mix TV | PE",
-        "url": "https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/43_Turbo_Mix_TV.png",
-        "category": "Without category"
-      },
-      {
         "name": "BHTV | PE",
         "url": "https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8?PlaylistM3UCL",
         "logo": "https://cdn.m3u.cl/logo/695_BHTV.png",
@@ -238,6 +232,12 @@
         "name": "Controversia TV | PE",
         "url": "https://live.obslivestream.com/controversiatv/index.m3u8?PlaylistM3UCL",
         "logo": "https://cdn.m3u.cl/logo/1188_Controversia_TV.png",
+        "category": "Without category"
+      },
+      {
+        "name": "CR TV | PE",
+        "url": "https://live.obslivestream.com/crtvmux/index.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/1180_CR_TV.png",
         "category": "Without category"
       },
       {
@@ -259,9 +259,9 @@
         "category": "Without category"
       },
       {
-        "name": "TVPE | PE",
-        "url": "https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/1091_TVPE.png",
+        "name": "Mega TV Jaen | PE",
+        "url": "https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/1491_Mega_TV_Jaen.png",
         "category": "Without category"
       },
       {
@@ -277,21 +277,15 @@
         "category": "Without category"
       },
       {
-        "name": "Via Television Tarapoto | PE",
-        "url": "https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/703_Via_Television_Tarapoto.png",
-        "category": "Without category"
-      },
-      {
-        "name": "Mega TV Jaen | PE",
-        "url": "https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/1491_Mega_TV_Jaen.png",
-        "category": "Without category"
-      },
-      {
         "name": "San Pedro SAT | PE",
         "url": "https://eu1.servers10.com:8081/8156/index.m3u8?PlaylistM3UCL",
         "logo": "https://cdn.m3u.cl/logo/1686_San_Pedro_SAT.png",
+        "category": "Without category"
+      },
+      {
+        "name": "TVperuanisima | PE",
+        "url": "https://k20.usastreams.com:8081/tvperuanisima/index.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/686_TVperuanisima.png",
         "category": "Without category"
       },
       {
@@ -301,9 +295,15 @@
         "category": "Without category"
       },
       {
-        "name": "TVperuanisima | PE",
-        "url": "https://k20.usastreams.com:8081/tvperuanisima/index.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/686_TVperuanisima.png",
+        "name": "TVPE | PE",
+        "url": "https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/1091_TVPE.png",
+        "category": "Without category"
+      },
+      {
+        "name": "Via Television Tarapoto | PE",
+        "url": "https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/703_Via_Television_Tarapoto.png",
         "category": "Without category"
       }
     ]
