@@ -33,32 +33,31 @@
 | 27 | Canal 7 Santiago del Estero (720p) | stream.arcast.com.ar | <https://stream.arcast.com.ar/envivo/castv/playlist.m3u8> |
 | 28 | Canal 9 Litoral (720p) | stream.arcast.live | <https://stream.arcast.live/ahora/ahora/playlist.m3u8> |
 | 29 | Canal 9 Resistencia (720p) | coninfo.net:1935 | <http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8> |
-| 30 | Canal 9 Televida (720p) | unlimited1-saopaulo.dps.live | <https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8> |
-| 31 | Canal 10 Cordoba | stream.arcast.net:4443 | <https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8> |
-| 32 | Canal 11 de la Costa (720p) | vivo.solumedia.com:19360 | <https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8> |
-| 33 | Canal 12 Puerto Madryn (720p) [Not 24/7] | 5f700d5b2c46f.streamlock.net | <https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8> |
-| 34 | Canal 13 Jujuy TV (720p) | genexservicios.com:19360 | <https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8> |
-| 35 | Canal 13 La Rioja (480p) | arcast.net:1935 | <http://arcast.net:1935/mp/mp/playlist.m3u8> |
-| 36 | Canal 13 San Luis | stream.radiosmundiales.com:19360 | <https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8> |
-| 37 | Canal 21 TV (1080p) | iptv.ixfo.com.ar:30443 | <https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8> |
-| 38 | Canal 22 (720p) | 5f700d5b2c46f.streamlock.net | <https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8> |
-| 39 | Canal 26 (1080p) | stream-gtlc.telecentro.net.ar | <https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8> |
-| 40 | Canal 26 | stream-gtlc.telecentro.net.ar | <https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8> |
-| 41 | Canal 34 San Juan (720p) | streamyes.alsolnet.com | <https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8> |
-| 42 | Canal 79 La Costa (240p) | streamconex.com:19360 | <https://streamconex.com:19360/lacosta/lacosta.m3u8> |
-| 43 | Canal 79 Mar del Plata | streamconex.com:19360 | <https://streamconex.com:19360/mardelplata/mardelplata.m3u8> |
-| 44 | Canal 79 Puan (240p) | streamconex.com:19360 | <https://streamconex.com:19360/puan/puan.m3u8> |
-| 45 | Canal 79 Santa Clara del Mar (240p) | streamconex.com:19360 | <https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8> |
-| 46 | Canal E (720p) | unlimited1-us.dps.live | <https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8> |
-| 47 | Canal Orbe 21 | stream.arcast.net:4443 | <https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8> |
-| 48 | Canal Provincial (360p) | streaming.telered.com.ar | <https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8> |
-| 49 | Canal Pulpo TV | vs20.live.opencaster.com | <https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8> |
-| 50 | Canal Santa María (360p) | streaming.telered.com.ar | <https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8> |
-| 51 | Catamarca TV (720p) | stream.arcast.com.ar | <https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=> |
-| 52 | Celta TV (240p) | vivo.solumedia.com:19360 | <https://vivo.solumedia.com:19360/celta/celta.m3u8> |
-| 53 | Chaco TV (720p) [Not 24/7] | wowzasrv.chaco.gov.ar | <https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8> |
-| 54 | Chilecito TV (480p) | vivo.solumedia.com:19360 | <https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8> |
-| 55 | Cumbia Mix (720p) | cloud.tvomix.com | <https://cloud.tvomix.com/CUMBIAMIX/index.m3u8> |
-| 56 | Disney Jr. Latin America South | tr.live.clarovtrcdn.vtrplay.com | <http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD> |
+| 30 | Canal 10 Cordoba | stream.arcast.net:4443 | <https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8> |
+| 31 | Canal 11 de la Costa (720p) | vivo.solumedia.com:19360 | <https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8> |
+| 32 | Canal 12 Puerto Madryn (720p) [Not 24/7] | 5f700d5b2c46f.streamlock.net | <https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8> |
+| 33 | Canal 13 Jujuy TV (720p) | genexservicios.com:19360 | <https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8> |
+| 34 | Canal 13 La Rioja (480p) | arcast.net:1935 | <http://arcast.net:1935/mp/mp/playlist.m3u8> |
+| 35 | Canal 13 San Luis | stream.radiosmundiales.com:19360 | <https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8> |
+| 36 | Canal 21 TV (1080p) | iptv.ixfo.com.ar:30443 | <https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8> |
+| 37 | Canal 22 (720p) | 5f700d5b2c46f.streamlock.net | <https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8> |
+| 38 | Canal 26 (1080p) | stream-gtlc.telecentro.net.ar | <https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8> |
+| 39 | Canal 26 | stream-gtlc.telecentro.net.ar | <https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8> |
+| 40 | Canal 34 San Juan (720p) | streamyes.alsolnet.com | <https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8> |
+| 41 | Canal 79 La Costa (240p) | streamconex.com:19360 | <https://streamconex.com:19360/lacosta/lacosta.m3u8> |
+| 42 | Canal 79 Mar del Plata | streamconex.com:19360 | <https://streamconex.com:19360/mardelplata/mardelplata.m3u8> |
+| 43 | Canal 79 Puan (240p) | streamconex.com:19360 | <https://streamconex.com:19360/puan/puan.m3u8> |
+| 44 | Canal 79 Santa Clara del Mar (240p) | streamconex.com:19360 | <https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8> |
+| 45 | Canal E (720p) | unlimited1-us.dps.live | <https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8> |
+| 46 | Canal Orbe 21 | stream.arcast.net:4443 | <https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8> |
+| 47 | Canal Provincial (360p) | streaming.telered.com.ar | <https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8> |
+| 48 | Canal Pulpo TV | vs20.live.opencaster.com | <https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8> |
+| 49 | Canal Santa María (360p) | streaming.telered.com.ar | <https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8> |
+| 50 | Catamarca TV (720p) | stream.arcast.com.ar | <https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=> |
+| 51 | Celta TV (240p) | vivo.solumedia.com:19360 | <https://vivo.solumedia.com:19360/celta/celta.m3u8> |
+| 52 | Chaco TV (720p) [Not 24/7] | wowzasrv.chaco.gov.ar | <https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8> |
+| 53 | Chilecito TV (480p) | vivo.solumedia.com:19360 | <https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8> |
+| 54 | Cumbia Mix (720p) | cloud.tvomix.com | <https://cloud.tvomix.com/CUMBIAMIX/index.m3u8> |
+| 55 | Disney Jr. Latin America South | tr.live.clarovtrcdn.vtrplay.com | <http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD> |
 
-Updated at **Sat Jun 13 2026 19:41:36 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jun 14 2026 04:25:24 GMT+0000 (Coordinated Universal Time)**

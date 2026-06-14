@@ -1,6 +1,6 @@
 {
   "name": "ar",
-  "updated_at": 1781379696217,
+  "updated_at": 1781411124254,
   "m3u": "https://ube1492.github.io/IPTV-UBE/ar.m3u",
   "channels": [
     {
@@ -177,12 +177,6 @@
     {
       "name": "Canal 9 Resistencia (720p)",
       "url": "http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Canal 9 Televida (720p)",
-      "url": "https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -537,12 +531,6 @@
       {
         "name": "Canal 9 Resistencia (720p)",
         "url": "http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Canal 9 Televida (720p)",
-        "url": "https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },

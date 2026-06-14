@@ -93,4 +93,4 @@
 | 87 | Win+ Futbol | IPv4 直链 | <http://190.60.40.34:8001/play/a02r> |
 | 88 | Zoom (1080p) | canalzoom.smoothcloud.co:3027 | <https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8> |
 
-Updated at **Sat Jun 13 2026 19:41:36 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jun 14 2026 04:25:24 GMT+0000 (Coordinated Universal Time)**

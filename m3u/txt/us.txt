@@ -57,7 +57,6 @@ AWE_Encore_(720p)_[Geo-blocked],https://a-cdn.herringnetwork.com/affiliate/awee/
 AXN_Black_Romania_[Not_24/7],http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6952/index.m3u8
 AXN_White_[Not_24/7],http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6950/index.m3u8
 Ayeneh_TV,https://2nbyjjx7y53k-hls-live.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/playlist.m3u8
-BBC_America,https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
 Beach_TV_CSULB_(160p)_[Not_24/7],http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8
 Beach_TV_Florida_&_Alabama_(720p),http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
 Beach_TV_Key_West_&_Florida_Keys_(720p),https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8

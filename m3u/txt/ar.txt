@@ -29,7 +29,6 @@ Canal_7_Salta_(720p),https://vivo.solumedia.com:19360/canal7salta/canal7salta.m3
 Canal_7_Santiago_del_Estero_(720p),https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
 Canal_9_Litoral_(720p),https://stream.arcast.live/ahora/ahora/playlist.m3u8
 Canal_9_Resistencia_(720p),http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
-Canal_9_Televida_(720p),https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8
 Canal_10_Cordoba,https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
 Canal_11_de_la_Costa_(720p),https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
 Canal_12_Puerto_Madryn_(720p)_[Not_24/7],https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
