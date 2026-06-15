@@ -68,4 +68,4 @@
 | 62 | Solo TV | sproxy.solotv.cl | <https://sproxy.solotv.cl/hls/live/fhd.m3u8> |
 | 63 | 15.1 BPB (720p) | v2.tustreaming.cl | <https://v2.tustreaming.cl/enlacebpbtv/index.m3u8> |
 
-Updated at **Mon Jun 15 2026 04:48:46 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jun 15 2026 12:23:17 GMT+0000 (Coordinated Universal Time)**
