@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1781466076200,
+  "updated_at": 1781498926707,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -2465,7 +2465,7 @@
     },
     {
       "name": "The Beach Channel (720p) [Not 24/7]",
-      "url": "",
+      "url": "#EXTINF:-1 tvg-id=\"AXNWhite.us@SD\",AXN White",
       "logo": "",
       "category": "Otros",
       "options": {
@@ -4937,7 +4937,7 @@
       },
       {
         "name": "The Beach Channel (720p) [Not 24/7]",
-        "url": "",
+        "url": "#EXTINF:-1 tvg-id=\"AXNWhite.us@SD\",AXN White",
         "logo": "",
         "category": "Otros",
         "options": {

@@ -1,6 +1,6 @@
 {
   "name": "cl",
-  "updated_at": 1781466075672,
+  "updated_at": 1781498926434,
   "m3u": "https://ube1492.github.io/IPTV-UBE/cl.m3u",
   "channels": [
     {
@@ -374,6 +374,24 @@
       "options": {
         "http-referrer": "http://www.tvosanvicente.cl/"
       }
+    },
+    {
+      "name": "Sextavision (1080p)",
+      "url": "https://5ff3d9babae13.streamlock.net/fzkqsdfray/fzkqsdfray/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Solo TV",
+      "url": "https://sproxy.solotv.cl/hls/live/fhd.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "15.1 BPB (720p)",
+      "url": "https://v2.tustreaming.cl/enlacebpbtv/index.m3u8",
+      "logo": "",
+      "category": "Otros"
     }
   ],
   "categories": {
@@ -749,6 +767,24 @@
         "options": {
           "http-referrer": "http://www.tvosanvicente.cl/"
         }
+      },
+      {
+        "name": "Sextavision (1080p)",
+        "url": "https://5ff3d9babae13.streamlock.net/fzkqsdfray/fzkqsdfray/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Solo TV",
+        "url": "https://sproxy.solotv.cl/hls/live/fhd.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "15.1 BPB (720p)",
+        "url": "https://v2.tustreaming.cl/enlacebpbtv/index.m3u8",
+        "logo": "",
+        "category": "Otros"
       }
     ]
   }

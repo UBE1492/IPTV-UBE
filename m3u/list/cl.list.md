@@ -64,5 +64,8 @@
 | 58 | TVN (1080p) | IPv4 直链 | <http://217.26.190.76:8888/play/a0m6/index.m3u8> |
 | 59 | TVN3 (1080p) [Geo-blocked] | mdstrm.com | <https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8> |
 | 60 | VTV Valle de Aconcagua (720p) [Not 24/7] | unlimited1-us.dps.live | <https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8> |
+| 61 | Sextavision (1080p) | 5ff3d9babae13.streamlock.net | <https://5ff3d9babae13.streamlock.net/fzkqsdfray/fzkqsdfray/playlist.m3u8> |
+| 62 | Solo TV | sproxy.solotv.cl | <https://sproxy.solotv.cl/hls/live/fhd.m3u8> |
+| 63 | 15.1 BPB (720p) | v2.tustreaming.cl | <https://v2.tustreaming.cl/enlacebpbtv/index.m3u8> |
 
-Updated at **Sun Jun 14 2026 19:41:15 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jun 15 2026 04:48:46 GMT+0000 (Coordinated Universal Time)**

@@ -75,4 +75,4 @@
 | 69 | Tele Saltillo | servilive.com:3879 | <https://servilive.com:3879/live/telesaltillolive.m3u8> |
 | 70 | Tele UV [Not 24/7] | 58fe359775f31.streamlock.net | <https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8> |
 
-Updated at **Sun Jun 14 2026 19:41:15 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jun 15 2026 04:48:46 GMT+0000 (Coordinated Universal Time)**

@@ -8,4 +8,4 @@
 | 2 | Radio Tropical Tarapoto (480p) [Not 24/7] | videoserver.tmcreativos.com:19360 | <https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8> |
 | 3 | Turbo Mix Radio TV (360p) [Not 24/7] | 7.innovatestream.pe:19360 | <https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8> |
 
-Updated at **Sun Jun 14 2026 19:41:17 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jun 15 2026 04:48:47 GMT+0000 (Coordinated Universal Time)**

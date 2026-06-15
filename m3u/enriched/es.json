@@ -1,6 +1,6 @@
 {
   "name": "es",
-  "updated_at": 1781466075984,
+  "updated_at": 1781498926503,
   "m3u": "https://ube1492.github.io/IPTV-UBE/es.m3u",
   "channels": [
     {
@@ -887,6 +887,15 @@
       "url": "https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8",
       "logo": "",
       "category": "Otros"
+    },
+    {
+      "name": "AXN CEE Romania",
+      "url": "",
+      "logo": "",
+      "category": "Otros",
+      "options": {
+        "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3"
+      }
     }
   ],
   "categories": {
@@ -1775,6 +1784,15 @@
         "url": "https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8",
         "logo": "",
         "category": "Otros"
+      },
+      {
+        "name": "AXN CEE Romania",
+        "url": "",
+        "logo": "",
+        "category": "Otros",
+        "options": {
+          "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3"
+        }
       }
     ]
   }
