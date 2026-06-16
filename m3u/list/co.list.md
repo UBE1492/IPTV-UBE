@@ -96,4 +96,4 @@
 | 90 | Buenisima Radio TV | canal.mediaserver.com.co | <https://canal.mediaserver.com.co/live/buenisimatv.m3u8> |
 | 91 | Cable Sur TV | tvlatina.live:1936 | <https://tvlatina.live:1936/8025/8025/playlist.m3u8> |
 
-Updated at **Tue Jun 16 2026 11:18:32 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jun 16 2026 17:00:57 GMT+0000 (Coordinated Universal Time)**
