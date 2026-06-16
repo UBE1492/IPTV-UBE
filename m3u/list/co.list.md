@@ -95,5 +95,23 @@
 | 89 | Amaga Television (720p) | viewhn.com | <https://viewhn.com/amagatelevision/sdfUYWKegHKRPpSirG/playlist.m3u8> |
 | 90 | Buenisima Radio TV | canal.mediaserver.com.co | <https://canal.mediaserver.com.co/live/buenisimatv.m3u8> |
 | 91 | Cable Sur TV | tvlatina.live:1936 | <https://tvlatina.live:1936/8025/8025/playlist.m3u8> |
+| 92 | Canal 9 Cosespu | video2.lhdserver.es | <https://video2.lhdserver.es/canal9cosespu/live.m3u8> |
+| 93 | Canal Cine Dios | canal.mediaserver.com.co | <https://canal.mediaserver.com.co/live/cinedios.m3u8> |
+| 94 | Canal Dos | stream2.micanal2.tv | <https://stream2.micanal2.tv/hls/canal2.m3u8> |
+| 95 | Cosmovision (720p) | lbgo.bozztv.com | <https://lbgo.bozztv.com/ssh101/ssh101/Cosmovisi%C3%B3n/playlist.m3u8> |
+| 96 | Emisora Comunitaria 104.1 FM | 104florencia.co | <https://104florencia.co/wp-admin/admin-ajax.php?action=frp_hls_proxy&url=https%3A%2F%2Fstreamyes.alsolnet.com%2Fcomunitariafm%2Flive%2Fplaylist.m3u8> |
+| 97 | Fiesta TV | panelvideo1.intermediahost.co:3286 | <https://panelvideo1.intermediahost.co:3286/live/ruzfpkqklive.m3u8> |
+| 98 | Heliconia Radio TV (720p) | eu1.servers10.com:8081 | <https://eu1.servers10.com:8081/8178/index.m3u8> |
+| 99 | Marsella TV | stmv2.voxtvhd.com.br | <https://stmv2.voxtvhd.com.br/marsella/marsella/playlist.m3u8> |
+| 100 | Momento24 | backupmaxmedia.hvmultiplay.com | <https://backupmaxmedia.hvmultiplay.com/hls/stream2/momento24.m3u8> |
+| 101 | Nexo TV | vs20.live.opencaster.com | <https://vs20.live.opencaster.com/nexotv_7576198a/index.m3u8> |
+| 102 | Panche Television | vs20.live.opencaster.com | <https://vs20.live.opencaster.com/panche_3c70d368/index.m3u8> |
+| 103 | Salsa Latina FM | panel.streamingmedia.com.co:3557 | <https://panel.streamingmedia.com.co:3557/stream/play.m3u8> |
+| 104 | Santel TV | tv3.bitstreaming.net:3540 | <https://tv3.bitstreaming.net:3540/live/santeltvlive.m3u8> |
+| 105 | Soona TV | vs20.live.opencaster.com | <https://vs20.live.opencaster.com/soonatv_a1a564a9/index.m3u8> |
+| 106 | Tele San Jacinto | vs20.live.opencaster.com | <https://vs20.live.opencaster.com/sjradio_4c916ece/index.m3u8> |
+| 107 | TV Golfo Uraba | stmv7.voxtvhd.com.br | <https://stmv7.voxtvhd.com.br/golfo/golfo/playlist.m3u8> |
+| 108 | TVGracia | vs20.live.opencaster.com | <https://vs20.live.opencaster.com/diego_57244803/index.m3u8> |
+| 109 | Vahos TV | canal.vahostv.com | <https://canal.vahostv.com/stream/0.m3u8> |
 
-Updated at **Tue Jun 16 2026 17:00:57 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jun 16 2026 20:55:41 GMT+0000 (Coordinated Universal Time)**

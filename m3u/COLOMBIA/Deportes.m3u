@@ -3,3 +3,5 @@
 http://190.60.40.34:8001/play/a0ef
 #EXTINF:-1 tvg-id="WinPlusFutbol.co@SD",Win+ Futbol
 http://190.60.40.34:8001/play/a02r
+#EXTINF:-1 tvg-id="TVGolfoUraba.co@SD",TV Golfo Uraba
+https://stmv7.voxtvhd.com.br/golfo/golfo/playlist.m3u8

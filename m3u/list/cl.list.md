@@ -74,4 +74,4 @@
 | 68 | Campo Abierto TV (720p) | v2.tustreaming.cl | <https://v2.tustreaming.cl/catvlive/index.m3u8> |
 | 69 | Canal 5 Puerto Montt | 5ff3d9babae13.streamlock.net | <https://5ff3d9babae13.streamlock.net/aufymdjpjf/aufymdjpjf/playlist.m3u8> |
 
-Updated at **Tue Jun 16 2026 17:00:56 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jun 16 2026 20:55:40 GMT+0000 (Coordinated Universal Time)**

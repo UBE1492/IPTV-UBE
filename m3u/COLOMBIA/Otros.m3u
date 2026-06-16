@@ -93,3 +93,15 @@ https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
 https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8
 #EXTINF:-1 tvg-id="AmagaTelevision.co@SD",Amaga Television (720p)
 https://viewhn.com/amagatelevision/sdfUYWKegHKRPpSirG/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal9Cosespu.co@SD",Canal 9 Cosespu
+https://video2.lhdserver.es/canal9cosespu/live.m3u8
+#EXTINF:-1 tvg-id="CanalDos.co@SD",Canal Dos
+https://stream2.micanal2.tv/hls/canal2.m3u8
+#EXTINF:-1 tvg-id="Cosmovision.co@SD",Cosmovision (720p)
+https://lbgo.bozztv.com/ssh101/ssh101/Cosmovisi%C3%B3n/playlist.m3u8
+#EXTINF:-1 tvg-id="Momento24.co@SD",Momento24
+https://backupmaxmedia.hvmultiplay.com/hls/stream2/momento24.m3u8
+#EXTINF:-1 tvg-id="PancheTelevision.co@SD",Panche Television
+https://vs20.live.opencaster.com/panche_3c70d368/index.m3u8
+#EXTINF:-1 tvg-id="TeleSanJacinto.co@SD",Tele San Jacinto
+https://vs20.live.opencaster.com/sjradio_4c916ece/index.m3u8
