@@ -1,6 +1,6 @@
 {
   "name": "co",
-  "updated_at": 1781557673452,
+  "updated_at": 1781585170734,
   "m3u": "https://ube1492.github.io/IPTV-UBE/co.m3u",
   "channels": [
     {
@@ -546,6 +546,18 @@
     {
       "name": "Zoom (1080p)",
       "url": "https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Amaga Television (720p)",
+      "url": "https://viewhn.com/amagatelevision/sdfUYWKegHKRPpSirG/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Buenisima Radio TV",
+      "url": "https://canal.mediaserver.com.co/live/buenisimatv.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -1095,6 +1107,18 @@
       {
         "name": "Zoom (1080p)",
         "url": "https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Amaga Television (720p)",
+        "url": "https://viewhn.com/amagatelevision/sdfUYWKegHKRPpSirG/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Buenisima Radio TV",
+        "url": "https://canal.mediaserver.com.co/live/buenisimatv.m3u8",
         "logo": "",
         "category": "Otros"
       }

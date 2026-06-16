@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1781557672928,
+  "updated_at": 1781585170469,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -2471,6 +2471,12 @@
       "options": {
         "http-referrer": "https://player.castr.com/"
       }
+    },
+    {
+      "name": "NTD TV (1080p)",
+      "url": "https://ntd02.akamaized.net/HD-NY/index.m3u8",
+      "logo": "",
+      "category": "Otros"
     }
   ],
   "categories": {
@@ -4943,6 +4949,12 @@
         "options": {
           "http-referrer": "https://player.castr.com/"
         }
+      },
+      {
+        "name": "NTD TV (1080p)",
+        "url": "https://ntd02.akamaized.net/HD-NY/index.m3u8",
+        "logo": "",
+        "category": "Otros"
       }
     ]
   }

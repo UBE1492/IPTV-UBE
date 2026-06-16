@@ -1,6 +1,6 @@
 {
   "name": "cl",
-  "updated_at": 1781557672563,
+  "updated_at": 1781585169875,
   "m3u": "https://ube1492.github.io/IPTV-UBE/cl.m3u",
   "channels": [
     {
@@ -390,6 +390,42 @@
     {
       "name": "15.1 BPB (720p)",
       "url": "https://v2.tustreaming.cl/enlacebpbtv/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Abajo e' La Linea TV",
+      "url": "https://5ff3d9babae13.streamlock.net/ynfpncxxjg/ynfpncxxjg/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Apocalipsis TVD (720p)",
+      "url": "https://us.streaminghd.cl/apocalipsistvd/video.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Arica TV",
+      "url": "https://envivo.arica.tv/hls/Live2025AricaTV.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Caldera Vision",
+      "url": "https://tv.arkeo.cl:1936/kymczwbrge/kymczwbrge/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Campo Abierto TV (720p)",
+      "url": "https://v2.tustreaming.cl/catvlive/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Canal 5 Puerto Montt",
+      "url": "https://5ff3d9babae13.streamlock.net/aufymdjpjf/aufymdjpjf/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -783,6 +819,42 @@
       {
         "name": "15.1 BPB (720p)",
         "url": "https://v2.tustreaming.cl/enlacebpbtv/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Abajo e' La Linea TV",
+        "url": "https://5ff3d9babae13.streamlock.net/ynfpncxxjg/ynfpncxxjg/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Apocalipsis TVD (720p)",
+        "url": "https://us.streaminghd.cl/apocalipsistvd/video.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Arica TV",
+        "url": "https://envivo.arica.tv/hls/Live2025AricaTV.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Caldera Vision",
+        "url": "https://tv.arkeo.cl:1936/kymczwbrge/kymczwbrge/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Campo Abierto TV (720p)",
+        "url": "https://v2.tustreaming.cl/catvlive/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Canal 5 Puerto Montt",
+        "url": "https://5ff3d9babae13.streamlock.net/aufymdjpjf/aufymdjpjf/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       }

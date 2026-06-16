@@ -414,5 +414,6 @@
 | 408 | Telemundo Internacional | IPv4 直链 | <http://181.114.57.246:4000/play/XmUjm3NXcGJkvvQ8/index.m3u8> |
 | 409 | Tennis Channel (1080p) | cdn-uw2-prod.tsv2.amagi.tv | <https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8> |
 | 410 | Teve Vida Network (480p) [Not 24/7] | 5bf8041cb3fed.streamlock.net | <https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/.m3u8> |
+| 411 | NTD TV (1080p) | ntd02.akamaized.net | <https://ntd02.akamaized.net/HD-NY/index.m3u8> |
 
-Updated at **Mon Jun 15 2026 21:07:52 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jun 16 2026 04:46:10 GMT+0000 (Coordinated Universal Time)**

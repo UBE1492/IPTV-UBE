@@ -92,5 +92,7 @@
 | 86 | Win Sports (1080p) | IPv4 直链 | <http://190.60.40.34:8001/play/a0ef> |
 | 87 | Win+ Futbol | IPv4 直链 | <http://190.60.40.34:8001/play/a02r> |
 | 88 | Zoom (1080p) | canalzoom.smoothcloud.co:3027 | <https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8> |
+| 89 | Amaga Television (720p) | viewhn.com | <https://viewhn.com/amagatelevision/sdfUYWKegHKRPpSirG/playlist.m3u8> |
+| 90 | Buenisima Radio TV | canal.mediaserver.com.co | <https://canal.mediaserver.com.co/live/buenisimatv.m3u8> |
 
-Updated at **Mon Jun 15 2026 21:07:53 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jun 16 2026 04:46:10 GMT+0000 (Coordinated Universal Time)**

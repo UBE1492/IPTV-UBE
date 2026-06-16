@@ -305,3 +305,5 @@ https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 https://fffffff110156200.tvustream.com:8298/ryfy.m3u8
 #EXTINF:-1 tvg-id="TalkinLiveClassicsTV.us@SD",Talkin Live Classics TV (480p)
 https://2-fss-1.streamhoster.com/pl_122/206338-3120682-1/playlist.m3u8
+#EXTINF:-1 tvg-id="NTDTV.us@East",NTD TV (1080p)
+https://ntd02.akamaized.net/HD-NY/index.m3u8

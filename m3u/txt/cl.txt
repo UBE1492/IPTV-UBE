@@ -65,3 +65,9 @@ VTV_Valle_de_Aconcagua_(720p)_[Not_24/7],https://unlimited1-us.dps.live/vtv/vtv.
 Sextavision_(1080p),https://5ff3d9babae13.streamlock.net/fzkqsdfray/fzkqsdfray/playlist.m3u8
 Solo_TV,https://sproxy.solotv.cl/hls/live/fhd.m3u8
 15.1_BPB_(720p),https://v2.tustreaming.cl/enlacebpbtv/index.m3u8
+Abajo_e'_La_Linea_TV,https://5ff3d9babae13.streamlock.net/ynfpncxxjg/ynfpncxxjg/playlist.m3u8
+Apocalipsis_TVD_(720p),https://us.streaminghd.cl/apocalipsistvd/video.m3u8
+Arica_TV,https://envivo.arica.tv/hls/Live2025AricaTV.m3u8
+Caldera_Vision,https://tv.arkeo.cl:1936/kymczwbrge/kymczwbrge/playlist.m3u8
+Campo_Abierto_TV_(720p),https://v2.tustreaming.cl/catvlive/index.m3u8
+Canal_5_Puerto_Montt,https://5ff3d9babae13.streamlock.net/aufymdjpjf/aufymdjpjf/playlist.m3u8

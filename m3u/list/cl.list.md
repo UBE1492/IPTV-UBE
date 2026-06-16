@@ -67,5 +67,11 @@
 | 61 | Sextavision (1080p) | 5ff3d9babae13.streamlock.net | <https://5ff3d9babae13.streamlock.net/fzkqsdfray/fzkqsdfray/playlist.m3u8> |
 | 62 | Solo TV | sproxy.solotv.cl | <https://sproxy.solotv.cl/hls/live/fhd.m3u8> |
 | 63 | 15.1 BPB (720p) | v2.tustreaming.cl | <https://v2.tustreaming.cl/enlacebpbtv/index.m3u8> |
+| 64 | Abajo e' La Linea TV | 5ff3d9babae13.streamlock.net | <https://5ff3d9babae13.streamlock.net/ynfpncxxjg/ynfpncxxjg/playlist.m3u8> |
+| 65 | Apocalipsis TVD (720p) | us.streaminghd.cl | <https://us.streaminghd.cl/apocalipsistvd/video.m3u8> |
+| 66 | Arica TV | envivo.arica.tv | <https://envivo.arica.tv/hls/Live2025AricaTV.m3u8> |
+| 67 | Caldera Vision | tv.arkeo.cl:1936 | <https://tv.arkeo.cl:1936/kymczwbrge/kymczwbrge/playlist.m3u8> |
+| 68 | Campo Abierto TV (720p) | v2.tustreaming.cl | <https://v2.tustreaming.cl/catvlive/index.m3u8> |
+| 69 | Canal 5 Puerto Montt | 5ff3d9babae13.streamlock.net | <https://5ff3d9babae13.streamlock.net/aufymdjpjf/aufymdjpjf/playlist.m3u8> |
 
-Updated at **Mon Jun 15 2026 21:07:52 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jun 16 2026 04:46:09 GMT+0000 (Coordinated Universal Time)**
