@@ -94,3 +94,4 @@ Win+_Futbol,http://190.60.40.34:8001/play/a02r
 Zoom_(1080p),https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8
 Amaga_Television_(720p),https://viewhn.com/amagatelevision/sdfUYWKegHKRPpSirG/playlist.m3u8
 Buenisima_Radio_TV,https://canal.mediaserver.com.co/live/buenisimatv.m3u8
+Cable_Sur_TV,https://tvlatina.live:1936/8025/8025/playlist.m3u8

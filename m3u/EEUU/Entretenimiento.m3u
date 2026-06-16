@@ -229,8 +229,6 @@ https://livestream.telvue.com/nashuanh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/pla
 https://livestream.telvue.com/nashuanh3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="NRBTV.us@SD",NRB TV (480p)
 https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="NTDTV.us@East",NTD TV
-https://live.ntdtv.com/live900/playlist.m3u8
 #EXTINF:-1 tvg-id="NTDTVAsiaPacific.us@SD",NTD TV Asia-Pacific
 https://live.ntdtv.com/aplive200/playlist.m3u8
 #EXTINF:-1 tvg-id="NTDTVCanada.us@East",NTD TV Canada

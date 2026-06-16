@@ -143,4 +143,4 @@
 | 137 | XPTV2 (720p) | janus.xpbroadcasting.com:8443 | <https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8> |
 | 138 | XPTV US (720p) | janus.xpbroadcasting.com:8443 | <https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8> |
 
-Updated at **Tue Jun 16 2026 04:46:10 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jun 16 2026 11:18:32 GMT+0000 (Coordinated Universal Time)**

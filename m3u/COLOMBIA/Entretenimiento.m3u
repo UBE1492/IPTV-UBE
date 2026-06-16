@@ -69,3 +69,5 @@ https://eu1.servers10.com:8081/8072/index.m3u8
 https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8
 #EXTINF:-1 tvg-id="ViveTV.co@SD",Vive TV Colombia (1080p)
 http://192.144.113.132:1935/live/ViveTV/playlist.m3u8
+#EXTINF:-1 tvg-id="CableSurTV.co@SD",Cable Sur TV
+https://tvlatina.live:1936/8025/8025/playlist.m3u8

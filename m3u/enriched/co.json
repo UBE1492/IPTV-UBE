@@ -1,6 +1,6 @@
 {
   "name": "co",
-  "updated_at": 1781585170734,
+  "updated_at": 1781608712140,
   "m3u": "https://ube1492.github.io/IPTV-UBE/co.m3u",
   "channels": [
     {
@@ -558,6 +558,12 @@
     {
       "name": "Buenisima Radio TV",
       "url": "https://canal.mediaserver.com.co/live/buenisimatv.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Cable Sur TV",
+      "url": "https://tvlatina.live:1936/8025/8025/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -1119,6 +1125,12 @@
       {
         "name": "Buenisima Radio TV",
         "url": "https://canal.mediaserver.com.co/live/buenisimatv.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Cable Sur TV",
+        "url": "https://tvlatina.live:1936/8025/8025/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       }

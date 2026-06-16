@@ -94,5 +94,6 @@
 | 88 | Zoom (1080p) | canalzoom.smoothcloud.co:3027 | <https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8> |
 | 89 | Amaga Television (720p) | viewhn.com | <https://viewhn.com/amagatelevision/sdfUYWKegHKRPpSirG/playlist.m3u8> |
 | 90 | Buenisima Radio TV | canal.mediaserver.com.co | <https://canal.mediaserver.com.co/live/buenisimatv.m3u8> |
+| 91 | Cable Sur TV | tvlatina.live:1936 | <https://tvlatina.live:1936/8025/8025/playlist.m3u8> |
 
-Updated at **Tue Jun 16 2026 04:46:10 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jun 16 2026 11:18:32 GMT+0000 (Coordinated Universal Time)**

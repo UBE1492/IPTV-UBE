@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1781585170469,
+  "updated_at": 1781608711902,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -1926,12 +1926,6 @@
     {
       "name": "NRB TV (480p)",
       "url": "https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "NTD TV",
-      "url": "https://live.ntdtv.com/live900/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -4404,12 +4398,6 @@
       {
         "name": "NRB TV (480p)",
         "url": "https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "NTD TV",
-        "url": "https://live.ntdtv.com/live900/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },
