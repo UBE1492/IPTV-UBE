@@ -59,3 +59,7 @@ https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 https://live.obslivestream.com/uraniotv/index.m3u8
 #EXTINF:-1 tvg-id="USMPTV.pe@SD",USMPTV
 #EXTVLCOPT:http-referrer=https://usmptv.pe/
+#EXTINF:-1 tvg-id="WillaxTV.pe@SD",Willax TV (720p)
+https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="GlobalTV.pe@SD",Global TV (720p)
+https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/playlist.m3u8
