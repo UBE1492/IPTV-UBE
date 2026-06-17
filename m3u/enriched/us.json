@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1781670394296,
+  "updated_at": 1781694198614,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -1426,7 +1426,7 @@
       "category": "Otros"
     },
     {
-      "name": "KSCN-DT1",
+      "name": "Scientology Network KSCN-DT1",
       "url": "https://stream-losangeles.scientology.org/master.m3u8",
       "logo": "",
       "category": "Otros"
@@ -2463,6 +2463,18 @@
     {
       "name": "NTD TV (1080p)",
       "url": "https://ntd02.akamaized.net/HD-NY/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Timeless TV",
+      "url": "https://timelesstv1-301f.kxcdn.com/hls/TimelessTV.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Magnificent Movies Network",
+      "url": "https://mmn1-301f.kxcdn.com/hls/MMN-HLS.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -3973,7 +3985,7 @@
         "category": "Otros"
       },
       {
-        "name": "KSCN-DT1",
+        "name": "Scientology Network KSCN-DT1",
         "url": "https://stream-losangeles.scientology.org/master.m3u8",
         "logo": "",
         "category": "Otros"
@@ -5010,6 +5022,18 @@
       {
         "name": "NTD TV (1080p)",
         "url": "https://ntd02.akamaized.net/HD-NY/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Timeless TV",
+        "url": "https://timelesstv1-301f.kxcdn.com/hls/TimelessTV.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Magnificent Movies Network",
+        "url": "https://mmn1-301f.kxcdn.com/hls/MMN-HLS.m3u8",
         "logo": "",
         "category": "Otros"
       },

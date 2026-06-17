@@ -473,7 +473,7 @@ https://d3svnrf3rmq619.cloudfront.net/krgv-live/smil:krgv-somos.smil/playlist.m3
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kriv-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="KSAZTV101.us@HD",KSAZ-DT1 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ksaz-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="KSCNTV221.us@HD",KSCN-DT1
+#EXTINF:-1 tvg-id="KSCNTV221.us@HD",Scientology Network KSCN-DT1
 https://stream-losangeles.scientology.org/master.m3u8
 #EXTINF:-1 tvg-id="KTBC71.us@HD",KTBC-DT1 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ktbc-lgus/playlist.m3u8
@@ -821,6 +821,10 @@ https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 #EXTINF:-1 tvg-id="NTDTV.us@East",NTD TV (1080p)
 https://ntd02.akamaized.net/HD-NY/index.m3u8
+#EXTINF:-1 tvg-id="TimelessTV.us@SD",Timeless TV
+https://timelesstv1-301f.kxcdn.com/hls/TimelessTV.m3u8
+#EXTINF:-1 tvg-id="MagnificentMoviesNetwork.us@SD",Magnificent Movies Network
+https://mmn1-301f.kxcdn.com/hls/MMN-HLS.m3u8
 #EXTINF:-1 tvg-id="MeTV.us@SD",MeTV (720p)
 https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffbb4047a8143ac2166ead44/index.m3u8
 #EXTINF:-1 tvg-id="FXX.us@East",FXX (720p)

@@ -97,4 +97,4 @@
 | 91 | La Granja TV | oracle.streaminghd.cl | <https://oracle.streaminghd.cl/8126/8126/playlist.m3u8> |
 | 92 | La Melinkana TV (720p) | v1.tustreaming.cl | <https://v1.tustreaming.cl/melinkana/index.m3u8> |
 
-Updated at **Wed Jun 17 2026 04:26:34 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jun 17 2026 11:03:18 GMT+0000 (Coordinated Universal Time)**

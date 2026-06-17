@@ -236,7 +236,7 @@ KQED-DT2_(1080p),https://kqeddt2.lls.pbs.org/kqeddt2-hls.m3u8
 KRGV-DT2_[Geo-blocked],https://d3svnrf3rmq619.cloudfront.net/krgv-live/smil:krgv-somos.smil/playlist.m3u8
 KRIV-DT1_(1080p),https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kriv-lgus/playlist.m3u8
 KSAZ-DT1_(1080p),https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ksaz-lgus/playlist.m3u8
-KSCN-DT1,https://stream-losangeles.scientology.org/master.m3u8
+Scientology_Network_KSCN-DT1,https://stream-losangeles.scientology.org/master.m3u8
 KTBC-DT1_(1080p),https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ktbc-lgus/playlist.m3u8
 KTIV-DT6_(404p),http://txc4-swbb-mn.fibernet-tv.com/KABY-CW-2364/index.m3u8
 KTTV-DT1_(1080p),https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox11losangeleskttv-vizious/playlist.m3u8
@@ -410,6 +410,8 @@ Teve_Vida_Network_(480p)_[Not_24/7],https://5bf8041cb3fed.streamlock.net/Tevevid
 The_Beach_Channel_(720p)_[Not_24/7],#EXTVLCOPT:http-referrer=https://player.castr.com/
 AXN_White,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 NTD_TV_(1080p),https://ntd02.akamaized.net/HD-NY/index.m3u8
+Timeless_TV,https://timelesstv1-301f.kxcdn.com/hls/TimelessTV.m3u8
+Magnificent_Movies_Network,https://mmn1-301f.kxcdn.com/hls/MMN-HLS.m3u8
 MeTV_(720p),https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffbb4047a8143ac2166ead44/index.m3u8
 FXX_(720p),https://cdn.telecloud.tv/CH3255/index.m3u8
 Paramount_Network_(720p),http://rezofoot.tv/PARAMOUNT-CHANNEL/index.m3u8
