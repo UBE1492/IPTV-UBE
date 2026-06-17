@@ -113,5 +113,7 @@
 | 107 | TV Golfo Uraba | stmv7.voxtvhd.com.br | <https://stmv7.voxtvhd.com.br/golfo/golfo/playlist.m3u8> |
 | 108 | TVGracia | vs20.live.opencaster.com | <https://vs20.live.opencaster.com/diego_57244803/index.m3u8> |
 | 109 | Vahos TV | canal.vahostv.com | <https://canal.vahostv.com/stream/0.m3u8> |
+| 110 | Canal RCN (1080p) | IPv4 直链 | <http://138.121.15.230:9002/RCN/index.m3u8> |
+| 111 | Caracol TV (1080p) | IPv4 直链 | <http://138.121.15.230:9002/CARACOL/index.m3u8> |
 
-Updated at **Tue Jun 16 2026 20:55:41 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jun 17 2026 04:26:34 GMT+0000 (Coordinated Universal Time)**

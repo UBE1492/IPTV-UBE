@@ -1,6 +1,6 @@
 {
   "name": "cl",
-  "updated_at": 1781643340515,
+  "updated_at": 1781670394095,
   "m3u": "https://ube1492.github.io/IPTV-UBE/cl.m3u",
   "channels": [
     {
@@ -426,6 +426,144 @@
     {
       "name": "Canal 5 Puerto Montt",
       "url": "https://5ff3d9babae13.streamlock.net/aufymdjpjf/aufymdjpjf/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Canal 13 (720p)",
+      "url": "https://pantera1-100gb-cl-movistar.dps.live/t13radio/t13radio.smil/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Atacama TV",
+      "url": "https://v2.tustreaming.cl/atacamatv/tracks-v1a1/mono.ts.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Canal Chilote (720p)",
+      "url": "https://videostream.chileservidores.com:8081/chiloe2/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Canal Latino 54 (360p)",
+      "url": "https://videostream.chileservidores.com:8081/latina/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Canal Local (720p)",
+      "url": "https://v2.tustreaming.cl/canallocalcl/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Caracola TV",
+      "url": "https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/chunks.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Club TV",
+      "url": "https://tv.arkeo.cl:1936/clubtv/clubtv/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "CTV35",
+      "url": "https://vdochile.com:3697/live/ctv35live.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Cultura Online",
+      "url": "https://streaming.bitsur.cl:3399/live/vdo532live.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "DCH TV (1080p)",
+      "url": "https://v2.tustreaming.cl/dchtv/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Diferencia Radio TV",
+      "url": "https://s1.radiumcast.top/memfs/674b2d4f-7d6e-49be-9c6c-3094868259d9.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "El 3 de Conce",
+      "url": "https://5ff3d9babae13.streamlock.net/xedkektnqj/xedkektnqj/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "El Canal Feliz (720p)",
+      "url": "http://streaming.multicontenidos.cl:8081/live/canalfeliz/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "El Centro TV (720p)",
+      "url": "https://v1.tustreaming.cl/diarioelcentrotv/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Enfoque Digital TV",
+      "url": "https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Evavision",
+      "url": "https://stmv2.voxtvhd.com.br/evavision/evavision/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Fortaleza TV (1080p)",
+      "url": "https://multimedia.fortalezatv.cl/video/video.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Frecuencia 7 TV (720p)",
+      "url": "https://v2.tustreaming.cl/frecuencia7/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "GVision (288p)",
+      "url": "https://videostream.chileservidores.com:8081/tome/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Iquique TV (1080p)",
+      "url": "https://origin.skarnetchile.com:8081/iquiquetv-hd/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Interradio TV",
+      "url": "https://tv.arkeo.cl:1936/8002/8002/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "La Granja TV",
+      "url": "https://oracle.streaminghd.cl/8126/8126/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "La Melinkana TV (720p)",
+      "url": "https://v1.tustreaming.cl/melinkana/index.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -855,6 +993,144 @@
       {
         "name": "Canal 5 Puerto Montt",
         "url": "https://5ff3d9babae13.streamlock.net/aufymdjpjf/aufymdjpjf/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Canal 13 (720p)",
+        "url": "https://pantera1-100gb-cl-movistar.dps.live/t13radio/t13radio.smil/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Atacama TV",
+        "url": "https://v2.tustreaming.cl/atacamatv/tracks-v1a1/mono.ts.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Canal Chilote (720p)",
+        "url": "https://videostream.chileservidores.com:8081/chiloe2/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Canal Latino 54 (360p)",
+        "url": "https://videostream.chileservidores.com:8081/latina/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Canal Local (720p)",
+        "url": "https://v2.tustreaming.cl/canallocalcl/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Caracola TV",
+        "url": "https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/chunks.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Club TV",
+        "url": "https://tv.arkeo.cl:1936/clubtv/clubtv/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "CTV35",
+        "url": "https://vdochile.com:3697/live/ctv35live.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Cultura Online",
+        "url": "https://streaming.bitsur.cl:3399/live/vdo532live.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "DCH TV (1080p)",
+        "url": "https://v2.tustreaming.cl/dchtv/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Diferencia Radio TV",
+        "url": "https://s1.radiumcast.top/memfs/674b2d4f-7d6e-49be-9c6c-3094868259d9.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "El 3 de Conce",
+        "url": "https://5ff3d9babae13.streamlock.net/xedkektnqj/xedkektnqj/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "El Canal Feliz (720p)",
+        "url": "http://streaming.multicontenidos.cl:8081/live/canalfeliz/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "El Centro TV (720p)",
+        "url": "https://v1.tustreaming.cl/diarioelcentrotv/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Enfoque Digital TV",
+        "url": "https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Evavision",
+        "url": "https://stmv2.voxtvhd.com.br/evavision/evavision/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Fortaleza TV (1080p)",
+        "url": "https://multimedia.fortalezatv.cl/video/video.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Frecuencia 7 TV (720p)",
+        "url": "https://v2.tustreaming.cl/frecuencia7/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "GVision (288p)",
+        "url": "https://videostream.chileservidores.com:8081/tome/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Iquique TV (1080p)",
+        "url": "https://origin.skarnetchile.com:8081/iquiquetv-hd/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Interradio TV",
+        "url": "https://tv.arkeo.cl:1936/8002/8002/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "La Granja TV",
+        "url": "https://oracle.streaminghd.cl/8126/8126/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "La Melinkana TV (720p)",
+        "url": "https://v1.tustreaming.cl/melinkana/index.m3u8",
         "logo": "",
         "category": "Otros"
       }

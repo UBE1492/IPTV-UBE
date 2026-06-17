@@ -407,12 +407,23 @@
 | 401 | TBN Armenia | 164475.gvideo.io | <https://164475.gvideo.io/mpegts/164475_650646/master_mpegts.m3u8> |
 | 402 | TBN Inspire (1080p) | livecdn.use1-0004.jwplive.com | <https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/yfFI83Xz/live.isml/.m3u8> |
 | 403 | TBN Pacific | broadcast.tbnpacific.org.au:4430 | <https://broadcast.tbnpacific.org.au:4430/stream/TBNPacificTV/playlist.m3u8> |
-| 404 | TBN Украина (720p) | IPv4 直链 | <http://62.32.67.187:1935/WEB_Ukraine24/Ukraine24.stream/playlist.m3u8> |
-| 405 | Tele Boston (480p) | tv2.fastcast4u.com:3238 | <https://tv2.fastcast4u.com:3238/live/radiotelebostonlive.m3u8> |
-| 406 | Telemundo Al Dia | d1rqgw5gocwo9i.cloudfront.net | <https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/3.m3u8> |
-| 407 | Telemundo Internacional | IPv4 直链 | <http://181.114.57.246:4000/play/XmUjm3NXcGJkvvQ8/index.m3u8> |
-| 408 | Tennis Channel (1080p) | cdn-uw2-prod.tsv2.amagi.tv | <https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8> |
-| 409 | Teve Vida Network (480p) [Not 24/7] | 5bf8041cb3fed.streamlock.net | <https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/.m3u8> |
-| 410 | NTD TV (1080p) | ntd02.akamaized.net | <https://ntd02.akamaized.net/HD-NY/index.m3u8> |
+| 404 | Tele Boston (480p) | tv2.fastcast4u.com:3238 | <https://tv2.fastcast4u.com:3238/live/radiotelebostonlive.m3u8> |
+| 405 | Telemundo Al Dia | d1rqgw5gocwo9i.cloudfront.net | <https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/3.m3u8> |
+| 406 | Telemundo Internacional | IPv4 直链 | <http://181.114.57.246:4000/play/XmUjm3NXcGJkvvQ8/index.m3u8> |
+| 407 | Tennis Channel (1080p) | cdn-uw2-prod.tsv2.amagi.tv | <https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8> |
+| 408 | Teve Vida Network (480p) [Not 24/7] | 5bf8041cb3fed.streamlock.net | <https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/.m3u8> |
+| 409 | NTD TV (1080p) | ntd02.akamaized.net | <https://ntd02.akamaized.net/HD-NY/index.m3u8> |
+| 410 | MeTV (720p) | 亚马逊AWS | <https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffbb4047a8143ac2166ead44/index.m3u8> |
+| 411 | FXX (720p) | cdn.telecloud.tv | <https://cdn.telecloud.tv/CH3255/index.m3u8> |
+| 412 | Paramount Network (720p) | rezofoot.tv | <http://rezofoot.tv/PARAMOUNT-CHANNEL/index.m3u8> |
+| 413 | Lifetime (720p) | rezofoot.tv | <http://rezofoot.tv/LIFETIME/index.m3u8> |
+| 414 | CNBC (720p) | rezofoot.tv | <http://rezofoot.tv/CNBC/index.m3u8> |
+| 415 | VH1 (720p) | rezofoot.tv | <http://rezofoot.tv/VH1/index.m3u8> |
+| 416 | A&E (720p) | IPv4 直链 | <http://23.239.31.26:8989/aande/index.m3u8> |
+| 417 | AMC (720p) | IPv4 直链 | <http://23.239.31.26:8989/amc/index.m3u8> |
+| 418 | AXS TV (720p) | IPv4 直链 | <http://23.239.31.26:8989/axstv/index.m3u8> |
+| 419 | Oxygen (720p) | IPv4 直链 | <http://198.58.104.90:8989/oxygen/index.m3u8> |
+| 420 | MTV (720p) | IPv4 直链 | <http://198.58.104.90:8989/mtv/index.m3u8> |
+| 421 | MTV2 (720p) | IPv4 直链 | <http://198.58.104.90:8989/mtv2/index.m3u8> |
 
-Updated at **Tue Jun 16 2026 20:55:41 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jun 17 2026 04:26:34 GMT+0000 (Coordinated Universal Time)**

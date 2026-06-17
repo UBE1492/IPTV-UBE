@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1781643341412,
+  "updated_at": 1781670394296,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -2422,12 +2422,6 @@
       "category": "Otros"
     },
     {
-      "name": "TBN Украина (720p)",
-      "url": "http://62.32.67.187:1935/WEB_Ukraine24/Ukraine24.stream/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Tele Boston (480p)",
       "url": "https://tv2.fastcast4u.com:3238/live/radiotelebostonlive.m3u8",
       "logo": "",
@@ -2471,6 +2465,87 @@
       "url": "https://ntd02.akamaized.net/HD-NY/index.m3u8",
       "logo": "",
       "category": "Otros"
+    },
+    {
+      "name": "MeTV (720p)",
+      "url": "https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffbb4047a8143ac2166ead44/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "FXX (720p)",
+      "url": "https://cdn.telecloud.tv/CH3255/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Paramount Network (720p)",
+      "url": "http://rezofoot.tv/PARAMOUNT-CHANNEL/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Lifetime (720p)",
+      "url": "http://rezofoot.tv/LIFETIME/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "CNBC (720p)",
+      "url": "http://rezofoot.tv/CNBC/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "VH1 (720p)",
+      "url": "http://rezofoot.tv/VH1/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "A&E (720p)",
+      "url": "http://23.239.31.26:8989/aande/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "AMC (720p)",
+      "url": "http://23.239.31.26:8989/amc/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "AXS TV (720p)",
+      "url": "http://23.239.31.26:8989/axstv/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Oxygen (720p)",
+      "url": "http://198.58.104.90:8989/oxygen/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "MTV (720p)",
+      "url": "http://198.58.104.90:8989/mtv/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "MTV2 (720p)",
+      "url": "http://198.58.104.90:8989/mtv2/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Star Channel Latin America (1080i)",
+      "url": "",
+      "logo": "",
+      "category": "Otros",
+      "options": {
+        "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+      }
     }
   ],
   "categories": {
@@ -4894,12 +4969,6 @@
         "category": "Otros"
       },
       {
-        "name": "TBN Украина (720p)",
-        "url": "http://62.32.67.187:1935/WEB_Ukraine24/Ukraine24.stream/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "Tele Boston (480p)",
         "url": "https://tv2.fastcast4u.com:3238/live/radiotelebostonlive.m3u8",
         "logo": "",
@@ -4943,6 +5012,87 @@
         "url": "https://ntd02.akamaized.net/HD-NY/index.m3u8",
         "logo": "",
         "category": "Otros"
+      },
+      {
+        "name": "MeTV (720p)",
+        "url": "https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffbb4047a8143ac2166ead44/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "FXX (720p)",
+        "url": "https://cdn.telecloud.tv/CH3255/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Paramount Network (720p)",
+        "url": "http://rezofoot.tv/PARAMOUNT-CHANNEL/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Lifetime (720p)",
+        "url": "http://rezofoot.tv/LIFETIME/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "CNBC (720p)",
+        "url": "http://rezofoot.tv/CNBC/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "VH1 (720p)",
+        "url": "http://rezofoot.tv/VH1/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "A&E (720p)",
+        "url": "http://23.239.31.26:8989/aande/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "AMC (720p)",
+        "url": "http://23.239.31.26:8989/amc/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "AXS TV (720p)",
+        "url": "http://23.239.31.26:8989/axstv/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Oxygen (720p)",
+        "url": "http://198.58.104.90:8989/oxygen/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "MTV (720p)",
+        "url": "http://198.58.104.90:8989/mtv/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "MTV2 (720p)",
+        "url": "http://198.58.104.90:8989/mtv2/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Star Channel Latin America (1080i)",
+        "url": "",
+        "logo": "",
+        "category": "Otros",
+        "options": {
+          "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+        }
       }
     ]
   }

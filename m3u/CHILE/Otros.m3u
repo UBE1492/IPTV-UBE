@@ -71,3 +71,15 @@ https://v2.tustreaming.cl/enlacebpbtv/index.m3u8
 https://tv.arkeo.cl:1936/kymczwbrge/kymczwbrge/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal5PuertoMontt.cl@SD",Canal 5 Puerto Montt
 https://5ff3d9babae13.streamlock.net/aufymdjpjf/aufymdjpjf/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal13.cl@SD",Canal 13 (720p)
+https://pantera1-100gb-cl-movistar.dps.live/t13radio/t13radio.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalChilote.cl@SD",Canal Chilote (720p)
+https://videostream.chileservidores.com:8081/chiloe2/index.m3u8
+#EXTINF:-1 tvg-id="CanalLocal.cl@SD",Canal Local (720p)
+https://v2.tustreaming.cl/canallocalcl/index.m3u8
+#EXTINF:-1 tvg-id="El3deConce.cl@SD",El 3 de Conce
+https://5ff3d9babae13.streamlock.net/xedkektnqj/xedkektnqj/playlist.m3u8
+#EXTINF:-1 tvg-id="Evavision.cl@SD",Evavision
+https://stmv2.voxtvhd.com.br/evavision/evavision/playlist.m3u8
+#EXTINF:-1 tvg-id="GVision.cl@SD",GVision (288p)
+https://videostream.chileservidores.com:8081/tome/index.m3u8

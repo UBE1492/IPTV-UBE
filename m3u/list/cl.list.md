@@ -73,5 +73,28 @@
 | 67 | Caldera Vision | tv.arkeo.cl:1936 | <https://tv.arkeo.cl:1936/kymczwbrge/kymczwbrge/playlist.m3u8> |
 | 68 | Campo Abierto TV (720p) | v2.tustreaming.cl | <https://v2.tustreaming.cl/catvlive/index.m3u8> |
 | 69 | Canal 5 Puerto Montt | 5ff3d9babae13.streamlock.net | <https://5ff3d9babae13.streamlock.net/aufymdjpjf/aufymdjpjf/playlist.m3u8> |
+| 70 | Canal 13 (720p) | pantera1-100gb-cl-movistar.dps.live | <https://pantera1-100gb-cl-movistar.dps.live/t13radio/t13radio.smil/playlist.m3u8> |
+| 71 | Atacama TV | v2.tustreaming.cl | <https://v2.tustreaming.cl/atacamatv/tracks-v1a1/mono.ts.m3u8> |
+| 72 | Canal Chilote (720p) | videostream.chileservidores.com:8081 | <https://videostream.chileservidores.com:8081/chiloe2/index.m3u8> |
+| 73 | Canal Latino 54 (360p) | videostream.chileservidores.com:8081 | <https://videostream.chileservidores.com:8081/latina/index.m3u8> |
+| 74 | Canal Local (720p) | v2.tustreaming.cl | <https://v2.tustreaming.cl/canallocalcl/index.m3u8> |
+| 75 | Caracola TV | wifispeed.trapemn.tv:1936 | <https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/chunks.m3u8> |
+| 76 | Club TV | tv.arkeo.cl:1936 | <https://tv.arkeo.cl:1936/clubtv/clubtv/playlist.m3u8> |
+| 77 | CTV35 | vdochile.com:3697 | <https://vdochile.com:3697/live/ctv35live.m3u8> |
+| 78 | Cultura Online | streaming.bitsur.cl:3399 | <https://streaming.bitsur.cl:3399/live/vdo532live.m3u8> |
+| 79 | DCH TV (1080p) | v2.tustreaming.cl | <https://v2.tustreaming.cl/dchtv/index.m3u8> |
+| 80 | Diferencia Radio TV | s1.radiumcast.top | <https://s1.radiumcast.top/memfs/674b2d4f-7d6e-49be-9c6c-3094868259d9.m3u8> |
+| 81 | El 3 de Conce | 5ff3d9babae13.streamlock.net | <https://5ff3d9babae13.streamlock.net/xedkektnqj/xedkektnqj/playlist.m3u8> |
+| 82 | El Canal Feliz (720p) | streaming.multicontenidos.cl:8081 | <http://streaming.multicontenidos.cl:8081/live/canalfeliz/playlist.m3u8> |
+| 83 | El Centro TV (720p) | v1.tustreaming.cl | <https://v1.tustreaming.cl/diarioelcentrotv/index.m3u8> |
+| 84 | Enfoque Digital TV | 5eaccbab48461.streamlock.net:1936 | <https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8> |
+| 85 | Evavision | stmv2.voxtvhd.com.br | <https://stmv2.voxtvhd.com.br/evavision/evavision/playlist.m3u8> |
+| 86 | Fortaleza TV (1080p) | multimedia.fortalezatv.cl | <https://multimedia.fortalezatv.cl/video/video.m3u8> |
+| 87 | Frecuencia 7 TV (720p) | v2.tustreaming.cl | <https://v2.tustreaming.cl/frecuencia7/index.m3u8> |
+| 88 | GVision (288p) | videostream.chileservidores.com:8081 | <https://videostream.chileservidores.com:8081/tome/index.m3u8> |
+| 89 | Iquique TV (1080p) | origin.skarnetchile.com:8081 | <https://origin.skarnetchile.com:8081/iquiquetv-hd/index.m3u8> |
+| 90 | Interradio TV | tv.arkeo.cl:1936 | <https://tv.arkeo.cl:1936/8002/8002/playlist.m3u8> |
+| 91 | La Granja TV | oracle.streaminghd.cl | <https://oracle.streaminghd.cl/8126/8126/playlist.m3u8> |
+| 92 | La Melinkana TV (720p) | v1.tustreaming.cl | <https://v1.tustreaming.cl/melinkana/index.m3u8> |
 
-Updated at **Tue Jun 16 2026 20:55:40 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jun 17 2026 04:26:34 GMT+0000 (Coordinated Universal Time)**

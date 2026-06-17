@@ -51,3 +51,27 @@ https://us.streaminghd.cl/apocalipsistvd/video.m3u8
 https://envivo.arica.tv/hls/Live2025AricaTV.m3u8
 #EXTINF:-1 tvg-id="CampoAbiertoTV.cl@SD",Campo Abierto TV (720p)
 https://v2.tustreaming.cl/catvlive/index.m3u8
+#EXTINF:-1 tvg-id="AtacamaTV.cl@SD",Atacama TV
+https://v2.tustreaming.cl/atacamatv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="CaracolaTV.cl@SD",Caracola TV
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/chunks.m3u8
+#EXTINF:-1 tvg-id="ClubTV.cl@SD",Club TV
+https://tv.arkeo.cl:1936/clubtv/clubtv/playlist.m3u8
+#EXTINF:-1 tvg-id="CTV35.cl@SD",CTV35
+https://vdochile.com:3697/live/ctv35live.m3u8
+#EXTINF:-1 tvg-id="DCHTV.cl@SD",DCH TV (1080p)
+https://v2.tustreaming.cl/dchtv/index.m3u8
+#EXTINF:-1 tvg-id="ElCentroTV.cl@SD",El Centro TV (720p)
+https://v1.tustreaming.cl/diarioelcentrotv/index.m3u8
+#EXTINF:-1 tvg-id="FortalezaTV.cl@SD",Fortaleza TV (1080p)
+https://multimedia.fortalezatv.cl/video/video.m3u8
+#EXTINF:-1 tvg-id="Frecuencia7TV.cl@SD",Frecuencia 7 TV (720p)
+https://v2.tustreaming.cl/frecuencia7/index.m3u8
+#EXTINF:-1 tvg-id="IquiqueTV.cl@SD",Iquique TV (1080p)
+https://origin.skarnetchile.com:8081/iquiquetv-hd/index.m3u8
+#EXTINF:-1 tvg-id="InterradioTV.cl@SD",Interradio TV
+https://tv.arkeo.cl:1936/8002/8002/playlist.m3u8
+#EXTINF:-1 tvg-id="LaGranjaTV.cl@SD",La Granja TV
+https://oracle.streaminghd.cl/8126/8126/playlist.m3u8
+#EXTINF:-1 tvg-id="LaMelinkanaTV.cl@SD",La Melinkana TV (720p)
+https://v1.tustreaming.cl/melinkana/index.m3u8

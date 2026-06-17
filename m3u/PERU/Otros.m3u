@@ -47,3 +47,9 @@ https://telesurnew.b-cdn.net/hls/camana.m3u8
 #EXTVLCOPT:http-referrer=https://www.telesur.com.pe/
 #EXTINF:-1 tvg-id="Unitel.pe@SD",Unitel (1080p)
 https://play.agenciastreaming.com:8081/uniteltv/index.m3u8
+#EXTINF:-1 tvg-id="AmericaTelevision.pe@SD",America Television (1080p)
+https://live-bd1.tv360.bitel.com.pe/manifest/america/master_clean_source.m3u8
+#EXTINF:-1 tvg-id="CanalIPe.pe@SD",Canal IPe (576p)
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/ipe.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Telelima.pe@SD",Telelima (720p)
+https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/playlist.m3u8

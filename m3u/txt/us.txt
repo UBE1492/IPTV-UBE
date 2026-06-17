@@ -402,7 +402,6 @@ TBN_(1080p),https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/fCGf
 TBN_Armenia,https://164475.gvideo.io/mpegts/164475_650646/master_mpegts.m3u8
 TBN_Inspire_(1080p),https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/yfFI83Xz/live.isml/.m3u8
 TBN_Pacific,https://broadcast.tbnpacific.org.au:4430/stream/TBNPacificTV/playlist.m3u8
-TBN_Украина_(720p),http://62.32.67.187:1935/WEB_Ukraine24/Ukraine24.stream/playlist.m3u8
 Tele_Boston_(480p),https://tv2.fastcast4u.com:3238/live/radiotelebostonlive.m3u8
 Telemundo_Al_Dia,https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/3.m3u8
 Telemundo_Internacional,http://181.114.57.246:4000/play/XmUjm3NXcGJkvvQ8/index.m3u8
@@ -411,3 +410,16 @@ Teve_Vida_Network_(480p)_[Not_24/7],https://5bf8041cb3fed.streamlock.net/Tevevid
 The_Beach_Channel_(720p)_[Not_24/7],#EXTVLCOPT:http-referrer=https://player.castr.com/
 AXN_White,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 NTD_TV_(1080p),https://ntd02.akamaized.net/HD-NY/index.m3u8
+MeTV_(720p),https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffbb4047a8143ac2166ead44/index.m3u8
+FXX_(720p),https://cdn.telecloud.tv/CH3255/index.m3u8
+Paramount_Network_(720p),http://rezofoot.tv/PARAMOUNT-CHANNEL/index.m3u8
+Lifetime_(720p),http://rezofoot.tv/LIFETIME/index.m3u8
+CNBC_(720p),http://rezofoot.tv/CNBC/index.m3u8
+VH1_(720p),http://rezofoot.tv/VH1/index.m3u8
+A&E_(720p),http://23.239.31.26:8989/aande/index.m3u8
+AMC_(720p),http://23.239.31.26:8989/amc/index.m3u8
+AXS_TV_(720p),http://23.239.31.26:8989/axstv/index.m3u8
+Oxygen_(720p),http://198.58.104.90:8989/oxygen/index.m3u8
+MTV_(720p),http://198.58.104.90:8989/mtv/index.m3u8
+MTV2_(720p),http://198.58.104.90:8989/mtv2/index.m3u8
+Star_Channel_Latin_America_(1080i),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
