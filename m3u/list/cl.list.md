@@ -96,5 +96,29 @@
 | 90 | Interradio TV | tv.arkeo.cl:1936 | <https://tv.arkeo.cl:1936/8002/8002/playlist.m3u8> |
 | 91 | La Granja TV | oracle.streaminghd.cl | <https://oracle.streaminghd.cl/8126/8126/playlist.m3u8> |
 | 92 | La Melinkana TV (720p) | v1.tustreaming.cl | <https://v1.tustreaming.cl/melinkana/index.m3u8> |
+| 93 | Longino TV | cloud2.streaminglivehd.com:1936 | <https://cloud2.streaminglivehd.com:1936/longinotv-1/longinotv-1/playlist.m3u8> |
+| 94 | Maqui TV | streamyes.alsolnet.com | <https://streamyes.alsolnet.com/maquiradio/live/playlist.m3u8> |
+| 95 | Marga Marga TV (720p) | v1.tustreaming.cl | <https://v1.tustreaming.cl/margamargatv/index.m3u8> |
+| 96 | Mi Radio TV | scl.edge.grupoz.cl | <https://scl.edge.grupoz.cl/miradio2/live/playlist.m3u8> |
+| 97 | Nada Es Imposible TV | vdochile.com:3194 | <https://vdochile.com:3194/live/mvqutymylive.m3u8> |
+| 98 | Nativa TV | origin-us.streaminghd.cl | <https://origin-us.streaminghd.cl/nativatv/nativatv/playlist.m3u8> |
+| 99 | Nuevo Tiempo TV | streamtv.novotempo.com | <https://streamtv.novotempo.com/CDN-TV-ES/smil:tvnuevotiempo.smil/playlist.m3u8> |
+| 100 | Oli TV (1080p) | v4.tustreaming.cl | <https://v4.tustreaming.cl/retroplaytv/index.m3u8> |
+| 101 | Opinionsur (720p) | 183.bozztv.com | <https://183.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/playlist.m3u8> |
+| 102 | Osorno TV (720p) | videostream.chileservidores.com:8081 | <https://videostream.chileservidores.com:8081/osornotv/index.m3u8> |
+| 103 | Pacifico Television (720p) | us.streaminghd.cl | <https://us.streaminghd.cl/pacificotelevision/video.m3u8> |
+| 104 | Portalfoxmix | panel.tvstream.cl:1936 | <https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8> |
+| 105 | Radio America TV (720p) | v2.tustreaming.cl | <https://v2.tustreaming.cl/americamovil/index.m3u8> |
+| 106 | Radio Armonia TV (720p) | v2.tustreaming.cl | <https://v2.tustreaming.cl/armoniamovil/index.m3u8> |
+| 107 | Radio Popular TV | tv.arkeo.cl:19360 | <https://tv.arkeo.cl:19360/8052/8052.m3u8> |
+| 108 | Ritoque TV (720p) | streaming.purum.cl | <https://streaming.purum.cl/ritoquetv/index.m3u8> |
+| 109 | Rocco TV | 5ff3d9babae13.streamlock.net | <https://5ff3d9babae13.streamlock.net/wympnqeqts/wympnqeqts/playlist.m3u8> |
+| 110 | RTC Television | scl.edge.grupoz.cl | <https://scl.edge.grupoz.cl/rtcstreaming/live/playlist.m3u8> |
+| 111 | RTV Nuble | tv.arkeo.cl:1936 | <https://tv.arkeo.cl:1936/canalrtv/canalrtv/playlist.m3u8> |
+| 112 | Ruidos FM | tv1.ruidosfm.cl | <https://tv1.ruidosfm.cl/ruidostv/stream.m3u8> |
+| 113 | Sensacion Costa | tvcosta.gleeze.com | <https://tvcosta.gleeze.com/memfs/4d48db09-0b1e-4803-8da7-22be388bdd7e.m3u8> |
+| 114 | Temuco Television | mediacp.nnw.cl:19360 | <https://mediacp.nnw.cl:19360/temucotelevision/temucotelevision.m3u8> |
+| 115 | TV5 Linares (720p) | v1.tustreaming.cl | <https://v1.tustreaming.cl/tv5linares/index.m3u8> |
+| 116 | TV8 Concepcion | panel.tvstream.cl:1936 | <https://panel.tvstream.cl:1936/sdaumqtfqf/sdaumqtfqf/playlist.m3u8> |
 
-Updated at **Wed Jun 17 2026 20:18:16 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jun 18 2026 04:19:48 GMT+0000 (Coordinated Universal Time)**

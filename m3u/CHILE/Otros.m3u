@@ -83,3 +83,13 @@ https://5ff3d9babae13.streamlock.net/xedkektnqj/xedkektnqj/playlist.m3u8
 https://stmv2.voxtvhd.com.br/evavision/evavision/playlist.m3u8
 #EXTINF:-1 tvg-id="GVision.cl@SD",GVision (288p)
 https://videostream.chileservidores.com:8081/tome/index.m3u8
+#EXTINF:-1 tvg-id="Opinionsur.cl@SD",Opinionsur (720p)
+https://183.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/playlist.m3u8
+#EXTINF:-1 tvg-id="PacificoTelevision.cl@SD",Pacifico Television (720p)
+https://us.streaminghd.cl/pacificotelevision/video.m3u8
+#EXTINF:-1 tvg-id="RTCTelevision.cl@SD",RTC Television
+https://scl.edge.grupoz.cl/rtcstreaming/live/playlist.m3u8
+#EXTINF:-1 tvg-id="SensacionCosta.cl@SD",Sensacion Costa
+https://tvcosta.gleeze.com/memfs/4d48db09-0b1e-4803-8da7-22be388bdd7e.m3u8
+#EXTINF:-1 tvg-id="TemucoTelevision.cl@SD",Temuco Television
+https://mediacp.nnw.cl:19360/temucotelevision/temucotelevision.m3u8

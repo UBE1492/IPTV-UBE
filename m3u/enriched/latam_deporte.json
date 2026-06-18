@@ -1,6 +1,6 @@
 {
   "name": "latam_deporte",
-  "updated_at": 1781727495361,
+  "updated_at": 1781756386877,
   "m3u": "https://ube1492.github.io/IPTV-UBE/latam_deporte.m3u",
   "channels": [
     {
@@ -30,6 +30,12 @@
     {
       "name": "Fox Sports 2 (480p)",
       "url": "https://tvsen7.aynaott.com/foxsports2/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "beIN Sports USA (720p)",
+      "url": "http://23.237.104.106:8080/USA_BEIN/index.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -63,6 +69,12 @@
       {
         "name": "Fox Sports 2 (480p)",
         "url": "https://tvsen7.aynaott.com/foxsports2/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "beIN Sports USA (720p)",
+        "url": "http://23.237.104.106:8080/USA_BEIN/index.m3u8",
         "logo": "",
         "category": "Otros"
       }

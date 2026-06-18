@@ -1,6 +1,6 @@
 {
   "name": "es",
-  "updated_at": 1781727496454,
+  "updated_at": 1781756389004,
   "m3u": "https://ube1492.github.io/IPTV-UBE/es.m3u",
   "channels": [
     {
@@ -708,12 +708,6 @@
     {
       "name": "Teleganés (720p)",
       "url": "https://nlb2-live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Telemadrid (720p)",
-      "url": "https://telemadrid-23-secure2.akamaized.net/master.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -1605,12 +1599,6 @@
       {
         "name": "Teleganés (720p)",
         "url": "https://nlb2-live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Telemadrid (720p)",
-        "url": "https://telemadrid-23-secure2.akamaized.net/master.m3u8",
         "logo": "",
         "category": "Otros"
       },

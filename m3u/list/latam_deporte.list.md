@@ -9,5 +9,6 @@
 | 3 | ESPN Deportes (360p) | origin.thetvapp.to | <http://origin.thetvapp.to/hls/espn-deportes/mono.m3u8> |
 | 4 | Fox Sports 1 (1280p) | cors-proxy.cooks.fyi | <https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8> |
 | 5 | Fox Sports 2 (480p) | tvsen7.aynaott.com | <https://tvsen7.aynaott.com/foxsports2/index.m3u8> |
+| 6 | beIN Sports USA (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_BEIN/index.m3u8> |
 
-Updated at **Wed Jun 17 2026 20:18:15 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jun 18 2026 04:19:46 GMT+0000 (Coordinated Universal Time)**

@@ -116,4 +116,4 @@
 | 110 | Canal RCN (1080p) | IPv4 直链 | <http://138.121.15.230:9002/RCN/index.m3u8> |
 | 111 | Caracol TV (1080p) | IPv4 直链 | <http://138.121.15.230:9002/CARACOL/index.m3u8> |
 
-Updated at **Wed Jun 17 2026 20:18:16 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jun 18 2026 04:19:48 GMT+0000 (Coordinated Universal Time)**

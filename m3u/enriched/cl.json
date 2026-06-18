@@ -1,6 +1,6 @@
 {
   "name": "cl",
-  "updated_at": 1781727496154,
+  "updated_at": 1781756388244,
   "m3u": "https://ube1492.github.io/IPTV-UBE/cl.m3u",
   "channels": [
     {
@@ -564,6 +564,150 @@
     {
       "name": "La Melinkana TV (720p)",
       "url": "https://v1.tustreaming.cl/melinkana/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Longino TV",
+      "url": "https://cloud2.streaminglivehd.com:1936/longinotv-1/longinotv-1/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Maqui TV",
+      "url": "https://streamyes.alsolnet.com/maquiradio/live/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Marga Marga TV (720p)",
+      "url": "https://v1.tustreaming.cl/margamargatv/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Mi Radio TV",
+      "url": "https://scl.edge.grupoz.cl/miradio2/live/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Nada Es Imposible TV",
+      "url": "https://vdochile.com:3194/live/mvqutymylive.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Nativa TV",
+      "url": "https://origin-us.streaminghd.cl/nativatv/nativatv/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Nuevo Tiempo TV",
+      "url": "https://streamtv.novotempo.com/CDN-TV-ES/smil:tvnuevotiempo.smil/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Oli TV (1080p)",
+      "url": "https://v4.tustreaming.cl/retroplaytv/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Opinionsur (720p)",
+      "url": "https://183.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Osorno TV (720p)",
+      "url": "https://videostream.chileservidores.com:8081/osornotv/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Pacifico Television (720p)",
+      "url": "https://us.streaminghd.cl/pacificotelevision/video.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Portalfoxmix",
+      "url": "https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Radio America TV (720p)",
+      "url": "https://v2.tustreaming.cl/americamovil/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Radio Armonia TV (720p)",
+      "url": "https://v2.tustreaming.cl/armoniamovil/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Radio Popular TV",
+      "url": "https://tv.arkeo.cl:19360/8052/8052.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Ritoque TV (720p)",
+      "url": "https://streaming.purum.cl/ritoquetv/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Rocco TV",
+      "url": "https://5ff3d9babae13.streamlock.net/wympnqeqts/wympnqeqts/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "RTC Television",
+      "url": "https://scl.edge.grupoz.cl/rtcstreaming/live/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "RTV Nuble",
+      "url": "https://tv.arkeo.cl:1936/canalrtv/canalrtv/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Ruidos FM",
+      "url": "https://tv1.ruidosfm.cl/ruidostv/stream.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Sensacion Costa",
+      "url": "https://tvcosta.gleeze.com/memfs/4d48db09-0b1e-4803-8da7-22be388bdd7e.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Temuco Television",
+      "url": "https://mediacp.nnw.cl:19360/temucotelevision/temucotelevision.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "TV5 Linares (720p)",
+      "url": "https://v1.tustreaming.cl/tv5linares/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "TV8 Concepcion",
+      "url": "https://panel.tvstream.cl:1936/sdaumqtfqf/sdaumqtfqf/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -1131,6 +1275,150 @@
       {
         "name": "La Melinkana TV (720p)",
         "url": "https://v1.tustreaming.cl/melinkana/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Longino TV",
+        "url": "https://cloud2.streaminglivehd.com:1936/longinotv-1/longinotv-1/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Maqui TV",
+        "url": "https://streamyes.alsolnet.com/maquiradio/live/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Marga Marga TV (720p)",
+        "url": "https://v1.tustreaming.cl/margamargatv/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Mi Radio TV",
+        "url": "https://scl.edge.grupoz.cl/miradio2/live/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Nada Es Imposible TV",
+        "url": "https://vdochile.com:3194/live/mvqutymylive.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Nativa TV",
+        "url": "https://origin-us.streaminghd.cl/nativatv/nativatv/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Nuevo Tiempo TV",
+        "url": "https://streamtv.novotempo.com/CDN-TV-ES/smil:tvnuevotiempo.smil/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Oli TV (1080p)",
+        "url": "https://v4.tustreaming.cl/retroplaytv/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Opinionsur (720p)",
+        "url": "https://183.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Osorno TV (720p)",
+        "url": "https://videostream.chileservidores.com:8081/osornotv/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Pacifico Television (720p)",
+        "url": "https://us.streaminghd.cl/pacificotelevision/video.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Portalfoxmix",
+        "url": "https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Radio America TV (720p)",
+        "url": "https://v2.tustreaming.cl/americamovil/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Radio Armonia TV (720p)",
+        "url": "https://v2.tustreaming.cl/armoniamovil/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Radio Popular TV",
+        "url": "https://tv.arkeo.cl:19360/8052/8052.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Ritoque TV (720p)",
+        "url": "https://streaming.purum.cl/ritoquetv/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Rocco TV",
+        "url": "https://5ff3d9babae13.streamlock.net/wympnqeqts/wympnqeqts/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "RTC Television",
+        "url": "https://scl.edge.grupoz.cl/rtcstreaming/live/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "RTV Nuble",
+        "url": "https://tv.arkeo.cl:1936/canalrtv/canalrtv/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Ruidos FM",
+        "url": "https://tv1.ruidosfm.cl/ruidostv/stream.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Sensacion Costa",
+        "url": "https://tvcosta.gleeze.com/memfs/4d48db09-0b1e-4803-8da7-22be388bdd7e.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Temuco Television",
+        "url": "https://mediacp.nnw.cl:19360/temucotelevision/temucotelevision.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "TV5 Linares (720p)",
+        "url": "https://v1.tustreaming.cl/tv5linares/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "TV8 Concepcion",
+        "url": "https://panel.tvstream.cl:1936/sdaumqtfqf/sdaumqtfqf/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       }
