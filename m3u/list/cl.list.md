@@ -121,4 +121,4 @@
 | 115 | TV5 Linares (720p) | v1.tustreaming.cl | <https://v1.tustreaming.cl/tv5linares/index.m3u8> |
 | 116 | TV8 Concepcion | panel.tvstream.cl:1936 | <https://panel.tvstream.cl:1936/sdaumqtfqf/sdaumqtfqf/playlist.m3u8> |
 
-Updated at **Thu Jun 18 2026 10:25:01 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jun 18 2026 15:33:13 GMT+0000 (Coordinated Universal Time)**
