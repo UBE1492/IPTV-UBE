@@ -11,4 +11,4 @@
 | 5 | Fox Sports 2 (480p) | tvsen7.aynaott.com | <https://tvsen7.aynaott.com/foxsports2/index.m3u8> |
 | 6 | beIN Sports USA (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_BEIN/index.m3u8> |
 
-Updated at **Thu Jun 18 2026 15:33:13 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jun 18 2026 20:29:26 GMT+0000 (Coordinated Universal Time)**
