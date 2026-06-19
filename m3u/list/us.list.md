@@ -426,4 +426,4 @@
 | 420 | MTV (720p) | IPv4 直链 | <http://198.58.104.90:8989/mtv/index.m3u8> |
 | 421 | MTV2 (720p) | IPv4 直链 | <http://198.58.104.90:8989/mtv2/index.m3u8> |
 
-Updated at **Fri Jun 19 2026 04:47:40 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jun 19 2026 10:43:07 GMT+0000 (Coordinated Universal Time)**
