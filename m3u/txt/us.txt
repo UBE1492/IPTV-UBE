@@ -158,7 +158,6 @@ FilmRise_Classic_TV_(720p),https://d2tv4k5moji5m7.cloudfront.net/v1/master/3722c
 Flowers_TV_USA,https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
 FNX_(1080p),https://fnx.lls.pbs.org/index.m3u8
 Fox_Deportes_(1280p),https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
-Fox_News_Channel_(480p),http://41.205.93.154/FOX-NEWS/index.m3u8
 Fox_News_Channel_(144p),http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 Fox_News_Radio_(720p),https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
 Fox_Sports_1_(1280p),https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
@@ -413,7 +412,6 @@ NTD_TV_(1080p),https://ntd02.akamaized.net/HD-NY/index.m3u8
 Timeless_TV,https://timelesstv1-301f.kxcdn.com/hls/TimelessTV.m3u8
 Magnificent_Movies_Network,https://mmn1-301f.kxcdn.com/hls/MMN-HLS.m3u8
 MeTV_(720p),https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffbb4047a8143ac2166ead44/index.m3u8
-FXX_(720p),https://cdn.telecloud.tv/CH3255/index.m3u8
 Paramount_Network_(720p),http://rezofoot.tv/PARAMOUNT-CHANNEL/index.m3u8
 Lifetime_(720p),http://rezofoot.tv/LIFETIME/index.m3u8
 CNBC_(720p),http://rezofoot.tv/CNBC/index.m3u8
@@ -425,3 +423,4 @@ Oxygen_(720p),http://198.58.104.90:8989/oxygen/index.m3u8
 MTV_(720p),http://198.58.104.90:8989/mtv/index.m3u8
 MTV2_(720p),http://198.58.104.90:8989/mtv2/index.m3u8
 Star_Channel_Latin_America_(1080i),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+Cinecanal_(1080p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36

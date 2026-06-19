@@ -5,6 +5,8 @@ https://conectperu.com:7041/stream?icy=http
 https://sp.oyotunstream.com/9326/stream
 #EXTINF:-1 group-title="Música",Fidelisima
 https://st3.inkaniserver.net:8008/stream
+#EXTINF:-1 group-title="Música",Jazzcontempo
+http://conectperu.com:8048/stream.mp3
 #EXTINF:-1 group-title="Música",La voz de Oyotún
 https://sp.oyotunstream.com:10966/
 #EXTINF:-1 group-title="Música",Pachamama
@@ -12,27 +14,35 @@ https://servidor14-2.brlogic.com:8744/live
 #EXTINF:-1 group-title="Música",Radiomar Plus 106.3 Lima
 http://playerservices.streamtheworld.com/m3u/CRP_MARAAC.m3u
 #EXTINF:-1 group-title="Música",Súper Vip
-https://rautemusik.stream38.radiohost.de/charthits?upd-meta&upd-scheme=https&_art=dD0xNzY2MzM0MDkzJmQ9NGI1YmYxYjkxNTQwYzk3YzJmYzM
+https://rautemusik.stream43.radiohost.de/charthits?upd-meta&upd-scheme=https&_art=dD0xNzgxMjkwMjE3JmQ9YzE1NTlmMTFhYjBiZWMyMzhmNjg
 #EXTINF:-1 group-title="Música",Cadena Dance Perú
 https://sonic.streamingchilenos.com:8138
-#EXTINF:-1 group-title="Música",Codigo Binario
-http://streamingp.shoutcast.com/JamendoLounge?lang=*
 #EXTINF:-1 group-title="Música",Jose Luis Perez Albela
 https://streaming.brol.tech/rtfmlounge
 #EXTINF:-1 group-title="Música",RBC La Estación
 https://dattavolt.com/8366/stream
 #EXTINF:-1 group-title="Música",New Age Notes
-https://das-edge11-live365-dal03.cdnstream.com/a55861
+https://das-edge14-live365-dal02.cdnstream.com/a55861
 #EXTINF:-1 group-title="Música",MJM Radyo
 https://mfm.ice.infomaniak.ch/mfm-128
+#EXTINF:-1 group-title="Música",Radioactiva
+https://st3.inkaniserver.net:8052/stream
+#EXTINF:-1 group-title="Música",Metropolitana
+https://strw3.openstream.co/1126?aw_0_1st.collectionid%3D3972%26stationId%3D3972%26publisherId%3D1150%26k%3D1781290036
 #EXTINF:-1 group-title="Música",Sound Play
 https://dattavolt.com/8180/stream
+#EXTINF:-1 group-title="Música",Mega Mix
+https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/5fada56fe4e09508207a7951/playlist.m3u8?aid=5faaeb72f92d7b07dfe10181&pid=nOdoEG90MAc4ScKMwmdT04hq85B7xVXK&sid=Fe2RwzAMEX3oF0QWHK5ESCwNmnnn2MBN&uid=NDtBAA86ESd7A5XTdpDwOkF5ViOyfMRn&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1781376437502&ot=kTSNzQrUebPLA4m5Qqjkfw&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada56fe4e09508207a7951&listenerId=NDtBAA86ESd7A5XTdpDwOkF5ViOyfMRn
+#EXTINF:-1 group-title="Música",Melodía
+https://stream.radiomelodia.com.pe:8000/radio.mp3
 #EXTINF:-1 group-title="Música",Doble Nueve - LIVE
 https://conectperu.com:7000/stream?icy=http
+#EXTINF:-1 group-title="Música",Rede
+https://dattavolt.com:7139/live
 #EXTINF:-1 group-title="Música",Independencia
 https://sonic.dattassd.com/8172/stream
 #EXTINF:-1 group-title="Música",La Inolvidable
-https://26643.live.streamtheworld.com/DISNEY_PER_LM_SC
+https://26573.live.streamtheworld.com/DISNEY_PER_LM_SC
 #EXTINF:-1 group-title="Música",Victoria
 https://radio.sistemasandinos.org:10961/
 #EXTINF:-1 group-title="Música",Enmanuel
@@ -40,7 +50,7 @@ https://conectperu.com/8220/stream
 #EXTINF:-1 group-title="Música",Yaraví
 https://tupanel.info:2000/stream/radioyaravi/stream
 #EXTINF:-1 group-title="Música",JR
-https://us-b4-p-e-jn18-audio.cdn.mdstrm.com/live-audio-aw/5fada553978fe1080e3ac5ea/playlist.m3u8?aid=5faaeb72f92d7b07dfe10181&pid=Ycyf9YJ4k2SVcJLYrQYz2SiNOG1l3FCP&sid=OZ9MHxNJqnI929V8wCymN7Vqm4PdVy6C&uid=xyqiGwBN7cqkUfH6gbGDi6l9A6MEUFOq&es=us-b4-p-e-jn18-audio.cdn.mdstrm.com&ote=1766420322018&ot=D0Y8b8qauNFzvC8bT4yYNg&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada553978fe1080e3ac5ea&listenerId=xyqiGwBN7cqkUfH6gbGDi6l9A6MEUFOq
+https://us-b4-p-e-jn18-audio.cdn.mdstrm.com/live-audio-aw/5fada553978fe1080e3ac5ea/playlist.m3u8?aid=5faaeb72f92d7b07dfe10181&pid=J1WpGYizZEPVqUi0ZI4qIAFCT9VBiKv9&sid=kKT9qUcOFO4gSZGsfAmKevo42Dks6ioA&uid=SHIFFVUDVEEBjyG93T2V8qY5jaDAXa1r&es=us-b4-p-e-jn18-audio.cdn.mdstrm.com&ote=1781376440521&ot=cSO0TqUmd1atgmc3sTfpaA&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada553978fe1080e3ac5ea&listenerId=SHIFFVUDVEEBjyG93T2V8qY5jaDAXa1r
 #EXTINF:-1 group-title="Música",Stereo 1
 https://cloudstream.oppublicidad.com/8026/stream
 #EXTINF:-1 group-title="Música",Remembranzas del Criollismo
@@ -53,6 +63,8 @@ http://c22.radioboss.fm:8100/autodj
 http://cast.kodamastation.com:8000/radio.mp3
 #EXTINF:-1 group-title="Música",BBN Peru
 https://audio-edge-5bkfj.fra.h.radiomast.io/475ebed1-595e-4717-b888-64fe8fc6b09f
+#EXTINF:-1 group-title="Música",La Mega
+http://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/5fada56fe4e09508207a7951?aid=5faaeb72f92d7b07dfe10181&pid=KBnUDjMkBe7JkNL7Af1qaRB68qE9ctM8&sid=vhG7mWdLq8mNUrXOnI9an5g8Bcz8aHoK&uid=spdk0RGDHmnN6eGpl3R5nFz6Grv9Lhov&es=us-b4-p-e-qg12-audio.cdn.mdstrm.com&ote=1781376467343&ot=6oolIMhMvx18wJBSe43ESg&proto=http&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada56fe4e09508207a7951&listenerId=spdk0RGDHmnN6eGpl3R5nFz6Grv9Lhov
 #EXTINF:-1 group-title="Música",RCC Lima
 https://radio.rcclima.org.pe/listen/rcc_lima/radio.mp3
 #EXTINF:-1 group-title="Música",AeroOnline
@@ -61,6 +73,10 @@ https://conectperu.com:7025/stream
 https://conectperu.com:7000/stream
 #EXTINF:-1 group-title="Música",Doble Nueve  -  Heritage
 https://conectperu.com:7002/stream
+#EXTINF:-1 group-title="Música",Doble Nueve  -  Millennial
+https://conectperu.com:7001/stream
+#EXTINF:-1 group-title="Música",Fuego Mix
+http://radio.sistemasandinos.org:7166
 #EXTINF:-1 group-title="Música",Ovacion
 http://stream9.mexiserver.com:8242/
 #EXTINF:-1 group-title="Música",Doble Nueve - MILLENNIAL
@@ -81,6 +97,8 @@ https://rr5100.globalhost1.com/8264/stream
 https://dattavolt.com/8132/stream
 #EXTINF:-1 group-title="Música",Fama Sur – PE
 http://oyotunstream.com:9326/stream
+#EXTINF:-1 group-title="Música",Fuego Mix – PE-ARE
+http://radio.sistemasandinos.org:7166/
 #EXTINF:-1 group-title="Música",Sentimiento Andino – Trujillo – PE-LAL
 https://rr5100.globalhost1.com/8572/stream
 #EXTINF:-1 group-title="Música",Nora Noryta – PE-LIM
@@ -89,8 +107,6 @@ https://radioenlinea.click:8110/radio.mp3
 http://puroradio.net:8002/stream.mp3
 #EXTINF:-1 group-title="Música",Remembranzas del Criollismo – PE
 https://sonic.sistemahost.es:7045
-#EXTINF:-1 group-title="Música",Estrella Supermercados – Camaná – PE-ARE
-https://streamingp.shoutcast.com/JamendoLounge?lang=*
 #EXTINF:-1 group-title="Música",RPM – Cuarto Poder – Yunguyo – PE-PUN
 https://radiosonline.one/listen/rpm/radio.mp3
 #EXTINF:-1 group-title="Música",Antena Sur Chincheros – Andahuaylas – PE-APU
@@ -109,12 +125,14 @@ https://sonic.portalfoxmix.club:7130/
 https://radio.sistemasandinos.org:10905/stream
 #EXTINF:-1 group-title="Música",Vida Nueva Radio, Trujillo
 https://fpsnew2.listen2myradio.com:2199/listen.php?ip=212.84.160.3\u0026port=8924\u0026type=s2\u0026mount=1
+#EXTINF:-1 group-title="Música",Studio 1
+https://sp.dattavolt.com:7049/stream.nsv
 #EXTINF:-1 group-title="Música",Libertad Online
 https://sechin.grupocentroserver.com/radio/8020/radio.mp3
 #EXTINF:-1 group-title="Música",KOOL FLASHBACK
 https://radio.sistemasandinos.org/7354/stream
 #EXTINF:-1 group-title="Música",JVM la Estación
-http://jvmlaestacion.stream.laut.fm/jvmlaestacion?t302=2025-12-21_16-30-24&uuid=2e45f943-3a82-4631-a394-c8b03b969aae
+http://jvmlaestacion.stream.laut.fm/jvmlaestacion?t302=2026-06-12_18-59-10&uuid=e27bc21b-0a31-400a-96ba-f65e04586023
 #EXTINF:-1 group-title="Música",RPP Mundial
 https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/5faee885eb830d06cf22ed4a?aid=5faaeb72f92d7b07dfe10181&pid=y9eerynDMGplJvZGzhhhxeiGZQ8qxJ0x&sid=YwdhPDrccA5iNGXcasTljS59bjbzamjZ&uid=1zfBrEVff0K0jT1nL7yI2op7rxXgppL0&es=us-b4-p-e-pb13-audio.cdn.mdst
 #EXTINF:-1 group-title="Música",RPP Mundial (Perú)
@@ -136,11 +154,7 @@ https://ec5.yesstreaming.net:1490/stream
 #EXTINF:-1 group-title="Música" tvg-logo="https://radiostationslive.com/uploads/2024/01/95190.v11.png",KISS FM, Cajamarca
 https://panelautodj.innovatestream.pe:10829/
 #EXTINF:-1 group-title="Música",Panamericana Salsa Power
-https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/6598b751261d9e088a6deadd?aid=658ddcc0b2c7835d48fee06d&pid=uub6n2bt1dwhexOjSNEg7p8MCnPDaai2&sid=kfEnteyb7IoMnp77gab1aIO1MW6UINCO&uid=wAcBfojJprgJqGUaozeubWjoEbrMuDw2&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1769973298831&ot=ij6mzyoZhTlqQmm4s-m5kA&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b751261d9e088a6deadd&listenerId=wAcBfojJprgJqGUaozeubWjoEbrMuDw2
-#EXTINF:-1 group-title="Música",Onda Cero Te Activa
-https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/6598b65ab398c90871aff8cc?aid=658ddcc0b2c7835d48fee06d&pid=pErBsQIKgMqbGUsc3CPjsGywZCcTjFMr&sid=BdR91dCdI1k6TIioStlCPesbYRddyJtJ&uid=uqjtqPFeTmM5V8LSP8or4JU490HBdCUm&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1769973300339&ot=lDW2j3mIGn2kMiI_NiMvEg&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b65ab398c90871aff8cc&listenerId=uqjtqPFeTmM5V8LSP8or4JU490HBdCUm
-#EXTINF:-1 group-title="Música",peru cumbia
-https://servistream.info:8330/stream
+https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/6598b751261d9e088a6deadd?aid=658ddcc0b2c7835d48fee06d&pid=ndju9UFod0lYqMruZduLQHUdIF0R3cVP&sid=zypH4EA2lCeiQDmfrcbVHotQQIuXfIPe&uid=6xso72WcNOx95AjPMcAXUYSkB14f1Sd4&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1781377205301&ot=gPG50vtB_7wOFQWRqoUdRw&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b751261d9e088a6deadd&listenerId=6xso72WcNOx95AjPMcAXUYSkB14f1Sd4
 #EXTINF:-1 group-title="Música",Melodia Arequipa
 http://stream.radiomelodia.com.pe:8000/radio.mp3
 #EXTINF:-1 group-title="Música",La Kalle 96.1 Lima
@@ -151,8 +165,6 @@ https://karibena.egostreaming.pe/radio/6898b6e52d9e088a6de159/
 http://ramcusco.stream.laut.fm/ramcusco?t302=2026-01-15_01-10-35&uuid=aee0051b-f27d-4062-9145-3d93ea7887d1
 #EXTINF:-1 group-title="Música",JVM la Estación (Cusco)
 https://jvmlaestacion.stream.laut.fm/jvmlaestacion?t302=2026-01-15_04-34-56&uuid=09ed593b-f76a-4a34-98b6-daca2d17a37b
-#EXTINF:-1 group-title="Música",La Nube 91.9
-https://us-b4-p-e-jn18-audio.cdn.mdstrm.com/live-audio-aw/6598b70f86344b02b58ce836?aid=658ddcc0b2c7835d48fee06d&pid=DTtOkkApRjRrF1R30rDpTCAPMQhSmzVC&sid=BNJm9c1etdoUU31Rbf1CCNpARThqumbN&uid=TVUALP2vbc0HjX4eym2RooZIWFx9CNzn&es=us-b4-p-e-jn18-audio.cdn.mdstrm.com&ote=1769973304166&ot=Vf1OvCX1sBPVvx-BnfuS1w&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b70f86344b02b58ce836&listenerId=TVUALP2vbc0HjX4eym2RooZIWFx9CNzn
 #EXTINF:-1 group-title="Música",Filarmonía
 https://c22.radioboss.fm:8100/stream
 #EXTINF:-1 group-title="Música",Frecuencia 100 101.9

@@ -1,6 +1,6 @@
 {
   "name": "cl",
-  "updated_at": 1781814567761,
+  "updated_at": 1781844460573,
   "m3u": "https://ube1492.github.io/IPTV-UBE/cl.m3u",
   "channels": [
     {
@@ -708,6 +708,36 @@
     {
       "name": "TV8 Concepcion",
       "url": "https://panel.tvstream.cl:1936/sdaumqtfqf/sdaumqtfqf/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Wapp (720p)",
+      "url": "https://stream.wapptv.cl/video/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Uniregion TV",
+      "url": "https://5ff3d9babae13.streamlock.net/ubyecbxnfd/ubyecbxnfd/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Verso TV",
+      "url": "https://verso.coopcom.cl/live/SHf6GLCpn4hDSpWdzaDzgX0ciU82/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Vivo TV",
+      "url": "https://5eaccbab48461.streamlock.net:1936/8264/8264/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "TV+ (1080p)",
+      "url": "https://jireh-8-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -1419,6 +1449,36 @@
       {
         "name": "TV8 Concepcion",
         "url": "https://panel.tvstream.cl:1936/sdaumqtfqf/sdaumqtfqf/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Wapp (720p)",
+        "url": "https://stream.wapptv.cl/video/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Uniregion TV",
+        "url": "https://5ff3d9babae13.streamlock.net/ubyecbxnfd/ubyecbxnfd/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Verso TV",
+        "url": "https://verso.coopcom.cl/live/SHf6GLCpn4hDSpWdzaDzgX0ciU82/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Vivo TV",
+        "url": "https://5eaccbab48461.streamlock.net:1936/8264/8264/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "TV+ (1080p)",
+        "url": "https://jireh-8-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       }

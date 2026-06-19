@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Música",Radio Programas del Perú
-https://us-b4-p-e-ml19-audio.cdn.mdstrm.com/live-audio-aw/5fab3416b5f9ef165cfab6e9/playlist.m3u8?aid=5faaeb72f92d7b07dfe10181&pid=m89CNvoj1CtfP3e7gUlEBhtXpPJDL6G7&sid=bqDv2UimJic6GkpyvB3lW0qIlYBqcRS6&uid=RX9PtqH5aMJEL0FPMR4mUGyVyxp3nUm8&es=us-b4-p-e-ml19-audio.cdn.mdstrm.com&ote=1766420155064&ot=ebddLgUn5R1IoJ_vQ-mlvA&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fab3416b5f9ef165cfab6e9&listenerId=RX9PtqH5aMJEL0FPMR4mUGyVyxp3nUm8
+https://us-b4-p-e-ml19-audio.cdn.mdstrm.com/live-audio-aw/5fab3416b5f9ef165cfab6e9/playlist.m3u8?aid=5faaeb72f92d7b07dfe10181&pid=Q118Y1klGmVijJPHTMw9z7c1TiEu26Fh&sid=IYGagAPVzX8CQWuhA7flKXrBLzYrMhiv&uid=0C2eN0m4icwqTkeFhs6FXISfd94seTVf&es=us-b4-p-e-ml19-audio.cdn.mdstrm.com&ote=1781376288779&ot=jps6invBb4mA4vaBqSETBA&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fab3416b5f9ef165cfab6e9&listenerId=0C2eN0m4icwqTkeFhs6FXISfd94seTVf
 #EXTINF:-1 group-title="Música",Bossa Nova Perú Radio
 https://conectperu.com/8158/stream
 #EXTINF:-1 group-title="Música",Kpopway Radio
@@ -15,10 +15,18 @@ https://radio.perustream.com:7000/stream
 https://conectperu.com/8354/stream
 #EXTINF:-1 group-title="Música",Radio - Congreso del Perú
 https://vivo.miradio.in/8048/stream
+#EXTINF:-1 group-title="Música",Radio Agricultura (Cajamarca)
+https://envivo.top:8443/agricultura
+#EXTINF:-1 group-title="Música",Radio Armonía
+https://radio.sistemasandinos.org:10978/
 #EXTINF:-1 group-title="Música",Radio Azul
 https://dattavolt.com/8212/stream
+#EXTINF:-1 group-title="Música",Radio Bambamarca "Frecuencia Líder" (1020 AM)
+https://envivo.top:8443/lider
+#EXTINF:-1 group-title="Música",Radio Buenaza 102.9 FM
+https://sp.dattavolt.com:7033/
 #EXTINF:-1 group-title="Música",Radio Corazón (94.3 FM Lima)
-https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/5fada514fc16c006bd63370f?aid=5faaeb72f92d7b07dfe10181&pid=mm2RiF3Ii2Ib1BNIFmQVZ7pJgz9gUIsO&sid=NmNlGBXPBq8RLiJN7MNaBUCNlvEBHXkq&uid=Vg3Df1jF9Wc3n9yce2zltKMPlRLk3yGb&es=us-b4-p-e-qg12-audio.cdn.mdstrm.com&ote=1766420167400&ot=MeTOQcfiTpDciVg62ZMwZg&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada514fc16c006bd63370f&listenerId=Vg3Df1jF9Wc3n9yce2zltKMPlRLk3yGb
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5fada514fc16c006bd63370f?aid=5faaeb72f92d7b07dfe10181&pid=agEjpswsUL4k7GbDsd6yoxH3aWfwonoY&sid=uX6MdIXeCtPFsP3LGDtXGwVa9Q6c3FRP&uid=rYdEHLMI3MtEjkz7so15OGFVOi3KMgp0&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1781376300200&ot=JXi6F_KLjaQrfIUVQk6sSg&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada514fc16c006bd63370f&listenerId=rYdEHLMI3MtEjkz7so15OGFVOi3KMgp0
 #EXTINF:-1 group-title="Música",Radio Coremarca
 https://sonicpanel.streaming10.net/7044/stream
 #EXTINF:-1 group-title="Música",Radio Del Progreso
@@ -35,24 +43,34 @@ http://oyotunstream.com:7066/
 https://radio.sistemasandinos.org/7412/stream
 #EXTINF:-1 group-title="Música",Radio Galáctica
 https://sonic.dattassd.com:10949/stream?icy=http
+#EXTINF:-1 group-title="Música",Radio Galaxia (99.9 FM, Moquegua)
+https://st3.inkaniserver.net:8096/stream
 #EXTINF:-1 group-title="Música",Radio Girasol
 https://miradioperu.com/8008/stream
 #EXTINF:-1 group-title="Música",Radio Huancayo
 https://cloud9.ldwebstudios.net:7000/
+#EXTINF:-1 group-title="Música",Radio Inka Power
+https://sonic.dattassd.com:10952/stream?icy=http
 #EXTINF:-1 group-title="Música",Radio JHC 107.7 FM
 https://sp.oyotunstream.com:10979/
 #EXTINF:-1 group-title="Música",Radio JR (88.7, Arequipa)
 https://tupanel.info:2000/stream/radiojr/stream
 #EXTINF:-1 group-title="Música",Radio La Inolvidable (OBT-4C, 93.7 MHz FM, Lima)
 https://provisioning.streamtheworld.com/pls/CRP_LI.pls
+#EXTINF:-1 group-title="Música",Radio La Mega
+https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/5fada56fe4e09508207a7951?aid=5faaeb72f92d7b07dfe10181&pid=L6m12qpPb2Sohz9lnXIUbWwtmH1X7x95&sid=MFR0AQTSqj5i1MLkhhoSuLKiSF3ZUDgg&uid=JZtawCXOnrfxLiHguHimlyDIglsTPWKs&es=us-b4-p-e-qg12-audio.cdn.mdstrm.com&ote=1781376306582&ot=IealeY01zoFds_hFJn2n4A&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada56fe4e09508207a7951&listenerId=JZtawCXOnrfxLiHguHimlyDIglsTPWKs
 #EXTINF:-1 group-title="Música",RADIO LA MEGA 96.7 FM (PERU)
 https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/5fada56fe4e09508207a7951?
+#EXTINF:-1 group-title="Música",Radio La Norteña
+https://radio.livestreamingmundial.com:7060/live
 #EXTINF:-1 group-title="Música",Radio La Unika
 https://cloud9.ldwebstudios.net:7011/
 #EXTINF:-1 group-title="Música",Radio La Zona (90.5 FM, Lima)
-https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/5fada54116646e098d97e6a5?aid=5faaeb72f92d7b07dfe10181&pid=X6ggHA2BEf11u648CJ7XZC6ovxdNSQdl&sid=h4ULDcIW9klR4haIxpLFK6711DUAsyQi&uid=DzfgtkQum3x5wzinQdFAyy7y83nvtXZJ&es=us-b4-p-e-qg12-audio.cdn.mdstrm.com&ote=1766420177041&ot=2sb5XJuEiRPTCyu1MEuxFA&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada54116646e098d97e6a5&listenerId=DzfgtkQum3x5wzinQdFAyy7y83nvtXZJ
+https://us-b4-p-e-ml19-audio.cdn.mdstrm.com/live-audio-aw/5fada54116646e098d97e6a5?aid=5faaeb72f92d7b07dfe10181&pid=IwuQZLp9ptoGUmXVminzP9zqOZ1KtfM2&sid=DwCpgh9v6zZfwzKUmOx4CwWluhFWY8qb&uid=dOZLYG5Y3VcMlZY5F4ggyVJ120NZy0qy&es=us-b4-p-e-ml19-audio.cdn.mdstrm.com&ote=1781376307786&ot=tWtr3Lv_AKZVSZhzXZIdKA&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada54116646e098d97e6a5&listenerId=dOZLYG5Y3VcMlZY5F4ggyVJ120NZy0qy
 #EXTINF:-1 group-title="Música",Radio Latidos 94.7 FM (Huaral)
 https://radio.pjcks.com/9944/stream
+#EXTINF:-1 group-title="Música",Radio Latina (Huancavelica)
+http://corporacionlatina.com:7004/
 #EXTINF:-1 group-title="Música",Radio Level Hits
 http://ip.peruhits.com:7234/
 #EXTINF:-1 group-title="Música",Radio Llata 92.3 (Huánuco)
@@ -81,14 +99,20 @@ https://dattavolt.com/8090/
 https://cloud9.ldwebstudios.net:7005/
 #EXTINF:-1 group-title="Música",Radio Oriente
 https://sonic.dattassd.com/9312/stream
+#EXTINF:-1 group-title="Música",Radio Oxígeno
+https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/5fab0687bcd6c2389ee9480c/playlist.m3u8?aid=5faaeb72f92d7b07dfe10181&pid=nyBNF8Hua0FQb98aqJgZt7HfWrr43jQ2&sid=Jlrt1nU810TxCk1whc9ABs2iMdNaiqre&uid=jhlhittk3q36qVLA3mufwgZ9hpUmC1IL&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1781376309461&ot=KOd4BD41BMepK4fIIOXUlw&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fab0687bcd6c2389ee9480c&listenerId=jhlhittk3q36qVLA3mufwgZ9hpUmC1IL
 #EXTINF:-1 group-title="Música",Radio Paraíso
 https://radio.sistemasandinos.org/7150/stream
 #EXTINF:-1 group-title="Música",Radio Planeta (OCZ-4L, 107.7 MHz FM, Lima)
 http://playerservices.streamtheworld.com/pls/CRP_PLA.pls
+#EXTINF:-1 group-title="Música",Radio Poder Inka 92.1 FM
+https://radio.livestreamingmundial.com:7094/live
 #EXTINF:-1 group-title="Música",Radio Positiva Tacna
 http://sp.oyotunstream.com:8034/
 #EXTINF:-1 group-title="Música",Radio Pucallpa
 https://sp.dattavolt.com/8026/stream
+#EXTINF:-1 group-title="Música",Radio Regional Sicusani
+https://conectperu.com:7106/
 #EXTINF:-1 group-title="Música",Radio Ritmo Romántica
 http://playerservices.streamtheworld.com/pls/CRP_RIT.pls
 #EXTINF:-1 group-title="Música",Radio San Martín
@@ -112,15 +136,17 @@ http://conectperu.com:8082/stream
 #EXTINF:-1 group-title="Música",Sin Mordaza FM
 https://radio.livestreamingmundial.com/9350/stream
 #EXTINF:-1 group-title="Música",Studio 92 (92.5 FM Lima)
-https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5fada553978fe1080e3ac5ea?aid=5faaeb72f92d7b07dfe10181&pid=NZchZUIQxsFzD3KtnBhYY80d9WRM2xsU&sid=00r5HXsAAf7uWxlMatzXiKrjJpTBTrSl&uid=9AfEyYTZvukvTxxpCNr2T3iWALDo9UdT&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1766420192560&ot=4A2ADOZTF94U9Sa7V6iTjQ&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada553978fe1080e3ac5ea&listenerId=9AfEyYTZvukvTxxpCNr2T3iWALDo9UdT
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5fada553978fe1080e3ac5ea?aid=5faaeb72f92d7b07dfe10181&pid=3rW9m20UTXTmQ08t43npx89zrhx24lny&sid=PNS56g887nIr57OVCtsVNUR0gvwstYYd&uid=jYt3jEEJ8OvVlQT9MQ2VdVb1JO9d2ulU&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1781376316771&ot=oiixmcL5FnZcf67qL1rerA&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada553978fe1080e3ac5ea&listenerId=jYt3jEEJ8OvVlQT9MQ2VdVb1JO9d2ulU
 #EXTINF:-1 group-title="Música",Zona Latina 97.1 FM
 https://sp.onliveperu.com:7021/stream
-#EXTINF:-1 group-title="Música",Chicha Radio
-http://stream.radioshd.info:9376/
 #EXTINF:-1 group-title="Música",Radio Latidos Peru
 http://ip.peruhits.com:7230/
+#EXTINF:-1 group-title="Música",Mas Radio
+http://centova.questreaming.com:4250/stream
 #EXTINF:-1 group-title="Música",Fans Radio
 https://sp.onliveperu.com/8148/stream
+#EXTINF:-1 group-title="Música",Radio Calor
+http://corporacionlatina.com:8000
 #EXTINF:-1 group-title="Música",Radio Antena10
 http://miradioperu.com:9970/stream/
 #EXTINF:-1 group-title="Música",Top Latino Radio
@@ -129,36 +155,26 @@ http://online.radiodifusion.net:8020/
 http://radio.sistemasandinos.org:7084/
 #EXTINF:-1 group-title="Música",Radio Tacna
 http://conectperu.com:8024/stream/
-#EXTINF:-1 group-title="Música",Radio Hurakan
-https://sp.onliveperu.com/8038/stream/
+#EXTINF:-1 group-title="Música",RADIO DISCO Peru
+https://sonica.cloudstreaming.eu:10968/stream.nsv
+#EXTINF:-1 group-title="Música",Radio Armonia 91.7
+http://radio.sistemasandinos.org:7146/
 #EXTINF:-1 group-title="Música",Sensacion Radio
 https://conectperu.com:7108/
 #EXTINF:-1 group-title="Música",Radio Stereo Network
 https://sonicpanel.globalstream.pro:10934/
-#EXTINF:-1 group-title="Música",Radio Libertad de Junin
-http://radio.transmite.pe:9342/stream
 #EXTINF:-1 group-title="Música",Radio La Luz
 https://cdn.instant.audio/images/countries/peru.ico
-#EXTINF:-1 group-title="Música",Radio Inkafuego
-https://radiohd.us/8022/stream
-#EXTINF:-1 group-title="Música",Radio Pucajirca
-https://radio.sistemasandinos.org/7180/stream
-#EXTINF:-1 group-title="Música",WebR Radio
-https://s3.radio.co/s99c3ad220/listen
 #EXTINF:-1 group-title="Música",Radio Terra
 http://centova.radios.pt:9404/stream?type=.mp3
 #EXTINF:-1 group-title="Música",Senal Pirata Radio
 https://conectperu.com/8082/stream
-#EXTINF:-1 group-title="Música",Mi Radio Peruana
-https://servidor14-2.brlogic.com:7436/live
 #EXTINF:-1 group-title="Música",Radio MegamixFM94
 https://radio.perustream.com/8002/stream?1601983992033
 #EXTINF:-1 group-title="Música",Radio Go Latino
 https://antonyokumura.radioca.st/stream
 #EXTINF:-1 group-title="Música",Radio Retro Peru
 https://stream2.eistreaming.com:10992/
-#EXTINF:-1 group-title="Música",Gaceta Ucayalina Radio
-https://station.gacetaucayalina.com/radio/8000/radio.mp3
 #EXTINF:-1 group-title="Música",Radio Onda Digital
 https://conectperu.com/8180/stream
 #EXTINF:-1 group-title="Música",Amer Radio Tv
@@ -191,12 +207,8 @@ https://whmsonic.playerfullhd.com/8214/stream
 https://sp.oyotunstream.com/9352/stream
 #EXTINF:-1 group-title="Música",Radio Mil
 https://conectperu.com/8252/stream
-#EXTINF:-1 group-title="Música",RADIO IDENTIDAD FM (MOLLENDO)
-http://genexservicios.com:8284/stream?icy=https&type=.flv
 #EXTINF:-1 group-title="Música",Radio Frecuencia Primera
 http://ur58.lorini.net:10999/exitosccs.mp3
-#EXTINF:-1 group-title="Música",RADIO VICTORIA EN CRISTO
-https://server.streamingradios.net:7013/type=mp3
 #EXTINF:-1 group-title="Música",ActivaVida Radio
 https://sp1.streamingssl.com/8018/stream
 #EXTINF:-1 group-title="Música",Alegria Radio
@@ -225,6 +237,8 @@ https://sonic.dattassd.com/2002/stream
 https://sonic.dattassd.com/9162/stream
 #EXTINF:-1 group-title="Música",Radio Del Callao
 https://conectperu.com/8084/stream
+#EXTINF:-1 group-title="Música",Radio Estudio 99
+https://sonic.dattassd.com:10813/1/1
 #EXTINF:-1 group-title="Música",Radio Frecuencia Popular
 https://sp.oyotunstream.com:7001/
 #EXTINF:-1 group-title="Música",Radio Git Uripa
@@ -255,6 +269,8 @@ https://radio.sistemasandinos.org/7420/stream
 https://dattavolt.com:7066/
 #EXTINF:-1 group-title="Música",Radio San Martin
 https://conectperu.com:7020/stream
+#EXTINF:-1 group-title="Música",Radio San Pedro FM
+https://conectperu.com:7101/
 #EXTINF:-1 group-title="Música",Radio Urbana
 https://radio.sistemasandinos.org:10905//stream?icy=http
 #EXTINF:-1 group-title="Música",Super Color FM
@@ -265,6 +281,10 @@ http://streaming01.shockmedia.com.ar:9516/stream/
 http://st3.inkaniserver.net:8010/stream
 #EXTINF:-1 group-title="Música",Radio Victoria
 http://radio.sistemasandinos.org:7238/stream/
+#EXTINF:-1 group-title="Música",Jazz Contempo Radio
+http://conectperu.com:8048/stream/
+#EXTINF:-1 group-title="Música",Radio La Zona 90.5
+http://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/5fada54116646e098d97e6a5?aid=5faaeb72f92d7b07dfe10181&pid=A0mBgQvMUqeYUhQyrNHI4Mzrx0OUXzlT&sid=zXBAof1cZJXIMcPH6zj1c63DpolI0Nz3&uid=75xKwvR2kw0F2UMQgHG5Z3NA97TvgVrd&es=us-b4-p-e-qg12-audio.cdn.mdstrm.com&ote=1781376462372&ot=ZuU4SSz7OoIKlljSxVUd7w&proto=http&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada54116646e098d97e6a5&listenerId=75xKwvR2kw0F2UMQgHG5Z3NA97TvgVrd
 #EXTINF:-1 group-title="Música",Radio Reggae
 http://online.radiodifusion.net:8054/stream
 #EXTINF:-1 group-title="Música",Metropolitana Radio Peruna
@@ -279,6 +299,8 @@ http://radio.datahost.pe:9660/stream/
 https://conectperu.com/8058/stream/
 #EXTINF:-1 group-title="Música",Radio Alegria
 http://radio.sistemasandinos.org:7352/stream/
+#EXTINF:-1 group-title="Música",Radio Armonia
+http://radio.sistemasandinos.org:7146/stream/
 #EXTINF:-1 group-title="Música",Radio Onda Popular
 http://dattavolt.com:8278/stream/
 #EXTINF:-1 group-title="Música",Radio Tropical Tarapoto
@@ -295,6 +317,8 @@ http://stream.radiomelodia.com.pe:8010/radio.mp3
 http://tupanel.info:7040/stream/
 #EXTINF:-1 group-title="Música",Radio Sinaí Alternativa
 https://whmsonic.playerfullhd.com/8116/stream
+#EXTINF:-1 group-title="Música",Maxima FM Peru
+http://conectperu.com:8132/stream/
 #EXTINF:-1 group-title="Música",Radio Shilipoder
 http://mediastreamm.com/shilipoder/
 #EXTINF:-1 group-title="Música",Radio Sol
@@ -305,16 +329,18 @@ http://eu1.serviaudio.com:8066/stream/
 http://5.161.107.217:8058/stream
 #EXTINF:-1 group-title="Música",Millenium Radio Lamas
 http://shoutcast.tmcreativos.com:8024/stream
+#EXTINF:-1 group-title="Música",Radio La Preferida
+http://dattavolt.com:8144/stream/
 #EXTINF:-1 group-title="Música",Radio Peruanisima
 http://stream10.usastreams.com:9348/stream
 #EXTINF:-1 group-title="Música",Señal Pirata Radio
 http://conectperu.com:8082/stream/
 #EXTINF:-1 group-title="Música",Radio Corazón
-http://us-b4-p-e-ml19-audio.cdn.mdstrm.com/live-audio-aw/5fada514fc16c006bd63370f?aid=5faaeb72f92d7b07dfe10181&pid=aBq9j1foLoIcArqHbv4q7uRiojnioctd&sid=KrTZVekuOe9BlmFv7MOwrDoCCI6SIAqG&uid=zlXcDiMSnlXkmnfM7cZUQvBaCCLEnUsR&es=us-b4-p-e-ml19-audio.cdn.mdstrm.com&ote=1766420355409&ot=tAqiMq9ivF9LjQPKoJaGjQ&proto=http&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada514fc16c006bd63370f&listenerId=zlXcDiMSnlXkmnfM7cZUQvBaCCLEnUsR
+http://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/5fada514fc16c006bd63370f?aid=5faaeb72f92d7b07dfe10181&pid=IQ7o3SJT9vqTJO2JOc8zYcZbxrMOHGIp&sid=QjbqJfYiRv1W5tHgyS2ipTtY7L5wpgbE&uid=KJOydT77HBYszZ3Dy8rWyaPNQcX1Fvqw&es=us-b4-p-e-qg12-audio.cdn.mdstrm.com&ote=1781376467753&ot=muTf3q-rXnNOFVWrJI-sGA&proto=http&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada514fc16c006bd63370f&listenerId=KJOydT77HBYszZ3Dy8rWyaPNQcX1Fvqw
 #EXTINF:-1 group-title="Música",Red Radio Integridad 700
 http://dattavolt.com:8164/stream/
 #EXTINF:-1 group-title="Música",Radio Super Vip
-http://rautemusik.stream43.radiohost.de/charthits?upd-meta&upd-scheme=http&_art=dD0xNzY2MzM0MjU2JmQ9Nzc5MGJmNTVmNTYxYzJkOTcwM2Y
+http://rautemusik.stream48.radiohost.de/charthits?upd-meta&upd-scheme=http&_art=dD0xNzgxMjkwMzY4JmQ9YTQwN2ExYzk2ZWYyZjIyNWFiMmE
 #EXTINF:-1 group-title="Música",Radio Exito Peru
 http://67.212.179.138:7200/stream/
 #EXTINF:-1 group-title="Música",El Sembrador 590 AM
@@ -323,6 +349,8 @@ https://panel.streamenviron.com:8158/stream.mp3
 http://sonic.dattassd.com:4062/stream
 #EXTINF:-1 group-title="Música",La Nueva Restauracion Radio FM
 http://stm.gmpro.top:7052/
+#EXTINF:-1 group-title="Música",InClub Radio
+http://conectperu.com:8018/stream/
 #EXTINF:-1 group-title="Música",Radio Amor por Cable
 http://conectperu.com:8224/stream/
 #EXTINF:-1 group-title="Música",Jesús Vive Radio Peru
@@ -365,6 +393,8 @@ http://sp.onliveperu.com:8010/stream/
 http://sonic01.instainternet.com:8032/stream/
 #EXTINF:-1 group-title="Música",Radio Huracán
 http://radio.sistemasandinos.org:7158/stream/
+#EXTINF:-1 group-title="Música",Radio Inka Tropical
+http://centova.perustream.com:8004/stream/
 #EXTINF:-1 group-title="Música",Radio JHC
 https://sp.oyotunstream.com:10979/stream/
 #EXTINF:-1 group-title="Música",Radio Karicia Tarapoto
@@ -375,24 +405,26 @@ http://ip.peruhits.com:7230/stream/
 http://94.23.159.187:9950/stream/
 #EXTINF:-1 group-title="Música",Radio Patamarca FM 100.7
 http://radio.transmite.pe:9400/stream/
-#EXTINF:-1 group-title="Música",Radio Satélite 100.7 FM
-http://conectperu.com:8166/stream/
+#EXTINF:-1 group-title="Música",Radio Qorilazo
+http://serviaudio.com:9856/stream/
+#EXTINF:-1 group-title="Música",Radio Regional 910 AM
+http://conectperu.com:8214/stream/
 #EXTINF:-1 group-title="Música",Radio Sensación Universe 97.7
 http://conectperu.com:8218/stream/
 #EXTINF:-1 group-title="Música",Radio Tabocas Mix 92.1 FM
 http://sp.onliveperu.com:8092/stream/
 #EXTINF:-1 group-title="Música",Radio Vida FM Cusco
 http://eu2.serviaudio.com:8020/stream/
+#EXTINF:-1 group-title="Música",Red Vida Radio
+http://radio.sistemasandinos.org:7192/stream/
 #EXTINF:-1 group-title="Música",Radio JVM la Estación
-https://jvmlaestacion.stream.laut.fm/jvmlaestacion?t302=2025-12-21_16-24-42&uuid=4c528fc0-7f09-4a90-a469-6a55ffd32f00
+https://jvmlaestacion.stream.laut.fm/jvmlaestacion?t302=2026-06-12_18-53-51&uuid=f96ea21f-ec0b-4007-8e6b-7a12ceefde81
 #EXTINF:-1 group-title="Música",Apurimeña 92.7 fm - Antabamba
 https://sonic.dattassd.com/4054/stream
-#EXTINF:-1 group-title="Música",Radio Urbana 95.7 La Mar - Ayacucho
-https://radio.rtvstreaming.com/8014/stream
 #EXTINF:-1 group-title="Música",Kiss FM
 https://laradiossl.online:10644/stream.nsv
 #EXTINF:-1 group-title="Música",La Vero Radio "Romantica"
-https://us-b4-p-e-ml19-audio.cdn.mdstrm.com/live-audio-aw/5fada54116646e098d97e6a5/playlist.m3u8?aid=5faaeb72f92d7b07dfe10181&pid=st0C4TjUJ5esa0EZywkeFZVajxBgUbX1&sid=DGbG3ODW4iW1NzwTtRXMuHDT7AYp4JWi&uid=FN8Fv5iGjaiUphwhvdZB9imqF5ujBiet&es=us-b4-p-e-ml19-audio.cdn.mdstrm.com&ote=1766420684659&ot=tdFtQ_lvFcwkA6mh8Q-5Lw&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada54116646e098d97e6a5&listenerId=FN8Fv5iGjaiUphwhvdZB9imqF5ujBiet
+https://us-b4-p-e-ml19-audio.cdn.mdstrm.com/live-audio-aw/5fada54116646e098d97e6a5/playlist.m3u8?aid=5faaeb72f92d7b07dfe10181&pid=2QNAAuhHlFlT82BeWh7gBQSAAHlU6QO2&sid=q487Lo492cWeu7lqOJtPyahrSKTw1Y5y&uid=MWA22ym1afz8Qn6VeQh3W03llTD6Nz79&es=us-b4-p-e-ml19-audio.cdn.mdstrm.com&ote=1781376833704&ot=1uzVV1GtQ4ZSirgw-GbcSw&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada54116646e098d97e6a5&listenerId=MWA22ym1afz8Qn6VeQh3W03llTD6Nz79
 #EXTINF:-1 group-title="Música",Metroploitanara Radio Peruna
 http://99.198.110.162:8130/
 #EXTINF:-1 group-title="Música",RADIO AMAZONICA
@@ -405,6 +437,8 @@ http://oyotunstream.com:60004/
 https://conectperu.com:7110/
 #EXTINF:-1 group-title="Música",Radio Ecuajey
 https://radio.plhradio.com:7000/
+#EXTINF:-1 group-title="Música",Radio Emmanuel
+http://conectperu.com:8216/stream/1/
 #EXTINF:-1 group-title="Música",Radio Exclusiva del Peru
 https://sp.oyotunstream.com/8042/
 #EXTINF:-1 group-title="Música",Radio KISS FM
@@ -429,8 +463,10 @@ https://sp.onliveperu.com:7003/
 http://c22.radioboss.fm:8100/stream
 #EXTINF:-1 group-title="Música",Radio Sensación
 https://evcast.mediacp.eu:2060/stream
+#EXTINF:-1 group-title="Música",Radio Calor Huancayo
+http://corporacionlatina.com:8000/
 #EXTINF:-1 group-title="Música",Radio Corazón (Peru)
-https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/5fada514fc16c006bd63370f/playlist.m3u8?aid=5faaeb72f92d7b07dfe10181&pid=2hNc8vYd68wWxwhj2fEyfxZimfTN303p&sid=1qhhlLH3Bn7GbZAVCVbO1Oymhp8Abwnt&uid=Ev06ubBsODclgfwnqT6mg4ntUwrOjspG&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1766420703627&ot=2BqMEXjFffGPGd7TbP7SCg&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada514fc16c006bd63370f&listenerId=Ev06ubBsODclgfwnqT6mg4ntUwrOjspG
+https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/5fada514fc16c006bd63370f/playlist.m3u8?aid=5faaeb72f92d7b07dfe10181&pid=C54a9nRuoYy9w4J47T6kLQYkdTvzixQS&sid=S2dkAm3W157tqyRlOCvGktf3t7sxDfGO&uid=Aoqj2jOzly5roaTOxYkx0LMV9gQkxmG7&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1781376853409&ot=t7osv2CpSbYhFI3QlhgjBg&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada514fc16c006bd63370f&listenerId=Aoqj2jOzly5roaTOxYkx0LMV9gQkxmG7
 #EXTINF:-1 group-title="Música",Radio Satélite Callao
 https://cloudstream2032.conectarhosting.com/9558/stream
 #EXTINF:-1 group-title="Música",Radio Patamarca FM
@@ -455,6 +491,8 @@ https://dattavolt.com/8214/stream
 http://radio.datahost.pe:9660/stream
 #EXTINF:-1 group-title="Música",Radio Ondas del Rio Mayo – 105.7 FM – PE-LIM
 https://sp.onliveperu.com/8090/stream/1/
+#EXTINF:-1 group-title="Música",Radio Maz TV – PE-CAJ
+https://conectperu.com:7139/
 #EXTINF:-1 group-title="Música",Radio Unsj 93.1 FM – 93.1 FM – San Juan – PE-CAJ
 https://streaming.radiosenlinea.com.ar/cp/links.php?p=8122&m=pls
 #EXTINF:-1 group-title="Música",MÁXIMA FM – Barranca – Lima region – PE
@@ -467,24 +505,38 @@ https://xxdelgado.radioca.st
 http://sh1.radioonlinehd.com:8066/
 #EXTINF:-1 group-title="Música",Radio Onda Sureña – PE
 https://sonicpanel.streaming10.net/7040/stream
+#EXTINF:-1 group-title="Música",Tropikana Radio – Andahuaylas – Andahuaylas – PE-APU
+https://tupanel.info:9930/
 #EXTINF:-1 group-title="Música",Radio Estación Paraiso – PE-LIM
 https://cloudstream2034.conectarhosting.com/8202/stream
 #EXTINF:-1 group-title="Música",Radio Es-Perú – 107.8 FM – PE-LIM
 https://player.lcinternet.es/v9/cc694_id1022/?pl=winamp&c=Radio%20Es-Per%C3%BA
+#EXTINF:-1 group-title="Música",Radio Bendicion Villa Rica – Cerro de Pasco – Pasco Region – PE
+https://streamlive2.hearthis.at:8000/9495739.ogg
 #EXTINF:-1 group-title="Música",Mi Radio Peruana – PE
 https://servidor14.brlogic.com:7436/live
 #EXTINF:-1 group-title="Música",Radio Eten FM – Eten – PE-LAM
 https://sp.onliveperu.com:7080
 #EXTINF:-1 group-title="Música",La Kuadra – 94.3 FM – Chota – PE-CAJ
 https://dattavolt.com/8046/stream
+#EXTINF:-1 group-title="Música",Radio Mineria – La Oroya – Junín Region – PE
+https://radio.blueditor.com/8244/stream
 #EXTINF:-1 group-title="Música",RADIO BAHÍA 5 FM – 102.5 FM – San Bartolo – Lima region – PE
 https://conectperu.com:7086/stream?icy=http
 #EXTINF:-1 group-title="Música",Radio Huancayo – 870 AM – PE-ARE
 https://cloud9.ldwebstudios.net/8002/stream
 #EXTINF:-1 group-title="Música",La Super 99.3 FM – 99.3 FM – PE-TAC
 https://sh1.radioonlinehd.com:8068/
+#EXTINF:-1 group-title="Música",Radio La Voz Unicachi – PE-LIM
+https://technoplayerserver.net:8096
 #EXTINF:-1 group-title="Música",Radio Libertad – Casma – PE-ANC
 https://conectperu.com:7152/
+#EXTINF:-1 group-title="Música",Radio Wayra Huancansancos – PE-AYA
+http://start.hostreamperu.com:10108/
+#EXTINF:-1 group-title="Música",RADIO SAN JUAN – 90.3 FM – San Juan – PE-CAJ
+http://radio.domiplay.net:9438/
+#EXTINF:-1 group-title="Música",Esfera Radio – Chachapoyas – PE-AMA
+http://oyotunstream.com:7360/
 #EXTINF:-1 group-title="Música",Radio Onda Popular FM – Juliaca – PE-PUN
 https://dattavolt.com/8278/stream
 #EXTINF:-1 group-title="Música",Radio Inspiracion – 98.1 FM – Nauta – PE-LOR
@@ -493,10 +545,12 @@ https://sp.dattavolt.com/8098/stream
 https://rr5100.globalhost1.com/8564/stream
 #EXTINF:-1 group-title="Música",Fidelísima Radio – 107.7 FM – Chachapoyas – PE-AMA
 http://st3.inkaniserver.net:8008/
+#EXTINF:-1 group-title="Música",Radio Bendicion Digital – Peru – PE-LIM
+https://server.streamingradios.net:8026
 #EXTINF:-1 group-title="Música",Radio Voz Cristiana – 1470 AM – Huancayo – Junín Region – PE
 https://dattavolt.com/8086/stream
-#EXTINF:-1 group-title="Música",Radio Líder – 970 AM – PE-CAJ
-https://sonicpanel.streaming10.net:10981/live
+#EXTINF:-1 group-title="Música",Radio Estación Gozo – PE-LIM
+https://cloudstream2034.conectarhosting.com/8184/stream
 #EXTINF:-1 group-title="Música",Radio Stereo Network – PE-LIM
 https://sonic.cloudstreaming.eu/8122/stream
 #EXTINF:-1 group-title="Música",Radio Level Hits – PE
@@ -507,8 +561,6 @@ https://cast.latunaradio.com/radio/8000/stream
 https://rr5100.globalhost1.com/8086/stream
 #EXTINF:-1 group-title="Música",Radio Chevere – Huaraz – PE-ANC
 https://radio.sistemasandinos.org:10992/stream?icy=http
-#EXTINF:-1 group-title="Música",Radio La Chismosa – PE-TUM
-https://server.streamingradios.net:7053
 #EXTINF:-1 group-title="Música",Radio Girasol Sechura – 99.5 FM – Sechura – PE-PIU
 https://miradioperu.com:7010/
 #EXTINF:-1 group-title="Música",Punta Radio – Acos – Lima region – PE
@@ -521,20 +573,24 @@ https://server.streamingradios.net:8214
 http://radio.datahost.pe:9496/
 #EXTINF:-1 group-title="Música",Radio Qhaphiya 99.7 FM – 99.7 FM – Yunguyo – PE-PUN
 https://server.streamingradios.net:7001
+#EXTINF:-1 group-title="Música",Radio Moro – 92.7 FM – PE-HUC
+http://radio.sistemasandinos.org:7342/stream
+#EXTINF:-1 group-title="Música",Radio Titanka – Abancay – Abancay – PE-APU
+https://tupanel.info:8480/
 #EXTINF:-1 group-title="Música",RADIO NORANDINA – PE
 https://mediastreamm.com/norandina/stream
 #EXTINF:-1 group-title="Música",Radio Eco – 91.1 FM – PE-AYA
 https://server.streamingradios.net:7097
 #EXTINF:-1 group-title="Música",RADIO 15-50 – PE-PUN
 https://cloud9.ldwebstudios.net:7001/
-#EXTINF:-1 group-title="Música",Radio Sol – PE-MOQ
-https://st3.inkaniserver.net:8060/stream
 #EXTINF:-1 group-title="Música",Radio Deep Music – PE
-https://sbc-radio.stream.laut.fm/sbc-radio?t302=2025-12-21_16-25-39&uuid=7b8b09de-6be2-4896-90ab-143e1e44928e
+https://sbc-radio.stream.laut.fm/sbc-radio?t302=2026-06-12_18-54-47&uuid=488dcfa0-5c2e-4575-be2f-b862fb53c50a
 #EXTINF:-1 group-title="Música",RADIO EXITO 97.9 FM – PE-CAJ
 https://rr5100.globalhost1.com/8352/stream
-#EXTINF:-1 group-title="Música",Radio Karicia – 107.5 FM – Tarapoto – PE-SAM
-https://reproductor.tmcreativos.com/radiokar/index.php?pl=winamp&c=Kargen%20Enk%20Radio
+#EXTINF:-1 group-title="Música",Radio Girasol Paita – Paita – PE-PIU
+https://miradioperu.com:7011/
+#EXTINF:-1 group-title="Música",Radio Felicidad AM – PE-ARE
+https://us-b4-p-e-jn18-audio.cdn.mdstrm.com/live-audio-aw/5fad731fcf097a068af3c8f7/playlist.m3u8?aid=5faaeb72f92d7b07dfe10181&pid=1X0V7nCyuD5eqzdxxqS53t0wayKBuryq&sid=TmK9nG9wh3qzhp4N2igZIQDl5H2N7eFG&uid=85kgFwArL1LjHOaiS33QDkMtfuRrB9Qy&es=us-b4-p-e-jn18-audio.cdn.mdstrm.com&ote=1781376887913&ot=tOA_RtxssFzWeQ7n8t3VAg&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fad731fcf097a068af3c8f7&listenerId=85kgFwArL1LjHOaiS33QDkMtfuRrB9Qy
 #EXTINF:-1 group-title="Música",Radio Girasol Piura – 107.1 FM – PE-PIU
 https://miradioperu.com:7009/
 #EXTINF:-1 group-title="Música",Radio Llata – 92.3 FM – Llata – Huanuco – PE
@@ -543,6 +599,8 @@ https://sonic.dattassd.com:10945/
 https://radio.transmite.pe/9318/stream
 #EXTINF:-1 group-title="Música",Agua Marina Radio – Sechura – PE-PIU
 https://miradioperu.com:7007/
+#EXTINF:-1 group-title="Música",Diario Perú – 101.1 FM – PE-CAJ
+https://mpc1.mediacp.eu:8112/stream
 #EXTINF:-1 group-title="Música",Radio Amor por Cable – Chiclayo – PE-LAM
 https://conectperu.com:7111/
 #EXTINF:-1 group-title="Música",Radio Sudamericana Tarma – Tarma – Junín Region – PE
@@ -559,8 +617,8 @@ https://radio.livestreamingmundial.com:7015/stream?icy=http
 https://sonicpanel.totalstreaming.net/8046/stream/
 #EXTINF:-1 group-title="Música",Radio Tropicana 94.5 FM – 94.5 FM – Huacho – Lima region – PE
 https://conectperu.com/8190/stream
-#EXTINF:-1 group-title="Música",DESKA Radio – PE-LIM
-https://studio25.radiolize.com/radio/8010/radio.mp3
+#EXTINF:-1 group-title="Música",RADIO SUPER STUDIO – 93.7 FM – PE-ARE
+http://stream.eistreaming.com:8444/
 #EXTINF:-1 group-title="Música",Radio La Preferida – 106.7 FM – Chongoyape – PE-LAM
 https://dattavolt.com/8144/stream
 #EXTINF:-1 group-title="Música",Tropicalisima – 106.1 FM – Trujillo – PE-LAL
@@ -573,16 +631,18 @@ https://rr5100.globalhost1.com/8404/stream
 http://oyotunstream.com:8006/stream
 #EXTINF:-1 group-title="Música",ADEP RADIO ONLINE – PE-LIM
 https://conectperu.com/8146/stream
+#EXTINF:-1 group-title="Música",Radio Asuncion – 102.9 FM – Yunguyo – PE-PUN
+https://server.streamingradios.net:8216
 #EXTINF:-1 group-title="Música",Radio Otuzco – Otuzco – PE-LAL
 http://centova.perustream.com:8034
 #EXTINF:-1 group-title="Música",Radio Esfera – Uchiza – Uchiza – PE-SAM
 https://dattavolt.com/8008/stream
 #EXTINF:-1 group-title="Música",Radio IEMPSA – PE-LIM
 https://conectperu.com/8112/stream
+#EXTINF:-1 group-title="Música",Radio Qorilazo 1210 AM – 1210 AM – Trujillo – PE-LAL
+http://serviaudio.com:9856/
 #EXTINF:-1 group-title="Música",Radio Tucume – PE-LAM
 https://sp.onliveperu.com:7023
-#EXTINF:-1 group-title="Música",Radio Tv Aroma Del Cielo Oficial – Trujillo – PE-LAL
-https://radio.playerfullhd.com/8108/stream
 #EXTINF:-1 group-title="Música",Radio Cosmos Digital – Huacho – Lima region – PE
 https://conectperu.com/8170/stream
 #EXTINF:-1 group-title="Música",Radio Frecuencia 100 – 100 FM – Trujillo – PE-LAL
@@ -591,8 +651,14 @@ http://oyotunstream.com:7066/.aac
 http://radio.sistemasandinos.org:7146/listen.pls
 #EXTINF:-1 group-title="Música",Estacion 90’s radio – Ilo – PE-MOQ
 https://radio.livestreamingmundial.com:7004/live
+#EXTINF:-1 group-title="Música",Radio Onda Popular – 102.9 FM – PE-CAJ
+https://envivo.top:8443/am
+#EXTINF:-1 group-title="Música",Radio Latina 95.9 FM – 95.9 FM – San José de Sisa – PE-SAM
+https://sp.oyotunstream.com:7006/type=mp3
 #EXTINF:-1 group-title="Música",Onda Okey 95.5 FM – 95.5 FM – PE-HUV
 https://conectperu.com/8238/stream
+#EXTINF:-1 group-title="Música",Radio Apolo – PE-LIM
+https://conectperu.com:7141/
 #EXTINF:-1 group-title="Música",Radio K’arisia – Lluchubamba – PE-CAJ
 https://radio.livestreamingmundial.com:7044/
 #EXTINF:-1 group-title="Música",Radio Virus – PE
@@ -621,12 +687,18 @@ http://iwc2.radioonlinehd.com:8053/stream
 https://conectperu.com/8028/stream
 #EXTINF:-1 group-title="Música",Radio Comas FM – PE-LIM
 https://tupanel.info:7390/
+#EXTINF:-1 group-title="Música",Radio Laser – La Oroya – Junín Region – PE
+https://radio.blueditor.com/8242/stream
+#EXTINF:-1 group-title="Música",Radio Cantemos – PE-LIM
+https://cloudstream2034.conectarhosting.com/8160/stream
 #EXTINF:-1 group-title="Música",Radio Danitza Producciones – PE
 https://miradioperu.com:7016/stream
 #EXTINF:-1 group-title="Música",Radio Estrella – Trujillo – PE-LAL
 http://radio.datahost.pe:9660/
+#EXTINF:-1 group-title="Música",Radio Melodia AM – PE-ARE
+https://stream.radiomelodia.com.pe:8010/radio.mp3
 #EXTINF:-1 group-title="Música",Melomana Radio – PE-ARE
-http://melomana.stream.laut.fm/melomana?t302=2025-12-21_16-26-25&uuid=6ac8dd48-d7ac-4e40-a042-8707f6e8fe17
+http://melomana.stream.laut.fm/melomana?t302=2026-06-12_18-55-27&uuid=03336c1c-5af9-4f27-9b60-5852bffc96fb
 #EXTINF:-1 group-title="Música",Radio Victoria – PE
 https://radio.sistemasandinos.org/7238/stream
 #EXTINF:-1 group-title="Música",Radio Huracan – Jauja – Junín Region – PE
@@ -637,18 +709,26 @@ https://listen.radioking.com/radio/1743/stream/125
 https://conectperu.com/8130/stream
 #EXTINF:-1 group-title="Música",Radio Mega Hits Peru – PE
 https://sp.dattavolt.com/8024/stream
+#EXTINF:-1 group-title="Música",Radio la voz – PE-TAC
+http://radio.sistemasandinos.org:7096/
 #EXTINF:-1 group-title="Música",Inka Stereo – 100.5 FM – Trujillo – PE-LAL
 https://rr5100.globalhost1.com/8578/stream
-#EXTINF:-1 group-title="Música",Radio Carlos Guido – Yunguyo – PE-PUN
-https://server.streamingradios.net:8006
+#EXTINF:-1 group-title="Música",La Incontrastable Radio – Huancayo – Junín Region – PE
+https://sonic.globalstream.pro:10962/
 #EXTINF:-1 group-title="Música",Rescate Rock and Pop radio – Callao – PE
 https://cloudstream2032.conectarhosting.com/9558/
 #EXTINF:-1 group-title="Música",Radio Synthpop – PE-LIM
 https://radio.blueditor.com/8250/stream
 #EXTINF:-1 group-title="Música",Radio Lider TV – PE-LIM
 https://conectperu.com:7145/
+#EXTINF:-1 group-title="Música",Radio Lancones – 99.1 FM – Sullana – PE-PIU
+https://radio.livestreamingmundial.com:7020/stream?icy=http
+#EXTINF:-1 group-title="Música",INCLUB Radio – PE
+https://conectperu.com:7008/
 #EXTINF:-1 group-title="Música",Radio Vesánico – PE-LIM
 https://radiosonline.one/radio/8390/radio.mp3
+#EXTINF:-1 group-title="Música",Red Vida – 1300 AM – Callao – PE
+http://radio.sistemasandinos.org:7192/
 #EXTINF:-1 group-title="Música",ABN Radio – PE-LIM
 https://jml-stream.com/radio/8000/radio.mp3
 #EXTINF:-1 group-title="Música",Radio Maravillosa – Trujillo – PE-LAL
@@ -678,17 +758,19 @@ https://radiosonline.one/listen/riberena/radio.mp3
 #EXTINF:-1 group-title="Música",Radio Tv Gracia y Verdad – Iquitos – PE-LOR
 https://sonicpanel.us/8078/stream
 #EXTINF:-1 group-title="Música",Radio Panamericana radio
-https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/6598b62dded1380470f4e539?aid=658ddcc0b2c7835d48fee06d&pid=aTpVEeBdrtAEY8hXoVlquBjycAxO0XAr&sid=nCK8k5WqnYAeylVdRKumTemMylQNLvs9&uid=UbxVkn187g6F6bRGOQw2NRlrEjOxNdsy&es=us-b4-p-e-qg12-audio.cdn.mdstrm.com&ote=1766420809005&ot=u29x41LNdrkdXAw8fWEZjg&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b62dded1380470f4e539&listenerId=UbxVkn187g6F6bRGOQw2NRlrEjOxNdsy
+https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/6598b62dded1380470f4e539?aid=658ddcc0b2c7835d48fee06d&pid=93FNSJwKvgXCCucYPcRSbiduEHKcEuqr&sid=FoNKMjGEwryZBH7fbJnGHXaS0je9nrwJ&uid=9xPYalRmxPUYXko040WgErl11dG7y4A6&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1781376950306&ot=5HqEe7_3pNxKvx8at2KEGw&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b62dded1380470f4e539&listenerId=9xPYalRmxPUYXko040WgErl11dG7y4A6
 #EXTINF:-1 group-title="Música",Radio 1160 radio
-https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/6598b6e1261d9e088a6de859?aid=658ddcc0b2c7835d48fee06d&pid=5VGSkBJSmAN9lL2j68hIBaYxaAlWORvb&sid=cdpHFhzWvVQyAbJoTYmYFO6iv1E8EXOq&uid=Zv67qwZZazR9iNFcYsk3lRIDq2y9YxgS&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1766420809155&ot=GuOHu83mbacY5k0e2Vq0iA&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b6e1261d9e088a6de859&listenerId=Zv67qwZZazR9iNFcYsk3lRIDq2y9YxgS
+https://us-b4-p-e-jn18-audio.cdn.mdstrm.com/live-audio-aw/6598b6e1261d9e088a6de859?aid=658ddcc0b2c7835d48fee06d&pid=4bsvYmDIZp4X4vbJWfnATXb9Kl3UvJmf&sid=fJlpnPkK5n4Zud85XpQeMSKxmUJ4TP4C&uid=7dVYqKvQKcdl8KoNXEgAN0lST2zejD4Y&es=us-b4-p-e-jn18-audio.cdn.mdstrm.com&ote=1781376950507&ot=6iv4T_cdDm1bgHc_rXZWuQ&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b6e1261d9e088a6de859&listenerId=7dVYqKvQKcdl8KoNXEgAN0lST2zejD4Y
 #EXTINF:-1 group-title="Música",Radio Cumbia Mix radio
-https://us-b4-p-e-ml19-audio.cdn.mdstrm.com/live-audio-aw/6598b6ab95a235085823b24f?aid=658ddcc0b2c7835d48fee06d&pid=N0l8YHtK2cTOKiNfrx1QmsvbFsOtBByY&sid=zkI4SfZazAORqaznHV6CXKKN0NENQeGF&uid=Xs4B9FXeD2LmfbTd34PtuwjOsnqiyWPJ&es=us-b4-p-e-ml19-audio.cdn.mdstrm.com&ote=1766420813346&ot=oNmYWhjnd9IaItlkIrK-eA&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b6ab95a235085823b24f&listenerId=Xs4B9FXeD2LmfbTd34PtuwjOsnqiyWPJ
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/6598b6ab95a235085823b24f?aid=658ddcc0b2c7835d48fee06d&pid=oL3xxA5iRLJqb0fF0ibY3CGKqpHIur50&sid=Os7LETbYpQKE70x20p7RcpDC8gist5xh&uid=NCTsbGQYQQj1k7RnlBHGNTGTRTZV6OfC&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1781376950960&ot=z_hlLKk6XEBN1VauGng20w&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b6ab95a235085823b24f&listenerId=NCTsbGQYQQj1k7RnlBHGNTGTRTZV6OfC
 #EXTINF:-1 group-title="Música",Onda Cero radio
-https://us-b4-p-e-jn18-audio.cdn.mdstrm.com/live-audio-aw/6598b65ab398c90871aff8cc?aid=658ddcc0b2c7835d48fee06d&pid=KsCJ30n1E0ksI8BlgiQk9yeeASEYXgcv&sid=eF8b5oPDtOacqo5WBccxmhyZHa0bt8oG&uid=qS3lHpXpWeaI9v5A89uPJTobCM8STFnH&es=us-b4-p-e-jn18-audio.cdn.mdstrm.com&ote=1766420813354&ot=rp-lM9yojfzoJMFpykRA0g&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b65ab398c90871aff8cc&listenerId=qS3lHpXpWeaI9v5A89uPJTobCM8STFnH
+https://us-b4-p-e-jn18-audio.cdn.mdstrm.com/live-audio-aw/6598b65ab398c90871aff8cc?aid=658ddcc0b2c7835d48fee06d&pid=zpPT049pZdCYjcaGq810GceQOWUBqLzG&sid=zSgM2LwWdjcTTb0NkP45R0HkD0GIXfDP&uid=xJVCcHMIWU6KjW4LeQeAKPnIVIR5acmQ&es=us-b4-p-e-jn18-audio.cdn.mdstrm.com&ote=1781376951494&ot=ylsCg2dYxRVM4KgupBcYnA&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b65ab398c90871aff8cc&listenerId=xJVCcHMIWU6KjW4LeQeAKPnIVIR5acmQ
 #EXTINF:-1 group-title="Música",Stereo Lima radio
 https://panel.innovatestream.pe/8042/stream
 #EXTINF:-1 group-title="Música",Radio Nacional del Peru radio
 http://cdnhd.iblups.com/hls/0773874174fd4eba8bb9eff741d190dc.m3u8
+#EXTINF:-1 group-title="Música",Radio La Nube radio
+https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/6598b70f86344b02b58ce836?aid=658ddcc0b2c7835d48fee06d&pid=9XnAAjSHZ2JydrFL2b3dt5AknaUxx2y8&sid=YiYdBc1RhuEDnBRKnp4btyy5OxGTrhGY&uid=dCrAPFHXpNCZY4XHm65hwAis6xXkGRx4&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1781376952195&ot=rTdf-UExvAI5IHGR0wsCXQ&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b70f86344b02b58ce836&listenerId=dCrAPFHXpNCZY4XHm65hwAis6xXkGRx4
 #EXTINF:-1 group-title="Música",Radio Power, Lima radio
 https://conectperu.com:7040/stream.nsv
 #EXTINF:-1 group-title="Música",Viva FM 91.9 radio
@@ -709,6 +791,8 @@ https://panel.innovatestream.pe/7246/stream
 https://sonic.streamseguro.com/8020/stream
 #EXTINF:-1 group-title="Música",Radio Level Hits radio
 https://radio.pjcks.com/7234/stream
+#EXTINF:-1 group-title="Música",Digital Play FM radio
+https://dpfmadmin.radioca.st/stream
 #EXTINF:-1 group-title="Música",Poprock Classic radio
 https://music.poprockenlinea.com/listen/poprock/radio.mp3
 #EXTINF:-1 group-title="Música",Radio Chalaca radio
@@ -733,12 +817,14 @@ https://sp.onliveperu.com/8158/stream
 https://tupanel.info:8240/stream.nsv
 #EXTINF:-1 group-title="Música",Radio Sónica 103.3 radio
 https://sonica-zikoxweb2.radioca.st/stream
+#EXTINF:-1 group-title="Música",Radio la J te pone radio
+https://radio.publikarte.com.pe/listen/radio_la_j/jstream
 #EXTINF:-1 group-title="Música",Radio Victoria En Cristo radio
 https://server.streamingradios.net:8028/stream
 #EXTINF:-1 group-title="Música",Radio Esperanza Chepén radio
 https://conectperu.com/8588/stream
-#EXTINF:-1 group-title="Música",Sintonia Latina radio
-http://solid67.streamupsolutions.com:8048/;
+#EXTINF:-1 group-title="Música",Holy Spirit Of God Radio - ALABANZAS
+https://ec2.yesstreaming.net:2695/stream
 #EXTINF:-1 group-title="Música",Radio Elite radio
 https://radio.livestreamingmundial.com/9242/
 #EXTINF:-1 group-title="Música",Rock N bar radio
@@ -765,14 +851,20 @@ https://sonicpanel.tmcreativos.com/8056/stream
 https://dattavolt.com/8038/stream
 #EXTINF:-1 group-title="Música",Radiomundialrn radio
 https://sonic.globalstreaming.net:8238/live
+#EXTINF:-1 group-title="Música",Kadena Radio
+https://cloudstream.oppublicidad.com/8006/stream
 #EXTINF:-1 group-title="Música",RCM - Radio Cristo en Mí
 https://radio.andaina.net/8052/stream
+#EXTINF:-1 group-title="Música",Radio Libertad 99.7 FM radio
+https://gnstreammedia.com:8004/stream
 #EXTINF:-1 group-title="Música",Radio la Positiva - carabamba radio
 https://mediastreamm.com/8110/stream
 #EXTINF:-1 group-title="Música",Planeta99 radio
 https://sonicpanel.us:8064/stream
 #EXTINF:-1 group-title="Música",Radio Huanuco radio
 https://sonic.globalstream.pro/8072/streamstream.nsv
+#EXTINF:-1 group-title="Música",Onda 7 Radio
+https://play14.tikast.com:20026/
 #EXTINF:-1 group-title="Música",Radio Apurimeña 100.5 fm radio
 https://sonic.dattassd.com/8200/streamstream.nsv
 #EXTINF:-1 group-title="Música",Radio emanuel7 radio
@@ -781,6 +873,8 @@ https://stm.voxhd.com.br:10224/
 https://sp.onliveperu.com/8120/stream
 #EXTINF:-1 group-title="Música",Platinium radio
 https://cloudstream2032.conectarhosting.com/8116/stream
+#EXTINF:-1 group-title="Música",Radio Canteña 98.9 FM – Te Encanta radio
+https://streamlive2.hearthis.at:8000/10150921.ogg
 #EXTINF:-1 group-title="Música",Alpha plus radio
 https://conectperu.com/8362/stream
 #EXTINF:-1 group-title="Música",Radio Cora radio
@@ -789,10 +883,14 @@ https://mediastreamm.com/8010/stream
 https://sp.onliveperu.com:7023/stream.nsv
 #EXTINF:-1 group-title="Música",Radio Horizonte 102.7 FM radio
 https://conectperu.com/8144/stream
+#EXTINF:-1 group-title="Música",Radio Titanka radio
+https://tupanel.info:8480/stream.nsv
 #EXTINF:-1 group-title="Música",Flow Cristiano radio
 https://mediastreamm.com/8054/stream
 #EXTINF:-1 group-title="Música",Radio Khaos radio
 https://khaos.stream.laut.fm/khaos
+#EXTINF:-1 group-title="Música",Radio StudioVraem - Cusco radio
+https://radio.livestreamingmundial.com:7013/stream
 #EXTINF:-1 group-title="Música",La Juerga radio
 https://conectperu.com/8276/stream
 #EXTINF:-1 group-title="Música",Radio Coishco mi Radiomix
@@ -809,12 +907,16 @@ https://Fps3.listen2myradio.com:2199/listen.php?ip=109.169.23.124\u0026port=8404
 https://sonic.dattassd.com/9924/steram
 #EXTINF:-1 group-title="Música",Radio Rumba radio
 https://dattavolt.com/8248/stream
+#EXTINF:-1 group-title="Música",Radio Capullana 95.7 radio
+https://radio.livestreamingmundial.com:7032/
 #EXTINF:-1 group-title="Música",LAS NOCHES CON ARNOLD RADIO
 https://as100.globalhost1.com/8042/stream
 #EXTINF:-1 group-title="Música",Radio Las Vegas radio
 https://radio.perustreaming.net/8014/stream
 #EXTINF:-1 group-title="Música",Radio Apurimeña 97.3 radio
 https://sonic.dattassd.com/8080/stream:stream.nsv
+#EXTINF:-1 group-title="Música",Radio Brava, Ayacucho radio
+https://conectperu.com:7177/
 #EXTINF:-1 group-title="Música",Radio Urano fm radio
 https://c6.radioboss.fm:8271/stream
 #EXTINF:-1 group-title="Música",Radio Aeroestereo Online radio
@@ -823,8 +925,6 @@ https://conectperu.com:7025/stream?icy=http
 https://sp.dattavolt.com/8170/stream
 #EXTINF:-1 group-title="Música",Radio Latina 990 AM radio
 https://stm2.srvif.com:7974/stream
-#EXTINF:-1 group-title="Música",Radio Fantàstico Piura radio
-http://147.135.130.215:8666/
 #EXTINF:-1 group-title="Música",Estación Libre - Tambo radio
 http://150.136.177.28:8000/radio.mp3
 #EXTINF:-1 group-title="Música",Radio Otuzco radio
@@ -839,8 +939,6 @@ http://sp.onliveperu.com:8050/
 https://server.streamingradios.net/8134/stream
 #EXTINF:-1 group-title="Música",Radio Millenium Lima
 https://server.streamingradios.net/8174/stream
-#EXTINF:-1 group-title="Música",Radio La Hermosa Perú
-https://vivo.miradio.in/8080/stream
 #EXTINF:-1 group-title="Música",Radio Apurimeña 100.5 fm
 https://sonic.dattassd.com/8200/stream
 #EXTINF:-1 group-title="Música",Radio La Rumba Pa'gozar
@@ -859,14 +957,14 @@ https://server.streamingradios.net/8048/stream
 https://whmsonic.playerfullhd.com/8342/stream
 #EXTINF:-1 group-title="Música",Radio Lamud
 https://cloudstream2036.conectarhosting.com/8130/stream
-#EXTINF:-1 group-title="Música",Radio Norandina de Celendin
-https://mediastreamm.com/8012/stream
 #EXTINF:-1 group-title="Música",Radio Cadenatop (Lima)
 http://online.radiodifusion.net:8020/stream/1/
+#EXTINF:-1 group-title="Música",Radio Calor (Huancayo)
+http://corporacionlatina.com:8000/stream/1/
 #EXTINF:-1 group-title="Música",Radio Sistemas (Cusco)
 https://player.xcast.com.br/proxy/7362
-#EXTINF:-1 group-title="Música",Radio Libertad de Junín
-http://radio.transmite.pe:9342/stream/1/
+#EXTINF:-1 group-title="Música",Radio Super Latina Mono (Huancayo)
+http://corporacionlatina.com:7004/stream/1/
 #EXTINF:-1 group-title="Música",Metropolitana Radio Peruana (Lima)
 http://99.198.110.162:8130/stream/1/
 #EXTINF:-1 group-title="Música",Radio Yaravi (Arequipa)
@@ -881,28 +979,26 @@ http://online.radiodifusion.net:8054/stream/1/
 http://94.23.159.187:9950/stream/1/
 #EXTINF:-1 group-title="Música",Radio Chevere (Caraz)
 http://radio.sistemasandinos.org:7084/stream/1/
-#EXTINF:-1 group-title="Música",Radio Uyay
-https://conectperu.com/8196/stream/1/
 #EXTINF:-1 group-title="Música",Radio La Luz (Lima)
 http://radio.transmite.pe:9310/stream/1/
 #EXTINF:-1 group-title="Música",Retro Latin Hits (Lima) Radio
-https://stream02.pcradio.biz/rad_rtrltnhts-med
+https://stream06.pcradio.app/rad_rtrltnhts-med
 #EXTINF:-1 group-title="Música",Radio Vida Cusco - AM
 http://radio.transmite.pe:9318/stream
 #EXTINF:-1 group-title="Música",Radio Emanuel de Tocache
 http://myradiostream.com/200925
 #EXTINF:-1 group-title="Música",GISS RADIO
 http://radio.gisslive.com:9000/
-#EXTINF:-1 group-title="Música",RADIO LA ESTACION.FM
-https://tustreaming.co/AUDIO/LAESTACION/
+#EXTINF:-1 group-title="Música",Radio Apurimaq
+http://sonic.dattassd.com:8080/
+#EXTINF:-1 group-title="Música",METROPOLIS RADIO
+http://centova.perustream.com:8010/
 #EXTINF:-1 group-title="Música",KISS FM
 https://panelautodj.innovatestream.pe:10829/;stream.nsv
 #EXTINF:-1 group-title="Música",VOX FM
 https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/60bfd82b9488941e9d86eb1d/playlist.m3u8?aid=5b8ea6f89ff52d0770a144c4&pid=CupTnKqJK07lu5BOZeqB5IrnhwzCwS6S&sid=GTHRBaWN0V6ayrGmr7csnlvS6pY0KIdN&uid=OCB0GpQhcgsn3OFEzj5mls5nXREs8mic&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1695206243496&ot=OkOnWgLo6P7CD-QTm9d47w&proto=https&pz=us&cP=128000&awCollectionId=5b8ea6f89ff52d0770a144c4&liveId=60bfd82b9488941e9d86eb1d&listenerId=OCB0GpQhcgsn3OFEzj5mls5nXREs8mic
 #EXTINF:-1 group-title="Música",Radio Clasica Rock&amp;Pop
 https://tupanel.info:9910/;stream.nsv
-#EXTINF:-1 group-title="Música",Radio Fantàstico Piura
-http://147.135.130.215:8666/;
 #EXTINF:-1 group-title="Música",Radio Deep Music
 https://sbc-radio.stream.laut.fm/sbc-radio?t302=2023-04-25_20-33-27&uuid=dc5bb021-c024-4110-8492-523b69bcd16a
 #EXTINF:-1 group-title="Música",Radio Exito 97.9 FM
@@ -913,6 +1009,8 @@ https://server.streamingradios.net:8214/stream
 https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5faee885eb830d06cf22ed4a
 #EXTINF:-1 group-title="Música",Radio Altura de Ancash
 https://stream.mediatexcomunicaciones.com:7030/;
+#EXTINF:-1 group-title="Música",Radio Brava, Ayacucho
+https://conectperu.com:7177/;
 #EXTINF:-1 group-title="Música",Radio Rumbo La Radio Que Se Ve
 https://fps3.listen2myradio.com:2199/listen.php?ip=109.169.23.124&port=8404&type=ice&mount=stream
 #EXTINF:-1 group-title="Música",La 10 FM Está Buenaza
@@ -923,14 +1021,14 @@ https://cdnhd.iblups.com/hls/0773874174fd4eba8bb9eff741d190dc.m3u8
 https://sp.oyotunstream.com/60004/stream
 #EXTINF:-1 group-title="Música",Radio Central Galactica
 https://sonic.dattassd.com/4062/stream
-#EXTINF:-1 group-title="Música",Radio Armonia 97.5
-https://streamhotsperu.purosurfm.com:8140/radioArmonia/status-json.xsl//radioArmonia
 #EXTINF:-1 group-title="Música",Radio Disco Plus 103.3 FM
 https://streaming.servernorte.com/8146/stream
 #EXTINF:-1 group-title="Música",Bella Radio 88.5
 https://server01.heplayer.com/8150/stream
 #EXTINF:-1 group-title="Música",ElBarranquino Radio
 https://panel.foxradios.com:8020/live
+#EXTINF:-1 group-title="Música",Monee Radio
+https://streamlive2.hearthis.at:8000/11017621.ogg
 #EXTINF:-1 group-title="Música",Radio MALKI Latino
 https://radio.andaina.net/radiomalkilatino/stream
 #EXTINF:-1 group-title="Música",Radio Rockas
@@ -943,10 +1041,6 @@ https://music.poprockenlinea.com/listen/alternativo/radio.mp3
 https://music.poprockenlinea.com/listen/heavin/radio.mp3
 #EXTINF:-1 group-title="Música",Radio Platinium Rock And Pop
 https://panelautodj.innovatestream.pe/8336/stream
-#EXTINF:-1 group-title="Música",Radio Play Peru
-https://radioplay.egostreaming.pe/c83a-4d7e-9d15-29d2e2fa4f8e
-#EXTINF:-1 group-title="Música",Radio Besame
-https://radiobesame.egostreaming.pe/radiobesame
 #EXTINF:-1 group-title="Música",Peru folk radio - 128 - Peru -
 https://raymistream.net/listen/perufolkradio/live
 #EXTINF:-1 group-title="Música",Radio Amor por Cable - 128 - Peru - amor - baladas - baladas en español - music - musica romantica - pop - reggaeton - urbano
@@ -965,8 +1059,6 @@ https://sp.onliveperu.com/8102/stream
 https://sonicpanel.globalstream.pro/8070/stream
 #EXTINF:-1 group-title="Música" tvg-logo="https://radiostationslive.com/uploads/2024/01/26277.v10.png",Radio Superstereo
 http://51.89.173.53:8031/stream
-#EXTINF:-1 group-title="Música" tvg-logo="https://radiostationslive.com/uploads/2024/01/67176.v16.png",Peruana Radio
-https://cloudstream2036.conectarhosting.com:7176/
 #EXTINF:-1 group-title="Música" tvg-logo="https://radiostationslive.com/uploads/2024/01/87254.v6.png",Tropikana Radio
 https://radios.cosit.pe/8007/stream.mp3
 #EXTINF:-1 group-title="Música" tvg-logo="https://radio.streamitter.com/images/logos/Z73DF.png",MALKI RETRO - Radio Pop, Rock & Latino
@@ -1003,8 +1095,6 @@ https://mediastreamm.com/8036/stream
 https://tupanel.info:9940/stream
 #EXTINF:-1 group-title="Música" tvg-logo="https://radiospinner.com/media/logos/180/55793/logo_MKhmYAUWzK.png",Radio Fm suprema
 https://radio.juanjuistream.uk/listen/radiosuprema/stream
-#EXTINF:-1 group-title="Música" tvg-logo="https://radiospinner.com/media/logos/180/55567/logo_ZkVDbAWbgr.png",Radio La Mega 94.9 Fm
-https://audio.miradioenvivo.com:10913/live
 #EXTINF:-1 group-title="Música" tvg-logo="https://radiospinner.com/media/logos/180/55436/logo_VBKs5BHtyw.png",Radio Arusureños
 https://conectperu.com/8522/stream
 #EXTINF:-1 group-title="Música" tvg-logo="https://radiospinner.com/media/logos/180/55577/logo_xAslOFoeXj.png",Radio Coral 97.5 Fm
@@ -1017,40 +1107,44 @@ https://sp.onliveperu.com/8172/stream
 https://sp.oyotunstream.com:8050/stream
 #EXTINF:-1 group-title="Música" tvg-logo="https://radiospinner.com/media/logos/180/55355/logo_2aP3c8i1MF.png",Ok Radio Retro
 https://sonicpanel.zonaradio.net/8050/stream
-#EXTINF:-1 group-title="Música" tvg-logo="https://radiospinner.com/media/logos/180/55745/logo_KkAErmQlFz.png",Onda Stereo Radio
-https://audiostream.site/listen/ondastereo/stream
 #EXTINF:-1 group-title="Música" tvg-logo="https://radiospinner.com/media/logos/180/55518/logo_xYbhShpQV9.png",Radio Soul Songs
 https://live.radiorockhits.com/listen/radiosoulsongs/radio.mp3
 #EXTINF:-1 group-title="Música" tvg-logo="https://radiospinner.com/media/logos/180/55660/logo_DQ5o5MVYoB.png",Radio J Mix Juanjui
 https://radio.juanjuiserver.com:8110/radio.mp3
-#EXTINF:-1 group-title="Música" tvg-logo="https://radiospinner.com/media/logos/180/55441/logo_qy9ZCOK3QL.png",Onda 7 Radio
-https://sp1.streamingssl.com/8074/stream
 #EXTINF:-1 group-title="Música" tvg-logo="https://radiospinner.com/media/logos/180/55696/logo_hbVZHg96Xq.png",Radio Ondas Del Misti
 https://maximacenterdata.com/8124/stream
 #EXTINF:-1 group-title="Música" tvg-logo="https://radiospinner.com/media/logos/180/55476/logo_RjBGGggBrH.png",Radio la Jefa
 https://panelautodj.innovatestream.pe:10987/stream
+#EXTINF:-1 group-title="Música" tvg-logo="https://radiospinner.com/media/logos/180/55680/logo_vP3RI4sNw3.png",ElOchentero.com Radio
+https://stream.cajamarcahost.com/8154/stream
 #EXTINF:-1 group-title="Música" tvg-logo="https://radiospinner.com/media/logos/180/55795/logo_Qms1Q0LvuC.png",Mas RocknPop Radio
 https://streaming.masrocknpop.com:7093/
 #EXTINF:-1 group-title="Música" tvg-logo="https://radiospinner.com/media/logos/180/55381/logo_18djChjOYe.png",CADENA CRISTIANA DEL PERU Radio
 https://maximacenterdata.com/8104/stream
+#EXTINF:-1 group-title="Música" tvg-logo="https://radiospinner.com/media/logos/180/55511/logo_7c0yiinUrT.png",Orbita Radio
+https://radiostreamingonline.com/listen/orbitaradio/live
 #EXTINF:-1 group-title="Música" tvg-logo="https://radiospinner.com/media/logos/180/55794/logo_H1EBj38m32.png",huallagaonline.com Radio
 https://conectperu.com/8472/stream
 #EXTINF:-1 group-title="Música" tvg-logo="https://radiospinner.com/media/logos/180/55659/logo_STTXTL8wXt.png",Radio Maxima FM
 https://maxradio.azuracast.com.es:8020/AQP.mp3
 #EXTINF:-1 group-title="Música" tvg-logo="https://radiospinner.com/media/logos/180/55645/logo_T5xdNdSKgB.png",Radio Rock
 http://mediastreamm.com:8134/stream
-#EXTINF:-1 group-title="Música" tvg-logo="https://radiospinner.com/media/logos/180/55766/logo_NefTtLjBdk.png",Radio Sonika
-https://audio.miradioenvivo.com:10938/stream
+#EXTINF:-1 group-title="Música" tvg-logo="https://radiospinner.com/media/logos/180/55847/logo_6VIikHtYIR.png",Radio Tropicana
+https://cloud9.ldwebstudios.net:7004/
 #EXTINF:-1 group-title="Música" tvg-logo="https://radiospinner.com/media/logos/180/55732/logo_73vBty8Rjl.png",n2 Perú Radio
 https://server01.heplayer.com/8116/stream
+#EXTINF:-1 group-title="Música" tvg-logo="https://radiospinner.com/media/logos/180/55710/logo_mjbqNy4r4e.png",Hits radio
+https://radios.medialive.stream:7013/stream
 #EXTINF:-1 group-title="Música" tvg-logo="https://radiospinner.com/media/logos/180/55667/logo_9I4XwikHc5.png",Armonía 10 Radio
-https://antenapiura.stream.laut.fm/antenapiura?t302=2025-12-21_16-31-05&uuid=71d283f6-2cf6-439f-a39f-5acedb18cf90
+https://antenapiura.stream.laut.fm/antenapiura?t302=2026-06-12_18-59-48&uuid=74166e94-ace4-49a0-9b1a-ec053e03b216
 #EXTINF:-1 group-title="Música" tvg-logo="https://radiospinner.com/media/logos/180/55310/logo_OoBOQivxhG.png",Radio Otuzco
 http://Centova.perustream.com:8034/stream
 #EXTINF:-1 group-title="Música" tvg-logo="https://radiospinner.com/media/logos/180/55726/logo_miqrgY2HDZ.png",Radio Sucre 100.5 Fm
 https://server.streamingradios.net:8120/stream
 #EXTINF:-1 group-title="Música" tvg-logo="https://radiospinner.com/media/logos/180/55425/logo_yGGdEmrH3S.png",Rumba Music 106.9 Fm &quot;Esta Buenaza&quot; Radio
 https://radio.sistemasandinos.org/7516/stream
+#EXTINF:-1 group-title="Música" tvg-logo="https://radiospinner.com/media/logos/180/55389/logo_FtXjMKFIp5.png",Metallerium radio
+https://nd02.ehostingperu.net:8010/stream
 #EXTINF:-1 group-title="Música" tvg-logo="https://radiospinner.com/media/logos/180/55319/logo_CthmuNXMcV.png",Radio Arumarka Rock 80s.
 https://conectperu.com/8520/stream
 #EXTINF:-1 group-title="Música" tvg-logo="https://radiospinner.com/media/logos/180/55361/logo_TN9bcewgRu.png",Radio Sotelo Llamellin 101.3FM
@@ -1089,12 +1183,12 @@ https://radioshd.meytam.com.pe/8002/stream
 https://fpsnew1.listen2myradio.com:2199/listen.php?ip=82.145.63.6&ampport=4784&amptype=s1
 #EXTINF:-1 group-title="Música" tvg-logo="https://radiospinner.com/media/logos/180/55533/logo_ZgvkTvwM3F.png",Radio Universo 88.3 FM
 https://panel.innovatestream.pe:10896/
+#EXTINF:-1 group-title="Música" tvg-logo="https://radiospinner.com/media/logos/180/55523/logo_quYgxbYm0R.png",Radio Titanka
+https://tupanel.info:8480/stream
 #EXTINF:-1 group-title="Música" tvg-logo="https://radiospinner.com/media/logos/180/55815/logo_Ap3mERptYI.png",Radio Sureña - Azangaro
 https://sp.oyotunstream.com:8052/
 #EXTINF:-1 group-title="Música" tvg-logo="https://radiospinner.com/media/logos/180/55693/logo_tQE06C5Mna.png",Radio Yakumama
 https://panelautodj.innovatestream.pe:10685/yakumama
-#EXTINF:-1 group-title="Música" tvg-logo="https://radiospinner.com/media/logos/180/55634/logo_pfQKdEZoje.png",Radio La Ribereña - Camaná
-https://streaming.serviclictecnologia.com:8058
 #EXTINF:-1 group-title="Música" tvg-logo="https://radiospinner.com/media/logos/180/55684/logo_zHVqP3EcV3.png",Radio Carlos Guido
 https://server.streamingradios.net:8196/stream
 #EXTINF:-1 group-title="Música" tvg-logo="https://radiospinner.com/media/logos/180/55641/logo_GugEwquF7V.png",Radio la VOZ del SUR Moquegua
@@ -1103,6 +1197,8 @@ https://sonicpanel.us:8102/stream
 https://maximacenterdata.com/8120/stream
 #EXTINF:-1 group-title="Música" tvg-logo="https://radiospinner.com/media/logos/180/55396/logo_WZc97jAY6Q.png",Radio Silencio 101.3 Fm
 https://maxradio.azuracast.com.es:8020/RADIOSILENCIOAREQUIPA.mp3
+#EXTINF:-1 group-title="Música" tvg-logo="https://radiospinner.com/media/logos/180/55558/logo_WWkPQPOUih.png",Bahia FM Radio
+https://panelautodj.innovatestream.pe:10959/
 #EXTINF:-1 group-title="Música" tvg-logo="https://radiospinner.com/media/logos/180/55427/logo_YYNHrIpqP5.png",Radio Apurimeña 97.9
 https://sonic.dattassd.com/8080/streamstream.nsv
 #EXTINF:-1 group-title="Música" tvg-logo="https://radiospinner.com/media/logos/180/55796/logo_FbcdtvuRny.png",Radio rock peruano
@@ -1123,6 +1219,8 @@ https://conectperu.com/8122/stream
 https://sonic.globalstream.pro/8112/stream
 #EXTINF:-1 group-title="Música" tvg-logo="https://radiospinner.com/media/logos/180/55740/logo_PyjqVbI4ti.png",Galasy Radio Online
 https://fdsfdsfdsf.radio12345.com/intro.mp3
+#EXTINF:-1 group-title="Música" tvg-logo="https://radiospinner.com/media/logos/180/55705/logo_ntPaiAnc6D.png",Esplendida Radio
+https://radiostreamingonline.com/listen/esplendida/live
 #EXTINF:-1 group-title="Música" tvg-logo="https://radiospinner.com/media/logos/180/55347/logo_Lfbqsmd32o.png",AEROSTEREO Radio
 https://panel.aerostereo.com:8000/radio.mp3
 #EXTINF:-1 group-title="Música" tvg-logo="https://radiospinner.com/media/logos/180/55687/logo_l0VifLgiUZ.png",Emanuel7tv Radio
@@ -1149,8 +1247,6 @@ https://tupanel.info:8240/stream
 https://mediastreamm.com/8068/stream
 #EXTINF:-1 group-title="Música" tvg-logo="https://radiospinner.com/media/logos/180/55639/logo_FKQ6Xo2a8z.png",Radio Extramix
 https://virtual4.emisorasvirtuales.com:8180/live
-#EXTINF:-1 group-title="Música" tvg-logo="https://radiospinner.com/media/logos/180/55311/logo_8x1pWwEqZ4.png",Radio Tropicana
-https://cloud9.ldwebstudios.net:7007/
 #EXTINF:-1 group-title="Música" tvg-logo="https://radiospinner.com/media/logos/180/55568/logo_sgEPdPZGyj.png",Radio Frecuencia Del Espíritu Santo
 https://streaming.serviclictecnologia.com:8060/
 #EXTINF:-1 group-title="Música" tvg-logo="https://radiospinner.com/media/logos/180/55455/logo_3zz7qu9aIu.png",Radio Rutas Peru
@@ -1165,16 +1261,12 @@ https://radio.perustreaming.net:8006/stream/
 https://server.streamingradios.net/8004/stream.mp3
 #EXTINF:-1 group-title="Música" tvg-logo="https://radiospinner.com/media/logos/180/55616/logo_bGvc1c8d7y.png",San Miguel de Coina Radio
 https://server01.heplayer.com/8184/stream
+#EXTINF:-1 group-title="Música" tvg-logo="https://radiospinner.com/media/logos/180/55526/logo_gSio56eqP4.png",Radio Tropikana
+https://tupanel.info:9930/stream
 #EXTINF:-1 group-title="Música" tvg-logo="https://radiospinner.com/media/logos/180/55466/logo_A3gIoqKgOL.png",Radio Tucume
 https://sp.onliveperu.com:7023/stream
-#EXTINF:-1 group-title="Música",Radio Felicidad 88.9
-https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5fad731fcf097a068af3c8f7?aid=5faaeb72f92d7b07dfe10181&pid=SizD5IcXgPshdy2BwoWzgwJctGVgzody&sid=B0q6kSXWs6cQPQRiJqIogfMHbN23pxb7&uid=LJN7A0fUFg9cKmpDPCjkzO4dAyC27D3c&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1769973297522&ot=Vgn1qmbwovtG7HvKL752Kw&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fad731fcf097a068af3c8f7&listenerId=LJN7A0fUFg9cKmpDPCjkzO4dAyC27D3c
 #EXTINF:-1 group-title="Música",Radio 1160 Peru
 https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/6598b6e1261d9e088a6de859?aid=658ddcc0b2c7835d48fee06d&pid=G3FnIvg2s2uxHg1lIbLUlWa3cFT5KPBg&sid=XAAefdCCMC9B9MvNg9TwqdstYTKnk3li&uid=Nkdb2uczAeFQEIGw1fojci2BEYfd4Tye&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1711464716330&ot=YgiDR9HDtOJKN3UCFo0-xg&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b6e1261d9e088a6de859&listenerId=Nkdb2uczAeFQEIGw1fojci2BEYfd4Tye
-#EXTINF:-1 group-title="Música",Radio Panamericana
-https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/6598b62dded1380470f4e539?aid=658ddcc0b2c7835d48fee06d&pid=ddwZWXtBLPc53gEO8C88Jc9N6mngOYJw&sid=QfrzWQQfj9zHnvogx2q9ZL1HQP9ePVOr&uid=ExUcqanQ5L0NJkX9dG6QXvof0IybQpj3&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1769973297704&ot=VvXBrRTSfaybSJyJzimIEQ&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b62dded1380470f4e539&listenerId=ExUcqanQ5L0NJkX9dG6QXvof0IybQpj3
-#EXTINF:-1 group-title="Música",Radio Cumbia Mix
-https://us-b4-p-e-jn18-audio.cdn.mdstrm.com/live-audio-aw/6598b6ab95a235085823b24f?aid=658ddcc0b2c7835d48fee06d&pid=1grlRLiJUedRx6L8Zkz8RaR4tdtTZFtH&sid=AWX5feu1mhwkExMkdegC6uaZEWW00ktQ&uid=rIN3d2ynfU96zISHccV8uRLbdWvH75YP&es=us-b4-p-e-jn18-audio.cdn.mdstrm.com&ote=1769973298124&ot=dpa1JhwiGMOIov67a2OcLg&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b6ab95a235085823b24f&listenerId=rIN3d2ynfU96zISHccV8uRLbdWvH75YP
 #EXTINF:-1 group-title="Música",Radio La Cheverísima - Utcubamba
 https://sp.onliveperu.com/8114/stream/
 #EXTINF:-1 group-title="Música",Radio La Voz del Nor Oriente - Utcubamba
@@ -1185,24 +1277,20 @@ https://panel.innovatestream.pe:10990/undefined
 https://panel.innovatestream.pe:10989/stream
 #EXTINF:-1 group-title="Música",RADIO HUANCAYO
 https://cloud9.ldwebstudios.net:7000/stream
-#EXTINF:-1 group-title="Música",Radio Megamix Lima
-https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5fada56fe4e09508207a7951/playlist.m3u8?aid=5faaeb72f92d7b07dfe10181&pid=0dlHTWVivFNco4kWt821CsXhnVIXJowN&sid=px1Hb89ImN4pIZKFOlHBFYWscdTsu4Dn&uid=YYcwOpnRqVh3hya21X1Au5jJAZ5ber9u&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1769973302509&ot=YJOcLYqNin3eZwYuAcAs7g&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada56fe4e09508207a7951&listenerId=YYcwOpnRqVh3hya21X1Au5jJAZ5ber9u
 #EXTINF:-1 group-title="Música",Radio Stereo 99 - Bagua Grande
 https://sechin.grupocentroserver.com/radio/8300/radio.mp3
 #EXTINF:-1 group-title="Música",Radio Stereo G La Grande - Rodriguez de Mendoza
 https://dattavolt.com/8138/stream
 #EXTINF:-1 group-title="Música",Radio Yaraví
 https://tupanel.info/stream/radioyaravi/stream
+#EXTINF:-1 group-title="Música",Peruana Radio
+https://cloudstream2036.conectarhosting.com/8352/stream
 #EXTINF:-1 group-title="Música",Viva FM Smart
 https://tupanel.info:8780/stream
 #EXTINF:-1 group-title="Música",Radio Un Hueco en el Espacio
 https://cloudstream2032.conectarhosting.com/8106/stream
 #EXTINF:-1 group-title="Música",Exa FM
-https://27063.live.streamtheworld.com/XHPSFMAAC.aac
-#EXTINF:-1 group-title="Música",Radio La Zona Urbana
-https://us-b4-p-e-ml19-audio.cdn.mdstrm.com/live-audio-aw/5fada54116646e098d97e6a5/playlist.m3u8?aid=5faaeb72f92d7b07dfe10181&pid=PodXvtShc3TrEYd6Y2NKoWF2RMA4MFtv&sid=vMnRhSMLgrPDL4x9DCr1M7vvmGTYXt4c&uid=AWsoN76fXI2L8U79Dta0JzTohij0d6Jp&es=us-b4-p-e-ml19-audio.cdn.mdstrm.com&ote=1769973303882&ot=2KZixhI2yHmixDGGpP_eog&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada54116646e098d97e6a5&listenerId=AWsoN76fXI2L8U79Dta0JzTohij0d6Jp
-#EXTINF:-1 group-title="Música",Radio 1550, La Radio Joven. Huancayo. 88.9 FM.
-https://streaming.virtugo.digital:8002/stream
+https://14553.live.streamtheworld.com/XHPSFMAAC.aac
 #EXTINF:-1 group-title="Música",Andina Radio
 http://panel.innovatestream.pe:7058/
 #EXTINF:-1 group-title="Música",Superstereo 105.5 fm
@@ -1217,6 +1305,8 @@ https://stream2.eistreaming.com/7068/stream
 https://sechin.grupocentroserver.com/listen/mi_super_radio/radio.mp3
 #EXTINF:-1 group-title="Música",Radio Armonía Cristiana 94.9 FM (El Sonido Celestial)
 http://eu6.fastcast4u.com:5264/
+#EXTINF:-1 group-title="Música",Radio La Gloria Es De Dios
+https://radio101.mjwebexperts.com/8006/stream
 #EXTINF:-1 group-title="Música",Radio Astoria Iquitos 94.9 FM
 https://conectperu.com:7112/
 #EXTINF:-1 group-title="Música",Radio Mágica 88.3 FM

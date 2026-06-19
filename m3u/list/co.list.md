@@ -115,5 +115,7 @@
 | 109 | Vahos TV | canal.vahostv.com | <https://canal.vahostv.com/stream/0.m3u8> |
 | 110 | Canal RCN (1080p) | IPv4 直链 | <http://138.121.15.230:9002/RCN/index.m3u8> |
 | 111 | Caracol TV (1080p) | IPv4 直链 | <http://138.121.15.230:9002/CARACOL/index.m3u8> |
+| 112 | Canal 1 (576p) | IPv4 直链 | <http://138.121.15.230:9002/CANAL-UNO/index.m3u8> |
+| 113 | Canal Capital (1080p) | IPv4 直链 | <http://138.121.15.230:9002/CANAL-CAPITAL/index.m3u8> |
 
-Updated at **Thu Jun 18 2026 20:29:28 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jun 19 2026 04:47:40 GMT+0000 (Coordinated Universal Time)**

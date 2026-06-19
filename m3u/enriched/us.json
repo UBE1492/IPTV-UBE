@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1781814568003,
+  "updated_at": 1781844460928,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -954,12 +954,6 @@
     {
       "name": "Fox Deportes (1280p)",
       "url": "https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Fox News Channel (480p)",
-      "url": "http://41.205.93.154/FOX-NEWS/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -2485,12 +2479,6 @@
       "category": "Otros"
     },
     {
-      "name": "FXX (720p)",
-      "url": "https://cdn.telecloud.tv/CH3255/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Paramount Network (720p)",
       "url": "http://rezofoot.tv/PARAMOUNT-CHANNEL/index.m3u8",
       "logo": "",
@@ -2552,7 +2540,7 @@
     },
     {
       "name": "Star Channel Latin America (1080i)",
-      "url": "",
+      "url": "#EXTINF:-1 tvg-id=\"Cinecanal.us@Panregional\",Cinecanal (1080p)",
       "logo": "",
       "category": "Otros",
       "options": {
@@ -3513,12 +3501,6 @@
       {
         "name": "Fox Deportes (1280p)",
         "url": "https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Fox News Channel (480p)",
-        "url": "http://41.205.93.154/FOX-NEWS/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -5044,12 +5026,6 @@
         "category": "Otros"
       },
       {
-        "name": "FXX (720p)",
-        "url": "https://cdn.telecloud.tv/CH3255/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "Paramount Network (720p)",
         "url": "http://rezofoot.tv/PARAMOUNT-CHANNEL/index.m3u8",
         "logo": "",
@@ -5111,7 +5087,7 @@
       },
       {
         "name": "Star Channel Latin America (1080i)",
-        "url": "",
+        "url": "#EXTINF:-1 tvg-id=\"Cinecanal.us@Panregional\",Cinecanal (1080p)",
         "logo": "",
         "category": "Otros",
         "options": {

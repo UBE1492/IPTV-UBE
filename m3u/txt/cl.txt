@@ -118,3 +118,8 @@ Sensacion_Costa,https://tvcosta.gleeze.com/memfs/4d48db09-0b1e-4803-8da7-22be388
 Temuco_Television,https://mediacp.nnw.cl:19360/temucotelevision/temucotelevision.m3u8
 TV5_Linares_(720p),https://v1.tustreaming.cl/tv5linares/index.m3u8
 TV8_Concepcion,https://panel.tvstream.cl:1936/sdaumqtfqf/sdaumqtfqf/playlist.m3u8
+Wapp_(720p),https://stream.wapptv.cl/video/index.m3u8
+Uniregion_TV,https://5ff3d9babae13.streamlock.net/ubyecbxnfd/ubyecbxnfd/playlist.m3u8
+Verso_TV,https://verso.coopcom.cl/live/SHf6GLCpn4hDSpWdzaDzgX0ciU82/index.m3u8
+Vivo_TV,https://5eaccbab48461.streamlock.net:1936/8264/8264/playlist.m3u8
+TV+_(1080p),https://jireh-8-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8

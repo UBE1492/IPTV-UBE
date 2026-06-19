@@ -50,3 +50,4 @@ Unsion_TV_(1080p),http://provedores.unsion.tv:8081/srt/1/playlist.m3u8
 VitoTVO_(1080p),http://iptv.vitotvo.video.makrodigital.com:8081/vitotvo/iptv/playlist.m3u8
 Vos_y_TV_(720p)_[Not_24/7],https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
 Zaracay_TV_(1080p)_[Not_24/7],https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
+Teleamazonas_(720p),http://179.60.51.134:8888/TELEAMAZONAS/index.m3u8

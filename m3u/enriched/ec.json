@@ -1,6 +1,6 @@
 {
   "name": "ec",
-  "updated_at": 1781814567766,
+  "updated_at": 1781844460412,
   "m3u": "https://ube1492.github.io/IPTV-UBE/ec.m3u",
   "channels": [
     {
@@ -303,6 +303,12 @@
     {
       "name": "Zaracay TV (1080p) [Not 24/7]",
       "url": "https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Teleamazonas (720p)",
+      "url": "http://179.60.51.134:8888/TELEAMAZONAS/index.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -609,6 +615,12 @@
       {
         "name": "Zaracay TV (1080p) [Not 24/7]",
         "url": "https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Teleamazonas (720p)",
+        "url": "http://179.60.51.134:8888/TELEAMAZONAS/index.m3u8",
         "logo": "",
         "category": "Otros"
       }

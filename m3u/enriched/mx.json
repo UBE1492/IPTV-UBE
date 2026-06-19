@@ -1,6 +1,6 @@
 {
   "name": "mx",
-  "updated_at": 1781814567915,
+  "updated_at": 1781844460598,
   "m3u": "https://ube1492.github.io/IPTV-UBE/mx.m3u",
   "channels": [
     {
@@ -428,7 +428,7 @@
     },
     {
       "name": "Tele Yucatan (1080p) [Geo-blocked]",
-      "url": "",
+      "url": "#EXTINF:-1 tvg-id=\"TlnovelasLatinAmerica.mx@SD\",Tlnovelas Latin America (1080p)",
       "logo": "",
       "category": "Otros",
       "options": {
@@ -863,7 +863,7 @@
       },
       {
         "name": "Tele Yucatan (1080p) [Geo-blocked]",
-        "url": "",
+        "url": "#EXTINF:-1 tvg-id=\"TlnovelasLatinAmerica.mx@SD\",Tlnovelas Latin America (1080p)",
         "logo": "",
         "category": "Otros",
         "options": {

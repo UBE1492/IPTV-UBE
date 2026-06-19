@@ -120,5 +120,10 @@
 | 114 | Temuco Television | mediacp.nnw.cl:19360 | <https://mediacp.nnw.cl:19360/temucotelevision/temucotelevision.m3u8> |
 | 115 | TV5 Linares (720p) | v1.tustreaming.cl | <https://v1.tustreaming.cl/tv5linares/index.m3u8> |
 | 116 | TV8 Concepcion | panel.tvstream.cl:1936 | <https://panel.tvstream.cl:1936/sdaumqtfqf/sdaumqtfqf/playlist.m3u8> |
+| 117 | Wapp (720p) | stream.wapptv.cl | <https://stream.wapptv.cl/video/index.m3u8> |
+| 118 | Uniregion TV | 5ff3d9babae13.streamlock.net | <https://5ff3d9babae13.streamlock.net/ubyecbxnfd/ubyecbxnfd/playlist.m3u8> |
+| 119 | Verso TV | verso.coopcom.cl | <https://verso.coopcom.cl/live/SHf6GLCpn4hDSpWdzaDzgX0ciU82/index.m3u8> |
+| 120 | Vivo TV | 5eaccbab48461.streamlock.net:1936 | <https://5eaccbab48461.streamlock.net:1936/8264/8264/playlist.m3u8> |
+| 121 | TV+ (1080p) | jireh-8-hls-video-us-isp.dps.live | <https://jireh-8-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8> |
 
-Updated at **Thu Jun 18 2026 20:29:27 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jun 19 2026 04:47:40 GMT+0000 (Coordinated Universal Time)**
