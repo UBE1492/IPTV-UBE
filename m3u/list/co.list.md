@@ -118,4 +118,4 @@
 | 112 | Canal 1 (576p) | IPv4 直链 | <http://138.121.15.230:9002/CANAL-UNO/index.m3u8> |
 | 113 | Canal Capital (1080p) | IPv4 直链 | <http://138.121.15.230:9002/CANAL-CAPITAL/index.m3u8> |
 
-Updated at **Sat Jun 20 2026 09:22:20 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jun 20 2026 14:11:18 GMT+0000 (Coordinated Universal Time)**
