@@ -56,4 +56,4 @@
 | 50 | Zaracay TV (1080p) [Not 24/7] | video2.makrodigital.com | <https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8> |
 | 51 | Teleamazonas (720p) | IPv4 直链 | <http://179.60.51.134:8888/TELEAMAZONAS/index.m3u8> |
 
-Updated at **Sat Jun 20 2026 14:11:18 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jun 20 2026 19:41:53 GMT+0000 (Coordinated Universal Time)**
