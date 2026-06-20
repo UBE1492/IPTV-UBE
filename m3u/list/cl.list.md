@@ -126,4 +126,4 @@
 | 120 | Vivo TV | 5eaccbab48461.streamlock.net:1936 | <https://5eaccbab48461.streamlock.net:1936/8264/8264/playlist.m3u8> |
 | 121 | TV+ (1080p) | jireh-8-hls-video-us-isp.dps.live | <https://jireh-8-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8> |
 
-Updated at **Fri Jun 19 2026 19:53:08 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jun 20 2026 04:01:33 GMT+0000 (Coordinated Universal Time)**
