@@ -11,3 +11,5 @@ https://eu1.servers10.com:8081/8004/index.m3u8
 https://live-evg7.tv360.bitel.com.pe/bitel/radiounotv/playlist.m3u8
 #EXTINF:-1 group-title="Música" tvg-id="TurboMixRadioTV.pe@SD",Turbo Mix Radio TV (720p)
 https://live-evg11.tv360.bitel.com.pe/bitel/turbomixSRT/playlist.m3u8
+#EXTINF:-1 group-title="Música" tvg-id="AtlantisRadioTV.pe@SD",Atlantis Radio TV (720p)
+https://live-evg8.tv360.bitel.com.pe/bitel/atlantisSRT/playlist.m3u8
