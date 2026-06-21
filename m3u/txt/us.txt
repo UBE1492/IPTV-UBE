@@ -424,3 +424,15 @@ MTV_(720p),http://198.58.104.90:8989/mtv/index.m3u8
 MTV2_(720p),http://198.58.104.90:8989/mtv2/index.m3u8
 Star_Channel_Latin_America_(1080i),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 Cinecanal_(1080p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+AXN_Black,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+Heartland_(720p),https://2-fss-2.streamhoster.com/pl_120/201950-2724904-1/playlist.m3u8
+History_Latin_America_(1080p),http://138.121.15.230:9002/HISTORY-CHANNEL/index.m3u8
+History_2_Latin_America_(1080p),http://138.121.15.230:9002/HISTORY-2/index.m3u8
+A&E_Latin_America_(1080p),http://138.121.15.230:9002/A&E/index.m3u8
+Lifetime_Latin_America_(1080p),http://138.121.15.230:9002/LIFETIME/index.m3u8
+Universal_TV_Latin_America_(1080p),http://138.121.15.230:9002/UNIVERSAL-CHANNEL/index.m3u8
+Studio_Universal_Latin_America_(1080p),http://138.121.15.230:9002/STUDIO-UNIVERSAL/index.m3u8
+USA_Network_Latin_America_(1080p),http://138.121.15.230:9002/USA/index.m3u8
+DreamWorks_Channel_Latin_America_(1080p),http://138.121.15.230:9002/DREAMWORKS/index.m3u8
+Canal_Infantil_(1080p),http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/canalinfantil/playlist.m3u8
+SPEEDVISION_(1080p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36

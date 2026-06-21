@@ -425,5 +425,15 @@
 | 419 | Oxygen (720p) | IPv4 直链 | <http://198.58.104.90:8989/oxygen/index.m3u8> |
 | 420 | MTV (720p) | IPv4 直链 | <http://198.58.104.90:8989/mtv/index.m3u8> |
 | 421 | MTV2 (720p) | IPv4 直链 | <http://198.58.104.90:8989/mtv2/index.m3u8> |
+| 422 | Heartland (720p) | 2-fss-2.streamhoster.com | <https://2-fss-2.streamhoster.com/pl_120/201950-2724904-1/playlist.m3u8> |
+| 423 | History Latin America (1080p) | IPv4 直链 | <http://138.121.15.230:9002/HISTORY-CHANNEL/index.m3u8> |
+| 424 | History 2 Latin America (1080p) | IPv4 直链 | <http://138.121.15.230:9002/HISTORY-2/index.m3u8> |
+| 425 | A&E Latin America (1080p) | IPv4 直链 | <http://138.121.15.230:9002/A&E/index.m3u8> |
+| 426 | Lifetime Latin America (1080p) | IPv4 直链 | <http://138.121.15.230:9002/LIFETIME/index.m3u8> |
+| 427 | Universal TV Latin America (1080p) | IPv4 直链 | <http://138.121.15.230:9002/UNIVERSAL-CHANNEL/index.m3u8> |
+| 428 | Studio Universal Latin America (1080p) | IPv4 直链 | <http://138.121.15.230:9002/STUDIO-UNIVERSAL/index.m3u8> |
+| 429 | USA Network Latin America (1080p) | IPv4 直链 | <http://138.121.15.230:9002/USA/index.m3u8> |
+| 430 | DreamWorks Channel Latin America (1080p) | IPv4 直链 | <http://138.121.15.230:9002/DREAMWORKS/index.m3u8> |
+| 431 | Canal Infantil (1080p) | bantel-cdn1.iptvperu.tv:1935 | <http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/canalinfantil/playlist.m3u8> |
 
-Updated at **Sat Jun 20 2026 19:41:53 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jun 21 2026 04:43:28 GMT+0000 (Coordinated Universal Time)**

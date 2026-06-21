@@ -1,6 +1,6 @@
 {
   "name": "es",
-  "updated_at": 1781984513378,
+  "updated_at": 1782017008132,
   "m3u": "https://ube1492.github.io/IPTV-UBE/es.m3u",
   "channels": [
     {
@@ -884,6 +884,15 @@
     },
     {
       "name": "AXN CEE Romania",
+      "url": "#EXTINF:-1 tvg-id=\"AXN.es@SD\",AXN (1080p)",
+      "logo": "",
+      "category": "Otros",
+      "options": {
+        "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3"
+      }
+    },
+    {
+      "name": "AXN CEE",
       "url": "",
       "logo": "",
       "category": "Otros",
@@ -1775,6 +1784,15 @@
       },
       {
         "name": "AXN CEE Romania",
+        "url": "#EXTINF:-1 tvg-id=\"AXN.es@SD\",AXN (1080p)",
+        "logo": "",
+        "category": "Otros",
+        "options": {
+          "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3"
+        }
+      },
+      {
+        "name": "AXN CEE",
         "url": "",
         "logo": "",
         "category": "Otros",

@@ -311,3 +311,5 @@ https://timelesstv1-301f.kxcdn.com/hls/TimelessTV.m3u8
 https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffbb4047a8143ac2166ead44/index.m3u8
 #EXTINF:-1 tvg-id="AXSTV.us@SD",AXS TV (720p)
 http://23.239.31.26:8989/axstv/index.m3u8
+#EXTINF:-1 tvg-id="UniversalTVLatinAmerica.us@Panregional",Universal TV Latin America (1080p)
+http://138.121.15.230:9002/UNIVERSAL-CHANNEL/index.m3u8
