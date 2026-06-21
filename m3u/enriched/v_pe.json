@@ -1,17 +1,11 @@
 {
   "name": "v_pe",
-  "updated_at": 1782017022947,
+  "updated_at": 1782035699606,
   "m3u": "https://ube1492.github.io/IPTV-UBE/v_pe.m3u",
   "channels": [
     {
       "name": "BHTV|SD|",
       "url": "http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8",
-      "logo": "LG",
-      "category": "Otros"
-    },
-    {
-      "name": "Latina.|SD|",
-      "url": "http://photocall.tv/latina.php/.m3u8",
       "logo": "LG",
       "category": "Otros"
     }
@@ -21,12 +15,6 @@
       {
         "name": "BHTV|SD|",
         "url": "http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8",
-        "logo": "LG",
-        "category": "Otros"
-      },
-      {
-        "name": "Latina.|SD|",
-        "url": "http://photocall.tv/latina.php/.m3u8",
         "logo": "LG",
         "category": "Otros"
       }

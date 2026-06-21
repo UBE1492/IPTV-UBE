@@ -119,4 +119,4 @@
 | 113 | Canal Capital (1080p) | IPv4 直链 | <http://138.121.15.230:9002/CANAL-CAPITAL/index.m3u8> |
 | 114 | ANC Television (720p) | live.amelbatv.co:81 | <https://live.amelbatv.co:81/anctvlive/index.m3u8> |
 
-Updated at **Sun Jun 21 2026 04:43:28 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jun 21 2026 09:54:42 GMT+0000 (Coordinated Universal Time)**

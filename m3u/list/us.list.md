@@ -436,4 +436,4 @@
 | 430 | DreamWorks Channel Latin America (1080p) | IPv4 直链 | <http://138.121.15.230:9002/DREAMWORKS/index.m3u8> |
 | 431 | Canal Infantil (1080p) | bantel-cdn1.iptvperu.tv:1935 | <http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/canalinfantil/playlist.m3u8> |
 
-Updated at **Sun Jun 21 2026 04:43:28 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jun 21 2026 09:54:41 GMT+0000 (Coordinated Universal Time)**
