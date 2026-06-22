@@ -127,4 +127,4 @@
 | 121 | TV+ (1080p) | jireh-8-hls-video-us-isp.dps.live | <https://jireh-8-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8> |
 | 122 | Mega (720p) | pantera1-100gb-cl-movistar.dps.live | <https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8> |
 
-Updated at **Mon Jun 22 2026 12:11:02 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jun 22 2026 20:52:08 GMT+0000 (Coordinated Universal Time)**
