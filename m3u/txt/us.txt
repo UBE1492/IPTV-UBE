@@ -317,7 +317,6 @@ NewsNet_(720p)_[Not_24/7],https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1
 Newsy_(1080p),https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
 Nickelodeon_(1080p),http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 Nickelodeon_(576i),http://79.127.207.193/Nickelodeon/playlist.m3u8
-NowMedia_Television_(1080p),https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a4243540d4b911f0b624bda5e9a32aa9/tracks-v1/index.fmp4.m3u8
 NRB_TV_(480p),https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
 NTD_TV_Asia-Pacific,https://live.ntdtv.com/aplive200/playlist.m3u8
 NTD_TV_Canada,https://live.ntdtv.com/mllive860/playlist.m3u8
@@ -436,3 +435,7 @@ USA_Network_Latin_America_(1080p),http://138.121.15.230:9002/USA/index.m3u8
 DreamWorks_Channel_Latin_America_(1080p),http://138.121.15.230:9002/DREAMWORKS/index.m3u8
 Canal_Infantil_(1080p),http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/canalinfantil/playlist.m3u8
 SPEEDVISION_(1080p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+Kaloopy_TV_(1080p),https://streamingserver000.viewtv.cloud/VIEWTVNETWORK-KALOOPY/index.m3u8
+NowMedia_Television_Spanish_(1080p),https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a16fa020f4c411f09ddaa1978319689a/index.m3u8
+AXN_Adria,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+Comedy_Central_Latin_America,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3

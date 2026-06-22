@@ -118,5 +118,6 @@
 | 112 | Canal 1 (576p) | IPv4 直链 | <http://138.121.15.230:9002/CANAL-UNO/index.m3u8> |
 | 113 | Canal Capital (1080p) | IPv4 直链 | <http://138.121.15.230:9002/CANAL-CAPITAL/index.m3u8> |
 | 114 | ANC Television (720p) | live.amelbatv.co:81 | <https://live.amelbatv.co:81/anctvlive/index.m3u8> |
+| 115 | Aupur Television (1080p) | canal.aupurtv.co | <https://canal.aupurtv.co/live/stream/index.m3u8> |
 
-Updated at **Sun Jun 21 2026 19:47:55 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jun 22 2026 04:49:02 GMT+0000 (Coordinated Universal Time)**

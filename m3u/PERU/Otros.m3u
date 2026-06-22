@@ -53,3 +53,23 @@ https://live-evg11.tv360.bitel.com.pe/bitel/trivutv/playlist.m3u8
 https://live20.bozztv.com/giatv/giatv-doblec1/doblec1/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalIPe.pe@SD",Canal IPe (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="CANALMTelevision.pe@SD",CANAL M Television (720p)
+https://live-evg10.tv360.bitel.com.pe/bitel/anqaratv/playlist.m3u8
+#EXTINF:-1 tvg-id="RealTelevision.pe@SD",Real Television (720p)
+https://live-evg10.tv360.bitel.com.pe/bitel/realtv/playlist.m3u8
+#EXTINF:-1 tvg-id="Teleselva.pe@SD",Teleselva (720p)
+https://live-evg7.tv360.bitel.com.pe/bitel/teleselva/playlist.m3u8
+#EXTINF:-1 tvg-id="RTP.pe@SD",RTP (720p)
+https://live-evg7.tv360.bitel.com.pe/bitel/rtp/playlist.m3u8
+#EXTINF:-1 tvg-id="Antena1.pe@SD",Antena 1 (720p)
+https://live-evg8.tv360.bitel.com.pe/bitel/aunoSRT/playlist.m3u8
+#EXTINF:-1 tvg-id="SuperCanal.pe@SD",Super Canal (720p)
+https://live-evg7.tv360.bitel.com.pe/bitel/supercanalSRT/playlist.m3u8
+#EXTINF:-1 tvg-id="TelevisionTarapoto.pe@SD",Television Tarapoto (720p)
+https://live-evg11.tv360.bitel.com.pe/bitel/tvtarapotoSRT/playlist.m3u8
+#EXTINF:-1 tvg-id="UcayalinadeTelevision.pe@SD",Ucayalina de Television (720p)
+https://live-evg11.tv360.bitel.com.pe/bitel/utv/playlist.m3u8
+#EXTINF:-1 tvg-id="ABTelevision.pe@SD",ABTelevision (720p)
+https://live-evg8.tv360.bitel.com.pe/bitel/abctelevisionSRT/playlist.m3u8
+#EXTINF:-1 tvg-id="Yurivision.pe@SD",Yurivision (720p)
+https://live-evg5.tv360.bitel.com.pe/bitel/yurivisionSRT/playlist.m3u8

@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1782071275230,
+  "updated_at": 1782103742773,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -1912,12 +1912,6 @@
       "category": "Otros"
     },
     {
-      "name": "NowMedia Television (1080p)",
-      "url": "https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a4243540d4b911f0b624bda5e9a32aa9/tracks-v1/index.fmp4.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "NRB TV (480p)",
       "url": "https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8",
       "logo": "",
@@ -2612,11 +2606,26 @@
     },
     {
       "name": "SPEEDVISION (1080p)",
-      "url": "",
+      "url": "#EXTINF:-1 tvg-id=\"KaloopyTV.us@SD\",Kaloopy TV (1080p)",
       "logo": "",
       "category": "Otros",
       "options": {
         "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+      }
+    },
+    {
+      "name": "NowMedia Television Spanish (1080p)",
+      "url": "https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a16fa020f4c411f09ddaa1978319689a/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "AXN Adria",
+      "url": "#EXTINF:-1 tvg-id=\"ComedyCentralLatinAmerica.us@Panregional\",Comedy Central Latin America",
+      "logo": "",
+      "category": "Otros",
+      "options": {
+        "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3"
       }
     }
   ],
@@ -4531,12 +4540,6 @@
         "category": "Otros"
       },
       {
-        "name": "NowMedia Television (1080p)",
-        "url": "https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a4243540d4b911f0b624bda5e9a32aa9/tracks-v1/index.fmp4.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "NRB TV (480p)",
         "url": "https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8",
         "logo": "",
@@ -5231,11 +5234,26 @@
       },
       {
         "name": "SPEEDVISION (1080p)",
-        "url": "",
+        "url": "#EXTINF:-1 tvg-id=\"KaloopyTV.us@SD\",Kaloopy TV (1080p)",
         "logo": "",
         "category": "Otros",
         "options": {
           "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "NowMedia Television Spanish (1080p)",
+        "url": "https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a16fa020f4c411f09ddaa1978319689a/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "AXN Adria",
+        "url": "#EXTINF:-1 tvg-id=\"ComedyCentralLatinAmerica.us@Panregional\",Comedy Central Latin America",
+        "logo": "",
+        "category": "Otros",
+        "options": {
+          "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3"
         }
       }
     ]

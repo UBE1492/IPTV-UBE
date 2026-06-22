@@ -123,3 +123,4 @@ Uniregion_TV,https://5ff3d9babae13.streamlock.net/ubyecbxnfd/ubyecbxnfd/playlist
 Verso_TV,https://verso.coopcom.cl/live/SHf6GLCpn4hDSpWdzaDzgX0ciU82/index.m3u8
 Vivo_TV,https://5eaccbab48461.streamlock.net:1936/8264/8264/playlist.m3u8
 TV+_(1080p),https://jireh-8-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8
+Mega_(720p),https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8

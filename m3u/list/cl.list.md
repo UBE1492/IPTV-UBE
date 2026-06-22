@@ -125,5 +125,6 @@
 | 119 | Verso TV | verso.coopcom.cl | <https://verso.coopcom.cl/live/SHf6GLCpn4hDSpWdzaDzgX0ciU82/index.m3u8> |
 | 120 | Vivo TV | 5eaccbab48461.streamlock.net:1936 | <https://5eaccbab48461.streamlock.net:1936/8264/8264/playlist.m3u8> |
 | 121 | TV+ (1080p) | jireh-8-hls-video-us-isp.dps.live | <https://jireh-8-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8> |
+| 122 | Mega (720p) | pantera1-100gb-cl-movistar.dps.live | <https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8> |
 
-Updated at **Sun Jun 21 2026 19:47:54 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jun 22 2026 04:49:02 GMT+0000 (Coordinated Universal Time)**
