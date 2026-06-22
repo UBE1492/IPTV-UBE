@@ -120,4 +120,4 @@
 | 114 | ANC Television (720p) | live.amelbatv.co:81 | <https://live.amelbatv.co:81/anctvlive/index.m3u8> |
 | 115 | Aupur Television (1080p) | canal.aupurtv.co | <https://canal.aupurtv.co/live/stream/index.m3u8> |
 
-Updated at **Mon Jun 22 2026 04:49:02 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jun 22 2026 12:11:03 GMT+0000 (Coordinated Universal Time)**
