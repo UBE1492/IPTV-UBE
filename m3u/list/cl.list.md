@@ -142,4 +142,4 @@
 | 136 | Vida Nueva TV | mc.servidor.stream:19360 | <https://mc.servidor.stream:19360/8240/8240.m3u8> |
 | 137 | Vision TV | tv.arkeo.cl:1936 | <https://tv.arkeo.cl:1936/8044/8044/playlist.m3u8> |
 
-Updated at **Tue Jun 23 2026 09:48:53 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jun 23 2026 14:56:19 GMT+0000 (Coordinated Universal Time)**
