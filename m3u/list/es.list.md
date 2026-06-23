@@ -143,4 +143,4 @@
 | 137 | XPTV US (720p) | janus.xpbroadcasting.com:8443 | <https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8> |
 | 138 | AXN CEE Bulgary | IPv4 直链 | <http://85.11.144.9:4222/AXN> |
 
-Updated at **Tue Jun 23 2026 03:53:46 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jun 23 2026 09:48:54 GMT+0000 (Coordinated Universal Time)**
