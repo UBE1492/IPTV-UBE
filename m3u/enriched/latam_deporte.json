@@ -1,6 +1,6 @@
 {
   "name": "latam_deporte",
-  "updated_at": 1782161526324,
+  "updated_at": 1782186825213,
   "m3u": "https://ube1492.github.io/IPTV-UBE/latam_deporte.m3u",
   "channels": [
     {
@@ -18,12 +18,6 @@
     {
       "name": "ESPN Deportes (360p)",
       "url": "http://origin.thetvapp.to/hls/espn-deportes/mono.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Fox Sports 1 (1280p)",
-      "url": "https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -63,12 +57,6 @@
       {
         "name": "ESPN Deportes (360p)",
         "url": "http://origin.thetvapp.to/hls/espn-deportes/mono.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Fox Sports 1 (1280p)",
-        "url": "https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },

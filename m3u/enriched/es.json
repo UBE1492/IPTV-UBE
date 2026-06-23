@@ -1,6 +1,6 @@
 {
   "name": "es",
-  "updated_at": 1782161528618,
+  "updated_at": 1782186826010,
   "m3u": "https://ube1492.github.io/IPTV-UBE/es.m3u",
   "channels": [
     {
@@ -884,7 +884,7 @@
     },
     {
       "name": "AXN CEE Romania",
-      "url": "#EXTINF:-1 tvg-id=\"AXN.es@SD\",AXN (1080p)",
+      "url": "#EXTINF:-1 tvg-id=\"AXNCEE.es@CzechRepublic\",AXN CEE Czech Republic",
       "logo": "",
       "category": "Otros",
       "options": {
@@ -892,13 +892,10 @@
       }
     },
     {
-      "name": "AXN CEE",
-      "url": "",
+      "name": "AXN CEE Bulgary",
+      "url": "http://85.11.144.9:4222/AXN",
       "logo": "",
-      "category": "Otros",
-      "options": {
-        "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3"
-      }
+      "category": "Otros"
     }
   ],
   "categories": {
@@ -1784,7 +1781,7 @@
       },
       {
         "name": "AXN CEE Romania",
-        "url": "#EXTINF:-1 tvg-id=\"AXN.es@SD\",AXN (1080p)",
+        "url": "#EXTINF:-1 tvg-id=\"AXNCEE.es@CzechRepublic\",AXN CEE Czech Republic",
         "logo": "",
         "category": "Otros",
         "options": {
@@ -1792,13 +1789,10 @@
         }
       },
       {
-        "name": "AXN CEE",
-        "url": "",
+        "name": "AXN CEE Bulgary",
+        "url": "http://85.11.144.9:4222/AXN",
         "logo": "",
-        "category": "Otros",
-        "options": {
-          "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3"
-        }
+        "category": "Otros"
       }
     ]
   }

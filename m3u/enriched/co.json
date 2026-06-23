@@ -1,6 +1,6 @@
 {
   "name": "co",
-  "updated_at": 1782161529211,
+  "updated_at": 1782186826251,
   "m3u": "https://ube1492.github.io/IPTV-UBE/co.m3u",
   "channels": [
     {
@@ -708,6 +708,36 @@
     {
       "name": "Aupur Television (1080p)",
       "url": "https://canal.aupurtv.co/live/stream/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "RCN HD2 (1080p)",
+      "url": "http://181.78.14.26:4000/play/a07m/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Caracol HD2 (1080p)",
+      "url": "http://181.78.14.26:4000/play/a00d/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Nuestra Tele Internacional (576p)",
+      "url": "http://181.78.8.199:8000/play/a0a8/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "NTN24 (576p)",
+      "url": "http://181.78.8.199:8000/play/a0a6/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "RCN Novelas (576p)",
+      "url": "http://181.78.8.199:8000/play/a0a7/index.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -1419,6 +1449,36 @@
       {
         "name": "Aupur Television (1080p)",
         "url": "https://canal.aupurtv.co/live/stream/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "RCN HD2 (1080p)",
+        "url": "http://181.78.14.26:4000/play/a07m/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Caracol HD2 (1080p)",
+        "url": "http://181.78.14.26:4000/play/a00d/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Nuestra Tele Internacional (576p)",
+        "url": "http://181.78.8.199:8000/play/a0a8/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "NTN24 (576p)",
+        "url": "http://181.78.8.199:8000/play/a0a6/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "RCN Novelas (576p)",
+        "url": "http://181.78.8.199:8000/play/a0a7/index.m3u8",
         "logo": "",
         "category": "Otros"
       }

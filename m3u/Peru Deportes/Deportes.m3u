@@ -23,3 +23,5 @@ http://38.224.73.146:8000/play/a0vt/index.m3u8
 http://38.224.73.146:8000/play/a1gl/index.m3u8
 #EXTINF:-1 tvg-id="GolPeru.pe" tvg-name="GOLPERU" tvg-logo="https://raw.githubusercontent.com/iptv-org/api/master/logos/GolPerú.pe.png" group-title="Deportes",GOLPERU
 http://38.224.73.146:8000/play/a1fs/index.m3u8
+#EXTINF:-1 tvg-id="MovistarDeportes.pe@SD",Movistar Deportes (1080p)
+http://45.4.1.201:8000/play/a13e/index.m3u8

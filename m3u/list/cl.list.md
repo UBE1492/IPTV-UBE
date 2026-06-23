@@ -126,5 +126,20 @@
 | 120 | Vivo TV | 5eaccbab48461.streamlock.net:1936 | <https://5eaccbab48461.streamlock.net:1936/8264/8264/playlist.m3u8> |
 | 121 | TV+ (1080p) | jireh-8-hls-video-us-isp.dps.live | <https://jireh-8-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8> |
 | 122 | Mega (720p) | pantera1-100gb-cl-movistar.dps.live | <https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8> |
+| 123 | ETC TV (576p) | IPv4 直链 | <http://181.119.93.83:8000/play/a217/index.m3u8> |
+| 124 | 13C (576p) | IPv4 直链 | <http://45.4.1.201:8000/play/a132/index.m3u8> |
+| 125 | 13Rec (576p) | IPv4 直链 | <http://45.4.1.201:8000/play/a11i/index.m3u8> |
+| 126 | TV Chile (1080p) | edgectc.com | <https://edgectc.com/TV_CHILE_HD/index.m3u8> |
+| 127 | Zona Sur TV (720p) | 5ff3d9babae13.streamlock.net | <https://5ff3d9babae13.streamlock.net/tvtumqsfdn/tvtumqsfdn/playlist.m3u8> |
+| 128 | La Chilena TV | vdochile.com:3134 | <https://vdochile.com:3134/stream/play.m3u8> |
+| 129 | La Metro TV | jireh-8-hls-video-us-isp.dps.live | <https://jireh-8-hls-video-us-isp.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/playlist.m3u8> |
+| 130 | La Nuestra (1080p) | redirector.rudo.video | <https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/ln/ln.smil/playlist.m3u8> |
+| 131 | Odisea TV (720p) | v2.tustreaming.cl | <https://v2.tustreaming.cl/odiseatv/index.m3u8> |
+| 132 | Pauta (1080p) | redirector.rudo.video | <https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/pautatv/pautatv.smil/playlist.m3u8> |
+| 133 | Surena TV | vs20.live.opencaster.com | <https://vs20.live.opencaster.com/surenatv_187f915a/index.m3u8> |
+| 134 | UMAGTV | tls-cl.cdnz.cl | <https://tls-cl.cdnz.cl/umag1/ngrp:live_all/playlist.m3u8> |
+| 135 | UMAGTV2 | tls-cl.cdnz.cl | <https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8> |
+| 136 | Vida Nueva TV | mc.servidor.stream:19360 | <https://mc.servidor.stream:19360/8240/8240.m3u8> |
+| 137 | Vision TV | tv.arkeo.cl:1936 | <https://tv.arkeo.cl:1936/8044/8044/playlist.m3u8> |
 
-Updated at **Mon Jun 22 2026 20:52:08 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jun 23 2026 03:53:45 GMT+0000 (Coordinated Universal Time)**

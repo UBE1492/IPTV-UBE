@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1782161528955,
+  "updated_at": 1782186826050,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -966,12 +966,6 @@
     {
       "name": "Fox News Radio (720p)",
       "url": "https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Fox Sports 1 (1280p)",
-      "url": "https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -3594,12 +3588,6 @@
       {
         "name": "Fox News Radio (720p)",
         "url": "https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Fox Sports 1 (1280p)",
-        "url": "https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },

@@ -7,9 +7,8 @@
 | 1 | beIN SPORTS XTRA (1080p) | bein-xtra-bein.amagi.tv | <https://bein-xtra-bein.amagi.tv/playlist.m3u8> |
 | 2 | DirecTV Sports (1080p) | latam-cache-sv2-cdn.latamlive.net | <https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd> |
 | 3 | ESPN Deportes (360p) | origin.thetvapp.to | <http://origin.thetvapp.to/hls/espn-deportes/mono.m3u8> |
-| 4 | Fox Sports 1 (1280p) | cors-proxy.cooks.fyi | <https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8> |
-| 5 | Fox Sports 2 (480p) | tvsen7.aynaott.com | <https://tvsen7.aynaott.com/foxsports2/index.m3u8> |
-| 6 | beIN Sports USA (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_BEIN/index.m3u8> |
-| 7 | ESPNU (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_ESPNU/index.m3u8> |
+| 4 | Fox Sports 2 (480p) | tvsen7.aynaott.com | <https://tvsen7.aynaott.com/foxsports2/index.m3u8> |
+| 5 | beIN Sports USA (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_BEIN/index.m3u8> |
+| 6 | ESPNU (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_ESPNU/index.m3u8> |
 
-Updated at **Mon Jun 22 2026 20:52:06 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jun 23 2026 03:53:45 GMT+0000 (Coordinated Universal Time)**

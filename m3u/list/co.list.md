@@ -119,5 +119,10 @@
 | 113 | Canal Capital (1080p) | IPv4 直链 | <http://138.121.15.230:9002/CANAL-CAPITAL/index.m3u8> |
 | 114 | ANC Television (720p) | live.amelbatv.co:81 | <https://live.amelbatv.co:81/anctvlive/index.m3u8> |
 | 115 | Aupur Television (1080p) | canal.aupurtv.co | <https://canal.aupurtv.co/live/stream/index.m3u8> |
+| 116 | RCN HD2 (1080p) | IPv4 直链 | <http://181.78.14.26:4000/play/a07m/index.m3u8> |
+| 117 | Caracol HD2 (1080p) | IPv4 直链 | <http://181.78.14.26:4000/play/a00d/index.m3u8> |
+| 118 | Nuestra Tele Internacional (576p) | IPv4 直链 | <http://181.78.8.199:8000/play/a0a8/index.m3u8> |
+| 119 | NTN24 (576p) | IPv4 直链 | <http://181.78.8.199:8000/play/a0a6/index.m3u8> |
+| 120 | RCN Novelas (576p) | IPv4 直链 | <http://181.78.8.199:8000/play/a0a7/index.m3u8> |
 
-Updated at **Mon Jun 22 2026 20:52:09 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jun 23 2026 03:53:46 GMT+0000 (Coordinated Universal Time)**

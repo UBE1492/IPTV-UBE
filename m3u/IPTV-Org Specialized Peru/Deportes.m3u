@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MovistarDeportes.pe@SD",Movistar Deportes (1080p)
+http://45.4.1.201:8000/play/a13e/index.m3u8
