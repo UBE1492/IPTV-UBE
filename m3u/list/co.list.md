@@ -125,4 +125,4 @@
 | 119 | NTN24 (576p) | IPv4 直链 | <http://181.78.8.199:8000/play/a0a6/index.m3u8> |
 | 120 | RCN Novelas (576p) | IPv4 直链 | <http://181.78.8.199:8000/play/a0a7/index.m3u8> |
 
-Updated at **Tue Jun 23 2026 14:56:20 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jun 23 2026 20:10:10 GMT+0000 (Coordinated Universal Time)**

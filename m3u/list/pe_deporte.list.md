@@ -6,5 +6,6 @@
 | --- | ------------ | ---- | ------ |
 | 1 | LIGA 1 MAX (Op 4) | IPv4 直链 | <http://38.210.3.64:8090/play/a0nn/index.m3u8> |
 | 2 | L1 Max (1080p) | IPv4 直链 | <http://45.4.1.201:8000/play/a123/index.m3u8> |
+| 3 | Movistar Deportes (1080p) | IPv4 直链 | <http://45.4.1.201:8000/play/a13e/index.m3u8> |
 
-Updated at **Tue Jun 23 2026 14:56:29 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jun 23 2026 20:10:17 GMT+0000 (Coordinated Universal Time)**
