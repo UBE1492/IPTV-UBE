@@ -57,4 +57,4 @@
 | 51 | Teleamazonas (720p) | IPv4 直链 | <http://179.60.51.134:8888/TELEAMAZONAS/index.m3u8> |
 | 52 | Gaviota TV | gaviotatv.streamseguro.com:3195 | <https://gaviotatv.streamseguro.com:3195/live/gaviotatvlive.m3u8> |
 
-Updated at **Wed Jun 24 2026 14:38:22 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jun 24 2026 19:50:50 GMT+0000 (Coordinated Universal Time)**
