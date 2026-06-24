@@ -11,4 +11,4 @@
 | 5 | beIN Sports USA (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_BEIN/index.m3u8> |
 | 6 | ESPNU (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_ESPNU/index.m3u8> |
 
-Updated at **Tue Jun 23 2026 20:10:07 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jun 24 2026 03:55:03 GMT+0000 (Coordinated Universal Time)**

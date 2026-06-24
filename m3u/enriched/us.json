@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1782245410033,
+  "updated_at": 1782273304213,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -2435,18 +2435,12 @@
     },
     {
       "name": "The Beach Channel (720p) [Not 24/7]",
-      "url": "#EXTINF:-1 tvg-id=\"AXNWhite.us@SD\",AXN White",
+      "url": "#EXTINF:-1 tvg-id=\"NTDTV.us@East\",NTD TV (1080p)",
       "logo": "",
       "category": "Otros",
       "options": {
         "http-referrer": "https://player.castr.com/"
       }
-    },
-    {
-      "name": "NTD TV (1080p)",
-      "url": "https://ntd02.akamaized.net/HD-NY/index.m3u8",
-      "logo": "",
-      "category": "Otros"
     },
     {
       "name": "Timeless TV",
@@ -5057,18 +5051,12 @@
       },
       {
         "name": "The Beach Channel (720p) [Not 24/7]",
-        "url": "#EXTINF:-1 tvg-id=\"AXNWhite.us@SD\",AXN White",
+        "url": "#EXTINF:-1 tvg-id=\"NTDTV.us@East\",NTD TV (1080p)",
         "logo": "",
         "category": "Otros",
         "options": {
           "http-referrer": "https://player.castr.com/"
         }
-      },
-      {
-        "name": "NTD TV (1080p)",
-        "url": "https://ntd02.akamaized.net/HD-NY/index.m3u8",
-        "logo": "",
-        "category": "Otros"
       },
       {
         "name": "Timeless TV",

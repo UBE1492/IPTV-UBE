@@ -405,7 +405,6 @@ Telemundo_Internacional,http://181.114.57.246:4000/play/XmUjm3NXcGJkvvQ8/index.m
 Tennis_Channel_(1080p),https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
 Teve_Vida_Network_(480p)_[Not_24/7],https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/.m3u8
 The_Beach_Channel_(720p)_[Not_24/7],#EXTVLCOPT:http-referrer=https://player.castr.com/
-AXN_White,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 NTD_TV_(1080p),https://ntd02.akamaized.net/HD-NY/index.m3u8
 Timeless_TV,https://timelesstv1-301f.kxcdn.com/hls/TimelessTV.m3u8
 Magnificent_Movies_Network,https://mmn1-301f.kxcdn.com/hls/MMN-HLS.m3u8

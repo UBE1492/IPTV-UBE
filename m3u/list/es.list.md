@@ -141,6 +141,5 @@
 | 135 | XPTV1 (720p) | janus.xpbroadcasting.com:8443 | <https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8> |
 | 136 | XPTV2 (720p) | janus.xpbroadcasting.com:8443 | <https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8> |
 | 137 | XPTV US (720p) | janus.xpbroadcasting.com:8443 | <https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8> |
-| 138 | AXN CEE Bulgary | IPv4 直链 | <http://85.11.144.9:4222/AXN> |
 
-Updated at **Tue Jun 23 2026 20:10:09 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jun 24 2026 03:55:03 GMT+0000 (Coordinated Universal Time)**

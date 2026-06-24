@@ -160,3 +160,5 @@ http://8.243.126.131:8000/play/a01v/index.m3u8
 http://45.4.1.201:8000/play/a1ai/index.m3u8
 #EXTINF:-1 tvg-id="L1Max.pe@SD",L1 Max (1080p)
 http://45.4.1.201:8000/play/a123/index.m3u8
+#EXTINF:-1 tvg-id="CanalN.pe@SD",Canal N (576p)
+http://8.243.126.131:8000/play/a058/index.m3u8
