@@ -11,4 +11,4 @@
 | 5 | Radio Rumba TV (720p) | live-evg7.tv360.bitel.com.pe | <https://live-evg7.tv360.bitel.com.pe/bitel/rumba/playlist.m3u8> |
 | 6 | Turbo Mix Radio TV (720p) | live-evg11.tv360.bitel.com.pe | <https://live-evg11.tv360.bitel.com.pe/bitel/turbomixSRT/playlist.m3u8> |
 
-Updated at **Wed Jun 24 2026 03:55:07 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jun 24 2026 09:36:53 GMT+0000 (Coordinated Universal Time)**
