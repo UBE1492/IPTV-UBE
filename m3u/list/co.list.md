@@ -124,5 +124,8 @@
 | 118 | Nuestra Tele Internacional (576p) | IPv4 直链 | <http://181.78.8.199:8000/play/a0a8/index.m3u8> |
 | 119 | NTN24 (576p) | IPv4 直链 | <http://181.78.8.199:8000/play/a0a6/index.m3u8> |
 | 120 | RCN Novelas (576p) | IPv4 直链 | <http://181.78.8.199:8000/play/a0a7/index.m3u8> |
+| 121 | Canal Womtv (720p) | live.amelbatv.co:81 | <https://live.amelbatv.co:81/womtvlive/index.m3u8> |
+| 122 | Cine35mm | micanal.ovh | <https://micanal.ovh/livestreams/262.D9DCDM7EXNRT.m3u8> |
+| 123 | Huila TV | server.asilivehd.com:3333 | <https://server.asilivehd.com:3333/live/huilatvlive.m3u8> |
 
-Updated at **Wed Jun 24 2026 19:50:51 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jun 25 2026 03:56:00 GMT+0000 (Coordinated Universal Time)**

@@ -87,3 +87,5 @@ https://vs20.live.opencaster.com/diego_57244803/index.m3u8
 https://canal.vahostv.com/stream/0.m3u8
 #EXTINF:-1 tvg-id="CaracolTV.co@SD",Caracol TV (1080p)
 http://138.121.15.230:9002/CARACOL/index.m3u8
+#EXTINF:-1 tvg-id="HuilaTV.co@SD",Huila TV
+https://server.asilivehd.com:3333/live/huilatvlive.m3u8

@@ -1,6 +1,6 @@
 {
   "name": "co",
-  "updated_at": 1782330651008,
+  "updated_at": 1782359760363,
   "m3u": "https://ube1492.github.io/IPTV-UBE/co.m3u",
   "channels": [
     {
@@ -738,6 +738,24 @@
     {
       "name": "RCN Novelas (576p)",
       "url": "http://181.78.8.199:8000/play/a0a7/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Canal Womtv (720p)",
+      "url": "https://live.amelbatv.co:81/womtvlive/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Cine35mm",
+      "url": "https://micanal.ovh/livestreams/262.D9DCDM7EXNRT.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Huila TV",
+      "url": "https://server.asilivehd.com:3333/live/huilatvlive.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -1479,6 +1497,24 @@
       {
         "name": "RCN Novelas (576p)",
         "url": "http://181.78.8.199:8000/play/a0a7/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Canal Womtv (720p)",
+        "url": "https://live.amelbatv.co:81/womtvlive/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Cine35mm",
+        "url": "https://micanal.ovh/livestreams/262.D9DCDM7EXNRT.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Huila TV",
+        "url": "https://server.asilivehd.com:3333/live/huilatvlive.m3u8",
         "logo": "",
         "category": "Otros"
       }
