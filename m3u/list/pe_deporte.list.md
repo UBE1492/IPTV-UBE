@@ -5,12 +5,12 @@
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
 | 1 | Fox Sports 2 | IPv4 直链 | <http://179.1.87.75:8098/play/a0fg/index.m3u8> |
-| 2 | Fox Sports 3 | IPv4 直链 | <http://179.1.87.75:8098/play/a0fh/index.m3u8> |
+| 2 | ESPN 2 | IPv4 直链 | <http://179.1.87.75:8098/play/a0ew/index.m3u8> |
 | 3 | ESPN 3 | IPv4 直链 | <http://179.1.87.75:8098/play/a0hn/index.m3u8> |
-| 4 | ESPN 4 | IPv4 直链 | <http://179.1.87.75:8098/play/a0fu/index.m3u8> |
-| 5 | ESPN 2 | IPv4 直链 | <http://179.1.87.75:8098/play/a0ew/index.m3u8> |
+| 4 | Fox Sports 3 | IPv4 直链 | <http://179.1.87.75:8098/play/a0fh/index.m3u8> |
+| 5 | ESPN 4 | IPv4 直链 | <http://179.1.87.75:8098/play/a0fu/index.m3u8> |
 | 6 | LIGA 1 MAX (Op 4) | IPv4 直链 | <http://38.210.3.64:8090/play/a0nn/index.m3u8> |
-| 7 | Movistar Deportes (1080p) | IPv4 直链 | <http://45.4.1.201:8000/play/a13e/index.m3u8> |
-| 8 | L1 Max (1080p) | IPv4 直链 | <http://45.4.1.201:8000/play/a123/index.m3u8> |
+| 7 | L1 Max (1080p) | IPv4 直链 | <http://45.4.1.201:8000/play/a123/index.m3u8> |
+| 8 | Movistar Deportes (1080p) | IPv4 直链 | <http://45.4.1.201:8000/play/a13e/index.m3u8> |
 
-Updated at **Thu Jun 25 2026 03:55:59 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jun 25 2026 09:27:54 GMT+0000 (Coordinated Universal Time)**
