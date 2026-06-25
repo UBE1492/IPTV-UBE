@@ -155,4 +155,4 @@
 | 149 | Gol (1080p) | adpnetworkhd-cmd.github.io | <https://adpnetworkhd-cmd.github.io/iptv/GOL.m3u8> |
 | 150 | MTV (1080p) | adpnetworkhd-cmd.github.io | <https://adpnetworkhd-cmd.github.io/iptv/MTVSpain.m3u8> |
 
-Updated at **Thu Jun 25 2026 14:40:00 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jun 25 2026 20:04:55 GMT+0000 (Coordinated Universal Time)**
