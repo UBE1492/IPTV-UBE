@@ -128,4 +128,4 @@
 | 122 | Cine35mm | micanal.ovh | <https://micanal.ovh/livestreams/262.D9DCDM7EXNRT.m3u8> |
 | 123 | Huila TV | server.asilivehd.com:3333 | <https://server.asilivehd.com:3333/live/huilatvlive.m3u8> |
 
-Updated at **Thu Jun 25 2026 09:27:55 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jun 25 2026 14:40:00 GMT+0000 (Coordinated Universal Time)**
