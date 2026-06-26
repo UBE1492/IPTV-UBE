@@ -33,4 +33,4 @@
 | 27 | eSports Max TV | cdnlive.klicgo.net | <https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8> |
 | 28 | LaPuraCrema Television | streamlov.alsolnet.com | <https://streamlov.alsolnet.com/lapuracrema/live/playlist.m3u8> |
 
-Updated at **Fri Jun 26 2026 09:33:06 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jun 26 2026 14:32:10 GMT+0000 (Coordinated Universal Time)**

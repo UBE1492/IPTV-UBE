@@ -159,4 +159,4 @@
 | 153 | Nova (1080p) | adpnetworkhd-cmd.github.io | <https://adpnetworkhd-cmd.github.io/iptv/Nova.m3u8> |
 | 154 | Canal Luz Television | 5f71743aa95e4.streamlock.net:1936 | <https://5f71743aa95e4.streamlock.net:1936/CanalLuz/enDirecto/playlist.m3u8> |
 
-Updated at **Fri Jun 26 2026 09:33:06 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jun 26 2026 14:32:09 GMT+0000 (Coordinated Universal Time)**
