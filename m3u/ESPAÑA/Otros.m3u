@@ -151,3 +151,9 @@ https://adpnetworkhd-cmd.github.io/iptv/Cosmo.m3u8
 https://adpnetworkhd-cmd.github.io/iptv/Cuatro.m3u8
 #EXTINF:-1 tvg-id="Energy.es@SD",Energy (1080p)
 https://adpnetworkhd-cmd.github.io/iptv/Energy.m3u8
+#EXTINF:-1 tvg-id="Neox.es@SD",Neox (1080p)
+https://adpnetworkhd-cmd.github.io/iptv/Neox.m3u8
+#EXTINF:-1 tvg-id="Nova.es@SD",Nova (1080p)
+https://adpnetworkhd-cmd.github.io/iptv/Nova.m3u8
+#EXTINF:-1 tvg-id="CanalLuzTelevision.es@SD",Canal Luz Television
+https://5f71743aa95e4.streamlock.net:1936/CanalLuz/enDirecto/playlist.m3u8

@@ -127,5 +127,6 @@
 | 121 | Canal Womtv (720p) | live.amelbatv.co:81 | <https://live.amelbatv.co:81/womtvlive/index.m3u8> |
 | 122 | Cine35mm | micanal.ovh | <https://micanal.ovh/livestreams/262.D9DCDM7EXNRT.m3u8> |
 | 123 | Huila TV | server.asilivehd.com:3333 | <https://server.asilivehd.com:3333/live/huilatvlive.m3u8> |
+| 124 | TDI Colombia (720p) | live.amelbatv.co:81 | <https://live.amelbatv.co:81/tdicolombiatv/index.m3u8> |
 
-Updated at **Thu Jun 25 2026 20:04:56 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jun 26 2026 04:02:38 GMT+0000 (Coordinated Universal Time)**

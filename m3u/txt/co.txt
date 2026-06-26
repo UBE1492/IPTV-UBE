@@ -127,3 +127,4 @@ RCN_Novelas_(576p),http://181.78.8.199:8000/play/a0a7/index.m3u8
 Canal_Womtv_(720p),https://live.amelbatv.co:81/womtvlive/index.m3u8
 Cine35mm,https://micanal.ovh/livestreams/262.D9DCDM7EXNRT.m3u8
 Huila_TV,https://server.asilivehd.com:3333/live/huilatvlive.m3u8
+TDI_Colombia_(720p),https://live.amelbatv.co:81/tdicolombiatv/index.m3u8

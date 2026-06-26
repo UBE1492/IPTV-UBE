@@ -162,3 +162,11 @@ http://45.4.1.201:8000/play/a1ai/index.m3u8
 http://45.4.1.201:8000/play/a123/index.m3u8
 #EXTINF:-1 tvg-id="CanalN.pe@SD",Canal N (576p)
 http://8.243.126.131:8000/play/a058/index.m3u8
+#EXTINF:-1 tvg-id="FrecuenciaAmazonica.pe@SD",Frecuencia Amazonica
+https://vivatv.juanjuiserver.com:3349/live/frecuenciaamazonicalive.m3u8
+#EXTINF:-1 tvg-id="ImperialTelevision.pe@SD",Imperial Television (1080p)
+https://sc1.wasidata.com/Imperial/index.m3u8
+#EXTINF:-1 tvg-id="MetropolitanadelCuzco.pe@SD",Metropolitana del Cuzco
+https://video1.earthcam.com/myearthcam/075ff02f78c35af55564cf3af3b3f750.flv/playlist.m3u8
+#EXTINF:-1 tvg-id="NZKTelevision.pe@SD",NZK Television (720p)
+https://eu1.servers10.com:8081/8258/index.m3u8

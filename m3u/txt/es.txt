@@ -167,3 +167,7 @@ Disney_Channel_(1080p),https://adpnetworkhd-cmd.github.io/iptv/DisneyChannelSpai
 Energy_(1080p),https://adpnetworkhd-cmd.github.io/iptv/Energy.m3u8
 Gol_(1080p),https://adpnetworkhd-cmd.github.io/iptv/GOL.m3u8
 MTV_(1080p),https://adpnetworkhd-cmd.github.io/iptv/MTVSpain.m3u8
+Neox_(1080p),https://adpnetworkhd-cmd.github.io/iptv/Neox.m3u8
+Nick_Jr._(1080p),https://adpnetworkhd-cmd.github.io/iptv/NickJrSpain.m3u8
+Nova_(1080p),https://adpnetworkhd-cmd.github.io/iptv/Nova.m3u8
+Canal_Luz_Television,https://5f71743aa95e4.streamlock.net:1936/CanalLuz/enDirecto/playlist.m3u8

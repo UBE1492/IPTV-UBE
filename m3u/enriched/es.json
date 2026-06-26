@@ -1,6 +1,6 @@
 {
   "name": "es",
-  "updated_at": 1782417895520,
+  "updated_at": 1782446558287,
   "m3u": "https://ube1492.github.io/IPTV-UBE/es.m3u",
   "channels": [
     {
@@ -966,6 +966,30 @@
     {
       "name": "MTV (1080p)",
       "url": "https://adpnetworkhd-cmd.github.io/iptv/MTVSpain.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Neox (1080p)",
+      "url": "https://adpnetworkhd-cmd.github.io/iptv/Neox.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Nick Jr. (1080p)",
+      "url": "https://adpnetworkhd-cmd.github.io/iptv/NickJrSpain.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Nova (1080p)",
+      "url": "https://adpnetworkhd-cmd.github.io/iptv/Nova.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Canal Luz Television",
+      "url": "https://5f71743aa95e4.streamlock.net:1936/CanalLuz/enDirecto/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -1935,6 +1959,30 @@
       {
         "name": "MTV (1080p)",
         "url": "https://adpnetworkhd-cmd.github.io/iptv/MTVSpain.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Neox (1080p)",
+        "url": "https://adpnetworkhd-cmd.github.io/iptv/Neox.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Nick Jr. (1080p)",
+        "url": "https://adpnetworkhd-cmd.github.io/iptv/NickJrSpain.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Nova (1080p)",
+        "url": "https://adpnetworkhd-cmd.github.io/iptv/Nova.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Canal Luz Television",
+        "url": "https://5f71743aa95e4.streamlock.net:1936/CanalLuz/enDirecto/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       }

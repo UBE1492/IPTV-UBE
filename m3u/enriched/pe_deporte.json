@@ -1,6 +1,6 @@
 {
   "name": "pe_deporte",
-  "updated_at": 1782417893368,
+  "updated_at": 1782446557396,
   "m3u": "https://ube1492.github.io/IPTV-UBE/pe_deporte.m3u",
   "channels": [
     {
@@ -40,14 +40,14 @@
       "category": "Deportes"
     },
     {
-      "name": "L1 Max (1080p)",
-      "url": "http://45.4.1.201:8000/play/a123/index.m3u8",
+      "name": "Movistar Deportes (1080p)",
+      "url": "http://45.4.1.201:8000/play/a13e/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "Movistar Deportes (1080p)",
-      "url": "http://45.4.1.201:8000/play/a13e/index.m3u8",
+      "name": "L1 Max (1080p)",
+      "url": "http://45.4.1.201:8000/play/a123/index.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -93,14 +93,14 @@
     ],
     "Otros": [
       {
-        "name": "L1 Max (1080p)",
-        "url": "http://45.4.1.201:8000/play/a123/index.m3u8",
+        "name": "Movistar Deportes (1080p)",
+        "url": "http://45.4.1.201:8000/play/a13e/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "Movistar Deportes (1080p)",
-        "url": "http://45.4.1.201:8000/play/a13e/index.m3u8",
+        "name": "L1 Max (1080p)",
+        "url": "http://45.4.1.201:8000/play/a123/index.m3u8",
         "logo": "",
         "category": "Otros"
       }

@@ -154,5 +154,9 @@
 | 148 | Energy (1080p) | adpnetworkhd-cmd.github.io | <https://adpnetworkhd-cmd.github.io/iptv/Energy.m3u8> |
 | 149 | Gol (1080p) | adpnetworkhd-cmd.github.io | <https://adpnetworkhd-cmd.github.io/iptv/GOL.m3u8> |
 | 150 | MTV (1080p) | adpnetworkhd-cmd.github.io | <https://adpnetworkhd-cmd.github.io/iptv/MTVSpain.m3u8> |
+| 151 | Neox (1080p) | adpnetworkhd-cmd.github.io | <https://adpnetworkhd-cmd.github.io/iptv/Neox.m3u8> |
+| 152 | Nick Jr. (1080p) | adpnetworkhd-cmd.github.io | <https://adpnetworkhd-cmd.github.io/iptv/NickJrSpain.m3u8> |
+| 153 | Nova (1080p) | adpnetworkhd-cmd.github.io | <https://adpnetworkhd-cmd.github.io/iptv/Nova.m3u8> |
+| 154 | Canal Luz Television | 5f71743aa95e4.streamlock.net:1936 | <https://5f71743aa95e4.streamlock.net:1936/CanalLuz/enDirecto/playlist.m3u8> |
 
-Updated at **Thu Jun 25 2026 20:04:55 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jun 26 2026 04:02:38 GMT+0000 (Coordinated Universal Time)**
