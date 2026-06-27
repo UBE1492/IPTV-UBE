@@ -143,4 +143,4 @@
 | 137 | Vision TV | tv.arkeo.cl:1936 | <https://tv.arkeo.cl:1936/8044/8044/playlist.m3u8> |
 | 138 | Polar TV | polartv.webredirect.org | <https://polartv.webredirect.org/memfs/319ac83c-e602-4e91-8104-2b5501380b5e.m3u8> |
 
-Updated at **Sat Jun 27 2026 08:40:23 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jun 27 2026 13:49:55 GMT+0000 (Coordinated Universal Time)**

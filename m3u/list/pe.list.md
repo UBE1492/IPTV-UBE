@@ -4,100 +4,118 @@
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
-| 1 | Canal 8 Catacaos (720p) [Not 24/7] | live.obslivestream.com | <https://live.obslivestream.com/canal8/index.m3u8> |
+| 1 | Controversia TV (720p) [Not 24/7] | live.obslivestream.com | <https://live.obslivestream.com/controversiatv/index.m3u8> |
 | 2 | BHTV (1080p) | sc1.wasidata.com | <https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8> |
-| 3 | Controversia TV (720p) [Not 24/7] | live.obslivestream.com | <https://live.obslivestream.com/controversiatv/index.m3u8> |
+| 3 | Canal 8 Catacaos (720p) [Not 24/7] | live.obslivestream.com | <https://live.obslivestream.com/canal8/index.m3u8> |
 | 4 | Conecta2TV (720p) [Not 24/7] | live.obslivestream.com | <https://live.obslivestream.com/conecta2/index.m3u8> |
-| 5 | CR Televisión Moyobamba (720p) [Not 24/7] | live.obslivestream.com | <https://live.obslivestream.com/crtvmux/index.m3u8> |
+| 5 | Cadena TV (720p) [Not 24/7] | tv.bitstreaming.net:3789 | <https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8> |
 | 6 | Antena SUR (720p) | cloudpro.servidoresdestream.com:8081 | <https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8> |
-| 7 | Cadena TV (720p) [Not 24/7] | tv.bitstreaming.net:3789 | <https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8> |
-| 8 | AsiriTV (720p) [Not 24/7] | video2.lhdserver.es | <https://video2.lhdserver.es/asiritv/live.m3u8> |
-| 9 | La Fabulosa Radio y TV (720p) | eu1.servers10.com:8081 | <https://eu1.servers10.com:8081/8004/index.m3u8> |
-| 10 | Exitosa TV (720p) [Not 24/7] | luna-4-video.mediaserver.digital | <https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8> |
-| 11 | Bethel TV (720p) | alfa.betheltv.tv | <https://alfa.betheltv.tv/srt/3_abr/playlist.m3u8> |
-| 12 | Canal 21 Huancayo (720p) | play.agenciastreaming.com:8081 | <https://play.agenciastreaming.com:8081/tvwanka/tracks-v1/index.fmp4.m3u8> |
-| 13 | ECO Television | stream.ecoperu.tv | <https://stream.ecoperu.tv/ECOTV/tracks-v1a1/mono.m3u8> |
-| 14 | MO Channel (720p) | cloudvideo.servers10.com:8081 | <https://cloudvideo.servers10.com:8081/8070/index.m3u8> |
-| 15 | Intuitiva TV (720p) | video2.lhdserver.es | <https://video2.lhdserver.es/cableperu/live.m3u8> |
-| 16 | JN19 (1080p) [Not 24/7] | servilive.com:3028 | <https://servilive.com:3028/live/jntv19live.m3u8> |
-| 17 | La Tele | live-evg1.tv360.bitel.com.pe | <https://live-evg1.tv360.bitel.com.pe/bitel/latele/playlist.m3u8> |
-| 18 | Milenial TV | www.milenial.news | <https://www.milenial.news/salida/milenial.m3u8> |
+| 7 | La Fabulosa Radio y TV (720p) | eu1.servers10.com:8081 | <https://eu1.servers10.com:8081/8004/index.m3u8> |
+| 8 | Canal 21 Huancayo (720p) | play.agenciastreaming.com:8081 | <https://play.agenciastreaming.com:8081/tvwanka/tracks-v1/index.fmp4.m3u8> |
+| 9 | Bethel TV (720p) | alfa.betheltv.tv | <https://alfa.betheltv.tv/srt/3_abr/playlist.m3u8> |
+| 10 | CR Televisión Moyobamba (720p) [Not 24/7] | live.obslivestream.com | <https://live.obslivestream.com/crtvmux/index.m3u8> |
+| 11 | Exitosa TV (720p) [Not 24/7] | luna-4-video.mediaserver.digital | <https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8> |
+| 12 | ECO Television | stream.ecoperu.tv | <https://stream.ecoperu.tv/ECOTV/tracks-v1a1/mono.m3u8> |
+| 13 | JN19 (1080p) [Not 24/7] | servilive.com:3028 | <https://servilive.com:3028/live/jntv19live.m3u8> |
+| 14 | Intuitiva TV (720p) | video2.lhdserver.es | <https://video2.lhdserver.es/cableperu/live.m3u8> |
+| 15 | La Tele | live-evg1.tv360.bitel.com.pe | <https://live-evg1.tv360.bitel.com.pe/bitel/latele/playlist.m3u8> |
+| 16 | Milenial TV | www.milenial.news | <https://www.milenial.news/salida/milenial.m3u8> |
+| 17 | Ovacion TV (720p) [Not 24/7] | cdn2.ujjina.com:1935 | <http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8> |
+| 18 | ONDA DIGITAL (720p) | tv.ondadigital.pe | <https://tv.ondadigital.pe/ondadigital/index.m3u8> |
 | 19 | Nativa (720p) [Not 24/7] | oneplay.iptvperu.tv:1936 | <https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8> |
-| 20 | Ovacion TV (720p) [Not 24/7] | cdn2.ujjina.com:1935 | <http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8> |
+| 20 | MO Channel (720p) | cloudvideo.servers10.com:8081 | <https://cloudvideo.servers10.com:8081/8070/index.m3u8> |
 | 21 | Latina (720p) | redirector.rudo.video | <https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8> |
-| 22 | Radio Tropical Tarapoto (480p) [Not 24/7] | videoserver.tmcreativos.com:19360 | <https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8> |
-| 23 | Latina Clasicos (1080p) | redirector.rudo.video | <https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8> |
-| 24 | RadioTV Oriente (720p) | live.obslivestream.com | <https://live.obslivestream.com/tvoriente/index.m3u8> |
-| 25 | TV Peru (1080p) | IPv4 直链 | <http://181.119.93.83:8000/play/a25t/index.m3u8> |
-| 26 | Vía Altomayo (720p) [Not 24/7] | live.obslivestream.com | <https://live.obslivestream.com/viaaltomayomux/index.m3u8> |
-| 27 | Vía Televisión (720P) [Not 24/7] | videoserver.tmcreativos.com:19360 | <https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8> |
-| 28 | Viva TV Yurimaguas (720p) | live.obslivestream.com | <https://live.obslivestream.com/vivatv/index.m3u8> |
-| 29 | VNP | videoserver.tmcreativos.com:19360 | <https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8> |
-| 30 | RN Televisión (720p) [Not 24/7] | videoserver.tmcreativos.com:19360 | <https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8> |
-| 31 | RSelvaTV (720p) | live.obslivestream.com | <https://live.obslivestream.com/selvatv/index.m3u8> |
-| 32 | Telecolor Yurimaguas (720p) [Not 24/7] | live.obslivestream.com | <https://live.obslivestream.com/telecolormux/index.m3u8> |
-| 33 | Señal Perú TV (404p) [Not 24/7] | livestream.perucast.com | <https://livestream.perucast.com/hls/stream.m3u8> |
-| 34 | TV Cosmos (720p) | videoserver.tmcreativos.com:19360 | <https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8> |
-| 35 | RPP TV (1080p) | cdn-ssai.smartbit.co | <https://cdn-ssai.smartbit.co/rpp/index.m3u8> |
-| 36 | Televisión Tarapoto (720p) [Not 24/7] | ott1.hdlatam.tv | <https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8> |
-| 37 | Visión Sur TV (1080p) [Not 24/7] | ott1.hdlatam.tv | <https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8> |
-| 38 | PBO (720p) | live-evg11.tv360.bitel.com.pe | <https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/playlist.m3u8> |
-| 39 | Nativa TV Satipo (720p) | live-evg7.tv360.bitel.com.pe | <https://live-evg7.tv360.bitel.com.pe/bitel/nativachanchamayoSRT/playlist.m3u8> |
-| 40 | Qollasuyo TV (720p) | live-evg5.tv360.bitel.com.pe | <https://live-evg5.tv360.bitel.com.pe/bitel/qollasuyotv/playlist.m3u8> |
-| 41 | Mega TV Jaen (720p) | live-evg5.tv360.bitel.com.pe | <https://live-evg5.tv360.bitel.com.pe/bitel/megatv/playlist.m3u8> |
-| 42 | Antena 1 (720p) | live-evg8.tv360.bitel.com.pe | <https://live-evg8.tv360.bitel.com.pe/bitel/aunoSRT/playlist.m3u8> |
-| 43 | Arpegio TV (720p) | live-evg8.tv360.bitel.com.pe | <https://live-evg8.tv360.bitel.com.pe/bitel/arpegioSRT/playlist.m3u8> |
-| 44 | SelvaTV (720p) | live-evg7.tv360.bitel.com.pe | <https://live-evg7.tv360.bitel.com.pe/bitel/selvatv/playlist.m3u8> |
-| 45 | Super Canal (720p) | live-evg7.tv360.bitel.com.pe | <https://live-evg7.tv360.bitel.com.pe/bitel/supercanalSRT/playlist.m3u8> |
-| 46 | Television Tarapoto (720p) | live-evg11.tv360.bitel.com.pe | <https://live-evg11.tv360.bitel.com.pe/bitel/tvtarapotoSRT/playlist.m3u8> |
-| 47 | RumbaMix TV (720p) | live-evg5.tv360.bitel.com.pe | <https://live-evg5.tv360.bitel.com.pe/bitel/mixtvSRT/playlist.m3u8> |
-| 48 | Universitaria TV (720p) | live-evg11.tv360.bitel.com.pe | <https://live-evg11.tv360.bitel.com.pe/bitel/uraniotv/playlist.m3u8> |
-| 49 | Amazonica TV (720p) | live-evg8.tv360.bitel.com.pe | <https://live-evg8.tv360.bitel.com.pe/bitel/amazonicatvSRT/playlist.m3u8> |
-| 50 | TV MAX (720p) | live-evg8.tv360.bitel.com.pe | <https://live-evg8.tv360.bitel.com.pe/bitel/nexSRT_TRA/playlist.m3u8> |
-| 51 | Master TV (720p) | live-evg5.tv360.bitel.com.pe | <https://live-evg5.tv360.bitel.com.pe/bitel/mastertvSRT/playlist.m3u8> |
-| 52 | ABTelevision (720p) | live-evg8.tv360.bitel.com.pe | <https://live-evg8.tv360.bitel.com.pe/bitel/abctelevisionSRT/playlist.m3u8> |
-| 53 | La Tele (1080p) | IPv4 直链 | <http://8.243.126.131:8000/play/a01v/index.m3u8> |
-| 54 | L1 (1080p) | IPv4 直链 | <http://45.4.1.201:8000/play/a1ai/index.m3u8> |
-| 55 | BNB Digital (720p) | live-evg8.tv360.bitel.com.pe | <https://live-evg8.tv360.bitel.com.pe/bitel/bnbSRT/playlist.m3u8> |
-| 56 | L1 Max (1080p) | IPv4 直链 | <http://45.4.1.201:8000/play/a123/index.m3u8> |
-| 57 | Movistar Deportes (1080p) | IPv4 直链 | <http://45.4.1.201:8000/play/a13e/index.m3u8> |
-| 58 | Uranio TV (720p) | live-evg8.tv360.bitel.com.pe | <https://live-evg8.tv360.bitel.com.pe/bitel/uranioyurimaguasSRT/playlist.m3u8> |
-| 59 | Canal N (576p) | IPv4 直链 | <http://8.243.126.131:8000/play/a058/index.m3u8> |
-| 60 | Ucayalina de Television (720p) | live-evg11.tv360.bitel.com.pe | <https://live-evg11.tv360.bitel.com.pe/bitel/utv/playlist.m3u8> |
-| 61 | Charapa TV (720p) | live-evg10.tv360.bitel.com.pe | <https://live-evg10.tv360.bitel.com.pe/bitel/charapatvSRT/playlist.m3u8> |
-| 62 | Yurimaguas TV (720p) | live-evg7.tv360.bitel.com.pe | <https://live-evg7.tv360.bitel.com.pe/bitel/yurimaguastvSRT/playlist.m3u8> |
-| 63 | Diaspora TV | s1.tvdatta.com:3978 | <https://s1.tvdatta.com:3978/live/diasporatvlive.m3u8> |
-| 64 | Cultura 24 | www.opencaster.com | <https://www.opencaster.com/resources/hls_stream/cultura24.m3u8> |
-| 65 | Evolucion TV (576p) | edgectc.com | <https://edgectc.com/CTC_SAN_RAFAEL/index.m3u8> |
-| 66 | Estelar TV (1080p) | srt.tvdatta.com | <https://srt.tvdatta.com/tvestelar/index.m3u8> |
-| 67 | Yurivision (720p) | live-evg5.tv360.bitel.com.pe | <https://live-evg5.tv360.bitel.com.pe/bitel/yurivisionSRT/playlist.m3u8> |
-| 68 | Foro TV | mc.servidor.stream:19360 | <https://mc.servidor.stream:19360/8274/8274.m3u8> |
-| 69 | DeltaTV | tv2.bitstreaming.net:3539 | <https://tv2.bitstreaming.net:3539/live/deltanetlive.m3u8> |
-| 70 | Folklore TV (720p) | play.folkloretv.pe | <https://play.folkloretv.pe/StreamSD/index.m3u8> |
-| 71 | Genios TV (1080p) | sc3.wasidata.com | <https://sc3.wasidata.com/Genios2_1902/video.m3u8> |
-| 72 | Imperial Television (1080p) | sc1.wasidata.com | <https://sc1.wasidata.com/Imperial/index.m3u8> |
-| 73 | Huacho Peru TV | tv.huachotv.com | <https://tv.huachotv.com/stream.m3u8> |
-| 74 | JNE TV (720p) | lbgo.bozztv.com | <https://lbgo.bozztv.com/ssh101/ssh101/jnetv/playlist.m3u8> |
-| 75 | Primavera 15 | mc.servidor.stream:19360 | <https://mc.servidor.stream:19360/8244/8244.m3u8> |
-| 76 | Altura TV (720p) | play.agenciastreaming.com:8081 | <https://play.agenciastreaming.com:8081/tvalturalimalive/video.m3u8> |
-| 77 | Master TV (480p) | live.obslivestream.com | <https://live.obslivestream.com/mastertv/index.m3u8> |
-| 78 | Lider TV (720p) | chankillo.agenciastreaming.com | <https://chankillo.agenciastreaming.com/lidertv/index.m3u8> |
-| 79 | Millenium 109 FM | videoserver.tmcreativos.com:19360 | <https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8> |
-| 80 | Qosqo Times | stmv2.srvif.com | <https://stmv2.srvif.com/qtelevision/qtelevision/playlist.m3u8> |
-| 81 | Radio Chalaca | servilive.com:3414 | <https://servilive.com:3414/hybrid/play.m3u8> |
-| 82 | Nacional Tv Peru (720p) | play.agenciastreaming.com:8081 | <https://play.agenciastreaming.com:8081/nacionaltv/index.m3u8> |
-| 83 | NZK Television (720p) | eu1.servers10.com:8081 | <https://eu1.servers10.com:8081/8258/index.m3u8> |
-| 84 | TV Kaliente (720p) | lbgo.bozztv.com | <https://lbgo.bozztv.com/ssh101/ssh101/kalientecusco/playlist.m3u8> |
-| 85 | Radio Onda Digital (1080p) | live.ondadigitaltv.com | <https://live.ondadigitaltv.com/RADIOODTV/index.m3u8> |
-| 86 | ATV+ (1080p) | IPv4 直链 | <http://179.60.51.134:8888/ATV/index.m3u8> |
-| 87 | Panamericana TV (1080p) | IPv4 直链 | <http://179.60.51.134:8888/PANAMERICANA/index.m3u8> |
-| 88 | Radio San Borja TV | stream.mediacorp.pe | <https://stream.mediacorp.pe/srt/3/playlist.m3u8> |
-| 89 | Region TV Callao | servilive.com:3757 | <https://servilive.com:3757/live/regiontvlive.m3u8> |
-| 90 | Riku TV (1080p) | amixtv.com:8081 | <https://amixtv.com:8081/rikutv/index.m3u8> |
-| 91 | Siscom TV | video2.lhdserver.es | <https://video2.lhdserver.es/siscomtv/live.m3u8> |
-| 92 | TV Peruanisima (720p) | k20.usastreams.com:8081 | <https://k20.usastreams.com:8081/tvperuanisima/index.m3u8> |
-| 93 | TV Bella Asuncion | s2.tvdatta.com:3687 | <https://s2.tvdatta.com:3687/hybrid/play.m3u8> |
-| 94 | Trivu | stream2.trivutv.com | <https://stream2.trivutv.com/memfs/1bc8358a-665e-4bc1-a580-e4fcb54b5103.m3u8> |
-| 95 | Monterrico TV | h.jcp.live.opencaster.com | <https://h.jcp.live.opencaster.com/play_src/index.m3u8> |
+| 22 | Latina Clasicos (1080p) | redirector.rudo.video | <https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8> |
+| 23 | RadioTV Oriente (720p) | live.obslivestream.com | <https://live.obslivestream.com/tvoriente/index.m3u8> |
+| 24 | Radio Tropical Tarapoto (480p) [Not 24/7] | videoserver.tmcreativos.com:19360 | <https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8> |
+| 25 | RSelvaTV (720p) | live.obslivestream.com | <https://live.obslivestream.com/selvatv/index.m3u8> |
+| 26 | RN Televisión (720p) [Not 24/7] | videoserver.tmcreativos.com:19360 | <https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8> |
+| 27 | Vía Altomayo (720p) [Not 24/7] | live.obslivestream.com | <https://live.obslivestream.com/viaaltomayomux/index.m3u8> |
+| 28 | TV Peru (1080p) | IPv4 直链 | <http://181.119.93.83:8000/play/a25t/index.m3u8> |
+| 29 | Viva TV Yurimaguas (720p) | live.obslivestream.com | <https://live.obslivestream.com/vivatv/index.m3u8> |
+| 30 | VNP | videoserver.tmcreativos.com:19360 | <https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8> |
+| 31 | Telecolor Yurimaguas (720p) [Not 24/7] | live.obslivestream.com | <https://live.obslivestream.com/telecolormux/index.m3u8> |
+| 32 | Top FM TV (240p) [Not 24/7] | tvdatta.com:3084 | <https://tvdatta.com:3084/live/toptvaguaytialive.m3u8> |
+| 33 | TV Cosmos (720p) | videoserver.tmcreativos.com:19360 | <https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8> |
+| 34 | RPP TV (1080p) | cdn-ssai.smartbit.co | <https://cdn-ssai.smartbit.co/rpp/index.m3u8> |
+| 35 | Televisión Tarapoto (720p) [Not 24/7] | ott1.hdlatam.tv | <https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8> |
+| 36 | Doble C Television (720p) | live20.bozztv.com | <https://live20.bozztv.com/giatv/giatv-doblec1/doblec1/playlist.m3u8> |
+| 37 | Trivu (720p) | live-evg11.tv360.bitel.com.pe | <https://live-evg11.tv360.bitel.com.pe/bitel/trivutv/playlist.m3u8> |
+| 38 | Ozono TV | vps.chasquirouter.com | <http://vps.chasquirouter.com/salida/ozono.m3u8> |
+| 39 | Visión Sur TV (1080p) [Not 24/7] | ott1.hdlatam.tv | <https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8> |
+| 40 | PBO (720p) | live-evg11.tv360.bitel.com.pe | <https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/playlist.m3u8> |
+| 41 | Radio Rumba TV (720p) | live-evg7.tv360.bitel.com.pe | <https://live-evg7.tv360.bitel.com.pe/bitel/rumba/playlist.m3u8> |
+| 42 | DTV (720p) | live-evg7.tv360.bitel.com.pe | <https://live-evg7.tv360.bitel.com.pe/bitel/sabormixtvSRT/playlist.m3u8> |
+| 43 | CANAL M Television (720p) | live-evg10.tv360.bitel.com.pe | <https://live-evg10.tv360.bitel.com.pe/bitel/anqaratv/playlist.m3u8> |
+| 44 | Unicentro TV (720p) | live-evg11.tv360.bitel.com.pe | <https://live-evg11.tv360.bitel.com.pe/bitel/unicentroSRT/playlist.m3u8> |
+| 45 | Cadena TV SD | live-evg10.tv360.bitel.com.pe | <https://live-evg10.tv360.bitel.com.pe/bitel/cadenatv/playlist.m3u8> |
+| 46 | Real Television (720p) | live-evg10.tv360.bitel.com.pe | <https://live-evg10.tv360.bitel.com.pe/bitel/realtv/playlist.m3u8> |
+| 47 | Canal Mas TV (720p) | live-evg11.tv360.bitel.com.pe | <https://live-evg11.tv360.bitel.com.pe/bitel/mastvSRT/playlist.m3u8> |
+| 48 | Nativa TV Satipo (720p) | live-evg7.tv360.bitel.com.pe | <https://live-evg7.tv360.bitel.com.pe/bitel/nativachanchamayoSRT/playlist.m3u8> |
+| 49 | RTP (720p) | live-evg7.tv360.bitel.com.pe | <https://live-evg7.tv360.bitel.com.pe/bitel/rtp/playlist.m3u8> |
+| 50 | SelvaTV (720p) | live-evg7.tv360.bitel.com.pe | <https://live-evg7.tv360.bitel.com.pe/bitel/selvatv/playlist.m3u8> |
+| 51 | Super Canal (720p) | live-evg7.tv360.bitel.com.pe | <https://live-evg7.tv360.bitel.com.pe/bitel/supercanalSRT/playlist.m3u8> |
+| 52 | TV MAR (720p) | live-evg11.tv360.bitel.com.pe | <https://live-evg11.tv360.bitel.com.pe/bitel/tvmarSRT/playlist.m3u8> |
+| 53 | Qollasuyo TV (720p) | live-evg5.tv360.bitel.com.pe | <https://live-evg5.tv360.bitel.com.pe/bitel/qollasuyotv/playlist.m3u8> |
+| 54 | Miel TV (720p) | live-evg5.tv360.bitel.com.pe | <https://live-evg5.tv360.bitel.com.pe/bitel/mieltvSRT/playlist.m3u8> |
+| 55 | Mega TV Jaen (720p) | live-evg5.tv360.bitel.com.pe | <https://live-evg5.tv360.bitel.com.pe/bitel/megatv/playlist.m3u8> |
+| 56 | Television Tarapoto (720p) | live-evg11.tv360.bitel.com.pe | <https://live-evg11.tv360.bitel.com.pe/bitel/tvtarapotoSRT/playlist.m3u8> |
+| 57 | Uchu TV (720p) | live-evg11.tv360.bitel.com.pe | <https://live-evg11.tv360.bitel.com.pe/bitel/ucayalitvSRT/playlist.m3u8> |
+| 58 | Master TV (720p) | live-evg5.tv360.bitel.com.pe | <https://live-evg5.tv360.bitel.com.pe/bitel/mastertvSRT/playlist.m3u8> |
+| 59 | Ucayalina de Television (720p) | live-evg11.tv360.bitel.com.pe | <https://live-evg11.tv360.bitel.com.pe/bitel/utv/playlist.m3u8> |
+| 60 | Universitaria TV (720p) | live-evg11.tv360.bitel.com.pe | <https://live-evg11.tv360.bitel.com.pe/bitel/uraniotv/playlist.m3u8> |
+| 61 | Señal Perú TV (404p) [Not 24/7] | livestream.perucast.com | <https://livestream.perucast.com/hls/stream.m3u8> |
+| 62 | Charapa TV (720p) | live-evg10.tv360.bitel.com.pe | <https://live-evg10.tv360.bitel.com.pe/bitel/charapatvSRT/playlist.m3u8> |
+| 63 | Yurimaguas TV (720p) | live-evg7.tv360.bitel.com.pe | <https://live-evg7.tv360.bitel.com.pe/bitel/yurimaguastvSRT/playlist.m3u8> |
+| 64 | RumbaMix TV (720p) | live-evg5.tv360.bitel.com.pe | <https://live-evg5.tv360.bitel.com.pe/bitel/mixtvSRT/playlist.m3u8> |
+| 65 | Antena 1 (720p) | live-evg8.tv360.bitel.com.pe | <https://live-evg8.tv360.bitel.com.pe/bitel/aunoSRT/playlist.m3u8> |
+| 66 | Arpegio TV (720p) | live-evg8.tv360.bitel.com.pe | <https://live-evg8.tv360.bitel.com.pe/bitel/arpegioSRT/playlist.m3u8> |
+| 67 | Amazonica TV (720p) | live-evg8.tv360.bitel.com.pe | <https://live-evg8.tv360.bitel.com.pe/bitel/amazonicatvSRT/playlist.m3u8> |
+| 68 | TV MAX (720p) | live-evg8.tv360.bitel.com.pe | <https://live-evg8.tv360.bitel.com.pe/bitel/nexSRT_TRA/playlist.m3u8> |
+| 69 | La Tele (1080p) | IPv4 直链 | <http://8.243.126.131:8000/play/a01v/index.m3u8> |
+| 70 | L1 (1080p) | IPv4 直链 | <http://45.4.1.201:8000/play/a1ai/index.m3u8> |
+| 71 | L1 Max (1080p) | IPv4 直链 | <http://45.4.1.201:8000/play/a123/index.m3u8> |
+| 72 | Movistar Deportes (1080p) | IPv4 直链 | <http://45.4.1.201:8000/play/a13e/index.m3u8> |
+| 73 | Yurivision (720p) | live-evg5.tv360.bitel.com.pe | <https://live-evg5.tv360.bitel.com.pe/bitel/yurivisionSRT/playlist.m3u8> |
+| 74 | Canal N (576p) | IPv4 直链 | <http://8.243.126.131:8000/play/a058/index.m3u8> |
+| 75 | Diaspora TV | s1.tvdatta.com:3978 | <https://s1.tvdatta.com:3978/live/diasporatvlive.m3u8> |
+| 76 | BNB Digital (720p) | live-evg8.tv360.bitel.com.pe | <https://live-evg8.tv360.bitel.com.pe/bitel/bnbSRT/playlist.m3u8> |
+| 77 | ABTelevision (720p) | live-evg8.tv360.bitel.com.pe | <https://live-evg8.tv360.bitel.com.pe/bitel/abctelevisionSRT/playlist.m3u8> |
+| 78 | Evolucion TV (576p) | edgectc.com | <https://edgectc.com/CTC_SAN_RAFAEL/index.m3u8> |
+| 79 | Uranio TV (720p) | live-evg8.tv360.bitel.com.pe | <https://live-evg8.tv360.bitel.com.pe/bitel/uranioyurimaguasSRT/playlist.m3u8> |
+| 80 | Cultura 24 | www.opencaster.com | <https://www.opencaster.com/resources/hls_stream/cultura24.m3u8> |
+| 81 | Estelar TV (1080p) | srt.tvdatta.com | <https://srt.tvdatta.com/tvestelar/index.m3u8> |
+| 82 | Foro TV | mc.servidor.stream:19360 | <https://mc.servidor.stream:19360/8274/8274.m3u8> |
+| 83 | DeltaTV | tv2.bitstreaming.net:3539 | <https://tv2.bitstreaming.net:3539/live/deltanetlive.m3u8> |
+| 84 | Genios TV (1080p) | sc3.wasidata.com | <https://sc3.wasidata.com/Genios2_1902/video.m3u8> |
+| 85 | Folklore TV (720p) | play.folkloretv.pe | <https://play.folkloretv.pe/StreamSD/index.m3u8> |
+| 86 | Imperial Television (1080p) | sc1.wasidata.com | <https://sc1.wasidata.com/Imperial/index.m3u8> |
+| 87 | JNE TV (720p) | lbgo.bozztv.com | <https://lbgo.bozztv.com/ssh101/ssh101/jnetv/playlist.m3u8> |
+| 88 | Huacho Peru TV | tv.huachotv.com | <https://tv.huachotv.com/stream.m3u8> |
+| 89 | Primavera 15 | mc.servidor.stream:19360 | <https://mc.servidor.stream:19360/8244/8244.m3u8> |
+| 90 | Kora TV | s3.tvdatta.com:3700 | <https://s3.tvdatta.com:3700/live/jjrtvlive.m3u8> |
+| 91 | Altura TV (720p) | play.agenciastreaming.com:8081 | <https://play.agenciastreaming.com:8081/tvalturalimalive/video.m3u8> |
+| 92 | Master TV (480p) | live.obslivestream.com | <https://live.obslivestream.com/mastertv/index.m3u8> |
+| 93 | Metropolitana del Cuzco | video1.earthcam.com | <https://video1.earthcam.com/myearthcam/075ff02f78c35af55564cf3af3b3f750.flv/playlist.m3u8> |
+| 94 | Millenium 109 FM | videoserver.tmcreativos.com:19360 | <https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8> |
+| 95 | Qosqo Times | stmv2.srvif.com | <https://stmv2.srvif.com/qtelevision/qtelevision/playlist.m3u8> |
+| 96 | Radio Chalaca | servilive.com:3414 | <https://servilive.com:3414/hybrid/play.m3u8> |
+| 97 | Lider TV (720p) | chankillo.agenciastreaming.com | <https://chankillo.agenciastreaming.com/lidertv/index.m3u8> |
+| 98 | TV Kaliente (720p) | lbgo.bozztv.com | <https://lbgo.bozztv.com/ssh101/ssh101/kalientecusco/playlist.m3u8> |
+| 99 | Nacional Tv Peru (720p) | play.agenciastreaming.com:8081 | <https://play.agenciastreaming.com:8081/nacionaltv/index.m3u8> |
+| 100 | Riku TV (1080p) | amixtv.com:8081 | <https://amixtv.com:8081/rikutv/index.m3u8> |
+| 101 | TVenLinea (1080p) | srt.tvdatta.com | <https://srt.tvdatta.com/tvenlinea/index.m3u8> |
+| 102 | Region TV Callao | servilive.com:3757 | <https://servilive.com:3757/live/regiontvlive.m3u8> |
+| 103 | Vision | lbgo.bozztv.com | <https://lbgo.bozztv.com/ssh101/ssh101/visiononline/playlist.m3u8> |
+| 104 | NZK Television (720p) | eu1.servers10.com:8081 | <https://eu1.servers10.com:8081/8258/index.m3u8> |
+| 105 | ATV+ (1080p) | IPv4 直链 | <http://179.60.51.134:8888/ATV/index.m3u8> |
+| 106 | Panamericana TV (1080p) | IPv4 直链 | <http://179.60.51.134:8888/PANAMERICANA/index.m3u8> |
+| 107 | TV Bella Asuncion | s2.tvdatta.com:3687 | <https://s2.tvdatta.com:3687/hybrid/play.m3u8> |
+| 108 | Radio Onda Digital (1080p) | live.ondadigitaltv.com | <https://live.ondadigitaltv.com/RADIOODTV/index.m3u8> |
+| 109 | TV Peruanisima (720p) | k20.usastreams.com:8081 | <https://k20.usastreams.com:8081/tvperuanisima/index.m3u8> |
+| 110 | Siscom TV | video2.lhdserver.es | <https://video2.lhdserver.es/siscomtv/live.m3u8> |
+| 111 | Trivu | stream2.trivutv.com | <https://stream2.trivutv.com/memfs/1bc8358a-665e-4bc1-a580-e4fcb54b5103.m3u8> |
+| 112 | Radio San Borja TV | stream.mediacorp.pe | <https://stream.mediacorp.pe/srt/3/playlist.m3u8> |
+| 113 | Monterrico TV | h.jcp.live.opencaster.com | <https://h.jcp.live.opencaster.com/play_src/index.m3u8> |
 
-Updated at **Sat Jun 27 2026 08:41:20 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jun 27 2026 13:50:20 GMT+0000 (Coordinated Universal Time)**
