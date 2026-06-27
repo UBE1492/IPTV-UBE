@@ -21,5 +21,12 @@
 | 15 | UniRadio TV (1080p) | video.hostingcaaguazu.com:19360 | <https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8> |
 | 16 | Venus Media (1080p) | tigocloud.desdeparaguay.net | <https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8> |
 | 17 | Villa Elisa Radio TV (1080p) | copacogen.desdeparaguay.net | <https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/playlist.m3u8?admin=nacion> |
+| 18 | Radio Colmenar 92.5 FM | tvdatta.com:3041 | <https://tvdatta.com:3041/live/colmenarlive.m3u8> |
+| 19 | Radio Guaira TV | tvdatta.com:3991 | <https://tvdatta.com:3991/live/guairatvlive.m3u8> |
+| 20 | AGR FM TV | tigocloud.desdeparaguay.net | <https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8> |
+| 21 | Alt Media TV | video.hostingcaaguazu.com:19360 | <https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8> |
+| 22 | C9N (720p) | d2b5h5wyivfnfl.cloudfront.net | <https://d2b5h5wyivfnfl.cloudfront.net/live/48f53430-9014-4459-a048-6169dac14140/ts:abr.m3u8> |
+| 23 | CAD TV | videoserver.tmcreativos.com:19360 | <https://videoserver.tmcreativos.com:19360/dcsajkpvrh/dcsajkpvrh.m3u8> |
+| 24 | Los Angeles TV Radio | stmv6.voxtvhd.com.br | <https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8> |
 
-Updated at **Fri Jun 26 2026 19:53:56 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jun 27 2026 03:49:00 GMT+0000 (Coordinated Universal Time)**

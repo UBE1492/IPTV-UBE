@@ -32,5 +32,10 @@
 | 26 | Telesur (576p) | edgectc.com | <https://edgectc.com/TELESUR/index.m3u8> |
 | 27 | eSports Max TV | cdnlive.klicgo.net | <https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8> |
 | 28 | LaPuraCrema Television | streamlov.alsolnet.com | <https://streamlov.alsolnet.com/lapuracrema/live/playlist.m3u8> |
+| 29 | TV Oasis Monay (720p) | servilive.com:3562 | <https://servilive.com:3562/live/vav4c8z38live.m3u8> |
+| 30 | Maxima TV | maximatv.net | <https://maximatv.net/hls/stream.m3u8> |
+| 31 | Monagas Vision | tv.monagasvision.com | <https://tv.monagasvision.com/hls/mistream.m3u8> |
+| 32 | Tu TV (720p) | astl-mainstr.qvixsolutions.com | <https://astl-mainstr.qvixsolutions.com/asltvtu_ext/index.m3u8> |
+| 33 | TV Familia | 59d39900ebfb8.streamlock.net | <https://59d39900ebfb8.streamlock.net/tvfamilia_270p/tvfamilia_270p/playlist.m3u8> |
 
-Updated at **Fri Jun 26 2026 19:53:56 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jun 27 2026 03:48:59 GMT+0000 (Coordinated Universal Time)**

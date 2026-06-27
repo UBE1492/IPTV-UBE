@@ -27,3 +27,7 @@ https://master.myplaytv.com:2020/hls/canaldiplomatico/canaldiplomatico.m3u8
 https://edgectc.com/TELESUR/index.m3u8
 #EXTINF:-1 tvg-id="LaPuraCremaTelevision.ve@SD",LaPuraCrema Television
 https://streamlov.alsolnet.com/lapuracrema/live/playlist.m3u8
+#EXTINF:-1 tvg-id="MonagasVision.ve@SD",Monagas Vision
+https://tv.monagasvision.com/hls/mistream.m3u8
+#EXTINF:-1 tvg-id="CanalCdelZulia.ve@HD",Canal C del Zulia (1080p)
+#EXTVLCOPT:http-referrer=https://canalc.vercel.app

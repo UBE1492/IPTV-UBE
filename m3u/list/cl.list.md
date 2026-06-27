@@ -141,5 +141,6 @@
 | 135 | UMAGTV2 | tls-cl.cdnz.cl | <https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8> |
 | 136 | Vida Nueva TV | mc.servidor.stream:19360 | <https://mc.servidor.stream:19360/8240/8240.m3u8> |
 | 137 | Vision TV | tv.arkeo.cl:1936 | <https://tv.arkeo.cl:1936/8044/8044/playlist.m3u8> |
+| 138 | Polar TV | polartv.webredirect.org | <https://polartv.webredirect.org/memfs/319ac83c-e602-4e91-8104-2b5501380b5e.m3u8> |
 
-Updated at **Fri Jun 26 2026 19:53:56 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jun 27 2026 03:48:59 GMT+0000 (Coordinated Universal Time)**

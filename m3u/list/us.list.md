@@ -435,5 +435,7 @@
 | 429 | Canal Infantil (1080p) | bantel-cdn1.iptvperu.tv:1935 | <http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/canalinfantil/playlist.m3u8> |
 | 430 | Kaloopy TV (1080p) | streamingserver000.viewtv.cloud | <https://streamingserver000.viewtv.cloud/VIEWTVNETWORK-KALOOPY/index.m3u8> |
 | 431 | NowMedia Television Spanish (1080p) | stream-204968.castr.net | <https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a16fa020f4c411f09ddaa1978319689a/index.m3u8> |
+| 432 | Comedy Central (720p) | rezofoot.tv | <http://rezofoot.tv/COMEDY-CENTRAL/index.m3u8> |
+| 433 | National Geographic (720p) | rezofoot.tv | <http://rezofoot.tv/NATIONAL-GEOGRAPHIC/index.m3u8> |
 
-Updated at **Fri Jun 26 2026 19:53:56 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jun 27 2026 03:48:59 GMT+0000 (Coordinated Universal Time)**

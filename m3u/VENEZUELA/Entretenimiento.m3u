@@ -23,3 +23,11 @@ https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61da
 https://rtmp.tamtv.com.ve/tmp_hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="MeridianoTV.ve@SD",Meridiano TV (576p)
 http://181.78.8.199:8000/play/a0fr/index.m3u8
+#EXTINF:-1 tvg-id="TVOasisMonay.ve@SD",TV Oasis Monay (720p)
+https://servilive.com:3562/live/vav4c8z38live.m3u8
+#EXTINF:-1 tvg-id="MaximaTV.ve@SD",Maxima TV
+https://maximatv.net/hls/stream.m3u8
+#EXTINF:-1 tvg-id="TuTV.ve@SD",Tu TV (720p)
+https://astl-mainstr.qvixsolutions.com/asltvtu_ext/index.m3u8
+#EXTINF:-1 tvg-id="TVFamilia.ve@SD",TV Familia
+https://59d39900ebfb8.streamlock.net/tvfamilia_270p/tvfamilia_270p/playlist.m3u8

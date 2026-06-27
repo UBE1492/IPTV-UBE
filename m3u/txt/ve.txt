@@ -28,3 +28,9 @@ Canal_Diplomatico,https://master.myplaytv.com:2020/hls/canaldiplomatico/canaldip
 Telesur_(576p),https://edgectc.com/TELESUR/index.m3u8
 eSports_Max_TV,https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8
 LaPuraCrema_Television,https://streamlov.alsolnet.com/lapuracrema/live/playlist.m3u8
+TV_Oasis_Monay_(720p),https://servilive.com:3562/live/vav4c8z38live.m3u8
+Maxima_TV,https://maximatv.net/hls/stream.m3u8
+Monagas_Vision,https://tv.monagasvision.com/hls/mistream.m3u8
+Tu_TV_(720p),https://astl-mainstr.qvixsolutions.com/asltvtu_ext/index.m3u8
+TV_Familia,https://59d39900ebfb8.streamlock.net/tvfamilia_270p/tvfamilia_270p/playlist.m3u8
+Canal_C_del_Zulia_(1080p),#EXTVLCOPT:http-referrer=https://canalc.vercel.app

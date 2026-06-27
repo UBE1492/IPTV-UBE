@@ -139,3 +139,4 @@ UMAGTV,https://tls-cl.cdnz.cl/umag1/ngrp:live_all/playlist.m3u8
 UMAGTV2,https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8
 Vida_Nueva_TV,https://mc.servidor.stream:19360/8240/8240.m3u8
 Vision_TV,https://tv.arkeo.cl:1936/8044/8044/playlist.m3u8
+Polar_TV,https://polartv.webredirect.org/memfs/319ac83c-e602-4e91-8104-2b5501380b5e.m3u8

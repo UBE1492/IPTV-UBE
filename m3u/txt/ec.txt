@@ -52,3 +52,5 @@ Vos_y_TV_(720p)_[Not_24/7],https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
 Zaracay_TV_(1080p)_[Not_24/7],https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
 Teleamazonas_(720p),http://179.60.51.134:8888/TELEAMAZONAS/index.m3u8
 Gaviota_TV,https://gaviotatv.streamseguro.com:3195/live/gaviotatvlive.m3u8
+Ecuavisa_(1080p),http://179.60.51.134:8888/ECUAVISA/index.m3u8
+Oromar_TV_(1080p),http://179.60.51.134:8888/OROMAR-TV/index.m3u8

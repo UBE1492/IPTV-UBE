@@ -56,5 +56,7 @@
 | 50 | Zaracay TV (1080p) [Not 24/7] | video2.makrodigital.com | <https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8> |
 | 51 | Teleamazonas (720p) | IPv4 直链 | <http://179.60.51.134:8888/TELEAMAZONAS/index.m3u8> |
 | 52 | Gaviota TV | gaviotatv.streamseguro.com:3195 | <https://gaviotatv.streamseguro.com:3195/live/gaviotatvlive.m3u8> |
+| 53 | Ecuavisa (1080p) | IPv4 直链 | <http://179.60.51.134:8888/ECUAVISA/index.m3u8> |
+| 54 | Oromar TV (1080p) | IPv4 直链 | <http://179.60.51.134:8888/OROMAR-TV/index.m3u8> |
 
-Updated at **Fri Jun 26 2026 19:53:56 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jun 27 2026 03:48:59 GMT+0000 (Coordinated Universal Time)**

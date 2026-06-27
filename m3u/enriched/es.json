@@ -1,6 +1,6 @@
 {
   "name": "es",
-  "updated_at": 1782503636450,
+  "updated_at": 1782532139635,
   "m3u": "https://ube1492.github.io/IPTV-UBE/es.m3u",
   "channels": [
     {
@@ -990,6 +990,12 @@
     {
       "name": "Canal Luz Television",
       "url": "https://5f71743aa95e4.streamlock.net:1936/CanalLuz/enDirecto/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Gol (720p)",
+      "url": "http://23.237.104.106:8080/USA_GOLTV/index.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -1983,6 +1989,12 @@
       {
         "name": "Canal Luz Television",
         "url": "https://5f71743aa95e4.streamlock.net:1936/CanalLuz/enDirecto/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Gol (720p)",
+        "url": "http://23.237.104.106:8080/USA_GOLTV/index.m3u8",
         "logo": "",
         "category": "Otros"
       }

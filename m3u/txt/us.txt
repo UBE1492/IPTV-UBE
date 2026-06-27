@@ -438,3 +438,5 @@ NowMedia_Television_Spanish_(1080p),https://stream-204968.castr.net/64e0c91d08bf
 AXN_Adria,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 Comedy_Central_Latin_America,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 AXN_Black_Romania,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+Comedy_Central_(720p),http://rezofoot.tv/COMEDY-CENTRAL/index.m3u8
+National_Geographic_(720p),http://rezofoot.tv/NATIONAL-GEOGRAPHIC/index.m3u8

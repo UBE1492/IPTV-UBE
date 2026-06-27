@@ -1,6 +1,6 @@
 {
   "name": "ve",
-  "updated_at": 1782503636689,
+  "updated_at": 1782532139817,
   "m3u": "https://ube1492.github.io/IPTV-UBE/ve.m3u",
   "channels": [
     {
@@ -173,6 +173,45 @@
       "url": "https://streamlov.alsolnet.com/lapuracrema/live/playlist.m3u8",
       "logo": "",
       "category": "Otros"
+    },
+    {
+      "name": "TV Oasis Monay (720p)",
+      "url": "https://servilive.com:3562/live/vav4c8z38live.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Maxima TV",
+      "url": "https://maximatv.net/hls/stream.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Monagas Vision",
+      "url": "https://tv.monagasvision.com/hls/mistream.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Tu TV (720p)",
+      "url": "https://astl-mainstr.qvixsolutions.com/asltvtu_ext/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "TV Familia",
+      "url": "https://59d39900ebfb8.streamlock.net/tvfamilia_270p/tvfamilia_270p/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Canal C del Zulia (1080p)",
+      "url": "",
+      "logo": "",
+      "category": "Otros",
+      "options": {
+        "http-referrer": "https://canalc.vercel.app"
+      }
     }
   ],
   "categories": {
@@ -347,6 +386,45 @@
         "url": "https://streamlov.alsolnet.com/lapuracrema/live/playlist.m3u8",
         "logo": "",
         "category": "Otros"
+      },
+      {
+        "name": "TV Oasis Monay (720p)",
+        "url": "https://servilive.com:3562/live/vav4c8z38live.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Maxima TV",
+        "url": "https://maximatv.net/hls/stream.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Monagas Vision",
+        "url": "https://tv.monagasvision.com/hls/mistream.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Tu TV (720p)",
+        "url": "https://astl-mainstr.qvixsolutions.com/asltvtu_ext/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "TV Familia",
+        "url": "https://59d39900ebfb8.streamlock.net/tvfamilia_270p/tvfamilia_270p/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Canal C del Zulia (1080p)",
+        "url": "",
+        "logo": "",
+        "category": "Otros",
+        "options": {
+          "http-referrer": "https://canalc.vercel.app"
+        }
       }
     ]
   }
