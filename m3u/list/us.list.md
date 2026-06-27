@@ -438,4 +438,4 @@
 | 432 | Comedy Central (720p) | rezofoot.tv | <http://rezofoot.tv/COMEDY-CENTRAL/index.m3u8> |
 | 433 | National Geographic (720p) | rezofoot.tv | <http://rezofoot.tv/NATIONAL-GEOGRAPHIC/index.m3u8> |
 
-Updated at **Sat Jun 27 2026 03:48:59 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jun 27 2026 08:40:24 GMT+0000 (Coordinated Universal Time)**

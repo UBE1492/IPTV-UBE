@@ -29,4 +29,4 @@
 | 23 | CAD TV | videoserver.tmcreativos.com:19360 | <https://videoserver.tmcreativos.com:19360/dcsajkpvrh/dcsajkpvrh.m3u8> |
 | 24 | Los Angeles TV Radio | stmv6.voxtvhd.com.br | <https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8> |
 
-Updated at **Sat Jun 27 2026 03:49:00 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jun 27 2026 08:40:24 GMT+0000 (Coordinated Universal Time)**
