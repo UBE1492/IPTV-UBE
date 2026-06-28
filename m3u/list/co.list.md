@@ -129,4 +129,4 @@
 | 123 | Huila TV | server.asilivehd.com:3333 | <https://server.asilivehd.com:3333/live/huilatvlive.m3u8> |
 | 124 | TDI Colombia (720p) | live.amelbatv.co:81 | <https://live.amelbatv.co:81/tdicolombiatv/index.m3u8> |
 
-Updated at **Sun Jun 28 2026 08:57:08 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jun 28 2026 13:54:23 GMT+0000 (Coordinated Universal Time)**

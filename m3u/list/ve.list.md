@@ -38,4 +38,4 @@
 | 32 | Tu TV (720p) | astl-mainstr.qvixsolutions.com | <https://astl-mainstr.qvixsolutions.com/asltvtu_ext/index.m3u8> |
 | 33 | TV Familia | 59d39900ebfb8.streamlock.net | <https://59d39900ebfb8.streamlock.net/tvfamilia_270p/tvfamilia_270p/playlist.m3u8> |
 
-Updated at **Sun Jun 28 2026 08:57:08 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jun 28 2026 13:54:23 GMT+0000 (Coordinated Universal Time)**

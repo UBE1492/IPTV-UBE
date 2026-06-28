@@ -9,4 +9,4 @@
 | 3 | VIVO TV (1080p) | stream.vivotv.uy | <https://stream.vivotv.uy/hls/stream.m3u8> |
 | 4 | Canal 5 (720p) | tinyurl.com | <https://tinyurl.com/canal5uy> |
 
-Updated at **Sun Jun 28 2026 08:57:08 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jun 28 2026 13:54:23 GMT+0000 (Coordinated Universal Time)**
