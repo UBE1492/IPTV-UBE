@@ -149,4 +149,4 @@
 | 143 | TV Usach (720p) | stv4.janus.cl | <https://stv4.janus.cl/playlist/stream.m3u8> |
 | 144 | Stgo.TV (720p) | rusach2.janus.cl | <https://rusach2.janus.cl/playlist/stream.m3u8> |
 
-Updated at **Sun Jun 28 2026 04:10:15 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jun 28 2026 08:57:08 GMT+0000 (Coordinated Universal Time)**

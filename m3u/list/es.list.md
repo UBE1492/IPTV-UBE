@@ -159,4 +159,4 @@
 | 153 | Canal Luz Television | 5f71743aa95e4.streamlock.net:1936 | <https://5f71743aa95e4.streamlock.net:1936/CanalLuz/enDirecto/playlist.m3u8> |
 | 154 | Gol (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_GOLTV/index.m3u8> |
 
-Updated at **Sun Jun 28 2026 04:10:16 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jun 28 2026 08:57:08 GMT+0000 (Coordinated Universal Time)**
