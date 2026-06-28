@@ -140,3 +140,9 @@ UMAGTV2,https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8
 Vida_Nueva_TV,https://mc.servidor.stream:19360/8240/8240.m3u8
 Vision_TV,https://tv.arkeo.cl:1936/8044/8044/playlist.m3u8
 Polar_TV,https://polartv.webredirect.org/memfs/319ac83c-e602-4e91-8104-2b5501380b5e.m3u8
+Islita_TV_(1080p),https://tv.arkeo.cl:1936/unetev/unetev/playlist.m3u8
+Tevex_(1080p),https://v2.tustreaming.cl/tevex/index.m3u8
+TeleCauquenes_(720p),https://lbgo.bozztv.com/ssh101/ssh101/telecauquenestv/playlist.m3u8
+Plaza_TV_(720p),https://lbgo.bozztv.com/ssh101/ssh101/plazatv3/playlist.m3u8
+TV_Usach_(720p),https://stv4.janus.cl/playlist/stream.m3u8
+Stgo.TV_(720p),https://rusach2.janus.cl/playlist/stream.m3u8

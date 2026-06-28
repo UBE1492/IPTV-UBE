@@ -1,6 +1,6 @@
 {
   "name": "ar",
-  "updated_at": 1782588331772,
+  "updated_at": 1782619815905,
   "m3u": "https://ube1492.github.io/IPTV-UBE/ar.m3u",
   "channels": [
     {
@@ -347,12 +347,24 @@
     },
     {
       "name": "Xtrema Terror",
-      "url": "",
+      "url": "#EXTINF:-1 tvg-id=\"DisneyJrLatinAmerica.ar@SouthHD\",Disney Jr. Latin America South HD (1080p)",
       "logo": "",
       "category": "Otros",
       "options": {
         "http-referrer": "https://xtrematv.com/?p=1456"
       }
+    },
+    {
+      "name": "Disney Channel Latin America Mexico (720p)",
+      "url": "http://45.166.93.156:9999/play/a0f3/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Ciudad Magica (720p)",
+      "url": "https://lbgo.bozztv.com/ssh101/ssh101/verycoolfgr/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
     }
   ],
   "categories": {
@@ -701,12 +713,24 @@
       },
       {
         "name": "Xtrema Terror",
-        "url": "",
+        "url": "#EXTINF:-1 tvg-id=\"DisneyJrLatinAmerica.ar@SouthHD\",Disney Jr. Latin America South HD (1080p)",
         "logo": "",
         "category": "Otros",
         "options": {
           "http-referrer": "https://xtrematv.com/?p=1456"
         }
+      },
+      {
+        "name": "Disney Channel Latin America Mexico (720p)",
+        "url": "http://45.166.93.156:9999/play/a0f3/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Ciudad Magica (720p)",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/verycoolfgr/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
       }
     ]
   }

@@ -155,7 +155,6 @@ XPTV_US_(720p),https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8
 AXN_(1080p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 AXN_CEE,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 Atreseries_(1080p),https://adpnetworkhd-cmd.github.io/iptv/A3Series.m3u8
-AXN_Movies_(1080p),https://adpnetworkhd-cmd.github.io/iptv/AXNMoviesSpain.m3u8
 Antena_3_(1080p),https://adpnetworkhd-cmd.github.io/iptv/Antena3.m3u8
 Be_Mad_(1080p),https://adpnetworkhd-cmd.github.io/iptv/BeMad.m3u8
 Calle_13_Universal_HD_(1080p),https://adpnetworkhd-cmd.github.io/iptv/Calle13.m3u8
@@ -172,3 +171,4 @@ Nick_Jr._(1080p),https://adpnetworkhd-cmd.github.io/iptv/NickJrSpain.m3u8
 Nova_(1080p),https://adpnetworkhd-cmd.github.io/iptv/Nova.m3u8
 Canal_Luz_Television,https://5f71743aa95e4.streamlock.net:1936/CanalLuz/enDirecto/playlist.m3u8
 Gol_(720p),http://23.237.104.106:8080/USA_GOLTV/index.m3u8
+AXN_Movies,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36

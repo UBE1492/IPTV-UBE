@@ -142,22 +142,21 @@
 | 136 | XPTV2 (720p) | janus.xpbroadcasting.com:8443 | <https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8> |
 | 137 | XPTV US (720p) | janus.xpbroadcasting.com:8443 | <https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8> |
 | 138 | Atreseries (1080p) | adpnetworkhd-cmd.github.io | <https://adpnetworkhd-cmd.github.io/iptv/A3Series.m3u8> |
-| 139 | AXN Movies (1080p) | adpnetworkhd-cmd.github.io | <https://adpnetworkhd-cmd.github.io/iptv/AXNMoviesSpain.m3u8> |
-| 140 | Antena 3 (1080p) | adpnetworkhd-cmd.github.io | <https://adpnetworkhd-cmd.github.io/iptv/Antena3.m3u8> |
-| 141 | Be Mad (1080p) | adpnetworkhd-cmd.github.io | <https://adpnetworkhd-cmd.github.io/iptv/BeMad.m3u8> |
-| 142 | Calle 13 Universal HD (1080p) | adpnetworkhd-cmd.github.io | <https://adpnetworkhd-cmd.github.io/iptv/Calle13.m3u8> |
-| 143 | Caza y Pesca (1080p) | adpnetworkhd-cmd.github.io | <https://adpnetworkhd-cmd.github.io/iptv/Cazaypesca.m3u8> |
-| 144 | Comedy Central (1080p) | adpnetworkhd-cmd.github.io | <https://adpnetworkhd-cmd.github.io/iptv/ComedyCentralSpain.m3u8> |
-| 145 | COSMO (1080p) | adpnetworkhd-cmd.github.io | <https://adpnetworkhd-cmd.github.io/iptv/Cosmo.m3u8> |
-| 146 | Cuatro (1080p) | adpnetworkhd-cmd.github.io | <https://adpnetworkhd-cmd.github.io/iptv/Cuatro.m3u8> |
-| 147 | Disney Channel (1080p) | adpnetworkhd-cmd.github.io | <https://adpnetworkhd-cmd.github.io/iptv/DisneyChannelSpain.m3u8> |
-| 148 | Energy (1080p) | adpnetworkhd-cmd.github.io | <https://adpnetworkhd-cmd.github.io/iptv/Energy.m3u8> |
-| 149 | Gol (1080p) | adpnetworkhd-cmd.github.io | <https://adpnetworkhd-cmd.github.io/iptv/GOL.m3u8> |
-| 150 | MTV (1080p) | adpnetworkhd-cmd.github.io | <https://adpnetworkhd-cmd.github.io/iptv/MTVSpain.m3u8> |
-| 151 | Neox (1080p) | adpnetworkhd-cmd.github.io | <https://adpnetworkhd-cmd.github.io/iptv/Neox.m3u8> |
-| 152 | Nick Jr. (1080p) | adpnetworkhd-cmd.github.io | <https://adpnetworkhd-cmd.github.io/iptv/NickJrSpain.m3u8> |
-| 153 | Nova (1080p) | adpnetworkhd-cmd.github.io | <https://adpnetworkhd-cmd.github.io/iptv/Nova.m3u8> |
-| 154 | Canal Luz Television | 5f71743aa95e4.streamlock.net:1936 | <https://5f71743aa95e4.streamlock.net:1936/CanalLuz/enDirecto/playlist.m3u8> |
-| 155 | Gol (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_GOLTV/index.m3u8> |
+| 139 | Antena 3 (1080p) | adpnetworkhd-cmd.github.io | <https://adpnetworkhd-cmd.github.io/iptv/Antena3.m3u8> |
+| 140 | Be Mad (1080p) | adpnetworkhd-cmd.github.io | <https://adpnetworkhd-cmd.github.io/iptv/BeMad.m3u8> |
+| 141 | Calle 13 Universal HD (1080p) | adpnetworkhd-cmd.github.io | <https://adpnetworkhd-cmd.github.io/iptv/Calle13.m3u8> |
+| 142 | Caza y Pesca (1080p) | adpnetworkhd-cmd.github.io | <https://adpnetworkhd-cmd.github.io/iptv/Cazaypesca.m3u8> |
+| 143 | Comedy Central (1080p) | adpnetworkhd-cmd.github.io | <https://adpnetworkhd-cmd.github.io/iptv/ComedyCentralSpain.m3u8> |
+| 144 | COSMO (1080p) | adpnetworkhd-cmd.github.io | <https://adpnetworkhd-cmd.github.io/iptv/Cosmo.m3u8> |
+| 145 | Cuatro (1080p) | adpnetworkhd-cmd.github.io | <https://adpnetworkhd-cmd.github.io/iptv/Cuatro.m3u8> |
+| 146 | Disney Channel (1080p) | adpnetworkhd-cmd.github.io | <https://adpnetworkhd-cmd.github.io/iptv/DisneyChannelSpain.m3u8> |
+| 147 | Energy (1080p) | adpnetworkhd-cmd.github.io | <https://adpnetworkhd-cmd.github.io/iptv/Energy.m3u8> |
+| 148 | Gol (1080p) | adpnetworkhd-cmd.github.io | <https://adpnetworkhd-cmd.github.io/iptv/GOL.m3u8> |
+| 149 | MTV (1080p) | adpnetworkhd-cmd.github.io | <https://adpnetworkhd-cmd.github.io/iptv/MTVSpain.m3u8> |
+| 150 | Neox (1080p) | adpnetworkhd-cmd.github.io | <https://adpnetworkhd-cmd.github.io/iptv/Neox.m3u8> |
+| 151 | Nick Jr. (1080p) | adpnetworkhd-cmd.github.io | <https://adpnetworkhd-cmd.github.io/iptv/NickJrSpain.m3u8> |
+| 152 | Nova (1080p) | adpnetworkhd-cmd.github.io | <https://adpnetworkhd-cmd.github.io/iptv/Nova.m3u8> |
+| 153 | Canal Luz Television | 5f71743aa95e4.streamlock.net:1936 | <https://5f71743aa95e4.streamlock.net:1936/CanalLuz/enDirecto/playlist.m3u8> |
+| 154 | Gol (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_GOLTV/index.m3u8> |
 
-Updated at **Sat Jun 27 2026 19:25:32 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jun 28 2026 04:10:16 GMT+0000 (Coordinated Universal Time)**

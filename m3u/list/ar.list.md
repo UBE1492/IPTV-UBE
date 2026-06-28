@@ -59,5 +59,8 @@
 | 53 | Chilecito TV (480p) | vivo.solumedia.com:19360 | <https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8> |
 | 54 | Cumbia Mix (720p) | cloud.tvomix.com | <https://cloud.tvomix.com/CUMBIAMIX/index.m3u8> |
 | 55 | Disney Jr. Latin America South | tr.live.clarovtrcdn.vtrplay.com | <http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD> |
+| 56 | Disney Jr. Latin America South HD (1080p) | bantel-cdn1.iptvperu.tv:1935 | <http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/disney_jr.stream/playlist.m3u8> |
+| 57 | Disney Channel Latin America Mexico (720p) | IPv4 直链 | <http://45.166.93.156:9999/play/a0f3/index.m3u8> |
+| 58 | Ciudad Magica (720p) | lbgo.bozztv.com | <https://lbgo.bozztv.com/ssh101/ssh101/verycoolfgr/playlist.m3u8> |
 
-Updated at **Sat Jun 27 2026 19:25:31 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jun 28 2026 04:10:15 GMT+0000 (Coordinated Universal Time)**

@@ -142,5 +142,11 @@
 | 136 | Vida Nueva TV | mc.servidor.stream:19360 | <https://mc.servidor.stream:19360/8240/8240.m3u8> |
 | 137 | Vision TV | tv.arkeo.cl:1936 | <https://tv.arkeo.cl:1936/8044/8044/playlist.m3u8> |
 | 138 | Polar TV | polartv.webredirect.org | <https://polartv.webredirect.org/memfs/319ac83c-e602-4e91-8104-2b5501380b5e.m3u8> |
+| 139 | Islita TV (1080p) | tv.arkeo.cl:1936 | <https://tv.arkeo.cl:1936/unetev/unetev/playlist.m3u8> |
+| 140 | Tevex (1080p) | v2.tustreaming.cl | <https://v2.tustreaming.cl/tevex/index.m3u8> |
+| 141 | TeleCauquenes (720p) | lbgo.bozztv.com | <https://lbgo.bozztv.com/ssh101/ssh101/telecauquenestv/playlist.m3u8> |
+| 142 | Plaza TV (720p) | lbgo.bozztv.com | <https://lbgo.bozztv.com/ssh101/ssh101/plazatv3/playlist.m3u8> |
+| 143 | TV Usach (720p) | stv4.janus.cl | <https://stv4.janus.cl/playlist/stream.m3u8> |
+| 144 | Stgo.TV (720p) | rusach2.janus.cl | <https://rusach2.janus.cl/playlist/stream.m3u8> |
 
-Updated at **Sat Jun 27 2026 19:25:31 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jun 28 2026 04:10:15 GMT+0000 (Coordinated Universal Time)**

@@ -437,5 +437,6 @@
 | 431 | NowMedia Television Spanish (1080p) | stream-204968.castr.net | <https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a16fa020f4c411f09ddaa1978319689a/index.m3u8> |
 | 432 | Comedy Central (720p) | rezofoot.tv | <http://rezofoot.tv/COMEDY-CENTRAL/index.m3u8> |
 | 433 | National Geographic (720p) | rezofoot.tv | <http://rezofoot.tv/NATIONAL-GEOGRAPHIC/index.m3u8> |
+| 434 | Yes Network (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8> |
 
-Updated at **Sat Jun 27 2026 19:25:32 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jun 28 2026 04:10:16 GMT+0000 (Coordinated Universal Time)**

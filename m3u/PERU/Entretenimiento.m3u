@@ -147,3 +147,11 @@ http://179.60.51.134:8888/ATV/index.m3u8
 http://179.60.51.134:8888/PANAMERICANA/index.m3u8
 #EXTINF:-1 tvg-id="MonterricoTV.pe@SD",Monterrico TV
 https://h.jcp.live.opencaster.com/play_src/index.m3u8
+#EXTINF:-1 tvg-id="ATV.pe@SD",ATV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="VivaTV.pe@SD",VivaTV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="FuegoTV.pe@SD",FuegoTV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="NeoTV.pe@SD",Neo TV (720p)
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/DigitalTV/playlist.m3u8

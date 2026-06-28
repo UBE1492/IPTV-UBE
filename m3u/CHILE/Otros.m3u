@@ -105,3 +105,7 @@ http://45.4.1.201:8000/play/a11i/index.m3u8
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/ln/ln.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Pauta.cl@SD",Pauta (1080p)
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/pautatv/pautatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Tevex.cl@SD",Tevex (1080p)
+https://v2.tustreaming.cl/tevex/index.m3u8
+#EXTINF:-1 tvg-id="TeleCauquenes.cl@SD",TeleCauquenes (720p)
+https://lbgo.bozztv.com/ssh101/ssh101/telecauquenestv/playlist.m3u8

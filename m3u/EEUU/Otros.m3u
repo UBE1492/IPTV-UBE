@@ -353,3 +353,9 @@ https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a16fa020f4c411f09d
 http://rezofoot.tv/COMEDY-CENTRAL/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.us@East",National Geographic (720p)
 http://rezofoot.tv/NATIONAL-GEOGRAPHIC/index.m3u8
+#EXTINF:-1 tvg-id="YesNetwork.us@SD",Yes Network (720p)
+http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="UniversalCrime.us@East",Universal Crime (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="UniversalComedy.us@SD",Universal Comedy (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
