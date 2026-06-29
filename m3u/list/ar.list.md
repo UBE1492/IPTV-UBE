@@ -62,5 +62,7 @@
 | 56 | Disney Jr. Latin America South HD (1080p) | bantel-cdn1.iptvperu.tv:1935 | <http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/disney_jr.stream/playlist.m3u8> |
 | 57 | Disney Channel Latin America Mexico (720p) | IPv4 直链 | <http://45.166.93.156:9999/play/a0f3/index.m3u8> |
 | 58 | Ciudad Magica (720p) | lbgo.bozztv.com | <https://lbgo.bozztv.com/ssh101/ssh101/verycoolfgr/playlist.m3u8> |
+| 59 | Bragado TV | vivo.solumedia.com:19360 | <https://vivo.solumedia.com:19360/bragadato/bragadato.m3u8> |
+| 60 | Canal 79 Villa Maza | streamconex.com:19360 | <https://streamconex.com:19360/villamaza/villamaza.m3u8> |
 
-Updated at **Mon Jun 29 2026 11:06:30 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jun 29 2026 15:52:50 GMT+0000 (Coordinated Universal Time)**

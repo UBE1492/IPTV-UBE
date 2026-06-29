@@ -160,7 +160,6 @@ FNX_(1080p),https://fnx.lls.pbs.org/index.m3u8
 Fox_Deportes_(1280p),https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 Fox_News_Channel_(144p),http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 Fox_News_Radio_(720p),https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
-Fox_Sports_2_(480p),https://tvsen7.aynaott.com/foxsports2/index.m3u8
 Fox_Weather_(720p),https://247wlive.foxweather.com/stream/index.m3u8
 Free_Speech_TV_(720p),https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
 FTF_Sports_(720p),https://1657061170.rsc.cdn77.org/HLS/FTF-LINEAR.m3u8
@@ -443,3 +442,7 @@ National_Geographic_(720p),http://rezofoot.tv/NATIONAL-GEOGRAPHIC/index.m3u8
 Yes_Network_(720p),http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
 Universal_Crime_(1080p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 Universal_Comedy_(1080p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+WeatherNation_(1080p),https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
+OAN_Plus_(1080p),https://2-fss-2.streamhoster.com/pl_118/206858-4404458-1/playlist.m3u8
+Hallmark_Movies_&_More_(1080p),https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
+FXX_(1080p),http://23.237.104.106:8080/USA_FXX/index.m3u8

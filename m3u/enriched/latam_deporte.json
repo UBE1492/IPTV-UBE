@@ -1,6 +1,6 @@
 {
   "name": "latam_deporte",
-  "updated_at": 1782731189830,
+  "updated_at": 1782748369731,
   "m3u": "https://ube1492.github.io/IPTV-UBE/latam_deporte.m3u",
   "channels": [
     {
@@ -18,12 +18,6 @@
     {
       "name": "ESPN Deportes (360p)",
       "url": "http://origin.thetvapp.to/hls/espn-deportes/mono.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Fox Sports 2 (480p)",
-      "url": "https://tvsen7.aynaott.com/foxsports2/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -57,12 +51,6 @@
       {
         "name": "ESPN Deportes (360p)",
         "url": "http://origin.thetvapp.to/hls/espn-deportes/mono.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Fox Sports 2 (480p)",
-        "url": "https://tvsen7.aynaott.com/foxsports2/index.m3u8",
         "logo": "",
         "category": "Otros"
       },

@@ -9,8 +9,6 @@ https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
 https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
 #EXTINF:-1 tvg-id="F10HD.bo@SD",F10 HD [Geo-blocked]
 https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
-#EXTINF:-1 tvg-id="PATLaPaz.bo@SD",PAT La Paz
-https://www.redpat.tv/proxylpz/index.m3u8
 #EXTINF:-1 tvg-id="RedUnoSantaCruz.bo@SD",Red Uno Santa Cruz
 https://master.tucableip.com/muxredunosc/index.m3u8
 #EXTINF:-1 tvg-id="RTP.bo@SD",RTP
@@ -19,8 +17,6 @@ https://rtp.noxun.net/hls/stream.m3u8
 https://video01.kshost.com.br:4443/juan6318/juan6318/playlist.m3u8
 #EXTINF:-1 tvg-id="Unifranz.bo@HD",Unifranz (720p)
 https://live.enhdtv.com:8081/8192/index.m3u8
-#EXTINF:-1 tvg-id="UnitelSantaCruz.bo@SD",Unitel Santa Cruz (720p) [Not 24/7]
-https://xtream.videx.lol/Yoshiro/admin/338.m3u8
 #EXTINF:-1 tvg-id="UnivalleTelevision.bo@SD",Univalle Televisión (1080p)
 https://master.tucableip.com/univalletv/playlist.m3u8
 #EXTINF:-1 tvg-id="",UniversidadMayordeSanAndres (1080p) [Not 24/7]

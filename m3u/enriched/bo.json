@@ -1,14 +1,8 @@
 {
   "name": "bo",
-  "updated_at": 1782731191087,
+  "updated_at": 1782748370962,
   "m3u": "https://ube1492.github.io/IPTV-UBE/bo.m3u",
   "channels": [
-    {
-      "name": "Abya Yala TV",
-      "url": "https://seo.tv.bo/tv/LIpSEO-TV-8.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
     {
       "name": "ATB La Paz (614p) [Not 24/7]",
       "url": "http://186.121.206.197/live/daniel/index.m3u8",
@@ -18,18 +12,6 @@
     {
       "name": "ATB La Paz",
       "url": "https://stream.atb.com.bo/live/daniel/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Bolivia TV (720p) [Not 24/7]",
-      "url": "http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Bolivia TV 7.2 (720p)",
-      "url": "https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -82,12 +64,6 @@
       "category": "Otros"
     },
     {
-      "name": "PAT La Paz",
-      "url": "https://www.redpat.tv/proxylpz/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Red ADvenir TV (360p) [Not 24/7]",
       "url": "http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8",
       "logo": "",
@@ -124,12 +100,6 @@
       "category": "Otros"
     },
     {
-      "name": "TV OFF",
-      "url": "https://seo.tv.bo/tv/TV-OFF.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "UMSA TVU Internacional (720p)",
       "url": "#EXTINF:-1 tvg-id=\"Unifranz.bo@HD\",Unifranz (720p)",
       "logo": "",
@@ -137,12 +107,6 @@
       "options": {
         "http-referrer": "https://tvu.umsa.bo/tvu-internacional"
       }
-    },
-    {
-      "name": "Unitel Santa Cruz (720p) [Not 24/7]",
-      "url": "https://xtream.videx.lol/Yoshiro/admin/338.m3u8",
-      "logo": "",
-      "category": "Otros"
     },
     {
       "name": "Univalle Televisión (1080p)",
@@ -178,12 +142,6 @@
   "categories": {
     "Otros": [
       {
-        "name": "Abya Yala TV",
-        "url": "https://seo.tv.bo/tv/LIpSEO-TV-8.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "ATB La Paz (614p) [Not 24/7]",
         "url": "http://186.121.206.197/live/daniel/index.m3u8",
         "logo": "",
@@ -192,18 +150,6 @@
       {
         "name": "ATB La Paz",
         "url": "https://stream.atb.com.bo/live/daniel/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Bolivia TV (720p) [Not 24/7]",
-        "url": "http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Bolivia TV 7.2 (720p)",
-        "url": "https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -256,12 +202,6 @@
         "category": "Otros"
       },
       {
-        "name": "PAT La Paz",
-        "url": "https://www.redpat.tv/proxylpz/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "Red ADvenir TV (360p) [Not 24/7]",
         "url": "http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8",
         "logo": "",
@@ -298,12 +238,6 @@
         "category": "Otros"
       },
       {
-        "name": "TV OFF",
-        "url": "https://seo.tv.bo/tv/TV-OFF.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "UMSA TVU Internacional (720p)",
         "url": "#EXTINF:-1 tvg-id=\"Unifranz.bo@HD\",Unifranz (720p)",
         "logo": "",
@@ -311,12 +245,6 @@
         "options": {
           "http-referrer": "https://tvu.umsa.bo/tvu-internacional"
         }
-      },
-      {
-        "name": "Unitel Santa Cruz (720p) [Not 24/7]",
-        "url": "https://xtream.videx.lol/Yoshiro/admin/338.m3u8",
-        "logo": "",
-        "category": "Otros"
       },
       {
         "name": "Univalle Televisión (1080p)",

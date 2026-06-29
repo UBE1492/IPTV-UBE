@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1782731191007,
+  "updated_at": 1782748371115,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -966,12 +966,6 @@
     {
       "name": "Fox News Radio (720p)",
       "url": "https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Fox Sports 2 (480p)",
-      "url": "https://tvsen7.aynaott.com/foxsports2/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -2645,6 +2639,30 @@
       "options": {
         "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
       }
+    },
+    {
+      "name": "WeatherNation (1080p)",
+      "url": "https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "OAN Plus (1080p)",
+      "url": "https://2-fss-2.streamhoster.com/pl_118/206858-4404458-1/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Hallmark Movies & More (1080p)",
+      "url": "https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "FXX (1080p)",
+      "url": "http://23.237.104.106:8080/USA_FXX/index.m3u8",
+      "logo": "",
+      "category": "Otros"
     }
   ],
   "categories": {
@@ -3612,12 +3630,6 @@
       {
         "name": "Fox News Radio (720p)",
         "url": "https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Fox Sports 2 (480p)",
-        "url": "https://tvsen7.aynaott.com/foxsports2/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -5291,6 +5303,30 @@
         "options": {
           "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "WeatherNation (1080p)",
+        "url": "https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "OAN Plus (1080p)",
+        "url": "https://2-fss-2.streamhoster.com/pl_118/206858-4404458-1/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Hallmark Movies & More (1080p)",
+        "url": "https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "FXX (1080p)",
+        "url": "http://23.237.104.106:8080/USA_FXX/index.m3u8",
+        "logo": "",
+        "category": "Otros"
       }
     ]
   }

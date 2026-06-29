@@ -148,5 +148,7 @@
 | 142 | Plaza TV (720p) | lbgo.bozztv.com | <https://lbgo.bozztv.com/ssh101/ssh101/plazatv3/playlist.m3u8> |
 | 143 | TV Usach (720p) | stv4.janus.cl | <https://stv4.janus.cl/playlist/stream.m3u8> |
 | 144 | Stgo.TV (720p) | rusach2.janus.cl | <https://rusach2.janus.cl/playlist/stream.m3u8> |
+| 145 | Maray TV | 5eaccbab48461.streamlock.net:1936 | <https://5eaccbab48461.streamlock.net:1936/8242/ngrp:8242_all/playlist.m3u8> |
+| 146 | Lila TV Pencahue | tv.arkeo.cl:1936 | <https://tv.arkeo.cl:1936/radiolila/radiolila/playlist.m3u8> |
 
-Updated at **Mon Jun 29 2026 11:06:30 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jun 29 2026 15:52:50 GMT+0000 (Coordinated Universal Time)**

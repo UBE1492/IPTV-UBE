@@ -1,6 +1,6 @@
 {
   "name": "cl",
-  "updated_at": 1782731190546,
+  "updated_at": 1782748370556,
   "m3u": "https://ube1492.github.io/IPTV-UBE/cl.m3u",
   "channels": [
     {
@@ -876,6 +876,18 @@
     {
       "name": "Stgo.TV (720p)",
       "url": "https://rusach2.janus.cl/playlist/stream.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Maray TV",
+      "url": "https://5eaccbab48461.streamlock.net:1936/8242/ngrp:8242_all/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Lila TV Pencahue",
+      "url": "https://tv.arkeo.cl:1936/radiolila/radiolila/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -1755,6 +1767,18 @@
       {
         "name": "Stgo.TV (720p)",
         "url": "https://rusach2.janus.cl/playlist/stream.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Maray TV",
+        "url": "https://5eaccbab48461.streamlock.net:1936/8242/ngrp:8242_all/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Lila TV Pencahue",
+        "url": "https://tv.arkeo.cl:1936/radiolila/radiolila/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       }
