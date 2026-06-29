@@ -59,4 +59,4 @@
 | 53 | Ecuavisa (1080p) | IPv4 直链 | <http://179.60.51.134:8888/ECUAVISA/index.m3u8> |
 | 54 | Oromar TV (1080p) | IPv4 直链 | <http://179.60.51.134:8888/OROMAR-TV/index.m3u8> |
 
-Updated at **Mon Jun 29 2026 15:52:50 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jun 29 2026 20:02:38 GMT+0000 (Coordinated Universal Time)**

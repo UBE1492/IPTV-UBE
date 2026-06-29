@@ -65,4 +65,4 @@
 | 59 | Bragado TV | vivo.solumedia.com:19360 | <https://vivo.solumedia.com:19360/bragadato/bragadato.m3u8> |
 | 60 | Canal 79 Villa Maza | streamconex.com:19360 | <https://streamconex.com:19360/villamaza/villamaza.m3u8> |
 
-Updated at **Mon Jun 29 2026 15:52:50 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jun 29 2026 20:02:38 GMT+0000 (Coordinated Universal Time)**

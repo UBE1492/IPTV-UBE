@@ -442,4 +442,4 @@
 | 436 | Hallmark Movies & More (1080p) | dbrb49pjoymg4.cloudfront.net | <https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709> |
 | 437 | FXX (1080p) | IPv4 直链 | <http://23.237.104.106:8080/USA_FXX/index.m3u8> |
 
-Updated at **Mon Jun 29 2026 15:52:51 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jun 29 2026 20:02:39 GMT+0000 (Coordinated Universal Time)**

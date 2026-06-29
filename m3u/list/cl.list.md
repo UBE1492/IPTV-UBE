@@ -151,4 +151,4 @@
 | 145 | Maray TV | 5eaccbab48461.streamlock.net:1936 | <https://5eaccbab48461.streamlock.net:1936/8242/ngrp:8242_all/playlist.m3u8> |
 | 146 | Lila TV Pencahue | tv.arkeo.cl:1936 | <https://tv.arkeo.cl:1936/radiolila/radiolila/playlist.m3u8> |
 
-Updated at **Mon Jun 29 2026 15:52:50 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jun 29 2026 20:02:38 GMT+0000 (Coordinated Universal Time)**
