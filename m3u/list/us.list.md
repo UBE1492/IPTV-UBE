@@ -439,4 +439,4 @@
 | 433 | National Geographic (720p) | rezofoot.tv | <http://rezofoot.tv/NATIONAL-GEOGRAPHIC/index.m3u8> |
 | 434 | Yes Network (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8> |
 
-Updated at **Sun Jun 28 2026 19:25:58 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jun 29 2026 04:17:00 GMT+0000 (Coordinated Universal Time)**

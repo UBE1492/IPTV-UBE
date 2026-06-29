@@ -12,7 +12,7 @@
 | 6 | Barinas TV (720p) [Not 24/7] | vcp13.myplaytv.com | <https://vcp13.myplaytv.com/barinastv/barinastv/playlist.m3u8> |
 | 7 | BTA TV (720p) | cloud.fastchannel.es | <https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8> |
 | 8 | Canal 21 Táchira (360p) | stmv2.voxtvhd.com.br | <https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8> |
-| 9 | Canal C Del Zulia (720p) | vs20.live.opencaster.com | <https://vs20.live.opencaster.com/cristianhilos_314b91b0/index.m3u8> |
+| 9 | Canal C Del Zulia (1080p) | calm-forest-3478.cristianbracho904.workers.dev | <https://calm-forest-3478.cristianbracho904.workers.dev/master.m3u8> |
 | 10 | UniTV (720p) | vcp6.myplaytv.com | <https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8> |
 | 11 | Vale TV (480p) [Not 24/7] | 59d39900ebfb8.streamlock.net | <https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8> |
 | 12 | Venevision (480p) | venevision-ioriver-cdn.encoders.immergo.tv | <https://venevision-ioriver-cdn.encoders.immergo.tv/3/streamPlaylist.m3u8> |
@@ -38,4 +38,4 @@
 | 32 | Tu TV (720p) | astl-mainstr.qvixsolutions.com | <https://astl-mainstr.qvixsolutions.com/asltvtu_ext/index.m3u8> |
 | 33 | TV Familia | 59d39900ebfb8.streamlock.net | <https://59d39900ebfb8.streamlock.net/tvfamilia_270p/tvfamilia_270p/playlist.m3u8> |
 
-Updated at **Sun Jun 28 2026 19:25:58 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jun 29 2026 04:17:01 GMT+0000 (Coordinated Universal Time)**
