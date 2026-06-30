@@ -66,4 +66,4 @@
 | 60 | Canal 79 Villa Maza | streamconex.com:19360 | <https://streamconex.com:19360/villamaza/villamaza.m3u8> |
 | 61 | Telefe Internacional (576p) | IPv4 直链 | <http://190.108.83.69:8000/play/a08l/index.m3u8> |
 
-Updated at **Tue Jun 30 2026 14:26:10 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jun 30 2026 20:02:50 GMT+0000 (Coordinated Universal Time)**
