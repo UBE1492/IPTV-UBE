@@ -93,3 +93,5 @@ https://7.innovatestream.pe:19360/corporacionperiodistica/corporacionperiodistic
 https://stream2.trivutv.com/memfs/1bc8358a-665e-4bc1-a580-e4fcb54b5103.m3u8
 #EXTINF:-1 tvg-id="Vision.pe@SD",Vision
 https://lbgo.bozztv.com/ssh101/ssh101/visiononline/playlist.m3u8
+#EXTINF:-1 tvg-id="Telelima.pe@SD",Telelima (720p)
+http://190.108.83.69:8000/play/a05o/index.m3u8

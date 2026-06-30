@@ -150,5 +150,10 @@
 | 144 | Stgo.TV (720p) | rusach2.janus.cl | <https://rusach2.janus.cl/playlist/stream.m3u8> |
 | 145 | Maray TV | 5eaccbab48461.streamlock.net:1936 | <https://5eaccbab48461.streamlock.net:1936/8242/ngrp:8242_all/playlist.m3u8> |
 | 146 | Lila TV Pencahue | tv.arkeo.cl:1936 | <https://tv.arkeo.cl:1936/radiolila/radiolila/playlist.m3u8> |
+| 147 | Unetev (720p) | v2.tustreaming.cl | <https://v2.tustreaming.cl/unetev/index.m3u8> |
+| 148 | Via X (576p) | IPv4 直链 | <http://45.170.130.224:8000/play/a025/index.m3u8> |
+| 149 | Zona Latina (576p) | IPv4 直链 | <http://45.170.130.224:8000/play/a00x/index.m3u8> |
+| 150 | Telecanal (576p) | tr.live.clarovtrcdn.vtrplay.com | <https://tr.live.clarovtrcdn.vtrplay.com/telecanalsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD> |
+| 151 | Mega (1080p) | tr.live.clarovtrcdn.vtrplay.com | <http://tr.live.clarovtrcdn.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD> |
 
-Updated at **Mon Jun 29 2026 20:02:38 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jun 30 2026 03:58:07 GMT+0000 (Coordinated Universal Time)**

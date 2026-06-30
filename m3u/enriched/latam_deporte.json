@@ -1,23 +1,11 @@
 {
   "name": "latam_deporte",
-  "updated_at": 1782763357784,
+  "updated_at": 1782791886773,
   "m3u": "https://ube1492.github.io/IPTV-UBE/latam_deporte.m3u",
   "channels": [
     {
       "name": "beIN SPORTS XTRA (1080p)",
       "url": "https://bein-xtra-bein.amagi.tv/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "DirecTV Sports (1080p)",
-      "url": "https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "ESPN Deportes (360p)",
-      "url": "http://origin.thetvapp.to/hls/espn-deportes/mono.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -39,18 +27,6 @@
       {
         "name": "beIN SPORTS XTRA (1080p)",
         "url": "https://bein-xtra-bein.amagi.tv/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "DirecTV Sports (1080p)",
-        "url": "https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "ESPN Deportes (360p)",
-        "url": "http://origin.thetvapp.to/hls/espn-deportes/mono.m3u8",
         "logo": "",
         "category": "Otros"
       },

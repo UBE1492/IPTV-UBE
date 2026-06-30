@@ -64,5 +64,6 @@
 | 58 | Ciudad Magica (720p) | lbgo.bozztv.com | <https://lbgo.bozztv.com/ssh101/ssh101/verycoolfgr/playlist.m3u8> |
 | 59 | Bragado TV | vivo.solumedia.com:19360 | <https://vivo.solumedia.com:19360/bragadato/bragadato.m3u8> |
 | 60 | Canal 79 Villa Maza | streamconex.com:19360 | <https://streamconex.com:19360/villamaza/villamaza.m3u8> |
+| 61 | Telefe Internacional (576p) | IPv4 直链 | <http://190.108.83.69:8000/play/a08l/index.m3u8> |
 
-Updated at **Mon Jun 29 2026 20:02:38 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jun 30 2026 03:58:07 GMT+0000 (Coordinated Universal Time)**

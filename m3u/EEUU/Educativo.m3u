@@ -3,3 +3,5 @@
 https://reflect-monroe-public-access.cablecast.tv/live-4/live/live.m3u8
 #EXTINF:-1 tvg-id="NatickEducationChannel.us@SD",Natick Education Channel (720p)
 https://livestream.telvue.com/natickpegasus1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="HCTVEducationalAccessChannel.us@SD",HCTV Educational Access Channel
+https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-1/live.m3u8

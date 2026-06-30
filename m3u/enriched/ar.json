@@ -1,6 +1,6 @@
 {
   "name": "ar",
-  "updated_at": 1782763358898,
+  "updated_at": 1782791887538,
   "m3u": "https://ube1492.github.io/IPTV-UBE/ar.m3u",
   "channels": [
     {
@@ -375,6 +375,12 @@
     {
       "name": "Canal 79 Villa Maza",
       "url": "https://streamconex.com:19360/villamaza/villamaza.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Telefe Internacional (576p)",
+      "url": "http://190.108.83.69:8000/play/a08l/index.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -753,6 +759,12 @@
       {
         "name": "Canal 79 Villa Maza",
         "url": "https://streamconex.com:19360/villamaza/villamaza.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Telefe Internacional (576p)",
+        "url": "http://190.108.83.69:8000/play/a08l/index.m3u8",
         "logo": "",
         "category": "Otros"
       }

@@ -153,3 +153,9 @@ https://h.jcp.live.opencaster.com/play_src/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="NeoTV.pe@SD",Neo TV (720p)
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/DigitalTV/playlist.m3u8
+#EXTINF:-1 tvg-id="LotPlusTV.pe@SD",LotPlus TV (720p)
+https://ontvcable.streamottmas.workers.dev/ontvcable.m3u8
+#EXTINF:-1 tvg-id="ATVSur.pe@SD",ATV Sur (1080p)
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/atvsur.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CongresoTV.pe@SD",Congreso TV (720p)
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/canalelcongreso.stream/playlist.m3u8

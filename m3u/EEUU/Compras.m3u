@@ -11,3 +11,5 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uswest/master.m3u8
 #EXTINF:-1 tvg-id="ShopLC.us@SD",Shop LC (1080p)
 https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(ott)/master.mpd
+#EXTINF:-1 tvg-id="TSC.ca@SD",The Shopping Channel (720p)
+https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8

@@ -13,5 +13,21 @@ http://79.127.207.193/Nickelodeon/playlist.m3u8
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 #EXTINF:-1 tvg-id="PBSKidsHawaii.us@SD",PBS Kids Hawaii (720p)
 https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8
-#EXTINF:-1 tvg-id="CanalInfantil.us@SD",Canal Infantil (1080p)
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/canalinfantil/playlist.m3u8
+#EXTINF:-1 tvg-id="NickJr.us@East",Nick Jr. (576p)
+http://84.17.50.102/nickjr/index.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.us@East",Nicktoons (720p)
+http://41.205.93.154/NICKTOONS/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.us@East",Nickelodeon (720p)
+http://198.58.104.90:8989/nickelodeon/index.m3u8
+#EXTINF:-1 tvg-id="KidsStreet.us@SD",Kids Street (1080p)
+http://181.78.121.15:8000/play/a00a/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.us@East",Disney Channel (720p)
+https://cors-proxy.cooks.fyi/http://212.5.144.156:8080/disney/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.us@East",Disney Junior (720p)
+https://cors-proxy.cooks.fyi/http://212.5.144.156:8080/disneyjr/index.m3u8
+#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@Panregional",Nickelodeon Latin America (1080p)
+http://179.60.51.134:8888/NICK/index.m3u8
+#EXTINF:-1 tvg-id="NickJrLatinAmerica.us@Panregional",Nick Jr. Latin America (1080p)
+http://179.60.51.134:8888/NICK-JR/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.us@East",Nickelodeon (576p)
+http://84.17.50.102/nickelodeon/index.m3u8

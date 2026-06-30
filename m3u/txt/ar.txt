@@ -63,3 +63,4 @@ Disney_Channel_Latin_America_Mexico_(720p),http://45.166.93.156:9999/play/a0f3/i
 Ciudad_Magica_(720p),https://lbgo.bozztv.com/ssh101/ssh101/verycoolfgr/playlist.m3u8
 Bragado_TV,https://vivo.solumedia.com:19360/bragadato/bragadato.m3u8
 Canal_79_Villa_Maza,https://streamconex.com:19360/villamaza/villamaza.m3u8
+Telefe_Internacional_(576p),http://190.108.83.69:8000/play/a08l/index.m3u8

@@ -148,3 +148,8 @@ TV_Usach_(720p),https://stv4.janus.cl/playlist/stream.m3u8
 Stgo.TV_(720p),https://rusach2.janus.cl/playlist/stream.m3u8
 Maray_TV,https://5eaccbab48461.streamlock.net:1936/8242/ngrp:8242_all/playlist.m3u8
 Lila_TV_Pencahue,https://tv.arkeo.cl:1936/radiolila/radiolila/playlist.m3u8
+Unetev_(720p),https://v2.tustreaming.cl/unetev/index.m3u8
+Via_X_(576p),http://45.170.130.224:8000/play/a025/index.m3u8
+Zona_Latina_(576p),http://45.170.130.224:8000/play/a00x/index.m3u8
+Telecanal_(576p),https://tr.live.clarovtrcdn.vtrplay.com/telecanalsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+Mega_(1080p),http://tr.live.clarovtrcdn.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD

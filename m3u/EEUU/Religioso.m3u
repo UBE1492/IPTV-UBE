@@ -7,13 +7,7 @@ https://tgn.bozztv.com/betterlife/betterlife/betterlife/index.m3u8
 http://video.ct-n.com/live/ctnSupreme/playlist_DVR.m3u8
 #EXTINF:-1 tvg-id="GoodLife45.us@SD",GoodLife 45 (720p) [Not 24/7]
 https://2-fss-2.streamhoster.com/pl_118/201450-1248872-1/playlist.m3u8
-#EXTINF:-1 tvg-id="JuventudRenovadaenelEspirituSanto.us@SD",Juventud Renovada en el Espiritu Santo (720p) [Not 24/7]
-https://telered.live:1936/jrestv/jrestv/playlist.m3u8
 #EXTINF:-1 tvg-id="LifevisionTV.us@SD",LifevisionTV (406p) [Not 24/7]
 https://tgn.bozztv.com/lifevision/lifevision/index.m3u8
 #EXTINF:-1 tvg-id="SmartLifeStyleTV.us@SD",Lighting Lives Blessing Nations Smart Life Style TV (LLBN) (720p)
 https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/stream.m3u8
-#EXTINF:-1 tvg-id="Lifetime.us@East",Lifetime (720p)
-http://rezofoot.tv/LIFETIME/index.m3u8
-#EXTINF:-1 tvg-id="LifetimeLatinAmerica.us@Panregional",Lifetime Latin America (1080p)
-http://138.121.15.230:9002/LIFETIME/index.m3u8

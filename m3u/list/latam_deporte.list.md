@@ -5,9 +5,7 @@
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
 | 1 | beIN SPORTS XTRA (1080p) | bein-xtra-bein.amagi.tv | <https://bein-xtra-bein.amagi.tv/playlist.m3u8> |
-| 2 | DirecTV Sports (1080p) | latam-cache-sv2-cdn.latamlive.net | <https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd> |
-| 3 | ESPN Deportes (360p) | origin.thetvapp.to | <http://origin.thetvapp.to/hls/espn-deportes/mono.m3u8> |
-| 4 | beIN Sports USA (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_BEIN/index.m3u8> |
-| 5 | ESPNU (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_ESPNU/index.m3u8> |
+| 2 | beIN Sports USA (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_BEIN/index.m3u8> |
+| 3 | ESPNU (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_ESPNU/index.m3u8> |
 
-Updated at **Mon Jun 29 2026 20:02:37 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jun 30 2026 03:58:06 GMT+0000 (Coordinated Universal Time)**
