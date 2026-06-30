@@ -156,4 +156,4 @@
 | 150 | Telecanal (576p) | tr.live.clarovtrcdn.vtrplay.com | <https://tr.live.clarovtrcdn.vtrplay.com/telecanalsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD> |
 | 151 | Mega (1080p) | tr.live.clarovtrcdn.vtrplay.com | <http://tr.live.clarovtrcdn.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD> |
 
-Updated at **Tue Jun 30 2026 03:58:07 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jun 30 2026 09:43:57 GMT+0000 (Coordinated Universal Time)**
