@@ -14,4 +14,4 @@
 | 8 | Turbo Mix Radio TV (720p) | live-evg11.tv360.bitel.com.pe | <https://live-evg11.tv360.bitel.com.pe/bitel/turbomixSRT/playlist.m3u8> |
 | 9 | Radio San Borja TV | stream.mediacorp.pe | <https://stream.mediacorp.pe/srt/3/playlist.m3u8> |
 
-Updated at **Wed Jul 01 2026 04:13:26 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jul 01 2026 09:54:56 GMT+0000 (Coordinated Universal Time)**
