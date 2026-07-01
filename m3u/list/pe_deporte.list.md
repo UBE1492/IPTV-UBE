@@ -8,4 +8,4 @@
 | 2 | Movistar Deportes (1080p) | IPv4 直链 | <http://45.4.1.201:8000/play/a13e/index.m3u8> |
 | 3 | L1 Max (1080p) | IPv4 直链 | <http://45.4.1.201:8000/play/a123/index.m3u8> |
 
-Updated at **Wed Jul 01 2026 14:44:18 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jul 01 2026 20:00:46 GMT+0000 (Coordinated Universal Time)**
