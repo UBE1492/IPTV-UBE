@@ -25,7 +25,6 @@ Antena_3_Internacional,http://177.10.184.193:8000/play/a06a/index.m3u8
 Arabí_TV_(1080p),https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8
 Aragon_TV_Internacional_(720p)_[Not_24/7],https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 Atrescine_(1080p),http://181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8
-AXN_CEE_Romania_[Not_24/7],http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/7008/index.m3u8
 Bailén_TV_(720p)_[Not_24/7],http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8
 Barca_TV,https://live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8
 BCN_Gospel_TV_HD_(720p),https://live1.ovalcast.com:3916/live/bcngospeltvlive.m3u8
@@ -100,7 +99,6 @@ Molahits_TV_(720p),http://ventdelnord.tv:8080/mola/directe.m3u8
 Music_TV_Granada_(1080p)_[Not_24/7],https://cloudvideo.servers10.com:8081/8032/index.m3u8
 NatureTime_(1080p),https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
 Negocios_TV_(1080p),https://streaming013.gestec-video.com/hls/negociostv.m3u8
-Nickelodeon_(1080p),https://xykt-fix.github.io/iptv/streams/SP57.m3u8
 NORTEvisión_(1080p),http://amaru.dyndns.org:8870/0.m3u8
 Olot_TV_(1080p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 Pequeradio_(720p)_[Not_24/7],https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
@@ -154,21 +152,6 @@ XPTV2_(720p),https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8
 XPTV_US_(720p),https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8
 AXN_(1080p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 AXN_CEE,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-Atreseries_(1080p),https://adpnetworkhd-cmd.github.io/iptv/A3Series.m3u8
-Antena_3_(1080p),https://adpnetworkhd-cmd.github.io/iptv/Antena3.m3u8
-Be_Mad_(1080p),https://adpnetworkhd-cmd.github.io/iptv/BeMad.m3u8
-Calle_13_Universal_HD_(1080p),https://adpnetworkhd-cmd.github.io/iptv/Calle13.m3u8
-Caza_y_Pesca_(1080p),https://adpnetworkhd-cmd.github.io/iptv/Cazaypesca.m3u8
-Comedy_Central_(1080p),https://adpnetworkhd-cmd.github.io/iptv/ComedyCentralSpain.m3u8
-COSMO_(1080p),https://adpnetworkhd-cmd.github.io/iptv/Cosmo.m3u8
-Cuatro_(1080p),https://adpnetworkhd-cmd.github.io/iptv/Cuatro.m3u8
-Disney_Channel_(1080p),https://adpnetworkhd-cmd.github.io/iptv/DisneyChannelSpain.m3u8
-Energy_(1080p),https://adpnetworkhd-cmd.github.io/iptv/Energy.m3u8
-Gol_(1080p),https://adpnetworkhd-cmd.github.io/iptv/GOL.m3u8
-MTV_(1080p),https://adpnetworkhd-cmd.github.io/iptv/MTVSpain.m3u8
-Neox_(1080p),https://adpnetworkhd-cmd.github.io/iptv/Neox.m3u8
-Nick_Jr._(1080p),https://adpnetworkhd-cmd.github.io/iptv/NickJrSpain.m3u8
-Nova_(1080p),https://adpnetworkhd-cmd.github.io/iptv/Nova.m3u8
 Canal_Luz_Television,https://5f71743aa95e4.streamlock.net:1936/CanalLuz/enDirecto/playlist.m3u8
 Gol_(720p),http://23.237.104.106:8080/USA_GOLTV/index.m3u8
 A_Punt_(720p),https://fastly.live.brightcove.com/1846756479408303045/eu-central-1/6057955885001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZWFxNWh4LmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTg4NTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1ODg1MDAxIl0sImp0aSI6IjE4NDY3NTY0Nzk0MDgzMDMwNDUifQ.o6wb_VA-TVxl3ERgr7FKLlaTjY7smErmsf73QAydySE/playlist-hls-dvr.m3u8

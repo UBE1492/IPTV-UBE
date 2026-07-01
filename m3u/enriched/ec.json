@@ -1,6 +1,6 @@
 {
   "name": "ec",
-  "updated_at": 1782849770977,
+  "updated_at": 1782879201382,
   "m3u": "https://ube1492.github.io/IPTV-UBE/ec.m3u",
   "channels": [
     {
@@ -327,6 +327,12 @@
     {
       "name": "Oromar TV (1080p)",
       "url": "http://179.60.51.134:8888/OROMAR-TV/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Ecuador TV",
+      "url": "https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -657,6 +663,12 @@
       {
         "name": "Oromar TV (1080p)",
         "url": "http://179.60.51.134:8888/OROMAR-TV/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Ecuador TV",
+        "url": "https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8",
         "logo": "",
         "category": "Otros"
       }

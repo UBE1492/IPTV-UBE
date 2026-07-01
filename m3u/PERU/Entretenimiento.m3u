@@ -141,8 +141,6 @@ https://k20.usastreams.com:8081/tvperuanisima/index.m3u8
 https://srt.tvdatta.com/tvenlinea/index.m3u8
 #EXTINF:-1 tvg-id="ATVPlus.pe@SD",ATV+ (1080p)
 http://179.60.51.134:8888/ATV/index.m3u8
-#EXTINF:-1 tvg-id="PanamericanaTV.pe@SD",Panamericana TV (1080p)
-http://179.60.51.134:8888/PANAMERICANA/index.m3u8
 #EXTINF:-1 tvg-id="MonterricoTV.pe@SD",Monterrico TV
 https://h.jcp.live.opencaster.com/play_src/index.m3u8
 #EXTINF:-1 tvg-id="ATV.pe@SD",ATV (1080p)

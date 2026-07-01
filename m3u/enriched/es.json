@@ -1,6 +1,6 @@
 {
   "name": "es",
-  "updated_at": 1782849771383,
+  "updated_at": 1782879201585,
   "m3u": "https://ube1492.github.io/IPTV-UBE/es.m3u",
   "channels": [
     {
@@ -150,12 +150,6 @@
     {
       "name": "Atrescine (1080p)",
       "url": "http://181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "AXN CEE Romania [Not 24/7]",
-      "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/7008/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -589,12 +583,6 @@
       "category": "Otros"
     },
     {
-      "name": "Nickelodeon (1080p)",
-      "url": "https://xykt-fix.github.io/iptv/streams/SP57.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "NORTEvisión (1080p)",
       "url": "http://amaru.dyndns.org:8870/0.m3u8",
       "logo": "",
@@ -892,96 +880,6 @@
       }
     },
     {
-      "name": "Atreseries (1080p)",
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/A3Series.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Antena 3 (1080p)",
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/Antena3.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Be Mad (1080p)",
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/BeMad.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Calle 13 Universal HD (1080p)",
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/Calle13.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Caza y Pesca (1080p)",
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/Cazaypesca.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Comedy Central (1080p)",
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/ComedyCentralSpain.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "COSMO (1080p)",
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/Cosmo.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Cuatro (1080p)",
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/Cuatro.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Disney Channel (1080p)",
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/DisneyChannelSpain.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Energy (1080p)",
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/Energy.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Gol (1080p)",
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/GOL.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "MTV (1080p)",
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/MTVSpain.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Neox (1080p)",
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/Neox.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Nick Jr. (1080p)",
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/NickJrSpain.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Nova (1080p)",
-      "url": "https://adpnetworkhd-cmd.github.io/iptv/Nova.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Canal Luz Television",
       "url": "https://5f71743aa95e4.streamlock.net:1936/CanalLuz/enDirecto/playlist.m3u8",
       "logo": "",
@@ -1158,12 +1056,6 @@
       {
         "name": "Atrescine (1080p)",
         "url": "http://181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "AXN CEE Romania [Not 24/7]",
-        "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/7008/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -1597,12 +1489,6 @@
         "category": "Otros"
       },
       {
-        "name": "Nickelodeon (1080p)",
-        "url": "https://xykt-fix.github.io/iptv/streams/SP57.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "NORTEvisión (1080p)",
         "url": "http://amaru.dyndns.org:8870/0.m3u8",
         "logo": "",
@@ -1898,96 +1784,6 @@
         "options": {
           "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3"
         }
-      },
-      {
-        "name": "Atreseries (1080p)",
-        "url": "https://adpnetworkhd-cmd.github.io/iptv/A3Series.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Antena 3 (1080p)",
-        "url": "https://adpnetworkhd-cmd.github.io/iptv/Antena3.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Be Mad (1080p)",
-        "url": "https://adpnetworkhd-cmd.github.io/iptv/BeMad.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Calle 13 Universal HD (1080p)",
-        "url": "https://adpnetworkhd-cmd.github.io/iptv/Calle13.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Caza y Pesca (1080p)",
-        "url": "https://adpnetworkhd-cmd.github.io/iptv/Cazaypesca.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Comedy Central (1080p)",
-        "url": "https://adpnetworkhd-cmd.github.io/iptv/ComedyCentralSpain.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "COSMO (1080p)",
-        "url": "https://adpnetworkhd-cmd.github.io/iptv/Cosmo.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Cuatro (1080p)",
-        "url": "https://adpnetworkhd-cmd.github.io/iptv/Cuatro.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Disney Channel (1080p)",
-        "url": "https://adpnetworkhd-cmd.github.io/iptv/DisneyChannelSpain.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Energy (1080p)",
-        "url": "https://adpnetworkhd-cmd.github.io/iptv/Energy.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Gol (1080p)",
-        "url": "https://adpnetworkhd-cmd.github.io/iptv/GOL.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "MTV (1080p)",
-        "url": "https://adpnetworkhd-cmd.github.io/iptv/MTVSpain.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Neox (1080p)",
-        "url": "https://adpnetworkhd-cmd.github.io/iptv/Neox.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Nick Jr. (1080p)",
-        "url": "https://adpnetworkhd-cmd.github.io/iptv/NickJrSpain.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Nova (1080p)",
-        "url": "https://adpnetworkhd-cmd.github.io/iptv/Nova.m3u8",
-        "logo": "",
-        "category": "Otros"
       },
       {
         "name": "Canal Luz Television",

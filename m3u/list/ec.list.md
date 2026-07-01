@@ -58,5 +58,6 @@
 | 52 | Gaviota TV | gaviotatv.streamseguro.com:3195 | <https://gaviotatv.streamseguro.com:3195/live/gaviotatvlive.m3u8> |
 | 53 | Ecuavisa (1080p) | IPv4 直链 | <http://179.60.51.134:8888/ECUAVISA/index.m3u8> |
 | 54 | Oromar TV (1080p) | IPv4 直链 | <http://179.60.51.134:8888/OROMAR-TV/index.m3u8> |
+| 55 | Ecuador TV | video-eu1.streamerr.co | <https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8> |
 
-Updated at **Tue Jun 30 2026 20:02:50 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jul 01 2026 04:13:21 GMT+0000 (Coordinated Universal Time)**

@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="Nickelodeon.es@SD",Nickelodeon (1080p)
-https://xykt-fix.github.io/iptv/streams/SP57.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.es@SD",Disney Channel (1080p)
-https://adpnetworkhd-cmd.github.io/iptv/DisneyChannelSpain.m3u8
-#EXTINF:-1 tvg-id="NickJr.es@SD",Nick Jr. (1080p)
-https://adpnetworkhd-cmd.github.io/iptv/NickJrSpain.m3u8
