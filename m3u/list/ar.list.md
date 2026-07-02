@@ -65,5 +65,7 @@
 | 59 | Bragado TV | vivo.solumedia.com:19360 | <https://vivo.solumedia.com:19360/bragadato/bragadato.m3u8> |
 | 60 | Canal 79 Villa Maza | streamconex.com:19360 | <https://streamconex.com:19360/villamaza/villamaza.m3u8> |
 | 61 | Telefe Internacional (576p) | IPv4 直链 | <http://190.108.83.69:8000/play/a08l/index.m3u8> |
+| 62 | IP Noticias (720p) | twitch-m3u8.bastypro112.workers.dev | <https://twitch-m3u8.bastypro112.workers.dev/argentina_12tw/index.m3u8> |
+| 63 | Canal 9 Link | 617c5175c970b.streamlock.net:4444 | <https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8> |
 
-Updated at **Wed Jul 01 2026 20:00:37 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jul 02 2026 03:53:54 GMT+0000 (Coordinated Universal Time)**

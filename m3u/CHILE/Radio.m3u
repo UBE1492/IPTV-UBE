@@ -5,15 +5,3 @@ https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8
 https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
 #EXTINF:-1 tvg-id="EnerGeekRadio.cl@SD",EnerGeek Radio (1080p)
 https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=ZZDemoIPTVGH
-#EXTINF:-1 tvg-id="DiferenciaRadioTV.cl@SD",Diferencia Radio TV
-https://s1.radiumcast.top/memfs/674b2d4f-7d6e-49be-9c6c-3094868259d9.m3u8
-#EXTINF:-1 tvg-id="MiRadioTV.cl@SD",Mi Radio TV
-https://scl.edge.grupoz.cl/miradio2/live/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioAmericaTV.cl@SD",Radio America TV (720p)
-https://v2.tustreaming.cl/americamovil/index.m3u8
-#EXTINF:-1 tvg-id="RadioArmoniaTV.cl@SD",Radio Armonia TV (720p)
-https://v2.tustreaming.cl/armoniamovil/index.m3u8
-#EXTINF:-1 tvg-id="RadioPopularTV.cl@SD",Radio Popular TV
-https://tv.arkeo.cl:19360/8052/8052.m3u8
-#EXTINF:-1 tvg-id="RuidosFM.cl@SD",Ruidos FM
-https://tv1.ruidosfm.cl/ruidostv/stream.m3u8

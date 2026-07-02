@@ -3,5 +3,3 @@
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 #EXTINF:-1 tvg-id="CanalISB.cl@SD",Canal ISB (Iglesia San Bernardo) (720p)
 https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ElCanalFeliz.cl@SD",El Canal Feliz (720p)
-http://streaming.multicontenidos.cl:8081/live/canalfeliz/playlist.m3u8

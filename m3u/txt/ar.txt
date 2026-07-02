@@ -64,3 +64,5 @@ Ciudad_Magica_(720p),https://lbgo.bozztv.com/ssh101/ssh101/verycoolfgr/playlist.
 Bragado_TV,https://vivo.solumedia.com:19360/bragadato/bragadato.m3u8
 Canal_79_Villa_Maza,https://streamconex.com:19360/villamaza/villamaza.m3u8
 Telefe_Internacional_(576p),http://190.108.83.69:8000/play/a08l/index.m3u8
+IP_Noticias_(720p),https://twitch-m3u8.bastypro112.workers.dev/argentina_12tw/index.m3u8
+Canal_9_Link,https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8

@@ -253,7 +253,6 @@ Monroe_Community_Media_Public_Access_Channel,https://reflect-monroe-public-acces
 Movies!_(480p),https://bozztv.com/dvrfl03/hdirect/hdirect-ovair1-movies!/index.m3u8
 MRVTV_Channel_44_(720p),https://livestream.telvue.com/madrivervalleytv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 MRVTV_Channel_45_(720p),https://livestream.telvue.com/madrivervalleytv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-MS_NOW_(720p),http://41.205.93.154/MSNBC/index.m3u8
 Nashua_ETV_Channel_22_Nashua_NH_(720p),https://livestream.telvue.com/nashuanh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 Nashua_GTV_Channel_16_Nashua_NH_(720p),https://livestream.telvue.com/nashuanh3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 Natick_Education_Channel_(720p),https://livestream.telvue.com/natickpegasus1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8

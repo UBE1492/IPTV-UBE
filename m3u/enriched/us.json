@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1782936037413,
+  "updated_at": 1782964433992,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -1524,12 +1524,6 @@
     {
       "name": "MRVTV Channel 45 (720p)",
       "url": "https://livestream.telvue.com/madrivervalleytv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "MS NOW (720p)",
-      "url": "http://41.205.93.154/MSNBC/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -5091,12 +5085,6 @@
       {
         "name": "MRVTV Channel 45 (720p)",
         "url": "https://livestream.telvue.com/madrivervalleytv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "MS NOW (720p)",
-        "url": "http://41.205.93.154/MSNBC/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
