@@ -105,4 +105,4 @@
 | 99 | TDI Colombia (720p) | live.amelbatv.co:81 | <https://live.amelbatv.co:81/tdicolombiatv/index.m3u8> |
 | 100 | Cable Nobsa TV (720p) | eu1.servers10.com:8081 | <https://eu1.servers10.com:8081/8164/index.m3u8> |
 
-Updated at **Thu Jul 02 2026 14:09:16 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jul 02 2026 19:35:17 GMT+0000 (Coordinated Universal Time)**

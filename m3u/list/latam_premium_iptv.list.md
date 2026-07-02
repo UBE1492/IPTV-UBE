@@ -60,7 +60,7 @@
 | 54 | FX | IPv4 直链 | <http://179.1.87.75:8098/play/a0hc/index.m3u8> |
 | 55 | Fox Sports 2 | IPv4 直链 | <http://179.1.87.75:8098/play/a0fg/index.m3u8> |
 | 56 | Fox Sports 3 | IPv4 直链 | <http://179.1.87.75:8098/play/a0fh/index.m3u8> |
-| 57 | HBO | IPv4 直链 | <http://179.1.87.75:8098/play/a0td/index.m3u8> |
+| 57 | HBO | IPv4 直链 | <http://179.1.87.75:8098/play/a0h7/index.m3u8> |
 | 58 | HBO 2 | IPv4 直链 | <http://179.1.87.75:8098/play/a0ee/index.m3u8> |
 | 59 | HBO Family | IPv4 直链 | <http://179.1.87.75:8098/play/a0eh/index.m3u8> |
 | 60 | HBO Family HD | IPv4 直链 | <http://179.1.87.75:8098/play/a0tt/index.m3u8> |
@@ -132,4 +132,4 @@
 | 126 | Zona Latina | IPv4 直链 | <http://179.1.87.75:8098/play/a0dr/index.m3u8> |
 | 127 | Zoom | IPv4 直链 | <http://179.1.87.75:8098/play/a0gh/index.m3u8> |
 
-Updated at **Thu Jul 02 2026 14:09:13 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jul 02 2026 19:35:16 GMT+0000 (Coordinated Universal Time)**
