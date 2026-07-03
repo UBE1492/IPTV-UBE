@@ -1,6 +1,6 @@
 {
   "name": "latam_premium_iptv",
-  "updated_at": 1783020916169,
+  "updated_at": 1783049747493,
   "m3u": "https://ube1492.github.io/IPTV-UBE/latam_premium_iptv.m3u",
   "channels": [
     {
@@ -94,12 +94,6 @@
       "category": "LatAm Premium"
     },
     {
-      "name": "Canal Estrellas",
-      "url": "http://179.1.87.75:8098/play/a0ff/index.m3u8",
-      "logo": "",
-      "category": "LatAm Premium"
-    },
-    {
       "name": "Canal Institucional",
       "url": "http://179.1.87.75:8098/play/a0g9/index.m3u8",
       "logo": "",
@@ -170,6 +164,12 @@
       "url": "http://179.1.87.75:8098/play/a0tr/index.m3u8",
       "logo": "",
       "category": "LatAm Premium"
+    },
+    {
+      "name": "DIRECTV SPORT",
+      "url": "http://179.1.87.75:8098/play/a0uy/index.m3u8",
+      "logo": "",
+      "category": "Deportes"
     },
     {
       "name": "De Pelicula",
@@ -340,24 +340,6 @@
       "category": "Deportes"
     },
     {
-      "name": "HBO",
-      "url": "http://179.1.87.75:8098/play/a0h7/index.m3u8",
-      "logo": "",
-      "category": "Cine & Series"
-    },
-    {
-      "name": "HBO 2",
-      "url": "http://179.1.87.75:8098/play/a0ee/index.m3u8",
-      "logo": "",
-      "category": "Cine & Series"
-    },
-    {
-      "name": "HBO Family",
-      "url": "http://179.1.87.75:8098/play/a0eh/index.m3u8",
-      "logo": "",
-      "category": "Cine & Series"
-    },
-    {
       "name": "HBO Family HD",
       "url": "http://179.1.87.75:8098/play/a0tt/index.m3u8",
       "logo": "",
@@ -372,18 +354,6 @@
     {
       "name": "HBO POP HD",
       "url": "http://179.1.87.75:8098/play/a0tk/index.m3u8",
-      "logo": "",
-      "category": "Cine & Series"
-    },
-    {
-      "name": "HBO Plus",
-      "url": "http://179.1.87.75:8098/play/a0ef/index.m3u8",
-      "logo": "",
-      "category": "Cine & Series"
-    },
-    {
-      "name": "HBO XTREME SD",
-      "url": "http://179.1.87.75:8098/play/a0eg/index.m3u8",
       "logo": "",
       "category": "Cine & Series"
     },
@@ -418,20 +388,14 @@
       "category": "Deportes"
     },
     {
-      "name": "La Red",
-      "url": "http://179.1.87.75:8098/play/a0t1/index.m3u8",
+      "name": "LA KALLE",
+      "url": "http://179.1.87.75:8098/play/a0v0/index.m3u8",
       "logo": "",
       "category": "LatAm Premium"
     },
     {
       "name": "Las Estrellas HD",
       "url": "http://179.1.87.75:8098/play/a0tq/index.m3u8",
-      "logo": "",
-      "category": "LatAm Premium"
-    },
-    {
-      "name": "Lifetime",
-      "url": "http://179.1.87.75:8098/play/a0e3/index.m3u8",
       "logo": "",
       "category": "LatAm Premium"
     },
@@ -492,12 +456,6 @@
     {
       "name": "Playboy HD",
       "url": "http://179.1.87.75:8098/play/a0tz/index.m3u8",
-      "logo": "",
-      "category": "LatAm Premium"
-    },
-    {
-      "name": "RAI Italia",
-      "url": "http://179.1.87.75:8098/play/a0ua/index.m3u8",
       "logo": "",
       "category": "LatAm Premium"
     },
@@ -570,12 +528,6 @@
     {
       "name": "TCM",
       "url": "http://179.1.87.75:8098/play/a0du/index.m3u8",
-      "logo": "",
-      "category": "LatAm Premium"
-    },
-    {
-      "name": "TLC",
-      "url": "http://179.1.87.75:8098/play/a0fd/index.m3u8",
       "logo": "",
       "category": "LatAm Premium"
     },
@@ -688,12 +640,6 @@
       "category": "LatAm Premium"
     },
     {
-      "name": "TyC",
-      "url": "http://179.1.87.75:8098/play/a0t3/index.m3u8",
-      "logo": "",
-      "category": "Deportes"
-    },
-    {
       "name": "UNIVERSAL CHANNEL HD",
       "url": "http://179.1.87.75:8098/play/a0ug/index.m3u8",
       "logo": "",
@@ -708,36 +654,6 @@
     {
       "name": "Universal",
       "url": "http://179.1.87.75:8098/play/a0do/index.m3u8",
-      "logo": "",
-      "category": "LatAm Premium"
-    },
-    {
-      "name": "Universal Cinema SD",
-      "url": "http://179.1.87.75:8098/play/a0en/index.m3u8",
-      "logo": "",
-      "category": "LatAm Premium"
-    },
-    {
-      "name": "Universal Comedy SD",
-      "url": "http://179.1.87.75:8098/play/a0eo/index.m3u8",
-      "logo": "",
-      "category": "LatAm Premium"
-    },
-    {
-      "name": "Universal Premiere SD",
-      "url": "http://179.1.87.75:8098/play/a0em/index.m3u8",
-      "logo": "",
-      "category": "LatAm Premium"
-    },
-    {
-      "name": "Venus",
-      "url": "http://179.1.87.75:8098/play/a0f2/index.m3u8",
-      "logo": "",
-      "category": "LatAm Premium"
-    },
-    {
-      "name": "ViaX",
-      "url": "http://179.1.87.75:8098/play/a0fe/index.m3u8",
       "logo": "",
       "category": "LatAm Premium"
     },
@@ -837,12 +753,6 @@
       {
         "name": "Canal Caracol",
         "url": "http://179.1.87.75:8098/play/a0g5/index.m3u8",
-        "logo": "",
-        "category": "LatAm Premium"
-      },
-      {
-        "name": "Canal Estrellas",
-        "url": "http://179.1.87.75:8098/play/a0ff/index.m3u8",
         "logo": "",
         "category": "LatAm Premium"
       },
@@ -949,20 +859,14 @@
         "category": "LatAm Premium"
       },
       {
-        "name": "La Red",
-        "url": "http://179.1.87.75:8098/play/a0t1/index.m3u8",
+        "name": "LA KALLE",
+        "url": "http://179.1.87.75:8098/play/a0v0/index.m3u8",
         "logo": "",
         "category": "LatAm Premium"
       },
       {
         "name": "Las Estrellas HD",
         "url": "http://179.1.87.75:8098/play/a0tq/index.m3u8",
-        "logo": "",
-        "category": "LatAm Premium"
-      },
-      {
-        "name": "Lifetime",
-        "url": "http://179.1.87.75:8098/play/a0e3/index.m3u8",
         "logo": "",
         "category": "LatAm Premium"
       },
@@ -1005,12 +909,6 @@
       {
         "name": "Playboy HD",
         "url": "http://179.1.87.75:8098/play/a0tz/index.m3u8",
-        "logo": "",
-        "category": "LatAm Premium"
-      },
-      {
-        "name": "RAI Italia",
-        "url": "http://179.1.87.75:8098/play/a0ua/index.m3u8",
         "logo": "",
         "category": "LatAm Premium"
       },
@@ -1059,12 +957,6 @@
       {
         "name": "TCM",
         "url": "http://179.1.87.75:8098/play/a0du/index.m3u8",
-        "logo": "",
-        "category": "LatAm Premium"
-      },
-      {
-        "name": "TLC",
-        "url": "http://179.1.87.75:8098/play/a0fd/index.m3u8",
         "logo": "",
         "category": "LatAm Premium"
       },
@@ -1159,36 +1051,6 @@
         "category": "LatAm Premium"
       },
       {
-        "name": "Universal Cinema SD",
-        "url": "http://179.1.87.75:8098/play/a0en/index.m3u8",
-        "logo": "",
-        "category": "LatAm Premium"
-      },
-      {
-        "name": "Universal Comedy SD",
-        "url": "http://179.1.87.75:8098/play/a0eo/index.m3u8",
-        "logo": "",
-        "category": "LatAm Premium"
-      },
-      {
-        "name": "Universal Premiere SD",
-        "url": "http://179.1.87.75:8098/play/a0em/index.m3u8",
-        "logo": "",
-        "category": "LatAm Premium"
-      },
-      {
-        "name": "Venus",
-        "url": "http://179.1.87.75:8098/play/a0f2/index.m3u8",
-        "logo": "",
-        "category": "LatAm Premium"
-      },
-      {
-        "name": "ViaX",
-        "url": "http://179.1.87.75:8098/play/a0fe/index.m3u8",
-        "logo": "",
-        "category": "LatAm Premium"
-      },
-      {
         "name": "Win",
         "url": "http://179.1.87.75:8098/play/a0he/index.m3u8",
         "logo": "",
@@ -1233,24 +1095,6 @@
         "category": "Cine & Series"
       },
       {
-        "name": "HBO",
-        "url": "http://179.1.87.75:8098/play/a0h7/index.m3u8",
-        "logo": "",
-        "category": "Cine & Series"
-      },
-      {
-        "name": "HBO 2",
-        "url": "http://179.1.87.75:8098/play/a0ee/index.m3u8",
-        "logo": "",
-        "category": "Cine & Series"
-      },
-      {
-        "name": "HBO Family",
-        "url": "http://179.1.87.75:8098/play/a0eh/index.m3u8",
-        "logo": "",
-        "category": "Cine & Series"
-      },
-      {
         "name": "HBO Family HD",
         "url": "http://179.1.87.75:8098/play/a0tt/index.m3u8",
         "logo": "",
@@ -1265,18 +1109,6 @@
       {
         "name": "HBO POP HD",
         "url": "http://179.1.87.75:8098/play/a0tk/index.m3u8",
-        "logo": "",
-        "category": "Cine & Series"
-      },
-      {
-        "name": "HBO Plus",
-        "url": "http://179.1.87.75:8098/play/a0ef/index.m3u8",
-        "logo": "",
-        "category": "Cine & Series"
-      },
-      {
-        "name": "HBO XTREME SD",
-        "url": "http://179.1.87.75:8098/play/a0eg/index.m3u8",
         "logo": "",
         "category": "Cine & Series"
       },
@@ -1403,45 +1235,13 @@
         "category": "Infantil"
       }
     ],
-    "Cultura": [
-      {
-        "name": "Discovery ID",
-        "url": "http://179.1.87.75:8098/play/a0hv/index.m3u8",
-        "logo": "",
-        "category": "Cultura"
-      },
-      {
-        "name": "Discovery Kids",
-        "url": "http://179.1.87.75:8098/play/a0e5/index.m3u8",
-        "logo": "",
-        "category": "Cultura"
-      },
-      {
-        "name": "Discovery Kids HD",
-        "url": "http://179.1.87.75:8098/play/a0u8/index.m3u8",
-        "logo": "",
-        "category": "Cultura"
-      },
-      {
-        "name": "Discovery Theater HD",
-        "url": "http://179.1.87.75:8098/play/a0te/index.m3u8",
-        "logo": "",
-        "category": "Cultura"
-      },
-      {
-        "name": "Discovery Turbo",
-        "url": "http://179.1.87.75:8098/play/a0hl/index.m3u8",
-        "logo": "",
-        "category": "Cultura"
-      },
-      {
-        "name": "Discovery World HD",
-        "url": "http://179.1.87.75:8098/play/a0ur/index.m3u8",
-        "logo": "",
-        "category": "Cultura"
-      }
-    ],
     "Deportes": [
+      {
+        "name": "DIRECTV SPORT",
+        "url": "http://179.1.87.75:8098/play/a0uy/index.m3u8",
+        "logo": "",
+        "category": "Deportes"
+      },
       {
         "name": "ESPN 2 HD",
         "url": "http://179.1.87.75:8098/play/a0ui/index.m3u8",
@@ -1531,12 +1331,44 @@
         "url": "http://179.1.87.75:8098/play/a0t4/index.m3u8",
         "logo": "",
         "category": "Deportes"
+      }
+    ],
+    "Cultura": [
+      {
+        "name": "Discovery ID",
+        "url": "http://179.1.87.75:8098/play/a0hv/index.m3u8",
+        "logo": "",
+        "category": "Cultura"
       },
       {
-        "name": "TyC",
-        "url": "http://179.1.87.75:8098/play/a0t3/index.m3u8",
+        "name": "Discovery Kids",
+        "url": "http://179.1.87.75:8098/play/a0e5/index.m3u8",
         "logo": "",
-        "category": "Deportes"
+        "category": "Cultura"
+      },
+      {
+        "name": "Discovery Kids HD",
+        "url": "http://179.1.87.75:8098/play/a0u8/index.m3u8",
+        "logo": "",
+        "category": "Cultura"
+      },
+      {
+        "name": "Discovery Theater HD",
+        "url": "http://179.1.87.75:8098/play/a0te/index.m3u8",
+        "logo": "",
+        "category": "Cultura"
+      },
+      {
+        "name": "Discovery Turbo",
+        "url": "http://179.1.87.75:8098/play/a0hl/index.m3u8",
+        "logo": "",
+        "category": "Cultura"
+      },
+      {
+        "name": "Discovery World HD",
+        "url": "http://179.1.87.75:8098/play/a0ur/index.m3u8",
+        "logo": "",
+        "category": "Cultura"
       }
     ]
   }

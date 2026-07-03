@@ -29,8 +29,6 @@ http://179.1.87.75:8098/play/a0uo/index.m3u8
 http://179.1.87.75:8098/play/a0ub/index.m3u8
 #EXTINF:-1 group-title="LatAm Premium",Canal Caracol
 http://179.1.87.75:8098/play/a0g5/index.m3u8
-#EXTINF:-1 group-title="LatAm Premium",Canal Estrellas
-http://179.1.87.75:8098/play/a0ff/index.m3u8
 #EXTINF:-1 group-title="LatAm Premium",Canal Institucional
 http://179.1.87.75:8098/play/a0g9/index.m3u8
 #EXTINF:-1 group-title="LatAm Premium",Canal RCN
@@ -55,6 +53,8 @@ http://179.1.87.75:8098/play/a0gk/index.m3u8
 http://179.1.87.75:8098/play/a0ue/index.m3u8
 #EXTINF:-1 group-title="LatAm Premium",DHE HD
 http://179.1.87.75:8098/play/a0tr/index.m3u8
+#EXTINF:-1 group-title="Deportes",DIRECTV SPORT
+http://179.1.87.75:8098/play/a0uy/index.m3u8
 #EXTINF:-1 group-title="LatAm Premium",De Pelicula
 http://179.1.87.75:8098/play/a0tc/index.m3u8
 #EXTINF:-1 group-title="Cultura",Discovery ID
@@ -111,22 +111,12 @@ http://179.1.87.75:8098/play/a0hc/index.m3u8
 http://179.1.87.75:8098/play/a0fg/index.m3u8
 #EXTINF:-1 group-title="Deportes",Fox Sports 3
 http://179.1.87.75:8098/play/a0fh/index.m3u8
-#EXTINF:-1 group-title="Cine & Series",HBO
-http://179.1.87.75:8098/play/a0h7/index.m3u8
-#EXTINF:-1 group-title="Cine & Series",HBO 2
-http://179.1.87.75:8098/play/a0ee/index.m3u8
-#EXTINF:-1 group-title="Cine & Series",HBO Family
-http://179.1.87.75:8098/play/a0eh/index.m3u8
 #EXTINF:-1 group-title="Cine & Series",HBO Family HD
 http://179.1.87.75:8098/play/a0tt/index.m3u8
 #EXTINF:-1 group-title="Cine & Series",HBO HD
 http://179.1.87.75:8098/play/a0uq/index.m3u8
 #EXTINF:-1 group-title="Cine & Series",HBO POP HD
 http://179.1.87.75:8098/play/a0tk/index.m3u8
-#EXTINF:-1 group-title="Cine & Series",HBO Plus
-http://179.1.87.75:8098/play/a0ef/index.m3u8
-#EXTINF:-1 group-title="Cine & Series",HBO XTREME SD
-http://179.1.87.75:8098/play/a0eg/index.m3u8
 #EXTINF:-1 group-title="Cine & Series",HBO Xtreme HD
 http://179.1.87.75:8098/play/a0tu/index.m3u8
 #EXTINF:-1 group-title="LatAm Premium",HEI HD
@@ -137,12 +127,10 @@ http://179.1.87.75:8098/play/a0t9/index.m3u8
 http://179.1.87.75:8098/play/a0fp/index.m3u8
 #EXTINF:-1 group-title="Deportes",L1 MAX
 http://179.1.87.75:8098/play/a0t4/index.m3u8
-#EXTINF:-1 group-title="LatAm Premium",La Red
-http://179.1.87.75:8098/play/a0t1/index.m3u8
+#EXTINF:-1 group-title="LatAm Premium",LA KALLE
+http://179.1.87.75:8098/play/a0v0/index.m3u8
 #EXTINF:-1 group-title="LatAm Premium",Las Estrellas HD
 http://179.1.87.75:8098/play/a0tq/index.m3u8
-#EXTINF:-1 group-title="LatAm Premium",Lifetime
-http://179.1.87.75:8098/play/a0e3/index.m3u8
 #EXTINF:-1 group-title="LatAm Premium",MEGA HD
 http://179.1.87.75:8098/play/a0tm/index.m3u8
 #EXTINF:-1 group-title="LatAm Premium",MTV
@@ -163,8 +151,6 @@ http://179.1.87.75:8098/play/a0ul/index.m3u8
 http://179.1.87.75:8098/play/a0th/index.m3u8
 #EXTINF:-1 group-title="LatAm Premium",Playboy HD
 http://179.1.87.75:8098/play/a0tz/index.m3u8
-#EXTINF:-1 group-title="LatAm Premium",RAI Italia
-http://179.1.87.75:8098/play/a0ua/index.m3u8
 #EXTINF:-1 group-title="LatAm Premium",RCN Novelas
 http://179.1.87.75:8098/play/a0fj/index.m3u8
 #EXTINF:-1 group-title="Cine & Series",STAR CHANNEL
@@ -189,8 +175,6 @@ http://179.1.87.75:8098/play/a0e4/index.m3u8
 http://179.1.87.75:8098/play/a0fn/index.m3u8
 #EXTINF:-1 group-title="LatAm Premium",TCM
 http://179.1.87.75:8098/play/a0du/index.m3u8
-#EXTINF:-1 group-title="LatAm Premium",TLC
-http://179.1.87.75:8098/play/a0fd/index.m3u8
 #EXTINF:-1 group-title="Cine & Series",TNT
 http://179.1.87.75:8098/play/a0dw/index.m3u8
 #EXTINF:-1 group-title="Cine & Series",TNT Novelas HD
@@ -227,24 +211,12 @@ http://179.1.87.75:8098/play/a0hf/index.m3u8
 http://179.1.87.75:8098/play/a0tb/index.m3u8
 #EXTINF:-1 group-title="LatAm Premium",Trece
 http://179.1.87.75:8098/play/a0hr/index.m3u8
-#EXTINF:-1 group-title="Deportes",TyC
-http://179.1.87.75:8098/play/a0t3/index.m3u8
 #EXTINF:-1 group-title="LatAm Premium",UNIVERSAL CHANNEL HD
 http://179.1.87.75:8098/play/a0ug/index.m3u8
 #EXTINF:-1 group-title="LatAm Premium",USA SD
 http://179.1.87.75:8098/play/a0rk/index.m3u8
 #EXTINF:-1 group-title="LatAm Premium",Universal
 http://179.1.87.75:8098/play/a0do/index.m3u8
-#EXTINF:-1 group-title="LatAm Premium",Universal Cinema SD
-http://179.1.87.75:8098/play/a0en/index.m3u8
-#EXTINF:-1 group-title="LatAm Premium",Universal Comedy SD
-http://179.1.87.75:8098/play/a0eo/index.m3u8
-#EXTINF:-1 group-title="LatAm Premium",Universal Premiere SD
-http://179.1.87.75:8098/play/a0em/index.m3u8
-#EXTINF:-1 group-title="LatAm Premium",Venus
-http://179.1.87.75:8098/play/a0f2/index.m3u8
-#EXTINF:-1 group-title="LatAm Premium",ViaX
-http://179.1.87.75:8098/play/a0fe/index.m3u8
 #EXTINF:-1 group-title="Cine & Series",Warner
 http://179.1.87.75:8098/play/a0et/index.m3u8
 #EXTINF:-1 group-title="LatAm Premium",Win

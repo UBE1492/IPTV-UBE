@@ -11,7 +11,6 @@ CNN_International,http://179.1.87.75:8098/play/a0u7/index.m3u8
 Canal_13,http://179.1.87.75:8098/play/a0uo/index.m3u8
 Canal_13_HD,http://179.1.87.75:8098/play/a0ub/index.m3u8
 Canal_Caracol,http://179.1.87.75:8098/play/a0g5/index.m3u8
-Canal_Estrellas,http://179.1.87.75:8098/play/a0ff/index.m3u8
 Canal_Institucional,http://179.1.87.75:8098/play/a0g9/index.m3u8
 Canal_RCN,http://179.1.87.75:8098/play/a0g6/index.m3u8
 Canal_Uno,http://179.1.87.75:8098/play/a0g3/index.m3u8
@@ -29,9 +28,8 @@ FX,http://179.1.87.75:8098/play/a0hc/index.m3u8
 HEI_HD,http://179.1.87.75:8098/play/a0uh/index.m3u8
 Home_&_Health_HD,http://179.1.87.75:8098/play/a0t9/index.m3u8
 HomeandHealth,http://179.1.87.75:8098/play/a0fp/index.m3u8
-La_Red,http://179.1.87.75:8098/play/a0t1/index.m3u8
+LA_KALLE,http://179.1.87.75:8098/play/a0v0/index.m3u8
 Las_Estrellas_HD,http://179.1.87.75:8098/play/a0tq/index.m3u8
-Lifetime,http://179.1.87.75:8098/play/a0e3/index.m3u8
 MEGA_HD,http://179.1.87.75:8098/play/a0tm/index.m3u8
 MTV,http://179.1.87.75:8098/play/a0dq/index.m3u8
 MTV_HD,http://179.1.87.75:8098/play/a0uu/index.m3u8
@@ -39,7 +37,6 @@ Mega,http://179.1.87.75:8098/play/a0tx/index.m3u8
 POPU_TV,http://179.1.87.75:8098/play/a0ul/index.m3u8
 Pasiones_HD,http://179.1.87.75:8098/play/a0th/index.m3u8
 Playboy_HD,http://179.1.87.75:8098/play/a0tz/index.m3u8
-RAI_Italia,http://179.1.87.75:8098/play/a0ua/index.m3u8
 RCN_Novelas,http://179.1.87.75:8098/play/a0fj/index.m3u8
 Senal_Colombia,http://179.1.87.75:8098/play/a0gb/index.m3u8
 Sin_Limites,http://179.1.87.75:8098/play/a0fx/index.m3u8
@@ -48,7 +45,6 @@ Sun_Channel_HD,http://179.1.87.75:8098/play/a0tv/index.m3u8
 SyFy,http://179.1.87.75:8098/play/a0e4/index.m3u8
 TBS,http://179.1.87.75:8098/play/a0fn/index.m3u8
 TCM,http://179.1.87.75:8098/play/a0du/index.m3u8
-TLC,http://179.1.87.75:8098/play/a0fd/index.m3u8
 TRO,http://179.1.87.75:8098/play/a0gi/index.m3u8
 TVE,http://179.1.87.75:8098/play/a0e1/index.m3u8
 TVN,http://179.1.87.75:8098/play/a0t7/index.m3u8
@@ -64,11 +60,6 @@ Trece,http://179.1.87.75:8098/play/a0hr/index.m3u8
 UNIVERSAL_CHANNEL_HD,http://179.1.87.75:8098/play/a0ug/index.m3u8
 USA_SD,http://179.1.87.75:8098/play/a0rk/index.m3u8
 Universal,http://179.1.87.75:8098/play/a0do/index.m3u8
-Universal_Cinema_SD,http://179.1.87.75:8098/play/a0en/index.m3u8
-Universal_Comedy_SD,http://179.1.87.75:8098/play/a0eo/index.m3u8
-Universal_Premiere_SD,http://179.1.87.75:8098/play/a0em/index.m3u8
-Venus,http://179.1.87.75:8098/play/a0f2/index.m3u8
-ViaX,http://179.1.87.75:8098/play/a0fe/index.m3u8
 Win,http://179.1.87.75:8098/play/a0he/index.m3u8
 Zona_Latina,http://179.1.87.75:8098/play/a0dr/index.m3u8
 Zoom,http://179.1.87.75:8098/play/a0gh/index.m3u8
@@ -78,14 +69,9 @@ AMC_HD,http://179.1.87.75:8098/play/a0um/index.m3u8
 AXN,http://179.1.87.75:8098/play/a0ha/index.m3u8
 Cinecanal,http://179.1.87.75:8098/play/a0dn/index.m3u8
 Cinemax,http://179.1.87.75:8098/play/a0h8/index.m3u8
-HBO,http://179.1.87.75:8098/play/a0h7/index.m3u8
-HBO_2,http://179.1.87.75:8098/play/a0ee/index.m3u8
-HBO_Family,http://179.1.87.75:8098/play/a0eh/index.m3u8
 HBO_Family_HD,http://179.1.87.75:8098/play/a0tt/index.m3u8
 HBO_HD,http://179.1.87.75:8098/play/a0uq/index.m3u8
 HBO_POP_HD,http://179.1.87.75:8098/play/a0tk/index.m3u8
-HBO_Plus,http://179.1.87.75:8098/play/a0ef/index.m3u8
-HBO_XTREME_SD,http://179.1.87.75:8098/play/a0eg/index.m3u8
 HBO_Xtreme_HD,http://179.1.87.75:8098/play/a0tu/index.m3u8
 STAR_CHANNEL,http://179.1.87.75:8098/play/a0dt/index.m3u8
 Sony,http://179.1.87.75:8098/play/a0h9/index.m3u8
@@ -109,15 +95,8 @@ Nick_Jr,http://179.1.87.75:8098/play/a0hk/index.m3u8
 Nickelodeon,http://179.1.87.75:8098/play/a0dk/index.m3u8
 Nickelodeon_HD,http://179.1.87.75:8098/play/a0tl/index.m3u8
 
-Cultura,#genre#
-Discovery_ID,http://179.1.87.75:8098/play/a0hv/index.m3u8
-Discovery_Kids,http://179.1.87.75:8098/play/a0e5/index.m3u8
-Discovery_Kids_HD,http://179.1.87.75:8098/play/a0u8/index.m3u8
-Discovery_Theater_HD,http://179.1.87.75:8098/play/a0te/index.m3u8
-Discovery_Turbo,http://179.1.87.75:8098/play/a0hl/index.m3u8
-Discovery_World_HD,http://179.1.87.75:8098/play/a0ur/index.m3u8
-
 Deportes,#genre#
+DIRECTV_SPORT,http://179.1.87.75:8098/play/a0uy/index.m3u8
 ESPN_2_HD,http://179.1.87.75:8098/play/a0ui/index.m3u8
 ESPN_2_Latin,http://179.1.87.75:8098/play/a0ew/index.m3u8
 ESPN_3,http://179.1.87.75:8098/play/a0hn/index.m3u8
@@ -133,4 +112,11 @@ Espn_Premium,http://179.1.87.75:8098/play/a0ty/index.m3u8
 Fox_Sports_2,http://179.1.87.75:8098/play/a0fg/index.m3u8
 Fox_Sports_3,http://179.1.87.75:8098/play/a0fh/index.m3u8
 L1_MAX,http://179.1.87.75:8098/play/a0t4/index.m3u8
-TyC,http://179.1.87.75:8098/play/a0t3/index.m3u8
+
+Cultura,#genre#
+Discovery_ID,http://179.1.87.75:8098/play/a0hv/index.m3u8
+Discovery_Kids,http://179.1.87.75:8098/play/a0e5/index.m3u8
+Discovery_Kids_HD,http://179.1.87.75:8098/play/a0u8/index.m3u8
+Discovery_Theater_HD,http://179.1.87.75:8098/play/a0te/index.m3u8
+Discovery_Turbo,http://179.1.87.75:8098/play/a0hl/index.m3u8
+Discovery_World_HD,http://179.1.87.75:8098/play/a0ur/index.m3u8
