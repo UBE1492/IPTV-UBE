@@ -68,4 +68,4 @@
 | 62 | IP Noticias (720p) | twitch-m3u8.bastypro112.workers.dev | <https://twitch-m3u8.bastypro112.workers.dev/argentina_12tw/index.m3u8> |
 | 63 | Canal 9 Link | 617c5175c970b.streamlock.net:4444 | <https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8> |
 
-Updated at **Fri Jul 03 2026 09:23:32 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jul 03 2026 14:14:09 GMT+0000 (Coordinated Universal Time)**
