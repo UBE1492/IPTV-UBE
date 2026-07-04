@@ -10,8 +10,7 @@
 | 4 | La Fabulosa Radio y TV (720p) | eu1.servers10.com:8081 | <https://eu1.servers10.com:8081/8004/index.m3u8> |
 | 5 | Radio Chalaca | servilive.com:3414 | <https://servilive.com:3414/hybrid/play.m3u8> |
 | 6 | Radio Rumba TV (720p) | live-evg7.tv360.bitel.com.pe | <https://live-evg7.tv360.bitel.com.pe/bitel/rumba/playlist.m3u8> |
-| 7 | Turbo Mix Radio TV (720p) | live-evg11.tv360.bitel.com.pe | <https://live-evg11.tv360.bitel.com.pe/bitel/turbomixSRT/playlist.m3u8> |
-| 8 | Radio Onda Digital (1080p) | live.ondadigitaltv.com | <https://live.ondadigitaltv.com/RADIOODTV/index.m3u8> |
-| 9 | Radio San Borja TV | stream.mediacorp.pe | <https://stream.mediacorp.pe/srt/3/playlist.m3u8> |
+| 7 | Radio Onda Digital (1080p) | live.ondadigitaltv.com | <https://live.ondadigitaltv.com/RADIOODTV/index.m3u8> |
+| 8 | Turbo Mix Radio TV (720p) | live-evg11.tv360.bitel.com.pe | <https://live-evg11.tv360.bitel.com.pe/bitel/turbomixSRT/playlist.m3u8> |
 
-Updated at **Sat Jul 04 2026 03:29:02 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jul 04 2026 08:41:59 GMT+0000 (Coordinated Universal Time)**
