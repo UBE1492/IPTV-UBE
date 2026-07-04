@@ -73,4 +73,4 @@
 | 67 | Disney Jr. Latin America (576p) | IPv4 直链 | <http://45.189.62.33:8002/play/a0bz/index.m3u8> |
 | 68 | Disney Channel Latin America Mexico (576p) | IPv4 直链 | <http://45.189.62.33:8002/play/a0al/index.m3u8> |
 
-Updated at **Sat Jul 04 2026 08:41:48 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jul 04 2026 13:40:24 GMT+0000 (Coordinated Universal Time)**

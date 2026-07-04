@@ -9,4 +9,4 @@
 | 3 | ESPNU (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_ESPNU/index.m3u8> |
 | 4 | ESPNews (720p) | IPv4 直链 | <http://41.223.30.230/ESPNNEWS/index.m3u8> |
 
-Updated at **Sat Jul 04 2026 08:41:48 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jul 04 2026 13:40:23 GMT+0000 (Coordinated Universal Time)**
