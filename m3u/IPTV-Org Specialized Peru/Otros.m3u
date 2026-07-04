@@ -177,3 +177,5 @@ https://lbgo.bozztv.com/ssh101/ssh101/visiononline/playlist.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/antenauno.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="AndesTelevision.pe@SD",Andes Television
 https://stmv2.srvif.com/tvsicuani/tvsicuani/playlist.m3u8
+#EXTINF:-1 tvg-id="Latina.pe@SD",Latina (1080p)
+https://dai.google.com/linear/hls/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8

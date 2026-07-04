@@ -25,3 +25,7 @@ https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
 https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
 #EXTINF:-1 tvg-id="BragadoTV.ar@SD",Bragado TV
 https://vivo.solumedia.com:19360/bragadato/bragadato.m3u8
+#EXTINF:-1 tvg-id="NeoxTV.ar@SD",Neox TV (720p)
+https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8
+#EXTINF:-1 tvg-id="Canal2NexTVRafaela.ar@SD",Canal 2 NexTV Rafaela (720p)
+https://edge.enhdtv.com/nexthd/index.m3u8

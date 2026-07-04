@@ -2,3 +2,4 @@ Undefined,#genre#
 beIN_SPORTS_XTRA_(1080p),https://bein-xtra-bein.amagi.tv/playlist.m3u8
 beIN_Sports_USA_(720p),http://23.237.104.106:8080/USA_BEIN/index.m3u8
 ESPNU_(720p),http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+ESPNews_(720p),http://41.223.30.230/ESPNNEWS/index.m3u8

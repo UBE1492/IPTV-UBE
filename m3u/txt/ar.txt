@@ -66,3 +66,8 @@ Canal_79_Villa_Maza,https://streamconex.com:19360/villamaza/villamaza.m3u8
 Telefe_Internacional_(576p),http://190.108.83.69:8000/play/a08l/index.m3u8
 IP_Noticias_(720p),https://twitch-m3u8.bastypro112.workers.dev/argentina_12tw/index.m3u8
 Canal_9_Link,https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
+El_Trece_(480p),http://190.108.83.69:8000/play/a01d/index.m3u8
+Neox_TV_(720p),https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8
+Canal_2_NexTV_Rafaela_(720p),https://edge.enhdtv.com/nexthd/index.m3u8
+Disney_Jr._Latin_America_(576p),http://45.189.62.33:8002/play/a0bz/index.m3u8
+Disney_Channel_Latin_America_Mexico_(576p),http://45.189.62.33:8002/play/a0al/index.m3u8

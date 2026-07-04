@@ -1,6 +1,6 @@
 {
   "name": "latam_deporte",
-  "updated_at": 1783106849172,
+  "updated_at": 1783135737666,
   "m3u": "https://ube1492.github.io/IPTV-UBE/latam_deporte.m3u",
   "channels": [
     {
@@ -18,6 +18,12 @@
     {
       "name": "ESPNU (720p)",
       "url": "http://23.237.104.106:8080/USA_ESPNU/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "ESPNews (720p)",
+      "url": "http://41.223.30.230/ESPNNEWS/index.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -39,6 +45,12 @@
       {
         "name": "ESPNU (720p)",
         "url": "http://23.237.104.106:8080/USA_ESPNU/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "ESPNews (720p)",
+        "url": "http://41.223.30.230/ESPNNEWS/index.m3u8",
         "logo": "",
         "category": "Otros"
       }

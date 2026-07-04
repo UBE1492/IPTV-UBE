@@ -1,6 +1,6 @@
 {
   "name": "py",
-  "updated_at": 1783106850103,
+  "updated_at": 1783135739267,
   "m3u": "https://ube1492.github.io/IPTV-UBE/py.m3u",
   "channels": [
     {
@@ -174,6 +174,12 @@
     {
       "name": "Los Angeles TV Radio",
       "url": "https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Invasiva TV (720p)",
+      "url": "https://tv-omega-nine.vercel.app/hls/live.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -351,6 +357,12 @@
       {
         "name": "Los Angeles TV Radio",
         "url": "https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Invasiva TV (720p)",
+        "url": "https://tv-omega-nine.vercel.app/hls/live.m3u8",
         "logo": "",
         "category": "Otros"
       }

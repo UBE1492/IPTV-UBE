@@ -67,5 +67,10 @@
 | 61 | Telefe Internacional (576p) | IPv4 直链 | <http://190.108.83.69:8000/play/a08l/index.m3u8> |
 | 62 | IP Noticias (720p) | twitch-m3u8.bastypro112.workers.dev | <https://twitch-m3u8.bastypro112.workers.dev/argentina_12tw/index.m3u8> |
 | 63 | Canal 9 Link | 617c5175c970b.streamlock.net:4444 | <https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8> |
+| 64 | El Trece (480p) | IPv4 直链 | <http://190.108.83.69:8000/play/a01d/index.m3u8> |
+| 65 | Neox TV (720p) | tv.streamcasthd.com:3031 | <https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8> |
+| 66 | Canal 2 NexTV Rafaela (720p) | edge.enhdtv.com | <https://edge.enhdtv.com/nexthd/index.m3u8> |
+| 67 | Disney Jr. Latin America (576p) | IPv4 直链 | <http://45.189.62.33:8002/play/a0bz/index.m3u8> |
+| 68 | Disney Channel Latin America Mexico (576p) | IPv4 直链 | <http://45.189.62.33:8002/play/a0al/index.m3u8> |
 
-Updated at **Fri Jul 03 2026 19:27:29 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jul 04 2026 03:28:58 GMT+0000 (Coordinated Universal Time)**

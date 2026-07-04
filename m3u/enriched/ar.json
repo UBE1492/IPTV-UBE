@@ -1,6 +1,6 @@
 {
   "name": "ar",
-  "updated_at": 1783106849854,
+  "updated_at": 1783135738697,
   "m3u": "https://ube1492.github.io/IPTV-UBE/ar.m3u",
   "channels": [
     {
@@ -393,6 +393,36 @@
     {
       "name": "Canal 9 Link",
       "url": "https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "El Trece (480p)",
+      "url": "http://190.108.83.69:8000/play/a01d/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Neox TV (720p)",
+      "url": "https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Canal 2 NexTV Rafaela (720p)",
+      "url": "https://edge.enhdtv.com/nexthd/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Disney Jr. Latin America (576p)",
+      "url": "http://45.189.62.33:8002/play/a0bz/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Disney Channel Latin America Mexico (576p)",
+      "url": "http://45.189.62.33:8002/play/a0al/index.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -789,6 +819,36 @@
       {
         "name": "Canal 9 Link",
         "url": "https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "El Trece (480p)",
+        "url": "http://190.108.83.69:8000/play/a01d/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Neox TV (720p)",
+        "url": "https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Canal 2 NexTV Rafaela (720p)",
+        "url": "https://edge.enhdtv.com/nexthd/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Disney Jr. Latin America (576p)",
+        "url": "http://45.189.62.33:8002/play/a0bz/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Disney Channel Latin America Mexico (576p)",
+        "url": "http://45.189.62.33:8002/play/a0al/index.m3u8",
         "logo": "",
         "category": "Otros"
       }

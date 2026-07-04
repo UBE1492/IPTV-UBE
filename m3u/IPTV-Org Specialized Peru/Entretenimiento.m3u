@@ -332,3 +332,9 @@ https://ontvcable.streamottmas.workers.dev/ontvcable.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/atvsur.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CongresoTV.pe@SD",Congreso TV (720p)
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/canalelcongreso.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="SelvaTV.pe@SD",SelvaTV
+https://videoserver.tmcreativos.com:19360/selvatv/selvatv.m3u8
+#EXTINF:-1 tvg-id="ZeleveTV.pe@SD",Zeleve TV
+https://7.innovatestream.pe:19360/zelevetv/zelevetv.m3u8
+#EXTINF:-1 tvg-id="AmazonicaTV.pe@SD",Amazonica TV
+https://videoserver.tmcreativos.com:19360/amazonicatv/amazonicatv.m3u8
