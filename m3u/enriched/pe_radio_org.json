@@ -1,6 +1,6 @@
 {
   "name": "pe_radio_org",
-  "updated_at": 1783259256148,
+  "updated_at": 1783279353951,
   "m3u": "https://ube1492.github.io/IPTV-UBE/pe_radio_org.m3u",
   "channels": [
     {
@@ -28,6 +28,12 @@
       "category": "Música"
     },
     {
+      "name": "Atlantis Radio TV (720p)",
+      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/atlantisSRT/playlist.m3u8",
+      "logo": "",
+      "category": "Música"
+    },
+    {
       "name": "Radio Chalaca",
       "url": "https://servilive.com:3414/hybrid/play.m3u8",
       "logo": "",
@@ -42,12 +48,6 @@
     {
       "name": "Radio Onda Digital (1080p)",
       "url": "https://live.ondadigitaltv.com/RADIOODTV/index.m3u8",
-      "logo": "",
-      "category": "Música"
-    },
-    {
-      "name": "Atlantis Radio TV (720p)",
-      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/atlantisSRT/playlist.m3u8",
       "logo": "",
       "category": "Música"
     },
@@ -85,6 +85,12 @@
         "category": "Música"
       },
       {
+        "name": "Atlantis Radio TV (720p)",
+        "url": "https://live-evg8.tv360.bitel.com.pe/bitel/atlantisSRT/playlist.m3u8",
+        "logo": "",
+        "category": "Música"
+      },
+      {
         "name": "Radio Chalaca",
         "url": "https://servilive.com:3414/hybrid/play.m3u8",
         "logo": "",
@@ -99,12 +105,6 @@
       {
         "name": "Radio Onda Digital (1080p)",
         "url": "https://live.ondadigitaltv.com/RADIOODTV/index.m3u8",
-        "logo": "",
-        "category": "Música"
-      },
-      {
-        "name": "Atlantis Radio TV (720p)",
-        "url": "https://live-evg8.tv360.bitel.com.pe/bitel/atlantisSRT/playlist.m3u8",
         "logo": "",
         "category": "Música"
       },
