@@ -5,3 +5,5 @@ https://bein-xtra-bein.amagi.tv/playlist.m3u8
 http://23.237.104.106:8080/USA_BEIN/index.m3u8
 #EXTINF:-1 tvg-id="ESPNU.us@SD",ESPNU (720p)
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports1.us@HD",Fox Sports 1
+http://cdn.haititivi.com/Fox_Sports_1/index.m3u8

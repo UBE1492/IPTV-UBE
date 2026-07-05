@@ -8,5 +8,6 @@
 | 2 | beIN Sports USA (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_BEIN/index.m3u8> |
 | 3 | ESPNU (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_ESPNU/index.m3u8> |
 | 4 | ESPNews (720p) | IPv4 直链 | <http://41.223.30.230/ESPNNEWS/index.m3u8> |
+| 5 | Fox Sports 1 | cdn.haititivi.com | <http://cdn.haititivi.com/Fox_Sports_1/index.m3u8> |
 
-Updated at **Sat Jul 04 2026 19:19:06 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jul 05 2026 03:46:30 GMT+0000 (Coordinated Universal Time)**
