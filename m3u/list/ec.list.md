@@ -60,4 +60,4 @@
 | 54 | Oromar TV (1080p) | IPv4 直链 | <http://179.60.51.134:8888/OROMAR-TV/index.m3u8> |
 | 55 | Ecuador TV | video-eu1.streamerr.co | <https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8> |
 
-Updated at **Sun Jul 05 2026 08:56:30 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jul 05 2026 13:47:28 GMT+0000 (Coordinated Universal Time)**
