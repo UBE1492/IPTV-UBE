@@ -1,6 +1,6 @@
 {
   "name": "ar",
-  "updated_at": 1783279347729,
+  "updated_at": 1783310068877,
   "m3u": "https://ube1492.github.io/IPTV-UBE/ar.m3u",
   "channels": [
     {
@@ -423,6 +423,18 @@
     {
       "name": "Disney Channel Latin America Mexico (576p)",
       "url": "http://45.189.62.33:8002/play/a0al/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Canal 4 Villa Dolores",
+      "url": "https://stmvideo3.livecastv.com/canal4vd/canal4vd/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Canal 6 Viento Recio",
+      "url": "https://stmvideo6.livecastv.com/vientorecio/vientorecio/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -849,6 +861,18 @@
       {
         "name": "Disney Channel Latin America Mexico (576p)",
         "url": "http://45.189.62.33:8002/play/a0al/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Canal 4 Villa Dolores",
+        "url": "https://stmvideo3.livecastv.com/canal4vd/canal4vd/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Canal 6 Viento Recio",
+        "url": "https://stmvideo6.livecastv.com/vientorecio/vientorecio/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       }

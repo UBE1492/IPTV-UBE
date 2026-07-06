@@ -72,5 +72,7 @@
 | 66 | Canal 2 NexTV Rafaela (720p) | edge.enhdtv.com | <https://edge.enhdtv.com/nexthd/index.m3u8> |
 | 67 | Disney Jr. Latin America (576p) | IPv4 直链 | <http://45.189.62.33:8002/play/a0bz/index.m3u8> |
 | 68 | Disney Channel Latin America Mexico (576p) | IPv4 直链 | <http://45.189.62.33:8002/play/a0al/index.m3u8> |
+| 69 | Canal 4 Villa Dolores | stmvideo3.livecastv.com | <https://stmvideo3.livecastv.com/canal4vd/canal4vd/playlist.m3u8> |
+| 70 | Canal 6 Viento Recio | stmvideo6.livecastv.com | <https://stmvideo6.livecastv.com/vientorecio/vientorecio/playlist.m3u8> |
 
-Updated at **Sun Jul 05 2026 19:22:27 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jul 06 2026 03:54:28 GMT+0000 (Coordinated Universal Time)**

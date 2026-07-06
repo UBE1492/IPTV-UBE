@@ -71,3 +71,5 @@ Neox_TV_(720p),https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8
 Canal_2_NexTV_Rafaela_(720p),https://edge.enhdtv.com/nexthd/index.m3u8
 Disney_Jr._Latin_America_(576p),http://45.189.62.33:8002/play/a0bz/index.m3u8
 Disney_Channel_Latin_America_Mexico_(576p),http://45.189.62.33:8002/play/a0al/index.m3u8
+Canal_4_Villa_Dolores,https://stmvideo3.livecastv.com/canal4vd/canal4vd/playlist.m3u8
+Canal_6_Viento_Recio,https://stmvideo6.livecastv.com/vientorecio/vientorecio/playlist.m3u8

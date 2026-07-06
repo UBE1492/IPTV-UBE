@@ -87,3 +87,7 @@ https://streamconex.com:19360/villamaza/villamaza.m3u8
 https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ElTrece.ar@SD",El Trece (480p)
 http://190.108.83.69:8000/play/a01d/index.m3u8
+#EXTINF:-1 tvg-id="Canal4VillaDolores.ar@SD",Canal 4 Villa Dolores
+https://stmvideo3.livecastv.com/canal4vd/canal4vd/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal6VientoRecio.ar@SD",Canal 6 Viento Recio
+https://stmvideo6.livecastv.com/vientorecio/vientorecio/playlist.m3u8
