@@ -10,4 +10,4 @@
 | 4 | ESPNews (720p) | IPv4 直链 | <http://41.223.30.230/ESPNNEWS/index.m3u8> |
 | 5 | Fox Sports 1 | cdn.haititivi.com | <http://cdn.haititivi.com/Fox_Sports_1/index.m3u8> |
 
-Updated at **Mon Jul 06 2026 10:43:09 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jul 06 2026 15:40:20 GMT+0000 (Coordinated Universal Time)**
