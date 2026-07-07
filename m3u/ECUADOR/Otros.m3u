@@ -33,3 +33,5 @@ https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8
 http://179.60.51.134:8888/TELEAMAZONAS/index.m3u8
 #EXTINF:-1 tvg-id="Ecuavisa.ec@Quito",Ecuavisa (1080p)
 http://179.60.51.134:8888/ECUAVISA/index.m3u8
+#EXTINF:-1 tvg-id="WuanPlus.ec@SD",Wuan+
+https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8

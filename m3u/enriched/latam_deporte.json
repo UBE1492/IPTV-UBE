@@ -1,6 +1,6 @@
 {
   "name": "latam_deporte",
-  "updated_at": 1783368126043,
+  "updated_at": 1783395865014,
   "m3u": "https://ube1492.github.io/IPTV-UBE/latam_deporte.m3u",
   "channels": [
     {
@@ -30,6 +30,12 @@
     {
       "name": "Fox Sports 1",
       "url": "http://cdn.haititivi.com/Fox_Sports_1/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Fox Sports 1 (720p)",
+      "url": "https://streamvidex.qzz.io/videx/fox1usa/index.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -63,6 +69,12 @@
       {
         "name": "Fox Sports 1",
         "url": "http://cdn.haititivi.com/Fox_Sports_1/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Fox Sports 1 (720p)",
+        "url": "https://streamvidex.qzz.io/videx/fox1usa/index.m3u8",
         "logo": "",
         "category": "Otros"
       }
