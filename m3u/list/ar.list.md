@@ -75,4 +75,4 @@
 | 69 | Canal 4 Villa Dolores | stmvideo3.livecastv.com | <https://stmvideo3.livecastv.com/canal4vd/canal4vd/playlist.m3u8> |
 | 70 | Canal 6 Viento Recio | stmvideo6.livecastv.com | <https://stmvideo6.livecastv.com/vientorecio/vientorecio/playlist.m3u8> |
 
-Updated at **Tue Jul 07 2026 03:44:25 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jul 07 2026 09:48:24 GMT+0000 (Coordinated Universal Time)**
