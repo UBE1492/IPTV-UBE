@@ -99,4 +99,4 @@
 | 93 | Argentina/12 (1080p) | IPv4 直链 | <http://45.6.4.35/IP_NOTICIAS/index.m3u8> |
 | 94 | Telefe (1080p) | IPv4 直链 | <http://45.6.4.35/TELEFE_INTERIOR/index.m3u8> |
 
-Updated at **Wed Jul 08 2026 03:13:15 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jul 08 2026 08:33:59 GMT+0000 (Coordinated Universal Time)**
