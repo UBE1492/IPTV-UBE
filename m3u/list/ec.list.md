@@ -69,4 +69,4 @@
 | 63 | TVC (1080p) | IPv4 直链 | <http://45.224.97.181:9999/TVC/index.m3u8> |
 | 64 | Gamavision (1080p) | IPv4 直链 | <http://45.224.97.181:9999/Gamavision/index.m3u8> |
 
-Updated at **Wed Jul 08 2026 08:34:00 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jul 08 2026 14:21:59 GMT+0000 (Coordinated Universal Time)**
