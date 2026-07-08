@@ -61,5 +61,12 @@
 | 55 | Ecuador TV | video-eu1.streamerr.co | <https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8> |
 | 56 | Wuan+ | 7.innovatestream.pe:19360 | <https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8> |
 | 57 | Oromar TV (720p) | stream.oromar.tv | <https://stream.oromar.tv/hls/camriva/index.m3u8> |
+| 58 | TC Television (1080p) | IPv4 直链 | <http://177.234.249.178:8888/TC/index.m3u8> |
+| 59 | RTS (1080p) | IPv4 直链 | <http://177.234.249.178:8888/RTS/index.m3u8> |
+| 60 | RTU (1080p) | IPv4 直链 | <http://45.224.97.181:9999/RTU/index.m3u8> |
+| 61 | Ecuador TV (1080p) | IPv4 直链 | <http://45.224.97.181:9999/EcuadorTV/index.m3u8> |
+| 62 | Teleamazonas (1080p) | IPv4 直链 | <http://45.224.97.181:9999/Teleamazonas/index.m3u8> |
+| 63 | TVC (1080p) | IPv4 直链 | <http://45.224.97.181:9999/TVC/index.m3u8> |
+| 64 | Gamavision (1080p) | IPv4 直链 | <http://45.224.97.181:9999/Gamavision/index.m3u8> |
 
-Updated at **Tue Jul 07 2026 19:59:57 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jul 08 2026 03:13:15 GMT+0000 (Coordinated Universal Time)**

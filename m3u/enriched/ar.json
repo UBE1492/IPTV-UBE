@@ -1,6 +1,6 @@
 {
   "name": "ar",
-  "updated_at": 1783454398001,
+  "updated_at": 1783480395719,
   "m3u": "https://ube1492.github.io/IPTV-UBE/ar.m3u",
   "channels": [
     {
@@ -435,6 +435,150 @@
     {
       "name": "Canal 6 Viento Recio",
       "url": "https://stmvideo6.livecastv.com/vientorecio/vientorecio/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Quiero Musica en mi Idioma (1080p)",
+      "url": "http://177.234.249.178:8888/MTV/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "El Gourmet (1080p)",
+      "url": "http://177.234.249.178:8888/EL-GOURMET/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Disney Jr. Latin America (1080p)",
+      "url": "http://177.234.249.178:8888/DISNEY-JR/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Disney Channel Latin America (1080p)",
+      "url": "http://45.171.108.253:8888/DISNEY_CHANNEL/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "TV Publica (1080p)",
+      "url": "http://45.6.4.35/TV_PUBLICA/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Film & Arts (1080p)",
+      "url": "http://45.6.4.35/FILM_AND_ARTS/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "C5N (720p)",
+      "url": "http://45.6.4.35/C5N/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "America TV (1080p)",
+      "url": "http://45.6.4.35/AMERICA/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Disney Channel Latin America South (1080p)",
+      "url": "http://45.6.4.35/DISNEY/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "TN (1080p)",
+      "url": "http://45.6.4.35/TN/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Ciudad Magazine (576p)",
+      "url": "http://45.6.4.35/MAGAZINE/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Volver (720p)",
+      "url": "http://45.6.4.35/VOLVER/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Europa Europa (1080p)",
+      "url": "http://45.6.4.35/EUROPA/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "El Gourmet South (1080p)",
+      "url": "http://45.6.4.35/GOURMET/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Sony Channel (1080p)",
+      "url": "http://138.121.15.230:9002/SONY/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Fox Sports (720p)",
+      "url": "http://45.6.4.35/FOX_SPORT/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Telefe Buenos Aires (1080p)",
+      "url": "http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Disney Channel Latin America Panregional HD (1080p)",
+      "url": "http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "NET TV (720p)",
+      "url": "http://45.134.141.161:2200/ARG/Net_TV/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "TyC Sports (1080p)",
+      "url": "http://45.6.4.35/TyC/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "La Nacion + (1080p)",
+      "url": "http://45.6.4.35/LA_NACION/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "El Nueve (1080p)",
+      "url": "http://45.6.4.35/EL_NUEVE/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Argentina/12 (1080p)",
+      "url": "http://45.6.4.35/IP_NOTICIAS/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Telefe (1080p)",
+      "url": "http://45.6.4.35/TELEFE_INTERIOR/index.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -873,6 +1017,150 @@
       {
         "name": "Canal 6 Viento Recio",
         "url": "https://stmvideo6.livecastv.com/vientorecio/vientorecio/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Quiero Musica en mi Idioma (1080p)",
+        "url": "http://177.234.249.178:8888/MTV/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "El Gourmet (1080p)",
+        "url": "http://177.234.249.178:8888/EL-GOURMET/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Disney Jr. Latin America (1080p)",
+        "url": "http://177.234.249.178:8888/DISNEY-JR/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Disney Channel Latin America (1080p)",
+        "url": "http://45.171.108.253:8888/DISNEY_CHANNEL/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "TV Publica (1080p)",
+        "url": "http://45.6.4.35/TV_PUBLICA/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Film & Arts (1080p)",
+        "url": "http://45.6.4.35/FILM_AND_ARTS/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "C5N (720p)",
+        "url": "http://45.6.4.35/C5N/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "America TV (1080p)",
+        "url": "http://45.6.4.35/AMERICA/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Disney Channel Latin America South (1080p)",
+        "url": "http://45.6.4.35/DISNEY/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "TN (1080p)",
+        "url": "http://45.6.4.35/TN/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Ciudad Magazine (576p)",
+        "url": "http://45.6.4.35/MAGAZINE/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Volver (720p)",
+        "url": "http://45.6.4.35/VOLVER/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Europa Europa (1080p)",
+        "url": "http://45.6.4.35/EUROPA/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "El Gourmet South (1080p)",
+        "url": "http://45.6.4.35/GOURMET/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Sony Channel (1080p)",
+        "url": "http://138.121.15.230:9002/SONY/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Fox Sports (720p)",
+        "url": "http://45.6.4.35/FOX_SPORT/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Telefe Buenos Aires (1080p)",
+        "url": "http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Disney Channel Latin America Panregional HD (1080p)",
+        "url": "http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "NET TV (720p)",
+        "url": "http://45.134.141.161:2200/ARG/Net_TV/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "TyC Sports (1080p)",
+        "url": "http://45.6.4.35/TyC/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "La Nacion + (1080p)",
+        "url": "http://45.6.4.35/LA_NACION/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "El Nueve (1080p)",
+        "url": "http://45.6.4.35/EL_NUEVE/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Argentina/12 (1080p)",
+        "url": "http://45.6.4.35/IP_NOTICIAS/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Telefe (1080p)",
+        "url": "http://45.6.4.35/TELEFE_INTERIOR/index.m3u8",
         "logo": "",
         "category": "Otros"
       }

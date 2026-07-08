@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1783454398722,
+  "updated_at": 1783480396377,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -3162,12 +3162,6 @@
     {
       "name": "Motor Trend (720p)",
       "url": "http://185.246.209.113/MotorTrendHD/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "FYI (720p)",
-      "url": "http://185.246.209.113/FYIHD/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -6723,12 +6717,6 @@
       {
         "name": "Motor Trend (720p)",
         "url": "http://185.246.209.113/MotorTrendHD/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "FYI (720p)",
-        "url": "http://185.246.209.113/FYIHD/index.m3u8",
         "logo": "",
         "category": "Otros"
       },

@@ -91,3 +91,21 @@ http://190.108.83.69:8000/play/a01d/index.m3u8
 https://stmvideo3.livecastv.com/canal4vd/canal4vd/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal6VientoRecio.ar@SD",Canal 6 Viento Recio
 https://stmvideo6.livecastv.com/vientorecio/vientorecio/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmArts.ar@Panregional",Film & Arts (1080p)
+http://45.6.4.35/FILM_AND_ARTS/index.m3u8
+#EXTINF:-1 tvg-id="C5N.ar@SD",C5N (720p)
+http://45.6.4.35/C5N/index.m3u8
+#EXTINF:-1 tvg-id="TN.ar@SD",TN (1080p)
+http://45.6.4.35/TN/index.m3u8
+#EXTINF:-1 tvg-id="Volver.ar@SD",Volver (720p)
+http://45.6.4.35/VOLVER/index.m3u8
+#EXTINF:-1 tvg-id="EuropaEuropa.ar@SD",Europa Europa (1080p)
+http://45.6.4.35/EUROPA/index.m3u8
+#EXTINF:-1 tvg-id="SonyChannel.ar@SD",Sony Channel (1080p)
+http://138.121.15.230:9002/SONY/index.m3u8
+#EXTINF:-1 tvg-id="LaNacionPlus.ar@SD",La Nacion + (1080p)
+http://45.6.4.35/LA_NACION/index.m3u8
+#EXTINF:-1 tvg-id="ElNueve.ar@SD",El Nueve (1080p)
+http://45.6.4.35/EL_NUEVE/index.m3u8
+#EXTINF:-1 tvg-id="Argentina12.ar@SD",Argentina/12 (1080p)
+http://45.6.4.35/IP_NOTICIAS/index.m3u8

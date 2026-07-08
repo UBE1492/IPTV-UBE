@@ -527,7 +527,6 @@ IFC_(1080p),http://23.237.104.106:8080/USA_IFC/index.m3u8
 Smithsonian_Channel_(720p),http://185.246.209.113/SmithsonianHD/index.m3u8
 TV_Land_(720p),http://185.246.209.113/TVLandHD/index.m3u8
 Motor_Trend_(720p),http://185.246.209.113/MotorTrendHD/index.m3u8
-FYI_(720p),http://185.246.209.113/FYIHD/index.m3u8
 USA_Network_(720p),http://185.246.209.113/DISCOVERYHD/index.m3u8
 Nick_Jr._(576p),http://84.17.50.102/nickjr/index.m3u8
 Nicktoons_(720p),http://41.205.93.154/NICKTOONS/index.m3u8

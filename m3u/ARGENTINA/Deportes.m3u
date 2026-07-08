@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FoxSports.ar@SD",Fox Sports (720p)
+http://45.6.4.35/FOX_SPORT/index.m3u8
+#EXTINF:-1 tvg-id="TyCSports.ar@SD",TyC Sports (1080p)
+http://45.6.4.35/TyC/index.m3u8

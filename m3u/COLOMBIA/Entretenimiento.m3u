@@ -71,3 +71,5 @@ http://138.121.15.230:9002/CITY-TV/index.m3u8
 https://server.asilivehd.com:3333/live/huilatvlive.m3u8
 #EXTINF:-1 tvg-id="CableNobsaTV.co@SD",Cable Nobsa TV (720p)
 https://eu1.servers10.com:8081/8164/index.m3u8
+#EXTINF:-1 tvg-id="CitytvBogota.co@SD",Citytv Bogota (720p)
+http://138.186.23.7:8082/CITY/index.m3u8

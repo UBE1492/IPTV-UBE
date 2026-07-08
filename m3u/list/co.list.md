@@ -104,5 +104,11 @@
 | 98 | Huila TV | server.asilivehd.com:3333 | <https://server.asilivehd.com:3333/live/huilatvlive.m3u8> |
 | 99 | TDI Colombia (720p) | live.amelbatv.co:81 | <https://live.amelbatv.co:81/tdicolombiatv/index.m3u8> |
 | 100 | Cable Nobsa TV (720p) | eu1.servers10.com:8081 | <https://eu1.servers10.com:8081/8164/index.m3u8> |
+| 101 | Canal 1 (720p) | IPv4 直链 | <http://177.234.249.135:8888/CANAL_UNO/index.m3u8> |
+| 102 | Cablenoticias (720p) | IPv4 直链 | <http://138.186.23.7:8082/CABLENOTICIAS/index.m3u8> |
+| 103 | Citytv Bogota (720p) | IPv4 直链 | <http://138.186.23.7:8082/CITY/index.m3u8> |
+| 104 | Canal Congreso (1080p) | IPv4 直链 | <http://138.121.15.230:9002/CANAL-CONGRESO/index.m3u8> |
+| 105 | Canal Institucional (576p) | IPv4 直链 | <http://138.121.15.230:9002/CANAL-INSTITUCIONAL/index.m3u8> |
+| 106 | Alerta Bogota (720p) [Geo-blocked] | mdstrm.com | <https://mdstrm.com/live-stream-playlist/69b2cdf98815b9b6c48c2532.m3u8> |
 
-Updated at **Tue Jul 07 2026 19:59:58 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jul 08 2026 03:13:16 GMT+0000 (Coordinated Universal Time)**

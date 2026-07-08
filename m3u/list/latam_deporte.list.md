@@ -11,4 +11,4 @@
 | 5 | Fox Sports 1 | cdn.haititivi.com | <http://cdn.haititivi.com/Fox_Sports_1/index.m3u8> |
 | 6 | Fox Sports 1 (720p) | streamvidex.qzz.io | <https://streamvidex.qzz.io/videx/fox1usa/index.m3u8> |
 
-Updated at **Tue Jul 07 2026 19:59:57 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jul 08 2026 03:13:15 GMT+0000 (Coordinated Universal Time)**

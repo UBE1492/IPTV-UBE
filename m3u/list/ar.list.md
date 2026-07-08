@@ -74,5 +74,29 @@
 | 68 | Disney Channel Latin America Mexico (576p) | IPv4 直链 | <http://45.189.62.33:8002/play/a0al/index.m3u8> |
 | 69 | Canal 4 Villa Dolores | stmvideo3.livecastv.com | <https://stmvideo3.livecastv.com/canal4vd/canal4vd/playlist.m3u8> |
 | 70 | Canal 6 Viento Recio | stmvideo6.livecastv.com | <https://stmvideo6.livecastv.com/vientorecio/vientorecio/playlist.m3u8> |
+| 71 | Quiero Musica en mi Idioma (1080p) | IPv4 直链 | <http://177.234.249.178:8888/MTV/index.m3u8> |
+| 72 | El Gourmet (1080p) | IPv4 直链 | <http://177.234.249.178:8888/EL-GOURMET/index.m3u8> |
+| 73 | Disney Jr. Latin America (1080p) | IPv4 直链 | <http://177.234.249.178:8888/DISNEY-JR/index.m3u8> |
+| 74 | Disney Channel Latin America (1080p) | IPv4 直链 | <http://45.171.108.253:8888/DISNEY_CHANNEL/index.m3u8> |
+| 75 | TV Publica (1080p) | IPv4 直链 | <http://45.6.4.35/TV_PUBLICA/index.m3u8> |
+| 76 | Film & Arts (1080p) | IPv4 直链 | <http://45.6.4.35/FILM_AND_ARTS/index.m3u8> |
+| 77 | C5N (720p) | IPv4 直链 | <http://45.6.4.35/C5N/index.m3u8> |
+| 78 | America TV (1080p) | IPv4 直链 | <http://45.6.4.35/AMERICA/index.m3u8> |
+| 79 | Disney Channel Latin America South (1080p) | IPv4 直链 | <http://45.6.4.35/DISNEY/index.m3u8> |
+| 80 | TN (1080p) | IPv4 直链 | <http://45.6.4.35/TN/index.m3u8> |
+| 81 | Ciudad Magazine (576p) | IPv4 直链 | <http://45.6.4.35/MAGAZINE/index.m3u8> |
+| 82 | Volver (720p) | IPv4 直链 | <http://45.6.4.35/VOLVER/index.m3u8> |
+| 83 | Europa Europa (1080p) | IPv4 直链 | <http://45.6.4.35/EUROPA/index.m3u8> |
+| 84 | El Gourmet South (1080p) | IPv4 直链 | <http://45.6.4.35/GOURMET/index.m3u8> |
+| 85 | Sony Channel (1080p) | IPv4 直链 | <http://138.121.15.230:9002/SONY/index.m3u8> |
+| 86 | Fox Sports (720p) | IPv4 直链 | <http://45.6.4.35/FOX_SPORT/index.m3u8> |
+| 87 | Telefe Buenos Aires (1080p) | IPv4 直链 | <http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8> |
+| 88 | Disney Channel Latin America Panregional HD (1080p) | IPv4 直链 | <http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8> |
+| 89 | NET TV (720p) | IPv4 直链 | <http://45.134.141.161:2200/ARG/Net_TV/index.m3u8> |
+| 90 | TyC Sports (1080p) | IPv4 直链 | <http://45.6.4.35/TyC/index.m3u8> |
+| 91 | La Nacion + (1080p) | IPv4 直链 | <http://45.6.4.35/LA_NACION/index.m3u8> |
+| 92 | El Nueve (1080p) | IPv4 直链 | <http://45.6.4.35/EL_NUEVE/index.m3u8> |
+| 93 | Argentina/12 (1080p) | IPv4 直链 | <http://45.6.4.35/IP_NOTICIAS/index.m3u8> |
+| 94 | Telefe (1080p) | IPv4 直链 | <http://45.6.4.35/TELEFE_INTERIOR/index.m3u8> |
 
-Updated at **Tue Jul 07 2026 19:59:58 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jul 08 2026 03:13:15 GMT+0000 (Coordinated Universal Time)**

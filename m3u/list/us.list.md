@@ -530,65 +530,64 @@
 | 524 | Smithsonian Channel (720p) | IPv4 直链 | <http://185.246.209.113/SmithsonianHD/index.m3u8> |
 | 525 | TV Land (720p) | IPv4 直链 | <http://185.246.209.113/TVLandHD/index.m3u8> |
 | 526 | Motor Trend (720p) | IPv4 直链 | <http://185.246.209.113/MotorTrendHD/index.m3u8> |
-| 527 | FYI (720p) | IPv4 直链 | <http://185.246.209.113/FYIHD/index.m3u8> |
-| 528 | USA Network (720p) | IPv4 直链 | <http://185.246.209.113/DISCOVERYHD/index.m3u8> |
-| 529 | Nick Jr. (576p) | IPv4 直链 | <http://84.17.50.102/nickjr/index.m3u8> |
-| 530 | Nicktoons (720p) | IPv4 直链 | <http://41.205.93.154/NICKTOONS/index.m3u8> |
-| 531 | History (576p) | IPv4 直链 | <http://84.17.50.102/history/index.m3u8> |
-| 532 | BET (720p) | IPv4 直链 | <http://41.205.93.154/BET-EN/index.m3u8> |
-| 533 | BET Her (720p) | IPv4 直链 | <http://41.205.93.154/BETHER/index.m3u8> |
-| 534 | Nickelodeon (720p) | IPv4 直链 | <http://198.58.104.90:8989/nickelodeon/index.m3u8> |
-| 535 | MSG (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_MSG/index.m3u8> |
-| 536 | ESPNU (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_ESPNU/index.m3u8> |
-| 537 | Pasiones Latin America (1080p) | IPv4 直链 | <http://179.60.51.134:8888/PASIONES/index.m3u8> |
-| 538 | WPIX-HD (576p) | IPv4 直链 | <http://84.17.50.102/cw/index.m3u8> |
-| 539 | One America News Network (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_OAN/index.m3u8> |
-| 540 | Kids Street (1080p) | IPv4 直链 | <http://181.78.121.15:8000/play/a00a/index.m3u8> |
-| 541 | Juntos TV (720p) | live-evg8.tv360.bitel.com.pe | <https://live-evg8.tv360.bitel.com.pe/bitel/juntostvSRT/playlist.m3u8> |
-| 542 | IndiMusic TV (720p) | live-evg10.tv360.bitel.com.pe | <https://live-evg10.tv360.bitel.com.pe/bitel/musictv/playlist.m3u8> |
-| 543 | Disney Channel (720p) | cors-proxy.cooks.fyi | <https://cors-proxy.cooks.fyi/http://212.5.144.156:8080/disney/index.m3u8> |
-| 544 | Disney Junior (720p) | cors-proxy.cooks.fyi | <https://cors-proxy.cooks.fyi/http://212.5.144.156:8080/disneyjr/index.m3u8> |
-| 545 | Bloomberg TV (1080p) | IPv4 直链 | <http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8> |
-| 546 | DreamWorks Channel Latin America (576p) | cdn-5.nxplay.com.br | <https://cdn-5.nxplay.com.br/DREAMWORKS/index.m3u8> |
-| 547 | Sony Movies Latin America (720p) | cdn-5.nxplay.com.br | <https://cdn-5.nxplay.com.br/SONY_MOVIES/index.m3u8> |
-| 548 | NowMedia Television (1080p) | stream-204968.castr.net | <https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a4243540d4b911f0b624bda5e9a32aa9/index.m3u8> |
-| 549 | Hallmark Channel (720p) | IPv4 直链 | <http://41.223.30.230/HALLMARK/index.m3u8> |
-| 550 | KCKS-LD 25.3 (720p) | 2-fss-1.streamhoster.com | <https://2-fss-1.streamhoster.com/pl_154/amlst:205432-2055980/playlist.m3u8> |
-| 551 | St Lucie Public Schools | reflect-stlucie-ps-fl.cablecast.tv | <https://reflect-stlucie-ps-fl.cablecast.tv/live-1/live/stream-1/WIFI-1896k-720p.m3u8> |
-| 552 | WSLF-LD 35.1 (720p) | content.uplynk.com | <https://content.uplynk.com/channel/1992858a34c3423dbdad491d07ae6f75.m3u8> |
-| 553 | AXN Latin America Mexico | IPv4 直链 | <http://190.11.225.124:5000/live/axn_hd/playlist.m3u8> |
-| 554 | AXN Latin America | IPv4 直链 | <http://45.167.1.138:8000/play/a04s> |
-| 555 | Semillitas TV (576p) | IPv4 直链 | <http://45.5.117.99:8000/play/a0g3/index.m3u8> |
-| 556 | Nickelodeon Latin America (1080p) | IPv4 直链 | <http://179.60.51.134:8888/NICK/index.m3u8> |
-| 557 | Nick Jr. Latin America (1080p) | IPv4 直链 | <http://179.60.51.134:8888/NICK-JR/index.m3u8> |
-| 558 | MTV Latin America (1080p) | IPv4 直链 | <http://179.60.51.134:8888/MTV/index.m3u8> |
-| 559 | Nickelodeon (576p) | IPv4 直链 | <http://84.17.50.102/nickelodeon/index.m3u8> |
-| 560 | Hola! TV Latin America (1080p) | IPv4 直链 | <http://8.243.126.131:8000/play/a0fg/index.m3u8> |
-| 561 | SBN TV (720p) | watch.sardius.media | <https://watch.sardius.media/channels/Ea867F3e1F56B06/site_c5402f016A/live.m3u8> |
-| 562 | SBN TV Global (720p) | watch.sardius.media | <https://watch.sardius.media/channels/Ea867F3e1F56B06/site_8D363D13Eb/live.m3u8> |
-| 563 | SBN TV International (720p) | watch.sardius.media | <https://watch.sardius.media/channels/Ea867F3e1F56B06/site_09a4778E89/live.m3u8> |
-| 564 | HCTV Public Access Channel | reflect-hudsonctv.cablecast.tv | <https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-5/live.m3u8> |
-| 565 | HCTV Government Channel | reflect-hudsonctv.cablecast.tv | <https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-2/live.m3u8> |
-| 566 | HCTV Educational Access Channel | reflect-hudsonctv.cablecast.tv | <https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-1/live.m3u8> |
-| 567 | Gillette Public Access Television Channel 189 | securestream11.champds.com | <https://securestream11.champds.com/LIVE/GilletteWYLIVE3/GilletteWYLIVE3.m3u8> |
-| 568 | Gillette Public Access Television Channel 190 | securestream11.champds.com | <https://securestream11.champds.com/LIVE/GilletteWYLIVE/GilletteWYLIVE.m3u8> |
-| 569 | Gillette Public Access Television Channel 192 | securestream11.champds.com | <https://securestream11.champds.com/LIVE/GilletteWYLIVE2/GilletteWYLIVE2.m3u8> |
-| 570 | Access 4 PAC | reflect-channel18vod-springfield-il-us.cablecast.tv | <https://reflect-channel18vod-springfield-il-us.cablecast.tv/live-16/live/stream-4/live.m3u8> |
-| 571 | Channel 18 GAC | reflect-channel18vod-springfield-il-us.cablecast.tv | <https://reflect-channel18vod-springfield-il-us.cablecast.tv/live-13/live/stream-1/live.m3u8> |
-| 572 | Detroit Channel 10 | reflect-detroit-vod.cablecast.tv | <https://reflect-detroit-vod.cablecast.tv/live-2/live/stream-6/live.m3u8> |
-| 573 | Detroit Channel 21 | reflect-detroit-vod.cablecast.tv | <https://reflect-detroit-vod.cablecast.tv/live-9/live/stream-4/live.m3u8> |
-| 574 | Detroit Channel 22 | reflect-detroit-vod.cablecast.tv | <https://reflect-detroit-vod.cablecast.tv/live-3/live/stream-3/live.m3u8> |
-| 575 | Detroit Channel 68 | reflect-detroit-vod.cablecast.tv | <https://reflect-detroit-vod.cablecast.tv/live-10/live/stream-5/live.m3u8> |
-| 576 | ATL 26 | securestream11.champds.com | <https://securestream11.champds.com/LIVE/AtlantaGALIVE/AtlantaGALIVE.m3u8> |
-| 577 | FGTV | securestream11.champds.com | <https://securestream11.champds.com/LIVE/FultonCoGALIVE/FultonCoGALIVE.m3u8> |
-| 578 | Access 19 | reflect-montgomerycommunitymedia.cablecast.tv | <https://reflect-montgomerycommunitymedia.cablecast.tv/live-8/live/stream-3/live.m3u8> |
-| 579 | Montgomery Channel | reflect-montgomerycommunitymedia.cablecast.tv | <https://reflect-montgomerycommunitymedia.cablecast.tv/live-11/live/stream-4/live.m3u8> |
-| 580 | AXN Latin America South | IPv4 直链 | <http://45.228.235.116:8000/play/a0iy/index.m3u8> |
-| 581 | Universal Cinema (1080p) | bantel-cdn1.iptvperu.tv:1936 | <https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/universalcinema/playlist.m3u8> |
-| 582 | Heartland (720p) | lukentvlive.vgcdn.net | <https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/heartland/index.m3u8> |
-| 583 | Retro TV (720p) | lukentvlive.vgcdn.net | <https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/retro/index.m3u8> |
-| 584 | Unbeaten (1080p) | lukentvlive.vgcdn.net | <https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/UnbeatenSports/playlist.m3u8> |
-| 585 | MTV Live (576p) | IPv4 直链 | <http://41.205.77.102/MTVUSA/index.m3u8> |
-| 586 | Westerns 4U (1080p) | IPv4 直链 | <http://181.224.255.210:8001/play/a0rq/index.m3u8> |
+| 527 | USA Network (720p) | IPv4 直链 | <http://185.246.209.113/DISCOVERYHD/index.m3u8> |
+| 528 | Nick Jr. (576p) | IPv4 直链 | <http://84.17.50.102/nickjr/index.m3u8> |
+| 529 | Nicktoons (720p) | IPv4 直链 | <http://41.205.93.154/NICKTOONS/index.m3u8> |
+| 530 | History (576p) | IPv4 直链 | <http://84.17.50.102/history/index.m3u8> |
+| 531 | BET (720p) | IPv4 直链 | <http://41.205.93.154/BET-EN/index.m3u8> |
+| 532 | BET Her (720p) | IPv4 直链 | <http://41.205.93.154/BETHER/index.m3u8> |
+| 533 | Nickelodeon (720p) | IPv4 直链 | <http://198.58.104.90:8989/nickelodeon/index.m3u8> |
+| 534 | MSG (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_MSG/index.m3u8> |
+| 535 | ESPNU (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_ESPNU/index.m3u8> |
+| 536 | Pasiones Latin America (1080p) | IPv4 直链 | <http://179.60.51.134:8888/PASIONES/index.m3u8> |
+| 537 | WPIX-HD (576p) | IPv4 直链 | <http://84.17.50.102/cw/index.m3u8> |
+| 538 | One America News Network (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_OAN/index.m3u8> |
+| 539 | Kids Street (1080p) | IPv4 直链 | <http://181.78.121.15:8000/play/a00a/index.m3u8> |
+| 540 | Juntos TV (720p) | live-evg8.tv360.bitel.com.pe | <https://live-evg8.tv360.bitel.com.pe/bitel/juntostvSRT/playlist.m3u8> |
+| 541 | IndiMusic TV (720p) | live-evg10.tv360.bitel.com.pe | <https://live-evg10.tv360.bitel.com.pe/bitel/musictv/playlist.m3u8> |
+| 542 | Disney Channel (720p) | cors-proxy.cooks.fyi | <https://cors-proxy.cooks.fyi/http://212.5.144.156:8080/disney/index.m3u8> |
+| 543 | Disney Junior (720p) | cors-proxy.cooks.fyi | <https://cors-proxy.cooks.fyi/http://212.5.144.156:8080/disneyjr/index.m3u8> |
+| 544 | Bloomberg TV (1080p) | IPv4 直链 | <http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8> |
+| 545 | DreamWorks Channel Latin America (576p) | cdn-5.nxplay.com.br | <https://cdn-5.nxplay.com.br/DREAMWORKS/index.m3u8> |
+| 546 | Sony Movies Latin America (720p) | cdn-5.nxplay.com.br | <https://cdn-5.nxplay.com.br/SONY_MOVIES/index.m3u8> |
+| 547 | NowMedia Television (1080p) | stream-204968.castr.net | <https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a4243540d4b911f0b624bda5e9a32aa9/index.m3u8> |
+| 548 | Hallmark Channel (720p) | IPv4 直链 | <http://41.223.30.230/HALLMARK/index.m3u8> |
+| 549 | KCKS-LD 25.3 (720p) | 2-fss-1.streamhoster.com | <https://2-fss-1.streamhoster.com/pl_154/amlst:205432-2055980/playlist.m3u8> |
+| 550 | St Lucie Public Schools | reflect-stlucie-ps-fl.cablecast.tv | <https://reflect-stlucie-ps-fl.cablecast.tv/live-1/live/stream-1/WIFI-1896k-720p.m3u8> |
+| 551 | WSLF-LD 35.1 (720p) | content.uplynk.com | <https://content.uplynk.com/channel/1992858a34c3423dbdad491d07ae6f75.m3u8> |
+| 552 | AXN Latin America Mexico | IPv4 直链 | <http://190.11.225.124:5000/live/axn_hd/playlist.m3u8> |
+| 553 | AXN Latin America | IPv4 直链 | <http://45.167.1.138:8000/play/a04s> |
+| 554 | Semillitas TV (576p) | IPv4 直链 | <http://45.5.117.99:8000/play/a0g3/index.m3u8> |
+| 555 | Nickelodeon Latin America (1080p) | IPv4 直链 | <http://179.60.51.134:8888/NICK/index.m3u8> |
+| 556 | Nick Jr. Latin America (1080p) | IPv4 直链 | <http://179.60.51.134:8888/NICK-JR/index.m3u8> |
+| 557 | MTV Latin America (1080p) | IPv4 直链 | <http://179.60.51.134:8888/MTV/index.m3u8> |
+| 558 | Nickelodeon (576p) | IPv4 直链 | <http://84.17.50.102/nickelodeon/index.m3u8> |
+| 559 | Hola! TV Latin America (1080p) | IPv4 直链 | <http://8.243.126.131:8000/play/a0fg/index.m3u8> |
+| 560 | SBN TV (720p) | watch.sardius.media | <https://watch.sardius.media/channels/Ea867F3e1F56B06/site_c5402f016A/live.m3u8> |
+| 561 | SBN TV Global (720p) | watch.sardius.media | <https://watch.sardius.media/channels/Ea867F3e1F56B06/site_8D363D13Eb/live.m3u8> |
+| 562 | SBN TV International (720p) | watch.sardius.media | <https://watch.sardius.media/channels/Ea867F3e1F56B06/site_09a4778E89/live.m3u8> |
+| 563 | HCTV Public Access Channel | reflect-hudsonctv.cablecast.tv | <https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-5/live.m3u8> |
+| 564 | HCTV Government Channel | reflect-hudsonctv.cablecast.tv | <https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-2/live.m3u8> |
+| 565 | HCTV Educational Access Channel | reflect-hudsonctv.cablecast.tv | <https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-1/live.m3u8> |
+| 566 | Gillette Public Access Television Channel 189 | securestream11.champds.com | <https://securestream11.champds.com/LIVE/GilletteWYLIVE3/GilletteWYLIVE3.m3u8> |
+| 567 | Gillette Public Access Television Channel 190 | securestream11.champds.com | <https://securestream11.champds.com/LIVE/GilletteWYLIVE/GilletteWYLIVE.m3u8> |
+| 568 | Gillette Public Access Television Channel 192 | securestream11.champds.com | <https://securestream11.champds.com/LIVE/GilletteWYLIVE2/GilletteWYLIVE2.m3u8> |
+| 569 | Access 4 PAC | reflect-channel18vod-springfield-il-us.cablecast.tv | <https://reflect-channel18vod-springfield-il-us.cablecast.tv/live-16/live/stream-4/live.m3u8> |
+| 570 | Channel 18 GAC | reflect-channel18vod-springfield-il-us.cablecast.tv | <https://reflect-channel18vod-springfield-il-us.cablecast.tv/live-13/live/stream-1/live.m3u8> |
+| 571 | Detroit Channel 10 | reflect-detroit-vod.cablecast.tv | <https://reflect-detroit-vod.cablecast.tv/live-2/live/stream-6/live.m3u8> |
+| 572 | Detroit Channel 21 | reflect-detroit-vod.cablecast.tv | <https://reflect-detroit-vod.cablecast.tv/live-9/live/stream-4/live.m3u8> |
+| 573 | Detroit Channel 22 | reflect-detroit-vod.cablecast.tv | <https://reflect-detroit-vod.cablecast.tv/live-3/live/stream-3/live.m3u8> |
+| 574 | Detroit Channel 68 | reflect-detroit-vod.cablecast.tv | <https://reflect-detroit-vod.cablecast.tv/live-10/live/stream-5/live.m3u8> |
+| 575 | ATL 26 | securestream11.champds.com | <https://securestream11.champds.com/LIVE/AtlantaGALIVE/AtlantaGALIVE.m3u8> |
+| 576 | FGTV | securestream11.champds.com | <https://securestream11.champds.com/LIVE/FultonCoGALIVE/FultonCoGALIVE.m3u8> |
+| 577 | Access 19 | reflect-montgomerycommunitymedia.cablecast.tv | <https://reflect-montgomerycommunitymedia.cablecast.tv/live-8/live/stream-3/live.m3u8> |
+| 578 | Montgomery Channel | reflect-montgomerycommunitymedia.cablecast.tv | <https://reflect-montgomerycommunitymedia.cablecast.tv/live-11/live/stream-4/live.m3u8> |
+| 579 | AXN Latin America South | IPv4 直链 | <http://45.228.235.116:8000/play/a0iy/index.m3u8> |
+| 580 | Universal Cinema (1080p) | bantel-cdn1.iptvperu.tv:1936 | <https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/universalcinema/playlist.m3u8> |
+| 581 | Heartland (720p) | lukentvlive.vgcdn.net | <https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/heartland/index.m3u8> |
+| 582 | Retro TV (720p) | lukentvlive.vgcdn.net | <https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/retro/index.m3u8> |
+| 583 | Unbeaten (1080p) | lukentvlive.vgcdn.net | <https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/UnbeatenSports/playlist.m3u8> |
+| 584 | MTV Live (576p) | IPv4 直链 | <http://41.205.77.102/MTVUSA/index.m3u8> |
+| 585 | Westerns 4U (1080p) | IPv4 直链 | <http://181.224.255.210:8001/play/a0rq/index.m3u8> |
 
-Updated at **Tue Jul 07 2026 19:59:58 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jul 08 2026 03:13:16 GMT+0000 (Coordinated Universal Time)**
