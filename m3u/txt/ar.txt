@@ -97,3 +97,6 @@ La_Nacion_+_(1080p),http://45.6.4.35/LA_NACION/index.m3u8
 El_Nueve_(1080p),http://45.6.4.35/EL_NUEVE/index.m3u8
 Argentina/12_(1080p),http://45.6.4.35/IP_NOTICIAS/index.m3u8
 Telefe_(1080p),http://45.6.4.35/TELEFE_INTERIOR/index.m3u8
+TV_Canal_72,https://stmv1.voxtvhd.com.br/canal72tv2/canal72tv2/playlist.m3u8
+El_Gourmet_(720p),http://177.245.131.133:8080/GOURMET/index.m3u8
+Disney_Jr._Latin_America_(720p),http://177.245.131.133:8080/DISNEYJR/index.m3u8

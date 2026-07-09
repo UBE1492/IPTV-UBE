@@ -1,6 +1,6 @@
 {
   "name": "ar",
-  "updated_at": 1783539442518,
+  "updated_at": 1783568226829,
   "m3u": "https://ube1492.github.io/IPTV-UBE/ar.m3u",
   "channels": [
     {
@@ -579,6 +579,24 @@
     {
       "name": "Telefe (1080p)",
       "url": "http://45.6.4.35/TELEFE_INTERIOR/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "TV Canal 72",
+      "url": "https://stmv1.voxtvhd.com.br/canal72tv2/canal72tv2/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "El Gourmet (720p)",
+      "url": "http://177.245.131.133:8080/GOURMET/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Disney Jr. Latin America (720p)",
+      "url": "http://177.245.131.133:8080/DISNEYJR/index.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -1161,6 +1179,24 @@
       {
         "name": "Telefe (1080p)",
         "url": "http://45.6.4.35/TELEFE_INTERIOR/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "TV Canal 72",
+        "url": "https://stmv1.voxtvhd.com.br/canal72tv2/canal72tv2/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "El Gourmet (720p)",
+        "url": "http://177.245.131.133:8080/GOURMET/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Disney Jr. Latin America (720p)",
+        "url": "http://177.245.131.133:8080/DISNEYJR/index.m3u8",
         "logo": "",
         "category": "Otros"
       }

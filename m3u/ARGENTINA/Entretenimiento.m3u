@@ -37,3 +37,5 @@ http://45.6.4.35/AMERICA/index.m3u8
 http://45.6.4.35/MAGAZINE/index.m3u8
 #EXTINF:-1 tvg-id="NETTV.ar@SD",NET TV (720p)
 http://45.134.141.161:2200/ARG/Net_TV/index.m3u8
+#EXTINF:-1 tvg-id="TVCanal72.ar@SD",TV Canal 72
+https://stmv1.voxtvhd.com.br/canal72tv2/canal72tv2/playlist.m3u8

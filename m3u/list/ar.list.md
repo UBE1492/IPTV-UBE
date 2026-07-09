@@ -98,5 +98,8 @@
 | 92 | El Nueve (1080p) | IPv4 直链 | <http://45.6.4.35/EL_NUEVE/index.m3u8> |
 | 93 | Argentina/12 (1080p) | IPv4 直链 | <http://45.6.4.35/IP_NOTICIAS/index.m3u8> |
 | 94 | Telefe (1080p) | IPv4 直链 | <http://45.6.4.35/TELEFE_INTERIOR/index.m3u8> |
+| 95 | TV Canal 72 | stmv1.voxtvhd.com.br | <https://stmv1.voxtvhd.com.br/canal72tv2/canal72tv2/playlist.m3u8> |
+| 96 | El Gourmet (720p) | IPv4 直链 | <http://177.245.131.133:8080/GOURMET/index.m3u8> |
+| 97 | Disney Jr. Latin America (720p) | IPv4 直链 | <http://177.245.131.133:8080/DISNEYJR/index.m3u8> |
 
-Updated at **Wed Jul 08 2026 19:37:22 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jul 09 2026 03:37:06 GMT+0000 (Coordinated Universal Time)**

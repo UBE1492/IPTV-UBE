@@ -19,3 +19,5 @@ http://45.171.108.253:8888/DISNEY_CHANNEL/index.m3u8
 http://45.6.4.35/DISNEY/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@PanregionalHD",Disney Channel Latin America Panregional HD (1080p)
 http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@North",Disney Jr. Latin America (720p)
+http://177.245.131.133:8080/DISNEYJR/index.m3u8
