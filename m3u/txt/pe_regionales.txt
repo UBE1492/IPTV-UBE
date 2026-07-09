@@ -1,9 +1,8 @@
 Without category,#genre#
-San_Pedro_SAT_|_PE,https://eu1.servers10.com:8081/8156/index.m3u8?PlaylistM3UCL
-Tele_Selva_|_PE,https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8?PlaylistM3UCL
 Telecolor_TV_|_PE,https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL
+Tele_Selva_|_PE,https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8?PlaylistM3UCL
+Via_Television_Tarapoto_|_PE,https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8?PlaylistM3UCL
 TV_en_linea_Cusco_|_PE,https://s4.tvdatta.com:3450/live/tvenlinealive.m3u8?PlaylistM3UCL
-Uranio_TV_|_PE,https://live.obslivestream.com/uraniotv/index.m3u8?PlaylistM3UCL
 TVperuanisima_|_PE,https://k20.usastreams.com:8081/tvperuanisima/index.m3u8?PlaylistM3UCL
 Via_Alto_Mayo_TV_|_PE,https://live.obslivestream.com/viaaltomayomux/index.m3u8?PlaylistM3UCL
-Via_Television_Tarapoto_|_PE,https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8?PlaylistM3UCL
+Uranio_TV_|_PE,https://live.obslivestream.com/uraniotv/index.m3u8?PlaylistM3UCL

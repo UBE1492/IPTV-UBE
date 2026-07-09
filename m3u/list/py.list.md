@@ -30,4 +30,4 @@
 | 24 | Los Angeles TV Radio | stmv6.voxtvhd.com.br | <https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8> |
 | 25 | Invasiva TV (720p) | tv-omega-nine.vercel.app | <https://tv-omega-nine.vercel.app/hls/live.m3u8> |
 
-Updated at **Thu Jul 09 2026 15:16:53 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jul 09 2026 19:50:33 GMT+0000 (Coordinated Universal Time)**

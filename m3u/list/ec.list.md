@@ -70,4 +70,4 @@
 | 64 | Gamavision (1080p) | IPv4 直链 | <http://45.224.97.181:9999/Gamavision/index.m3u8> |
 | 65 | RTS (480p) | d2w3o8zn50cs1k.cloudfront.net | <https://d2w3o8zn50cs1k.cloudfront.net/ts:abr.m3u8> |
 
-Updated at **Thu Jul 09 2026 15:16:53 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jul 09 2026 19:50:30 GMT+0000 (Coordinated Universal Time)**

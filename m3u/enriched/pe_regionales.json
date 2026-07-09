@@ -1,12 +1,12 @@
 {
   "name": "pe_regionales",
-  "updated_at": 1783610241408,
+  "updated_at": 1783626662136,
   "m3u": "https://ube1492.github.io/IPTV-UBE/pe_regionales.m3u",
   "channels": [
     {
-      "name": "San Pedro SAT | PE",
-      "url": "https://eu1.servers10.com:8081/8156/index.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/1686_San_Pedro_SAT.png",
+      "name": "Telecolor TV | PE",
+      "url": "https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/1189_Telecolor_TV.png",
       "category": "Without category"
     },
     {
@@ -16,21 +16,15 @@
       "category": "Without category"
     },
     {
-      "name": "Telecolor TV | PE",
-      "url": "https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/1189_Telecolor_TV.png",
+      "name": "Via Television Tarapoto | PE",
+      "url": "https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/703_Via_Television_Tarapoto.png",
       "category": "Without category"
     },
     {
       "name": "TV en linea Cusco | PE",
       "url": "https://s4.tvdatta.com:3450/live/tvenlinealive.m3u8?PlaylistM3UCL",
       "logo": "https://cdn.m3u.cl/logo/1590_TV_en_linea_Cusco.png",
-      "category": "Without category"
-    },
-    {
-      "name": "Uranio TV | PE",
-      "url": "https://live.obslivestream.com/uraniotv/index.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/1094_Uranio_TV.png",
       "category": "Without category"
     },
     {
@@ -46,18 +40,18 @@
       "category": "Without category"
     },
     {
-      "name": "Via Television Tarapoto | PE",
-      "url": "https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/703_Via_Television_Tarapoto.png",
+      "name": "Uranio TV | PE",
+      "url": "https://live.obslivestream.com/uraniotv/index.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/1094_Uranio_TV.png",
       "category": "Without category"
     }
   ],
   "categories": {
     "Without category": [
       {
-        "name": "San Pedro SAT | PE",
-        "url": "https://eu1.servers10.com:8081/8156/index.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/1686_San_Pedro_SAT.png",
+        "name": "Telecolor TV | PE",
+        "url": "https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/1189_Telecolor_TV.png",
         "category": "Without category"
       },
       {
@@ -67,21 +61,15 @@
         "category": "Without category"
       },
       {
-        "name": "Telecolor TV | PE",
-        "url": "https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/1189_Telecolor_TV.png",
+        "name": "Via Television Tarapoto | PE",
+        "url": "https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/703_Via_Television_Tarapoto.png",
         "category": "Without category"
       },
       {
         "name": "TV en linea Cusco | PE",
         "url": "https://s4.tvdatta.com:3450/live/tvenlinealive.m3u8?PlaylistM3UCL",
         "logo": "https://cdn.m3u.cl/logo/1590_TV_en_linea_Cusco.png",
-        "category": "Without category"
-      },
-      {
-        "name": "Uranio TV | PE",
-        "url": "https://live.obslivestream.com/uraniotv/index.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/1094_Uranio_TV.png",
         "category": "Without category"
       },
       {
@@ -97,9 +85,9 @@
         "category": "Without category"
       },
       {
-        "name": "Via Television Tarapoto | PE",
-        "url": "https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/703_Via_Television_Tarapoto.png",
+        "name": "Uranio TV | PE",
+        "url": "https://live.obslivestream.com/uraniotv/index.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/1094_Uranio_TV.png",
         "category": "Without category"
       }
     ]
