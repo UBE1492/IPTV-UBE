@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1783568227549,
+  "updated_at": 1783610213116,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -264,6 +264,12 @@
     {
       "name": "Almagd TV North America (1080p)",
       "url": "https://5aafcc5de91f1.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Amazing Facts TV (1080p)",
+      "url": "https://hlspackager.akamaized.net/live/DB/AMAZING_FACTS/HLS/AMAZING_FACTS.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -2602,6 +2608,30 @@
       "category": "Otros"
     },
     {
+      "name": "WATC TV57 (1080p)",
+      "url": "https://tgn2.bozztv.com/watc57/watc57-1/watc57-1/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "WATC The POINT Network (1080p)",
+      "url": "https://tgn.bozztv.com/watc57/watc57-2/watc57-2/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "WATC The Loop (1080p)",
+      "url": "https://tgn.bozztv.com/watc57/watc57-theloop/watc57-theloop/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "WATC Harmony Gospel Music TV (1080p)",
+      "url": "https://tgn.bozztv.com/watc57/watc57-harmony/watc57-harmony/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
       "name": "WBTS-CD1 (1080p)",
       "url": "https://d368vp0qqzvkid.cloudfront.net/11603/88889713/hls/master.m3u8?ads.xumo_channelId=88889713a&ads.xumo_ifaType=&ads.xumo_providerId=3820&ads.xumo_providerName=NBCNBOS",
       "logo": "",
@@ -3807,6 +3837,12 @@
       {
         "name": "Almagd TV North America (1080p)",
         "url": "https://5aafcc5de91f1.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Amazing Facts TV (1080p)",
+        "url": "https://hlspackager.akamaized.net/live/DB/AMAZING_FACTS/HLS/AMAZING_FACTS.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -6141,6 +6177,30 @@
       {
         "name": "W14DK-D 14.5 All Sports Television Network",
         "url": "https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "WATC TV57 (1080p)",
+        "url": "https://tgn2.bozztv.com/watc57/watc57-1/watc57-1/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "WATC The POINT Network (1080p)",
+        "url": "https://tgn.bozztv.com/watc57/watc57-2/watc57-2/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "WATC The Loop (1080p)",
+        "url": "https://tgn.bozztv.com/watc57/watc57-theloop/watc57-theloop/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "WATC Harmony Gospel Music TV (1080p)",
+        "url": "https://tgn.bozztv.com/watc57/watc57-harmony/watc57-harmony/index.m3u8",
         "logo": "",
         "category": "Otros"
       },

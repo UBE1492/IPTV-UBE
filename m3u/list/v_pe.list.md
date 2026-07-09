@@ -4,6 +4,6 @@
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
-| 1 | BHTVSD | cdn2.ujjina.com:1935 | <http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8> |
 
-Updated at **Thu Jul 09 2026 03:37:23 GMT+0000 (Coordinated Universal Time)**
+
+Updated at **Thu Jul 09 2026 15:17:12 GMT+0000 (Coordinated Universal Time)**

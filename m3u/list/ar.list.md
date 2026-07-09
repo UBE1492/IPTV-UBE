@@ -102,4 +102,4 @@
 | 96 | El Gourmet (720p) | IPv4 直链 | <http://177.245.131.133:8080/GOURMET/index.m3u8> |
 | 97 | Disney Jr. Latin America (720p) | IPv4 直链 | <http://177.245.131.133:8080/DISNEYJR/index.m3u8> |
 
-Updated at **Thu Jul 09 2026 03:37:06 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jul 09 2026 15:16:53 GMT+0000 (Coordinated Universal Time)**

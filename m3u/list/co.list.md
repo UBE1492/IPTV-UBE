@@ -111,4 +111,4 @@
 | 105 | Canal Institucional (576p) | IPv4 直链 | <http://138.121.15.230:9002/CANAL-INSTITUCIONAL/index.m3u8> |
 | 106 | Alerta Bogota (720p) [Geo-blocked] | mdstrm.com | <https://mdstrm.com/live-stream-playlist/69b2cdf98815b9b6c48c2532.m3u8> |
 
-Updated at **Thu Jul 09 2026 03:37:07 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jul 09 2026 15:16:53 GMT+0000 (Coordinated Universal Time)**
