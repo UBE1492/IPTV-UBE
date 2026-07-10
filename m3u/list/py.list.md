@@ -29,5 +29,7 @@
 | 23 | CAD TV | videoserver.tmcreativos.com:19360 | <https://videoserver.tmcreativos.com:19360/dcsajkpvrh/dcsajkpvrh.m3u8> |
 | 24 | Los Angeles TV Radio | stmv6.voxtvhd.com.br | <https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8> |
 | 25 | Invasiva TV (720p) | tv-omega-nine.vercel.app | <https://tv-omega-nine.vercel.app/hls/live.m3u8> |
+| 26 | C9N (480p) | d174axghh54kh0.cloudfront.net | <https://d174axghh54kh0.cloudfront.net/ts:abr.m3u8> |
+| 27 | SNT (480p) | d3epa8orr2qy3m.cloudfront.net | <https://d3epa8orr2qy3m.cloudfront.net/ts:abr.m3u8> |
 
-Updated at **Thu Jul 09 2026 19:50:33 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jul 10 2026 03:38:50 GMT+0000 (Coordinated Universal Time)**

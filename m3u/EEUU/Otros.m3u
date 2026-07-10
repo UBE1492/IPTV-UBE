@@ -443,12 +443,6 @@ http://23.237.104.106:8080/USA_BTN/index.m3u8
 http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
 #EXTINF:-1 tvg-id="IFC.us@East",IFC (1080p)
 http://23.237.104.106:8080/USA_IFC/index.m3u8
-#EXTINF:-1 tvg-id="SmithsonianChannel.us@East",Smithsonian Channel (720p)
-http://185.246.209.113/SmithsonianHD/index.m3u8
-#EXTINF:-1 tvg-id="MotorTrend.us@SD",Motor Trend (720p)
-http://185.246.209.113/MotorTrendHD/index.m3u8
-#EXTINF:-1 tvg-id="USANetwork.us@East",USA Network (720p)
-http://185.246.209.113/DISCOVERYHD/index.m3u8
 #EXTINF:-1 tvg-id="BET.us@East",BET (720p)
 http://41.205.93.154/BET-EN/index.m3u8
 #EXTINF:-1 tvg-id="BETHer.us@East",BET Her (720p)

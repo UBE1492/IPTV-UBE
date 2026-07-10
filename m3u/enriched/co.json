@@ -1,6 +1,6 @@
 {
   "name": "co",
-  "updated_at": 1783626632872,
+  "updated_at": 1783654730530,
   "m3u": "https://ube1492.github.io/IPTV-UBE/co.m3u",
   "channels": [
     {
@@ -654,6 +654,18 @@
     {
       "name": "Alerta Bogota (720p) [Geo-blocked]",
       "url": "https://mdstrm.com/live-stream-playlist/69b2cdf98815b9b6c48c2532.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Telepasto (720p)",
+      "url": "https://hvtraficonew.ddns.net/telepastobrowser/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "CNC Valledupar (720p)",
+      "url": "https://live20.bozztv.com/akamaissh101/ssh101/cncvalledupar1/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -1311,6 +1323,18 @@
       {
         "name": "Alerta Bogota (720p) [Geo-blocked]",
         "url": "https://mdstrm.com/live-stream-playlist/69b2cdf98815b9b6c48c2532.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Telepasto (720p)",
+        "url": "https://hvtraficonew.ddns.net/telepastobrowser/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "CNC Valledupar (720p)",
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/cncvalledupar1/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       }

@@ -32,3 +32,5 @@ C9N_(720p),https://d2b5h5wyivfnfl.cloudfront.net/live/48f53430-9014-4459-a048-61
 CAD_TV,https://videoserver.tmcreativos.com:19360/dcsajkpvrh/dcsajkpvrh.m3u8
 Los_Angeles_TV_Radio,https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8
 Invasiva_TV_(720p),https://tv-omega-nine.vercel.app/hls/live.m3u8
+C9N_(480p),https://d174axghh54kh0.cloudfront.net/ts:abr.m3u8
+SNT_(480p),https://d3epa8orr2qy3m.cloudfront.net/ts:abr.m3u8

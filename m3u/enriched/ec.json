@@ -1,6 +1,6 @@
 {
   "name": "ec",
-  "updated_at": 1783626630938,
+  "updated_at": 1783654729326,
   "m3u": "https://ube1492.github.io/IPTV-UBE/ec.m3u",
   "channels": [
     {
@@ -393,6 +393,12 @@
     {
       "name": "RTS (480p)",
       "url": "https://d2w3o8zn50cs1k.cloudfront.net/ts:abr.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "TVC (480i)",
+      "url": "https://d2m7i0pvomh4vg.cloudfront.net/ts:abr.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -789,6 +795,12 @@
       {
         "name": "RTS (480p)",
         "url": "https://d2w3o8zn50cs1k.cloudfront.net/ts:abr.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "TVC (480i)",
+        "url": "https://d2m7i0pvomh4vg.cloudfront.net/ts:abr.m3u8",
         "logo": "",
         "category": "Otros"
       }

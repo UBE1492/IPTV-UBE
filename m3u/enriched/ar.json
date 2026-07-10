@@ -1,6 +1,6 @@
 {
   "name": "ar",
-  "updated_at": 1783626630421,
+  "updated_at": 1783654729137,
   "m3u": "https://ube1492.github.io/IPTV-UBE/ar.m3u",
   "channels": [
     {
@@ -597,6 +597,12 @@
     {
       "name": "Disney Jr. Latin America (720p)",
       "url": "http://177.245.131.133:8080/DISNEYJR/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Radio Maria TV (1080p)",
+      "url": "https://radiomaria.inovanex.stream/stream.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -1197,6 +1203,12 @@
       {
         "name": "Disney Jr. Latin America (720p)",
         "url": "http://177.245.131.133:8080/DISNEYJR/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Radio Maria TV (1080p)",
+        "url": "https://radiomaria.inovanex.stream/stream.m3u8",
         "logo": "",
         "category": "Otros"
       }

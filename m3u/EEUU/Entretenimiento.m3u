@@ -373,8 +373,6 @@ https://streamer1.nexgen.bz/WE_TV/index.m3u8
 http://23.237.104.106:8080/USA_ION/index.m3u8
 #EXTINF:-1 tvg-id="VICETV.us@SD",VICE TV (1080p)
 http://23.237.104.106:8080/USA_VICETV/index.m3u8
-#EXTINF:-1 tvg-id="TVLand.us@East",TV Land (720p)
-http://185.246.209.113/TVLandHD/index.m3u8
 #EXTINF:-1 tvg-id="JuntosTV.pe@SD",Juntos TV (720p)
 https://live-evg8.tv360.bitel.com.pe/bitel/juntostvSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us@US",Bloomberg TV (1080p)

@@ -1,2 +1,0 @@
-Deportes,#genre#
-LIGA_1_MAX_(Op_4),http://38.210.3.64:8090/play/a0nn/index.m3u8
