@@ -32,4 +32,4 @@
 | 26 | C9N (480p) | d174axghh54kh0.cloudfront.net | <https://d174axghh54kh0.cloudfront.net/ts:abr.m3u8> |
 | 27 | SNT (480p) | d3epa8orr2qy3m.cloudfront.net | <https://d3epa8orr2qy3m.cloudfront.net/ts:abr.m3u8> |
 
-Updated at **Fri Jul 10 2026 09:40:40 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jul 10 2026 14:34:51 GMT+0000 (Coordinated Universal Time)**

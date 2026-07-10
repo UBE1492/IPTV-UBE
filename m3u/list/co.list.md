@@ -113,4 +113,4 @@
 | 107 | Telepasto (720p) | hvtraficonew.ddns.net | <https://hvtraficonew.ddns.net/telepastobrowser/playlist.m3u8> |
 | 108 | CNC Valledupar (720p) | live20.bozztv.com | <https://live20.bozztv.com/akamaissh101/ssh101/cncvalledupar1/playlist.m3u8> |
 
-Updated at **Fri Jul 10 2026 09:40:40 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jul 10 2026 14:34:51 GMT+0000 (Coordinated Universal Time)**
