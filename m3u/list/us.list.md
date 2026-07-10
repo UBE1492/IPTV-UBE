@@ -57,7 +57,7 @@
 | 51 | ATXN2 (1080p) | cdn-atxn-01.vos360.video | <https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(f97b5ddc-b7e4-dff8-9f10-8c16d0833639)/index.m3u8> |
 | 52 | ATXN3 (1080p) | cdn-atxn-01.vos360.video | <https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(c55d1594-ad62-7434-aa17-4d71adb80f99)/index.m3u8> |
 | 53 | Avang TV (1080p) | hls.avang.live | <https://hls.avang.live/hls/stream.m3u8> |
-| 54 | AWE Encore (720p) [Geo-blocked] | a-cdn.herringnetwork.com | <https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8> |
+| 54 | AWE Plus (720p) | a-cdn.herringnetwork.com | <https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8> |
 | 55 | AXN Black Romania [Not 24/7] | 315e5a5d.ottrast.com | <http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6952/index.m3u8> |
 | 56 | AXN White [Not 24/7] | 315e5a5d.ottrast.com | <http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6950/index.m3u8> |
 | 57 | Beach TV Florida & Alabama (720p) | media4.tripsmarter.com:1935 | <http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8> |
@@ -113,8 +113,8 @@
 | 107 | Classic Cinema (240p) [Not 24/7] | rpn.bozztv.com | <https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8> |
 | 108 | Cloudflare TV (720p) | cloudflare.tv | <https://cloudflare.tv/hls/live.m3u8> |
 | 109 | Clubbing TV France | d1j2csarxnwazk.cloudfront.net | <https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8> |
-| 110 | CMC (California Music Channel) (1080p) | cmc-ono.amagi.tv | <https://cmc-ono.amagi.tv/playlist.m3u8> |
-| 111 | CMC-USA (California Music Channel) (720p) | hwlive.streamingmediahosting.com | <https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8> |
+| 110 | CMC California Music Channel (1080p) [Geo-blocked] | cmc-ono.amagi.tv | <https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8> |
+| 111 | CMC-USA Country Music Channel (720p) | hwlive.streamingmediahosting.com | <https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8> |
 | 112 | CNBC Indonesia (720p) | live.cnbcindonesia.com | <https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8> |
 | 113 | Comedy Central (1080p) | IPv4 直链 | <http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8> |
 | 114 | Comedy Central Latin America (1080p) | IPv4 直链 | <http://181.119.93.83:8000/play/a1di/index.m3u8> |
@@ -299,7 +299,7 @@
 | 293 | NTD TV English UK (1080p) | ntd02.akamaized.net | <https://ntd02.akamaized.net/NTD-UK/index.m3u8> |
 | 294 | NTD TV West | live.ntdtv.com | <https://live.ntdtv.com/uwlive990/playlist.m3u8> |
 | 295 | NYXT (1080p) | reflect-stream-bronxnet.cablecast.tv | <https://reflect-stream-bronxnet.cablecast.tv/live-10/live/live.m3u8> |
-| 296 | OAN Encore (720p) [Geo-blocked] | a-cdn.herringnetwork.com | <https://a-cdn.herringnetwork.com/affiliate/oane/playlist.m3u8> |
+| 296 | OAN Plus (720p) | a-cdn.herringnetwork.com | <https://a-cdn.herringnetwork.com/affiliate/oane/playlist.m3u8> |
 | 297 | OCN TV | 5d12bc59c4748.streamlock.net | <https://5d12bc59c4748.streamlock.net/redirect/ocnbroadcasting.com/ocnbroadcasting2?type=m3u8> |
 | 298 | Payam Javan TV (720p) [Not 24/7] | uni01rtmp.tulix.tv | <https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8> |
 | 299 | Payam-e-Afghan TV (480p) [Not 24/7] | g5nl6xx5lpq6-hls-live.5centscdn.com | <https://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8> |
@@ -589,4 +589,4 @@
 | 583 | MTV Live (576p) | IPv4 直链 | <http://41.205.77.102/MTVUSA/index.m3u8> |
 | 584 | Westerns 4U (1080p) | IPv4 直链 | <http://181.224.255.210:8001/play/a0rq/index.m3u8> |
 
-Updated at **Fri Jul 10 2026 14:34:51 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jul 10 2026 19:37:19 GMT+0000 (Coordinated Universal Time)**

@@ -43,7 +43,7 @@ https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(616d6f49-eaec-6f7e-718
 https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(f97b5ddc-b7e4-dff8-9f10-8c16d0833639)/index.m3u8
 #EXTINF:-1 tvg-id="ATXN3.us@SD",ATXN3 (1080p)
 https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(c55d1594-ad62-7434-aa17-4d71adb80f99)/index.m3u8
-#EXTINF:-1 tvg-id="AWEEncore.us@SD",AWE Encore (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="AWEPlus.us@SD",AWE Plus (720p)
 https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
 #EXTINF:-1 tvg-id="AXNBlack.us@Romania",AXN Black Romania [Not 24/7]
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6952/index.m3u8
@@ -239,7 +239,7 @@ https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 #EXTINF:-1 tvg-id="NYXT.us@SD",NYXT (1080p)
 https://reflect-stream-bronxnet.cablecast.tv/live-10/live/live.m3u8
-#EXTINF:-1 tvg-id="OANEncore.us@SD",OAN Encore (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="OANPlus.us@SD",OAN Plus (720p)
 https://a-cdn.herringnetwork.com/affiliate/oane/playlist.m3u8
 #EXTINF:-1 tvg-id="PhillyCAM.us@SD",PhillyCAM (720p)
 https://livestream.telvue.com/phillycam1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8

@@ -52,7 +52,7 @@ ATXN1_(1080p),https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(616d6f49
 ATXN2_(1080p),https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(f97b5ddc-b7e4-dff8-9f10-8c16d0833639)/index.m3u8
 ATXN3_(1080p),https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(c55d1594-ad62-7434-aa17-4d71adb80f99)/index.m3u8
 Avang_TV_(1080p),https://hls.avang.live/hls/stream.m3u8
-AWE_Encore_(720p)_[Geo-blocked],https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
+AWE_Plus_(720p),https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
 AXN_Black_Romania_[Not_24/7],http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6952/index.m3u8
 AXN_White_[Not_24/7],http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6950/index.m3u8
 Beach_TV_Florida_&_Alabama_(720p),http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
@@ -108,8 +108,8 @@ Classic_Arts_Showcase_(720p),https://classicarts.akamaized.net/hls/live/1024257/
 Classic_Cinema_(240p)_[Not_24/7],https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8
 Cloudflare_TV_(720p),https://cloudflare.tv/hls/live.m3u8
 Clubbing_TV_France,https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
-CMC_(California_Music_Channel)_(1080p),https://cmc-ono.amagi.tv/playlist.m3u8
-CMC-USA_(California_Music_Channel)_(720p),https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8
+CMC_California_Music_Channel_(1080p)_[Geo-blocked],https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
+CMC-USA_Country_Music_Channel_(720p),https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8
 CNBC_Indonesia_(720p),https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 Comedy_Central_(1080p),http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 Comedy_Central_Latin_America_(1080p),http://181.119.93.83:8000/play/a1di/index.m3u8
@@ -294,7 +294,7 @@ NTD_TV_English_(720p),https://ntd02.akamaized.net/NTDA/index.m3u8
 NTD_TV_English_UK_(1080p),https://ntd02.akamaized.net/NTD-UK/index.m3u8
 NTD_TV_West,https://live.ntdtv.com/uwlive990/playlist.m3u8
 NYXT_(1080p),https://reflect-stream-bronxnet.cablecast.tv/live-10/live/live.m3u8
-OAN_Encore_(720p)_[Geo-blocked],https://a-cdn.herringnetwork.com/affiliate/oane/playlist.m3u8
+OAN_Plus_(720p),https://a-cdn.herringnetwork.com/affiliate/oane/playlist.m3u8
 OCN_TV,https://5d12bc59c4748.streamlock.net/redirect/ocnbroadcasting.com/ocnbroadcasting2?type=m3u8
 Payam_Javan_TV_(720p)_[Not_24/7],https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
 Payam-e-Afghan_TV_(480p)_[Not_24/7],https://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8

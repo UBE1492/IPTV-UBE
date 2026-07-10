@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1783694091802,
+  "updated_at": 1783712239138,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -322,7 +322,7 @@
       "category": "Otros"
     },
     {
-      "name": "AWE Encore (720p) [Geo-blocked]",
+      "name": "AWE Plus (720p)",
       "url": "https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8",
       "logo": "",
       "category": "Otros"
@@ -658,13 +658,13 @@
       "category": "Otros"
     },
     {
-      "name": "CMC (California Music Channel) (1080p)",
-      "url": "https://cmc-ono.amagi.tv/playlist.m3u8",
+      "name": "CMC California Music Channel (1080p) [Geo-blocked]",
+      "url": "https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "CMC-USA (California Music Channel) (720p)",
+      "name": "CMC-USA Country Music Channel (720p)",
       "url": "https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8",
       "logo": "",
       "category": "Otros"
@@ -1774,7 +1774,7 @@
       "category": "Otros"
     },
     {
-      "name": "OAN Encore (720p) [Geo-blocked]",
+      "name": "OAN Plus (720p)",
       "url": "https://a-cdn.herringnetwork.com/affiliate/oane/playlist.m3u8",
       "logo": "",
       "category": "Otros"
@@ -3871,7 +3871,7 @@
         "category": "Otros"
       },
       {
-        "name": "AWE Encore (720p) [Geo-blocked]",
+        "name": "AWE Plus (720p)",
         "url": "https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8",
         "logo": "",
         "category": "Otros"
@@ -4207,13 +4207,13 @@
         "category": "Otros"
       },
       {
-        "name": "CMC (California Music Channel) (1080p)",
-        "url": "https://cmc-ono.amagi.tv/playlist.m3u8",
+        "name": "CMC California Music Channel (1080p) [Geo-blocked]",
+        "url": "https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "CMC-USA (California Music Channel) (720p)",
+        "name": "CMC-USA Country Music Channel (720p)",
         "url": "https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8",
         "logo": "",
         "category": "Otros"
@@ -5323,7 +5323,7 @@
         "category": "Otros"
       },
       {
-        "name": "OAN Encore (720p) [Geo-blocked]",
+        "name": "OAN Plus (720p)",
         "url": "https://a-cdn.herringnetwork.com/affiliate/oane/playlist.m3u8",
         "logo": "",
         "category": "Otros"
