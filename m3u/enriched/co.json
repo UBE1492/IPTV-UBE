@@ -1,6 +1,6 @@
 {
   "name": "co",
-  "updated_at": 1783712239235,
+  "updated_at": 1783738411981,
   "m3u": "https://ube1492.github.io/IPTV-UBE/co.m3u",
   "channels": [
     {
@@ -666,6 +666,12 @@
     {
       "name": "CNC Valledupar (720p)",
       "url": "https://live20.bozztv.com/akamaissh101/ssh101/cncvalledupar1/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Cristovision",
+      "url": "http://186.148.196.82:8001/play/a0c3",
       "logo": "",
       "category": "Otros"
     }
@@ -1335,6 +1341,12 @@
       {
         "name": "CNC Valledupar (720p)",
         "url": "https://live20.bozztv.com/akamaissh101/ssh101/cncvalledupar1/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Cristovision",
+        "url": "http://186.148.196.82:8001/play/a0c3",
         "logo": "",
         "category": "Otros"
       }

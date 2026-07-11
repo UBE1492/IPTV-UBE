@@ -39,3 +39,13 @@ http://45.6.4.35/MAGAZINE/index.m3u8
 http://45.134.141.161:2200/ARG/Net_TV/index.m3u8
 #EXTINF:-1 tvg-id="TVCanal72.ar@SD",TV Canal 72
 https://stmv1.voxtvhd.com.br/canal72tv2/canal72tv2/playlist.m3u8
+#EXTINF:-1 tvg-id="AmericaTV.ar@SD",America TV (720p)
+http://200.91.32.158:8080/americahd/index.m3u8
+#EXTINF:-1 tvg-id="CronicaTV.ar@SD",Cronica TV (720p)
+http://200.91.32.158:8080/cronica/index.m3u8
+#EXTINF:-1 tvg-id="TECTV.ar@SD",TEC TV (576p)
+http://200.91.32.158:8080/tectv/index.m3u8
+#EXTINF:-1 tvg-id="DeporTV.ar@SD",DeporTV (720p)
+http://200.91.32.158:8080/deportv/index.m3u8
+#EXTINF:-1 tvg-id="CiudadMagazine.ar@SD",Ciudad Magazine (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36

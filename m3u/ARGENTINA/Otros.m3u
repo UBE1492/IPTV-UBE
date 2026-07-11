@@ -109,3 +109,25 @@ http://45.6.4.35/LA_NACION/index.m3u8
 http://45.6.4.35/EL_NUEVE/index.m3u8
 #EXTINF:-1 tvg-id="Argentina12.ar@SD",Argentina/12 (1080p)
 http://45.6.4.35/IP_NOTICIAS/index.m3u8
+#EXTINF:-1 tvg-id="TelevisionPublica.ar@SD",Television Publica (720p)
+http://200.91.32.158:8080/tvpublica/index.m3u8
+#EXTINF:-1 tvg-id="LaNacionPlus.ar@SD",La Nacion + (720p)
+http://200.91.32.158:8080/lnmas/index.m3u8
+#EXTINF:-1 tvg-id="ElNueve.ar@SD",El Nueve (720p)
+http://200.91.32.158:8080/canal9/index.m3u8
+#EXTINF:-1 tvg-id="Encuentro.ar@SD",Encuentro (720p)
+http://200.91.32.158:8080/encuentro/index.m3u8
+#EXTINF:-1 tvg-id="Pakapaka.ar@SD",Pakapaka (720p)
+http://200.91.32.158:8080/pakapaka/index.m3u8
+#EXTINF:-1 tvg-id="SonyChannel.ar@SD",Sony Channel (720p)
+http://200.91.32.158:8080/sony/index.m3u8
+#EXTINF:-1 tvg-id="TN.ar@SD",TN (720p)
+http://200.91.32.158:8080/tn/index.m3u8
+#EXTINF:-1 tvg-id="Volver.ar@SD",Volver (576p)
+http://200.91.32.158:8080/volver/index.m3u8
+#EXTINF:-1 tvg-id="FilmArts.ar@Panregional",Film & Arts (720p)
+http://200.91.32.158:8080/filmarts/index.m3u8
+#EXTINF:-1 tvg-id="EuropaEuropa.ar@SD",Europa Europa (720p)
+http://200.91.32.158:8080/europa/index.m3u8
+#EXTINF:-1 tvg-id="CanalRural.ar@SD",Canal Rural (576p)
+http://200.91.32.158:8080/rural/index.m3u8

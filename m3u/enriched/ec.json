@@ -1,6 +1,6 @@
 {
   "name": "ec",
-  "updated_at": 1783712238911,
+  "updated_at": 1783738411362,
   "m3u": "https://ube1492.github.io/IPTV-UBE/ec.m3u",
   "channels": [
     {
@@ -265,7 +265,7 @@
       "category": "Otros"
     },
     {
-      "name": "TVC (480p)",
+      "name": "TVC (720p)",
       "url": "https://d2qsan2ut81n2k.cloudfront.net/live/19e86940-42cc-485e-80f4-89ae27c69f1b/ts:abr.m3u8",
       "logo": "",
       "category": "Otros"
@@ -667,7 +667,7 @@
         "category": "Otros"
       },
       {
-        "name": "TVC (480p)",
+        "name": "TVC (720p)",
         "url": "https://d2qsan2ut81n2k.cloudfront.net/live/19e86940-42cc-485e-80f4-89ae27c69f1b/ts:abr.m3u8",
         "logo": "",
         "category": "Otros"

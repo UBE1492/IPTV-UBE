@@ -112,3 +112,4 @@ Canal_Institucional_(576p),http://138.121.15.230:9002/CANAL-INSTITUCIONAL/index.
 Alerta_Bogota_(720p)_[Geo-blocked],https://mdstrm.com/live-stream-playlist/69b2cdf98815b9b6c48c2532.m3u8
 Telepasto_(720p),https://hvtraficonew.ddns.net/telepastobrowser/playlist.m3u8
 CNC_Valledupar_(720p),https://live20.bozztv.com/akamaissh101/ssh101/cncvalledupar1/playlist.m3u8
+Cristovision,http://186.148.196.82:8001/play/a0c3

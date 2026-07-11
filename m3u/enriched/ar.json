@@ -1,6 +1,6 @@
 {
   "name": "ar",
-  "updated_at": 1783712238415,
+  "updated_at": 1783738410852,
   "m3u": "https://ube1492.github.io/IPTV-UBE/ar.m3u",
   "channels": [
     {
@@ -605,6 +605,165 @@
       "url": "https://radiomaria.inovanex.stream/stream.m3u8",
       "logo": "",
       "category": "Otros"
+    },
+    {
+      "name": "Telefe (720p)",
+      "url": "http://200.91.32.158:8080/telefehd/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Television Publica (720p)",
+      "url": "http://200.91.32.158:8080/tvpublica/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "TyC Sports (720p)",
+      "url": "http://200.91.32.158:8080/tychd/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "TyC Sports 2 (720p)",
+      "url": "http://200.91.32.158:8080/tyc2hd/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "America TV (720p)",
+      "url": "http://200.91.32.158:8080/americahd/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "La Nacion + (720p)",
+      "url": "http://200.91.32.158:8080/lnmas/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "El Nueve (720p)",
+      "url": "http://200.91.32.158:8080/canal9/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Cronica TV (720p)",
+      "url": "http://200.91.32.158:8080/cronica/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Encuentro (720p)",
+      "url": "http://200.91.32.158:8080/encuentro/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Pakapaka (720p)",
+      "url": "http://200.91.32.158:8080/pakapaka/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Cine.Ar (576p)",
+      "url": "http://200.91.32.158:8080/cinear/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "TEC TV (576p)",
+      "url": "http://200.91.32.158:8080/tectv/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "DeporTV (720p)",
+      "url": "http://200.91.32.158:8080/deportv/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "CM El Canal de la Musica (720p)",
+      "url": "http://200.91.32.158:8080/cm/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Disney Jr. Latin America South (576p)",
+      "url": "http://200.91.32.158:8080/disneyjr/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Fox Sports 2 (720p)",
+      "url": "http://200.91.32.158:8080/foxsports2/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Fox Sports 3 (720p)",
+      "url": "http://200.91.32.158:8080/foxsports3/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Sony Channel (720p)",
+      "url": "http://200.91.32.158:8080/sony/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "TN (720p)",
+      "url": "http://200.91.32.158:8080/tn/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Volver (576p)",
+      "url": "http://200.91.32.158:8080/volver/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Film & Arts (720p)",
+      "url": "http://200.91.32.158:8080/filmarts/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Europa Europa (720p)",
+      "url": "http://200.91.32.158:8080/europa/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "El Gourmet South (720p)",
+      "url": "http://200.91.32.158:8080/gourmet/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "America Sports (720p)",
+      "url": "http://200.91.32.158:8080/americasports/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Canal Rural (576p)",
+      "url": "http://200.91.32.158:8080/rural/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Ciudad Magazine (1080p)",
+      "url": "",
+      "logo": "",
+      "category": "Otros",
+      "options": {
+        "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+      }
     }
   ],
   "categories": {
@@ -1211,6 +1370,165 @@
         "url": "https://radiomaria.inovanex.stream/stream.m3u8",
         "logo": "",
         "category": "Otros"
+      },
+      {
+        "name": "Telefe (720p)",
+        "url": "http://200.91.32.158:8080/telefehd/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Television Publica (720p)",
+        "url": "http://200.91.32.158:8080/tvpublica/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "TyC Sports (720p)",
+        "url": "http://200.91.32.158:8080/tychd/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "TyC Sports 2 (720p)",
+        "url": "http://200.91.32.158:8080/tyc2hd/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "America TV (720p)",
+        "url": "http://200.91.32.158:8080/americahd/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "La Nacion + (720p)",
+        "url": "http://200.91.32.158:8080/lnmas/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "El Nueve (720p)",
+        "url": "http://200.91.32.158:8080/canal9/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Cronica TV (720p)",
+        "url": "http://200.91.32.158:8080/cronica/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Encuentro (720p)",
+        "url": "http://200.91.32.158:8080/encuentro/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Pakapaka (720p)",
+        "url": "http://200.91.32.158:8080/pakapaka/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Cine.Ar (576p)",
+        "url": "http://200.91.32.158:8080/cinear/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "TEC TV (576p)",
+        "url": "http://200.91.32.158:8080/tectv/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "DeporTV (720p)",
+        "url": "http://200.91.32.158:8080/deportv/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "CM El Canal de la Musica (720p)",
+        "url": "http://200.91.32.158:8080/cm/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Disney Jr. Latin America South (576p)",
+        "url": "http://200.91.32.158:8080/disneyjr/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Fox Sports 2 (720p)",
+        "url": "http://200.91.32.158:8080/foxsports2/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Fox Sports 3 (720p)",
+        "url": "http://200.91.32.158:8080/foxsports3/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Sony Channel (720p)",
+        "url": "http://200.91.32.158:8080/sony/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "TN (720p)",
+        "url": "http://200.91.32.158:8080/tn/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Volver (576p)",
+        "url": "http://200.91.32.158:8080/volver/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Film & Arts (720p)",
+        "url": "http://200.91.32.158:8080/filmarts/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Europa Europa (720p)",
+        "url": "http://200.91.32.158:8080/europa/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "El Gourmet South (720p)",
+        "url": "http://200.91.32.158:8080/gourmet/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "America Sports (720p)",
+        "url": "http://200.91.32.158:8080/americasports/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Canal Rural (576p)",
+        "url": "http://200.91.32.158:8080/rural/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Ciudad Magazine (1080p)",
+        "url": "",
+        "logo": "",
+        "category": "Otros",
+        "options": {
+          "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+        }
       }
     ]
   }

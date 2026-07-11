@@ -225,3 +225,5 @@ https://mdstrm.com/live-stream-playlist/69b2cdf98815b9b6c48c2532.m3u8
 https://hvtraficonew.ddns.net/telepastobrowser/playlist.m3u8
 #EXTINF:-1 tvg-id="CNCValledupar.co@SD",CNC Valledupar (720p)
 https://live20.bozztv.com/akamaissh101/ssh101/cncvalledupar1/playlist.m3u8
+#EXTINF:-1 tvg-id="Cristovision.co@SD",Cristovision
+http://186.148.196.82:8001/play/a0c3

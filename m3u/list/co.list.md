@@ -112,5 +112,6 @@
 | 106 | Alerta Bogota (720p) [Geo-blocked] | mdstrm.com | <https://mdstrm.com/live-stream-playlist/69b2cdf98815b9b6c48c2532.m3u8> |
 | 107 | Telepasto (720p) | hvtraficonew.ddns.net | <https://hvtraficonew.ddns.net/telepastobrowser/playlist.m3u8> |
 | 108 | CNC Valledupar (720p) | live20.bozztv.com | <https://live20.bozztv.com/akamaissh101/ssh101/cncvalledupar1/playlist.m3u8> |
+| 109 | Cristovision | IPv4 直链 | <http://186.148.196.82:8001/play/a0c3> |
 
-Updated at **Fri Jul 10 2026 19:37:19 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jul 11 2026 02:53:31 GMT+0000 (Coordinated Universal Time)**

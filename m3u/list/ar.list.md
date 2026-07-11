@@ -102,5 +102,30 @@
 | 96 | El Gourmet (720p) | IPv4 直链 | <http://177.245.131.133:8080/GOURMET/index.m3u8> |
 | 97 | Disney Jr. Latin America (720p) | IPv4 直链 | <http://177.245.131.133:8080/DISNEYJR/index.m3u8> |
 | 98 | Radio Maria TV (1080p) | radiomaria.inovanex.stream | <https://radiomaria.inovanex.stream/stream.m3u8> |
+| 99 | Telefe (720p) | IPv4 直链 | <http://200.91.32.158:8080/telefehd/index.m3u8> |
+| 100 | Television Publica (720p) | IPv4 直链 | <http://200.91.32.158:8080/tvpublica/index.m3u8> |
+| 101 | TyC Sports (720p) | IPv4 直链 | <http://200.91.32.158:8080/tychd/index.m3u8> |
+| 102 | TyC Sports 2 (720p) | IPv4 直链 | <http://200.91.32.158:8080/tyc2hd/index.m3u8> |
+| 103 | America TV (720p) | IPv4 直链 | <http://200.91.32.158:8080/americahd/index.m3u8> |
+| 104 | La Nacion + (720p) | IPv4 直链 | <http://200.91.32.158:8080/lnmas/index.m3u8> |
+| 105 | El Nueve (720p) | IPv4 直链 | <http://200.91.32.158:8080/canal9/index.m3u8> |
+| 106 | Cronica TV (720p) | IPv4 直链 | <http://200.91.32.158:8080/cronica/index.m3u8> |
+| 107 | Encuentro (720p) | IPv4 直链 | <http://200.91.32.158:8080/encuentro/index.m3u8> |
+| 108 | Pakapaka (720p) | IPv4 直链 | <http://200.91.32.158:8080/pakapaka/index.m3u8> |
+| 109 | Cine.Ar (576p) | IPv4 直链 | <http://200.91.32.158:8080/cinear/index.m3u8> |
+| 110 | TEC TV (576p) | IPv4 直链 | <http://200.91.32.158:8080/tectv/index.m3u8> |
+| 111 | DeporTV (720p) | IPv4 直链 | <http://200.91.32.158:8080/deportv/index.m3u8> |
+| 112 | CM El Canal de la Musica (720p) | IPv4 直链 | <http://200.91.32.158:8080/cm/index.m3u8> |
+| 113 | Disney Jr. Latin America South (576p) | IPv4 直链 | <http://200.91.32.158:8080/disneyjr/index.m3u8> |
+| 114 | Fox Sports 2 (720p) | IPv4 直链 | <http://200.91.32.158:8080/foxsports2/index.m3u8> |
+| 115 | Fox Sports 3 (720p) | IPv4 直链 | <http://200.91.32.158:8080/foxsports3/index.m3u8> |
+| 116 | Sony Channel (720p) | IPv4 直链 | <http://200.91.32.158:8080/sony/index.m3u8> |
+| 117 | TN (720p) | IPv4 直链 | <http://200.91.32.158:8080/tn/index.m3u8> |
+| 118 | Volver (576p) | IPv4 直链 | <http://200.91.32.158:8080/volver/index.m3u8> |
+| 119 | Film & Arts (720p) | IPv4 直链 | <http://200.91.32.158:8080/filmarts/index.m3u8> |
+| 120 | Europa Europa (720p) | IPv4 直链 | <http://200.91.32.158:8080/europa/index.m3u8> |
+| 121 | El Gourmet South (720p) | IPv4 直链 | <http://200.91.32.158:8080/gourmet/index.m3u8> |
+| 122 | America Sports (720p) | IPv4 直链 | <http://200.91.32.158:8080/americasports/index.m3u8> |
+| 123 | Canal Rural (576p) | IPv4 直链 | <http://200.91.32.158:8080/rural/index.m3u8> |
 
-Updated at **Fri Jul 10 2026 19:37:18 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jul 11 2026 02:53:30 GMT+0000 (Coordinated Universal Time)**

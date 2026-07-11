@@ -47,7 +47,7 @@
 | 41 | TV Color Canal 36 (720p) | video.compuwebecuador.com:3067 | <https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8> |
 | 42 | TV Legislativa (1080p) [Not 24/7] | streamingav.asambleanacional.gob.ec | <https://streamingav.asambleanacional.gob.ec/hls/stream.m3u8> |
 | 43 | TV Universal Ecuador (720p) | cdn.mycloudstream.io | <https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8> |
-| 44 | TVC (480p) | d2qsan2ut81n2k.cloudfront.net | <https://d2qsan2ut81n2k.cloudfront.net/live/19e86940-42cc-485e-80f4-89ae27c69f1b/ts:abr.m3u8> |
+| 44 | TVC (720p) | d2qsan2ut81n2k.cloudfront.net | <https://d2qsan2ut81n2k.cloudfront.net/live/19e86940-42cc-485e-80f4-89ae27c69f1b/ts:abr.m3u8> |
 | 45 | UEBI TV Online (720p) [Not 24/7] | ventaxtv.com:3575 | <https://ventaxtv.com:3575/live/uebilive.m3u8> |
 | 46 | UNIANDES TV (720p) [Not 24/7] | video.compuwebecuador.com:3323 | <https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8> |
 | 47 | Unsion TV (1080p) | provedores.unsion.tv:8081 | <http://provedores.unsion.tv:8081/srt/1/playlist.m3u8> |
@@ -71,4 +71,4 @@
 | 65 | RTS (480p) | d2w3o8zn50cs1k.cloudfront.net | <https://d2w3o8zn50cs1k.cloudfront.net/ts:abr.m3u8> |
 | 66 | TVC (480i) | d2m7i0pvomh4vg.cloudfront.net | <https://d2m7i0pvomh4vg.cloudfront.net/ts:abr.m3u8> |
 
-Updated at **Fri Jul 10 2026 19:37:18 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jul 11 2026 02:53:31 GMT+0000 (Coordinated Universal Time)**
