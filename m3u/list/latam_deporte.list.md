@@ -12,4 +12,4 @@
 | 6 | Fox Sports 1 (720p) | streamvidex.qzz.io | <https://streamvidex.qzz.io/videx/fox1usa/index.m3u8> |
 | 7 | ESPN Deportes (720p) | IPv4 直链 | <http://40.160.24.58/ESPN_DEPORTES/index.m3u8> |
 
-Updated at **Sat Jul 11 2026 13:26:24 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jul 11 2026 19:09:10 GMT+0000 (Coordinated Universal Time)**

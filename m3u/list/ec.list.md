@@ -71,4 +71,4 @@
 | 65 | RTS (480p) | d2w3o8zn50cs1k.cloudfront.net | <https://d2w3o8zn50cs1k.cloudfront.net/ts:abr.m3u8> |
 | 66 | TVC (480i) | d2m7i0pvomh4vg.cloudfront.net | <https://d2m7i0pvomh4vg.cloudfront.net/ts:abr.m3u8> |
 
-Updated at **Sat Jul 11 2026 13:26:25 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jul 11 2026 19:09:12 GMT+0000 (Coordinated Universal Time)**

@@ -114,4 +114,4 @@
 | 108 | CNC Valledupar (720p) | live20.bozztv.com | <https://live20.bozztv.com/akamaissh101/ssh101/cncvalledupar1/playlist.m3u8> |
 | 109 | Cristovision | IPv4 直链 | <http://186.148.196.82:8001/play/a0c3> |
 
-Updated at **Sat Jul 11 2026 13:26:26 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jul 11 2026 19:09:11 GMT+0000 (Coordinated Universal Time)**
