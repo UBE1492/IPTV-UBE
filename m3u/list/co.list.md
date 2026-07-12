@@ -118,4 +118,4 @@
 | 112 | RCN Novelas (1080p) | IPv4 直链 | <http://190.61.43.123:8081/RCNNOVELAS/index.m3u8> |
 | 113 | Rumba TV (1080p) | IPv4 直链 | <http://45.162.193.35:80/RUMBATV/index.m3u8> |
 
-Updated at **Sun Jul 12 2026 08:22:25 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jul 12 2026 13:27:01 GMT+0000 (Coordinated Universal Time)**
