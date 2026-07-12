@@ -128,4 +128,4 @@
 | 122 | America Sports (720p) | IPv4 直链 | <http://200.91.32.158:8080/americasports/index.m3u8> |
 | 123 | Canal Rural (576p) | IPv4 直链 | <http://200.91.32.158:8080/rural/index.m3u8> |
 
-Updated at **Sun Jul 12 2026 03:18:36 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jul 12 2026 08:22:25 GMT+0000 (Coordinated Universal Time)**
