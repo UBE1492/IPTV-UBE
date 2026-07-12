@@ -143,4 +143,4 @@
 | 137 | Gol (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_GOLTV/index.m3u8> |
 | 138 | A Punt (720p) | fastly.live.brightcove.com | <https://fastly.live.brightcove.com/1846756479408303045/eu-central-1/6057955885001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZWFxNWh4LmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTg4NTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1ODg1MDAxIl0sImp0aSI6IjE4NDY3NTY0Nzk0MDgzMDMwNDUifQ.o6wb_VA-TVxl3ERgr7FKLlaTjY7smErmsf73QAydySE/playlist-hls-dvr.m3u8> |
 
-Updated at **Sun Jul 12 2026 13:27:01 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jul 12 2026 19:09:37 GMT+0000 (Coordinated Universal Time)**
