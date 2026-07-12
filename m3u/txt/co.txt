@@ -113,3 +113,7 @@ Alerta_Bogota_(720p)_[Geo-blocked],https://mdstrm.com/live-stream-playlist/69b2c
 Telepasto_(720p),https://hvtraficonew.ddns.net/telepastobrowser/playlist.m3u8
 CNC_Valledupar_(720p),https://live20.bozztv.com/akamaissh101/ssh101/cncvalledupar1/playlist.m3u8
 Cristovision,http://186.148.196.82:8001/play/a0c3
+Rumba_TV,http://186.148.196.100:8000/play/a02h
+Canal_1_(1080p),http://190.61.43.123:8081/CANAL1HD/index.m3u8
+RCN_Novelas_(1080p),http://190.61.43.123:8081/RCNNOVELAS/index.m3u8
+Rumba_TV_(1080p),http://45.162.193.35:80/RUMBATV/index.m3u8

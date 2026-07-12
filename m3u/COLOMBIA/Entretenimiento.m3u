@@ -73,3 +73,7 @@ https://server.asilivehd.com:3333/live/huilatvlive.m3u8
 https://eu1.servers10.com:8081/8164/index.m3u8
 #EXTINF:-1 tvg-id="CitytvBogota.co@SD",Citytv Bogota (720p)
 http://138.186.23.7:8082/CITY/index.m3u8
+#EXTINF:-1 tvg-id="RumbaTV.co@SD",Rumba TV
+http://186.148.196.100:8000/play/a02h
+#EXTINF:-1 tvg-id="RumbaTV.co@SD",Rumba TV (1080p)
+http://45.162.193.35:80/RUMBATV/index.m3u8

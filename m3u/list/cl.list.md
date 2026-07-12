@@ -27,36 +27,35 @@
 | 21 | Canal ISB (Iglesia San Bernardo) (720p) | unlimited1-us.dps.live | <https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8> |
 | 22 | CDTV (720p) [Not 24/7] | camara.03.cl.cdnz.cl | <http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8> |
 | 23 | Chile Channel (720p) | v2.tustreaming.cl | <https://v2.tustreaming.cl/chilechannel/index.m3u8> |
-| 24 | ChileVision (1080p) | IPv4 直链 | <http://38.250.127.17:9800/play/a05h/index.m3u8> |
-| 25 | Chiloe Red 25 (720p) | v2.tustreaming.cl | <https://v2.tustreaming.cl/chiloered/index.m3u8> |
-| 26 | Click TV (Coronel) (720p) | v2.tustreaming.cl | <https://v2.tustreaming.cl/clicktv/playlist.m3u8> |
-| 27 | Contivision (720p) | unlimited6-cl.dps.live | <https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8> |
-| 28 | Dance FM (720p) | 5eaccbab48461.streamlock.net:1936 | <https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8> |
-| 29 | Décima TV (Ancud) (720p) | unlimited2-cl-isp.dps.live | <https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8> |
-| 30 | EGM Channel (480p) | paneltv.online:1936 | <https://paneltv.online:1936/8186/8186/playlist.m3u8> |
-| 31 | EnerGeek (720p) [Not 24/7] | backend.energeek.cl | <https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH> |
-| 32 | EnerGeek Fan (1080p) | backend.energeek.cl | <https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH> |
-| 33 | EnerGeek Radio (1080p) | backend.energeek.cl | <https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=ZZDemoIPTVGH> |
-| 34 | Girovisual (720p) | unlimited1-cl-isp.dps.live | <https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8> |
-| 35 | Holvoet TV (Copiapó) (720p) [Not 24/7] | unlimited1-us.dps.live | <https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8> |
-| 36 | Huasco Television | paneltv.online:1936 | <https://paneltv.online:1936/huasco/huasco/playlist.m3u8> |
-| 37 | Huasco Televisión (360p) | paneltv.online:1936 | <https://paneltv.online:1936/8024/8024/playlist.m3u8> |
-| 38 | ITV Patagonia (720p) [Not 24/7] | unlimited1-us.dps.live | <https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8> |
-| 39 | ITV Patagonia (720p) | unlimited1-cl.dps.live | <https://unlimited1-cl.dps.live/itv/itv.smil/playlist.m3u8> |
-| 40 | Kanade (1080p) | backend.energeek.cl | <https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH> |
-| 41 | La Popular TV | tv.arkeo.cl:1936 | <https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8> |
-| 42 | La Red (720p) [Not 24/7] | alba-cl-lared-lared.stream.mediatiquestream.com | <https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8> |
-| 43 | Latina Network TV (576i) | live-server.mivideo.pro:8081 | <https://live-server.mivideo.pro:8081/latinavzla/tracks-v1a1/mono.m3u8> |
-| 44 | LTV (2160p) [Not 24/7] | live.cdnlivecdn.com | <https://live.cdnlivecdn.com/live/c9fe062eed2978749aa00df6485940d298449f5e.m3u8> |
-| 45 | TVR (1080p) [Not 24/7] | unlimited1-us.dps.live | <https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8> |
-| 46 | TVR (720p) | unlimited1-cl.dps.live | <https://unlimited1-cl.dps.live/tvr/tvr.smil/playlist.m3u8> |
-| 47 | TVU Concepción (1080p) | unlimited1-cl-isp.dps.live | <https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8> |
-| 48 | U Los Lagos TV (1080p) [Not 24/7] | tv.ulagos.cl | <http://tv.ulagos.cl/web/live.m3u8> |
-| 49 | UCV TV (720p) | unlimited2-cl-isp.dps.live | <https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8> |
-| 50 | UESTV (720p) | tls-cl.cdnz.cl | <https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8> |
-| 51 | Universidad Autónoma Temuco (UATV) (1080p) [Not 24/7] | unlimited1-us.dps.live | <https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8> |
-| 52 | UTV (720p) | v2.tustreaming.cl | <https://v2.tustreaming.cl/utv/index.m3u8> |
-| 53 | V Classic TV (720p) | 5eaccbab48461.streamlock.net:1936 | <https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8> |
-| 54 | VC Online (720p) | panel.tvstream.cl:1936 | <https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8> |
+| 24 | Chiloe Red 25 (720p) | v2.tustreaming.cl | <https://v2.tustreaming.cl/chiloered/index.m3u8> |
+| 25 | Click TV (Coronel) (720p) | v2.tustreaming.cl | <https://v2.tustreaming.cl/clicktv/playlist.m3u8> |
+| 26 | Contivision (720p) | unlimited6-cl.dps.live | <https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8> |
+| 27 | Dance FM (720p) | 5eaccbab48461.streamlock.net:1936 | <https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8> |
+| 28 | Décima TV (Ancud) (720p) | unlimited2-cl-isp.dps.live | <https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8> |
+| 29 | EGM Channel (480p) | paneltv.online:1936 | <https://paneltv.online:1936/8186/8186/playlist.m3u8> |
+| 30 | EnerGeek (720p) [Not 24/7] | backend.energeek.cl | <https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH> |
+| 31 | EnerGeek Fan (1080p) | backend.energeek.cl | <https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH> |
+| 32 | EnerGeek Radio (1080p) | backend.energeek.cl | <https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=ZZDemoIPTVGH> |
+| 33 | Girovisual (720p) | unlimited1-cl-isp.dps.live | <https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8> |
+| 34 | Holvoet TV (Copiapó) (720p) [Not 24/7] | unlimited1-us.dps.live | <https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8> |
+| 35 | Huasco Television | paneltv.online:1936 | <https://paneltv.online:1936/huasco/huasco/playlist.m3u8> |
+| 36 | Huasco Televisión (360p) | paneltv.online:1936 | <https://paneltv.online:1936/8024/8024/playlist.m3u8> |
+| 37 | ITV Patagonia (720p) [Not 24/7] | unlimited1-us.dps.live | <https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8> |
+| 38 | ITV Patagonia (720p) | unlimited1-cl.dps.live | <https://unlimited1-cl.dps.live/itv/itv.smil/playlist.m3u8> |
+| 39 | Kanade (1080p) | backend.energeek.cl | <https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH> |
+| 40 | La Popular TV | tv.arkeo.cl:1936 | <https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8> |
+| 41 | La Red (720p) [Not 24/7] | alba-cl-lared-lared.stream.mediatiquestream.com | <https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8> |
+| 42 | Latina Network TV (576i) | live-server.mivideo.pro:8081 | <https://live-server.mivideo.pro:8081/latinavzla/tracks-v1a1/mono.m3u8> |
+| 43 | LTV (2160p) [Not 24/7] | live.cdnlivecdn.com | <https://live.cdnlivecdn.com/live/c9fe062eed2978749aa00df6485940d298449f5e.m3u8> |
+| 44 | TVR (1080p) [Not 24/7] | unlimited1-us.dps.live | <https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8> |
+| 45 | TVR (720p) | unlimited1-cl.dps.live | <https://unlimited1-cl.dps.live/tvr/tvr.smil/playlist.m3u8> |
+| 46 | TVU Concepción (1080p) | unlimited1-cl-isp.dps.live | <https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8> |
+| 47 | U Los Lagos TV (1080p) [Not 24/7] | tv.ulagos.cl | <http://tv.ulagos.cl/web/live.m3u8> |
+| 48 | UCV TV (720p) | unlimited2-cl-isp.dps.live | <https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8> |
+| 49 | UESTV (720p) | tls-cl.cdnz.cl | <https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8> |
+| 50 | Universidad Autónoma Temuco (UATV) (1080p) [Not 24/7] | unlimited1-us.dps.live | <https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8> |
+| 51 | UTV (720p) | v2.tustreaming.cl | <https://v2.tustreaming.cl/utv/index.m3u8> |
+| 52 | V Classic TV (720p) | 5eaccbab48461.streamlock.net:1936 | <https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8> |
+| 53 | VC Online (720p) | panel.tvstream.cl:1936 | <https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8> |
 
-Updated at **Sat Jul 11 2026 19:09:11 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jul 12 2026 03:18:36 GMT+0000 (Coordinated Universal Time)**

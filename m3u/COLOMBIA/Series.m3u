@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="RCNNovelas.co@SD",RCN Novelas (576p)
 http://181.78.8.199:8000/play/a0a7/index.m3u8
+#EXTINF:-1 tvg-id="RCNNovelas.co@SD",RCN Novelas (1080p)
+http://190.61.43.123:8081/RCNNOVELAS/index.m3u8

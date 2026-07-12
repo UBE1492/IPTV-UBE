@@ -121,3 +121,5 @@ https://hvtraficonew.ddns.net/telepastobrowser/playlist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/cncvalledupar1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cristovision.co@SD",Cristovision
 http://186.148.196.82:8001/play/a0c3
+#EXTINF:-1 tvg-id="Canal1.co@SD",Canal 1 (1080p)
+http://190.61.43.123:8081/CANAL1HD/index.m3u8

@@ -113,5 +113,9 @@
 | 107 | Telepasto (720p) | hvtraficonew.ddns.net | <https://hvtraficonew.ddns.net/telepastobrowser/playlist.m3u8> |
 | 108 | CNC Valledupar (720p) | live20.bozztv.com | <https://live20.bozztv.com/akamaissh101/ssh101/cncvalledupar1/playlist.m3u8> |
 | 109 | Cristovision | IPv4 直链 | <http://186.148.196.82:8001/play/a0c3> |
+| 110 | Rumba TV | IPv4 直链 | <http://186.148.196.100:8000/play/a02h> |
+| 111 | Canal 1 (1080p) | IPv4 直链 | <http://190.61.43.123:8081/CANAL1HD/index.m3u8> |
+| 112 | RCN Novelas (1080p) | IPv4 直链 | <http://190.61.43.123:8081/RCNNOVELAS/index.m3u8> |
+| 113 | Rumba TV (1080p) | IPv4 直链 | <http://45.162.193.35:80/RUMBATV/index.m3u8> |
 
-Updated at **Sat Jul 11 2026 19:09:11 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jul 12 2026 03:18:37 GMT+0000 (Coordinated Universal Time)**

@@ -1,6 +1,6 @@
 {
   "name": "cl",
-  "updated_at": 1783796951384,
+  "updated_at": 1783826316173,
   "m3u": "https://ube1492.github.io/IPTV-UBE/cl.m3u",
   "channels": [
     {
@@ -138,12 +138,6 @@
     {
       "name": "Chile Channel (720p)",
       "url": "https://v2.tustreaming.cl/chilechannel/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "ChileVision (1080p)",
-      "url": "http://38.250.127.17:9800/play/a05h/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -483,12 +477,6 @@
       {
         "name": "Chile Channel (720p)",
         "url": "https://v2.tustreaming.cl/chilechannel/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "ChileVision (1080p)",
-        "url": "http://38.250.127.17:9800/play/a05h/index.m3u8",
         "logo": "",
         "category": "Otros"
       },

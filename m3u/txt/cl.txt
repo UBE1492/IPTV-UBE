@@ -22,7 +22,6 @@ Canal_74_San_Antonio,https://stmv5.voxtvhd.com.br/canal74hd/canal74hd/playlist.m
 Canal_ISB_(Iglesia_San_Bernardo)_(720p),https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8
 CDTV_(720p)_[Not_24/7],http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8
 Chile_Channel_(720p),https://v2.tustreaming.cl/chilechannel/index.m3u8
-ChileVision_(1080p),http://38.250.127.17:9800/play/a05h/index.m3u8
 Chiloe_Red_25_(720p),https://v2.tustreaming.cl/chiloered/index.m3u8
 Click_TV_(Coronel)_(720p),https://v2.tustreaming.cl/clicktv/playlist.m3u8
 Contivision_(720p),https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
