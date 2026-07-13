@@ -145,4 +145,4 @@
 | 139 | Urola Telebista (416p) | 5940924978228.streamlock.net | <https://5940924978228.streamlock.net/j_Directo2/mp4:j_Directo2/playlist.m3u8> |
 | 140 | Vivamóvil (720p) | 5d8d85cf2c308.streamlock.net:1936 | <https://5d8d85cf2c308.streamlock.net:1936/AlcalaTV/endirecto/playlist.m3u8> |
 
-Updated at **Mon Jul 13 2026 14:41:17 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jul 13 2026 19:26:24 GMT+0000 (Coordinated Universal Time)**
