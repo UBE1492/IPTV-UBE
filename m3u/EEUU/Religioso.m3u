@@ -1,12 +1,20 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BetterLifeNatureChannel.us@SD",Better Life Nature Channel (480p)
-https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
-#EXTINF:-1 tvg-id="BetterLifeTV.us@SD",Better Life TV (720p)
-https://tgn.bozztv.com/betterlife/betterlife/betterlife/index.m3u8
-#EXTINF:-1 tvg-id="CTNCourtFeed.us@SD",CT-N Court Feed (360p) [Not 24/7]
-http://video.ct-n.com/live/ctnSupreme/playlist_DVR.m3u8
 #EXTINF:-1 tvg-id="GoodLife45.us@SD",GoodLife 45 (720p) [Not 24/7]
 https://2-fss-2.streamhoster.com/pl_118/201450-1248872-1/playlist.m3u8
+#EXTINF:-1 tvg-id="Lifetime.us@East",Lifetime (720p)
+http://40.160.24.53/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-id="Lifetime.us@East",Lifetime (576p)
+http://cdn.haititivi.net/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-id="LifetimeLatinAmerica.us@Panregional",Lifetime Latin America (1080p)
+http://138.121.15.230:9002/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-id="LifetimeLatinAmerica.us@Panregional",Lifetime Latin America (720p)
+http://200.91.32.158:8080/lifetime/index.m3u8
+#EXTINF:-1 tvg-id="LifetimeLatinAmerica.us@Brazil",Lifetime Latin America Brazil (720p)
+http://45.162.231.38:7779/Lifetime/index.m3u8
+#EXTINF:-1 tvg-id="LifetimeLatinAmerica.us@Mexico",Lifetime Latin America Mexico (1080p)
+http://177.245.131.133:8080/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-id="LifetimeRealWomen.us@SD",Lifetime Real Women (576p)
+http://40.160.24.58/LIFETIME_REAL_WOMEN/index.m3u8
 #EXTINF:-1 tvg-id="LifevisionTV.us@SD",LifevisionTV (406p) [Not 24/7]
 https://tgn.bozztv.com/lifevision/lifevision/index.m3u8
 #EXTINF:-1 tvg-id="SmartLifeStyleTV.us@SD",Lighting Lives Blessing Nations Smart Life Style TV (LLBN) (720p)

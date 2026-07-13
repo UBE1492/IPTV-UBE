@@ -1,22 +1,78 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="AsContenidos.bo@SD",As Contenidos (720p)
+https://master.tucableip.com/ascontenido/index.m3u8
 #EXTINF:-1 tvg-id="ATBLaPaz.bo@SD",ATB La Paz (614p) [Not 24/7]
 http://186.121.206.197/live/daniel/index.m3u8
 #EXTINF:-1 tvg-id="ATBLaPaz.bo@SD",ATB La Paz
 https://stream.atb.com.bo/live/daniel/index.m3u8
+#EXTINF:-1 tvg-id="Audiokiss.bo@SD",Audiokiss (1080p)
+https://master.tucableip.com/audiokisstv/index.m3u8
+#EXTINF:-1 tvg-id="Bolivision.bo@SD",Bolivision (1080p)
+https://d135ohnuotzzyo.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-id="Bolivision.bo@SD",Bolivision (720p)
+https://edgectc.com/BOLIVISION_HD/index.m3u8
 #EXTINF:-1 tvg-id="Bolivision.bo@SD",Bolivisión LPZ (720p)
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-id="BolivisionSantaCruz.bo@SD",Bolivision Santa Cruz (720p)
+https://d1mws3umreue1g.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-id="CadenaA.bo@SD",Cadena A (720p) [Not 24/7]
 https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal15Teleor.bo@SD",Canal 15 Teleor (720p)
+https://ares.disfrutaenlared.com:1936/activatv/activatv/playlist.m3u8
+#EXTINF:-1 tvg-id="CN3Television.bo@SD",CN3 Television (720p)
+https://edge.enhdtv.com/cn3/index.m3u8
+#EXTINF:-1 tvg-id="ELDEBER.bo@SD",EL DEBER (1080p)
+https://master.tucableip.com/eldebertv/index.m3u8
+#EXTINF:-1 tvg-id="Erbol.bo@SD",Erbol (720p)
+https://twitch-m3u8.bastypro112.workers.dev/erboldigital/index.m3u8
 #EXTINF:-1 tvg-id="F10HD.bo@SD",F10 HD [Geo-blocked]
 https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
+#EXTINF:-1 tvg-id="Gigavision.bo@SD",Gigavision (720p)
+https://tv2.bitstreaming.net:3576/multi_live/play.m3u8
+#EXTINF:-1 tvg-id="Gigavision.bo@SD",Gigavision
+https://tv.bitstreaming.net:3348/live/gigavisionlive.m3u8
+#EXTINF:-1 tvg-id="InteractivoTelevision.bo@SD",Interactivo Television (720p)
+https://mist01.homestream.fun/hls/interactivotv2/index.m3u8
+#EXTINF:-1 tvg-id="Megavision.bo@SD",Megavision (720p)
+https://twitch-m3u8.bastypro112.workers.dev/megavisionbo/index.m3u8
+#EXTINF:-1 tvg-id="PLUSTelevision.bo@SD",PLUS Television (720p)
+https://twitch-m3u8.bastypro112.workers.dev/plustelevisionbolivia/index.m3u8
+#EXTINF:-1 tvg-id="RATelevision.bo@SD",RA Television (720p)
+https://lbgo.bozztv.com/ssh101/ssh101/ratvbol/playlist.m3u8
+#EXTINF:-1 tvg-id="RedRubi.bo@SD",Red Rubi (720p)
+https://59d39900ebfb8.streamlock.net/asiesmipueblo/asiesmipueblo/playlist.m3u8
+#EXTINF:-1 tvg-id="RedUno.bo@SD",Red Uno (720p)
+https://tv.centaurychile.com/interactiva/streams/KIgB6QvZ0L8XaSLd3211668845221245.m3u8
 #EXTINF:-1 tvg-id="RedUnoSantaCruz.bo@SD",Red Uno Santa Cruz
 https://master.tucableip.com/muxredunosc/index.m3u8
+#EXTINF:-1 tvg-id="RTP.bo@SD",RTP (576p)
+https://rtp.noxun.net/hls720/stream3.m3u8
+#EXTINF:-1 tvg-id="RTP.bo@SD",RTP (480p)
+https://rtp.noxun.net/hls480/stream2.m3u8
 #EXTINF:-1 tvg-id="RTP.bo@SD",RTP
 https://rtp.noxun.net/hls/stream.m3u8
+#EXTINF:-1 tvg-id="SPCCanal15.bo@SD",SPC Canal 15 (720p)
+https://tv.centaurychile.com/magicatv/streams/22AdscM3Y6Un17Zo4747081346569358.m3u8
 #EXTINF:-1 tvg-id="TDTMultimedia.bo@SD",TDT Multimedia (720p)
-https://video01.kshost.com.br:4443/juan6318/juan6318/playlist.m3u8
+https://video01.brascast.com/juan6318/juan6318/playlist.m3u8
+#EXTINF:-1 tvg-id="TELE6.bo@SD",TELE 6 (720p)
+https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8
+#EXTINF:-1 tvg-id="TLEstrella.bo@SD",TL Estrella (720p)
+https://59d39900ebfb8.streamlock.net/teleestrella/teleestrella/playlist.m3u8
+#EXTINF:-1 tvg-id="TransMedia.bo@SD",TransMedia (720p)
+https://edge.enhdtv.com/8064/index.m3u8
 #EXTINF:-1 tvg-id="Unifranz.bo@HD",Unifranz (720p)
-https://live.enhdtv.com:8081/8192/index.m3u8
+https://edge.enhdtv.com/8192/index.m3u8
+#EXTINF:-1 tvg-id="UnitelCochabamba.bo@SD",Unitel Cochabamba (720p)
+https://lbgo.bozztv.com/ssh101/ssh101/tvjoaquiniana26/playlist.m3u8
+#EXTINF:-1 tvg-id="UnitelLaPaz.bo@SD",Unitel La Paz (720p)
+https://mdstrm.com/live-stream-playlist/6928b14aaa768aad947bf65d.m3u8
+#EXTINF:-1 tvg-id="UnitelLaPaz.bo@SD",Unitel La Paz (576p)
+http://190.60.39.195:8000/play/a01r/index.m3u8
+#EXTINF:-1 tvg-id="UnitelSantaCruz.bo@SD",Unitel Santa Cruz (1080p)
+https://master.tucableip.com/muxunitelsc/index.m3u8
+#EXTINF:-1 tvg-id="UnitelSantaCruz.bo@SD",Unitel Santa Cruz (720p)
+https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8
 #EXTINF:-1 tvg-id="UnivalleTelevision.bo@SD",Univalle Televisión (1080p)
 https://master.tucableip.com/univalletv/playlist.m3u8
 #EXTINF:-1 tvg-id="",UniversidadMayordeSanAndres (1080p) [Not 24/7]

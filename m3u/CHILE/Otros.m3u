@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="13C.cl@SD",13C (1080p)
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
+#EXTINF:-1 tvg-id="13C.cl@SD",13C (576p)
+http://45.4.1.201:8000/play/a132/index.m3u8
 #EXTINF:-1 tvg-id="13E.cl@SD",13 Entretención (720p)
 https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
 #EXTINF:-1 tvg-id="13Humor.cl@SD",13 Humor (1080p)
@@ -9,39 +11,103 @@ https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
 https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
 #EXTINF:-1 tvg-id="13Realities.cl@SD",13 Realities (1080p)
 https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
+#EXTINF:-1 tvg-id="13Rec.cl@SD",13Rec (576p)
+http://45.4.1.201:8000/play/a11i/index.m3u8
+#EXTINF:-1 tvg-id="151BPB.cl@SD",15.1 BPB (720p)
+https://v2.tustreaming.cl/enlacebpbtv/index.m3u8
+#EXTINF:-1 tvg-id="AMCanal.cl@SD",AM Canal
+https://streaming.bitsur.cl:3534/live/vdo1102live.m3u8
 #EXTINF:-1 tvg-id="BuinSomosTodos.cl@SD",Buin Somos Todos (720p) [Not 24/7]
 https://bst.buin.cl/0.m3u8
+#EXTINF:-1 tvg-id="CalderaVision.cl@SD",Caldera Vision
+https://tv.arkeo.cl:1936/kymczwbrge/kymczwbrge/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal1Nuble.cl@SD",Canal 1 Nuble
 https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal5PuertoMontt.cl@SD",Canal 5 Puerto Montt
+https://5ff3d9babae13.streamlock.net/aufymdjpjf/aufymdjpjf/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal9BioBioTelevision.cl@SD",Canal 9 Bío Bío Televisión (1080p) [Not 24/7]
 https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal13.cl@SD",Canal 13 (1080p)
 http://38.250.127.17:9800/play/a067/index.m3u8
+#EXTINF:-1 tvg-id="Canal13.cl@SD",Canal 13 (720p)
+https://pantera1-100gb-cl-movistar.dps.live/t13radio/t13radio.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal30Loncomilla.cl@SD",Canal 30 Loncomilla (720p)
+https://v1.tustreaming.cl/canal30loncomilla/index.m3u8
 #EXTINF:-1 tvg-id="Canal74SanAntonio.cl@SD",Canal 74 San Antonio
 https://stmv5.voxtvhd.com.br/canal74hd/canal74hd/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalChilote.cl@SD",Canal Chilote (720p)
+https://videostream.chileservidores.com:8081/chiloe2/index.m3u8
+#EXTINF:-1 tvg-id="CanalClaro.cl@SD",Canal Claro
+http://190.61.90.17:40000/play/a0fv/index.m3u8
+#EXTINF:-1 tvg-id="CanaldelSur.cl@SD",Canal del Sur (720p)
+https://oracle.streaminghd.cl/canal-del-sur/canal-del-sur/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalLocal.cl@SD",Canal Local (720p)
+https://v2.tustreaming.cl/canallocalcl/index.m3u8
+#EXTINF:-1 tvg-id="CanalSurvisionAlerce.cl@SD",Canal Survision Alerce (720p)
+https://s1.tvdatta.com:3384/live/canal20tvlive.m3u8
 #EXTINF:-1 tvg-id="ChileChannel.cl@SD",Chile Channel (720p)
 https://v2.tustreaming.cl/chilechannel/index.m3u8
+#EXTINF:-1 tvg-id="ChileVision.cl@SD",ChileVision (1080p)
+http://45.162.193.35/CHILEVISION/index.m3u8
 #EXTINF:-1 tvg-id="ChiloeRed25.cl@SD",Chiloe Red 25 (720p)
 https://v2.tustreaming.cl/chiloered/index.m3u8
+#EXTINF:-1 tvg-id="ChinaChannel.cl@SD",China Channel (720p)
+https://v2.tustreaming.cl/chinachannel/index.m3u8
 #EXTINF:-1 tvg-id="Contivision.cl@SD",Contivision (720p)
 https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Cooperativa.cl@SD",Cooperativa (720p)
+https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Docevision.cl@SD",Docevision (720p)
+https://live20.bozztv.com/giatvplayout7/giatv-208729/playlist.m3u8
+#EXTINF:-1 tvg-id="Docu.cl@SD",Docu. (1080p)
+http://45.162.193.35/DOCU/index.m3u8
 #EXTINF:-1 tvg-id="EGMChannel.cl@SD",EGM Channel (480p)
 https://paneltv.online:1936/8186/8186/playlist.m3u8
+#EXTINF:-1 tvg-id="El3deConce.cl@SD",El 3 de Conce
+https://5ff3d9babae13.streamlock.net/xedkektnqj/xedkektnqj/playlist.m3u8
+#EXTINF:-1 tvg-id="ElRadar.cl@SD",El Radar (720p)
+https://video.ipstream.cl:3459/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="EnLineaMaule.cl@SD",En Linea Maule (720p)
+https://v2.tustreaming.cl/enlineamauletv/index.m3u8
 #EXTINF:-1 tvg-id="EnerGeek.cl@SD",EnerGeek (720p) [Not 24/7]
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
 #EXTINF:-1 tvg-id="EnerGeekFAN.cl@SD",EnerGeek Fan (1080p)
 https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH
+#EXTINF:-1 tvg-id="Evavision.cl@SD",Evavision
+https://stmv2.voxtvhd.com.br/evavision/evavision/playlist.m3u8
+#EXTINF:-1 tvg-id="FunBox.cl@SD",FunBox
+http://186.148.196.100:8000/play/a00d
+#EXTINF:-1 tvg-id="FX.cl@SD",FX (720p)
+http://138.121.15.230:9002/FX/index.m3u8
 #EXTINF:-1 tvg-id="Girovisual.cl@SD",Girovisual (720p)
-https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8
+https://live-evg8.tv360.bitel.com.pe/bitel/girovisual/playlist.m3u8
+#EXTINF:-1 tvg-id="GVision.cl@SD",GVision (288p)
+https://videostream.chileservidores.com:8081/tome/index.m3u8
 #EXTINF:-1 tvg-id="HuascoTelevision.cl@SD",Huasco Television
 https://paneltv.online:1936/huasco/huasco/playlist.m3u8
 #EXTINF:-1 tvg-id="HuascoTelevision.cl@SD",Huasco Televisión (360p)
 https://paneltv.online:1936/8024/8024/playlist.m3u8
 #EXTINF:-1 tvg-id="Kanade.cl@SD",Kanade (1080p)
 https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH
+#EXTINF:-1 tvg-id="LaClave.cl@SD",La Clave (720p)
+https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="LaNuestra.cl@SD",La Nuestra (1080p)
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/ln/ln.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="LaRed.cl@SD",La Red (720p) [Not 24/7]
 https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-id="LaRed.cl@SD",La Red (720p)
+http://45.162.193.35/LA_RED/index.m3u8
+#EXTINF:-1 tvg-id="Maulevision.cl@SD",Maulevision (720p)
+https://v2.tustreaming.cl/maulevisiontv/index.m3u8
+#EXTINF:-1 tvg-id="Mega.cl@SD",Mega (1080p)
+http://45.162.193.35/MEGAHD/index.m3u8
+#EXTINF:-1 tvg-id="Mega.cl@SD",Mega (720p)
+https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RetroPlus2.cl@SD",Retro Plus 2 (720p)
 #EXTVLCOPT:http-referrer=https://retroplustv.com/
 #EXTINF:-1 tvg-id="VCOnline.cl@SD",VC Online (720p)
 https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8
+#EXTINF:-1 tvg-id="ViaX.cl@SD",Via X (720p)
+http://45.162.193.35/VIAX/index.m3u8
+#EXTINF:-1 tvg-id="ViaX.cl@SD",Via X (576p)
+http://45.170.130.224:8000/play/a025/index.m3u8

@@ -1,5 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ONDADIGITAL.pe@SD",ONDA DIGITAL (720p)
 https://tv.ondadigital.pe/ondadigital/index.m3u8
-#EXTINF:-1 tvg-id="BNBDigital.pe@SD",BNB Digital (720p)
-https://live-evg8.tv360.bitel.com.pe/bitel/bnbSRT/playlist.m3u8

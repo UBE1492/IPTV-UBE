@@ -1,21 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="CNBCWorld.us@SD",CNBC World (576p)
+http://40.160.24.52/CNBC_WORLD/index.m3u8
 #EXTINF:-1 tvg-id="GlobalWorldTV.us@SD",GlobalWorldTV (720p)
 https://media.streambrothers.com:1936/8052/8052/playlist.m3u8
 #EXTINF:-1 tvg-id="Go2Travel.us@SD",Go2Travel (1080p)
 https://go2thls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="ShalomWorld.us@NorthAmerica",Shalom World (1080p)
-https://broadcaster-1.cclouds.in/srt-2/channel2_abr/playlist.m3u8
-#EXTINF:-1 tvg-id="ShalomWorld.us@Australia",Shalom World Australia (1080p) [Geo-blocked]
-https://broadcaster-1.cclouds.in/srt-3/channel3_abr/playlist.m3u8
-#EXTINF:-1 tvg-id="ShalomWorld.us@Europe",Shalom World Europe (1080p)
-https://broadcaster-1.cclouds.in/srt/channel1_abr/playlist.m3u8
-#EXTINF:-1 tvg-id="ShalomWorldPrayer.us@SD",Shalom World Prayer (1080p)
-https://broadcaster-1.cclouds.in/srt-4/channel4_abr/playlist.m3u8
-#EXTINF:-1 tvg-id="TelemundoAlDia.us@HD",Telemundo Al Dia
-https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/3.m3u8
-#EXTINF:-1 tvg-id="TVSTravelNetwork.us@SD",TVS Travel Network (720p) [Not 24/7]
-https://rpn.bozztv.com/gusa/gusa-tvstravel/index.m3u8
-#EXTINF:-1 tvg-id="WorldChannel.us@SD",World Channel (1080p)
-https://world.lls.pbs.org/index.m3u8
-#EXTINF:-1 tvg-id="TelemundoInternacional.us@South",Telemundo Internacional (1080p)
-http://138.121.15.230:9002/TELEMUNDO/index.m3u8

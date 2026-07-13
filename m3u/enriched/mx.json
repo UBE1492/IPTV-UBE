@@ -1,6 +1,6 @@
 {
   "name": "mx",
-  "updated_at": 1783883377644,
+  "updated_at": 1783912878356,
   "m3u": "https://ube1492.github.io/IPTV-UBE/mx.m3u",
   "channels": [
     {
@@ -12,6 +12,30 @@
     {
       "name": "15TV (720p) [Not 24/7]",
       "url": "https://cdn.fastocloud.com/leonel.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "15TV",
+      "url": "https://servilive.com:3380/live/v3n6thy7glive.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "A+ (1080p)",
+      "url": "http://45.189.62.33:8002/play/a0oc/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Acustik TV",
+      "url": "https://s5.mexside.net:1936/clientetv/clientetv/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "ADN 40 (1080p)",
+      "url": "http://45.189.62.33:8002/play/a0ob/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -34,14 +58,38 @@
       "category": "Otros"
     },
     {
+      "name": "Antena TV",
+      "url": "https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
       "name": "Así Sucede Guanajuato (720p) [Not 24/7]",
       "url": "https://stream.oursnetworktv.com/latin/encoder13/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
+      "name": "Azteca 7 (1080p)",
+      "url": "http://45.189.62.33:8002/play/a0fm/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Azteca 7 (720p)",
+      "url": "http://177.245.131.133:8080/AZTECA7/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
       "name": "Azteca Internacional (1080p)",
       "url": "https://azt-mun.otteravision.com/azt/mun/mun.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Azteca Uno (1080p)",
+      "url": "http://45.189.62.33:8002/play/a0cc/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -66,6 +114,12 @@
     {
       "name": "California Medios TV (720p)",
       "url": "https://s5.mexside.net:1936/medios/medios/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Canal 5 (1080p)",
+      "url": "http://45.181.87.106/CANAL5HD/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -173,12 +227,36 @@
     },
     {
       "name": "Canal 28 (720p) [Not 24/7]",
-      "url": "#EXTINF:-1 tvg-id=\"IcrtvColima.mx@SD\",ICRTV Colima (1080p)",
+      "url": "#EXTINF:-1 tvg-id=\"Golden.mx@Panregional\",Golden (720p)",
       "logo": "",
       "category": "Otros",
       "options": {
         "http-referrer": "https://player.castr.com/live_bf24d4208d8611eeb116dbe87aa63be0"
       }
+    },
+    {
+      "name": "Golden Edge (1080p)",
+      "url": "http://138.186.23.7:8082/GOLDENEDGE/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Golden Edge (720p)",
+      "url": "http://177.234.249.135:8888/GoldenEdge/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Golden Plus (1080p)",
+      "url": "http://177.234.249.135:8888/GoldenPlus/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "ICRTV Colima (1080p)",
+      "url": "https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
     },
     {
       "name": "IERTBCS Canal 8.2 La Paz (1080p) [Not 24/7]",
@@ -189,6 +267,12 @@
     {
       "name": "IERTBCS Canal 8 La Paz (1080p) [Not 24/7]",
       "url": "https://s5.mexside.net:1936/xhbzc81/xhbzc81/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Imagen TV (1080p)",
+      "url": "https://igd-it-runtime.otteravision.com/igd/it/it.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -223,217 +307,70 @@
       "category": "Otros"
     },
     {
+      "name": "La Mejor TV (576p)",
+      "url": "http://45.189.62.33:8002/play/a0ls/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
       "name": "Las Estrellas (1080p)",
       "url": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "Lobo TV (720p)",
-      "url": "https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8",
+      "name": "Las Estrellas Latin America (1080p)",
+      "url": "http://177.234.249.135:8888/LasEstrellas/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "María Visión Mexico (360p) [Not 24/7]",
-      "url": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8",
+      "name": "TeleFórmula (720p)",
+      "url": "https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "Mexiquense TV (720p)",
-      "url": "https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8",
+      "name": "Telehit Musica",
+      "url": "http://190.61.55.34:2401/play/a06t/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "Monte Maria (1080p)",
-      "url": "https://5ca9af4645e15.streamlock.net/montemaria/videomontemaria/playlist.m3u8",
+      "name": "Telemax (XEWH-TDT) (1080p)",
+      "url": "https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "MVS TV [Geo-blocked]",
-      "url": "https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8",
+      "name": "Teleplay Sureste (720p)",
+      "url": "https://player.tvstream.mx/livestream/teleplay/livehd/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "Nayarit Comunica (1080p)",
-      "url": "https://live.iplanay.gob.mx/hls/nayarittv.m3u8",
+      "name": "Teleplay Sureste (360p)",
+      "url": "https://player.tvstream.mx/livestream/teleplay/livesd/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "Notigram TV (XHFGL-TDT) (1080p)",
-      "url": "https://stream.ontvmx.com/ontv/Wn3jgo4UYNSmwRDIev/playlist.m3u8",
+      "name": "Teleritmo (720p) [Not 24/7]",
+      "url": "https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "Nueve TV San Luís Potosí (720p)",
-      "url": "https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8",
+      "name": "Tlaxcala Televisión (360p) [Not 24/7]",
+      "url": "https://vid26.mega00.com:5443/live/streams/qNmc7nulmq8zPYZE1582752735050.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "Once México (1080p)",
-      "url": "https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8",
+      "name": "Tlnovelas Latin America (1080p)",
+      "url": "http://177.234.249.135:8888/Telenovelas/index.m3u8",
       "logo": "",
       "category": "Otros"
-    },
-    {
-      "name": "Presumiendo México (720p)",
-      "url": "https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "PSN (288p)",
-      "url": "https://srspsn.live/live/livestream.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "PSN Canal 45.2 (288p)",
-      "url": "https://srspsn2.live/live/livestream.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Radio y Televisión Crisol de la Alegría (1080p) [Not 24/7]",
-      "url": "https://omegaingenieria.com:19360/CRisolTVdigital-Live_abr/CRisolTVdigital-Live_abr.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Radiotele Morelia (352p)",
-      "url": "http://linkrt.ddns.net:8080/hls/rtmorelia_MID.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Raly TV (720p)",
-      "url": "https://cloudvideo.servers10.com:8081/8072/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "RCG TV (1080p)",
-      "url": "https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "RCG TV 2 (360p) [Not 24/7]",
-      "url": "https://5caf24a595d94.streamlock.net:1937/stream56/stream56/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "RCG TV (Timeshifted -2 Hours) (432p)",
-      "url": "https://video1.getstreamhosting.com:1936/8246/8246/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "RTG (720p)",
-      "url": "https://5e50264bd6766.streamlock.net/radtvguerrero/videoradtvguerrero/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "RTQ Querétaro (1080p)",
-      "url": "https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Señal España (XHUNES-TDT) (720p)",
-      "url": "https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "SET Televisión Canal 26.1 (720p) [Not 24/7]",
-      "url": "https://5d0d1d7a6be9e.streamlock.net/sicom/canal1/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "SET Televisión Canal 26.2 (720p) [Not 24/7]",
-      "url": "https://5d0d1d7a6be9e.streamlock.net/sicom/canal2/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "SIPSE TV 8.1 (1080p) [Not 24/7]",
-      "url": "https://webprod.sipse.com.mx:8080/show/merida.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "SIPSE TVCUN 8.1 (1080p) [Not 24/7]",
-      "url": "https://webprod.sipse.com.mx:8080/show/tvcun.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Sistema Michoacano de TV (1080p) [Not 24/7]",
-      "url": "https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "SIZART Canal 24 (XHZHZ-TDT) (720p)",
-      "url": "https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "SQCS Canal 4 (1080p)",
-      "url": "https://video0.rogohosting.com:19360/4982/4982.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Super9 TV (480p) [Not 24/7]",
-      "url": "https://tv.radiohosting.online:1936/TV344/TV344/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Super Channel 12 (1080p)",
-      "url": "https://servilive.com:3263/live/channel12live.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "TELE 4 Ojocaliente (720p)",
-      "url": "https://stream.oursnetworktv.com/latin/encoder53/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Tele Saltillo",
-      "url": "https://servilive.com:3879/live/telesaltillolive.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Tele UV [Not 24/7]",
-      "url": "https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Tele Yucatan (1080p) [Geo-blocked]",
-      "url": "#EXTINF:-1 tvg-id=\"TlnovelasLatinAmerica.mx@SD\",Tlnovelas Latin America (1080p)",
-      "logo": "",
-      "category": "Otros",
-      "options": {
-        "http-referrer": "https://www.teleyucatan.gob.mx/"
-      }
     }
   ],
   "categories": {
@@ -447,6 +384,30 @@
       {
         "name": "15TV (720p) [Not 24/7]",
         "url": "https://cdn.fastocloud.com/leonel.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "15TV",
+        "url": "https://servilive.com:3380/live/v3n6thy7glive.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "A+ (1080p)",
+        "url": "http://45.189.62.33:8002/play/a0oc/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Acustik TV",
+        "url": "https://s5.mexside.net:1936/clientetv/clientetv/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "ADN 40 (1080p)",
+        "url": "http://45.189.62.33:8002/play/a0ob/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -469,14 +430,38 @@
         "category": "Otros"
       },
       {
+        "name": "Antena TV",
+        "url": "https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
         "name": "Así Sucede Guanajuato (720p) [Not 24/7]",
         "url": "https://stream.oursnetworktv.com/latin/encoder13/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
+        "name": "Azteca 7 (1080p)",
+        "url": "http://45.189.62.33:8002/play/a0fm/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Azteca 7 (720p)",
+        "url": "http://177.245.131.133:8080/AZTECA7/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
         "name": "Azteca Internacional (1080p)",
         "url": "https://azt-mun.otteravision.com/azt/mun/mun.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Azteca Uno (1080p)",
+        "url": "http://45.189.62.33:8002/play/a0cc/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -501,6 +486,12 @@
       {
         "name": "California Medios TV (720p)",
         "url": "https://s5.mexside.net:1936/medios/medios/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Canal 5 (1080p)",
+        "url": "http://45.181.87.106/CANAL5HD/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -608,12 +599,36 @@
       },
       {
         "name": "Canal 28 (720p) [Not 24/7]",
-        "url": "#EXTINF:-1 tvg-id=\"IcrtvColima.mx@SD\",ICRTV Colima (1080p)",
+        "url": "#EXTINF:-1 tvg-id=\"Golden.mx@Panregional\",Golden (720p)",
         "logo": "",
         "category": "Otros",
         "options": {
           "http-referrer": "https://player.castr.com/live_bf24d4208d8611eeb116dbe87aa63be0"
         }
+      },
+      {
+        "name": "Golden Edge (1080p)",
+        "url": "http://138.186.23.7:8082/GOLDENEDGE/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Golden Edge (720p)",
+        "url": "http://177.234.249.135:8888/GoldenEdge/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Golden Plus (1080p)",
+        "url": "http://177.234.249.135:8888/GoldenPlus/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "ICRTV Colima (1080p)",
+        "url": "https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
       },
       {
         "name": "IERTBCS Canal 8.2 La Paz (1080p) [Not 24/7]",
@@ -624,6 +639,12 @@
       {
         "name": "IERTBCS Canal 8 La Paz (1080p) [Not 24/7]",
         "url": "https://s5.mexside.net:1936/xhbzc81/xhbzc81/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Imagen TV (1080p)",
+        "url": "https://igd-it-runtime.otteravision.com/igd/it/it.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -658,217 +679,70 @@
         "category": "Otros"
       },
       {
+        "name": "La Mejor TV (576p)",
+        "url": "http://45.189.62.33:8002/play/a0ls/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
         "name": "Las Estrellas (1080p)",
         "url": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "Lobo TV (720p)",
-        "url": "https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8",
+        "name": "Las Estrellas Latin America (1080p)",
+        "url": "http://177.234.249.135:8888/LasEstrellas/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "María Visión Mexico (360p) [Not 24/7]",
-        "url": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8",
+        "name": "TeleFórmula (720p)",
+        "url": "https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "Mexiquense TV (720p)",
-        "url": "https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8",
+        "name": "Telehit Musica",
+        "url": "http://190.61.55.34:2401/play/a06t/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "Monte Maria (1080p)",
-        "url": "https://5ca9af4645e15.streamlock.net/montemaria/videomontemaria/playlist.m3u8",
+        "name": "Telemax (XEWH-TDT) (1080p)",
+        "url": "https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "MVS TV [Geo-blocked]",
-        "url": "https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8",
+        "name": "Teleplay Sureste (720p)",
+        "url": "https://player.tvstream.mx/livestream/teleplay/livehd/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "Nayarit Comunica (1080p)",
-        "url": "https://live.iplanay.gob.mx/hls/nayarittv.m3u8",
+        "name": "Teleplay Sureste (360p)",
+        "url": "https://player.tvstream.mx/livestream/teleplay/livesd/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "Notigram TV (XHFGL-TDT) (1080p)",
-        "url": "https://stream.ontvmx.com/ontv/Wn3jgo4UYNSmwRDIev/playlist.m3u8",
+        "name": "Teleritmo (720p) [Not 24/7]",
+        "url": "https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "Nueve TV San Luís Potosí (720p)",
-        "url": "https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8",
+        "name": "Tlaxcala Televisión (360p) [Not 24/7]",
+        "url": "https://vid26.mega00.com:5443/live/streams/qNmc7nulmq8zPYZE1582752735050.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "Once México (1080p)",
-        "url": "https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8",
+        "name": "Tlnovelas Latin America (1080p)",
+        "url": "http://177.234.249.135:8888/Telenovelas/index.m3u8",
         "logo": "",
         "category": "Otros"
-      },
-      {
-        "name": "Presumiendo México (720p)",
-        "url": "https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "PSN (288p)",
-        "url": "https://srspsn.live/live/livestream.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "PSN Canal 45.2 (288p)",
-        "url": "https://srspsn2.live/live/livestream.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Radio y Televisión Crisol de la Alegría (1080p) [Not 24/7]",
-        "url": "https://omegaingenieria.com:19360/CRisolTVdigital-Live_abr/CRisolTVdigital-Live_abr.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Radiotele Morelia (352p)",
-        "url": "http://linkrt.ddns.net:8080/hls/rtmorelia_MID.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Raly TV (720p)",
-        "url": "https://cloudvideo.servers10.com:8081/8072/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "RCG TV (1080p)",
-        "url": "https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "RCG TV 2 (360p) [Not 24/7]",
-        "url": "https://5caf24a595d94.streamlock.net:1937/stream56/stream56/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "RCG TV (Timeshifted -2 Hours) (432p)",
-        "url": "https://video1.getstreamhosting.com:1936/8246/8246/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "RTG (720p)",
-        "url": "https://5e50264bd6766.streamlock.net/radtvguerrero/videoradtvguerrero/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "RTQ Querétaro (1080p)",
-        "url": "https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Señal España (XHUNES-TDT) (720p)",
-        "url": "https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "SET Televisión Canal 26.1 (720p) [Not 24/7]",
-        "url": "https://5d0d1d7a6be9e.streamlock.net/sicom/canal1/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "SET Televisión Canal 26.2 (720p) [Not 24/7]",
-        "url": "https://5d0d1d7a6be9e.streamlock.net/sicom/canal2/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "SIPSE TV 8.1 (1080p) [Not 24/7]",
-        "url": "https://webprod.sipse.com.mx:8080/show/merida.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "SIPSE TVCUN 8.1 (1080p) [Not 24/7]",
-        "url": "https://webprod.sipse.com.mx:8080/show/tvcun.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Sistema Michoacano de TV (1080p) [Not 24/7]",
-        "url": "https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "SIZART Canal 24 (XHZHZ-TDT) (720p)",
-        "url": "https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "SQCS Canal 4 (1080p)",
-        "url": "https://video0.rogohosting.com:19360/4982/4982.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Super9 TV (480p) [Not 24/7]",
-        "url": "https://tv.radiohosting.online:1936/TV344/TV344/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Super Channel 12 (1080p)",
-        "url": "https://servilive.com:3263/live/channel12live.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "TELE 4 Ojocaliente (720p)",
-        "url": "https://stream.oursnetworktv.com/latin/encoder53/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Tele Saltillo",
-        "url": "https://servilive.com:3879/live/telesaltillolive.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Tele UV [Not 24/7]",
-        "url": "https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Tele Yucatan (1080p) [Geo-blocked]",
-        "url": "#EXTINF:-1 tvg-id=\"TlnovelasLatinAmerica.mx@SD\",Tlnovelas Latin America (1080p)",
-        "logo": "",
-        "category": "Otros",
-        "options": {
-          "http-referrer": "https://www.teleyucatan.gob.mx/"
-        }
       }
     ]
   }

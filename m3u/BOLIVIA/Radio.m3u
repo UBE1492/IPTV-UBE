@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RadioCentro.bo@SD",Radio Centro (720p)
+https://streamlov.alsolnet.com/grupocentrobo/live/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioClasicaTV.bo@SD",Radio Clasica TV (720p)
+https://ares.disfrutaenlared.com:1936/clasica/clasica/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioGente.bo@SD",Radio Gente (720p)
+https://edge.enhdtv.com/8068/index.m3u8
+#EXTINF:-1 tvg-id="RadioKollasuyo.bo@SD",Radio Kollasuyo (720p)
+https://azura2.bitstreaming.net/hls/kollasuyo3/live.m3u8
+#EXTINF:-1 tvg-id="RadioMegaTVAmazonia.bo@SD",Radio Mega TV Amazonia (720p)
+https://ares.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioSanGabriel.bo@SD",Radio San Gabriel (720p)
+https://twitch-m3u8.bastypro112.workers.dev/radiosangabrielbolivia/index.m3u8
+#EXTINF:-1 tvg-id="RadioUniversitariaSanAndres.bo@SD",Radio Universitaria San Andres (720p)
+https://edge.enhdtv.com/8054/index.m3u8
+#EXTINF:-1 tvg-id="RadioUnoPST.bo@SD",Radio Uno PST (720p)
+https://master.tucableip.com/pstbolivia/index.m3u8

@@ -1,8 +1,32 @@
 {
   "name": "co",
-  "updated_at": 1783883378118,
+  "updated_at": 1783912878678,
   "m3u": "https://ube1492.github.io/IPTV-UBE/co.m3u",
   "channels": [
+    {
+      "name": "Alerta Bogota (720p) [Geo-blocked]",
+      "url": "https://mdstrm.com/live-stream-playlist/69b2cdf98815b9b6c48c2532.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Amaga Television (720p)",
+      "url": "https://viewhn.com/amagatelevision/sdfUYWKegHKRPpSirG/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "ANC Television (720p)",
+      "url": "https://live.amelbatv.co:81/anctvlive/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Aupur Television (1080p)",
+      "url": "https://canal.aupurtv.co/live/stream/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
     {
       "name": "Avivamiento TV (1080p) [Not 24/7]",
       "url": "https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8",
@@ -22,14 +46,56 @@
       "category": "Otros"
     },
     {
+      "name": "Buenisima Radio TV",
+      "url": "https://canal.mediaserver.com.co/live/buenisimatv.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
       "name": "BUM Televisión (720p) [Not 24/7]",
       "url": "https://movil.ejeserver.com/live/visiondorada.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
+      "name": "Cable Nobsa TV (720p)",
+      "url": "https://eu1.servers10.com:8081/8164/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Cable Sur TV",
+      "url": "https://tvlatina.live:1936/8025/8025/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Cablenoticias (720p)",
+      "url": "http://138.186.23.7:8082/CABLENOTICIAS/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
       "name": "Canal 1 (1080p) [Geo-blocked]",
       "url": "https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Canal 1 (1080p)",
+      "url": "http://190.61.43.123:8081/CANAL1HD/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Canal 1 (720p)",
+      "url": "http://177.234.249.135:8888/CANAL_UNO/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Canal 1 (576p)",
+      "url": "http://138.121.15.230:9002/CANAL-UNO/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -42,6 +108,12 @@
     {
       "name": "Canal 8 TV+ (720p)",
       "url": "https://movil.ejeserver.com/live/canal8tv.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Canal 9 Cosespu",
+      "url": "https://video2.lhdserver.es/canal9cosespu/live.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -76,8 +148,32 @@
       "category": "Otros"
     },
     {
+      "name": "Canal Capital (1080p)",
+      "url": "http://138.121.15.230:9002/CANAL-CAPITAL/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
       "name": "Canal CHD",
       "url": "https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Canal Cine Dios",
+      "url": "https://canal.mediaserver.com.co/live/cinedios.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Canal Congreso (1080p)",
+      "url": "http://138.121.15.230:9002/CANAL-CONGRESO/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Canal Dos",
+      "url": "https://stream2.micanal2.tv/hls/canal2.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -90,6 +186,12 @@
     {
       "name": "Canal Institucional (720p)",
       "url": "https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Canal Institucional (576p)",
+      "url": "http://138.121.15.230:9002/CANAL-INSTITUCIONAL/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -124,6 +226,12 @@
       "category": "Otros"
     },
     {
+      "name": "Canal RCN (1080p)",
+      "url": "http://138.121.15.230:9002/RCN/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
       "name": "Canal Telefamilia (360p) [Not 24/7]",
       "url": "https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8",
       "logo": "",
@@ -139,8 +247,44 @@
       }
     },
     {
+      "name": "Canal Womtv (720p)",
+      "url": "https://live.amelbatv.co:81/womtvlive/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
       "name": "Canica TV (240p)",
       "url": "https://stmv4.voxtvhd.com.br/canicatv/canicatv/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Caracol HD2 (1080p)",
+      "url": "http://181.78.14.26:4000/play/a00d/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Caracol TV (1080p)",
+      "url": "http://45.171.108.253:8888/CARACOL/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Cine35mm",
+      "url": "https://micanal.ovh/livestreams/262.D9DCDM7EXNRT.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Citytv Bogota (1080p)",
+      "url": "http://138.121.15.230:9002/CITY-TV/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Citytv Bogota (720p)",
+      "url": "http://138.186.23.7:8082/CITY/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -175,8 +319,26 @@
       "category": "Otros"
     },
     {
+      "name": "CNC Valledupar (720p)",
+      "url": "https://live20.bozztv.com/akamaissh101/ssh101/cncvalledupar1/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Cosmovision (720p)",
+      "url": "https://lbgo.bozztv.com/ssh101/ssh101/Cosmovisión/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
       "name": "Cristovision (720p)",
       "url": "https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Cristovision",
+      "url": "http://186.148.196.82:8001/play/a0c3",
       "logo": "",
       "category": "Otros"
     },
@@ -193,14 +355,38 @@
       "category": "Otros"
     },
     {
+      "name": "Emisora Comunitaria 104.1 FM",
+      "url": "https://104florencia.co/wp-admin/admin-ajax.php?action=frp_hls_proxy&url=https://streamyes.alsolnet.com/comunitariafm/live/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
       "name": "Eureka (1080p) [Geo-blocked]",
       "url": "https://mdstrm.com/live-stream-playlist/6952e02d19eabace52e2885f.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
+      "name": "Fiesta TV",
+      "url": "https://panelvideo1.intermediahost.co:3286/live/ruzfpkqklive.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
       "name": "Frecuencia F TV (1080p)",
       "url": "https://tv.frecuenciaf.com/live/envivo_1080p4000kbs/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Heliconia Radio TV (720p)",
+      "url": "https://eu1.servers10.com:8081/8178/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Huila TV",
+      "url": "https://server.asilivehd.com:3333/live/huilatvlive.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -229,6 +415,12 @@
       "category": "Otros"
     },
     {
+      "name": "Marsella TV",
+      "url": "https://stmv2.voxtvhd.com.br/marsella/marsella/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
       "name": "Mas Norte TV [Not 24/7]",
       "url": "https://live.arnoproducciones.com/hls/norte.m3u8",
       "logo": "",
@@ -253,6 +445,18 @@
       "category": "Otros"
     },
     {
+      "name": "Momento24",
+      "url": "https://backupmaxmedia.hvmultiplay.com/hls/stream2/momento24.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Nexo TV",
+      "url": "https://vs20.live.opencaster.com/nexotv_7576198a/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
       "name": "Noticiero 90 Minutos (1080p)",
       "url": "https://play.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/021/playlist.m3u8",
       "logo": "",
@@ -271,6 +475,18 @@
       "category": "Otros"
     },
     {
+      "name": "NTN24 (576p)",
+      "url": "http://181.78.8.199:8000/play/a0a6/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Nuestra Tele Internacional (576p)",
+      "url": "http://181.78.8.199:8000/play/a0a8/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
       "name": "Oasis TV (720p) [Not 24/7]",
       "url": "https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8",
       "logo": "",
@@ -283,8 +499,32 @@
       "category": "Otros"
     },
     {
+      "name": "Panche Television",
+      "url": "https://vs20.live.opencaster.com/panche_3c70d368/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
       "name": "Parranda Vallenata (720p)",
       "url": "https://backupmaxmedia.hvmultiplay.com/hls/stream3/parrandavallenata.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "RCN HD2 (1080p)",
+      "url": "http://181.78.14.26:4000/play/a07m/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "RCN Novelas (1080p)",
+      "url": "http://190.61.43.123:8081/RCNNOVELAS/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "RCN Novelas (576p)",
+      "url": "http://181.78.8.199:8000/play/a0a7/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -301,14 +541,44 @@
       "category": "Otros"
     },
     {
+      "name": "Rumba TV (1080p)",
+      "url": "http://45.162.193.35/RUMBATV/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Rumba TV",
+      "url": "http://186.148.196.100:8000/play/a02h",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
       "name": "Salsa Gorda Television (1080p) [Not 24/7]",
       "url": "https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
+      "name": "Salsa Latina FM",
+      "url": "https://panel.streamingmedia.com.co:3557/stream/play.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Santel TV",
+      "url": "https://tv3.bitstreaming.net:3540/live/santeltvlive.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
       "name": "Senal Colombia (720p)",
       "url": "https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Soona TV",
+      "url": "https://vs20.live.opencaster.com/soonatv_a1a564a9/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -327,6 +597,12 @@
     {
       "name": "Suram TV (720p)",
       "url": "https://us.streaminghd.cl/suramtv/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "TDI Colombia (720p)",
+      "url": "https://live.amelbatv.co:81/tdicolombiatv/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -364,8 +640,20 @@
       "category": "Otros"
     },
     {
+      "name": "TV Golfo Uraba",
+      "url": "https://stmv7.voxtvhd.com.br/golfo/golfo/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
       "name": "TV Rivera [Not 24/7]",
       "url": "https://movil.ejeserver.com/live/tvrivera.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "TVGracia",
+      "url": "https://vs20.live.opencaster.com/diego_57244803/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -382,164 +670,14 @@
       "category": "Otros"
     },
     {
-      "name": "Vive TV Colombia (1080p)",
-      "url": "http://192.144.113.132:1935/live/ViveTV/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Amaga Television (720p)",
-      "url": "https://viewhn.com/amagatelevision/sdfUYWKegHKRPpSirG/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Buenisima Radio TV",
-      "url": "https://canal.mediaserver.com.co/live/buenisimatv.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Cable Sur TV",
-      "url": "https://tvlatina.live:1936/8025/8025/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Canal 9 Cosespu",
-      "url": "https://video2.lhdserver.es/canal9cosespu/live.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Canal Cine Dios",
-      "url": "https://canal.mediaserver.com.co/live/cinedios.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Canal Dos",
-      "url": "https://stream2.micanal2.tv/hls/canal2.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Cosmovision (720p)",
-      "url": "https://lbgo.bozztv.com/ssh101/ssh101/Cosmovisi%C3%B3n/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Emisora Comunitaria 104.1 FM",
-      "url": "https://104florencia.co/wp-admin/admin-ajax.php?action=frp_hls_proxy&url=https%3A%2F%2Fstreamyes.alsolnet.com%2Fcomunitariafm%2Flive%2Fplaylist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Fiesta TV",
-      "url": "https://panelvideo1.intermediahost.co:3286/live/ruzfpkqklive.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Heliconia Radio TV (720p)",
-      "url": "https://eu1.servers10.com:8081/8178/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Marsella TV",
-      "url": "https://stmv2.voxtvhd.com.br/marsella/marsella/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Momento24",
-      "url": "https://backupmaxmedia.hvmultiplay.com/hls/stream2/momento24.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Nexo TV",
-      "url": "https://vs20.live.opencaster.com/nexotv_7576198a/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Panche Television",
-      "url": "https://vs20.live.opencaster.com/panche_3c70d368/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Salsa Latina FM",
-      "url": "https://panel.streamingmedia.com.co:3557/stream/play.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Santel TV",
-      "url": "https://tv3.bitstreaming.net:3540/live/santeltvlive.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Soona TV",
-      "url": "https://vs20.live.opencaster.com/soonatv_a1a564a9/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Tele San Jacinto",
-      "url": "https://vs20.live.opencaster.com/sjradio_4c916ece/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "TV Golfo Uraba",
-      "url": "https://stmv7.voxtvhd.com.br/golfo/golfo/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "TVGracia",
-      "url": "https://vs20.live.opencaster.com/diego_57244803/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Vahos TV",
       "url": "https://canal.vahostv.com/stream/0.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "Canal RCN (1080p)",
-      "url": "http://138.121.15.230:9002/RCN/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Caracol TV (1080p)",
-      "url": "http://138.121.15.230:9002/CARACOL/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Canal 1 (576p)",
-      "url": "http://138.121.15.230:9002/CANAL-UNO/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Canal Capital (1080p)",
-      "url": "http://138.121.15.230:9002/CANAL-CAPITAL/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Citytv Bogota (1080p)",
-      "url": "http://138.121.15.230:9002/CITY-TV/index.m3u8",
+      "name": "Vive TV Colombia (1080p)",
+      "url": "http://192.144.113.132:1935/live/ViveTV/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -548,160 +686,34 @@
       "url": "http://138.121.15.230:9002/WIN-SPORT/index.m3u8",
       "logo": "",
       "category": "Otros"
-    },
-    {
-      "name": "ANC Television (720p)",
-      "url": "https://live.amelbatv.co:81/anctvlive/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Aupur Television (1080p)",
-      "url": "https://canal.aupurtv.co/live/stream/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "RCN HD2 (1080p)",
-      "url": "http://181.78.14.26:4000/play/a07m/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Caracol HD2 (1080p)",
-      "url": "http://181.78.14.26:4000/play/a00d/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Nuestra Tele Internacional (576p)",
-      "url": "http://181.78.8.199:8000/play/a0a8/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "NTN24 (576p)",
-      "url": "http://181.78.8.199:8000/play/a0a6/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "RCN Novelas (576p)",
-      "url": "http://181.78.8.199:8000/play/a0a7/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Canal Womtv (720p)",
-      "url": "https://live.amelbatv.co:81/womtvlive/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Cine35mm",
-      "url": "https://micanal.ovh/livestreams/262.D9DCDM7EXNRT.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Huila TV",
-      "url": "https://server.asilivehd.com:3333/live/huilatvlive.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "TDI Colombia (720p)",
-      "url": "https://live.amelbatv.co:81/tdicolombiatv/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Cable Nobsa TV (720p)",
-      "url": "https://eu1.servers10.com:8081/8164/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Canal 1 (720p)",
-      "url": "http://177.234.249.135:8888/CANAL_UNO/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Cablenoticias (720p)",
-      "url": "http://138.186.23.7:8082/CABLENOTICIAS/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Citytv Bogota (720p)",
-      "url": "http://138.186.23.7:8082/CITY/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Canal Congreso (1080p)",
-      "url": "http://138.121.15.230:9002/CANAL-CONGRESO/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Canal Institucional (576p)",
-      "url": "http://138.121.15.230:9002/CANAL-INSTITUCIONAL/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Alerta Bogota (720p) [Geo-blocked]",
-      "url": "https://mdstrm.com/live-stream-playlist/69b2cdf98815b9b6c48c2532.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Telepasto (720p)",
-      "url": "https://hvtraficonew.ddns.net/telepastobrowser/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "CNC Valledupar (720p)",
-      "url": "https://live20.bozztv.com/akamaissh101/ssh101/cncvalledupar1/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Cristovision",
-      "url": "http://186.148.196.82:8001/play/a0c3",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Rumba TV",
-      "url": "http://186.148.196.100:8000/play/a02h",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Canal 1 (1080p)",
-      "url": "http://190.61.43.123:8081/CANAL1HD/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "RCN Novelas (1080p)",
-      "url": "http://190.61.43.123:8081/RCNNOVELAS/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Rumba TV (1080p)",
-      "url": "http://45.162.193.35:80/RUMBATV/index.m3u8",
-      "logo": "",
-      "category": "Otros"
     }
   ],
   "categories": {
     "Otros": [
+      {
+        "name": "Alerta Bogota (720p) [Geo-blocked]",
+        "url": "https://mdstrm.com/live-stream-playlist/69b2cdf98815b9b6c48c2532.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Amaga Television (720p)",
+        "url": "https://viewhn.com/amagatelevision/sdfUYWKegHKRPpSirG/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "ANC Television (720p)",
+        "url": "https://live.amelbatv.co:81/anctvlive/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Aupur Television (1080p)",
+        "url": "https://canal.aupurtv.co/live/stream/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
       {
         "name": "Avivamiento TV (1080p) [Not 24/7]",
         "url": "https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8",
@@ -721,14 +733,56 @@
         "category": "Otros"
       },
       {
+        "name": "Buenisima Radio TV",
+        "url": "https://canal.mediaserver.com.co/live/buenisimatv.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
         "name": "BUM Televisión (720p) [Not 24/7]",
         "url": "https://movil.ejeserver.com/live/visiondorada.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
+        "name": "Cable Nobsa TV (720p)",
+        "url": "https://eu1.servers10.com:8081/8164/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Cable Sur TV",
+        "url": "https://tvlatina.live:1936/8025/8025/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Cablenoticias (720p)",
+        "url": "http://138.186.23.7:8082/CABLENOTICIAS/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
         "name": "Canal 1 (1080p) [Geo-blocked]",
         "url": "https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Canal 1 (1080p)",
+        "url": "http://190.61.43.123:8081/CANAL1HD/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Canal 1 (720p)",
+        "url": "http://177.234.249.135:8888/CANAL_UNO/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Canal 1 (576p)",
+        "url": "http://138.121.15.230:9002/CANAL-UNO/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -741,6 +795,12 @@
       {
         "name": "Canal 8 TV+ (720p)",
         "url": "https://movil.ejeserver.com/live/canal8tv.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Canal 9 Cosespu",
+        "url": "https://video2.lhdserver.es/canal9cosespu/live.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -775,8 +835,32 @@
         "category": "Otros"
       },
       {
+        "name": "Canal Capital (1080p)",
+        "url": "http://138.121.15.230:9002/CANAL-CAPITAL/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
         "name": "Canal CHD",
         "url": "https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Canal Cine Dios",
+        "url": "https://canal.mediaserver.com.co/live/cinedios.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Canal Congreso (1080p)",
+        "url": "http://138.121.15.230:9002/CANAL-CONGRESO/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Canal Dos",
+        "url": "https://stream2.micanal2.tv/hls/canal2.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -789,6 +873,12 @@
       {
         "name": "Canal Institucional (720p)",
         "url": "https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Canal Institucional (576p)",
+        "url": "http://138.121.15.230:9002/CANAL-INSTITUCIONAL/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -823,6 +913,12 @@
         "category": "Otros"
       },
       {
+        "name": "Canal RCN (1080p)",
+        "url": "http://138.121.15.230:9002/RCN/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
         "name": "Canal Telefamilia (360p) [Not 24/7]",
         "url": "https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8",
         "logo": "",
@@ -838,8 +934,44 @@
         }
       },
       {
+        "name": "Canal Womtv (720p)",
+        "url": "https://live.amelbatv.co:81/womtvlive/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
         "name": "Canica TV (240p)",
         "url": "https://stmv4.voxtvhd.com.br/canicatv/canicatv/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Caracol HD2 (1080p)",
+        "url": "http://181.78.14.26:4000/play/a00d/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Caracol TV (1080p)",
+        "url": "http://45.171.108.253:8888/CARACOL/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Cine35mm",
+        "url": "https://micanal.ovh/livestreams/262.D9DCDM7EXNRT.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Citytv Bogota (1080p)",
+        "url": "http://138.121.15.230:9002/CITY-TV/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Citytv Bogota (720p)",
+        "url": "http://138.186.23.7:8082/CITY/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -874,8 +1006,26 @@
         "category": "Otros"
       },
       {
+        "name": "CNC Valledupar (720p)",
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/cncvalledupar1/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Cosmovision (720p)",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/Cosmovisión/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
         "name": "Cristovision (720p)",
         "url": "https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Cristovision",
+        "url": "http://186.148.196.82:8001/play/a0c3",
         "logo": "",
         "category": "Otros"
       },
@@ -892,14 +1042,38 @@
         "category": "Otros"
       },
       {
+        "name": "Emisora Comunitaria 104.1 FM",
+        "url": "https://104florencia.co/wp-admin/admin-ajax.php?action=frp_hls_proxy&url=https://streamyes.alsolnet.com/comunitariafm/live/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
         "name": "Eureka (1080p) [Geo-blocked]",
         "url": "https://mdstrm.com/live-stream-playlist/6952e02d19eabace52e2885f.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
+        "name": "Fiesta TV",
+        "url": "https://panelvideo1.intermediahost.co:3286/live/ruzfpkqklive.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
         "name": "Frecuencia F TV (1080p)",
         "url": "https://tv.frecuenciaf.com/live/envivo_1080p4000kbs/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Heliconia Radio TV (720p)",
+        "url": "https://eu1.servers10.com:8081/8178/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Huila TV",
+        "url": "https://server.asilivehd.com:3333/live/huilatvlive.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -928,6 +1102,12 @@
         "category": "Otros"
       },
       {
+        "name": "Marsella TV",
+        "url": "https://stmv2.voxtvhd.com.br/marsella/marsella/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
         "name": "Mas Norte TV [Not 24/7]",
         "url": "https://live.arnoproducciones.com/hls/norte.m3u8",
         "logo": "",
@@ -952,6 +1132,18 @@
         "category": "Otros"
       },
       {
+        "name": "Momento24",
+        "url": "https://backupmaxmedia.hvmultiplay.com/hls/stream2/momento24.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Nexo TV",
+        "url": "https://vs20.live.opencaster.com/nexotv_7576198a/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
         "name": "Noticiero 90 Minutos (1080p)",
         "url": "https://play.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/021/playlist.m3u8",
         "logo": "",
@@ -970,6 +1162,18 @@
         "category": "Otros"
       },
       {
+        "name": "NTN24 (576p)",
+        "url": "http://181.78.8.199:8000/play/a0a6/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Nuestra Tele Internacional (576p)",
+        "url": "http://181.78.8.199:8000/play/a0a8/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
         "name": "Oasis TV (720p) [Not 24/7]",
         "url": "https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8",
         "logo": "",
@@ -982,8 +1186,32 @@
         "category": "Otros"
       },
       {
+        "name": "Panche Television",
+        "url": "https://vs20.live.opencaster.com/panche_3c70d368/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
         "name": "Parranda Vallenata (720p)",
         "url": "https://backupmaxmedia.hvmultiplay.com/hls/stream3/parrandavallenata.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "RCN HD2 (1080p)",
+        "url": "http://181.78.14.26:4000/play/a07m/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "RCN Novelas (1080p)",
+        "url": "http://190.61.43.123:8081/RCNNOVELAS/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "RCN Novelas (576p)",
+        "url": "http://181.78.8.199:8000/play/a0a7/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -1000,14 +1228,44 @@
         "category": "Otros"
       },
       {
+        "name": "Rumba TV (1080p)",
+        "url": "http://45.162.193.35/RUMBATV/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Rumba TV",
+        "url": "http://186.148.196.100:8000/play/a02h",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
         "name": "Salsa Gorda Television (1080p) [Not 24/7]",
         "url": "https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
+        "name": "Salsa Latina FM",
+        "url": "https://panel.streamingmedia.com.co:3557/stream/play.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Santel TV",
+        "url": "https://tv3.bitstreaming.net:3540/live/santeltvlive.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
         "name": "Senal Colombia (720p)",
         "url": "https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Soona TV",
+        "url": "https://vs20.live.opencaster.com/soonatv_a1a564a9/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -1026,6 +1284,12 @@
       {
         "name": "Suram TV (720p)",
         "url": "https://us.streaminghd.cl/suramtv/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "TDI Colombia (720p)",
+        "url": "https://live.amelbatv.co:81/tdicolombiatv/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -1063,8 +1327,20 @@
         "category": "Otros"
       },
       {
+        "name": "TV Golfo Uraba",
+        "url": "https://stmv7.voxtvhd.com.br/golfo/golfo/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
         "name": "TV Rivera [Not 24/7]",
         "url": "https://movil.ejeserver.com/live/tvrivera.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "TVGracia",
+        "url": "https://vs20.live.opencaster.com/diego_57244803/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -1081,320 +1357,20 @@
         "category": "Otros"
       },
       {
-        "name": "Vive TV Colombia (1080p)",
-        "url": "http://192.144.113.132:1935/live/ViveTV/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Amaga Television (720p)",
-        "url": "https://viewhn.com/amagatelevision/sdfUYWKegHKRPpSirG/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Buenisima Radio TV",
-        "url": "https://canal.mediaserver.com.co/live/buenisimatv.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Cable Sur TV",
-        "url": "https://tvlatina.live:1936/8025/8025/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Canal 9 Cosespu",
-        "url": "https://video2.lhdserver.es/canal9cosespu/live.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Canal Cine Dios",
-        "url": "https://canal.mediaserver.com.co/live/cinedios.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Canal Dos",
-        "url": "https://stream2.micanal2.tv/hls/canal2.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Cosmovision (720p)",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/Cosmovisi%C3%B3n/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Emisora Comunitaria 104.1 FM",
-        "url": "https://104florencia.co/wp-admin/admin-ajax.php?action=frp_hls_proxy&url=https%3A%2F%2Fstreamyes.alsolnet.com%2Fcomunitariafm%2Flive%2Fplaylist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Fiesta TV",
-        "url": "https://panelvideo1.intermediahost.co:3286/live/ruzfpkqklive.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Heliconia Radio TV (720p)",
-        "url": "https://eu1.servers10.com:8081/8178/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Marsella TV",
-        "url": "https://stmv2.voxtvhd.com.br/marsella/marsella/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Momento24",
-        "url": "https://backupmaxmedia.hvmultiplay.com/hls/stream2/momento24.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Nexo TV",
-        "url": "https://vs20.live.opencaster.com/nexotv_7576198a/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Panche Television",
-        "url": "https://vs20.live.opencaster.com/panche_3c70d368/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Salsa Latina FM",
-        "url": "https://panel.streamingmedia.com.co:3557/stream/play.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Santel TV",
-        "url": "https://tv3.bitstreaming.net:3540/live/santeltvlive.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Soona TV",
-        "url": "https://vs20.live.opencaster.com/soonatv_a1a564a9/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Tele San Jacinto",
-        "url": "https://vs20.live.opencaster.com/sjradio_4c916ece/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "TV Golfo Uraba",
-        "url": "https://stmv7.voxtvhd.com.br/golfo/golfo/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "TVGracia",
-        "url": "https://vs20.live.opencaster.com/diego_57244803/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "Vahos TV",
         "url": "https://canal.vahostv.com/stream/0.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "Canal RCN (1080p)",
-        "url": "http://138.121.15.230:9002/RCN/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Caracol TV (1080p)",
-        "url": "http://138.121.15.230:9002/CARACOL/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Canal 1 (576p)",
-        "url": "http://138.121.15.230:9002/CANAL-UNO/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Canal Capital (1080p)",
-        "url": "http://138.121.15.230:9002/CANAL-CAPITAL/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Citytv Bogota (1080p)",
-        "url": "http://138.121.15.230:9002/CITY-TV/index.m3u8",
+        "name": "Vive TV Colombia (1080p)",
+        "url": "http://192.144.113.132:1935/live/ViveTV/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
         "name": "Win Sports (1080p)",
         "url": "http://138.121.15.230:9002/WIN-SPORT/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "ANC Television (720p)",
-        "url": "https://live.amelbatv.co:81/anctvlive/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Aupur Television (1080p)",
-        "url": "https://canal.aupurtv.co/live/stream/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "RCN HD2 (1080p)",
-        "url": "http://181.78.14.26:4000/play/a07m/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Caracol HD2 (1080p)",
-        "url": "http://181.78.14.26:4000/play/a00d/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Nuestra Tele Internacional (576p)",
-        "url": "http://181.78.8.199:8000/play/a0a8/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "NTN24 (576p)",
-        "url": "http://181.78.8.199:8000/play/a0a6/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "RCN Novelas (576p)",
-        "url": "http://181.78.8.199:8000/play/a0a7/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Canal Womtv (720p)",
-        "url": "https://live.amelbatv.co:81/womtvlive/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Cine35mm",
-        "url": "https://micanal.ovh/livestreams/262.D9DCDM7EXNRT.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Huila TV",
-        "url": "https://server.asilivehd.com:3333/live/huilatvlive.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "TDI Colombia (720p)",
-        "url": "https://live.amelbatv.co:81/tdicolombiatv/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Cable Nobsa TV (720p)",
-        "url": "https://eu1.servers10.com:8081/8164/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Canal 1 (720p)",
-        "url": "http://177.234.249.135:8888/CANAL_UNO/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Cablenoticias (720p)",
-        "url": "http://138.186.23.7:8082/CABLENOTICIAS/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Citytv Bogota (720p)",
-        "url": "http://138.186.23.7:8082/CITY/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Canal Congreso (1080p)",
-        "url": "http://138.121.15.230:9002/CANAL-CONGRESO/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Canal Institucional (576p)",
-        "url": "http://138.121.15.230:9002/CANAL-INSTITUCIONAL/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Alerta Bogota (720p) [Geo-blocked]",
-        "url": "https://mdstrm.com/live-stream-playlist/69b2cdf98815b9b6c48c2532.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Telepasto (720p)",
-        "url": "https://hvtraficonew.ddns.net/telepastobrowser/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "CNC Valledupar (720p)",
-        "url": "https://live20.bozztv.com/akamaissh101/ssh101/cncvalledupar1/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Cristovision",
-        "url": "http://186.148.196.82:8001/play/a0c3",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Rumba TV",
-        "url": "http://186.148.196.100:8000/play/a02h",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Canal 1 (1080p)",
-        "url": "http://190.61.43.123:8081/CANAL1HD/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "RCN Novelas (1080p)",
-        "url": "http://190.61.43.123:8081/RCNNOVELAS/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Rumba TV (1080p)",
-        "url": "http://45.162.193.35:80/RUMBATV/index.m3u8",
         "logo": "",
         "category": "Otros"
       }

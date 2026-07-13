@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GoLochTelTV.bo@SD",GoLochTel TV (576p)
+https://lbgo.bozztv.com/ssh101/ssh101/songsofangels33/playlist.m3u8
+#EXTINF:-1 tvg-id="TigoSports.bo@SD",Tigo Sports (1080p)
+https://master.tucableip.com/Amistoso/index.m3u8
+#EXTINF:-1 tvg-id="TigoSports.bo@SD",Tigo Sports (720p) [Geo-blocked]
+https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index.m3u8

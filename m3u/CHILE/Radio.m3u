@@ -1,7 +1,29 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AERadioTV.cl@SD",AE Radio TV (720p) [Not 24/7]
 https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8
+#EXTINF:-1 tvg-id="ChocolateFM.cl@SD",Chocolate FM (720p)
+https://5eaccbab48461.streamlock.net:1936/8180/8180/playlist.m3u8
+#EXTINF:-1 tvg-id="CiudadanoRadio.cl@SD",Ciudadano Radio (720p)
+https://oracle.streaminghd.cl/ciudadanoradiotv/ciudadanoradiotv/playlist.m3u8
 #EXTINF:-1 tvg-id="DanceFM.cl@SD",Dance FM (720p)
 https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
+#EXTINF:-1 tvg-id="DiferenciaRadioTV.cl@SD",Diferencia Radio TV
+https://s1.radiumcast.top/memfs/674b2d4f-7d6e-49be-9c6c-3094868259d9.m3u8
 #EXTINF:-1 tvg-id="EnerGeekRadio.cl@SD",EnerGeek Radio (1080p)
 https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=ZZDemoIPTVGH
+#EXTINF:-1 tvg-id="FMPlusTV.cl@SD",FM Plus TV (720p)
+https://v2.tustreaming.cl/fmplus/index.m3u8
+#EXTINF:-1 tvg-id="RadioUC.cl@SD",Radio UC (720p)
+https://oracle.streaminghd.cl/radiouc/radiouc/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioUNIACC.cl@SD",Radio UNIACC (720p)
+https://scl.edge.grupoz.cl/uniaccastream/live/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioUniversal.cl@SD",Radio Universal (720p)
+https://videostream.chileservidores.com:8081/universal/index.m3u8
+#EXTINF:-1 tvg-id="RadioUSACH.cl@SD",Radio USACH (720p)
+https://rusach2.janus.cl/playlist/stream.m3u8
+#EXTINF:-1 tvg-id="RadioViaLibre.cl@SD",Radio Via Libre (720p)
+https://live20.bozztv.com/akamaissh101/ssh101/vialibretv/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioVidaCurico.cl@SD",Radio Vida Curico (720p)
+https://v2.tustreaming.cl/radiovidacurico/index.m3u8
+#EXTINF:-1 tvg-id="RadioZona903.cl@SD",Radio Zona 90.3 (720p)
+https://live.tvcontrolcp.com:8081/radiozona/index.m3u8

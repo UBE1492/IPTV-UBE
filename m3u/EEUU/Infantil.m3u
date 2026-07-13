@@ -1,29 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AghapyKids.us@SD",Aghapy Kids (1080p)
 https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.us@East",Disney Junior (1080i)
-http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
-#EXTINF:-1 tvg-id="DisneyXD.us@East",Disney XD (720p)
-http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.us@East",Nickelodeon (1080p)
-http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.us@East",Nickelodeon (576i)
-http://79.127.207.193/Nickelodeon/playlist.m3u8
-#EXTINF:-1 tvg-id="PBSKids.us@SD",PBS Kids (720p)
-https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
-#EXTINF:-1 tvg-id="PBSKidsHawaii.us@SD",PBS Kids Hawaii (720p)
-https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8
-#EXTINF:-1 tvg-id="NickJr.us@East",Nick Jr. (576p)
-http://84.17.50.102/nickjr/index.m3u8
-#EXTINF:-1 tvg-id="Nicktoons.us@East",Nicktoons (720p)
-http://41.205.93.154/NICKTOONS/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.us@East",Nickelodeon (720p)
-http://198.58.104.90:8989/nickelodeon/index.m3u8
-#EXTINF:-1 tvg-id="KidsStreet.us@SD",Kids Street (1080p)
+#EXTINF:-1 tvg-id="",Kids Street (1080p)
 http://181.78.121.15:8000/play/a00a/index.m3u8
-#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@Panregional",Nickelodeon Latin America (1080p)
-http://179.60.51.134:8888/NICK/index.m3u8
-#EXTINF:-1 tvg-id="NickJrLatinAmerica.us@Panregional",Nick Jr. Latin America (1080p)
-http://179.60.51.134:8888/NICK-JR/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.us@East",Nickelodeon (576p)
-http://84.17.50.102/nickelodeon/index.m3u8
+#EXTINF:-1 tvg-id="MeTVToons.us@SD",MeTV Toons (720p)
+http://206.212.244.63/112/index.m3u8

@@ -4,12 +4,12 @@
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
-| 1 | beIN SPORTS XTRA (1080p) | bein-xtra-bein.amagi.tv | <https://bein-xtra-bein.amagi.tv/playlist.m3u8> |
-| 2 | beIN Sports USA (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_BEIN/index.m3u8> |
-| 3 | ESPNU (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_ESPNU/index.m3u8> |
-| 4 | ESPNews (720p) | IPv4 直链 | <http://41.223.30.230/ESPNNEWS/index.m3u8> |
-| 5 | Fox Sports 1 | cdn.haititivi.com | <http://cdn.haititivi.com/Fox_Sports_1/index.m3u8> |
-| 6 | Fox Sports 1 (720p) | streamvidex.qzz.io | <https://streamvidex.qzz.io/videx/fox1usa/index.m3u8> |
-| 7 | ESPN Deportes (720p) | IPv4 直链 | <http://40.160.24.58/ESPN_DEPORTES/index.m3u8> |
+| 1 | beIN Sports USA (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_BEIN/index.m3u8> |
+| 2 | beIN SPORTS XTRA (1080p) | bein-xtra-bein.amagi.tv | <https://bein-xtra-bein.amagi.tv/playlist.m3u8> |
+| 3 | ESPN Deportes (720p) | IPv4 直链 | <http://40.160.24.58/ESPN_DEPORTES/index.m3u8> |
+| 4 | ESPNews (720p) | IPv4 直链 | <http://40.160.24.52/ESPN_NEWS/index.m3u8> |
+| 5 | ESPNU (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_ESPNU/index.m3u8> |
+| 6 | Fox Sports 1 (720p) | IPv4 直链 | <http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8> |
+| 7 | Fox Sports 1 | cdn.haititivi.com | <http://cdn.haititivi.com/Fox_Sports_1/index.m3u8> |
 
-Updated at **Sun Jul 12 2026 19:09:36 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jul 13 2026 03:21:17 GMT+0000 (Coordinated Universal Time)**

@@ -1,8 +1,14 @@
 {
   "name": "latam_deporte",
-  "updated_at": 1783883376994,
+  "updated_at": 1783912877174,
   "m3u": "https://ube1492.github.io/IPTV-UBE/latam_deporte.m3u",
   "channels": [
+    {
+      "name": "beIN Sports USA (720p)",
+      "url": "http://23.237.104.106:8080/USA_BEIN/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
     {
       "name": "beIN SPORTS XTRA (1080p)",
       "url": "https://bein-xtra-bein.amagi.tv/playlist.m3u8",
@@ -10,8 +16,14 @@
       "category": "Otros"
     },
     {
-      "name": "beIN Sports USA (720p)",
-      "url": "http://23.237.104.106:8080/USA_BEIN/index.m3u8",
+      "name": "ESPN Deportes (720p)",
+      "url": "http://40.160.24.58/ESPN_DEPORTES/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "ESPNews (720p)",
+      "url": "http://40.160.24.52/ESPN_NEWS/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -22,8 +34,8 @@
       "category": "Otros"
     },
     {
-      "name": "ESPNews (720p)",
-      "url": "http://41.223.30.230/ESPNNEWS/index.m3u8",
+      "name": "Fox Sports 1 (720p)",
+      "url": "http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -32,22 +44,16 @@
       "url": "http://cdn.haititivi.com/Fox_Sports_1/index.m3u8",
       "logo": "",
       "category": "Otros"
-    },
-    {
-      "name": "Fox Sports 1 (720p)",
-      "url": "https://streamvidex.qzz.io/videx/fox1usa/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "ESPN Deportes (720p)",
-      "url": "http://40.160.24.58/ESPN_DEPORTES/index.m3u8",
-      "logo": "",
-      "category": "Otros"
     }
   ],
   "categories": {
     "Otros": [
+      {
+        "name": "beIN Sports USA (720p)",
+        "url": "http://23.237.104.106:8080/USA_BEIN/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
       {
         "name": "beIN SPORTS XTRA (1080p)",
         "url": "https://bein-xtra-bein.amagi.tv/playlist.m3u8",
@@ -55,8 +61,14 @@
         "category": "Otros"
       },
       {
-        "name": "beIN Sports USA (720p)",
-        "url": "http://23.237.104.106:8080/USA_BEIN/index.m3u8",
+        "name": "ESPN Deportes (720p)",
+        "url": "http://40.160.24.58/ESPN_DEPORTES/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "ESPNews (720p)",
+        "url": "http://40.160.24.52/ESPN_NEWS/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -67,26 +79,14 @@
         "category": "Otros"
       },
       {
-        "name": "ESPNews (720p)",
-        "url": "http://41.223.30.230/ESPNNEWS/index.m3u8",
+        "name": "Fox Sports 1 (720p)",
+        "url": "http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
         "name": "Fox Sports 1",
         "url": "http://cdn.haititivi.com/Fox_Sports_1/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Fox Sports 1 (720p)",
-        "url": "https://streamvidex.qzz.io/videx/fox1usa/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "ESPN Deportes (720p)",
-        "url": "http://40.160.24.58/ESPN_DEPORTES/index.m3u8",
         "logo": "",
         "category": "Otros"
       }
