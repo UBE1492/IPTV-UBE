@@ -1,6 +1,6 @@
 {
   "name": "py",
-  "updated_at": 1784016724095,
+  "updated_at": 1784037067224,
   "m3u": "https://ube1492.github.io/IPTV-UBE/py.m3u",
   "channels": [
     {
@@ -48,6 +48,12 @@
     {
       "name": "Bruno Masi TV (720p)",
       "url": "https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Canal 5 TV Max (1080p)",
+      "url": "https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -148,7 +154,7 @@
       "category": "Otros"
     },
     {
-      "name": "Nanduti (720p)",
+      "name": "Nanduti (1080p)",
       "url": "#EXTINF:-1 tvg-id=\"OasisTV.py@SD\",Oasis TV (720p)",
       "logo": "",
       "category": "Otros",
@@ -379,6 +385,12 @@
         "category": "Otros"
       },
       {
+        "name": "Canal 5 TV Max (1080p)",
+        "url": "https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
         "name": "C9N (1080p)",
         "url": "https://alba-py-c9n-c9n.stream.mediatiquestream.com/index.m3u8",
         "logo": "",
@@ -475,7 +487,7 @@
         "category": "Otros"
       },
       {
-        "name": "Nanduti (720p)",
+        "name": "Nanduti (1080p)",
         "url": "#EXTINF:-1 tvg-id=\"OasisTV.py@SD\",Oasis TV (720p)",
         "logo": "",
         "category": "Otros",

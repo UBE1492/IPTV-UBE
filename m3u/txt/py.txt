@@ -7,6 +7,7 @@ Almaya_TV_(720p),https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8
 Alt_Media_TV,https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8
 America_Paraguay,http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/83.m3u8
 Bruno_Masi_TV_(720p),https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
+Canal_5_TV_Max_(1080p),https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8
 C9N_(1080p),https://alba-py-c9n-c9n.stream.mediatiquestream.com/index.m3u8
 C9N_(720p),https://d2b5h5wyivfnfl.cloudfront.net/live/48f53430-9014-4459-a048-6169dac14140/ts:abr.m3u8
 C9N_(480p),https://d174axghh54kh0.cloudfront.net/ts:abr.m3u8
@@ -25,7 +26,7 @@ Invasiva_TV_(720p),http://cdn.cl.scl.edge.01.zplay.cl/Invasiva/video.m3u8?token=
 Latele_(1080p),#EXTVLCOPT:http-referrer=https://www.latele.com.py/en-vivo
 Nande_Portetepe_TV,https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8
 Nandejara_Ne'e_TV,https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion
-Nanduti_(720p),#EXTVLCOPT:http-referrer=https://nanduti.com.py/nanduti-tv
+Nanduti_(1080p),#EXTVLCOPT:http-referrer=https://nanduti.com.py/nanduti-tv
 Oasis_TV_(720p),https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8
 Obedira_TV,https://video.hostingcaaguazu.com:19360/obediratv/obediratv.m3u8
 Occidental_TV,https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8
