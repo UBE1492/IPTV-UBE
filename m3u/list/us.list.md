@@ -332,4 +332,4 @@
 | 326 | Canal Infantil | IPv4 直链 | <http://177.234.218.66:8084/play/a01x/index.m3u8> |
 | 327 | NorCast Weather (1080p) | norcast-weather.streamology.live | <https://norcast-weather.streamology.live/api/v1/streams/c1b5b114698e1ad4687153c4402d5ef0/live.m3u8> |
 
-Updated at **Tue Jul 14 2026 13:51:06 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jul 14 2026 19:24:06 GMT+0000 (Coordinated Universal Time)**
