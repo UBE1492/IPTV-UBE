@@ -5,3 +5,5 @@ https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8
 http://181.78.121.15:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="MeTVToons.us@SD",MeTV Toons (720p)
 http://206.212.244.63/112/index.m3u8
+#EXTINF:-1 tvg-id="CanalInfantil.us@SD",Canal Infantil
+http://177.234.218.66:8084/play/a01x/index.m3u8

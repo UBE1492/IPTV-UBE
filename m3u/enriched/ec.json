@@ -1,6 +1,6 @@
 {
   "name": "ec",
-  "updated_at": 1783970784163,
+  "updated_at": 1783997123630,
   "m3u": "https://ube1492.github.io/IPTV-UBE/ec.m3u",
   "channels": [
     {
@@ -351,6 +351,12 @@
     {
       "name": "Zaracay TV (1080p) [Not 24/7]",
       "url": "https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "TC Television",
+      "url": "http://177.234.218.66:8084/play/a089/index.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -705,6 +711,12 @@
       {
         "name": "Zaracay TV (1080p) [Not 24/7]",
         "url": "https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "TC Television",
+        "url": "http://177.234.218.66:8084/play/a089/index.m3u8",
         "logo": "",
         "category": "Otros"
       }

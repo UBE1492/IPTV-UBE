@@ -35,3 +35,5 @@ https://live.fansplay.tv/livestreams/45.b0JPENQx19PG2pxg.m3u8
 https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8
 #EXTINF:-1 tvg-id="WuanPlus.ec@SD",Wuan+
 https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8
+#EXTINF:-1 tvg-id="TCTelevision.ec@SD",TC Television
+http://177.234.218.66:8084/play/a089/index.m3u8

@@ -62,5 +62,6 @@
 | 56 | Vos y TV (720p) [Not 24/7] | cloud37.ecuatel.com | <https://cloud37.ecuatel.com/vostv/live/manifest.m3u8> |
 | 57 | Wuan+ | 7.innovatestream.pe:19360 | <https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8> |
 | 58 | Zaracay TV (1080p) [Not 24/7] | video2.makrodigital.com | <https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8> |
+| 59 | TC Television | IPv4 直链 | <http://177.234.218.66:8084/play/a089/index.m3u8> |
 
-Updated at **Mon Jul 13 2026 19:26:24 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jul 14 2026 02:45:23 GMT+0000 (Coordinated Universal Time)**

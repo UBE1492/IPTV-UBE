@@ -326,5 +326,10 @@
 | 320 | SportsNet New York (1080p) | IPv4 直链 | <http://40.160.24.55/SNY/index.m3u8> |
 | 321 | St Lucie Public Schools | reflect-stlucie-ps-fl.cablecast.tv | <https://reflect-stlucie-ps-fl.cablecast.tv/live-1/live/stream-1/WIFI-1896k-720p.m3u8> |
 | 322 | Star Channel Latin America (1080p) | IPv4 直链 | <http://45.162.193.35/STAR_CHANNEL/index.m3u8> |
+| 323 | Bark TV (1080p) | bbb-barkt-streamstak.otteravision.com | <https://bbb-barkt-streamstak.otteravision.com/bbb/barkt/barkt.m3u8> |
+| 324 | NBC LX Home (1080p) | plex-xumoent-ch485-e7l5l.fast.nbcuni.com | <https://plex-xumoent-ch485-e7l5l.fast.nbcuni.com/live/master_5.m3u8> |
+| 325 | Cine Familiar | IPv4 直链 | <http://177.234.218.66:8084/play/a001/index.m3u8> |
+| 326 | Canal Infantil | IPv4 直链 | <http://177.234.218.66:8084/play/a01x/index.m3u8> |
+| 327 | NorCast Weather (1080p) | norcast-weather.streamology.live | <https://norcast-weather.streamology.live/api/v1/streams/c1b5b114698e1ad4687153c4402d5ef0/live.m3u8> |
 
-Updated at **Mon Jul 13 2026 19:26:24 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jul 14 2026 02:45:23 GMT+0000 (Coordinated Universal Time)**

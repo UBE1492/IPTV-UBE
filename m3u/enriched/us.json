@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1783970784441,
+  "updated_at": 1783997123704,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -1967,6 +1967,36 @@
       "options": {
         "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
       }
+    },
+    {
+      "name": "Bark TV (1080p)",
+      "url": "https://bbb-barkt-streamstak.otteravision.com/bbb/barkt/barkt.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "NBC LX Home (1080p)",
+      "url": "https://plex-xumoent-ch485-e7l5l.fast.nbcuni.com/live/master_5.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Cine Familiar",
+      "url": "http://177.234.218.66:8084/play/a001/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Canal Infantil",
+      "url": "http://177.234.218.66:8084/play/a01x/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "NorCast Weather (1080p)",
+      "url": "https://norcast-weather.streamology.live/api/v1/streams/c1b5b114698e1ad4687153c4402d5ef0/live.m3u8",
+      "logo": "",
+      "category": "Otros"
     }
   ],
   "categories": {
@@ -3935,6 +3965,36 @@
         "options": {
           "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "Bark TV (1080p)",
+        "url": "https://bbb-barkt-streamstak.otteravision.com/bbb/barkt/barkt.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "NBC LX Home (1080p)",
+        "url": "https://plex-xumoent-ch485-e7l5l.fast.nbcuni.com/live/master_5.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Cine Familiar",
+        "url": "http://177.234.218.66:8084/play/a001/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Canal Infantil",
+        "url": "http://177.234.218.66:8084/play/a01x/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "NorCast Weather (1080p)",
+        "url": "https://norcast-weather.streamology.live/api/v1/streams/c1b5b114698e1ad4687153c4402d5ef0/live.m3u8",
+        "logo": "",
+        "category": "Otros"
       }
     ]
   }
