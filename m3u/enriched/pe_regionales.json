@@ -1,12 +1,24 @@
 {
   "name": "pe_regionales",
-  "updated_at": 1784057054577,
+  "updated_at": 1784083437279,
   "m3u": "https://ube1492.github.io/IPTV-UBE/pe_regionales.m3u",
   "channels": [
+    {
+      "name": "Autentica TV | PE",
+      "url": "https://live.obslivestream.com/autenticatvmux/index.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/1089_Autentica_TV.png",
+      "category": "Without category"
+    },
     {
       "name": "Turbo Mix TV | PE",
       "url": "https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL",
       "logo": "https://cdn.m3u.cl/logo/43_Turbo_Mix_TV.png",
+      "category": "Without category"
+    },
+    {
+      "name": "Mundo de la Musica TV | CL",
+      "url": "https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png",
       "category": "Without category"
     },
     {
@@ -16,33 +28,9 @@
       "category": "Without category"
     },
     {
-      "name": "Autentica TV | PE",
-      "url": "https://live.obslivestream.com/autenticatvmux/index.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/1089_Autentica_TV.png",
-      "category": "Without category"
-    },
-    {
-      "name": "Controversia TV | PE",
-      "url": "https://live.obslivestream.com/controversiatv/index.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/1188_Controversia_TV.png",
-      "category": "Without category"
-    },
-    {
-      "name": "ATV | PE",
-      "url": "https://d19e55ehz2il4i.cloudfront.net/index.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/1065_ATV.png",
-      "category": "Without category"
-    },
-    {
-      "name": "OK TeVe | PE",
-      "url": "https://live.obslivestream.com/oktv/video.m3u8?token=Bk-DXAXulO1OV0&PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/1095_OK_TeVe.png",
-      "category": "Without category"
-    },
-    {
-      "name": "Mundo de la Musica TV | CL",
-      "url": "https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png",
+      "name": "CR TV | PE",
+      "url": "https://live.obslivestream.com/crtvmux/index.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/1180_CR_TV.png",
       "category": "Without category"
     },
     {
@@ -64,9 +52,9 @@
       "category": "Without category"
     },
     {
-      "name": "Telecolor TV | PE",
-      "url": "https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/1189_Telecolor_TV.png",
+      "name": "Controversia TV | PE",
+      "url": "https://live.obslivestream.com/controversiatv/index.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/1188_Controversia_TV.png",
       "category": "Without category"
     },
     {
@@ -76,9 +64,9 @@
       "category": "Without category"
     },
     {
-      "name": "CR TV | PE",
-      "url": "https://live.obslivestream.com/crtvmux/index.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/1180_CR_TV.png",
+      "name": "OK TeVe | PE",
+      "url": "https://live.obslivestream.com/oktv/video.m3u8?token=Bk-DXAXulO1OV0&PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/1095_OK_TeVe.png",
       "category": "Without category"
     },
     {
@@ -91,6 +79,12 @@
       "name": "San Pedro SAT | PE",
       "url": "https://eu1.servers10.com:8081/8156/index.m3u8?PlaylistM3UCL",
       "logo": "https://cdn.m3u.cl/logo/1686_San_Pedro_SAT.png",
+      "category": "Without category"
+    },
+    {
+      "name": "Telecolor TV | PE",
+      "url": "https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/1189_Telecolor_TV.png",
       "category": "Without category"
     },
     {
@@ -127,9 +121,21 @@
   "categories": {
     "Without category": [
       {
+        "name": "Autentica TV | PE",
+        "url": "https://live.obslivestream.com/autenticatvmux/index.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/1089_Autentica_TV.png",
+        "category": "Without category"
+      },
+      {
         "name": "Turbo Mix TV | PE",
         "url": "https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL",
         "logo": "https://cdn.m3u.cl/logo/43_Turbo_Mix_TV.png",
+        "category": "Without category"
+      },
+      {
+        "name": "Mundo de la Musica TV | CL",
+        "url": "https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png",
         "category": "Without category"
       },
       {
@@ -139,33 +145,9 @@
         "category": "Without category"
       },
       {
-        "name": "Autentica TV | PE",
-        "url": "https://live.obslivestream.com/autenticatvmux/index.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/1089_Autentica_TV.png",
-        "category": "Without category"
-      },
-      {
-        "name": "Controversia TV | PE",
-        "url": "https://live.obslivestream.com/controversiatv/index.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/1188_Controversia_TV.png",
-        "category": "Without category"
-      },
-      {
-        "name": "ATV | PE",
-        "url": "https://d19e55ehz2il4i.cloudfront.net/index.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/1065_ATV.png",
-        "category": "Without category"
-      },
-      {
-        "name": "OK TeVe | PE",
-        "url": "https://live.obslivestream.com/oktv/video.m3u8?token=Bk-DXAXulO1OV0&PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/1095_OK_TeVe.png",
-        "category": "Without category"
-      },
-      {
-        "name": "Mundo de la Musica TV | CL",
-        "url": "https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png",
+        "name": "CR TV | PE",
+        "url": "https://live.obslivestream.com/crtvmux/index.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/1180_CR_TV.png",
         "category": "Without category"
       },
       {
@@ -187,9 +169,9 @@
         "category": "Without category"
       },
       {
-        "name": "Telecolor TV | PE",
-        "url": "https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/1189_Telecolor_TV.png",
+        "name": "Controversia TV | PE",
+        "url": "https://live.obslivestream.com/controversiatv/index.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/1188_Controversia_TV.png",
         "category": "Without category"
       },
       {
@@ -199,9 +181,9 @@
         "category": "Without category"
       },
       {
-        "name": "CR TV | PE",
-        "url": "https://live.obslivestream.com/crtvmux/index.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/1180_CR_TV.png",
+        "name": "OK TeVe | PE",
+        "url": "https://live.obslivestream.com/oktv/video.m3u8?token=Bk-DXAXulO1OV0&PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/1095_OK_TeVe.png",
         "category": "Without category"
       },
       {
@@ -214,6 +196,12 @@
         "name": "San Pedro SAT | PE",
         "url": "https://eu1.servers10.com:8081/8156/index.m3u8?PlaylistM3UCL",
         "logo": "https://cdn.m3u.cl/logo/1686_San_Pedro_SAT.png",
+        "category": "Without category"
+      },
+      {
+        "name": "Telecolor TV | PE",
+        "url": "https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/1189_Telecolor_TV.png",
         "category": "Without category"
       },
       {

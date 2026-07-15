@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="MBCDramaUSA.us@SD",MBC Drama USA (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8
+#EXTINF:-1 tvg-id="TNTNovelas.us@Brazil",TNT Novelas Brazil (720p)
+http://177.52.24.163/TNT-NOVELAS-HD/index.m3u8

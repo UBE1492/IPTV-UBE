@@ -331,5 +331,12 @@
 | 325 | Cine Familiar | IPv4 直链 | <http://177.234.218.66:8084/play/a001/index.m3u8> |
 | 326 | Canal Infantil | IPv4 直链 | <http://177.234.218.66:8084/play/a01x/index.m3u8> |
 | 327 | NorCast Weather (1080p) | norcast-weather.streamology.live | <https://norcast-weather.streamology.live/api/v1/streams/c1b5b114698e1ad4687153c4402d5ef0/live.m3u8> |
+| 328 | Sonic TV (720p) | stream-us-east-1.getpublica.com | <https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2260> |
+| 329 | Comercio TV (720p) | amg00082-tarima-amg00082c1-tunein-us-7960.playouts.now.amagi.tv | <https://amg00082-tarima-amg00082c1-tunein-us-7960.playouts.now.amagi.tv/playlist/amg00082-tarima-comercio-tuneinus/playlist.m3u8> |
+| 330 | TNT Novelas Brazil (720p) | IPv4 直链 | <http://177.52.24.163/TNT-NOVELAS-HD/index.m3u8> |
+| 331 | SYFY (1080p) | gpuserver5.tier1streams.com | <https://gpuserver5.tier1streams.com/SYFY/index.m3u8> |
+| 332 | USA Network (1080p) | gpuserver5.tier1streams.com | <https://gpuserver5.tier1streams.com/USA_NETWORK/index.m3u8> |
+| 333 | MGM+ Drive-In (720p) | IPv4 直链 | <http://40.160.24.52/EPIX_DRIVE-IN/index.m3u8> |
+| 334 | WGN-DT1 (720p) | IPv4 直链 | <http://40.160.24.55/WGN/index.m3u8> |
 
-Updated at **Tue Jul 14 2026 19:24:06 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jul 15 2026 02:43:50 GMT+0000 (Coordinated Universal Time)**
