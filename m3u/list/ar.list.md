@@ -103,4 +103,4 @@
 | 97 | El Nueve (720p) | IPv4 直链 | <http://200.91.32.158:8080/canal9/index.m3u8> |
 | 98 | El Siete (1080p) | edgectc.com | <https://edgectc.com/CANAL7_MZA/index.m3u8> |
 
-Updated at **Wed Jul 15 2026 13:49:12 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jul 15 2026 19:15:54 GMT+0000 (Coordinated Universal Time)**

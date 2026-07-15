@@ -339,4 +339,4 @@
 | 333 | MGM+ Drive-In (720p) | IPv4 直链 | <http://40.160.24.52/EPIX_DRIVE-IN/index.m3u8> |
 | 334 | WGN-DT1 (720p) | IPv4 直链 | <http://40.160.24.55/WGN/index.m3u8> |
 
-Updated at **Wed Jul 15 2026 13:49:13 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jul 15 2026 19:15:54 GMT+0000 (Coordinated Universal Time)**

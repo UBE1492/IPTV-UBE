@@ -64,4 +64,4 @@
 | 58 | Zaracay TV (1080p) [Not 24/7] | video2.makrodigital.com | <https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8> |
 | 59 | TC Television | IPv4 直链 | <http://177.234.218.66:8084/play/a089/index.m3u8> |
 
-Updated at **Wed Jul 15 2026 13:49:13 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jul 15 2026 19:15:54 GMT+0000 (Coordinated Universal Time)**
