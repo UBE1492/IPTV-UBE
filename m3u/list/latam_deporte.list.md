@@ -12,4 +12,4 @@
 | 6 | Fox Sports 1 (720p) | IPv4 直链 | <http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8> |
 | 7 | Fox Sports 1 | cdn.haititivi.com | <http://cdn.haititivi.com/Fox_Sports_1/index.m3u8> |
 
-Updated at **Wed Jul 15 2026 08:19:23 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jul 15 2026 13:49:12 GMT+0000 (Coordinated Universal Time)**
