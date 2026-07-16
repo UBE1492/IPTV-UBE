@@ -211,8 +211,6 @@ http://40.160.24.53/INSP/index.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
 #EXTINF:-1 tvg-id="IONPlus.us@East",ION Plus (720p)
 http://40.160.24.53/ION_PLUS/index.m3u8
-#EXTINF:-1 tvg-id="JBS.us@SD",JBS (404p) [Not 24/7]
-http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8
 #EXTINF:-1 tvg-id="JewelryTV.us@SD",Jewelry Television (720p)
 https://content.jwplatform.com/live/broadcast/oe7UD7Ag.m3u8
 #EXTINF:-1 tvg-id="",Jewelry Television Espanol (720p)
@@ -243,8 +241,6 @@ https://cdn-unified-hls.streamspot.com/ingest1/4b4d895dd6/playlist.m3u8?origin=1
 https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8
 #EXTINF:-1 tvg-id="KMSPDT1.us@SD",KMSP-DT1 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kmsp-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="KNBC41.us@HD",KNBC-DT1 (1080p)
-https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream1/master.m3u8
 #EXTINF:-1 tvg-id="KOKITV231.us@HD",KOKI-DT1 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-kokibreaking-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="KPVMLD257.us@SD",KPVM AWE Plus
@@ -269,8 +265,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ktbc-lgus/playlist
 https://streaming-live-fcdn.api.prd.univisionnow.com/kuvn/kuvn.isml/hls/kuvn.m3u8
 #EXTINF:-1 tvg-id="KVIE62.us@HD",KVIE-DT2 (1080p)
 https://kviedt2.lls.pbs.org/kviedt2-hls.m3u8
-#EXTINF:-1 tvg-id="KWHY631.us@HD",KWHY 63.1 (720p)
-https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/dad6a736-9efb-40ce-89b6-81d1d54f92bd/master.m3u8
 #EXTINF:-1 tvg-id="KXASTV51.us@HD",KXAS-DT1 (1080p)
 https://d368vp0qqzvkid.cloudfront.net/11603/88889706/hls/master.m3u8?ads.xumo_channelId=88889706a&ads.xumo_ifaType=&ads.xumo_providerId=3831&ads.xumo_providerName=NBCNDAL
 #EXTINF:-1 tvg-id="LaQueBuenaAtlanta.us@SD",La Que Buena Atlanta
@@ -351,3 +345,13 @@ https://gpuserver5.tier1streams.com/USA_NETWORK/index.m3u8
 http://40.160.24.52/EPIX_DRIVE-IN/index.m3u8
 #EXTINF:-1 tvg-id="WGNDT1.us@SD",WGN-DT1 (720p)
 http://40.160.24.55/WGN/index.m3u8
+#EXTINF:-1 tvg-id="PoconoTelevisionNetwork.us@HD",Pocono Television Network (1080p)
+https://dfoiz3dv1euv7.cloudfront.net/ptnlive-s3/live1.m3u8
+#EXTINF:-1 tvg-id="JBS.us@SD",JBS (720p)
+https://rpn3.bozztv.com/jbstv-srt/srt-push/jbstv/playlist.m3u8
+#EXTINF:-1 tvg-id="UniMas.us@Central",UniMas Central (720p)
+http://190.197.41.183/Unimas/mono.m3u8
+#EXTINF:-1 tvg-id="Univision.us@East",Univision (1080p)
+http://190.197.41.183/Univision/index.m3u8
+#EXTINF:-1 tvg-id="KDVR311.us@HD",KDVR 31.1 (720p)
+http://stream.cammonitorplus.net/1768/index.m3u8

@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="GoodLife45.us@SD",GoodLife 45 (720p) [Not 24/7]
 https://2-fss-2.streamhoster.com/pl_118/201450-1248872-1/playlist.m3u8
+#EXTINF:-1 tvg-id="CanaldelaFe.us@SD",Canal de la Fe (720p)
+https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/dad6a736-9efb-40ce-89b6-81d1d54f92bd/master.m3u8
 #EXTINF:-1 tvg-id="Lifetime.us@East",Lifetime (720p)
 http://40.160.24.53/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-id="Lifetime.us@East",Lifetime (576p)
@@ -19,3 +21,5 @@ http://40.160.24.58/LIFETIME_REAL_WOMEN/index.m3u8
 https://tgn.bozztv.com/lifevision/lifevision/index.m3u8
 #EXTINF:-1 tvg-id="SmartLifeStyleTV.us@SD",Lighting Lives Blessing Nations Smart Life Style TV (LLBN) (720p)
 https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/stream.m3u8
+#EXTINF:-1 tvg-id="JewishLifeTelevision.us@SD",Jewish Life Television (1080p)
+https://jlt-jltv-strimm.otteravision.com/jlt/jltv/jltv.m3u8

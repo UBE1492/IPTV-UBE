@@ -5,3 +5,5 @@ http://206.212.244.63/2/index.m3u8
 https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8
 #EXTINF:-1 tvg-id="KPVMLD255.us@SD",KPVM Newsmax 2
 https://2-fss-2.streamhoster.com/pl_120/206858-4404556-1/playlist.m3u8
+#EXTINF:-1 tvg-id="DNews.us@SD",DNews (720p)
+http://38.19.16.151:8000/play/a0a3

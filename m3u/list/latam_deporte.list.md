@@ -11,5 +11,6 @@
 | 5 | ESPNU (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_ESPNU/index.m3u8> |
 | 6 | Fox Sports 1 (720p) | IPv4 直链 | <http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8> |
 | 7 | Fox Sports 1 | cdn.haititivi.com | <http://cdn.haititivi.com/Fox_Sports_1/index.m3u8> |
+| 8 | Fox Sports 2 | streamvidex.qzz.io | <https://streamvidex.qzz.io/videx/fox2usa/index.m3u8> |
 
-Updated at **Wed Jul 15 2026 19:15:53 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jul 16 2026 02:50:24 GMT+0000 (Coordinated Universal Time)**

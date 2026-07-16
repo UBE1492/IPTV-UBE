@@ -187,7 +187,6 @@ ION_Plus_(720p),http://40.160.24.53/ION_PLUS/index.m3u8
 ION_TV_(720p),http://23.237.104.106:8080/USA_ION/index.m3u8
 Iran_National_Revolution_TV,https://hls.irannrtv.live/hls/stream.m3u8
 It_Is_Written_TV_(1080p),https://itiswrittentv.akamaized.net/xR8gyATuHMVx69u9G79DXnpNRL/playlist.m3u8
-JBS_(404p)_[Not_24/7],http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8
 Jewelry_Television_(720p),https://content.jwplatform.com/live/broadcast/oe7UD7Ag.m3u8
 Jewelry_Television_Espanol_(720p),https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/72b5a55e4c35445f9e742871aa0aefa2/index.m3u8
 Jewelry_TV_2_(720p),https://cdn.jwplayer.com/live/broadcast/0rrJ3kkM.m3u8
@@ -212,7 +211,6 @@ KLFY-TV_10.1_(720p),http://206.212.244.63/33/index.m3u8
 KMCT-DT1_(720p),https://cdn-unified-hls.streamspot.com/ingest1/4b4d895dd6/playlist.m3u8?origin=1
 KMEX-DT1_[Geo-blocked],https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8
 KMSP-DT1_(1080p),https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kmsp-lgus/playlist.m3u8
-KNBC-DT1_(1080p),https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream1/master.m3u8
 KNTV-DT1_(1080p),https://d368vp0qqzvkid.cloudfront.net/11603/88889711/hls/master.m3u8?ads.xumo_channelId=88889711a&ads.xumo_ifaType=&ads.xumo_providerId=3822&ads.xumo_providerName=NBCNBA
 KOKI-DT1_(1080p),https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-kokibreaking-ono/playlist.m3u8
 KPVM_Ace_Country_Radio,https://2-fss-1.streamhoster.com/pl_122/206858-4412960-1/playlist.m3u8
@@ -232,7 +230,7 @@ KTTV_11.1_(720p),http://206.212.244.63/63/index.m3u8
 KTTV-DT1_(1080p),https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox11losangeleskttv-vizious/playlist.m3u8
 KUVN-DT1,https://streaming-live-fcdn.api.prd.univisionnow.com/kuvn/kuvn.isml/hls/kuvn.m3u8
 KVIE-DT2_(1080p),https://kviedt2.lls.pbs.org/kviedt2-hls.m3u8
-KWHY_63.1_(720p),https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/dad6a736-9efb-40ce-89b6-81d1d54f92bd/master.m3u8
+Canal_de_la_Fe_(720p),https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/dad6a736-9efb-40ce-89b6-81d1d54f92bd/master.m3u8
 KXAS-DT1_(1080p),https://d368vp0qqzvkid.cloudfront.net/11603/88889706/hls/master.m3u8?ads.xumo_channelId=88889706a&ads.xumo_ifaType=&ads.xumo_providerId=3831&ads.xumo_providerName=NBCNDAL
 La_Que_Buena_Atlanta,https://streamyes.alsolnet.com/quebuenaatlanta/live/index.m3u8
 Laff_(1080p),http://40.160.24.53/LAFF_TV/index.m3u8
@@ -342,3 +340,19 @@ SYFY_(1080p),https://gpuserver5.tier1streams.com/SYFY/index.m3u8
 USA_Network_(1080p),https://gpuserver5.tier1streams.com/USA_NETWORK/index.m3u8
 MGM+_Drive-In_(720p),http://40.160.24.52/EPIX_DRIVE-IN/index.m3u8
 WGN-DT1_(720p),http://40.160.24.55/WGN/index.m3u8
+Pocono_Television_Network_(1080p),https://dfoiz3dv1euv7.cloudfront.net/ptnlive-s3/live1.m3u8
+JBS_(720p),https://rpn3.bozztv.com/jbstv-srt/srt-push/jbstv/playlist.m3u8
+Jewish_Life_Television_(1080p),https://jlt-jltv-strimm.otteravision.com/jlt/jltv/jltv.m3u8
+TVSA_Public_Channel_(720p),https://edge-f.swagit.com/live/sanantoniotx/live-2-a/playlist.m3u8
+TVSA_Government_Channel_(720p),https://edge-f.swagit.com/live/sanantoniotx/live-1-a/playlist.m3u8
+Disney_Junior_(480p),http://tvsen7.aynascope.net/disneyjr/index.m3u8
+Disney_XD_West_(480p),http://tvsen5.aynascope.net/disneyxd/index.m3u8
+Fox_Sports_2,https://streamvidex.qzz.io/videx/fox2usa/index.m3u8
+ESPN_Deportes_(720p),https://gpuserver7.tier1streams.com/ESPN_DEPORTES/index.m3u8
+Showtime_(1080p),http://41.205.93.154/SHOWTIMES/index.m3u8
+Telemundo_(720p),https://streaming.cnetplay.com/TELEMUNDOHD/index.m3u8
+UniMas_Central_(720p),http://190.197.41.183/Unimas/mono.m3u8
+Univision_(1080p),http://190.197.41.183/Univision/index.m3u8
+DNews_(720p),http://38.19.16.151:8000/play/a0a3
+NRBTV_(720p),http://145.239.5.177/215/index.m3u8
+KDVR_31.1_(720p),http://stream.cammonitorplus.net/1768/index.m3u8

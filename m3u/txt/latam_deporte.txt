@@ -6,3 +6,4 @@ ESPNews_(720p),http://40.160.24.52/ESPN_NEWS/index.m3u8
 ESPNU_(720p),http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 Fox_Sports_1_(720p),http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 Fox_Sports_1,http://cdn.haititivi.com/Fox_Sports_1/index.m3u8
+Fox_Sports_2,https://streamvidex.qzz.io/videx/fox2usa/index.m3u8
