@@ -368,4 +368,4 @@
 | 362 | Univision (720p) | IPv4 直链 | <http://108.181.20.255:27347/livehttpplay?channel_id=23089> |
 | 363 | Univision West (1080p) | IPv4 直链 | <http://108.181.20.255:27347/livehttpplay?channel_id=23088> |
 
-Updated at **Fri Jul 17 2026 08:14:45 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jul 17 2026 13:45:13 GMT+0000 (Coordinated Universal Time)**

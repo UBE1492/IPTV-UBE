@@ -99,4 +99,4 @@
 | 93 | El Nueve (1080p) | playcom.trapemn.tv:1935 | <http://playcom.trapemn.tv:1935/transcoderip/canal9.stream/playlist.m3u8> |
 | 94 | El Siete (1080p) | edgectc.com | <https://edgectc.com/CANAL7_MZA/index.m3u8> |
 
-Updated at **Fri Jul 17 2026 08:14:44 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jul 17 2026 13:45:12 GMT+0000 (Coordinated Universal Time)**
