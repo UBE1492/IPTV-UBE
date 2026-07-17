@@ -13,4 +13,4 @@
 | 7 | Fox Sports 1 | cdn.haititivi.com | <http://cdn.haititivi.com/Fox_Sports_1/index.m3u8> |
 | 8 | Fox Sports 2 | streamvidex.qzz.io | <https://streamvidex.qzz.io/videx/fox2usa/index.m3u8> |
 
-Updated at **Fri Jul 17 2026 02:52:50 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jul 17 2026 08:14:44 GMT+0000 (Coordinated Universal Time)**
