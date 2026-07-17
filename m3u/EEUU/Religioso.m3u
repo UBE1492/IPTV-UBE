@@ -11,8 +11,6 @@ http://cdn.haititivi.net/LIFETIME/index.m3u8
 http://138.121.15.230:9002/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-id="LifetimeLatinAmerica.us@Panregional",Lifetime Latin America (720p)
 http://200.91.32.158:8080/lifetime/index.m3u8
-#EXTINF:-1 tvg-id="LifetimeLatinAmerica.us@Brazil",Lifetime Latin America Brazil (720p)
-http://45.162.231.38:7779/Lifetime/index.m3u8
 #EXTINF:-1 tvg-id="LifetimeLatinAmerica.us@Mexico",Lifetime Latin America Mexico (1080p)
 http://177.245.131.133:8080/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-id="LifetimeRealWomen.us@SD",Lifetime Real Women (576p)
@@ -23,3 +21,5 @@ https://tgn.bozztv.com/lifevision/lifevision/index.m3u8
 https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/stream.m3u8
 #EXTINF:-1 tvg-id="JewishLifeTelevision.us@SD",Jewish Life Television (1080p)
 https://jlt-jltv-strimm.otteravision.com/jlt/jltv/jltv.m3u8
+#EXTINF:-1 tvg-id="Lifetime.us@West",Lifetime West (720p)
+http://108.181.20.255:27347/livehttpplay?channel_id=23106

@@ -1,12 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="A24.ar@SD",A24 (720p)
-http://200.91.32.158:8080/a24/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar@SD",Argentinísima Satelital (540p)
 https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1 tvg-id="AtccoCanal2.ar@SD",Atcco Canal 2
 https://ola1.com.ar/atccohd/playlist.m3u8
-#EXTINF:-1 tvg-id="C5N.ar@SD",C5N (720p)
-http://200.91.32.158:8080/c5n/index.m3u8
 #EXTINF:-1 tvg-id="CableImagenArmstrong.ar@SD",Cable Imagen Armstrong (540p) [Not 24/7]
 https://stream.arcast.com.ar/casse/casse/playlist.m3u8
 #EXTINF:-1 tvg-id="Cadena103TV.ar@SD",Cadena 103 (720p) [Not 24/7]
@@ -107,8 +105,6 @@ https://g4.vxral-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/P
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalProvincial.ar@SD",Canal Provincial (360p)
 https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8
-#EXTINF:-1 tvg-id="CanalRural.ar@SD",Canal Rural (576p)
-http://200.91.32.158:8080/rural/index.m3u8
 #EXTINF:-1 tvg-id="CanalSantaMaria.ar@SD",Canal Santa María (360p)
 https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
 #EXTINF:-1 tvg-id="CanalTDC.ar@SD",Canal TDC
@@ -117,8 +113,6 @@ https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8
 https://videostream.shockmedia.com.ar/hls/canaluniversidadmdp/canaluniversidadmdp.m3u8
 #EXTINF:-1 tvg-id="ElNueve.ar@SD",El Nueve (1080p)
 http://playcom.trapemn.tv:1935/transcoderip/canal9.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ElNueve.ar@SD",El Nueve (720p)
-http://200.91.32.158:8080/canal9/index.m3u8
 #EXTINF:-1 tvg-id="ElSiete.ar@SD",El Siete (1080p)
 https://edgectc.com/CANAL7_MZA/index.m3u8
 #EXTINF:-1 tvg-id="ElTrece.ar@SD",El Trece (1080p)

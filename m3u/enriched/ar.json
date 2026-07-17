@@ -1,6 +1,6 @@
 {
   "name": "ar",
-  "updated_at": 1784229398416,
+  "updated_at": 1784256771137,
   "m3u": "https://ube1492.github.io/IPTV-UBE/ar.m3u",
   "channels": [
     {
@@ -23,15 +23,12 @@
     },
     {
       "name": "A24 (720p)",
-      "url": "http://200.91.32.158:8080/a24/index.m3u8",
+      "url": "#EXTINF:-1 tvg-id=\"ArgentinisimaSatelital.ar@SD\",Argentinísima Satelital (540p)",
       "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Argentinísima Satelital (540p)",
-      "url": "https://stream1.sersat.com/hls/argentinisima.m3u8",
-      "logo": "",
-      "category": "Otros"
+      "category": "Otros",
+      "options": {
+        "http-user-agent": "Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36"
+      }
     },
     {
       "name": "Atcco Canal 2",
@@ -72,12 +69,6 @@
     {
       "name": "Bravo TV (1080p)",
       "url": "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "C5N (720p)",
-      "url": "http://200.91.32.158:8080/c5n/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -424,12 +415,6 @@
       "category": "Otros"
     },
     {
-      "name": "Canal Rural (576p)",
-      "url": "http://200.91.32.158:8080/rural/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Canal Santa María (360p)",
       "url": "https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8",
       "logo": "",
@@ -583,12 +568,6 @@
       "category": "Otros"
     },
     {
-      "name": "El Nueve (720p)",
-      "url": "http://200.91.32.158:8080/canal9/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "El Siete (1080p)",
       "url": "https://edgectc.com/CANAL7_MZA/index.m3u8",
       "logo": "",
@@ -635,15 +614,12 @@
       },
       {
         "name": "A24 (720p)",
-        "url": "http://200.91.32.158:8080/a24/index.m3u8",
+        "url": "#EXTINF:-1 tvg-id=\"ArgentinisimaSatelital.ar@SD\",Argentinísima Satelital (540p)",
         "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Argentinísima Satelital (540p)",
-        "url": "https://stream1.sersat.com/hls/argentinisima.m3u8",
-        "logo": "",
-        "category": "Otros"
+        "category": "Otros",
+        "options": {
+          "http-user-agent": "Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36"
+        }
       },
       {
         "name": "Atcco Canal 2",
@@ -684,12 +660,6 @@
       {
         "name": "Bravo TV (1080p)",
         "url": "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "C5N (720p)",
-        "url": "http://200.91.32.158:8080/c5n/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -1036,12 +1006,6 @@
         "category": "Otros"
       },
       {
-        "name": "Canal Rural (576p)",
-        "url": "http://200.91.32.158:8080/rural/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "Canal Santa María (360p)",
         "url": "https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8",
         "logo": "",
@@ -1191,12 +1155,6 @@
       {
         "name": "El Nueve (1080p)",
         "url": "http://playcom.trapemn.tv:1935/transcoderip/canal9.stream/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "El Nueve (720p)",
-        "url": "http://200.91.32.158:8080/canal9/index.m3u8",
         "logo": "",
         "category": "Otros"
       },

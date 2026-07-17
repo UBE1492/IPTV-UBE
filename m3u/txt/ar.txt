@@ -2,7 +2,7 @@ Undefined,#genre#
 5tv,https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8
 5TV_Corrientes_(480p)_[Not_24/7],http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 24/7_Canal_de_Noticias,https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
-A24_(720p),http://200.91.32.158:8080/a24/index.m3u8
+A24_(720p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 Argentinísima_Satelital_(540p),https://stream1.sersat.com/hls/argentinisima.m3u8
 Atcco_Canal_2,https://ola1.com.ar/atccohd/playlist.m3u8
 ATV_Argentina,https://tv.streaming.com.bo/atvargentina/index.m3u8
@@ -11,7 +11,6 @@ Bayres_TV_(720p),https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
 Beats_Radio_(480p),https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
 Bragado_TV,https://mp.panelchs.com:1936/8028/ngrp:8028_all/playlist.m3u8
 Bravo_TV_(1080p),https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8
-C5N_(720p),http://200.91.32.158:8080/c5n/index.m3u8
 Cable_Imagen_Armstrong_(540p)_[Not_24/7],https://stream.arcast.com.ar/casse/casse/playlist.m3u8
 Cadena_103_(720p)_[Not_24/7],http://arcast.net:1935/cadena103/cadena103/playlist.m3u8
 Cadena103.TV,https://streamlov.alsolnet.com/cadena103/live/playlist.m3u8
@@ -69,7 +68,6 @@ Canal_Luz,https://g4.vxral-hor.transport.edge-access.net/a11/ngrp:canal_luz01-10
 Canal_Orbe_21,https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
 Canal_Provincial_(360p),https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8
 Canal_Pulpo_TV,https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8
-Canal_Rural_(576p),http://200.91.32.158:8080/rural/index.m3u8
 Canal_Santa_María_(360p),https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
 Canal_TDC,https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8
 Canal_Universidad,https://videostream.shockmedia.com.ar/hls/canaluniversidadmdp/canaluniversidadmdp.m3u8
@@ -96,7 +94,6 @@ El_Gourmet_(1080p),http://177.234.249.178:8888/EL-GOURMET/index.m3u8
 El_Gourmet_(720p),http://177.245.131.133:8080/GOURMET/index.m3u8
 El_Gourmet_South_(720p),http://200.91.32.158:8080/gourmet/index.m3u8
 El_Nueve_(1080p),http://playcom.trapemn.tv:1935/transcoderip/canal9.stream/playlist.m3u8
-El_Nueve_(720p),http://200.91.32.158:8080/canal9/index.m3u8
 El_Siete_(1080p),https://edgectc.com/CANAL7_MZA/index.m3u8
 El_Trece_(1080p),#EXTVLCOPT:http-referrer=https://vodgc.net
 Xtrema_Cartoons,#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1390

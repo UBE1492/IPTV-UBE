@@ -7,3 +7,9 @@ https://media.streambrothers.com:1936/8052/8052/playlist.m3u8
 https://go2thls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Telemundo.us@East",Telemundo (720p)
 https://streaming.cnetplay.com/TELEMUNDOHD/index.m3u8
+#EXTINF:-1 tvg-id="CNBCWorld.us@SD",CNBC World (720p)
+http://108.181.20.255:27347/livehttpplay?channel_id=23117
+#EXTINF:-1 tvg-id="Telemundo.us@East",Telemundo (1080p)
+http://108.181.20.255:27347/livehttpplay?channel_id=23003
+#EXTINF:-1 tvg-id="Telemundo.us@West",Telemundo West (720p)
+http://108.181.20.255:27347/livehttpplay?channel_id=23002

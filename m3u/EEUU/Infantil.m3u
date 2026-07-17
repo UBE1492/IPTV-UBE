@@ -11,3 +11,11 @@ http://177.234.218.66:8084/play/a01x/index.m3u8
 http://tvsen7.aynascope.net/disneyjr/index.m3u8
 #EXTINF:-1 tvg-id="DisneyXD.us@West",Disney XD West (480p)
 http://tvsen5.aynascope.net/disneyxd/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.us@East",Disney Junior (720p)
+http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
+#EXTINF:-1 tvg-id="DisneyXD.us@East",Disney XD (720p)
+http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.us@West",Nicktoons West (720p)
+http://108.181.20.255:27347/livehttpplay?channel_id=23079
+#EXTINF:-1 tvg-id="Nickelodeon.us@West",Nickelodeon West (720p)
+http://108.181.20.255:27347/livehttpplay?channel_id=23019

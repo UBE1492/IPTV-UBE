@@ -1,6 +1,6 @@
 {
   "name": "es",
-  "updated_at": 1784229398872,
+  "updated_at": 1784256771387,
   "m3u": "https://ube1492.github.io/IPTV-UBE/es.m3u",
   "channels": [
     {
@@ -792,12 +792,6 @@
     {
       "name": "TVE Internacional America (576p) [Geo-blocked]",
       "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_576.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "TVE Internacional America (576p)",
-      "url": "http://200.91.32.158:8080/tve/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -1707,12 +1701,6 @@
       {
         "name": "TVE Internacional America (576p) [Geo-blocked]",
         "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_576.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "TVE Internacional America (576p)",
-        "url": "http://200.91.32.158:8080/tve/index.m3u8",
         "logo": "",
         "category": "Otros"
       },

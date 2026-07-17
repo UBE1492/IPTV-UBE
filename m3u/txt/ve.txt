@@ -54,7 +54,7 @@ Teleboconó_(720p)_[Not_24/7],https://ssh101stream.ssh101.com/akamaissh101/ssh10
 Telecentro_(720p),https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8
 Telecentro_(480p)_[Not_24/7],https://streamtv.intervenhosting.net:3698/live/telecentrolive.m3u8
 Telecolor_(480p),https://cloud.livescast.com:19360/telecolor/telecolor.m3u8
-Telesur_(720p),http://200.91.32.158:8080/telesur/index.m3u8
+Telesur_(720p),http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/telesur.stream/playlist.m3u8
 Telesur_(576p),https://edgectc.com/TELESUR/index.m3u8
 Telesur_(480p),https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 Telesur_English_(480p),https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8

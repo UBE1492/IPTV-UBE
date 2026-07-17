@@ -58,7 +58,7 @@
 | 52 | Telecentro (720p) | streamtv.intervenhosting.net:3161 | <https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8> |
 | 53 | Telecentro (480p) [Not 24/7] | streamtv.intervenhosting.net:3698 | <https://streamtv.intervenhosting.net:3698/live/telecentrolive.m3u8> |
 | 54 | Telecolor (480p) | cloud.livescast.com:19360 | <https://cloud.livescast.com:19360/telecolor/telecolor.m3u8> |
-| 55 | Telesur (720p) | IPv4 直链 | <http://200.91.32.158:8080/telesur/index.m3u8> |
+| 55 | Telesur (720p) | bantel-cdn1.iptvperu.tv:1935 | <http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/telesur.stream/playlist.m3u8> |
 | 56 | Telesur (576p) | edgectc.com | <https://edgectc.com/TELESUR/index.m3u8> |
 | 57 | Telesur (480p) | mblesmain01.telesur.ultrabase.net | <https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8> |
 | 58 | Telesur English (480p) | mblenmain01.telesur.ultrabase.net | <https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8> |
@@ -80,4 +80,4 @@
 | 74 | TVM para ti (1080p) | streamtv.intervenhosting.net:3529 | <https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8> |
 | 75 | TVS (720p) | vcp10.myplaytv.com | <https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8> |
 
-Updated at **Thu Jul 16 2026 19:16:39 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jul 17 2026 02:52:51 GMT+0000 (Coordinated Universal Time)**

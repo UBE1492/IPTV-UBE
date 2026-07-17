@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1784229399181,
+  "updated_at": 1784256771507,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -29,7 +29,7 @@
     },
     {
       "name": "A&E Latin America Brazil (720p)",
-      "url": "http://45.162.231.38:7779/AE/index.m3u8",
+      "url": "http://45.190.28.50/AE_HD/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -382,12 +382,6 @@
       "category": "Otros"
     },
     {
-      "name": "AMC Latin America (720p)",
-      "url": "http://200.91.32.158:8080/amc/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "AMC Latin America Brazil (1080p)",
       "url": "http://45.190.156.152/AMC/index.m3u8",
       "logo": "",
@@ -609,12 +603,6 @@
     {
       "name": "FX Latin America South (720p)",
       "url": "http://72.1.184.5:8089/play/a05i/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "FX Latin America South (576p)",
-      "url": "http://200.91.32.158:8080/fx/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -931,38 +919,20 @@
       "category": "Otros"
     },
     {
-      "name": "History (576p)",
-      "url": "http://84.17.50.102/history/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "History 2 Latin America (1080p)",
       "url": "http://138.121.15.230:9002/HISTORY-2/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "History 2 Latin America (720p)",
-      "url": "http://200.91.32.158:8080/history2/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "History 2 Latin America Brazil (720p)",
-      "url": "http://45.162.231.38:7779/History_2/index.m3u8",
+      "url": "http://45.190.28.50/H2_HD/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
       "name": "History Latin America (1080p)",
       "url": "http://138.121.15.230:9002/HISTORY-CHANNEL/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "History Latin America (720p)",
-      "url": "http://200.91.32.158:8080/history/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -1447,12 +1417,6 @@
       "category": "Otros"
     },
     {
-      "name": "Lifetime Latin America Brazil (720p)",
-      "url": "http://45.162.231.38:7779/Lifetime/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Lifetime Latin America Mexico (1080p)",
       "url": "http://177.245.131.133:8080/LIFETIME/index.m3u8",
       "logo": "",
@@ -1891,12 +1855,6 @@
       "category": "Otros"
     },
     {
-      "name": "National Geographic (576p)",
-      "url": "http://84.17.50.102/nationalgeographic/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "National Geographic HD East (720p)",
       "url": "http://198.58.104.90:8989/natgeo/index.m3u8",
       "logo": "",
@@ -2123,6 +2081,138 @@
       "url": "http://stream.cammonitorplus.net/1768/index.m3u8",
       "logo": "",
       "category": "Otros"
+    },
+    {
+      "name": "Star Channel Latin America Central America (1080p)",
+      "url": "https://streamer.metronethn.com/StarChannel/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Disney Junior (720p)",
+      "url": "http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Disney XD (720p)",
+      "url": "http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "FX (720p)",
+      "url": "http://tvsen7.aynascope.net/fx/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Nicktoons West (720p)",
+      "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23079",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Nickelodeon West (720p)",
+      "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23019",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "E! (720p)",
+      "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23113",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "FYI West (1080p)",
+      "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23108",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "SYFY West (720p)",
+      "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23111",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "USA Network West (720p)",
+      "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23112",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "CNBC World (720p)",
+      "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23117",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "TUDN (1080p)",
+      "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23092",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "A&E West (720p)",
+      "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23104",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "History West (1080p)",
+      "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23105",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Lifetime West (720p)",
+      "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23106",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Lifetime Movies West (1080p)",
+      "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23107",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "MGM+ Marquee (720p)",
+      "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23075",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "MGM+ West (720p)",
+      "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23073",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Telemundo (1080p)",
+      "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23003",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Telemundo West (720p)",
+      "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23002",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Univision (720p)",
+      "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23089",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Univision West (1080p)",
+      "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23088",
+      "logo": "",
+      "category": "Otros"
     }
   ],
   "categories": {
@@ -2153,7 +2243,7 @@
       },
       {
         "name": "A&E Latin America Brazil (720p)",
-        "url": "http://45.162.231.38:7779/AE/index.m3u8",
+        "url": "http://45.190.28.50/AE_HD/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -2506,12 +2596,6 @@
         "category": "Otros"
       },
       {
-        "name": "AMC Latin America (720p)",
-        "url": "http://200.91.32.158:8080/amc/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "AMC Latin America Brazil (1080p)",
         "url": "http://45.190.156.152/AMC/index.m3u8",
         "logo": "",
@@ -2733,12 +2817,6 @@
       {
         "name": "FX Latin America South (720p)",
         "url": "http://72.1.184.5:8089/play/a05i/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "FX Latin America South (576p)",
-        "url": "http://200.91.32.158:8080/fx/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -3055,38 +3133,20 @@
         "category": "Otros"
       },
       {
-        "name": "History (576p)",
-        "url": "http://84.17.50.102/history/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "History 2 Latin America (1080p)",
         "url": "http://138.121.15.230:9002/HISTORY-2/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "History 2 Latin America (720p)",
-        "url": "http://200.91.32.158:8080/history2/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "History 2 Latin America Brazil (720p)",
-        "url": "http://45.162.231.38:7779/History_2/index.m3u8",
+        "url": "http://45.190.28.50/H2_HD/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
         "name": "History Latin America (1080p)",
         "url": "http://138.121.15.230:9002/HISTORY-CHANNEL/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "History Latin America (720p)",
-        "url": "http://200.91.32.158:8080/history/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -3571,12 +3631,6 @@
         "category": "Otros"
       },
       {
-        "name": "Lifetime Latin America Brazil (720p)",
-        "url": "http://45.162.231.38:7779/Lifetime/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "Lifetime Latin America Mexico (1080p)",
         "url": "http://177.245.131.133:8080/LIFETIME/index.m3u8",
         "logo": "",
@@ -4015,12 +4069,6 @@
         "category": "Otros"
       },
       {
-        "name": "National Geographic (576p)",
-        "url": "http://84.17.50.102/nationalgeographic/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "National Geographic HD East (720p)",
         "url": "http://198.58.104.90:8989/natgeo/index.m3u8",
         "logo": "",
@@ -4245,6 +4293,138 @@
       {
         "name": "KDVR 31.1 (720p)",
         "url": "http://stream.cammonitorplus.net/1768/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Star Channel Latin America Central America (1080p)",
+        "url": "https://streamer.metronethn.com/StarChannel/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Disney Junior (720p)",
+        "url": "http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Disney XD (720p)",
+        "url": "http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "FX (720p)",
+        "url": "http://tvsen7.aynascope.net/fx/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Nicktoons West (720p)",
+        "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23079",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Nickelodeon West (720p)",
+        "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23019",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "E! (720p)",
+        "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23113",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "FYI West (1080p)",
+        "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23108",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "SYFY West (720p)",
+        "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23111",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "USA Network West (720p)",
+        "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23112",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "CNBC World (720p)",
+        "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23117",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "TUDN (1080p)",
+        "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23092",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "A&E West (720p)",
+        "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23104",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "History West (1080p)",
+        "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23105",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Lifetime West (720p)",
+        "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23106",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Lifetime Movies West (1080p)",
+        "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23107",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "MGM+ Marquee (720p)",
+        "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23075",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "MGM+ West (720p)",
+        "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23073",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Telemundo (1080p)",
+        "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23003",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Telemundo West (720p)",
+        "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23002",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Univision (720p)",
+        "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23089",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Univision West (1080p)",
+        "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23088",
         "logo": "",
         "category": "Otros"
       }
