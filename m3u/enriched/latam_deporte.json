@@ -1,6 +1,6 @@
 {
   "name": "latam_deporte",
-  "updated_at": 1784315704852,
+  "updated_at": 1784342711907,
   "m3u": "https://ube1492.github.io/IPTV-UBE/latam_deporte.m3u",
   "channels": [
     {
@@ -23,7 +23,7 @@
     },
     {
       "name": "ESPNews (720p)",
-      "url": "http://40.160.24.52/ESPN_NEWS/index.m3u8",
+      "url": "http://41.223.30.230/ESPNNEWS/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -50,6 +50,12 @@
       "url": "https://streamvidex.qzz.io/videx/fox2usa/index.m3u8",
       "logo": "",
       "category": "Otros"
+    },
+    {
+      "name": "beIN Sports USA (576p)",
+      "url": "http://40.160.24.52/BEIN_SPORTS_HD/index.m3u8",
+      "logo": "",
+      "category": "Otros"
     }
   ],
   "categories": {
@@ -74,7 +80,7 @@
       },
       {
         "name": "ESPNews (720p)",
-        "url": "http://40.160.24.52/ESPN_NEWS/index.m3u8",
+        "url": "http://41.223.30.230/ESPNNEWS/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -99,6 +105,12 @@
       {
         "name": "Fox Sports 2",
         "url": "https://streamvidex.qzz.io/videx/fox2usa/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "beIN Sports USA (576p)",
+        "url": "http://40.160.24.52/BEIN_SPORTS_HD/index.m3u8",
         "logo": "",
         "category": "Otros"
       }

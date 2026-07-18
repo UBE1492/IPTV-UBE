@@ -6,7 +6,7 @@ https://bein-xtra-bein.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPNDeportes.us@SD",ESPN Deportes (720p)
 http://40.160.24.58/ESPN_DEPORTES/index.m3u8
 #EXTINF:-1 tvg-id="ESPNews.us@SD",ESPNews (720p)
-http://40.160.24.52/ESPN_NEWS/index.m3u8
+http://41.223.30.230/ESPNNEWS/index.m3u8
 #EXTINF:-1 tvg-id="ESPNU.us@SD",ESPNU (720p)
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports1.us@HD",Fox Sports 1 (720p)
@@ -15,3 +15,5 @@ http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 http://cdn.haititivi.com/Fox_Sports_1/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports2.us@HD",Fox Sports 2
 https://streamvidex.qzz.io/videx/fox2usa/index.m3u8
+#EXTINF:-1 tvg-id="beINSportsUSA.us@SD",beIN Sports USA (576p)
+http://40.160.24.52/BEIN_SPORTS_HD/index.m3u8

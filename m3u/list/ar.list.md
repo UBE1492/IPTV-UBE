@@ -98,5 +98,6 @@
 | 92 | El Gourmet South (720p) | IPv4 直链 | <http://200.91.32.158:8080/gourmet/index.m3u8> |
 | 93 | El Nueve (1080p) | playcom.trapemn.tv:1935 | <http://playcom.trapemn.tv:1935/transcoderip/canal9.stream/playlist.m3u8> |
 | 94 | El Siete (1080p) | edgectc.com | <https://edgectc.com/CANAL7_MZA/index.m3u8> |
+| 95 | Canal Showsport (720p) | livestream.lumpentv.com.ar | <https://livestream.lumpentv.com.ar/hls/lumpen.m3u8> |
 
-Updated at **Fri Jul 17 2026 19:15:05 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jul 18 2026 02:45:12 GMT+0000 (Coordinated Universal Time)**

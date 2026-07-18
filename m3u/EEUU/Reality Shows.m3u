@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ClassicArtsShowcase.us@SD",Classic Arts Showcase (720p)
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-#EXTINF:-1 tvg-id="GameShowNetwork.us@East",Game Show Network (720p)
-http://40.160.24.52/GSN/index.m3u8
 #EXTINF:-1 tvg-id="",InfoWars The Alex Jones Show (1080p)
 https://freespeech.akamaized.net/hls/live/2024573/live2/playlist.m3u8
 #EXTINF:-1 tvg-id="Showtime.us@East",Showtime (1080p)
 http://41.205.93.154/SHOWTIMES/index.m3u8
+#EXTINF:-1 tvg-id="GameShowNetwork.us@East",Game Show Network (1080p)
+http://206.212.244.63/4237/index.m3u8

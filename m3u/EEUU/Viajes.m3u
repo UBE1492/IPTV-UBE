@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="CNBCWorld.us@SD",CNBC World (576p)
-http://40.160.24.52/CNBC_WORLD/index.m3u8
+http://206.212.244.63/42/index.m3u8
 #EXTINF:-1 tvg-id="GlobalWorldTV.us@SD",GlobalWorldTV (720p)
 https://media.streambrothers.com:1936/8052/8052/playlist.m3u8
 #EXTINF:-1 tvg-id="Go2Travel.us@SD",Go2Travel (1080p)

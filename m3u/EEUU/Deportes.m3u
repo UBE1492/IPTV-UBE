@@ -17,8 +17,6 @@ http://177.234.249.178:8888/GOLTV/index.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="LiveNOWfromFOX.us@SD",LiveNOW from FOX (720p)
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="MarqueeSportsNetwork.us@SD",Marquee Sports Network (1080p)
-http://40.160.24.52/MARQUEE_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="SportsmanChannel.us@SD",Sportsman Channel (720p)
 http://40.160.24.55/Sportsman_Channel/index.m3u8
 #EXTINF:-1 tvg-id="SportsNetNewYork.us@SD",SportsNet New York (1080p)
@@ -27,3 +25,5 @@ http://40.160.24.55/SNY/index.m3u8
 https://streamvidex.qzz.io/videx/fox2usa/index.m3u8
 #EXTINF:-1 tvg-id="ESPNDeportes.us@SD",ESPN Deportes (720p)
 https://gpuserver7.tier1streams.com/ESPN_DEPORTES/index.m3u8
+#EXTINF:-1 tvg-id="beINSportsUSA.us@SD",beIN Sports USA (576p)
+http://40.160.24.52/BEIN_SPORTS_HD/index.m3u8

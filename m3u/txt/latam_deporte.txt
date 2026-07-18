@@ -2,8 +2,9 @@ Undefined,#genre#
 beIN_Sports_USA_(720p),http://23.237.104.106:8080/USA_BEIN/index.m3u8
 beIN_SPORTS_XTRA_(1080p),https://bein-xtra-bein.amagi.tv/playlist.m3u8
 ESPN_Deportes_(720p),http://40.160.24.58/ESPN_DEPORTES/index.m3u8
-ESPNews_(720p),http://40.160.24.52/ESPN_NEWS/index.m3u8
+ESPNews_(720p),http://41.223.30.230/ESPNNEWS/index.m3u8
 ESPNU_(720p),http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 Fox_Sports_1_(720p),http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 Fox_Sports_1,http://cdn.haititivi.com/Fox_Sports_1/index.m3u8
 Fox_Sports_2,https://streamvidex.qzz.io/videx/fox2usa/index.m3u8
+beIN_Sports_USA_(576p),http://40.160.24.52/BEIN_SPORTS_HD/index.m3u8
