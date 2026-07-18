@@ -1,6 +1,6 @@
 {
   "name": "pe_regionales",
-  "updated_at": 1784342726497,
+  "updated_at": 1784361400025,
   "m3u": "https://ube1492.github.io/IPTV-UBE/pe_regionales.m3u",
   "channels": [
     {
@@ -16,9 +16,9 @@
       "category": "Without category"
     },
     {
-      "name": "Vision Musica TV | PE",
-      "url": "https://videoserver.tmcreativos.com:19360/visionmusica/visionmusica.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/876_Vision_Musica_TV.png",
+      "name": "Mundo de la Musica TV | CL",
+      "url": "https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png",
       "category": "Without category"
     },
     {
@@ -28,9 +28,9 @@
       "category": "Without category"
     },
     {
-      "name": "Mundo de la Musica TV | CL",
-      "url": "https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png",
+      "name": "Vision Musica TV | PE",
+      "url": "https://videoserver.tmcreativos.com:19360/visionmusica/visionmusica.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/876_Vision_Musica_TV.png",
       "category": "Without category"
     },
     {
@@ -70,21 +70,15 @@
       "category": "Without category"
     },
     {
-      "name": "San Pedro SAT | PE",
-      "url": "https://eu1.servers10.com:8081/8156/index.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/1686_San_Pedro_SAT.png",
-      "category": "Without category"
-    },
-    {
       "name": "Cultura 24 TV | PE",
       "url": "https://www.opencaster.com/resources/hls_stream/cultura24.m3u8?PlaylistM3UCL",
       "logo": "https://cdn.m3u.cl/logo/696_Cultura_24_TV.png",
       "category": "Without category"
     },
     {
-      "name": "Tele Selva | PE",
-      "url": "https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/1546_Tele_Selva.png",
+      "name": "San Pedro SAT | PE",
+      "url": "https://eu1.servers10.com:8081/8156/index.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/1686_San_Pedro_SAT.png",
       "category": "Without category"
     },
     {
@@ -94,9 +88,9 @@
       "category": "Without category"
     },
     {
-      "name": "TV en linea Cusco | PE",
-      "url": "https://s4.tvdatta.com:3450/live/tvenlinealive.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/1590_TV_en_linea_Cusco.png",
+      "name": "Tele Selva | PE",
+      "url": "https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/1546_Tele_Selva.png",
       "category": "Without category"
     },
     {
@@ -139,9 +133,9 @@
         "category": "Without category"
       },
       {
-        "name": "Vision Musica TV | PE",
-        "url": "https://videoserver.tmcreativos.com:19360/visionmusica/visionmusica.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/876_Vision_Musica_TV.png",
+        "name": "Mundo de la Musica TV | CL",
+        "url": "https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png",
         "category": "Without category"
       },
       {
@@ -151,9 +145,9 @@
         "category": "Without category"
       },
       {
-        "name": "Mundo de la Musica TV | CL",
-        "url": "https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png",
+        "name": "Vision Musica TV | PE",
+        "url": "https://videoserver.tmcreativos.com:19360/visionmusica/visionmusica.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/876_Vision_Musica_TV.png",
         "category": "Without category"
       },
       {
@@ -193,21 +187,15 @@
         "category": "Without category"
       },
       {
-        "name": "San Pedro SAT | PE",
-        "url": "https://eu1.servers10.com:8081/8156/index.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/1686_San_Pedro_SAT.png",
-        "category": "Without category"
-      },
-      {
         "name": "Cultura 24 TV | PE",
         "url": "https://www.opencaster.com/resources/hls_stream/cultura24.m3u8?PlaylistM3UCL",
         "logo": "https://cdn.m3u.cl/logo/696_Cultura_24_TV.png",
         "category": "Without category"
       },
       {
-        "name": "Tele Selva | PE",
-        "url": "https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/1546_Tele_Selva.png",
+        "name": "San Pedro SAT | PE",
+        "url": "https://eu1.servers10.com:8081/8156/index.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/1686_San_Pedro_SAT.png",
         "category": "Without category"
       },
       {
@@ -217,9 +205,9 @@
         "category": "Without category"
       },
       {
-        "name": "TV en linea Cusco | PE",
-        "url": "https://s4.tvdatta.com:3450/live/tvenlinealive.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/1590_TV_en_linea_Cusco.png",
+        "name": "Tele Selva | PE",
+        "url": "https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/1546_Tele_Selva.png",
         "category": "Without category"
       },
       {
