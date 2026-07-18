@@ -378,4 +378,4 @@
 | 372 | Cheddar News (1080p) | hls.livecdn.io | <https://hls.livecdn.io/cheddar.com/cheddar/playlist.m3u8> |
 | 373 | News of the World (720p) | nowhls.wns.live | <https://nowhls.wns.live/hls/stream.m3u8> |
 
-Updated at **Sat Jul 18 2026 07:56:28 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jul 18 2026 13:22:21 GMT+0000 (Coordinated Universal Time)**
