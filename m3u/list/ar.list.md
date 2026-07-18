@@ -100,4 +100,4 @@
 | 94 | El Siete (1080p) | edgectc.com | <https://edgectc.com/CANAL7_MZA/index.m3u8> |
 | 95 | Canal Showsport (720p) | livestream.lumpentv.com.ar | <https://livestream.lumpentv.com.ar/hls/lumpen.m3u8> |
 
-Updated at **Sat Jul 18 2026 13:22:21 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jul 18 2026 19:09:47 GMT+0000 (Coordinated Universal Time)**
