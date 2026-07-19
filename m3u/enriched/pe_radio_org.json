@@ -1,6 +1,6 @@
 {
   "name": "pe_radio_org",
-  "updated_at": 1784449425371,
+  "updated_at": 1784467440782,
   "m3u": "https://ube1492.github.io/IPTV-UBE/pe_radio_org.m3u",
   "channels": [
     {
@@ -12,12 +12,6 @@
     {
       "name": "Radio Master (720p)",
       "url": "https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8",
-      "logo": "",
-      "category": "Música"
-    },
-    {
-      "name": "Turbo Mix Radio TV (360p) [Not 24/7]",
-      "url": "https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8",
       "logo": "",
       "category": "Música"
     },
@@ -40,6 +34,12 @@
       "category": "Música"
     },
     {
+      "name": "Atlantis Radio TV (720p)",
+      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/atlantisSRT/playlist.m3u8",
+      "logo": "",
+      "category": "Música"
+    },
+    {
       "name": "Radio San Borja TV (1080p)",
       "url": "https://stream.mediacorp.pe/srt/3/playlist.m3u8",
       "logo": "",
@@ -48,18 +48,6 @@
     {
       "name": "Radio Rumba TV (720p)",
       "url": "https://live-evg7.tv360.bitel.com.pe/bitel/rumba/playlist.m3u8",
-      "logo": "",
-      "category": "Música"
-    },
-    {
-      "name": "Radio Uno Tacna (720p)",
-      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/radiounotv/playlist.m3u8",
-      "logo": "",
-      "category": "Música"
-    },
-    {
-      "name": "Turbo Mix Radio TV (720p)",
-      "url": "https://live-evg11.tv360.bitel.com.pe/bitel/turbomixSRT/playlist.m3u8",
       "logo": "",
       "category": "Música"
     }
@@ -75,12 +63,6 @@
       {
         "name": "Radio Master (720p)",
         "url": "https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8",
-        "logo": "",
-        "category": "Música"
-      },
-      {
-        "name": "Turbo Mix Radio TV (360p) [Not 24/7]",
-        "url": "https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8",
         "logo": "",
         "category": "Música"
       },
@@ -103,6 +85,12 @@
         "category": "Música"
       },
       {
+        "name": "Atlantis Radio TV (720p)",
+        "url": "https://live-evg8.tv360.bitel.com.pe/bitel/atlantisSRT/playlist.m3u8",
+        "logo": "",
+        "category": "Música"
+      },
+      {
         "name": "Radio San Borja TV (1080p)",
         "url": "https://stream.mediacorp.pe/srt/3/playlist.m3u8",
         "logo": "",
@@ -111,18 +99,6 @@
       {
         "name": "Radio Rumba TV (720p)",
         "url": "https://live-evg7.tv360.bitel.com.pe/bitel/rumba/playlist.m3u8",
-        "logo": "",
-        "category": "Música"
-      },
-      {
-        "name": "Radio Uno Tacna (720p)",
-        "url": "https://live-evg7.tv360.bitel.com.pe/bitel/radiounotv/playlist.m3u8",
-        "logo": "",
-        "category": "Música"
-      },
-      {
-        "name": "Turbo Mix Radio TV (720p)",
-        "url": "https://live-evg11.tv360.bitel.com.pe/bitel/turbomixSRT/playlist.m3u8",
         "logo": "",
         "category": "Música"
       }

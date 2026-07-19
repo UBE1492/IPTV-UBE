@@ -381,4 +381,4 @@
 | 375 | CBS (576p) | tvsen7.aynascope.net | <http://tvsen7.aynascope.net/cbs/index.m3u8> |
 | 376 | Fox (720p) | stream.cammonitorplus.net | <http://stream.cammonitorplus.net/1752/index.m3u8> |
 
-Updated at **Sun Jul 19 2026 08:23:41 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jul 19 2026 13:23:57 GMT+0000 (Coordinated Universal Time)**
