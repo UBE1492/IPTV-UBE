@@ -117,3 +117,5 @@ http://playcom.trapemn.tv:1935/transcoderip/canal9.stream/playlist.m3u8
 https://edgectc.com/CANAL7_MZA/index.m3u8
 #EXTINF:-1 tvg-id="ElTrece.ar@SD",El Trece (1080p)
 #EXTVLCOPT:http-referrer=https://vodgc.net
+#EXTINF:-1 tvg-id="TelePosadas.ar@HD",Tele Posadas HD (720p)
+https://lbgo.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8

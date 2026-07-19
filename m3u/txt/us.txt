@@ -385,3 +385,4 @@ News_of_the_World_(720p),https://nowhls.wns.live/hls/stream.m3u8
 TeenNick_(576p),http://tvsen7.aynascope.net/teennick/index.m3u8
 CBS_(576p),http://tvsen7.aynascope.net/cbs/index.m3u8
 Fox_(720p),http://stream.cammonitorplus.net/1752/index.m3u8
+The_Q_India_(576p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36

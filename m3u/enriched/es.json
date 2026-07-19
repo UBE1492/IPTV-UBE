@@ -1,6 +1,6 @@
 {
   "name": "es",
-  "updated_at": 1784467437665,
+  "updated_at": 1784488238678,
   "m3u": "https://ube1492.github.io/IPTV-UBE/es.m3u",
   "channels": [
     {
@@ -496,12 +496,6 @@
       "category": "Otros"
     },
     {
-      "name": "KinoKazka (1080p)",
-      "url": "http://176.122.125.10:8080/KinoKazka/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "La 1 (720p) [Geo-blocked]",
       "url": "https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8",
       "logo": "",
@@ -902,7 +896,7 @@
     },
     {
       "name": "VOTV (1080p)",
-      "url": "",
+      "url": "#EXTINF:-1 tvg-id=\"KinoKazka.es@SD\",KinoKazka (1080p)",
       "logo": "",
       "category": "Otros",
       "options": {
@@ -1405,12 +1399,6 @@
         "category": "Otros"
       },
       {
-        "name": "KinoKazka (1080p)",
-        "url": "http://176.122.125.10:8080/KinoKazka/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "La 1 (720p) [Geo-blocked]",
         "url": "https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8",
         "logo": "",
@@ -1811,7 +1799,7 @@
       },
       {
         "name": "VOTV (1080p)",
-        "url": "",
+        "url": "#EXTINF:-1 tvg-id=\"KinoKazka.es@SD\",KinoKazka (1080p)",
         "logo": "",
         "category": "Otros",
         "options": {

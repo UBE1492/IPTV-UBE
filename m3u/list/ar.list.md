@@ -99,5 +99,6 @@
 | 93 | El Nueve (1080p) | playcom.trapemn.tv:1935 | <http://playcom.trapemn.tv:1935/transcoderip/canal9.stream/playlist.m3u8> |
 | 94 | El Siete (1080p) | edgectc.com | <https://edgectc.com/CANAL7_MZA/index.m3u8> |
 | 95 | Canal Showsport (720p) | livestream.lumpentv.com.ar | <https://livestream.lumpentv.com.ar/hls/lumpen.m3u8> |
+| 96 | Tele Posadas HD (720p) | lbgo.bozztv.com | <https://lbgo.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8> |
 
-Updated at **Sun Jul 19 2026 13:23:57 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jul 19 2026 19:10:38 GMT+0000 (Coordinated Universal Time)**

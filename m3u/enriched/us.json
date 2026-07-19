@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1784467437591,
+  "updated_at": 1784488238489,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -2294,6 +2294,15 @@
       "url": "http://stream.cammonitorplus.net/1752/index.m3u8",
       "logo": "",
       "category": "Otros"
+    },
+    {
+      "name": "The Q India (576p)",
+      "url": "",
+      "logo": "",
+      "category": "Otros",
+      "options": {
+        "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+      }
     }
   ],
   "categories": {
@@ -4589,6 +4598,15 @@
         "url": "http://stream.cammonitorplus.net/1752/index.m3u8",
         "logo": "",
         "category": "Otros"
+      },
+      {
+        "name": "The Q India (576p)",
+        "url": "",
+        "logo": "",
+        "category": "Otros",
+        "options": {
+          "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+        }
       }
     ]
   }
