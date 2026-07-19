@@ -21,7 +21,7 @@ http://108.181.20.255:27347/livehttpplay?channel_id=23079
 http://108.181.20.255:27347/livehttpplay?channel_id=23019
 #EXTINF:-1 tvg-id="DisneyChannel.us@East",Disney Channel (720p)
 http://190.14.10.19:16000/play/a06z/index.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.us@East",Disney Junior (1080p)
+#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@North",Disney Jr. Latin America (1080p)
 http://190.14.10.19:16000/play/a02d/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.us@West",Disney Channel West (720p)
 http://206.212.244.63/3146/index.m3u8
@@ -31,3 +31,5 @@ http://206.212.244.63/3150/index.m3u8
 http://206.212.244.63/3151/index.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.us@West",Nicktoons West (1080p)
 http://206.212.244.63/3152/index.m3u8
+#EXTINF:-1 tvg-id="TeenNick.us@East",TeenNick (576p)
+http://tvsen7.aynascope.net/teennick/index.m3u8

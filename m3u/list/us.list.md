@@ -357,7 +357,7 @@
 | 351 | Univision (720p) | IPv4 直链 | <http://108.181.20.255:27347/livehttpplay?channel_id=23089> |
 | 352 | Univision West (1080p) | IPv4 直链 | <http://108.181.20.255:27347/livehttpplay?channel_id=23088> |
 | 353 | Disney Channel (720p) | IPv4 直链 | <http://190.14.10.19:16000/play/a06z/index.m3u8> |
-| 354 | Disney Junior (1080p) | IPv4 直链 | <http://190.14.10.19:16000/play/a02d/index.m3u8> |
+| 354 | Disney Jr. Latin America (1080p) | IPv4 直链 | <http://190.14.10.19:16000/play/a02d/index.m3u8> |
 | 355 | E! Latin America Brazil (432p) | IPv4 直链 | <http://145.239.5.177/111/index.m3u8> |
 | 356 | PokerGo (1080p) | IPv4 直链 | <http://206.212.244.63/4249/index.m3u8> |
 | 357 | Up TV (1080p) | IPv4 直链 | <http://206.212.244.63/4247/index.m3u8> |
@@ -377,5 +377,8 @@
 | 371 | IBTV USA (576p) | tvsen7.aynascope.net | <http://tvsen7.aynascope.net/ibtvusa/index.m3u8> |
 | 372 | Cheddar News (1080p) | hls.livecdn.io | <https://hls.livecdn.io/cheddar.com/cheddar/playlist.m3u8> |
 | 373 | News of the World (720p) | nowhls.wns.live | <https://nowhls.wns.live/hls/stream.m3u8> |
+| 374 | TeenNick (576p) | tvsen7.aynascope.net | <http://tvsen7.aynascope.net/teennick/index.m3u8> |
+| 375 | CBS (576p) | tvsen7.aynascope.net | <http://tvsen7.aynascope.net/cbs/index.m3u8> |
+| 376 | Fox (720p) | stream.cammonitorplus.net | <http://stream.cammonitorplus.net/1752/index.m3u8> |
 
-Updated at **Sat Jul 18 2026 19:09:45 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jul 19 2026 03:15:06 GMT+0000 (Coordinated Universal Time)**

@@ -361,7 +361,7 @@ Telemundo_West_(720p),http://108.181.20.255:27347/livehttpplay?channel_id=23002
 Univision_(720p),http://108.181.20.255:27347/livehttpplay?channel_id=23089
 Univision_West_(1080p),http://108.181.20.255:27347/livehttpplay?channel_id=23088
 Disney_Channel_(720p),http://190.14.10.19:16000/play/a06z/index.m3u8
-Disney_Junior_(1080p),http://190.14.10.19:16000/play/a02d/index.m3u8
+Disney_Jr._Latin_America_(1080p),http://190.14.10.19:16000/play/a02d/index.m3u8
 E!_Latin_America_Brazil_(432p),http://145.239.5.177/111/index.m3u8
 PokerGo_(1080p),http://206.212.244.63/4249/index.m3u8
 Up_TV_(1080p),http://206.212.244.63/4247/index.m3u8
@@ -382,3 +382,6 @@ Willow_(720p),http://tvsen5.aynascope.net/willowhd/index.m3u8
 IBTV_USA_(576p),http://tvsen7.aynascope.net/ibtvusa/index.m3u8
 Cheddar_News_(1080p),https://hls.livecdn.io/cheddar.com/cheddar/playlist.m3u8
 News_of_the_World_(720p),https://nowhls.wns.live/hls/stream.m3u8
+TeenNick_(576p),http://tvsen7.aynascope.net/teennick/index.m3u8
+CBS_(576p),http://tvsen7.aynascope.net/cbs/index.m3u8
+Fox_(720p),http://stream.cammonitorplus.net/1752/index.m3u8

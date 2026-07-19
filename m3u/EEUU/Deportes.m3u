@@ -27,3 +27,5 @@ https://streamvidex.qzz.io/videx/fox2usa/index.m3u8
 https://gpuserver7.tier1streams.com/ESPN_DEPORTES/index.m3u8
 #EXTINF:-1 tvg-id="beINSportsUSA.us@SD",beIN Sports USA (576p)
 http://40.160.24.52/BEIN_SPORTS_HD/index.m3u8
+#EXTINF:-1 tvg-id="Fox.us@East",Fox (720p)
+http://stream.cammonitorplus.net/1752/index.m3u8

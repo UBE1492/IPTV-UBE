@@ -1,6 +1,6 @@
 {
   "name": "mx",
-  "updated_at": 1784401784844,
+  "updated_at": 1784430905818,
   "m3u": "https://ube1492.github.io/IPTV-UBE/mx.m3u",
   "channels": [
     {
@@ -369,6 +369,12 @@
     {
       "name": "Tlnovelas Latin America (1080p)",
       "url": "http://177.234.249.135:8888/Telenovelas/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Azteca Deportes Network (720p)",
+      "url": "http://38.194.226.190:8000/play/a02r/index.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -741,6 +747,12 @@
       {
         "name": "Tlnovelas Latin America (1080p)",
         "url": "http://177.234.249.135:8888/Telenovelas/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Azteca Deportes Network (720p)",
+        "url": "http://38.194.226.190:8000/play/a02r/index.m3u8",
         "logo": "",
         "category": "Otros"
       }

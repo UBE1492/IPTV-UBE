@@ -65,5 +65,6 @@
 | 59 | Teleritmo (720p) [Not 24/7] | mdstrm.com | <https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8> |
 | 60 | Tlaxcala Televisión (360p) [Not 24/7] | vid26.mega00.com:5443 | <https://vid26.mega00.com:5443/live/streams/qNmc7nulmq8zPYZE1582752735050.m3u8> |
 | 61 | Tlnovelas Latin America (1080p) | IPv4 直链 | <http://177.234.249.135:8888/Telenovelas/index.m3u8> |
+| 62 | Azteca Deportes Network (720p) | IPv4 直链 | <http://38.194.226.190:8000/play/a02r/index.m3u8> |
 
-Updated at **Sat Jul 18 2026 19:09:44 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jul 19 2026 03:15:05 GMT+0000 (Coordinated Universal Time)**

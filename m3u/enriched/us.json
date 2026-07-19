@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1784401785100,
+  "updated_at": 1784430906294,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -2155,7 +2155,7 @@
       "category": "Otros"
     },
     {
-      "name": "Disney Junior (1080p)",
+      "name": "Disney Jr. Latin America (1080p)",
       "url": "http://190.14.10.19:16000/play/a02d/index.m3u8",
       "logo": "",
       "category": "Otros"
@@ -2274,6 +2274,24 @@
     {
       "name": "News of the World (720p)",
       "url": "https://nowhls.wns.live/hls/stream.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "TeenNick (576p)",
+      "url": "http://tvsen7.aynascope.net/teennick/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "CBS (576p)",
+      "url": "http://tvsen7.aynascope.net/cbs/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Fox (720p)",
+      "url": "http://stream.cammonitorplus.net/1752/index.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -4432,7 +4450,7 @@
         "category": "Otros"
       },
       {
-        "name": "Disney Junior (1080p)",
+        "name": "Disney Jr. Latin America (1080p)",
         "url": "http://190.14.10.19:16000/play/a02d/index.m3u8",
         "logo": "",
         "category": "Otros"
@@ -4551,6 +4569,24 @@
       {
         "name": "News of the World (720p)",
         "url": "https://nowhls.wns.live/hls/stream.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "TeenNick (576p)",
+        "url": "http://tvsen7.aynascope.net/teennick/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "CBS (576p)",
+        "url": "http://tvsen7.aynascope.net/cbs/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Fox (720p)",
+        "url": "http://stream.cammonitorplus.net/1752/index.m3u8",
         "logo": "",
         "category": "Otros"
       }
