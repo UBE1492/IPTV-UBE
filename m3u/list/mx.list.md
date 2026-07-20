@@ -67,4 +67,4 @@
 | 61 | Tlnovelas Latin America (1080p) | IPv4 直链 | <http://177.234.249.135:8888/Telenovelas/index.m3u8> |
 | 62 | Azteca Deportes Network (720p) | IPv4 直链 | <http://38.194.226.190:8000/play/a02r/index.m3u8> |
 
-Updated at **Mon Jul 20 2026 03:29:30 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jul 20 2026 09:20:11 GMT+0000 (Coordinated Universal Time)**
