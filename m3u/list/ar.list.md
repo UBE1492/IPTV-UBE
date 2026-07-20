@@ -101,4 +101,4 @@
 | 95 | Canal Showsport (720p) | livestream.lumpentv.com.ar | <https://livestream.lumpentv.com.ar/hls/lumpen.m3u8> |
 | 96 | Tele Posadas HD (720p) | lbgo.bozztv.com | <https://lbgo.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8> |
 
-Updated at **Sun Jul 19 2026 19:10:38 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jul 20 2026 03:29:30 GMT+0000 (Coordinated Universal Time)**
