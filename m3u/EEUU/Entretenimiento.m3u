@@ -112,7 +112,7 @@ https://eu1.servers10.com:8081/8230/index.m3u8
 #EXTINF:-1 tvg-id="RallyTV.us@SD",Rally TV (1080p)
 https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8
 #EXTINF:-1 tvg-id="RetroTV.us@East",Retro TV (720p)
-https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/retro/index.m3u8
+https://freecast-lukentvlive.vgcdn.net/out/v1/665e9f91614b43b0a0654e9317f1d9f3/index.m3u8
 #EXTINF:-1 tvg-id="RFDTV.us@SD",RFD-TV (1080p)
 http://40.160.24.55/RFD-TV/index.m3u8
 #EXTINF:-1 tvg-id="RFDTV.us@SD",RFD-TV (720p)

@@ -218,8 +218,8 @@ Radio_Tele_Sentinel,https://59d39900ebfb8.streamlock.net/radiotelesentinel/radio
 RadioMensaje_TV_(720p),https://eu1.servers10.com:8081/8230/index.m3u8
 Rally_TV_(1080p),https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8
 Reelz_(720p),http://23.237.104.106:8080/USA_REELZ/index.m3u8
-Retro_TV_(720p),https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/retro/index.m3u8
-REV'N_Action_(720p),https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Revn/index.m3u8
+Retro_TV_(720p),https://freecast-lukentvlive.vgcdn.net/out/v1/665e9f91614b43b0a0654e9317f1d9f3/index.m3u8
+Rev'n_Action_(720p),https://freecast-lukentvlive.vgcdn.net/out/v1/a4f31f297fc5440f814bd2cffd77e689/index.m3u8
 Revolt_(720p),http://23.237.104.106:8080/USA_REVOLT/index.m3u8
 Revry_(1080p),https://linear-43.frequency.stream/dist/24i/43/hls/master/playlist.m3u8
 Revry_Her_(720p),https://linear-73.frequency.stream/dist/24i/73/hls/master/playlist.m3u8

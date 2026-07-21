@@ -218,8 +218,8 @@
 | 212 | RadioMensaje TV (720p) | eu1.servers10.com:8081 | <https://eu1.servers10.com:8081/8230/index.m3u8> |
 | 213 | Rally TV (1080p) | rally-tv-live.akamaized.net | <https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8> |
 | 214 | Reelz (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_REELZ/index.m3u8> |
-| 215 | Retro TV (720p) | lukentvlive.vgcdn.net | <https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/retro/index.m3u8> |
-| 216 | REV'N Action (720p) | lukentvlive.vgcdn.net | <https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Revn/index.m3u8> |
+| 215 | Retro TV (720p) | freecast-lukentvlive.vgcdn.net | <https://freecast-lukentvlive.vgcdn.net/out/v1/665e9f91614b43b0a0654e9317f1d9f3/index.m3u8> |
+| 216 | Rev'n Action (720p) | freecast-lukentvlive.vgcdn.net | <https://freecast-lukentvlive.vgcdn.net/out/v1/a4f31f297fc5440f814bd2cffd77e689/index.m3u8> |
 | 217 | Revolt (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_REVOLT/index.m3u8> |
 | 218 | Revry (1080p) | linear-43.frequency.stream | <https://linear-43.frequency.stream/dist/24i/43/hls/master/playlist.m3u8> |
 | 219 | Revry Her (720p) | linear-73.frequency.stream | <https://linear-73.frequency.stream/dist/24i/73/hls/master/playlist.m3u8> |
@@ -543,4 +543,4 @@
 | 537 | MGM+ (1080p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/EPIX/index.m3u8> |
 | 538 | MGM+ Drive-In (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/EPIX_DRIVE-IN/index.m3u8> |
 
-Updated at **Tue Jul 21 2026 08:34:00 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jul 21 2026 13:59:40 GMT+0000 (Coordinated Universal Time)**

@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1784622840798,
+  "updated_at": 1784642380807,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -1307,13 +1307,13 @@
     },
     {
       "name": "Retro TV (720p)",
-      "url": "https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/retro/index.m3u8",
+      "url": "https://freecast-lukentvlive.vgcdn.net/out/v1/665e9f91614b43b0a0654e9317f1d9f3/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "REV'N Action (720p)",
-      "url": "https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Revn/index.m3u8",
+      "name": "Rev'n Action (720p)",
+      "url": "https://freecast-lukentvlive.vgcdn.net/out/v1/a4f31f297fc5440f814bd2cffd77e689/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -4568,13 +4568,13 @@
       },
       {
         "name": "Retro TV (720p)",
-        "url": "https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/retro/index.m3u8",
+        "url": "https://freecast-lukentvlive.vgcdn.net/out/v1/665e9f91614b43b0a0654e9317f1d9f3/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "REV'N Action (720p)",
-        "url": "https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Revn/index.m3u8",
+        "name": "Rev'n Action (720p)",
+        "url": "https://freecast-lukentvlive.vgcdn.net/out/v1/a4f31f297fc5440f814bd2cffd77e689/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
