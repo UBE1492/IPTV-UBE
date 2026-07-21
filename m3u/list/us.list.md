@@ -543,4 +543,4 @@
 | 537 | MGM+ (1080p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/EPIX/index.m3u8> |
 | 538 | MGM+ Drive-In (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/EPIX_DRIVE-IN/index.m3u8> |
 
-Updated at **Tue Jul 21 2026 13:59:40 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jul 21 2026 19:35:33 GMT+0000 (Coordinated Universal Time)**
