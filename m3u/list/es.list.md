@@ -31,116 +31,96 @@
 | 25 | Aragon TV Internacional (720p) [Not 24/7] | cartv.streaming.aranova.es | <https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8> |
 | 26 | Atrescine (1080p) | IPv4 直链 | <http://181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8> |
 | 27 | AXN CEE Bulgary | IPv4 直链 | <http://85.11.144.9:4222/AXN> |
-| 28 | Bailén TV (720p) [Not 24/7] | cpd.bailen.tv:8080 | <http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8> |
-| 29 | Barca TV | live20.bozztv.com | <https://live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8> |
-| 30 | BCN Gospel TV HD (720p) | live1.ovalcast.com:3916 | <https://live1.ovalcast.com:3916/live/bcngospeltvlive.m3u8> |
-| 31 | Canal San Roque (1080p) [Not 24/7] | cdnlivevlc.codev8.net | <https://cdnlivevlc.codev8.net/aytosanroquelive/smil:channel1.smil/playlist.m3u8> |
-| 32 | Canal Sierra de Cádiz (1080p) [Not 24/7] | s.emisoras.tv:8081 | <https://s.emisoras.tv:8081/sierradecadiz/index.m3u8> |
-| 33 | Canal Sur Andalucia (1080p) | dfk2a268yviz9.cloudfront.net | <https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8> |
-| 34 | Canal Sur Andalucia (720p) | live-24-canalsur.interactvty.pro | <https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8> |
-| 35 | Canal Sur Andalucía 2 (720p) | cdnlive.codev8.net | <https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8> |
-| 36 | Canal Sur Noticias | cdnlive.codev8.net | <https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8> |
-| 37 | CanalCosta (1080p) | 5d8d85cf2c308.streamlock.net:1936 | <https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/endirecto/playlist.m3u8> |
-| 38 | Cancionero TV (360p) | IPv4 直链 | <http://89.140.229.5/hls1/cancionero.m3u8> |
-| 39 | Cetelmón TV (404p) | player.cetelmon.tv | <http://player.cetelmon.tv/protecteddfd43c2f3a8b41f3f28582bf8993aca6/992_high.m3u8> |
-| 40 | Ciudades Del Ocio TV (720p) | cloudvideo.servers10.com:8081 | <https://cloudvideo.servers10.com:8081/8024/index.m3u8> |
-| 41 | Clan (720p) [Geo-blocked] | rtvelivestream.rtve.es | <https://rtvelivestream.rtve.es/rtvesec/clan/clan_main.m3u8> |
-| 42 | Clan Internacional Americas (1080p) [Geo-blocked] | rtvelivestream-rtveplayplus.rtve.es | <https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8> |
-| 43 | Clan TVE (1080p) [Geo-blocked] | ztnr.rtve.es | <https://ztnr.rtve.es/ztnr/5466990.m3u8> |
-| 44 | CMM TV HD (1080p) | cdnapisec.kaltura.com | <https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/flavorIds/1_a9gxgxzy,1_v71ryg4b,1_vbfvtjw6,1_obo1bqsx,1_3shk3s5d/a.m3u8> |
-| 45 | Condavisión (1080p) [Not 24/7] | 5d8d85cf2c308.streamlock.net:1936 | <https://5d8d85cf2c308.streamlock.net:1936/Condavision/endirecto/playlist.m3u8> |
-| 46 | Congreso de los Diputados 1 (360p) [Not 24/7] | congresodirecto.akamaized.net | <https://congresodirecto.akamaized.net/hls/live/2038274/canal1/master.m3u8> |
-| 47 | Congreso de los Diputados 2 (360p) [Not 24/7] | congresodirecto.akamaized.net | <https://congresodirecto.akamaized.net/hls/live/2038275/canal2/master.m3u8> |
-| 48 | Congreso de los Diputados 3 (360p) [Not 24/7] | congresodirecto.akamaized.net | <https://congresodirecto.akamaized.net/hls/live/2038276/canal3/master.m3u8> |
-| 49 | Congreso de los Diputados 4 (360p) [Not 24/7] | congresodirecto.akamaized.net | <https://congresodirecto.akamaized.net/hls/live/2038277/canal4/master.m3u8> |
-| 50 | Congreso de los Diputados 5 (360p) [Not 24/7] | congresodirecto.akamaized.net | <https://congresodirecto.akamaized.net/hls/live/2038278/canal5/master.m3u8> |
-| 51 | Córdoba TV [Not 24/7] | cloudvideo.servers10.com:8081 | <https://cloudvideo.servers10.com:8081/8020/index.m3u8> |
-| 52 | Corts Valencianes (480p) [Not 24/7] | streamserver3.seneca.tv | <https://streamserver3.seneca.tv/cval_live/cdn_enc_3/master.m3u8> |
-| 53 | Costa Noroeste TV (1080p) [Not 24/7] | limited31.todostreaming.es | <https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8> |
-| 54 | Cristiana TV (576p) | cristianos2.todostreaming.es | <https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8> |
-| 55 | El 33 (1080p) [Geo-blocked] | directes-tv-cat.3catdirectes.cat | <https://directes-tv-cat.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8> |
-| 56 | El 33 Originals (1080p) [Not 24/7] | directes-tv-int.3catdirectes.cat | <https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8> |
-| 57 | El Toro TV (720p) | streaming-1.eltorotv.com | <https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8> |
-| 58 | Elche 7 TV (576p) | elche7tv.gestec-video.com | <https://elche7tv.gestec-video.com/hls/canal2.m3u8> |
-| 59 | Empordà TV (1080p) | video3.lhdserver.es | <https://video3.lhdserver.es/empordatv2/live.m3u8> |
-| 60 | Esport3 (1080p) [Geo-blocked] | directes-tv-cat.3catdirectes.cat | <https://directes-tv-cat.3catdirectes.cat/live-content/esport3-hls/master.m3u8> |
-| 61 | Esport3 (1080p) [Not 24/7] | directes-tv-int.3catdirectes.cat | <https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8> |
-| 62 | Este Canal TV (576p) | synclosdragos1.syncsolutions.es:8008 | <http://synclosdragos1.syncsolutions.es:8008/live3/emision/index.m3u8> |
-| 63 | Estepona Televisión (720p) | cloudvideo.servers10.com:8081 | <https://cloudvideo.servers10.com:8081/8022/index.m3u8> |
-| 64 | Fibwi (1080p) [Not 24/7] | hostcdn3.fibwi.com | <https://hostcdn3.fibwi.com/fibwi_diario/index.fmp4.m3u8> |
-| 65 | Fitel TV (1080p) | tv.mywifisocial.es | <https://tv.mywifisocial.es/live.m3u8> |
-| 66 | Fuerteventura TV (1080p) | 5c0956165db0b.streamlock.net | <https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8> |
-| 67 | Galicia TV Europa (720p) | crtvg-europa.flumotion.cloud | <https://crtvg-europa.flumotion.cloud/playlist.m3u8> |
-| 68 | Goiena Eus (720p) | zuzenean.goienamedia.eus | <https://zuzenean.goienamedia.eus/goiena-telebista.m3u8> |
-| 69 | Gol (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_GOLTV/index.m3u8> |
-| 70 | Gol Classics (1080p) | d71gqtnep83vb.cloudfront.net | <https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8> |
-| 71 | Guada TV (720p) [Not 24/7] | cloud.streamingconnect.tv | <https://cloud.streamingconnect.tv/hls/guadatv/guadatv.m3u8> |
-| 72 | HOLA! Play (1080p) | hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv | <https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8> |
-| 73 | Huelva TV (720p) | 5d8d85cf2c308.streamlock.net:1936 | <https://5d8d85cf2c308.streamlock.net:1936/huelvatv/htvdirecto/playlist.m3u8> |
-| 74 | IberoAmerica TV (1080p) | limited39.todostreaming.es | <https://limited39.todostreaming.es/live/salome-livestream.m3u8> |
-| 75 | Imás TV (1080p) [Not 24/7] | secure3.todostreaming.es | <https://secure3.todostreaming.es/live/imastv-livestream.m3u8> |
-| 76 | Interalmeria TV (1080p) | interalmeria.tv | <https://interalmeria.tv/directo/live.m3u8> |
-| 77 | Intercomarcal TV (576p) [Not 24/7] | streamingtvi.gestec-video.com | <https://streamingtvi.gestec-video.com/hls/tvixa.m3u8> |
-| 78 | La 1 (720p) [Geo-blocked] | rtvelivestream.rtve.es | <https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8> |
-| 79 | La 1 (720p) | ztnr.rtve.es | <https://ztnr.rtve.es/ztnr/1688877.m3u8> |
-| 80 | La 1 Canarias (720p) [Geo-blocked] | rtvelivestream.rtve.es | <https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main.m3u8> |
-| 81 | La 1 Canarias (720p) | ztnr.rtve.es | <https://ztnr.rtve.es/ztnr/5190066.m3u8> |
-| 82 | La 1 Catalunya (720p) [Geo-blocked] | rtvelivestream.rtve.es | <https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main.m3u8> |
-| 83 | La 1 Catalunya (720p) | ztnr.rtve.es | <https://ztnr.rtve.es/ztnr/3293681.m3u8> |
-| 84 | La 2 Canarias (720p) | ztnr.rtve.es | <https://ztnr.rtve.es/ztnr/5468585.m3u8> |
-| 85 | La 2 Catalunya (720p) | ztnr.rtve.es | <https://ztnr.rtve.es/ztnr/3987218.m3u8> |
-| 86 | La Urban TV (1080p) [Not 24/7] | urbanrevolution.es:8443 | <https://urbanrevolution.es:8443/live/TV/playlist.m3u8> |
-| 87 | LaLiga Hypermotion (1080p) | latam-cache-sv2-cdn.latamlive.net | <http://latam-cache-sv2-cdn.latamlive.net/LA_LIGA_SMARTBANK_IP_ENC_LIVE/index.m3u8> |
-| 88 | LaLiga TV | IPv4 直链 | <http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTZID4SFOqZLZ81NguVP-JxM/m3u8> |
-| 89 | Lancelot TV (404p) | 5c0956165db0b.streamlock.net:8090 | <https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8> |
-| 90 | LaOtra (720p) | laotra-1-23-secure2.akamaized.net | <https://laotra-1-23-secure2.akamaized.net/master.m3u8> |
-| 91 | Mijas 3.40TV (720p) | streaming004.gestec-video.com | <https://streaming004.gestec-video.com/hls/MIJAS.m3u8> |
-| 92 | Mírame TV (360p) [Not 24/7] | bit.controlstreams.com:5443 | <https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8> |
-| 93 | Molahits TV (720p) | ventdelnord.tv:8080 | <http://ventdelnord.tv:8080/mola/directe.m3u8> |
-| 94 | Music TV Granada (1080p) [Not 24/7] | cloudvideo.servers10.com:8081 | <https://cloudvideo.servers10.com:8081/8032/index.m3u8> |
-| 95 | NatureTime (1080p) | shls-live-ak.akamaized.net | <https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8> |
-| 96 | Negocios TV (1080p) | streaming013.gestec-video.com | <https://streaming013.gestec-video.com/hls/negociostv.m3u8> |
-| 97 | NORTEvisión (1080p) | amaru.dyndns.org:8870 | <http://amaru.dyndns.org:8870/0.m3u8> |
-| 98 | Nova (720p) | IPv4 直链 | <http://40.160.24.55/Nova/index.m3u8> |
-| 99 | Pequeradio (720p) [Not 24/7] | canadaremar2.todostreaming.es | <https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8> |
-| 100 | Piera TV (720p) [Not 24/7] | IPv4 直链 | <http://51.254.47.72:1935/piera/smil:piera.smil/master.m3u8> |
-| 101 | Pirineus TV (1080p) | s153.ipcamlive.com | <https://s153.ipcamlive.com/streams/99pic5fsknh2gnvhx/stream.m3u8> |
-| 102 | Platzi TV (1080p) | mdstrm.com | <https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8> |
-| 103 | POP World TV (720p) | janus.xpbroadcasting.com:8443 | <https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8> |
-| 104 | Popular TV Melilla (1080p) [Not 24/7] | 5940924978228.streamlock.net:1935 | <http://5940924978228.streamlock.net:1935/8009/8009/playlist.m3u8> |
-| 105 | Sevilla FC TV (360p) [Not 24/7] | open.http.mp.streamamg.com | <https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8> |
-| 106 | Sol Música (720p) | d2glyu450vvghm.cloudfront.net | <https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8> |
-| 107 | Solidaria TV (720p) | canadaremar2.todostreaming.es | <https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8> |
-| 108 | SpektraTV (720p) | cloudvideo.servers10.com:8081 | <https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8> |
-| 109 | STZ Telebista (1080p) | cloudvideo.servers10.com:8081 | <https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8> |
-| 110 | SX3 (1080p) [Geo-blocked] | directes-tv-cat.3catdirectes.cat | <https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8> |
-| 111 | Tarotéame (576p) | 5d2733224ac48.streamlock.net | <https://5d2733224ac48.streamlock.net/taroteame/tarot_web/playlist.m3u8> |
-| 112 | TBN España (576p) | edge.xn--tbnespaa-j3a.es | <https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8> |
-| 113 | Teledeporte (720p) [Geo-blocked] | rtvelivestream.rtve.es | <https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8> |
-| 114 | Teleganés (720p) | nlb2-live.emitstream.com | <https://nlb2-live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8> |
-| 115 | Telemadrid Internacional (720p) | new-international-23-secure2.akamaized.net | <https://new-international-23-secure2.akamaized.net/index.m3u8> |
-| 116 | Telemotril (720p) [Not 24/7] | 5940924978228.streamlock.net | <https://5940924978228.streamlock.net/8431/8431/playlist.m3u8> |
-| 117 | Teleonuba (1080p) | 5d8d85cf2c308.streamlock.net:1936 | <https://5d8d85cf2c308.streamlock.net:1936/Teleonuba/endirecto/playlist.m3u8> |
-| 118 | TeleRibera (720p) [Not 24/7] | video1.lhdserver.es | <https://video1.lhdserver.es/teleribera/live.m3u8> |
-| 119 | TV San Vicente (1080p) | emision.arpamedia.es:4343 | <https://emision.arpamedia.es:4343/hls/tvsanvicenteweb.m3u8> |
-| 120 | TVCentro Andalucía (720p) [Not 24/7] | 5fa5de1a545ae.streamlock.net | <https://5fa5de1a545ae.streamlock.net/8052/8052/playlist.m3u8> |
-| 121 | TVE Internacional America (576p) [Geo-blocked] | rtvelivestream-rtveplayplus.rtve.es | <https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_576.m3u8> |
-| 122 | TVE Internacional America HD (1080p) [Geo-blocked] | rtvelivestream-rtveplayplus.rtve.es | <https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8> |
-| 123 | TVE Internacional Asia-Oceania (576p) [Geo-blocked] | rtvelivestream-rtveplayplus.rtve.es | <https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_576.m3u8> |
-| 124 | TVE Internacional Asia-Oceania HD (1080p) [Geo-blocked] | rtvelivestream-rtveplayplus.rtve.es | <https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_1080.m3u8> |
-| 125 | TVE Internacional Europe (576p) [Geo-blocked] | rtvelivestream-rtveplayplus.rtve.es | <https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_576.m3u8> |
-| 126 | TVE Internacional Europe HD (1080p) [Geo-blocked] | rtvelivestream-rtveplayplus.rtve.es | <https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_1080.m3u8> |
-| 127 | TVE Internacional Europe-Asia HD (1080p) | siarlive.psce.pw | <https://siarlive.psce.pw/channel5> |
-| 128 | TVE Star (576p) | rtvelivestream-rtveplayplus.rtve.es | <https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8> |
-| 129 | TVE Star HD (1080p) | rtvelivestream-rtveplayplus.rtve.es | <https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8> |
-| 130 | TVG2 (720p) [Geo-blocked] | crtvg-tvg2.flumotion.cloud | <https://crtvg-tvg2.flumotion.cloud/playlist.m3u8> |
-| 131 | TVM Córdoba (1080p) [Not 24/7] | teledifusion.tv | <http://teledifusion.tv/cordoba/cordobalive/playlist.m3u8> |
-| 132 | TVO Jesus (720p) | cloud.tvomix.com | <https://cloud.tvomix.com/TVOJESUS/index.m3u8> |
-| 133 | TVOMIX (1080p) | cloud.tvomix.com | <https://cloud.tvomix.com/TVOMIX/index.m3u8> |
-| 134 | TVReus (720p) [Not 24/7] | eu1.servers10.com:8081 | <https://eu1.servers10.com:8081/8166/index.m3u8> |
-| 135 | Une Vinalopó (576p) [Not 24/7] | streamingtvi.gestec-video.com | <https://streamingtvi.gestec-video.com/hls/unesd.m3u8> |
-| 136 | Univers TV (720p) | cloud2.streaminglivehd.com:1936 | <https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8> |
-| 137 | Urola Telebista (416p) | 5940924978228.streamlock.net | <https://5940924978228.streamlock.net/j_Directo2/mp4:j_Directo2/playlist.m3u8> |
-| 138 | Vivamóvil (720p) | 5d8d85cf2c308.streamlock.net:1936 | <https://5d8d85cf2c308.streamlock.net:1936/AlcalaTV/endirecto/playlist.m3u8> |
+| 28 | Biosfera TV (720p) [Not 24/7] | tvdatta.com:3021 | <https://tvdatta.com:3021/live/biosferatvlive.m3u8> |
+| 29 | Bon Dia TV (1080p) | directes-tv-int.3catdirectes.cat | <https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8> |
+| 30 | Cadena Elite (720p) [Not 24/7] | cloudvideo.servers10.com:8081 | <https://cloudvideo.servers10.com:8081/8004/index.m3u8> |
+| 31 | Canal 1 Mar Menor-Torre Pacheco (1080p) | directo.tuwebtv.es | <https://directo.tuwebtv.es/canal1.m3u8> |
+| 32 | Canal 3 Biar (480p) [Not 24/7] | avantstreaming.es | <https://avantstreaming.es/hls/canal3.m3u8> |
+| 33 | Canal 4 Catalunya (1080p) | limited35.todostreaming.es | <https://limited35.todostreaming.es/live/mitjans-livestream.m3u8> |
+| 34 | Canal 4 Mallorca (1080p) | limited35.todostreaming.es | <https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8> |
+| 35 | Canal 4 Mancha Centro (720p) [Not 24/7] | 5924d3ad0efcf.streamlock.net | <https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8> |
+| 36 | Canal 10 Empordà (360p) [Not 24/7] | ventdelnord.tv:8080 | <https://ventdelnord.tv:8080/escala/directe.m3u8> |
+| 37 | Canal 24 Horas (720p) | ztnr.rtve.es | <https://ztnr.rtve.es/ztnr/1694255.m3u8> |
+| 38 | Canal 24 Horas Canarias (720p) | ztnr.rtve.es | <https://ztnr.rtve.es/ztnr/5473142.m3u8> |
+| 39 | Canal 24 Horas Catalunya (720p) | ztnr.rtve.es | <https://ztnr.rtve.es/ztnr/4952053.m3u8> |
+| 40 | Canal 25 TV (1080p) | limited49.todostreaming.es | <https://limited49.todostreaming.es/live/tvbarbastro-livestream.m3u8> |
+| 41 | Canal 33 Madrid | media2.streambrothers.com:1936 | <https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8> |
+| 42 | Canal 45 (576p) | nlb1-live.emitstream.com | <https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8> |
+| 43 | Canal 56 (576p) [Not 24/7] | videos.canal56.com | <https://videos.canal56.com/directe/stream/index.m3u8> |
+| 44 | Canal 2000 La Solana (720p) [Not 24/7] | canal2000.berkano-systems.net | <http://canal2000.berkano-systems.net/streaming/streams/canal2000.m3u8> |
+| 45 | Canal Coín (1080p) | canalcoin.garjim.es | <https://canalcoin.garjim.es/hls/directo.m3u8> |
+| 46 | Canal Diocesano (576p) | nlb2-live.emitstream.com | <https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/master.m3u8> |
+| 47 | Canal Doñana (720p) [Not 24/7] | secure5.todostreaming.es | <https://secure5.todostreaming.es/live/division-alm.m3u8> |
+| 48 | Canal Extremadura (576p) [Not 24/7] | cdnlive.codev8.net | <https://cdnlive.codev8.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8?DVR=> |
+| 49 | Canal Extremadura Satelite (1080p) | canalextremadura-live.flumotion.cloud | <https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist.m3u8> |
+| 50 | Canal Luz Television | 5f71743aa95e4.streamlock.net:1936 | <https://5f71743aa95e4.streamlock.net:1936/CanalLuz/enDirecto/playlist.m3u8> |
+| 51 | Canal Luz Televisión (1080p) | 5d8d85cf2c308.streamlock.net:1936 | <https://5d8d85cf2c308.streamlock.net:1936/CanalLuz/enDirecto/playlist.m3u8> |
+| 52 | Canal Málaga RTV (720p) [Not 24/7] | canalmalaga-tv-live.flumotion.com | <https://canalmalaga-tv-live.flumotion.com/playlist.m3u8> |
+| 53 | Canal Parlamento (360p) [Not 24/7] | congresodirecto.akamaized.net | <https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8> |
+| 54 | Diez TV Las Villas (1080p) | streaming.cloud.innovasur.es | <https://streaming.cloud.innovasur.es/mmj2/index.m3u8> |
+| 55 | Diez TV Úbeda (1080p) | streaming.cloud.innovasur.es | <https://streaming.cloud.innovasur.es/mmj/index.m3u8> |
+| 56 | Disney Junior (576p) | bbb.exoadash.com | <https://bbb.exoadash.com/TVD1561/index.mpd> |
+| 57 | Distrito TV (1080p) | nlb2-live.emitstream.com | <https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8> |
+| 58 | Durangaldeko Telebista (576p) | nlb2-live.emitstream.com | <https://nlb2-live.emitstream.com/hls/5f9asjsehd7gmyxsdpzu/master.m3u8> |
+| 59 | ETB 1 (1080p) [Geo-blocked] | cdn1.etbon.eus | <https://cdn1.etbon.eus/etb1/index.m3u8> |
+| 60 | ETB1 On (1080p) | cdn1.etbon.eus | <https://cdn1.etbon.eus/etb1on/index.m3u8> |
+| 61 | ETB 2 (1080p) [Geo-blocked] | cdn1.etbon.eus | <https://cdn1.etbon.eus/etb2/index.m3u8> |
+| 62 | ETB2 On (1080p) | cdn1.etbon.eus | <https://cdn1.etbon.eus/etb2on/index.m3u8> |
+| 63 | ETB Events 1 (1080p) | cdn1.etbon.eus | <https://cdn1.etbon.eus/oc1/index.m3u8> |
+| 64 | Logos TV (1080p) [Not 24/7] | streamer1.streamhost.org | <https://streamer1.streamhost.org/salive/logosH/master.m3u8> |
+| 65 | Logos TV Estudio (720p) [Not 24/7] | streamer1.streamhost.org | <https://streamer1.streamhost.org/salive/logosdirectaH/playlist.m3u8> |
+| 66 | Logos TV Kids (720p) [Not 24/7] | streamer1.streamhost.org | <https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8> |
+| 67 | Logos TV Salud (720p) [Not 24/7] | streamer1.streamhost.org | <https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8> |
+| 68 | Love The Planet (1080p) [Geo-blocked] | amg01821-lovetv-amg01821c8-xumo-us-3443.playouts.now.amagi.tv | <https://amg01821-lovetv-amg01821c8-xumo-us-3443.playouts.now.amagi.tv/playlist.m3u8> |
+| 69 | Love The Planet DE (1080p) [Geo-blocked] | amg01821-amg01821c12-rlaxx-gb-10461.playouts.now.amagi.tv | <https://amg01821-amg01821c12-rlaxx-gb-10461.playouts.now.amagi.tv/playlist.m3u8> |
+| 70 | Love The Planet ES (1080p) [Geo-blocked] | amg01821-lovetv-amg01821c9-rlaxx-gb-10458.playouts.now.amagi.tv | <https://amg01821-lovetv-amg01821c9-rlaxx-gb-10458.playouts.now.amagi.tv/playlist.m3u8> |
+| 71 | Love The Planet IT (1080p) [Geo-blocked] | amg01821-amg01821c11-rlaxx-gb-10459.playouts.now.amagi.tv | <https://amg01821-amg01821c11-rlaxx-gb-10459.playouts.now.amagi.tv/playlist.m3u8> |
+| 72 | M95 Televisión Marbella (1080p) [Not 24/7] | limited2.todostreaming.es | <https://limited2.todostreaming.es/live/m95-livestream.m3u8> |
+| 73 | Maestrat TV (1080p) | stream.maestrat.tv | <https://stream.maestrat.tv/hls/stream.m3u8> |
+| 74 | Mar TV (1080p) | iptv.services.everywan.net:8080 | <http://iptv.services.everywan.net:8080/martv-web/video.m3u8> |
+| 75 | Onda 15 TV (224p) | cloudvideo.servers10.com:8081 | <https://cloudvideo.servers10.com:8081/8034/index.m3u8> |
+| 76 | Onda Algeciras TV (576p) | cloudtv.provideo.es | <https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8> |
+| 77 | Onda Cádiz 24h (720p) | ondacadiztv.es:30443 | <https://ondacadiztv.es:30443/octv/24h/playlist.m3u8> |
+| 78 | Onda Madrid (720p) | tvradio-1-23-secure2.akamaized.net | <https://tvradio-1-23-secure2.akamaized.net/master.m3u8> |
+| 79 | Onda Valencia (720p) | cloudvideo.servers10.com:8081 | <https://cloudvideo.servers10.com:8081/8116/index.m3u8> |
+| 80 | Parlamento de Andalucía (576p) [Not 24/7] | IPv4 直链 | <http://193.147.254.64:1935/realizacion1/realizacion1/playlist.m3u8> |
+| 81 | Parlamento de Navarra (368p) [Not 24/7] | broadcasting.parlamentodenavarra.es | <https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8> |
+| 82 | PTV Córdoba (1080p) | streamer.zapitv.com | <https://streamer.zapitv.com/PTV_CORDOBA/index.m3u8> |
+| 83 | PTV Granada (720p) | streamer.zapitv.com | <https://streamer.zapitv.com/PTV-granada/index.m3u8> |
+| 84 | PTV Linares (720p) | streamer.zapitv.com | <https://streamer.zapitv.com/ptv-linarez/index.m3u8> |
+| 85 | PTV Málaga (1080p) | streamer.zapitv.com | <https://streamer.zapitv.com/PTV-malaga/index.m3u8> |
+| 86 | PTV Sevilla (1080p) | streamer.zapitv.com | <https://streamer.zapitv.com/PTV_sevilla/index.m3u8> |
+| 87 | Punt 3 Vall Uixó (1080p) | bit.controlstreams.com:5443 | <https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8> |
+| 88 | Radio 3 (720p) | rtvelivestream.rtve.es | <https://rtvelivestream.rtve.es/rtvesec/rne/rne3_main.m3u8> |
+| 89 | Ràdio Bocairent TV (1080p) [Not 24/7] | IPv4 直链 | <http://185.81.77.4/BocairentTV/index.m3u8> |
+| 90 | Radio Carnaval TV (720p) [Not 24/7] | eu1.servers10.com:8081 | <https://eu1.servers10.com:8081/8116/index.m3u8> |
+| 91 | Rakuten Viki (1080p) | newidco-rakutenviki-2-eu.xiaomi.wurl.tv | <https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8> |
+| 92 | Real Madrid TV (404p) | rmtv.akamaized.net | <https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8> |
+| 93 | Real Madrid TV English [Geo-blocked] | rmtv.akamaized.net | <https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8> |
+| 94 | Ribera TV (576p) | common01.todostreaming.es | <https://common01.todostreaming.es/live/ribera-livestream.m3u8> |
+| 95 | Rioja Televisión (360p) [Not 24/7] | 5924d3ad0efcf.streamlock.net | <https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8> |
+| 96 | RNE para todos (720p) | rtvelivestream.rtve.es | <https://rtvelivestream.rtve.es/rtvesec/rne/rne_para_todos_main.m3u8> |
+| 97 | RTV Marbella (720p) | streaming.rtvmarbella.tv | <https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8> |
+| 98 | RTV Vida (1080p) | vidartv2.todostreaming.es | <https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8> |
+| 99 | Tele Elx (1080p) | tvdirecto.teleelx.es | <https://tvdirecto.teleelx.es/stream/teleelx.m3u8> |
+| 100 | Tele Safor (720p) [Not 24/7] | video.telesafor.com | <https://video.telesafor.com/hls/video.m3u8> |
+| 101 | Televisión Aranda (720p) | cloud.streamingconnect.tv | <https://cloud.streamingconnect.tv/hls/telearanda/telearanda.m3u8> |
+| 102 | Television Canaria (576p) | d1oyt3v08gcy18.cloudfront.net | <https://d1oyt3v08gcy18.cloudfront.net/index-events.m3u8> |
+| 103 | Televisión Consciente (1080p) | cdn318.fractalmedia.es | <https://cdn318.fractalmedia.es/318/live/hls/tvc/master.m3u8> |
+| 104 | Tito TV (720p) | cloud.tvomix.com | <https://cloud.tvomix.com/TITOTV/index.m3u8> |
+| 105 | Trece TV (576p) | live-edge-bhs-1.cdn.enetres.net | <https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/playlist.m3u8> |
+| 106 | TV3 (1080p) [Geo-blocked] | directes3-tv-cat.3catdirectes.cat | <https://directes3-tv-cat.3catdirectes.cat/live-content/tv3-hls/master.m3u8> |
+| 107 | TV3CAT (1080p) [Geo-blocked] | directes3-tv-es.3catdirectes.cat | <https://directes3-tv-es.3catdirectes.cat/live-content/tvc-hls/master.m3u8> |
+| 108 | TV3CAT Originals (1080p) | directes-tv-int.3catdirectes.cat | <https://directes-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8> |
+| 109 | TV Almassora (1080p) | tvalmassora.com | <https://tvalmassora.com/hls/tvalmassora.m3u8> |
+| 110 | TV Artequatre (576p) | streaming007.gestec-video.com | <https://streaming007.gestec-video.com/hls/artequatreTVA.m3u8> |
+| 111 | Tv Famypanc HD (1080p) | panel.host-live.com:19360 | <https://panel.host-live.com:19360/8042/8042.m3u8> |
+| 112 | TV Girona (1080p) | ventdelnord.tv:8080 | <http://ventdelnord.tv:8080/girona/directe.m3u8> |
+| 113 | Ventdelnord TV (404p) | ventdelnord.tv:8080 | <http://ventdelnord.tv:8080/hls/directe.m3u8> |
+| 114 | XPTV1 (720p) | janus.xpbroadcasting.com:8443 | <https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8> |
+| 115 | XPTV2 (720p) | janus.xpbroadcasting.com:8443 | <https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8> |
+| 116 | XPTV US (720p) | janus.xpbroadcasting.com:8443 | <https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8> |
+| 117 | Cap Terre (1080p) | IPv4 直链 | <http://145.239.5.177/359a/index.m3u8> |
+| 118 | La 2 | rtvelivestream.rtve.es | <https://rtvelivestream.rtve.es/rtvesec/la2/la2_main.m3u8> |
 
-Updated at **Mon Jul 20 2026 19:46:35 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jul 21 2026 02:55:51 GMT+0000 (Coordinated Universal Time)**

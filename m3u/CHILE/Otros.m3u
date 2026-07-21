@@ -77,8 +77,6 @@ https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH
 https://stmv2.voxtvhd.com.br/evavision/evavision/playlist.m3u8
 #EXTINF:-1 tvg-id="FunBox.cl@SD",FunBox
 http://186.148.196.100:8000/play/a00d
-#EXTINF:-1 tvg-id="FX.cl@SD",FX (720p)
-http://138.121.15.230:9002/FX/index.m3u8
 #EXTINF:-1 tvg-id="Girovisual.cl@SD",Girovisual (720p)
 https://live-evg8.tv360.bitel.com.pe/bitel/girovisual/playlist.m3u8
 #EXTINF:-1 tvg-id="GVision.cl@SD",GVision (288p)

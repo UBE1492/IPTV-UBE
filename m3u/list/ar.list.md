@@ -100,5 +100,6 @@
 | 94 | El Siete (1080p) | edgectc.com | <https://edgectc.com/CANAL7_MZA/index.m3u8> |
 | 95 | Canal Showsport (720p) | livestream.lumpentv.com.ar | <https://livestream.lumpentv.com.ar/hls/lumpen.m3u8> |
 | 96 | Tele Posadas HD (720p) | lbgo.bozztv.com | <https://lbgo.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8> |
+| 97 | Telefe Interior (720p) | IPv4 直链 | <http://200.91.32.158:8080/telefehdvalle/index.m3u8> |
 
-Updated at **Mon Jul 20 2026 19:46:33 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jul 21 2026 02:55:51 GMT+0000 (Coordinated Universal Time)**

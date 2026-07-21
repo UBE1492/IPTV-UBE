@@ -63,5 +63,6 @@
 | 57 | Wuan+ | 7.innovatestream.pe:19360 | <https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8> |
 | 58 | Zaracay TV (1080p) [Not 24/7] | video2.makrodigital.com | <https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8> |
 | 59 | TC Television | IPv4 直链 | <http://177.234.218.66:8084/play/a089/index.m3u8> |
+| 60 | TvOro (1080p) | IPv4 直链 | <http://45.187.0.19:9090/tvusa/index.m3u8> |
 
-Updated at **Mon Jul 20 2026 19:46:33 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jul 21 2026 02:55:51 GMT+0000 (Coordinated Universal Time)**

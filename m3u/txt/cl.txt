@@ -90,7 +90,6 @@ FM_Plus_TV_(720p),https://v2.tustreaming.cl/fmplus/index.m3u8
 Fortaleza_TV_(1080p),https://multimedia.fortalezatv.cl/video/video.m3u8
 Frecuencia_7_TV_(720p),https://v2.tustreaming.cl/frecuencia7/index.m3u8
 FunBox,http://186.148.196.100:8000/play/a00d
-FX_(720p),http://138.121.15.230:9002/FX/index.m3u8
 Genial_TV_(720p),https://v1.tustreaming.cl/genialtv/index.m3u8
 Girovisual_(720p),https://live-evg8.tv360.bitel.com.pe/bitel/girovisual/playlist.m3u8
 GVision_(288p),https://videostream.chileservidores.com:8081/tome/index.m3u8

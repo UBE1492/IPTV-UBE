@@ -1,6 +1,6 @@
 {
   "name": "ec",
-  "updated_at": 1784576793808,
+  "updated_at": 1784602551414,
   "m3u": "https://ube1492.github.io/IPTV-UBE/ec.m3u",
   "channels": [
     {
@@ -357,6 +357,12 @@
     {
       "name": "TC Television",
       "url": "http://177.234.218.66:8084/play/a089/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "TvOro (1080p)",
+      "url": "http://45.187.0.19:9090/tvusa/index.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -717,6 +723,12 @@
       {
         "name": "TC Television",
         "url": "http://177.234.218.66:8084/play/a089/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "TvOro (1080p)",
+        "url": "http://45.187.0.19:9090/tvusa/index.m3u8",
         "logo": "",
         "category": "Otros"
       }

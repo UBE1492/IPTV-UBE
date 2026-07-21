@@ -100,3 +100,4 @@ Xtrema_Cartoons,#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1390
 Xtrema_Terror,#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1456
 Canal_Showsport_(720p),https://livestream.lumpentv.com.ar/hls/lumpen.m3u8
 Tele_Posadas_HD_(720p),https://lbgo.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8
+Telefe_Interior_(720p),http://200.91.32.158:8080/telefehdvalle/index.m3u8

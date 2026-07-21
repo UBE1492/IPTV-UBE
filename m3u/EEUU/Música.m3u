@@ -3,31 +3,23 @@
 https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="CMCUSACountryMusicChannel.us@SD",CMC-USA Country Music Channel (720p)
 https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8
-#EXTINF:-1 tvg-id="GMTV.us@SD",GMTV (1080p)
-https://livechannel.mdc.akamaized.net/stitch/livechannel/1341/master1400000.m3u8;session=live_stream_1341
-#EXTINF:-1 tvg-id="IndiMusicTV.us@SD",IndiMusic TV (720p)
-https://live-evg10.tv360.bitel.com.pe/bitel/musictv/playlist.m3u8
-#EXTINF:-1 tvg-id="LLBNTVLatino.us@SD",Lighting Lives Blessing Nations TV Latino (LLBN) (480p)
-https://brightstar-latino-pull-secure.akamaized.net/brightstarlatino/stream.m3u8
-#EXTINF:-1 tvg-id="MTV.us@East",MTV (720p)
-http://40.160.24.53/MTV/index.m3u8
-#EXTINF:-1 tvg-id="MTV2.us@East",MTV2 (1080p)
-http://40.160.24.53/MTV2/index.m3u8
-#EXTINF:-1 tvg-id="MTV2.us@East",MTV2 (720p)
-http://198.58.104.90:8989/mtv2/index.m3u8
-#EXTINF:-1 tvg-id="MTVClassic.us@East",MTV Classic (720p)
-http://206.212.244.63/117/index.m3u8
-#EXTINF:-1 tvg-id="MTVClassic.us@East",MTV Classic (576p)
-http://40.160.24.53/MTV_CLASSIC/index.m3u8
-#EXTINF:-1 tvg-id="MTVLatinAmerica.us@Panregional",MTV Latin America (1080p)
-http://179.60.51.134:8888/MTV/index.m3u8
-#EXTINF:-1 tvg-id="MTVLatinAmerica.us@Panregional",MTV Latin America (720p)
-http://138.186.23.7:8082/MTV/index.m3u8
-#EXTINF:-1 tvg-id="MTVLive.us@SD",MTV Live (1080p)
-http://40.160.24.53/MTV_LIVE/index.m3u8
-#EXTINF:-1 tvg-id="MTVLive.us@SD",MTV Live (720p)
-http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
-#EXTINF:-1 tvg-id="MTVLive.us@SD",MTV Live (576p)
-http://41.205.77.102/MTVUSA/index.m3u8
-#EXTINF:-1 tvg-id="MTVU.us@SD",MTVU (720p)
-http://206.212.244.63/119/index.m3u8
+#EXTINF:-1 tvg-id="NEWKPOP.us@SD",NEW K-POP (1080p)
+https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PopTV.us@SD",Pop TV (720p)
+http://40.160.24.55/POP/index.m3u8
+#EXTINF:-1 tvg-id="SUMtvEnglish.us@SD",SUMtv English (1080p)
+https://bozztv.com/uni10rtmp/ssstv1-cdn/smil:ssstv1web.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SUMtvLatino.us@SD",SUMtv Latino (1080p)
+https://bozztv.com/uni10rtmp/ssstv2-cdn/smil:ssstv2web.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TelehitMusicaEstadosUnidos.us@SD",Telehit Musica Estados Unidos (720p)
+http://177.234.249.135:8888/TelehitMusica/index.m3u8
+#EXTINF:-1 tvg-id="TVSMusicNetwork.us@SD",TVS Music Network (720p)
+https://rpn.bozztv.com/gusa/gusa-tvsmusic/index.m3u8
+#EXTINF:-1 tvg-id="VevoPop.us@SD",Vevo Pop (1080p)
+https://amg00056-amg00056c6-rakuten-uk-3235.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="",WATC Harmony Gospel Music TV (1080p)
+https://tgn.bozztv.com/watc57/watc57-harmony/watc57-harmony/index.m3u8
+#EXTINF:-1 tvg-id="XITENuevoLatino.us@SD",XITE Nuevo Latino (1080p)
+https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8
+#EXTINF:-1 tvg-id="XITESiempreLatino.us@SD",XITE Siempre Latino (1080p)
+https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8

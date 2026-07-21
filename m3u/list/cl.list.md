@@ -95,65 +95,64 @@
 | 89 | Fortaleza TV (1080p) | multimedia.fortalezatv.cl | <https://multimedia.fortalezatv.cl/video/video.m3u8> |
 | 90 | Frecuencia 7 TV (720p) | v2.tustreaming.cl | <https://v2.tustreaming.cl/frecuencia7/index.m3u8> |
 | 91 | FunBox | IPv4 直链 | <http://186.148.196.100:8000/play/a00d> |
-| 92 | FX (720p) | IPv4 直链 | <http://138.121.15.230:9002/FX/index.m3u8> |
-| 93 | Genial TV (720p) | v1.tustreaming.cl | <https://v1.tustreaming.cl/genialtv/index.m3u8> |
-| 94 | Girovisual (720p) | live-evg8.tv360.bitel.com.pe | <https://live-evg8.tv360.bitel.com.pe/bitel/girovisual/playlist.m3u8> |
-| 95 | GVision (288p) | videostream.chileservidores.com:8081 | <https://videostream.chileservidores.com:8081/tome/index.m3u8> |
-| 96 | Holvoet TV (Copiapó) (720p) [Not 24/7] | unlimited1-us.dps.live | <https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8> |
-| 97 | Huasco Television | paneltv.online:1936 | <https://paneltv.online:1936/huasco/huasco/playlist.m3u8> |
-| 98 | Huasco Televisión (360p) | paneltv.online:1936 | <https://paneltv.online:1936/8024/8024/playlist.m3u8> |
-| 99 | Interactiva TV (720p) | unlimited2-cl-isp.dps.live | <https://unlimited2-cl-isp.dps.live/radiointeractiva/radiointeractiva.smil/playlist.m3u8> |
-| 100 | Interradio TV | tv.arkeo.cl:1936 | <https://tv.arkeo.cl:1936/8002/8002/playlist.m3u8> |
-| 101 | Iquique TV (1080p) | origin.skarnetchile.com:8081 | <https://origin.skarnetchile.com:8081/iquiquetv-hd/index.m3u8> |
-| 102 | ISA TV | scl.edge.grupoz.cl | <https://scl.edge.grupoz.cl/isatv/live/playlist.m3u8> |
-| 103 | Islita TV (1080p) | tv.arkeo.cl:1936 | <https://tv.arkeo.cl:1936/unetev/unetev/playlist.m3u8> |
-| 104 | ITV Patagonia (720p) [Not 24/7] | unlimited1-us.dps.live | <https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8> |
-| 105 | ITV Patagonia (720p) | redirector.dps.live | <https://redirector.dps.live/hls/itv/playlist.m3u8> |
-| 106 | Juntos TV (720p) | video.juntostvchile.cl:8879 | <https://video.juntostvchile.cl:8879/hls/web-jntv.m3u8> |
-| 107 | Kanade (1080p) | backend.energeek.cl | <https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH> |
-| 108 | La Chilena TV | vdochile.com:3134 | <https://vdochile.com:3134/stream/play.m3u8> |
-| 109 | La Clave (720p) | unlimited1-cl-isp.dps.live | <https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8> |
-| 110 | La Comarca TV (720p) | v2.tustreaming.cl | <https://v2.tustreaming.cl/lcomarcatv/index.m3u8> |
-| 111 | La Granja TV | oracle.streaminghd.cl | <https://oracle.streaminghd.cl/8126/8126/playlist.m3u8> |
-| 112 | La Melinkana TV (720p) | v1.tustreaming.cl | <https://v1.tustreaming.cl/melinkana/index.m3u8> |
-| 113 | La Metro TV (1080p) | jireh-8-hls-video-us-isp.dps.live | <https://jireh-8-hls-video-us-isp.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/playlist.m3u8> |
-| 114 | La Nuestra (1080p) | redirector.rudo.video | <https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/ln/ln.smil/playlist.m3u8> |
-| 115 | La Popular TV | tv.arkeo.cl:1936 | <https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8> |
-| 116 | La Red (720p) [Not 24/7] | alba-cl-lared-lared.stream.mediatiquestream.com | <https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8> |
-| 117 | La Red (720p) | IPv4 直链 | <http://45.162.193.35/LA_RED/index.m3u8> |
-| 118 | Latina Network TV (576i) | live-server.mivideo.pro:8081 | <https://live-server.mivideo.pro:8081/latinavzla/tracks-v1a1/mono.m3u8> |
-| 119 | Lila TV Pencahue | tv.arkeo.cl:1936 | <https://tv.arkeo.cl:1936/radiolila/radiolila/playlist.m3u8> |
-| 120 | Longino TV | cloud2.streaminglivehd.com:1936 | <https://cloud2.streaminglivehd.com:1936/longinotv-1/longinotv-1/playlist.m3u8> |
-| 121 | LTV (2160p) [Not 24/7] | live.cdnlivecdn.com | <https://live.cdnlivecdn.com/live/c9fe062eed2978749aa00df6485940d298449f5e.m3u8> |
-| 122 | Maqui TV | streamyes.alsolnet.com | <https://streamyes.alsolnet.com/maquiradio/live/playlist.m3u8> |
-| 123 | Maray TV | 5eaccbab48461.streamlock.net:1936 | <https://5eaccbab48461.streamlock.net:1936/8242/ngrp:8242_all/playlist.m3u8> |
-| 124 | Marga Marga TV (720p) | v1.tustreaming.cl | <https://v1.tustreaming.cl/margamargatv/index.m3u8> |
-| 125 | Maulevision (720p) | v2.tustreaming.cl | <https://v2.tustreaming.cl/maulevisiontv/index.m3u8> |
-| 126 | Mega (1080p) | IPv4 直链 | <http://45.162.193.35/MEGAHD/index.m3u8> |
-| 127 | Mega (720p) | pantera1-100gb-cl-movistar.dps.live | <https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8> |
-| 128 | Radio UC (720p) | oracle.streaminghd.cl | <https://oracle.streaminghd.cl/radiouc/radiouc/playlist.m3u8> |
-| 129 | Radio UNIACC (720p) | scl.edge.grupoz.cl | <https://scl.edge.grupoz.cl/uniaccastream/live/playlist.m3u8> |
-| 130 | Radio Universal (720p) | videostream.chileservidores.com:8081 | <https://videostream.chileservidores.com:8081/universal/index.m3u8> |
-| 131 | Radio USACH (720p) | rusach2.janus.cl | <https://rusach2.janus.cl/playlist/stream.m3u8> |
-| 132 | Radio Via Libre (720p) | live20.bozztv.com | <https://live20.bozztv.com/akamaissh101/ssh101/vialibretv/playlist.m3u8> |
-| 133 | Radio Vida Curico (720p) | v2.tustreaming.cl | <https://v2.tustreaming.cl/radiovidacurico/index.m3u8> |
-| 134 | Radio Zona 90.3 (720p) | live.tvcontrolcp.com:8081 | <https://live.tvcontrolcp.com:8081/radiozona/index.m3u8> |
-| 135 | TVR (1080p) [Not 24/7] | unlimited1-us.dps.live | <https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8> |
-| 136 | TVR (720p) | unlimited1-cl.dps.live | <https://unlimited1-cl.dps.live/tvr/tvr.smil/playlist.m3u8> |
-| 137 | TVU Concepción (1080p) | unlimited1-cl-isp.dps.live | <https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8> |
-| 138 | U Los Lagos TV (1080p) [Not 24/7] | tv.ulagos.cl | <http://tv.ulagos.cl/web/live.m3u8> |
-| 139 | UCV TV (720p) | IPv4 直链 | <http://45.162.193.35/UCVTV/index.m3u8> |
-| 140 | UESTV (720p) | tls-cl.cdnz.cl | <https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8> |
-| 141 | UMAGTV | tls-cl.cdnz.cl | <https://tls-cl.cdnz.cl/umag1/ngrp:live_all/playlist.m3u8> |
-| 142 | UMAGTV2 | tls-cl.cdnz.cl | <https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8> |
-| 143 | Uniregion TV | 5ff3d9babae13.streamlock.net | <https://5ff3d9babae13.streamlock.net/ubyecbxnfd/ubyecbxnfd/playlist.m3u8> |
-| 144 | Universidad Autónoma Temuco (UATV) (1080p) [Not 24/7] | unlimited1-us.dps.live | <https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8> |
-| 145 | UTV (720p) | v2.tustreaming.cl | <https://v2.tustreaming.cl/utv/index.m3u8> |
-| 146 | V Classic TV (720p) | 5eaccbab48461.streamlock.net:1936 | <https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8> |
-| 147 | VC Online (720p) | panel.tvstream.cl:1936 | <https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8> |
-| 148 | Verso TV | verso.coopcom.cl | <https://verso.coopcom.cl/live/SHf6GLCpn4hDSpWdzaDzgX0ciU82/index.m3u8> |
-| 149 | Via X (720p) | IPv4 直链 | <http://45.162.193.35/VIAX/index.m3u8> |
-| 150 | Via X (576p) | IPv4 直链 | <http://45.170.130.224:8000/play/a025/index.m3u8> |
-| 151 | Vida Nueva TV | mc.servidor.stream:19360 | <https://mc.servidor.stream:19360/8240/8240.m3u8> |
+| 92 | Genial TV (720p) | v1.tustreaming.cl | <https://v1.tustreaming.cl/genialtv/index.m3u8> |
+| 93 | Girovisual (720p) | live-evg8.tv360.bitel.com.pe | <https://live-evg8.tv360.bitel.com.pe/bitel/girovisual/playlist.m3u8> |
+| 94 | GVision (288p) | videostream.chileservidores.com:8081 | <https://videostream.chileservidores.com:8081/tome/index.m3u8> |
+| 95 | Holvoet TV (Copiapó) (720p) [Not 24/7] | unlimited1-us.dps.live | <https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8> |
+| 96 | Huasco Television | paneltv.online:1936 | <https://paneltv.online:1936/huasco/huasco/playlist.m3u8> |
+| 97 | Huasco Televisión (360p) | paneltv.online:1936 | <https://paneltv.online:1936/8024/8024/playlist.m3u8> |
+| 98 | Interactiva TV (720p) | unlimited2-cl-isp.dps.live | <https://unlimited2-cl-isp.dps.live/radiointeractiva/radiointeractiva.smil/playlist.m3u8> |
+| 99 | Interradio TV | tv.arkeo.cl:1936 | <https://tv.arkeo.cl:1936/8002/8002/playlist.m3u8> |
+| 100 | Iquique TV (1080p) | origin.skarnetchile.com:8081 | <https://origin.skarnetchile.com:8081/iquiquetv-hd/index.m3u8> |
+| 101 | ISA TV | scl.edge.grupoz.cl | <https://scl.edge.grupoz.cl/isatv/live/playlist.m3u8> |
+| 102 | Islita TV (1080p) | tv.arkeo.cl:1936 | <https://tv.arkeo.cl:1936/unetev/unetev/playlist.m3u8> |
+| 103 | ITV Patagonia (720p) [Not 24/7] | unlimited1-us.dps.live | <https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8> |
+| 104 | ITV Patagonia (720p) | redirector.dps.live | <https://redirector.dps.live/hls/itv/playlist.m3u8> |
+| 105 | Juntos TV (720p) | video.juntostvchile.cl:8879 | <https://video.juntostvchile.cl:8879/hls/web-jntv.m3u8> |
+| 106 | Kanade (1080p) | backend.energeek.cl | <https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH> |
+| 107 | La Chilena TV | vdochile.com:3134 | <https://vdochile.com:3134/stream/play.m3u8> |
+| 108 | La Clave (720p) | unlimited1-cl-isp.dps.live | <https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8> |
+| 109 | La Comarca TV (720p) | v2.tustreaming.cl | <https://v2.tustreaming.cl/lcomarcatv/index.m3u8> |
+| 110 | La Granja TV | oracle.streaminghd.cl | <https://oracle.streaminghd.cl/8126/8126/playlist.m3u8> |
+| 111 | La Melinkana TV (720p) | v1.tustreaming.cl | <https://v1.tustreaming.cl/melinkana/index.m3u8> |
+| 112 | La Metro TV (1080p) | jireh-8-hls-video-us-isp.dps.live | <https://jireh-8-hls-video-us-isp.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/playlist.m3u8> |
+| 113 | La Nuestra (1080p) | redirector.rudo.video | <https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/ln/ln.smil/playlist.m3u8> |
+| 114 | La Popular TV | tv.arkeo.cl:1936 | <https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8> |
+| 115 | La Red (720p) [Not 24/7] | alba-cl-lared-lared.stream.mediatiquestream.com | <https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8> |
+| 116 | La Red (720p) | IPv4 直链 | <http://45.162.193.35/LA_RED/index.m3u8> |
+| 117 | Latina Network TV (576i) | live-server.mivideo.pro:8081 | <https://live-server.mivideo.pro:8081/latinavzla/tracks-v1a1/mono.m3u8> |
+| 118 | Lila TV Pencahue | tv.arkeo.cl:1936 | <https://tv.arkeo.cl:1936/radiolila/radiolila/playlist.m3u8> |
+| 119 | Longino TV | cloud2.streaminglivehd.com:1936 | <https://cloud2.streaminglivehd.com:1936/longinotv-1/longinotv-1/playlist.m3u8> |
+| 120 | LTV (2160p) [Not 24/7] | live.cdnlivecdn.com | <https://live.cdnlivecdn.com/live/c9fe062eed2978749aa00df6485940d298449f5e.m3u8> |
+| 121 | Maqui TV | streamyes.alsolnet.com | <https://streamyes.alsolnet.com/maquiradio/live/playlist.m3u8> |
+| 122 | Maray TV | 5eaccbab48461.streamlock.net:1936 | <https://5eaccbab48461.streamlock.net:1936/8242/ngrp:8242_all/playlist.m3u8> |
+| 123 | Marga Marga TV (720p) | v1.tustreaming.cl | <https://v1.tustreaming.cl/margamargatv/index.m3u8> |
+| 124 | Maulevision (720p) | v2.tustreaming.cl | <https://v2.tustreaming.cl/maulevisiontv/index.m3u8> |
+| 125 | Mega (1080p) | IPv4 直链 | <http://45.162.193.35/MEGAHD/index.m3u8> |
+| 126 | Mega (720p) | pantera1-100gb-cl-movistar.dps.live | <https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8> |
+| 127 | Radio UC (720p) | oracle.streaminghd.cl | <https://oracle.streaminghd.cl/radiouc/radiouc/playlist.m3u8> |
+| 128 | Radio UNIACC (720p) | scl.edge.grupoz.cl | <https://scl.edge.grupoz.cl/uniaccastream/live/playlist.m3u8> |
+| 129 | Radio Universal (720p) | videostream.chileservidores.com:8081 | <https://videostream.chileservidores.com:8081/universal/index.m3u8> |
+| 130 | Radio USACH (720p) | rusach2.janus.cl | <https://rusach2.janus.cl/playlist/stream.m3u8> |
+| 131 | Radio Via Libre (720p) | live20.bozztv.com | <https://live20.bozztv.com/akamaissh101/ssh101/vialibretv/playlist.m3u8> |
+| 132 | Radio Vida Curico (720p) | v2.tustreaming.cl | <https://v2.tustreaming.cl/radiovidacurico/index.m3u8> |
+| 133 | Radio Zona 90.3 (720p) | live.tvcontrolcp.com:8081 | <https://live.tvcontrolcp.com:8081/radiozona/index.m3u8> |
+| 134 | TVR (1080p) [Not 24/7] | unlimited1-us.dps.live | <https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8> |
+| 135 | TVR (720p) | unlimited1-cl.dps.live | <https://unlimited1-cl.dps.live/tvr/tvr.smil/playlist.m3u8> |
+| 136 | TVU Concepción (1080p) | unlimited1-cl-isp.dps.live | <https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8> |
+| 137 | U Los Lagos TV (1080p) [Not 24/7] | tv.ulagos.cl | <http://tv.ulagos.cl/web/live.m3u8> |
+| 138 | UCV TV (720p) | IPv4 直链 | <http://45.162.193.35/UCVTV/index.m3u8> |
+| 139 | UESTV (720p) | tls-cl.cdnz.cl | <https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8> |
+| 140 | UMAGTV | tls-cl.cdnz.cl | <https://tls-cl.cdnz.cl/umag1/ngrp:live_all/playlist.m3u8> |
+| 141 | UMAGTV2 | tls-cl.cdnz.cl | <https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8> |
+| 142 | Uniregion TV | 5ff3d9babae13.streamlock.net | <https://5ff3d9babae13.streamlock.net/ubyecbxnfd/ubyecbxnfd/playlist.m3u8> |
+| 143 | Universidad Autónoma Temuco (UATV) (1080p) [Not 24/7] | unlimited1-us.dps.live | <https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8> |
+| 144 | UTV (720p) | v2.tustreaming.cl | <https://v2.tustreaming.cl/utv/index.m3u8> |
+| 145 | V Classic TV (720p) | 5eaccbab48461.streamlock.net:1936 | <https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8> |
+| 146 | VC Online (720p) | panel.tvstream.cl:1936 | <https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8> |
+| 147 | Verso TV | verso.coopcom.cl | <https://verso.coopcom.cl/live/SHf6GLCpn4hDSpWdzaDzgX0ciU82/index.m3u8> |
+| 148 | Via X (720p) | IPv4 直链 | <http://45.162.193.35/VIAX/index.m3u8> |
+| 149 | Via X (576p) | IPv4 直链 | <http://45.170.130.224:8000/play/a025/index.m3u8> |
+| 150 | Vida Nueva TV | mc.servidor.stream:19360 | <https://mc.servidor.stream:19360/8240/8240.m3u8> |
 
-Updated at **Mon Jul 20 2026 19:46:33 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jul 21 2026 02:55:52 GMT+0000 (Coordinated Universal Time)**
