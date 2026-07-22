@@ -550,4 +550,4 @@
 | 544 | NBC (720p) | IPv4 直链 | <http://170.254.17.2:80/NBC/index.m3u8> |
 | 545 | Daystar TV (720p) | IPv4 直链 | <http://170.254.17.2:80/DAYSTAR/index.m3u8> |
 
-Updated at **Wed Jul 22 2026 08:33:14 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jul 22 2026 14:02:34 GMT+0000 (Coordinated Universal Time)**

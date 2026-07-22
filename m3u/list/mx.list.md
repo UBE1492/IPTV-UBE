@@ -71,4 +71,4 @@
 | 65 | bitMe (1080p) | cablered.iptvperu.tv:1936 | <https://cablered.iptvperu.tv:1936/cablered/bitme-srt_new/playlist.m3u8> |
 | 66 | bitMe Latin America (1080p) | cablered.iptvperu.tv:1936 | <https://cablered.iptvperu.tv:1936/cablered/bitme_new/playlist.m3u8> |
 
-Updated at **Wed Jul 22 2026 08:33:14 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jul 22 2026 14:02:34 GMT+0000 (Coordinated Universal Time)**
