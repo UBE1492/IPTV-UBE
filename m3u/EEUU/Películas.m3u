@@ -43,3 +43,5 @@ https://cdn.whiplash.cc/whiplash-cinema/index.m3u8
 https://gpuserver3.tier1streams.com/DAYSTAR_TV/index.m3u8
 #EXTINF:-1 tvg-id="FXMovieChannel.us@SD",FX Movie Channel (720p)
 https://starlite.best/api/stream/hurt/hurt/livetv.epg/fx.movie.channel.us.m3u8
+#EXTINF:-1 tvg-id="DaystarTV.us@SD",Daystar TV (720p)
+http://170.254.17.2:80/DAYSTAR/index.m3u8

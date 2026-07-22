@@ -123,4 +123,4 @@
 | 117 | Cap Terre (1080p) | IPv4 直链 | <http://145.239.5.177/359a/index.m3u8> |
 | 118 | La 2 | rtvelivestream.rtve.es | <https://rtvelivestream.rtve.es/rtvesec/la2/la2_main.m3u8> |
 
-Updated at **Tue Jul 21 2026 19:35:33 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jul 22 2026 02:53:38 GMT+0000 (Coordinated Universal Time)**

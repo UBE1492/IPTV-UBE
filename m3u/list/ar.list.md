@@ -102,4 +102,4 @@
 | 96 | Tele Posadas HD (720p) | lbgo.bozztv.com | <https://lbgo.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8> |
 | 97 | Telefe Interior (720p) | IPv4 直链 | <http://200.91.32.158:8080/telefehdvalle/index.m3u8> |
 
-Updated at **Tue Jul 21 2026 19:35:32 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jul 22 2026 02:53:37 GMT+0000 (Coordinated Universal Time)**

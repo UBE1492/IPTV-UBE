@@ -60,3 +60,5 @@ Wuan+,https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8
 Zaracay_TV_(1080p)_[Not_24/7],https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
 TC_Television,http://177.234.218.66:8084/play/a089/index.m3u8
 TvOro_(1080p),http://45.187.0.19:9090/tvusa/index.m3u8
+Teleamazonas_(720p),http://157.100.248.242:8080/TeleamazonasHD/index.m3u8
+RTS_(720p),http://157.100.248.242:8080/RTSHD/index.m3u8

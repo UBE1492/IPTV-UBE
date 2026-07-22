@@ -66,5 +66,9 @@
 | 60 | Tlaxcala Televisión (360p) [Not 24/7] | vid26.mega00.com:5443 | <https://vid26.mega00.com:5443/live/streams/qNmc7nulmq8zPYZE1582752735050.m3u8> |
 | 61 | Tlnovelas Latin America (1080p) | IPv4 直链 | <http://177.234.249.135:8888/Telenovelas/index.m3u8> |
 | 62 | Azteca Deportes Network (720p) | IPv4 直链 | <http://38.194.226.190:8000/play/a02r/index.m3u8> |
+| 63 | Golden (1080p) | IPv4 直链 | <http://38.19.41.46:8081/MTV/index.m3u8> |
+| 64 | De Pelicula Latin America (1080p) | IPv4 直链 | <http://38.19.41.46:8081/DEPELICULA/index.m3u8> |
+| 65 | bitMe (1080p) | cablered.iptvperu.tv:1936 | <https://cablered.iptvperu.tv:1936/cablered/bitme-srt_new/playlist.m3u8> |
+| 66 | bitMe Latin America (1080p) | cablered.iptvperu.tv:1936 | <https://cablered.iptvperu.tv:1936/cablered/bitme_new/playlist.m3u8> |
 
-Updated at **Tue Jul 21 2026 19:35:33 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jul 22 2026 02:53:38 GMT+0000 (Coordinated Universal Time)**

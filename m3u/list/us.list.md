@@ -542,5 +542,12 @@
 | 536 | NBA TV (1080p) | cdn1.ayitistream.com | <https://cdn1.ayitistream.com/NBATV/index.m3u8> |
 | 537 | MGM+ (1080p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/EPIX/index.m3u8> |
 | 538 | MGM+ Drive-In (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/EPIX_DRIVE-IN/index.m3u8> |
+| 539 | History 2 Latin America Brazil (720p) | IPv4 直链 | <http://138.255.2.6:8084/H2/index.m3u8> |
+| 540 | Lifetime Latin America Brazil (720p) | IPv4 直链 | <http://138.255.2.6:8084/LIFETIME/index.m3u8> |
+| 541 | AMC Latin America Brazil (720p) | IPv4 直链 | <http://170.83.49.66:8083/AMCHD/index.m3u8> |
+| 542 | Adult Swim Latin America (1080p) | cablered.iptvperu.tv:1936 | <https://cablered.iptvperu.tv:1936/cablered/adultswing_new/playlist.m3u8> |
+| 543 | DHE (1080p) | cablered.iptvperu.tv:1936 | <https://cablered.iptvperu.tv:1936/cablered/dhe_new/playlist.m3u8> |
+| 544 | NBC (720p) | IPv4 直链 | <http://170.254.17.2:80/NBC/index.m3u8> |
+| 545 | Daystar TV (720p) | IPv4 直链 | <http://170.254.17.2:80/DAYSTAR/index.m3u8> |
 
-Updated at **Tue Jul 21 2026 19:35:33 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jul 22 2026 02:53:38 GMT+0000 (Coordinated Universal Time)**

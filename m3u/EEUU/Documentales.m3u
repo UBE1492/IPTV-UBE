@@ -3,3 +3,5 @@
 https://rpn.bozztv.com/gusa/gusa-tvshollywoohistory/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryTurbo.us@SD",Discovery Turbo (720p)
 https://gpuserver3.tier1streams.com/MOTORTREND/index.m3u8
+#EXTINF:-1 tvg-id="History2LatinAmerica.us@Brazil",History 2 Latin America Brazil (720p)
+http://138.255.2.6:8084/H2/index.m3u8

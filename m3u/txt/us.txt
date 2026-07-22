@@ -546,3 +546,10 @@ Discovery_Turbo_(720p),https://gpuserver3.tier1streams.com/MOTORTREND/index.m3u8
 NBA_TV_(1080p),https://cdn1.ayitistream.com/NBATV/index.m3u8
 MGM+_(1080p),https://gpuserver3.tier1streams.com/EPIX/index.m3u8
 MGM+_Drive-In_(720p),https://gpuserver3.tier1streams.com/EPIX_DRIVE-IN/index.m3u8
+History_2_Latin_America_Brazil_(720p),http://138.255.2.6:8084/H2/index.m3u8
+Lifetime_Latin_America_Brazil_(720p),http://138.255.2.6:8084/LIFETIME/index.m3u8
+AMC_Latin_America_Brazil_(720p),http://170.83.49.66:8083/AMCHD/index.m3u8
+Adult_Swim_Latin_America_(1080p),https://cablered.iptvperu.tv:1936/cablered/adultswing_new/playlist.m3u8
+DHE_(1080p),https://cablered.iptvperu.tv:1936/cablered/dhe_new/playlist.m3u8
+NBC_(720p),http://170.254.17.2:80/NBC/index.m3u8
+Daystar_TV_(720p),http://170.254.17.2:80/DAYSTAR/index.m3u8

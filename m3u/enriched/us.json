@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1784662533414,
+  "updated_at": 1784688818426,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -3258,6 +3258,48 @@
     {
       "name": "MGM+ Drive-In (720p)",
       "url": "https://gpuserver3.tier1streams.com/EPIX_DRIVE-IN/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "History 2 Latin America Brazil (720p)",
+      "url": "http://138.255.2.6:8084/H2/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Lifetime Latin America Brazil (720p)",
+      "url": "http://138.255.2.6:8084/LIFETIME/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "AMC Latin America Brazil (720p)",
+      "url": "http://170.83.49.66:8083/AMCHD/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Adult Swim Latin America (1080p)",
+      "url": "https://cablered.iptvperu.tv:1936/cablered/adultswing_new/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "DHE (1080p)",
+      "url": "https://cablered.iptvperu.tv:1936/cablered/dhe_new/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "NBC (720p)",
+      "url": "http://170.254.17.2:80/NBC/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Daystar TV (720p)",
+      "url": "http://170.254.17.2:80/DAYSTAR/index.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -6519,6 +6561,48 @@
       {
         "name": "MGM+ Drive-In (720p)",
         "url": "https://gpuserver3.tier1streams.com/EPIX_DRIVE-IN/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "History 2 Latin America Brazil (720p)",
+        "url": "http://138.255.2.6:8084/H2/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Lifetime Latin America Brazil (720p)",
+        "url": "http://138.255.2.6:8084/LIFETIME/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "AMC Latin America Brazil (720p)",
+        "url": "http://170.83.49.66:8083/AMCHD/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Adult Swim Latin America (1080p)",
+        "url": "https://cablered.iptvperu.tv:1936/cablered/adultswing_new/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "DHE (1080p)",
+        "url": "https://cablered.iptvperu.tv:1936/cablered/dhe_new/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "NBC (720p)",
+        "url": "http://170.254.17.2:80/NBC/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Daystar TV (720p)",
+        "url": "http://170.254.17.2:80/DAYSTAR/index.m3u8",
         "logo": "",
         "category": "Otros"
       }
