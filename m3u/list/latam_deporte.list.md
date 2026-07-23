@@ -14,4 +14,4 @@
 | 8 | Fox Sports 2 | streamvidex.qzz.io | <https://streamvidex.qzz.io/videx/fox2usa/index.m3u8> |
 | 9 | beIN Sports USA (576p) | IPv4 直链 | <http://40.160.24.52/BEIN_SPORTS_HD/index.m3u8> |
 
-Updated at **Thu Jul 23 2026 14:08:24 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jul 23 2026 19:22:55 GMT+0000 (Coordinated Universal Time)**
