@@ -567,4 +567,4 @@
 | 561 | Lifetime Latin America (1080p) | IPv4 直链 | <http://181.119.66.28:8081/Lifetime-HD/index.m3u8> |
 | 562 | FX Movie Channel (720p) | IPv4 直链 | <http://40.160.24.52/FXM/index.m3u8> |
 
-Updated at **Thu Jul 23 2026 03:15:00 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jul 23 2026 08:34:51 GMT+0000 (Coordinated Universal Time)**
