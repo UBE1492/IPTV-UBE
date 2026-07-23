@@ -5,3 +5,7 @@ https://rpn.bozztv.com/gusa/gusa-tvshollywoohistory/index.m3u8
 https://gpuserver3.tier1streams.com/MOTORTREND/index.m3u8
 #EXTINF:-1 tvg-id="History2LatinAmerica.us@Brazil",History 2 Latin America Brazil (720p)
 http://138.255.2.6:8084/H2/index.m3u8
+#EXTINF:-1 tvg-id="HistoryLatinAmerica.us@Panregional",History Latin America (1080p)
+http://15.204.246.24:8080/HistoryHD/index.m3u8
+#EXTINF:-1 tvg-id="History2LatinAmerica.us@Panregional",History 2 Latin America (1080p)
+http://181.119.66.28:8081/HISTORY-2/index.m3u8

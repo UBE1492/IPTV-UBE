@@ -101,3 +101,7 @@ Xtrema_Terror,#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1456
 Canal_Showsport_(720p),https://livestream.lumpentv.com.ar/hls/lumpen.m3u8
 Tele_Posadas_HD_(720p),https://lbgo.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8
 Telefe_Interior_(720p),http://200.91.32.158:8080/telefehdvalle/index.m3u8
+Fox_Sports_(720p)_[Not_24/7],https://futbol9865.ultratv13.workers.dev/deportivo111/78.m3u8
+TN_(1080p),http://15.204.246.24:8080/TNHD/index.m3u8
+Disney_Channel_Latin_America_(1080p),http://15.204.246.24:8080/DisneyHD/index.m3u8
+Film_&_Arts_(1080p),http://15.204.246.24:8080/FilmArtsHD/index.m3u8

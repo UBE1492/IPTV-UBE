@@ -115,5 +115,8 @@
 | 109 | Vahos TV | canal.vahostv.com | <https://canal.vahostv.com/stream/0.m3u8> |
 | 110 | Vive TV Colombia (1080p) | IPv4 直链 | <http://192.144.113.132:1935/live/ViveTV/playlist.m3u8> |
 | 111 | Win Sports (1080p) | IPv4 直链 | <http://138.121.15.230:9002/WIN-SPORT/index.m3u8> |
+| 112 | Nuestra Tele Internacional (720p) | IPv4 直链 | <http://170.238.200.199:80/nuestra-tele/index.m3u8> |
+| 113 | RCN Novelas (720p) | IPv4 直链 | <http://170.238.200.199:80/rcn-novelas/index.m3u8> |
+| 114 | Senal Colombia (1080p) | IPv4 直链 | <http://209.14.115.253:8081/SENALCOLOMBIA/index.m3u8> |
 
-Updated at **Wed Jul 22 2026 19:25:08 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jul 23 2026 03:15:01 GMT+0000 (Coordinated Universal Time)**

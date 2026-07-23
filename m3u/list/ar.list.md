@@ -101,5 +101,9 @@
 | 95 | Canal Showsport (720p) | livestream.lumpentv.com.ar | <https://livestream.lumpentv.com.ar/hls/lumpen.m3u8> |
 | 96 | Tele Posadas HD (720p) | lbgo.bozztv.com | <https://lbgo.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8> |
 | 97 | Telefe Interior (720p) | IPv4 直链 | <http://200.91.32.158:8080/telefehdvalle/index.m3u8> |
+| 98 | Fox Sports (720p) [Not 24/7] | futbol9865.ultratv13.workers.dev | <https://futbol9865.ultratv13.workers.dev/deportivo111/78.m3u8> |
+| 99 | TN (1080p) | IPv4 直链 | <http://15.204.246.24:8080/TNHD/index.m3u8> |
+| 100 | Disney Channel Latin America (1080p) | IPv4 直链 | <http://15.204.246.24:8080/DisneyHD/index.m3u8> |
+| 101 | Film & Arts (1080p) | IPv4 直链 | <http://15.204.246.24:8080/FilmArtsHD/index.m3u8> |
 
-Updated at **Wed Jul 22 2026 19:25:07 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jul 23 2026 03:15:00 GMT+0000 (Coordinated Universal Time)**

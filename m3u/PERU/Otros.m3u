@@ -19,12 +19,10 @@ https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="LaTele.pe@SD",La Tele (1080p)
 http://8.243.126.131:8000/play/a01v/index.m3u8
-#EXTINF:-1 tvg-id="Latina.pe@SD",Latina (1080p)
+#EXTINF:-1 tvg-id="LatinaClasicos.pe",Latina Clasicos (1080p)
 http://45.171.108.253:8888/LATINA/index.m3u8
 #EXTINF:-1 tvg-id="Latina.pe@SD",Latina (720p)
 https://live-evg7.tv360.bitel.com.pe/bitel/latina_abr/playlist.m3u8
-#EXTINF:-1 tvg-id="LatinaClasicos.pe@SD",Latina Clasicos (1080p)
-https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="LatinaPodcast.pe@SD",Latina Podcast (720p)
 https://redirector.rudo.video/hls-video/plus226/latina4/latina4.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MetropolitanadelCuzco.pe@SD",Metropolitana del Cuzco

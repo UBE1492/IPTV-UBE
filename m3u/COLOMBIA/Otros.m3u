@@ -119,3 +119,7 @@ https://live.amelbatv.co:81/tdicolombiatv/index.m3u8
 https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemedellin.co@SD",Telemedellin (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+#EXTINF:-1 tvg-id="NuestraTeleInternacional.co@SD",Nuestra Tele Internacional (720p)
+http://170.238.200.199:80/nuestra-tele/index.m3u8
+#EXTINF:-1 tvg-id="SenalColombia.co@SD",Senal Colombia (1080p)
+http://209.14.115.253:8081/SENALCOLOMBIA/index.m3u8

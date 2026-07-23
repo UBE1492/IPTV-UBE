@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1784748307903,
+  "updated_at": 1784776500970,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -3142,12 +3142,6 @@
       "category": "Otros"
     },
     {
-      "name": "FX Movie Channel (720p)",
-      "url": "https://starlite.best/api/stream/hurt/hurt/livetv.epg/fx.movie.channel.us.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "FXX (720p)",
       "url": "https://gpuserver3.tier1streams.com/FXX/index.m3u8",
       "logo": "",
@@ -3300,6 +3294,114 @@
     {
       "name": "Daystar TV (720p)",
       "url": "http://170.254.17.2:80/DAYSTAR/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Showtime Extreme (1080p)",
+      "url": "http://40.160.24.55/SHOWTIME_EXTREME/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Showtime Next (720p)",
+      "url": "http://40.160.24.55/SHOWTIME_NEXT/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Starz West (720p)",
+      "url": "http://40.160.24.55/STARZ_WEST/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Starz Edge (1080p)",
+      "url": "http://40.160.24.55/STARZ_EDGE/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Starz Comedy (720p)",
+      "url": "http://40.160.24.55/STARZ_COMEDY/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Starz Encore (1080p)",
+      "url": "http://40.160.24.55/STARZ_ENCORE/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Showtime West (720p)",
+      "url": "http://40.160.24.55/SHOWTIME_WEST/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Star Channel Latin America (1080p)",
+      "url": "http://15.204.246.24:8080/STARCHANNELHD/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "History Latin America (1080p)",
+      "url": "http://15.204.246.24:8080/HistoryHD/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "FX Latin America (1080p)",
+      "url": "http://15.204.246.24:8080/FXHD/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "MTV Latin America (1080p)",
+      "url": "http://15.204.246.24:8080/MTVHD/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "KidOO (1080p)",
+      "url": "http://15.204.246.24:8080/KidooHD/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Cinecanal (1080p)",
+      "url": "http://15.204.246.24:8080/CinecanalHD/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "National Geographic Latin America (1080p)",
+      "url": "http://15.204.246.24:8080/NatGeoHD/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Hola! TV Latin America (1080p)",
+      "url": "http://15.204.246.24:8080/HOLATVHD/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "History 2 Latin America (1080p)",
+      "url": "http://181.119.66.28:8081/HISTORY-2/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Lifetime Latin America (1080p)",
+      "url": "http://181.119.66.28:8081/Lifetime-HD/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "FX Movie Channel (720p)",
+      "url": "http://40.160.24.52/FXM/index.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -6445,12 +6547,6 @@
         "category": "Otros"
       },
       {
-        "name": "FX Movie Channel (720p)",
-        "url": "https://starlite.best/api/stream/hurt/hurt/livetv.epg/fx.movie.channel.us.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "FXX (720p)",
         "url": "https://gpuserver3.tier1streams.com/FXX/index.m3u8",
         "logo": "",
@@ -6603,6 +6699,114 @@
       {
         "name": "Daystar TV (720p)",
         "url": "http://170.254.17.2:80/DAYSTAR/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Showtime Extreme (1080p)",
+        "url": "http://40.160.24.55/SHOWTIME_EXTREME/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Showtime Next (720p)",
+        "url": "http://40.160.24.55/SHOWTIME_NEXT/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Starz West (720p)",
+        "url": "http://40.160.24.55/STARZ_WEST/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Starz Edge (1080p)",
+        "url": "http://40.160.24.55/STARZ_EDGE/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Starz Comedy (720p)",
+        "url": "http://40.160.24.55/STARZ_COMEDY/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Starz Encore (1080p)",
+        "url": "http://40.160.24.55/STARZ_ENCORE/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Showtime West (720p)",
+        "url": "http://40.160.24.55/SHOWTIME_WEST/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Star Channel Latin America (1080p)",
+        "url": "http://15.204.246.24:8080/STARCHANNELHD/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "History Latin America (1080p)",
+        "url": "http://15.204.246.24:8080/HistoryHD/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "FX Latin America (1080p)",
+        "url": "http://15.204.246.24:8080/FXHD/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "MTV Latin America (1080p)",
+        "url": "http://15.204.246.24:8080/MTVHD/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "KidOO (1080p)",
+        "url": "http://15.204.246.24:8080/KidooHD/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Cinecanal (1080p)",
+        "url": "http://15.204.246.24:8080/CinecanalHD/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "National Geographic Latin America (1080p)",
+        "url": "http://15.204.246.24:8080/NatGeoHD/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Hola! TV Latin America (1080p)",
+        "url": "http://15.204.246.24:8080/HOLATVHD/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "History 2 Latin America (1080p)",
+        "url": "http://181.119.66.28:8081/HISTORY-2/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Lifetime Latin America (1080p)",
+        "url": "http://181.119.66.28:8081/Lifetime-HD/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "FX Movie Channel (720p)",
+        "url": "http://40.160.24.52/FXM/index.m3u8",
         "logo": "",
         "category": "Otros"
       }

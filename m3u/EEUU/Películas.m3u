@@ -41,7 +41,19 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/universalcinema/playlist.m3u8
 https://cdn.whiplash.cc/whiplash-cinema/index.m3u8
 #EXTINF:-1 tvg-id="DaystarTV.us@SD",Daystar TV (1080p)
 https://gpuserver3.tier1streams.com/DAYSTAR_TV/index.m3u8
-#EXTINF:-1 tvg-id="FXMovieChannel.us@SD",FX Movie Channel (720p)
-https://starlite.best/api/stream/hurt/hurt/livetv.epg/fx.movie.channel.us.m3u8
 #EXTINF:-1 tvg-id="DaystarTV.us@SD",Daystar TV (720p)
 http://170.254.17.2:80/DAYSTAR/index.m3u8
+#EXTINF:-1 tvg-id="Starz.us@West",Starz West (720p)
+http://40.160.24.55/STARZ_WEST/index.m3u8
+#EXTINF:-1 tvg-id="StarzEdge.us@East",Starz Edge (1080p)
+http://40.160.24.55/STARZ_EDGE/index.m3u8
+#EXTINF:-1 tvg-id="StarzComedy.us@East",Starz Comedy (720p)
+http://40.160.24.55/STARZ_COMEDY/index.m3u8
+#EXTINF:-1 tvg-id="StarzEncore.us@East",Starz Encore (1080p)
+http://40.160.24.55/STARZ_ENCORE/index.m3u8
+#EXTINF:-1 tvg-id="StarChannelLatinAmerica.us@Panregional",Star Channel Latin America (1080p)
+http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
+#EXTINF:-1 tvg-id="Cinecanal.us@Panregional",Cinecanal (1080p)
+http://15.204.246.24:8080/CinecanalHD/index.m3u8
+#EXTINF:-1 tvg-id="FXMovieChannel.us@SD",FX Movie Channel (720p)
+http://40.160.24.52/FXM/index.m3u8

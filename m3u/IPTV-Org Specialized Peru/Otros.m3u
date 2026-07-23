@@ -86,14 +86,12 @@ http://45.4.1.201:8000/play/a1ai/index.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/liga1max.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="LaTele.pe@SD",La Tele (1080p)
 http://8.243.126.131:8000/play/a01v/index.m3u8
-#EXTINF:-1 tvg-id="Latina.pe@SD",Latina (1080p)
+#EXTINF:-1 tvg-id="LatinaClasicos.pe",Latina Clasicos (1080p)
 http://45.171.108.253:8888/LATINA/index.m3u8
 #EXTINF:-1 tvg-id="Latina.pe@SD",Latina (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bitel.com.pe/
 https://live-evg7.tv360.bitel.com.pe/bitel/latina_abr/playlist.m3u8
-#EXTINF:-1 tvg-id="LatinaClasicos.pe@SD",Latina Clasicos (1080p)
-https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="LatinaPodcast.pe@SD",Latina Podcast (720p)
 https://redirector.rudo.video/hls-video/plus226/latina4/latina4.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MetropolitanadelCuzco.pe@SD",Metropolitana del Cuzco

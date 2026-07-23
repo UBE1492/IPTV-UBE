@@ -70,5 +70,9 @@
 | 64 | De Pelicula Latin America (1080p) | IPv4 直链 | <http://38.19.41.46:8081/DEPELICULA/index.m3u8> |
 | 65 | bitMe (1080p) | cablered.iptvperu.tv:1936 | <https://cablered.iptvperu.tv:1936/cablered/bitme-srt_new/playlist.m3u8> |
 | 66 | bitMe Latin America (1080p) | cablered.iptvperu.tv:1936 | <https://cablered.iptvperu.tv:1936/cablered/bitme_new/playlist.m3u8> |
+| 67 | Univision Latin America (1080p) | IPv4 直链 | <http://15.204.246.24:8080/UnivisionHD/index.m3u8> |
+| 68 | Distrito Comedia (1080p) | IPv4 直链 | <http://181.119.66.28:8081/DISTRITO-COMEDIA/index.m3u8> |
+| 69 | Telehit Musica (1080p) | IPv4 直链 | <http://181.119.66.28:8081/TELEHIT-MUSICA/index.m3u8> |
+| 70 | Azteca Deportes Network (1080p) | IPv4 直链 | <http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8> |
 
-Updated at **Wed Jul 22 2026 19:25:07 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jul 23 2026 03:15:00 GMT+0000 (Coordinated Universal Time)**

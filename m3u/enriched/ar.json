@@ -1,6 +1,6 @@
 {
   "name": "ar",
-  "updated_at": 1784748307503,
+  "updated_at": 1784776500609,
   "m3u": "https://ube1492.github.io/IPTV-UBE/ar.m3u",
   "channels": [
     {
@@ -600,6 +600,30 @@
     {
       "name": "Telefe Interior (720p)",
       "url": "http://200.91.32.158:8080/telefehdvalle/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Fox Sports (720p) [Not 24/7]",
+      "url": "https://futbol9865.ultratv13.workers.dev/deportivo111/78.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "TN (1080p)",
+      "url": "http://15.204.246.24:8080/TNHD/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Disney Channel Latin America (1080p)",
+      "url": "http://15.204.246.24:8080/DisneyHD/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Film & Arts (1080p)",
+      "url": "http://15.204.246.24:8080/FilmArtsHD/index.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -1203,6 +1227,30 @@
       {
         "name": "Telefe Interior (720p)",
         "url": "http://200.91.32.158:8080/telefehdvalle/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Fox Sports (720p) [Not 24/7]",
+        "url": "https://futbol9865.ultratv13.workers.dev/deportivo111/78.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "TN (1080p)",
+        "url": "http://15.204.246.24:8080/TNHD/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Disney Channel Latin America (1080p)",
+        "url": "http://15.204.246.24:8080/DisneyHD/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Film & Arts (1080p)",
+        "url": "http://15.204.246.24:8080/FilmArtsHD/index.m3u8",
         "logo": "",
         "category": "Otros"
       }

@@ -13,3 +13,9 @@ https://gpuserver3.tier1streams.com/GSN/index.m3u8
 http://starlite.best/api/stream/hurt/hurt/livetv.epg/showtime.2.eastern.us.m3u8
 #EXTINF:-1 tvg-id="ShowtimeExtreme.us@East",Showtime Extreme (720p)
 http://starlite.best/api/stream/hurt/hurt/livetv.epg/showtime.extreme.eastern.us.m3u8
+#EXTINF:-1 tvg-id="ShowtimeExtreme.us@East",Showtime Extreme (1080p)
+http://40.160.24.55/SHOWTIME_EXTREME/index.m3u8
+#EXTINF:-1 tvg-id="ShowtimeNext.us@East",Showtime Next (720p)
+http://40.160.24.55/SHOWTIME_NEXT/index.m3u8
+#EXTINF:-1 tvg-id="Showtime.us@West",Showtime West (720p)
+http://40.160.24.55/SHOWTIME_WEST/index.m3u8
