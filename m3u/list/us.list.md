@@ -566,5 +566,6 @@
 | 560 | History 2 Latin America (1080p) | IPv4 直链 | <http://181.119.66.28:8081/HISTORY-2/index.m3u8> |
 | 561 | Lifetime Latin America (1080p) | IPv4 直链 | <http://181.119.66.28:8081/Lifetime-HD/index.m3u8> |
 | 562 | FX Movie Channel (720p) | IPv4 直链 | <http://40.160.24.52/FXM/index.m3u8> |
+| 563 | Logo (720p) | IPv4 直链 | <http://40.160.24.53/LOGO_TV/index.m3u8> |
 
-Updated at **Thu Jul 23 2026 19:22:56 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jul 24 2026 02:54:07 GMT+0000 (Coordinated Universal Time)**

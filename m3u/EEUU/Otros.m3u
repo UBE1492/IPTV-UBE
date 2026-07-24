@@ -525,3 +525,5 @@ http://170.254.17.2:80/NBC/index.m3u8
 http://15.204.246.24:8080/FXHD/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@Panregional",National Geographic Latin America (1080p)
 http://15.204.246.24:8080/NatGeoHD/index.m3u8
+#EXTINF:-1 tvg-id="Logo.us@East",Logo (720p)
+http://40.160.24.53/LOGO_TV/index.m3u8

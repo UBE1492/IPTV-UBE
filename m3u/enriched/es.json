@@ -1,6 +1,6 @@
 {
   "name": "es",
-  "updated_at": 1784834576236,
+  "updated_at": 1784861647172,
   "m3u": "https://ube1492.github.io/IPTV-UBE/es.m3u",
   "channels": [
     {
@@ -433,7 +433,7 @@
       "category": "Otros"
     },
     {
-      "name": "Gol (720p)",
+      "name": "Gol HD (720p)",
       "url": "http://23.237.104.106:8080/USA_GOLTV/index.m3u8",
       "logo": "",
       "category": "Otros"
@@ -555,12 +555,6 @@
     {
       "name": "Lancelot TV (404p)",
       "url": "https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "LaOtra (720p)",
-      "url": "https://laotra-1-23-secure2.akamaized.net/master.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -723,12 +717,6 @@
     {
       "name": "Teleganés (720p)",
       "url": "https://nlb2-live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Telemadrid Internacional (720p)",
-      "url": "https://new-international-23-secure2.akamaized.net/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -1327,7 +1315,7 @@
         "category": "Otros"
       },
       {
-        "name": "Gol (720p)",
+        "name": "Gol HD (720p)",
         "url": "http://23.237.104.106:8080/USA_GOLTV/index.m3u8",
         "logo": "",
         "category": "Otros"
@@ -1449,12 +1437,6 @@
       {
         "name": "Lancelot TV (404p)",
         "url": "https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "LaOtra (720p)",
-        "url": "https://laotra-1-23-secure2.akamaized.net/master.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -1617,12 +1599,6 @@
       {
         "name": "Teleganés (720p)",
         "url": "https://nlb2-live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Telemadrid Internacional (720p)",
-        "url": "https://new-international-23-secure2.akamaized.net/index.m3u8",
         "logo": "",
         "category": "Otros"
       },

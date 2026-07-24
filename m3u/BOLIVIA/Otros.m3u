@@ -9,8 +9,6 @@ https://stream.atb.com.bo/live/daniel/index.m3u8
 https://master.tucableip.com/audiokisstv/index.m3u8
 #EXTINF:-1 tvg-id="Bolivision.bo@SD",Bolivision (1080p)
 https://d135ohnuotzzyo.cloudfront.net/index.m3u8
-#EXTINF:-1 tvg-id="Bolivision.bo@SD",Bolivision (720p)
-https://edgectc.com/BOLIVISION_HD/index.m3u8
 #EXTINF:-1 tvg-id="Bolivision.bo@SD",Bolivisión LPZ (720p)
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="BolivisionSantaCruz.bo@SD",Bolivision Santa Cruz (720p)
@@ -43,8 +41,6 @@ https://lbgo.bozztv.com/ssh101/ssh101/ratvbol/playlist.m3u8
 https://59d39900ebfb8.streamlock.net/asiesmipueblo/asiesmipueblo/playlist.m3u8
 #EXTINF:-1 tvg-id="RedUno.bo@SD",Red Uno (720p)
 https://tv.centaurychile.com/interactiva/streams/KIgB6QvZ0L8XaSLd3211668845221245.m3u8
-#EXTINF:-1 tvg-id="RedUnoSantaCruz.bo@SD",Red Uno Santa Cruz
-https://master.tucableip.com/muxredunosc/index.m3u8
 #EXTINF:-1 tvg-id="RTP.bo@SD",RTP (576p)
 https://rtp.noxun.net/hls720/stream3.m3u8
 #EXTINF:-1 tvg-id="RTP.bo@SD",RTP (480p)
@@ -69,8 +65,6 @@ https://lbgo.bozztv.com/ssh101/ssh101/tvjoaquiniana26/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/6928b14aaa768aad947bf65d.m3u8
 #EXTINF:-1 tvg-id="UnitelLaPaz.bo@SD",Unitel La Paz (576p)
 http://190.60.39.195:8000/play/a01r/index.m3u8
-#EXTINF:-1 tvg-id="UnitelSantaCruz.bo@SD",Unitel Santa Cruz (1080p)
-https://master.tucableip.com/muxunitelsc/index.m3u8
 #EXTINF:-1 tvg-id="UnitelSantaCruz.bo@SD",Unitel Santa Cruz (720p)
 https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8
 #EXTINF:-1 tvg-id="UnivalleTelevision.bo@SD",Univalle Televisión (1080p)

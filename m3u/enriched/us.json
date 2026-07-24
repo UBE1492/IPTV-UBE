@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1784834576088,
+  "updated_at": 1784861647050,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -3402,6 +3402,12 @@
     {
       "name": "FX Movie Channel (720p)",
       "url": "http://40.160.24.52/FXM/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Logo (720p)",
+      "url": "http://40.160.24.53/LOGO_TV/index.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -6807,6 +6813,12 @@
       {
         "name": "FX Movie Channel (720p)",
         "url": "http://40.160.24.52/FXM/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Logo (720p)",
+        "url": "http://40.160.24.53/LOGO_TV/index.m3u8",
         "logo": "",
         "category": "Otros"
       }

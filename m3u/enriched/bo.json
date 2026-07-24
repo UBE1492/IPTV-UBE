@@ -1,6 +1,6 @@
 {
   "name": "bo",
-  "updated_at": 1784834576387,
+  "updated_at": 1784861647366,
   "m3u": "https://ube1492.github.io/IPTV-UBE/bo.m3u",
   "channels": [
     {
@@ -60,12 +60,6 @@
     {
       "name": "Bolivision (1080p)",
       "url": "https://d135ohnuotzzyo.cloudfront.net/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Bolivision (720p)",
-      "url": "https://edgectc.com/BOLIVISION_HD/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -382,12 +376,6 @@
       "category": "Otros"
     },
     {
-      "name": "Red Uno Santa Cruz",
-      "url": "https://master.tucableip.com/muxredunosc/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "RTP (576p)",
       "url": "https://rtp.noxun.net/hls720/stream3.m3u8",
       "logo": "",
@@ -538,12 +526,6 @@
       "category": "Otros"
     },
     {
-      "name": "Unitel Santa Cruz (1080p)",
-      "url": "https://master.tucableip.com/muxunitelsc/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Unitel Santa Cruz (720p)",
       "url": "https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8",
       "logo": "",
@@ -645,12 +627,6 @@
       {
         "name": "Bolivision (1080p)",
         "url": "https://d135ohnuotzzyo.cloudfront.net/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Bolivision (720p)",
-        "url": "https://edgectc.com/BOLIVISION_HD/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -967,12 +943,6 @@
         "category": "Otros"
       },
       {
-        "name": "Red Uno Santa Cruz",
-        "url": "https://master.tucableip.com/muxredunosc/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "RTP (576p)",
         "url": "https://rtp.noxun.net/hls720/stream3.m3u8",
         "logo": "",
@@ -1119,12 +1089,6 @@
       {
         "name": "Unitel La Paz (576p)",
         "url": "http://190.60.39.195:8000/play/a01r/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Unitel Santa Cruz (1080p)",
-        "url": "https://master.tucableip.com/muxunitelsc/index.m3u8",
         "logo": "",
         "category": "Otros"
       },

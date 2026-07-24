@@ -9,7 +9,6 @@ Audiokiss_(1080p),https://master.tucableip.com/audiokisstv/index.m3u8
 AYNI_TV,https://59d39900ebfb8.streamlock.net/Aynitv/Aynitv/playlist.m3u8
 Bolivia_Punto_TV,https://streaming.hostpannel.lat/hls/fc517baca1d452f22f56a2563f93f500/index.m3u8
 Bolivision_(1080p),https://d135ohnuotzzyo.cloudfront.net/index.m3u8
-Bolivision_(720p),https://edgectc.com/BOLIVISION_HD/index.m3u8
 Bolivisión_LPZ_(720p),https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
 Bolivision_Santa_Cruz_(720p),https://d1mws3umreue1g.cloudfront.net/index.m3u8
 Cadena_A_(720p)_[Not_24/7],https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
@@ -62,7 +61,6 @@ Red_CCTV,https://ares.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
 Red_Rubi_(720p),https://59d39900ebfb8.streamlock.net/asiesmipueblo/asiesmipueblo/playlist.m3u8
 Red_TV_Shop_(720p),https://master.tucableip.com/redtvshop/index.m3u8
 Red_Uno_(720p),https://tv.centaurychile.com/interactiva/streams/KIgB6QvZ0L8XaSLd3211668845221245.m3u8
-Red_Uno_Santa_Cruz,https://master.tucableip.com/muxredunosc/index.m3u8
 RTP_(576p),https://rtp.noxun.net/hls720/stream3.m3u8
 RTP_(480p),https://rtp.noxun.net/hls480/stream2.m3u8
 RTP,https://rtp.noxun.net/hls/stream.m3u8
@@ -88,7 +86,6 @@ Unifranz_(720p),https://edge.enhdtv.com/8192/index.m3u8
 Unitel_Cochabamba_(720p),https://lbgo.bozztv.com/ssh101/ssh101/tvjoaquiniana26/playlist.m3u8
 Unitel_La_Paz_(720p),https://mdstrm.com/live-stream-playlist/6928b14aaa768aad947bf65d.m3u8
 Unitel_La_Paz_(576p),http://190.60.39.195:8000/play/a01r/index.m3u8
-Unitel_Santa_Cruz_(1080p),https://master.tucableip.com/muxunitelsc/index.m3u8
 Unitel_Santa_Cruz_(720p),https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8
 Univalle_Televisión_(1080p),https://master.tucableip.com/univalletv/playlist.m3u8
 UniversidadMayordeSanAndres_(1080p)_[Not_24/7],#EXTVLCOPT:http-referrer=https://tvu.umsa.bo/en-vivo

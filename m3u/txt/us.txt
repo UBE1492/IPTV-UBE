@@ -570,3 +570,4 @@ Hola!_TV_Latin_America_(1080p),http://15.204.246.24:8080/HOLATVHD/index.m3u8
 History_2_Latin_America_(1080p),http://181.119.66.28:8081/HISTORY-2/index.m3u8
 Lifetime_Latin_America_(1080p),http://181.119.66.28:8081/Lifetime-HD/index.m3u8
 FX_Movie_Channel_(720p),http://40.160.24.52/FXM/index.m3u8
+Logo_(720p),http://40.160.24.53/LOGO_TV/index.m3u8
