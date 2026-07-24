@@ -67,4 +67,4 @@
 | 61 | Teleamazonas (720p) | IPv4 直链 | <http://157.100.248.242:8080/TeleamazonasHD/index.m3u8> |
 | 62 | RTS (720p) | IPv4 直链 | <http://157.100.248.242:8080/RTSHD/index.m3u8> |
 
-Updated at **Fri Jul 24 2026 08:31:14 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jul 24 2026 13:50:31 GMT+0000 (Coordinated Universal Time)**
