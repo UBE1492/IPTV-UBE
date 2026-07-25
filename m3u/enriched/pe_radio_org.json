@@ -1,6 +1,6 @@
 {
   "name": "pe_radio_org",
-  "updated_at": 1784948036326,
+  "updated_at": 1784967034581,
   "m3u": "https://ube1492.github.io/IPTV-UBE/pe_radio_org.m3u",
   "channels": [
     {
@@ -28,18 +28,6 @@
       "category": "Música"
     },
     {
-      "name": "Radio Onda Digital (1080p)",
-      "url": "https://live.ondadigitaltv.com/RADIOODTV/index.m3u8",
-      "logo": "",
-      "category": "Música"
-    },
-    {
-      "name": "Radio Rumba TV (720p)",
-      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/rumba/playlist.m3u8",
-      "logo": "",
-      "category": "Música"
-    },
-    {
       "name": "Radio Tropical Tarapoto (480p) [Not 24/7]",
       "url": "https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8",
       "logo": "",
@@ -48,6 +36,12 @@
     {
       "name": "Radio San Borja TV (1080p)",
       "url": "https://stream.mediacorp.pe/srt/3/playlist.m3u8",
+      "logo": "",
+      "category": "Música"
+    },
+    {
+      "name": "Radio Rumba TV (720p)",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/rumba/playlist.m3u8",
       "logo": "",
       "category": "Música"
     },
@@ -85,18 +79,6 @@
         "category": "Música"
       },
       {
-        "name": "Radio Onda Digital (1080p)",
-        "url": "https://live.ondadigitaltv.com/RADIOODTV/index.m3u8",
-        "logo": "",
-        "category": "Música"
-      },
-      {
-        "name": "Radio Rumba TV (720p)",
-        "url": "https://live-evg7.tv360.bitel.com.pe/bitel/rumba/playlist.m3u8",
-        "logo": "",
-        "category": "Música"
-      },
-      {
         "name": "Radio Tropical Tarapoto (480p) [Not 24/7]",
         "url": "https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8",
         "logo": "",
@@ -105,6 +87,12 @@
       {
         "name": "Radio San Borja TV (1080p)",
         "url": "https://stream.mediacorp.pe/srt/3/playlist.m3u8",
+        "logo": "",
+        "category": "Música"
+      },
+      {
+        "name": "Radio Rumba TV (720p)",
+        "url": "https://live-evg7.tv360.bitel.com.pe/bitel/rumba/playlist.m3u8",
         "logo": "",
         "category": "Música"
       },
