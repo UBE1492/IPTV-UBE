@@ -295,12 +295,8 @@ https://d1eg24xrsfr6kv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
 #EXTINF:-1 tvg-id="Unbeaten.us@SD",Unbeaten (1080p)
 https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/UnbeatenSports/playlist.m3u8
-#EXTINF:-1 tvg-id="UniMas.us@East",UniMas (720p)
-http://108.181.20.255:27347/livehttpplay?channel_id=23094
 #EXTINF:-1 tvg-id="UniMas.us@Mountain",UniMas Mountain (1080p)
 http://168.228.44.241:9997/play/a09e/index.m3u8
-#EXTINF:-1 tvg-id="UniMas.us@West",UniMas West (1080p) [Geo-blocked]
-http://108.181.20.255:27347/livehttpplay?channel_id=23093
 #EXTINF:-1 tvg-id="UniversalComedy.us@SD",Universal Comedy (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Univision.us@East",Univision (1080p)
@@ -527,3 +523,9 @@ http://15.204.246.24:8080/FXHD/index.m3u8
 http://15.204.246.24:8080/NatGeoHD/index.m3u8
 #EXTINF:-1 tvg-id="Logo.us@East",Logo (720p)
 http://40.160.24.53/LOGO_TV/index.m3u8
+#EXTINF:-1 tvg-id="FX.us@West",FX West (1080p)
+https://sra72yz.s.gy/fx-west
+#EXTINF:-1 tvg-id="FXX.us@West",FXX West (720p)
+https://sra72yz.s.gy/fxx-west
+#EXTINF:-1 tvg-id="SYFY.us@West",SYFY West (1080p)
+https://sra72yz.s.gy/syfy-west

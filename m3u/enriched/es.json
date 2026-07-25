@@ -1,6 +1,6 @@
 {
   "name": "es",
-  "updated_at": 1784921640492,
+  "updated_at": 1784948028863,
   "m3u": "https://ube1492.github.io/IPTV-UBE/es.m3u",
   "channels": [
     {
@@ -543,12 +543,6 @@
     {
       "name": "LaLiga Hypermotion (1080p)",
       "url": "http://latam-cache-sv2-cdn.latamlive.net/LA_LIGA_SMARTBANK_IP_ENC_LIVE/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "LaLiga TV",
-      "url": "http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTZID4SFOqZLZ81NguVP-JxM/m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -1425,12 +1419,6 @@
       {
         "name": "LaLiga Hypermotion (1080p)",
         "url": "http://latam-cache-sv2-cdn.latamlive.net/LA_LIGA_SMARTBANK_IP_ENC_LIVE/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "LaLiga TV",
-        "url": "http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTZID4SFOqZLZ81NguVP-JxM/m3u8",
         "logo": "",
         "category": "Otros"
       },

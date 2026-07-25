@@ -368,9 +368,7 @@ TVS_Women_Sports_(720p),https://rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8
 TVSConsumerDirect_(720p),https://rpn.bozztv.com/gusa/gusa-ConsumerDirect/index.m3u8
 UN_Web_TV_(540p),https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 Unbeaten_(1080p),https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/UnbeatenSports/playlist.m3u8
-UniMas_(720p),http://108.181.20.255:27347/livehttpplay?channel_id=23094
 UniMas_Mountain_(1080p),http://168.228.44.241:9997/play/a09e/index.m3u8
-UniMas_West_(1080p)_[Geo-blocked],http://108.181.20.255:27347/livehttpplay?channel_id=23093
 Universal_Cinema_(1080p),https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/universalcinema/playlist.m3u8
 Universal_Comedy_(1080p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 Universal_TV_Latin_America_(1080p),http://138.121.15.230:9002/UNIVERSAL-CHANNEL/index.m3u8
@@ -539,8 +537,6 @@ MSG_(720p),https://gpuserver3.tier1streams.com/MSG/index.m3u8
 MSG_Plus_(720p),https://gpuserver3.tier1streams.com/MSG_PLUS/index.m3u8
 Racer_Network_(720p),https://gpuserver3.tier1streams.com/MAV_TV/index.m3u8
 The_Cowboy_Channel_(1080p),https://gpuserver3.tier1streams.com/THE_COWBOY_CHANNEL/index.m3u8
-Showtime_2_(1080p),http://starlite.best/api/stream/hurt/hurt/livetv.epg/showtime.2.eastern.us.m3u8
-Showtime_Extreme_(720p),http://starlite.best/api/stream/hurt/hurt/livetv.epg/showtime.extreme.eastern.us.m3u8
 Discovery_Turbo_(720p),https://gpuserver3.tier1streams.com/MOTORTREND/index.m3u8
 NBA_TV_(1080p),https://cdn1.ayitistream.com/NBATV/index.m3u8
 MGM+_(1080p),https://gpuserver3.tier1streams.com/EPIX/index.m3u8
@@ -553,6 +549,7 @@ DHE_(1080p),https://cablered.iptvperu.tv:1936/cablered/dhe_new/playlist.m3u8
 NBC_(720p),http://170.254.17.2:80/NBC/index.m3u8
 Daystar_TV_(720p),http://170.254.17.2:80/DAYSTAR/index.m3u8
 Showtime_Extreme_(1080p),http://40.160.24.55/SHOWTIME_EXTREME/index.m3u8
+Showtime_2_(1080p),http://40.160.24.55/SHOWTIME_2/index.m3u8
 Showtime_Next_(720p),http://40.160.24.55/SHOWTIME_NEXT/index.m3u8
 Starz_West_(720p),http://40.160.24.55/STARZ_WEST/index.m3u8
 Starz_Edge_(1080p),http://40.160.24.55/STARZ_EDGE/index.m3u8
@@ -571,3 +568,8 @@ History_2_Latin_America_(1080p),http://181.119.66.28:8081/HISTORY-2/index.m3u8
 Lifetime_Latin_America_(1080p),http://181.119.66.28:8081/Lifetime-HD/index.m3u8
 FX_Movie_Channel_(720p),http://40.160.24.52/FXM/index.m3u8
 Logo_(720p),http://40.160.24.53/LOGO_TV/index.m3u8
+FX_West_(1080p),https://sra72yz.s.gy/fx-west
+FXX_West_(720p),https://sra72yz.s.gy/fxx-west
+SYFY_West_(1080p),https://sra72yz.s.gy/syfy-west
+Starz_Encore_Classic_(720p),https://sra72yz.s.gy/starz-encore-classic
+Golf_Channel,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36

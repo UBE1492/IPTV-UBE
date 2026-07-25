@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1784921640829,
+  "updated_at": 1784948029289,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -2203,20 +2203,8 @@
       "category": "Otros"
     },
     {
-      "name": "UniMas (720p)",
-      "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23094",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "UniMas Mountain (1080p)",
       "url": "http://168.228.44.241:9997/play/a09e/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "UniMas West (1080p) [Geo-blocked]",
-      "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23093",
       "logo": "",
       "category": "Otros"
     },
@@ -3220,18 +3208,6 @@
       "category": "Otros"
     },
     {
-      "name": "Showtime 2 (1080p)",
-      "url": "http://starlite.best/api/stream/hurt/hurt/livetv.epg/showtime.2.eastern.us.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Showtime Extreme (720p)",
-      "url": "http://starlite.best/api/stream/hurt/hurt/livetv.epg/showtime.extreme.eastern.us.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Discovery Turbo (720p)",
       "url": "https://gpuserver3.tier1streams.com/MOTORTREND/index.m3u8",
       "logo": "",
@@ -3300,6 +3276,12 @@
     {
       "name": "Showtime Extreme (1080p)",
       "url": "http://40.160.24.55/SHOWTIME_EXTREME/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Showtime 2 (1080p)",
+      "url": "http://40.160.24.55/SHOWTIME_2/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -3410,6 +3392,39 @@
       "url": "http://40.160.24.53/LOGO_TV/index.m3u8",
       "logo": "",
       "category": "Otros"
+    },
+    {
+      "name": "FX West (1080p)",
+      "url": "https://sra72yz.s.gy/fx-west",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "FXX West (720p)",
+      "url": "https://sra72yz.s.gy/fxx-west",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "SYFY West (1080p)",
+      "url": "https://sra72yz.s.gy/syfy-west",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Starz Encore Classic (720p)",
+      "url": "https://sra72yz.s.gy/starz-encore-classic",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Golf Channel",
+      "url": "",
+      "logo": "",
+      "category": "Otros",
+      "options": {
+        "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      }
     }
   ],
   "categories": {
@@ -5614,20 +5629,8 @@
         "category": "Otros"
       },
       {
-        "name": "UniMas (720p)",
-        "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23094",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "UniMas Mountain (1080p)",
         "url": "http://168.228.44.241:9997/play/a09e/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "UniMas West (1080p) [Geo-blocked]",
-        "url": "http://108.181.20.255:27347/livehttpplay?channel_id=23093",
         "logo": "",
         "category": "Otros"
       },
@@ -6631,18 +6634,6 @@
         "category": "Otros"
       },
       {
-        "name": "Showtime 2 (1080p)",
-        "url": "http://starlite.best/api/stream/hurt/hurt/livetv.epg/showtime.2.eastern.us.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Showtime Extreme (720p)",
-        "url": "http://starlite.best/api/stream/hurt/hurt/livetv.epg/showtime.extreme.eastern.us.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "Discovery Turbo (720p)",
         "url": "https://gpuserver3.tier1streams.com/MOTORTREND/index.m3u8",
         "logo": "",
@@ -6711,6 +6702,12 @@
       {
         "name": "Showtime Extreme (1080p)",
         "url": "http://40.160.24.55/SHOWTIME_EXTREME/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Showtime 2 (1080p)",
+        "url": "http://40.160.24.55/SHOWTIME_2/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -6821,6 +6818,39 @@
         "url": "http://40.160.24.53/LOGO_TV/index.m3u8",
         "logo": "",
         "category": "Otros"
+      },
+      {
+        "name": "FX West (1080p)",
+        "url": "https://sra72yz.s.gy/fx-west",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "FXX West (720p)",
+        "url": "https://sra72yz.s.gy/fxx-west",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "SYFY West (1080p)",
+        "url": "https://sra72yz.s.gy/syfy-west",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Starz Encore Classic (720p)",
+        "url": "https://sra72yz.s.gy/starz-encore-classic",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Golf Channel",
+        "url": "",
+        "logo": "",
+        "category": "Otros",
+        "options": {
+          "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
       }
     ]
   }

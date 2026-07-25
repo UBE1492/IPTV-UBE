@@ -1,6 +1,6 @@
 {
   "name": "ar",
-  "updated_at": 1784921640011,
+  "updated_at": 1784948028232,
   "m3u": "https://ube1492.github.io/IPTV-UBE/ar.m3u",
   "channels": [
     {
@@ -624,6 +624,12 @@
     {
       "name": "Film & Arts (1080p)",
       "url": "http://15.204.246.24:8080/FilmArtsHD/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "TV Publica Fueguina (1080p)",
+      "url": "https://nd106.republicaservers.com/hls/c8094/index.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -1251,6 +1257,12 @@
       {
         "name": "Film & Arts (1080p)",
         "url": "http://15.204.246.24:8080/FilmArtsHD/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "TV Publica Fueguina (1080p)",
+        "url": "https://nd106.republicaservers.com/hls/c8094/index.m3u8",
         "logo": "",
         "category": "Otros"
       }

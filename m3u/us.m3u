@@ -737,12 +737,8 @@ https://rpn.bozztv.com/gusa/gusa-ConsumerDirect/index.m3u8
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-id="Unbeaten.us@SD",Unbeaten (1080p)
 https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/UnbeatenSports/playlist.m3u8
-#EXTINF:-1 tvg-id="UniMas.us@East",UniMas (720p)
-http://108.181.20.255:27347/livehttpplay?channel_id=23094
 #EXTINF:-1 tvg-id="UniMas.us@Mountain",UniMas Mountain (1080p)
 http://168.228.44.241:9997/play/a09e/index.m3u8
-#EXTINF:-1 tvg-id="UniMas.us@West",UniMas West (1080p) [Geo-blocked]
-http://108.181.20.255:27347/livehttpplay?channel_id=23093
 #EXTINF:-1 tvg-id="UniversalCinema.us@SD",Universal Cinema (1080p)
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/universalcinema/playlist.m3u8
 #EXTINF:-1 tvg-id="UniversalComedy.us@SD",Universal Comedy (1080p)
@@ -1079,10 +1075,6 @@ https://gpuserver3.tier1streams.com/MSG_PLUS/index.m3u8
 https://gpuserver3.tier1streams.com/MAV_TV/index.m3u8
 #EXTINF:-1 tvg-id="TheCowboyChannel.us@SD",The Cowboy Channel (1080p)
 https://gpuserver3.tier1streams.com/THE_COWBOY_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="Showtime2.us@East",Showtime 2 (1080p)
-http://starlite.best/api/stream/hurt/hurt/livetv.epg/showtime.2.eastern.us.m3u8
-#EXTINF:-1 tvg-id="ShowtimeExtreme.us@East",Showtime Extreme (720p)
-http://starlite.best/api/stream/hurt/hurt/livetv.epg/showtime.extreme.eastern.us.m3u8
 #EXTINF:-1 tvg-id="DiscoveryTurbo.us@SD",Discovery Turbo (720p)
 https://gpuserver3.tier1streams.com/MOTORTREND/index.m3u8
 #EXTINF:-1 tvg-id="NBATV.us@SD",NBA TV (1080p)
@@ -1107,6 +1099,8 @@ http://170.254.17.2:80/NBC/index.m3u8
 http://170.254.17.2:80/DAYSTAR/index.m3u8
 #EXTINF:-1 tvg-id="ShowtimeExtreme.us@East",Showtime Extreme (1080p)
 http://40.160.24.55/SHOWTIME_EXTREME/index.m3u8
+#EXTINF:-1 tvg-id="Showtime2.us@East",Showtime 2 (1080p)
+http://40.160.24.55/SHOWTIME_2/index.m3u8
 #EXTINF:-1 tvg-id="ShowtimeNext.us@East",Showtime Next (720p)
 http://40.160.24.55/SHOWTIME_NEXT/index.m3u8
 #EXTINF:-1 tvg-id="Starz.us@West",Starz West (720p)
@@ -1143,3 +1137,13 @@ http://181.119.66.28:8081/Lifetime-HD/index.m3u8
 http://40.160.24.52/FXM/index.m3u8
 #EXTINF:-1 tvg-id="Logo.us@East",Logo (720p)
 http://40.160.24.53/LOGO_TV/index.m3u8
+#EXTINF:-1 tvg-id="FX.us@West",FX West (1080p)
+https://sra72yz.s.gy/fx-west
+#EXTINF:-1 tvg-id="FXX.us@West",FXX West (720p)
+https://sra72yz.s.gy/fxx-west
+#EXTINF:-1 tvg-id="SYFY.us@West",SYFY West (1080p)
+https://sra72yz.s.gy/syfy-west
+#EXTINF:-1 tvg-id="StarzEncoreClassic.us@East",Starz Encore Classic (720p)
+https://sra72yz.s.gy/starz-encore-classic
+#EXTINF:-1 tvg-id="GolfChannel.us@SD",Golf Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36

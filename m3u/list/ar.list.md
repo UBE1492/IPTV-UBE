@@ -105,5 +105,6 @@
 | 99 | TN (1080p) | IPv4 直链 | <http://15.204.246.24:8080/TNHD/index.m3u8> |
 | 100 | Disney Channel Latin America (1080p) | IPv4 直链 | <http://15.204.246.24:8080/DisneyHD/index.m3u8> |
 | 101 | Film & Arts (1080p) | IPv4 直链 | <http://15.204.246.24:8080/FilmArtsHD/index.m3u8> |
+| 102 | TV Publica Fueguina (1080p) | nd106.republicaservers.com | <https://nd106.republicaservers.com/hls/c8094/index.m3u8> |
 
-Updated at **Fri Jul 24 2026 19:34:00 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jul 25 2026 02:53:48 GMT+0000 (Coordinated Universal Time)**
