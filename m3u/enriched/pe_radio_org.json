@@ -1,17 +1,11 @@
 {
   "name": "pe_radio_org",
-  "updated_at": 1785035976314,
+  "updated_at": 1785054664887,
   "m3u": "https://ube1492.github.io/IPTV-UBE/pe_radio_org.m3u",
   "channels": [
     {
       "name": "Radio Chalaca",
       "url": "https://servilive.com:3414/hybrid/play.m3u8",
-      "logo": "",
-      "category": "Música"
-    },
-    {
-      "name": "Turbo Mix Radio TV (360p) [Not 24/7]",
-      "url": "https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8",
       "logo": "",
       "category": "Música"
     },
@@ -28,6 +22,12 @@
       "category": "Música"
     },
     {
+      "name": "Radio Onda Digital (1080p)",
+      "url": "https://live.ondadigitaltv.com/RADIOODTV/index.m3u8",
+      "logo": "",
+      "category": "Música"
+    },
+    {
       "name": "Radio Tropical Tarapoto (480p) [Not 24/7]",
       "url": "https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8",
       "logo": "",
@@ -40,8 +40,8 @@
       "category": "Música"
     },
     {
-      "name": "Radio Onda Digital (1080p)",
-      "url": "https://live.ondadigitaltv.com/RADIOODTV/index.m3u8",
+      "name": "Radio Uno Tacna (720p)",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/radiounotv/playlist.m3u8",
       "logo": "",
       "category": "Música"
     },
@@ -52,14 +52,14 @@
       "category": "Música"
     },
     {
-      "name": "Radio Uno Tacna (720p)",
-      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/radiounotv/playlist.m3u8",
+      "name": "Turbo Mix Radio TV (720p)",
+      "url": "https://live-evg11.tv360.bitel.com.pe/bitel/turbomixSRT/playlist.m3u8",
       "logo": "",
       "category": "Música"
     },
     {
-      "name": "Turbo Mix Radio TV (720p)",
-      "url": "https://live-evg11.tv360.bitel.com.pe/bitel/turbomixSRT/playlist.m3u8",
+      "name": "Turbo Mix Radio TV (360p) [Not 24/7]",
+      "url": "https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8",
       "logo": "",
       "category": "Música"
     }
@@ -69,12 +69,6 @@
       {
         "name": "Radio Chalaca",
         "url": "https://servilive.com:3414/hybrid/play.m3u8",
-        "logo": "",
-        "category": "Música"
-      },
-      {
-        "name": "Turbo Mix Radio TV (360p) [Not 24/7]",
-        "url": "https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8",
         "logo": "",
         "category": "Música"
       },
@@ -91,6 +85,12 @@
         "category": "Música"
       },
       {
+        "name": "Radio Onda Digital (1080p)",
+        "url": "https://live.ondadigitaltv.com/RADIOODTV/index.m3u8",
+        "logo": "",
+        "category": "Música"
+      },
+      {
         "name": "Radio Tropical Tarapoto (480p) [Not 24/7]",
         "url": "https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8",
         "logo": "",
@@ -103,8 +103,8 @@
         "category": "Música"
       },
       {
-        "name": "Radio Onda Digital (1080p)",
-        "url": "https://live.ondadigitaltv.com/RADIOODTV/index.m3u8",
+        "name": "Radio Uno Tacna (720p)",
+        "url": "https://live-evg7.tv360.bitel.com.pe/bitel/radiounotv/playlist.m3u8",
         "logo": "",
         "category": "Música"
       },
@@ -115,14 +115,14 @@
         "category": "Música"
       },
       {
-        "name": "Radio Uno Tacna (720p)",
-        "url": "https://live-evg7.tv360.bitel.com.pe/bitel/radiounotv/playlist.m3u8",
+        "name": "Turbo Mix Radio TV (720p)",
+        "url": "https://live-evg11.tv360.bitel.com.pe/bitel/turbomixSRT/playlist.m3u8",
         "logo": "",
         "category": "Música"
       },
       {
-        "name": "Turbo Mix Radio TV (720p)",
-        "url": "https://live-evg11.tv360.bitel.com.pe/bitel/turbomixSRT/playlist.m3u8",
+        "name": "Turbo Mix Radio TV (360p) [Not 24/7]",
+        "url": "https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8",
         "logo": "",
         "category": "Música"
       }
