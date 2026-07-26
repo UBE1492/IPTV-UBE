@@ -569,4 +569,4 @@
 | 563 | SYFY West (1080p) | sra72yz.s.gy | <https://sra72yz.s.gy/syfy-west> |
 | 564 | Starz Encore Classic (720p) | sra72yz.s.gy | <https://sra72yz.s.gy/starz-encore-classic> |
 
-Updated at **Sun Jul 26 2026 08:30:57 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jul 26 2026 13:35:58 GMT+0000 (Coordinated Universal Time)**
