@@ -66,5 +66,6 @@
 | 60 | TvOro (1080p) | IPv4 直链 | <http://45.187.0.19:9090/tvusa/index.m3u8> |
 | 61 | Teleamazonas (720p) | IPv4 直链 | <http://157.100.248.242:8080/TeleamazonasHD/index.m3u8> |
 | 62 | RTS (720p) | IPv4 直链 | <http://157.100.248.242:8080/RTSHD/index.m3u8> |
+| 63 | Telecosta (720p) | telecosta.botlife.app | <https://telecosta.botlife.app/memfs/6ba9dc9a-aff4-4e4e-9466-a9f0c714b60b.m3u8> |
 
-Updated at **Sat Jul 25 2026 19:12:06 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jul 26 2026 03:19:28 GMT+0000 (Coordinated Universal Time)**
