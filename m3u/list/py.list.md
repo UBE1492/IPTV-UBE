@@ -55,4 +55,4 @@
 | 49 | TV Camara (1080p) | IPv4 直链 | <http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/119.m3u8> |
 | 50 | TV Canindeyu (1080p) | video.hostingcaaguazu.com:19360 | <https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8> |
 
-Updated at **Sun Jul 26 2026 19:15:52 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jul 27 2026 03:29:22 GMT+0000 (Coordinated Universal Time)**
