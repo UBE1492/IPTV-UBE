@@ -107,4 +107,4 @@
 | 101 | Film & Arts (1080p) | IPv4 直链 | <http://15.204.246.24:8080/FilmArtsHD/index.m3u8> |
 | 102 | TV Publica Fueguina (1080p) | nd106.republicaservers.com | <https://nd106.republicaservers.com/hls/c8094/index.m3u8> |
 
-Updated at **Mon Jul 27 2026 03:29:22 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jul 27 2026 09:56:43 GMT+0000 (Coordinated Universal Time)**
