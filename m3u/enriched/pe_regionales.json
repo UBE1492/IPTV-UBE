@@ -1,6 +1,6 @@
 {
   "name": "pe_regionales",
-  "updated_at": 1785146220234,
+  "updated_at": 1785163371783,
   "m3u": "https://ube1492.github.io/IPTV-UBE/pe_regionales.m3u",
   "channels": [
     {
@@ -34,12 +34,6 @@
       "category": "Without category"
     },
     {
-      "name": "CR TV | PE",
-      "url": "https://live.obslivestream.com/crtvmux/index.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/1180_CR_TV.png",
-      "category": "Without category"
-    },
-    {
       "name": "OK TeVe | PE",
       "url": "https://live.obslivestream.com/oktv/video.m3u8?token=Bk-DXAXulO1OV0&PlaylistM3UCL",
       "logo": "https://cdn.m3u.cl/logo/1095_OK_TeVe.png",
@@ -64,15 +58,9 @@
       "category": "Without category"
     },
     {
-      "name": "Cultura 24 TV | PE",
-      "url": "https://www.opencaster.com/resources/hls_stream/cultura24.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/696_Cultura_24_TV.png",
-      "category": "Without category"
-    },
-    {
-      "name": "San Pedro SAT | PE",
-      "url": "https://eu1.servers10.com:8081/8156/index.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/1686_San_Pedro_SAT.png",
+      "name": "CR TV | PE",
+      "url": "https://live.obslivestream.com/crtvmux/index.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/1180_CR_TV.png",
       "category": "Without category"
     },
     {
@@ -82,9 +70,27 @@
       "category": "Without category"
     },
     {
+      "name": "San Pedro SAT | PE",
+      "url": "https://eu1.servers10.com:8081/8156/index.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/1686_San_Pedro_SAT.png",
+      "category": "Without category"
+    },
+    {
+      "name": "Cultura 24 TV | PE",
+      "url": "https://www.opencaster.com/resources/hls_stream/cultura24.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/696_Cultura_24_TV.png",
+      "category": "Without category"
+    },
+    {
       "name": "Telecolor TV | PE",
       "url": "https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL",
       "logo": "https://cdn.m3u.cl/logo/1189_Telecolor_TV.png",
+      "category": "Without category"
+    },
+    {
+      "name": "TV en linea Cusco | PE",
+      "url": "https://s4.tvdatta.com:3450/live/tvenlinealive.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/1590_TV_en_linea_Cusco.png",
       "category": "Without category"
     },
     {
@@ -94,15 +100,15 @@
       "category": "Without category"
     },
     {
-      "name": "Via Alto Mayo TV | PE",
-      "url": "https://live.obslivestream.com/viaaltomayomux/index.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/1191_Via_Alto_Mayo_TV.png",
-      "category": "Without category"
-    },
-    {
       "name": "Uranio TV | PE",
       "url": "https://live.obslivestream.com/uraniotv/index.m3u8?PlaylistM3UCL",
       "logo": "https://cdn.m3u.cl/logo/1094_Uranio_TV.png",
+      "category": "Without category"
+    },
+    {
+      "name": "Via Alto Mayo TV | PE",
+      "url": "https://live.obslivestream.com/viaaltomayomux/index.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/1191_Via_Alto_Mayo_TV.png",
       "category": "Without category"
     },
     {
@@ -145,12 +151,6 @@
         "category": "Without category"
       },
       {
-        "name": "CR TV | PE",
-        "url": "https://live.obslivestream.com/crtvmux/index.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/1180_CR_TV.png",
-        "category": "Without category"
-      },
-      {
         "name": "OK TeVe | PE",
         "url": "https://live.obslivestream.com/oktv/video.m3u8?token=Bk-DXAXulO1OV0&PlaylistM3UCL",
         "logo": "https://cdn.m3u.cl/logo/1095_OK_TeVe.png",
@@ -175,15 +175,9 @@
         "category": "Without category"
       },
       {
-        "name": "Cultura 24 TV | PE",
-        "url": "https://www.opencaster.com/resources/hls_stream/cultura24.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/696_Cultura_24_TV.png",
-        "category": "Without category"
-      },
-      {
-        "name": "San Pedro SAT | PE",
-        "url": "https://eu1.servers10.com:8081/8156/index.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/1686_San_Pedro_SAT.png",
+        "name": "CR TV | PE",
+        "url": "https://live.obslivestream.com/crtvmux/index.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/1180_CR_TV.png",
         "category": "Without category"
       },
       {
@@ -193,9 +187,27 @@
         "category": "Without category"
       },
       {
+        "name": "San Pedro SAT | PE",
+        "url": "https://eu1.servers10.com:8081/8156/index.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/1686_San_Pedro_SAT.png",
+        "category": "Without category"
+      },
+      {
+        "name": "Cultura 24 TV | PE",
+        "url": "https://www.opencaster.com/resources/hls_stream/cultura24.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/696_Cultura_24_TV.png",
+        "category": "Without category"
+      },
+      {
         "name": "Telecolor TV | PE",
         "url": "https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL",
         "logo": "https://cdn.m3u.cl/logo/1189_Telecolor_TV.png",
+        "category": "Without category"
+      },
+      {
+        "name": "TV en linea Cusco | PE",
+        "url": "https://s4.tvdatta.com:3450/live/tvenlinealive.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/1590_TV_en_linea_Cusco.png",
         "category": "Without category"
       },
       {
@@ -205,15 +217,15 @@
         "category": "Without category"
       },
       {
-        "name": "Via Alto Mayo TV | PE",
-        "url": "https://live.obslivestream.com/viaaltomayomux/index.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/1191_Via_Alto_Mayo_TV.png",
-        "category": "Without category"
-      },
-      {
         "name": "Uranio TV | PE",
         "url": "https://live.obslivestream.com/uraniotv/index.m3u8?PlaylistM3UCL",
         "logo": "https://cdn.m3u.cl/logo/1094_Uranio_TV.png",
+        "category": "Without category"
+      },
+      {
+        "name": "Via Alto Mayo TV | PE",
+        "url": "https://live.obslivestream.com/viaaltomayomux/index.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/1191_Via_Alto_Mayo_TV.png",
         "category": "Without category"
       },
       {
