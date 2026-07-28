@@ -143,4 +143,4 @@
 | 137 | Telemadrid HD (1080p) | live.telemadrid.cross-media.es | <https://live.telemadrid.cross-media.es/6389770581112/eu-central-1/6416060453001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiajI5YjgyLmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjQxNjA2MDQ1MzAwMSIsImVobiI6ImxpdmUudGVsZW1hZHJpZC5jcm9zcy1tZWRpYS5lcyIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiNjQxNjA2MDQ1MzAwMSJdLCJqdGkiOiI2Mzg5NzcwNTgxMTEyIn0.kqriAMUkHT6m0V6wkCHJum_EUyL4PAi1zJMKlfmYHEU/playlist-hls.m3u8> |
 | 138 | Historia HD (1080p) | d1k3vzh2ivy22k.cloudfront.net | <https://d1k3vzh2ivy22k.cloudfront.net/Historia1080.m3u8> |
 
-Updated at **Tue Jul 28 2026 02:45:51 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jul 28 2026 08:39:00 GMT+0000 (Coordinated Universal Time)**
