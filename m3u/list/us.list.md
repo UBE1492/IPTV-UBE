@@ -562,4 +562,4 @@
 | 556 | FX Movie Channel (720p) | IPv4 直链 | <http://40.160.24.52/FXM/index.m3u8> |
 | 557 | Logo (720p) | IPv4 直链 | <http://40.160.24.53/LOGO_TV/index.m3u8> |
 
-Updated at **Tue Jul 28 2026 08:39:00 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jul 28 2026 14:14:51 GMT+0000 (Coordinated Universal Time)**
