@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1785181115768,
+  "updated_at": 1785206750952,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -377,18 +377,18 @@
     },
     {
       "name": "AMC Latin America Brazil (1080p)",
-      "url": "http://45.190.156.152/AMC/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "AXN Black",
-      "url": "#EXTINF:-1 tvg-id=\"AXNBlack.us@Romania\",AXN Black Romania [Not 24/7]",
+      "url": "#EXTINF:-1 tvg-id=\"AXNBlack.us@Bulgary\",AXN Black",
       "logo": "",
       "category": "Otros",
       "options": {
-        "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3"
+        "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
       }
+    },
+    {
+      "name": "AXN Black Romania [Not 24/7]",
+      "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6952/index.m3u8",
+      "logo": "",
+      "category": "Otros"
     },
     {
       "name": "AXN Latin America (1080p)",
@@ -1646,7 +1646,7 @@
     },
     {
       "name": "Studio Universal Latin America Brazil (720p)",
-      "url": "http://45.190.156.152/STUDIO_UNIVERSAL/index.m3u8",
+      "url": "http://167.250.126.140:7777/STUDIOUNIVERSAL-HD/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -2224,12 +2224,6 @@
       }
     },
     {
-      "name": "Universal TV Latin America Brazil (720p)",
-      "url": "http://45.190.156.152/UNIVERSAL_TV/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Universal TV Latin America Mexico (1080p)",
       "url": "http://177.245.131.133:8080/UNIVERSAL/index.m3u8",
       "logo": "",
@@ -2280,12 +2274,6 @@
     {
       "name": "USA Network Latin America (720p)",
       "url": "http://200.91.32.158:8080/usanetwork/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "USA Network Latin America Brazil (1080p)",
-      "url": "http://45.190.156.152/USA/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -2845,13 +2833,10 @@
       "category": "Otros"
     },
     {
-      "name": "AXN White (576p)",
-      "url": "#EXTINF:-1 tvg-id=\"MuslimNetworkTV.us@SD\",Muslim Network TV",
+      "name": "Muslim Network TV",
+      "url": "https://afghantv.app/hls2/muslimnetwork/index.m3u8",
       "logo": "",
-      "category": "Otros",
-      "options": {
-        "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      }
+      "category": "Otros"
     },
     {
       "name": "A&E (1080p)",
@@ -3394,30 +3379,6 @@
       "category": "Otros"
     },
     {
-      "name": "FX West (1080p)",
-      "url": "https://sra72yz.s.gy/fx-west",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "FXX West (720p)",
-      "url": "https://sra72yz.s.gy/fxx-west",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "SYFY West (1080p)",
-      "url": "https://sra72yz.s.gy/syfy-west",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Starz Encore Classic (720p)",
-      "url": "https://sra72yz.s.gy/starz-encore-classic",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Golf Channel",
       "url": "",
       "logo": "",
@@ -3803,18 +3764,18 @@
       },
       {
         "name": "AMC Latin America Brazil (1080p)",
-        "url": "http://45.190.156.152/AMC/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "AXN Black",
-        "url": "#EXTINF:-1 tvg-id=\"AXNBlack.us@Romania\",AXN Black Romania [Not 24/7]",
+        "url": "#EXTINF:-1 tvg-id=\"AXNBlack.us@Bulgary\",AXN Black",
         "logo": "",
         "category": "Otros",
         "options": {
-          "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3"
+          "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "AXN Black Romania [Not 24/7]",
+        "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6952/index.m3u8",
+        "logo": "",
+        "category": "Otros"
       },
       {
         "name": "AXN Latin America (1080p)",
@@ -5072,7 +5033,7 @@
       },
       {
         "name": "Studio Universal Latin America Brazil (720p)",
-        "url": "http://45.190.156.152/STUDIO_UNIVERSAL/index.m3u8",
+        "url": "http://167.250.126.140:7777/STUDIOUNIVERSAL-HD/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -5650,12 +5611,6 @@
         }
       },
       {
-        "name": "Universal TV Latin America Brazil (720p)",
-        "url": "http://45.190.156.152/UNIVERSAL_TV/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "Universal TV Latin America Mexico (1080p)",
         "url": "http://177.245.131.133:8080/UNIVERSAL/index.m3u8",
         "logo": "",
@@ -5706,12 +5661,6 @@
       {
         "name": "USA Network Latin America (720p)",
         "url": "http://200.91.32.158:8080/usanetwork/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "USA Network Latin America Brazil (1080p)",
-        "url": "http://45.190.156.152/USA/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -6271,13 +6220,10 @@
         "category": "Otros"
       },
       {
-        "name": "AXN White (576p)",
-        "url": "#EXTINF:-1 tvg-id=\"MuslimNetworkTV.us@SD\",Muslim Network TV",
+        "name": "Muslim Network TV",
+        "url": "https://afghantv.app/hls2/muslimnetwork/index.m3u8",
         "logo": "",
-        "category": "Otros",
-        "options": {
-          "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-        }
+        "category": "Otros"
       },
       {
         "name": "A&E (1080p)",
@@ -6816,30 +6762,6 @@
       {
         "name": "Logo (720p)",
         "url": "http://40.160.24.53/LOGO_TV/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "FX West (1080p)",
-        "url": "https://sra72yz.s.gy/fx-west",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "FXX West (720p)",
-        "url": "https://sra72yz.s.gy/fxx-west",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "SYFY West (1080p)",
-        "url": "https://sra72yz.s.gy/syfy-west",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Starz Encore Classic (720p)",
-        "url": "https://sra72yz.s.gy/starz-encore-classic",
         "logo": "",
         "category": "Otros"
       },

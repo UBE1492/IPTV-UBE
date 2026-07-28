@@ -137,5 +137,10 @@
 | 131 | Univers TV (720p) | cloud2.streaminglivehd.com:1936 | <https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8> |
 | 132 | Urola Telebista (416p) | 5940924978228.streamlock.net | <https://5940924978228.streamlock.net/j_Directo2/mp4:j_Directo2/playlist.m3u8> |
 | 133 | Vivamóvil (720p) | 5d8d85cf2c308.streamlock.net:1936 | <https://5d8d85cf2c308.streamlock.net:1936/AlcalaTV/endirecto/playlist.m3u8> |
+| 134 | 24 Horas (1080p) | IPv4 直链 | <http://185.47.212.25:8080/24h_HD/index.m3u8> |
+| 135 | Clan (1080p) | IPv4 直链 | <http://185.47.212.25:8080/Clan_HD/index.m3u8> |
+| 136 | Teledeporte | rtve01p.origin.c21livecloud.com | <https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/bitrate_1.m3u8> |
+| 137 | Telemadrid HD (1080p) | live.telemadrid.cross-media.es | <https://live.telemadrid.cross-media.es/6389770581112/eu-central-1/6416060453001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiajI5YjgyLmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjQxNjA2MDQ1MzAwMSIsImVobiI6ImxpdmUudGVsZW1hZHJpZC5jcm9zcy1tZWRpYS5lcyIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiNjQxNjA2MDQ1MzAwMSJdLCJqdGkiOiI2Mzg5NzcwNTgxMTEyIn0.kqriAMUkHT6m0V6wkCHJum_EUyL4PAi1zJMKlfmYHEU/playlist-hls.m3u8> |
+| 138 | Historia HD (1080p) | d1k3vzh2ivy22k.cloudfront.net | <https://d1k3vzh2ivy22k.cloudfront.net/Historia1080.m3u8> |
 
-Updated at **Mon Jul 27 2026 19:38:35 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jul 28 2026 02:45:51 GMT+0000 (Coordinated Universal Time)**

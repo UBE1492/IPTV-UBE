@@ -119,4 +119,4 @@
 | 113 | RCN Novelas (720p) | IPv4 直链 | <http://170.238.200.199:80/rcn-novelas/index.m3u8> |
 | 114 | Senal Colombia (1080p) | IPv4 直链 | <http://209.14.115.253:8081/SENALCOLOMBIA/index.m3u8> |
 
-Updated at **Mon Jul 27 2026 19:38:35 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jul 28 2026 02:45:51 GMT+0000 (Coordinated Universal Time)**

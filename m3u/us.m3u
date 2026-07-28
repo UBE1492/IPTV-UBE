@@ -124,7 +124,7 @@ http://41.223.30.230/AMC/index.m3u8
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us@Panregional",AMC Latin America (1080p)
 http://45.162.193.35/AMC/index.m3u8
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us@Brazil",AMC Latin America Brazil (1080p)
-http://45.190.156.152/AMC/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="AXNBlack.us@Bulgary",AXN Black
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 #EXTINF:-1 tvg-id="AXNBlack.us@Romania",AXN Black Romania [Not 24/7]
@@ -552,7 +552,7 @@ https://fffffff110156200.tvustream.com:8298/ryfy.m3u8
 #EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Panregional",Studio Universal Latin America (1080p)
 http://45.162.193.35/STUDIO-UNIVERSAL/index.m3u8
 #EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Brazil",Studio Universal Latin America Brazil (720p)
-http://45.190.156.152/STUDIO_UNIVERSAL/index.m3u8
+http://167.250.126.140:7777/STUDIOUNIVERSAL-HD/index.m3u8
 #EXTINF:-1 tvg-id="SUMtvEnglish.us@SD",SUMtv English (1080p)
 https://bozztv.com/uni10rtmp/ssstv1-cdn/smil:ssstv1web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SUMtvLatino.us@SD",SUMtv Latino (1080p)
@@ -745,8 +745,6 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/universalcinema/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="UniversalTVLatinAmerica.us@Panregional",Universal TV Latin America (1080p)
 http://138.121.15.230:9002/UNIVERSAL-CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="UniversalTVLatinAmerica.us@Brazil",Universal TV Latin America Brazil (720p)
-http://45.190.156.152/UNIVERSAL_TV/index.m3u8
 #EXTINF:-1 tvg-id="UniversalTVLatinAmerica.us@Mexico",Universal TV Latin America Mexico (1080p)
 http://177.245.131.133:8080/UNIVERSAL/index.m3u8
 #EXTINF:-1 tvg-id="Univision.us@East",Univision (1080p)
@@ -765,8 +763,6 @@ http://206.212.244.63/168/index.m3u8
 http://138.121.15.230:9002/USA/index.m3u8
 #EXTINF:-1 tvg-id="USANetworkLatinAmerica.us@Panregional",USA Network Latin America (720p)
 http://200.91.32.158:8080/usanetwork/index.m3u8
-#EXTINF:-1 tvg-id="USANetworkLatinAmerica.us@Brazil",USA Network Latin America Brazil (1080p)
-http://45.190.156.152/USA/index.m3u8
 #EXTINF:-1 tvg-id="USANetworkLatinAmerica.us@Brazil",USA Network Latin America Brazil (720p)
 http://167.250.126.140:7777/SYFY-HD/index.m3u8
 #EXTINF:-1 tvg-id="USANetwork.us@West",USA Network West (1080p)
@@ -953,8 +949,6 @@ https://fl1002.bozztv.com/gf-zarintv/index.m3u8
 http://tvsen7.aynascope.net/laff/index.m3u8
 #EXTINF:-1 tvg-id="DreamWorksChannelLatinAmerica.us@SD",DreamWorks Channel Latin America (1080p)
 https://live.nxplay.com.br/DREAMWORKS/index.m3u8
-#EXTINF:-1 tvg-id="AXNWhite.us@SD",AXN White (576p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="MuslimNetworkTV.us@SD",Muslim Network TV
 https://afghantv.app/hls2/muslimnetwork/index.m3u8
 #EXTINF:-1 tvg-id="AE.us@East",A&E (1080p)
@@ -1137,13 +1131,5 @@ http://181.119.66.28:8081/Lifetime-HD/index.m3u8
 http://40.160.24.52/FXM/index.m3u8
 #EXTINF:-1 tvg-id="Logo.us@East",Logo (720p)
 http://40.160.24.53/LOGO_TV/index.m3u8
-#EXTINF:-1 tvg-id="FX.us@West",FX West (1080p)
-https://sra72yz.s.gy/fx-west
-#EXTINF:-1 tvg-id="FXX.us@West",FXX West (720p)
-https://sra72yz.s.gy/fxx-west
-#EXTINF:-1 tvg-id="SYFY.us@West",SYFY West (1080p)
-https://sra72yz.s.gy/syfy-west
-#EXTINF:-1 tvg-id="StarzEncoreClassic.us@East",Starz Encore Classic (720p)
-https://sra72yz.s.gy/starz-encore-classic
 #EXTINF:-1 tvg-id="GolfChannel.us@SD",Golf Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
