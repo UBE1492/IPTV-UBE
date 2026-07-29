@@ -25,8 +25,6 @@ https://tvlatina.live:1936/8025/8025/playlist.m3u8
 http://138.186.23.7:8082/CABLENOTICIAS/index.m3u8
 #EXTINF:-1 tvg-id="Canal1.co@SD",Canal 1 (1080p) [Geo-blocked]
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
-#EXTINF:-1 tvg-id="Canal1.co@SD",Canal 1 (1080p)
-http://190.61.43.123:8081/CANAL1HD/index.m3u8
 #EXTINF:-1 tvg-id="Canal1.co@SD",Canal 1 (720p)
 http://177.234.249.135:8888/CANAL_UNO/index.m3u8
 #EXTINF:-1 tvg-id="Canal1.co@SD",Canal 1 (576p)
@@ -171,8 +169,6 @@ https://vs20.live.opencaster.com/panche_3c70d368/index.m3u8
 https://backupmaxmedia.hvmultiplay.com/hls/stream3/parrandavallenata.m3u8
 #EXTINF:-1 tvg-id="RCNHD2.co@SD",RCN HD2 (1080p)
 http://181.78.14.26:4000/play/a07m/index.m3u8
-#EXTINF:-1 tvg-id="RCNNovelas.co@SD",RCN Novelas (1080p)
-http://190.61.43.123:8081/RCNNOVELAS/index.m3u8
 #EXTINF:-1 tvg-id="RCNNovelas.co@SD",RCN Novelas (576p)
 http://181.78.8.199:8000/play/a0a7/index.m3u8
 #EXTINF:-1 tvg-id="RedPlus.co@SD",Red+ (1080p)

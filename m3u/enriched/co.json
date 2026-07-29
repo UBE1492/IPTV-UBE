@@ -1,6 +1,6 @@
 {
   "name": "co",
-  "updated_at": 1785267413601,
+  "updated_at": 1785293588110,
   "m3u": "https://ube1492.github.io/IPTV-UBE/co.m3u",
   "channels": [
     {
@@ -78,12 +78,6 @@
     {
       "name": "Canal 1 (1080p) [Geo-blocked]",
       "url": "https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Canal 1 (1080p)",
-      "url": "http://190.61.43.123:8081/CANAL1HD/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -517,12 +511,6 @@
       "category": "Otros"
     },
     {
-      "name": "RCN Novelas (1080p)",
-      "url": "http://190.61.43.123:8081/RCNNOVELAS/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "RCN Novelas (576p)",
       "url": "http://181.78.8.199:8000/play/a0a7/index.m3u8",
       "logo": "",
@@ -783,12 +771,6 @@
       {
         "name": "Canal 1 (1080p) [Geo-blocked]",
         "url": "https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Canal 1 (1080p)",
-        "url": "http://190.61.43.123:8081/CANAL1HD/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -1218,12 +1200,6 @@
       {
         "name": "RCN HD2 (1080p)",
         "url": "http://181.78.14.26:4000/play/a07m/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "RCN Novelas (1080p)",
-        "url": "http://190.61.43.123:8081/RCNNOVELAS/index.m3u8",
         "logo": "",
         "category": "Otros"
       },

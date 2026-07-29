@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1785267414004,
+  "updated_at": 1785293587991,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -30,12 +30,6 @@
     {
       "name": "A&E Latin America Brazil (720p)",
       "url": "http://45.190.28.50/AE_HD/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "A&E Latin America South (720p)",
-      "url": "http://200.91.32.158:8080/ae/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -365,7 +359,7 @@
     },
     {
       "name": "AMC East (720p)",
-      "url": "http://41.223.30.230/AMC/index.m3u8",
+      "url": "http://190.11.225.124:5000/live/amc_hd/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -376,206 +370,92 @@
       "category": "Otros"
     },
     {
-      "name": "AMC Latin America Brazil (1080p)",
-      "url": "#EXTINF:-1 tvg-id=\"AXNBlack.us@Bulgary\",AXN Black",
-      "logo": "",
-      "category": "Otros",
-      "options": {
-        "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
-      }
-    },
-    {
-      "name": "AXN Black Romania [Not 24/7]",
-      "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6952/index.m3u8",
+      "name": "AMC Series Latin America (1080p)",
+      "url": "http://177.245.131.133:8080/AMCSERIES/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "AXN Latin America (1080p)",
-      "url": "http://138.121.15.230:9002/AXN/index.m3u8",
+      "name": "American Horrors (480p)",
+      "url": "http://107.167.7.162:8081/playlist/amhor/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "AXN Latin America",
-      "url": "http://45.167.1.138:8000/play/a04s",
+      "name": "AMG TV (1080p)",
+      "url": "https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "AXN Latin America Andes (1080p)",
-      "url": "http://138.186.23.7:8082/AXN/index.m3u8",
+      "name": "Amga TV (720p) [Not 24/7]",
+      "url": "https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "AXN Latin America Mexico (1080p)",
-      "url": "http://177.245.131.133:8080/AXN/index.m3u8",
+      "name": "Amu TV",
+      "url": "https://jmc-live.ercdn.net/amutv/amutv.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "AXN Latin America Mexico",
-      "url": "http://190.11.225.124:5000/live/axn_hd/playlist.m3u8",
+      "name": "Aspire (1080p)",
+      "url": "http://206.212.244.63/10/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "AXN Latin America South",
-      "url": "http://45.228.235.116:8000/play/a0iy/index.m3u8",
+      "name": "ATL 26",
+      "url": "https://securestream11.champds.com/LIVE/AtlantaGALIVE/AtlantaGALIVE.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "AXN White [Not 24/7]",
-      "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6950/index.m3u8",
+      "name": "Atlas (480p)",
+      "url": "https://cdn.whiplash.cc/whiplash-atlas/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "AXN White Bulgaria",
-      "url": "#EXTINF:-1 tvg-id=\"AXNWhite.us@Portugal\",AXN White Portugal (480p)",
-      "logo": "",
-      "category": "Otros",
-      "options": {
-        "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3"
-      }
-    },
-    {
-      "name": "Cinecanal Mexico (720p)",
-      "url": "http://177.245.131.133:8080/CINECANAL/index.m3u8",
+      "name": "ATXN1 (1080p)",
+      "url": "https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(616d6f49-eaec-6f7e-7186-2bbaf66c69c0)/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "Cinecanal Pacific (1080p)",
-      "url": "http://138.121.15.230:9002/CINECANAL/index.m3u8",
+      "name": "ATXN2 (1080p)",
+      "url": "https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(f97b5ddc-b7e4-dff8-9f10-8c16d0833639)/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "Cinecanal South (1080p)",
-      "url": "http://45.162.193.35/CINECANAL/index.m3u8",
+      "name": "ATXN3 (1080p)",
+      "url": "https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(c55d1594-ad62-7434-aa17-4d71adb80f99)/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "Cinecanal South (576p)",
-      "url": "http://200.91.32.158:8080/cinecanal/index.m3u8",
+      "name": "Avang TV (1080p)",
+      "url": "https://hls.avang.live/hls/stream.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "CinePride (720p)",
-      "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2223",
+      "name": "AWE (720p)",
+      "url": "http://206.212.244.63/11/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "Circle (720p)",
-      "url": "http://206.212.244.63/37/index.m3u8",
+      "name": "AWE Plus (720p)",
+      "url": "https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "City of Monroe Government Channel",
-      "url": "https://reflect-monroe-mi-ci.cablecast.tv/live-1/live/live.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Classic Arts Showcase (720p)",
-      "url": "https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Classic Cinema (240p) [Not 24/7]",
-      "url": "https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Cleo TV (720p)",
-      "url": "http://206.212.244.63/38/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Cloudflare TV (720p)",
-      "url": "https://cloudflare.tv/hls/live.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Clubbing TV France",
-      "url": "https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "CMC California Music Channel (1080p) [Geo-blocked]",
-      "url": "https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "CMC-USA Country Music Channel (720p)",
-      "url": "https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "CMT (720p)",
-      "url": "http://23.237.104.106:8080/USA_CMT/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "CNBC (720p)",
-      "url": "http://206.212.244.63/41/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "CNBC Indonesia (720p)",
-      "url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "CNBC World (576p)",
-      "url": "http://206.212.244.63/42/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Comedy Central (1080p)",
-      "url": "http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Comedy Central (720p)",
-      "url": "http://206.212.244.63/44/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Comedy Central Latin America (1080p)",
-      "url": "http://181.119.93.83:8000/play/a1di/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Comedy Central Latin America (720p)",
-      "url": "http://138.186.23.7:8082/COMEDYCENTRAL/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Comedy Central Latin America",
-      "url": "#EXTINF:-1 tvg-id=\"DocumentaryPlus.us@US\",Documentary+ (1080p)",
+      "name": "AXN Adria",
+      "url": "#EXTINF:-1 tvg-id=\"AXNBlack.us@CzechRepublic\",AXN Black Czech Republic",
       "logo": "",
       "category": "Otros",
       "options": {
@@ -583,48 +463,735 @@
       }
     },
     {
-      "name": "Documentary+ International (1080p)",
-      "url": "https://1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-DOCUMENTARYPLUS/mt/documentaryplus/887/hls/master/playlist.m3u8",
+      "name": "AXN White CzechRepublic",
+      "url": "#EXTINF:-1 tvg-id=\"AXSTV.us@SD\",AXS TV (720p)",
+      "logo": "",
+      "category": "Otros",
+      "options": {
+        "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3"
+      }
+    },
+    {
+      "name": "BabyFirst (720p)",
+      "url": "http://206.212.244.63/639/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "Dog TV (720p)",
-      "url": "http://206.212.244.63/56/index.m3u8",
+      "name": "Bandamax USA (1080p)",
+      "url": "http://177.234.249.135:8888/Bandamax/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "Dove Channel (720p)",
-      "url": "http://206.212.244.63/6134/index.m3u8",
+      "name": "BBC America (720p)",
+      "url": "http://23.239.31.26:8989/bbcamerica/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "Dr. Gene Scott (1080p)",
-      "url": "https://wescottcc.piksel.tech/hls/live/2041478/adp/playlist.m3u8",
+      "name": "Beach TV Florida & Alabama (720p)",
+      "url": "http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "Dr. Gene Scott (480p)",
-      "url": "https://wescottcc.piksel.tech/Manifest/UTB-NetworkStream.m3u8",
+      "name": "Beach TV Key West & Florida Keys (720p)",
+      "url": "https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "DraftKings Network (1080p)",
-      "url": "https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8",
+      "name": "Beach TV Myrtle Beach & The Grand Strand (720p)",
+      "url": "http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "DreamWorks Channel Asia",
+      "name": "Beach TV Panama City (720p)",
+      "url": "http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "beIN Sports USA (720p)",
+      "url": "http://23.237.104.106:8080/USA_BEIN/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "beIN SPORTS XTRA (1080p)",
+      "url": "https://bein-xtra-bein.amagi.tv/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Berks Community TV (1080p)",
+      "url": "https://livestream.telvue.com/berkscmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "BET Gospel (576p)",
+      "url": "http://206.212.244.63/17/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "BET Her West (720p)",
+      "url": "http://206.212.244.63/19/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "BET Jams (576p)",
+      "url": "http://206.212.244.63/20/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "BET Soul (576p)",
+      "url": "http://206.212.244.63/21/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "BET West (720p)",
+      "url": "http://206.212.244.63/16/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Better Health TV (480p)",
+      "url": "https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Better Life Nature Channel (480p)",
+      "url": "https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Better Life TV (720p)",
+      "url": "https://tgn.bozztv.com/betterlife/betterlife/betterlife/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "BIG Civic Channel",
+      "url": "https://reflect-brookline-interactive-group.cablecast.tv/live-5/live/stream-2/live.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "BIG Community Channel",
+      "url": "https://reflect-brookline-interactive-group.cablecast.tv/live-4/live/stream-1/live.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Big Ten Network (720p)",
+      "url": "http://23.237.104.106:8080/USA_BTN/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Binge",
+      "url": "https://videostack1.cdnstream1.com:1936/binge-tv/binge-tv/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Biz TV (1080p)",
+      "url": "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Bloomberg Originals (1080p)",
+      "url": "https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Bloomberg TV (1080p)",
+      "url": "http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Bloomberg TV (720p)",
+      "url": "http://206.212.244.63/22/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Bloomberg TV + (2160p)",
+      "url": "https://66e4bbba.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnVFZQbHVzX0hMUw/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Bloomberg TV US (720p)",
+      "url": "https://bloomberg.com/media-manifest/streams/us.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Bloomberg TV US Live Event (720p)",
+      "url": "https://bloomberg.com/media-manifest/streams/us-event.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Bloomberg TV US Politics Live Event (720p)",
+      "url": "https://bloomberg.com/media-manifest/streams/politics.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Bloomberg TV+ (1080p)",
+      "url": "https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Bloomfield Access Government TV (480p)",
+      "url": "https://reflect-batv.cablecast.tv/live-3/live/live.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Bloomfield Access TV Channel 5 (480p)",
+      "url": "https://reflect-batv.cablecast.tv/live-5/live/live.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Blues TV",
+      "url": "https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "BMC-HD TV (720p)",
+      "url": "https://livestream.telvue.com/belmontmedia4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Bounce (1080p)",
+      "url": "http://40.160.24.58/BOUNCE_TV/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Bounce (720p)",
+      "url": "http://23.237.104.106:8080/USA_BOUNCE/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Bounce XL (1080p)",
+      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tablo/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "BPX TV Radio",
+      "url": "https://video1.getstreamhosting.com:1936/8212/8212/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Brat TV (1080p)",
+      "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04072b68-dc6a-4d5e-98af-f356ba8d5063/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Bravo (720p)",
+      "url": "http://41.205.93.154/BRAVO/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Bravo West (1080p)",
+      "url": "http://40.160.24.52/BRAVO_WEST/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Bravo West (720p)",
+      "url": "http://206.212.244.63/26/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Business Rockstars (720p)",
+      "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2220",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Buzzr (1080p)",
+      "url": "http://23.237.104.106:8080/USA_BUZZR/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "BX Arts (720p)",
+      "url": "https://reflect-stream-bronxnet.cablecast.tv/live-19/live/stream-2/live.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "BX Culture (720p)",
+      "url": "https://reflect-stream-bronxnet.cablecast.tv/live-7/live/stream-3/live.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "BX Inform (1080p)",
+      "url": "https://reflect-stream-bronxnet.cablecast.tv/live-8/live/stream-4/live.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "BX Inspire (720p)",
+      "url": "https://reflect-stream-bronxnet.cablecast.tv/live-18/live/stream-7/live.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "BX Omni (720p)",
+      "url": "https://reflect-stream-bronxnet.cablecast.tv/live-16/live/stream-1/live.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "BYU TV (720p)",
+      "url": "http://206.212.244.63/28/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Camera Smile (480p)",
+      "url": "https://rpn.bozztv.com/gusa/gusa-camerasmile/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Camp Spoopy (576p)",
+      "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=269",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "CAN TV19 (1080p)",
+      "url": "https://cantv.streamguys1.com/cantv/cantv19hls/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "CAN TV21 (1080p)",
+      "url": "https://cantv.streamguys1.com/cantv/cantv21hls/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "CAN TV27 (1080p)",
+      "url": "https://cantv.streamguys1.com/cantv/cantv27hls/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "CAN TV36 (1080p)",
+      "url": "https://cantv.streamguys1.com/cantv/cantv36hls/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Canal Infantil (1080p)",
+      "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/canalinfantil/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Catchy Comedy (720p)",
+      "url": "http://40.160.24.52/DECADES/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Catholic TV (1080p)",
+      "url": "https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "CBN Espanol (1080p)",
+      "url": "https://fastly.live.brightcove.com/6383462549112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgzNDYyNTQ5MTEyIn0.g04lznsvgqgIXQt2ZH0H_tWtIeTsMgGjVORsjOJ0T6U/playlist-hls.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "CBN Family (1080p)",
+      "url": "https://fastly.live.brightcove.com/6380399588112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk5NTg4MTEyIn0.LYfIeObmX4AEStY_xCnPZwMJHXgOAPFMTKfztq-9F8U/playlist-hls.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "CBN News Channel (1080p)",
+      "url": "https://fastly.live.brightcove.com/6380396819112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk2ODE5MTEyIn0.GDYp4IWtzwPkupEWeeOavnioVknO-Ev3UGlHvM1rE6I/playlist-hls.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "CBS (1080p)",
+      "url": "http://stream.cammonitorplus.net/1783/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "CBS News 24/7 (720p)",
+      "url": "http://40.160.24.56/CBS_NEWS/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "CBS West (720p)",
+      "url": "http://stream.cammonitorplus.net/1798/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "CCX1 (1080p)",
+      "url": "http://reflect-ccx.cablecast.tv/live-9/live/stream-1/live.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Celebrity Scene TV (720p)",
+      "url": "https://rpn.bozztv.com/gusa/gusa-celebrityscene/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "CFN Catholic Faith Network (720p)",
+      "url": "https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Channel 18 GAC",
+      "url": "https://reflect-channel18vod-springfield-il-us.cablecast.tv/live-13/live/stream-1/live.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Charge! (1080p)",
+      "url": "https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Charge! (720p)",
+      "url": "http://206.212.244.63/34/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Cheddar News (720p)",
+      "url": "http://206.212.244.63/35/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Chef Champion (720p) [Not 24/7]",
+      "url": "https://rpn.bozztv.com/gusa/gusa-chefchampion/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Chef Roc Show (720p) [Not 24/7]",
+      "url": "https://rpn.bozztv.com/gusa/gusa-chefrock/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Christian Youth Channel (CYC) (1080p)",
+      "url": "http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Cine Familiar (1080p)",
+      "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinefamiliar.stream/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Cine Hispano (1080p)",
+      "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinehispano.stream/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Cine Mexicano (1080p)",
+      "url": "http://177.234.249.178:8888/AMERICA/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Cine Premium (1080p)",
+      "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinepremium.stream/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Cine Premium",
+      "url": "http://190.61.90.17:40000/play/a02i/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Cine Sony (1080p)",
+      "url": "http://177.234.249.178:8888/SONY-MOVIES/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Cinecanal (1080p)",
+      "url": "http://138.186.23.7:8082/CINECANAL/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Comercio TV (1080p)",
+      "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=16960",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Comercio TV (720p)",
+      "url": "https://amg00082-amg00082c1-zapitv-emea-7424.playouts.now.amagi.tv/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Comet (1080p)",
+      "url": "https://fast-channels.sinclairstoryline.com/COMET/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Comet (720p)",
+      "url": "http://206.212.244.63/46/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Cooking Panda (576p)",
+      "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Cornerstone TV (720p)",
+      "url": "https://2-fss-1.themediacdn.com/pl_122/206280-3059514-1/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "COStv",
+      "url": "https://irctv.cablecast.tv/live/stream-1/live.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Court TV (1080p)",
+      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Cozi TV (720p)",
+      "url": "http://206.212.244.63/49/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Create (1080p)",
+      "url": "https://create.lls.pbs.org/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Crime + Investigation (720p)",
+      "url": "http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "CSat TV (1080p) [Not 24/7]",
+      "url": "http://media.smc-host.com:1935/csat.tv/smil:csat.smil/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "CTN (720p)",
+      "url": "https://d3k5y954fiztgy.cloudfront.net/FREECAST/CTN-2b0dd347-f7b0-e7ed-9096-68966d29db50/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "CT-N Court Feed (360p) [Not 24/7]",
+      "url": "http://video.ct-n.com/live/ctnSupreme/playlist_DVR.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "CT-N Live Stream 2 (360p) [Not 24/7]",
+      "url": "http://video.ct-n.com/live/web2stream/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "CT-N TV Conneticut (720p) [Not 24/7]",
+      "url": "http://video.ct-n.com/live/ctnstream/playlist_DVR.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "CVTV Channel 192 (1080p)",
+      "url": "https://livestream.telvue.com/cvtv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "CVTV Channel 194 (1080p)",
+      "url": "https://livestream.telvue.com/cvtv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Dabl (720p)",
+      "url": "http://40.160.24.56/DABL/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Dateline 24/7 (1080p)",
+      "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99993007/hls/master.m3u8?ads.xumo_channelId=99993007",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "De Pelicula US (720p)",
+      "url": "http://138.121.15.230:9002/DEPELICULA/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Del Mar TV (720p)",
+      "url": "https://d25ykpi2vxhoyc.cloudfront.net/delmar-cdn/dmtv/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "DerryTV 17 (720p)",
+      "url": "https://livestream.telvue.com/derrynh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "DerryTV 23 (720p)",
+      "url": "https://livestream.telvue.com/derrynh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Detroit Channel 10",
+      "url": "https://reflect-detroit-vod.cablecast.tv/live-2/live/stream-6/live.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Detroit Channel 21",
+      "url": "https://reflect-detroit-vod.cablecast.tv/live-9/live/stream-4/live.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Detroit Channel 22",
+      "url": "https://reflect-detroit-vod.cablecast.tv/live-3/live/stream-3/live.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Detroit Channel 68",
+      "url": "https://reflect-detroit-vod.cablecast.tv/live-10/live/stream-5/live.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "DHE (1080p)",
+      "url": "http://177.245.131.133:8080/DHE/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "DHE (720p)",
+      "url": "http://177.234.249.178:8888/PARAMOUNT/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Didgah TV (576p)",
+      "url": "https://media.streambrothers.com:1936/8276/8276/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Disney Channel (720p)",
+      "url": "http://206.212.244.63/650/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Disney Channel (720p) [Geo-blocked]",
+      "url": "http://212.5.144.156/disney/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Disney Junior (576p) [Geo-blocked]",
+      "url": "http://212.5.144.156/disneyjr/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Disney Junior West (720p)",
+      "url": "http://206.212.244.63/655/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Disney XD (720p)",
+      "url": "http://40.160.24.52/DISNEY_XD_HD/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Diva Adria",
       "url": "#EXTINF:-1 tvg-id=\"NationalGeographic.us@West\",National Geographic West (720p)",
       "logo": "",
       "category": "Otros",
       "options": {
-        "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+        "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
       }
     },
     {
@@ -1074,12 +1641,6 @@
     {
       "name": "Paramount Network Latin America (720p)",
       "url": "http://138.186.23.7:8082/PARAMOUNT/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Pasiones (1080p)",
-      "url": "http://190.61.43.123:8081/PasionesHD/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -1646,7 +2207,7 @@
     },
     {
       "name": "Studio Universal Latin America Brazil (720p)",
-      "url": "http://167.250.126.140:7777/STUDIOUNIVERSAL-HD/index.m3u8",
+      "url": "http://177.52.24.163/STUDIO-UNIVERSAL-HD/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -1747,18 +2308,6 @@
       "category": "Otros"
     },
     {
-      "name": "Telemundo (1080p)",
-      "url": "https://streamvidex.qzz.io/videx/telemundo/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Telemundo (720p)",
-      "url": "http://168.228.44.241:9998/play/a0a9/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Telemundo Al Dia",
       "url": "https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/3.m3u8",
       "logo": "",
@@ -1767,12 +2316,6 @@
     {
       "name": "Telemundo Internacional (1080p)",
       "url": "http://138.121.15.230:9002/TELEMUNDO/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Telemundo Internacional (720p)",
-      "url": "http://45.181.87.106/TELEMUNDOHD/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -2279,7 +2822,7 @@
     },
     {
       "name": "USA Network Latin America Brazil (720p)",
-      "url": "http://167.250.126.140:7777/SYFY-HD/index.m3u8",
+      "url": "http://177.52.24.163/USA-HD/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -2863,12 +3406,6 @@
       "category": "Otros"
     },
     {
-      "name": "Aspire (1080p)",
-      "url": "https://gpuserver3.tier1streams.com/ASPIRE/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "AWE (1080p)",
       "url": "https://gpuserver3.tier1streams.com/AWE/index.m3u8",
       "logo": "",
@@ -2893,50 +3430,14 @@
       "category": "Otros"
     },
     {
-      "name": "BET West (720p)",
-      "url": "https://gpuserver3.tier1streams.com/BET_WEST/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "BET Her (720p)",
       "url": "https://gpuserver3.tier1streams.com/BET_HER/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "BET Jams (576p)",
-      "url": "https://gpuserver3.tier1streams.com/BET_JAMS/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "BET Soul (576p)",
-      "url": "https://gpuserver3.tier1streams.com/BET_SOUL/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Big Ten Network (720p)",
-      "url": "https://gpuserver3.tier1streams.com/BIG_TEN_NETWORK/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Bloomberg TV (1080p)",
-      "url": "https://gpuserver3.tier1streams.com/BLOOMBERG/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Bravo (1080p)",
       "url": "https://gpuserver3.tier1streams.com/BRAVO/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Buzzr (1080p)",
-      "url": "https://gpuserver3.tier1streams.com/BUZZR/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -2959,20 +3460,14 @@
       "category": "Otros"
     },
     {
-      "name": "Charge! (1080p)",
-      "url": "https://gpuserver3.tier1streams.com/CHARGE/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Cheddar News (720p)",
-      "url": "https://gpuserver3.tier1streams.com/CHEDDAR_NEWS/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Cheddar Business (720p)",
       "url": "https://gpuserver3.tier1streams.com/CHEDDAR_BUSINESS/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Cleo TV (720p)",
+      "url": "https://gpuserver3.tier1streams.com/Cleo_TV/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -2989,20 +3484,20 @@
       "category": "Otros"
     },
     {
+      "name": "CNBC World (576p)",
+      "url": "https://gpuserver3.tier1streams.com/CNBC_WORLD/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Comedy Central (1080p)",
+      "url": "https://gpuserver3.tier1streams.com/COMEDY_CENTRAL/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
       "name": "Comedy TV (720p)",
       "url": "https://gpuserver3.tier1streams.com/COMEDY_TV/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Comet (1080p)",
-      "url": "https://gpuserver3.tier1streams.com/COMET/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Court TV (1080p)",
-      "url": "https://gpuserver3.tier1streams.com/COURT_TV/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -3021,12 +3516,6 @@
     {
       "name": "Daystar TV (1080p)",
       "url": "https://gpuserver3.tier1streams.com/DAYSTAR_TV/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Disney Channel (720p)",
-      "url": "https://gpuserver3.tier1streams.com/Disney_Channel_HD/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -3235,14 +3724,8 @@
       "category": "Otros"
     },
     {
-      "name": "Adult Swim Latin America (1080p)",
-      "url": "https://cablered.iptvperu.tv:1936/cablered/adultswing_new/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "DHE (1080p)",
-      "url": "https://cablered.iptvperu.tv:1936/cablered/dhe_new/playlist.m3u8",
+      "name": "Telemundo (720p)",
+      "url": "http://170.254.17.2:80/TELEMUNDO/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -3325,20 +3808,26 @@
       "category": "Otros"
     },
     {
+      "name": "AXN Latin America (1080p)",
+      "url": "http://15.204.246.24:8080/AXNHD/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
       "name": "MTV Latin America (1080p)",
       "url": "http://15.204.246.24:8080/MTVHD/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "KidOO (1080p)",
-      "url": "http://15.204.246.24:8080/KidooHD/index.m3u8",
+      "name": "Comedy Central Latin America (1080p)",
+      "url": "http://15.204.246.24:8080/ComedyCentralHD/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "Cinecanal (1080p)",
-      "url": "http://15.204.246.24:8080/CinecanalHD/index.m3u8",
+      "name": "KidOO (1080p)",
+      "url": "http://15.204.246.24:8080/KidooHD/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -3417,12 +3906,6 @@
       {
         "name": "A&E Latin America Brazil (720p)",
         "url": "http://45.190.28.50/AE_HD/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "A&E Latin America South (720p)",
-        "url": "http://200.91.32.158:8080/ae/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -3752,7 +4235,7 @@
       },
       {
         "name": "AMC East (720p)",
-        "url": "http://41.223.30.230/AMC/index.m3u8",
+        "url": "http://190.11.225.124:5000/live/amc_hd/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -3763,206 +4246,92 @@
         "category": "Otros"
       },
       {
-        "name": "AMC Latin America Brazil (1080p)",
-        "url": "#EXTINF:-1 tvg-id=\"AXNBlack.us@Bulgary\",AXN Black",
-        "logo": "",
-        "category": "Otros",
-        "options": {
-          "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "AXN Black Romania [Not 24/7]",
-        "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6952/index.m3u8",
+        "name": "AMC Series Latin America (1080p)",
+        "url": "http://177.245.131.133:8080/AMCSERIES/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "AXN Latin America (1080p)",
-        "url": "http://138.121.15.230:9002/AXN/index.m3u8",
+        "name": "American Horrors (480p)",
+        "url": "http://107.167.7.162:8081/playlist/amhor/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "AXN Latin America",
-        "url": "http://45.167.1.138:8000/play/a04s",
+        "name": "AMG TV (1080p)",
+        "url": "https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "AXN Latin America Andes (1080p)",
-        "url": "http://138.186.23.7:8082/AXN/index.m3u8",
+        "name": "Amga TV (720p) [Not 24/7]",
+        "url": "https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "AXN Latin America Mexico (1080p)",
-        "url": "http://177.245.131.133:8080/AXN/index.m3u8",
+        "name": "Amu TV",
+        "url": "https://jmc-live.ercdn.net/amutv/amutv.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "AXN Latin America Mexico",
-        "url": "http://190.11.225.124:5000/live/axn_hd/playlist.m3u8",
+        "name": "Aspire (1080p)",
+        "url": "http://206.212.244.63/10/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "AXN Latin America South",
-        "url": "http://45.228.235.116:8000/play/a0iy/index.m3u8",
+        "name": "ATL 26",
+        "url": "https://securestream11.champds.com/LIVE/AtlantaGALIVE/AtlantaGALIVE.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "AXN White [Not 24/7]",
-        "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6950/index.m3u8",
+        "name": "Atlas (480p)",
+        "url": "https://cdn.whiplash.cc/whiplash-atlas/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "AXN White Bulgaria",
-        "url": "#EXTINF:-1 tvg-id=\"AXNWhite.us@Portugal\",AXN White Portugal (480p)",
-        "logo": "",
-        "category": "Otros",
-        "options": {
-          "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3"
-        }
-      },
-      {
-        "name": "Cinecanal Mexico (720p)",
-        "url": "http://177.245.131.133:8080/CINECANAL/index.m3u8",
+        "name": "ATXN1 (1080p)",
+        "url": "https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(616d6f49-eaec-6f7e-7186-2bbaf66c69c0)/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "Cinecanal Pacific (1080p)",
-        "url": "http://138.121.15.230:9002/CINECANAL/index.m3u8",
+        "name": "ATXN2 (1080p)",
+        "url": "https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(f97b5ddc-b7e4-dff8-9f10-8c16d0833639)/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "Cinecanal South (1080p)",
-        "url": "http://45.162.193.35/CINECANAL/index.m3u8",
+        "name": "ATXN3 (1080p)",
+        "url": "https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(c55d1594-ad62-7434-aa17-4d71adb80f99)/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "Cinecanal South (576p)",
-        "url": "http://200.91.32.158:8080/cinecanal/index.m3u8",
+        "name": "Avang TV (1080p)",
+        "url": "https://hls.avang.live/hls/stream.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "CinePride (720p)",
-        "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2223",
+        "name": "AWE (720p)",
+        "url": "http://206.212.244.63/11/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "Circle (720p)",
-        "url": "http://206.212.244.63/37/index.m3u8",
+        "name": "AWE Plus (720p)",
+        "url": "https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "City of Monroe Government Channel",
-        "url": "https://reflect-monroe-mi-ci.cablecast.tv/live-1/live/live.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Classic Arts Showcase (720p)",
-        "url": "https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Classic Cinema (240p) [Not 24/7]",
-        "url": "https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Cleo TV (720p)",
-        "url": "http://206.212.244.63/38/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Cloudflare TV (720p)",
-        "url": "https://cloudflare.tv/hls/live.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Clubbing TV France",
-        "url": "https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "CMC California Music Channel (1080p) [Geo-blocked]",
-        "url": "https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "CMC-USA Country Music Channel (720p)",
-        "url": "https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "CMT (720p)",
-        "url": "http://23.237.104.106:8080/USA_CMT/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "CNBC (720p)",
-        "url": "http://206.212.244.63/41/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "CNBC Indonesia (720p)",
-        "url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "CNBC World (576p)",
-        "url": "http://206.212.244.63/42/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Comedy Central (1080p)",
-        "url": "http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Comedy Central (720p)",
-        "url": "http://206.212.244.63/44/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Comedy Central Latin America (1080p)",
-        "url": "http://181.119.93.83:8000/play/a1di/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Comedy Central Latin America (720p)",
-        "url": "http://138.186.23.7:8082/COMEDYCENTRAL/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Comedy Central Latin America",
-        "url": "#EXTINF:-1 tvg-id=\"DocumentaryPlus.us@US\",Documentary+ (1080p)",
+        "name": "AXN Adria",
+        "url": "#EXTINF:-1 tvg-id=\"AXNBlack.us@CzechRepublic\",AXN Black Czech Republic",
         "logo": "",
         "category": "Otros",
         "options": {
@@ -3970,48 +4339,735 @@
         }
       },
       {
-        "name": "Documentary+ International (1080p)",
-        "url": "https://1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-DOCUMENTARYPLUS/mt/documentaryplus/887/hls/master/playlist.m3u8",
+        "name": "AXN White CzechRepublic",
+        "url": "#EXTINF:-1 tvg-id=\"AXSTV.us@SD\",AXS TV (720p)",
+        "logo": "",
+        "category": "Otros",
+        "options": {
+          "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3"
+        }
+      },
+      {
+        "name": "BabyFirst (720p)",
+        "url": "http://206.212.244.63/639/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "Dog TV (720p)",
-        "url": "http://206.212.244.63/56/index.m3u8",
+        "name": "Bandamax USA (1080p)",
+        "url": "http://177.234.249.135:8888/Bandamax/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "Dove Channel (720p)",
-        "url": "http://206.212.244.63/6134/index.m3u8",
+        "name": "BBC America (720p)",
+        "url": "http://23.239.31.26:8989/bbcamerica/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "Dr. Gene Scott (1080p)",
-        "url": "https://wescottcc.piksel.tech/hls/live/2041478/adp/playlist.m3u8",
+        "name": "Beach TV Florida & Alabama (720p)",
+        "url": "http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "Dr. Gene Scott (480p)",
-        "url": "https://wescottcc.piksel.tech/Manifest/UTB-NetworkStream.m3u8",
+        "name": "Beach TV Key West & Florida Keys (720p)",
+        "url": "https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "DraftKings Network (1080p)",
-        "url": "https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8",
+        "name": "Beach TV Myrtle Beach & The Grand Strand (720p)",
+        "url": "http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "DreamWorks Channel Asia",
+        "name": "Beach TV Panama City (720p)",
+        "url": "http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "beIN Sports USA (720p)",
+        "url": "http://23.237.104.106:8080/USA_BEIN/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "beIN SPORTS XTRA (1080p)",
+        "url": "https://bein-xtra-bein.amagi.tv/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Berks Community TV (1080p)",
+        "url": "https://livestream.telvue.com/berkscmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "BET Gospel (576p)",
+        "url": "http://206.212.244.63/17/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "BET Her West (720p)",
+        "url": "http://206.212.244.63/19/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "BET Jams (576p)",
+        "url": "http://206.212.244.63/20/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "BET Soul (576p)",
+        "url": "http://206.212.244.63/21/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "BET West (720p)",
+        "url": "http://206.212.244.63/16/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Better Health TV (480p)",
+        "url": "https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Better Life Nature Channel (480p)",
+        "url": "https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Better Life TV (720p)",
+        "url": "https://tgn.bozztv.com/betterlife/betterlife/betterlife/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "BIG Civic Channel",
+        "url": "https://reflect-brookline-interactive-group.cablecast.tv/live-5/live/stream-2/live.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "BIG Community Channel",
+        "url": "https://reflect-brookline-interactive-group.cablecast.tv/live-4/live/stream-1/live.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Big Ten Network (720p)",
+        "url": "http://23.237.104.106:8080/USA_BTN/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Binge",
+        "url": "https://videostack1.cdnstream1.com:1936/binge-tv/binge-tv/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Biz TV (1080p)",
+        "url": "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Bloomberg Originals (1080p)",
+        "url": "https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Bloomberg TV (1080p)",
+        "url": "http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Bloomberg TV (720p)",
+        "url": "http://206.212.244.63/22/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Bloomberg TV + (2160p)",
+        "url": "https://66e4bbba.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnVFZQbHVzX0hMUw/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Bloomberg TV US (720p)",
+        "url": "https://bloomberg.com/media-manifest/streams/us.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Bloomberg TV US Live Event (720p)",
+        "url": "https://bloomberg.com/media-manifest/streams/us-event.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Bloomberg TV US Politics Live Event (720p)",
+        "url": "https://bloomberg.com/media-manifest/streams/politics.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Bloomberg TV+ (1080p)",
+        "url": "https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Bloomfield Access Government TV (480p)",
+        "url": "https://reflect-batv.cablecast.tv/live-3/live/live.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Bloomfield Access TV Channel 5 (480p)",
+        "url": "https://reflect-batv.cablecast.tv/live-5/live/live.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Blues TV",
+        "url": "https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "BMC-HD TV (720p)",
+        "url": "https://livestream.telvue.com/belmontmedia4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Bounce (1080p)",
+        "url": "http://40.160.24.58/BOUNCE_TV/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Bounce (720p)",
+        "url": "http://23.237.104.106:8080/USA_BOUNCE/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Bounce XL (1080p)",
+        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tablo/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "BPX TV Radio",
+        "url": "https://video1.getstreamhosting.com:1936/8212/8212/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Brat TV (1080p)",
+        "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04072b68-dc6a-4d5e-98af-f356ba8d5063/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Bravo (720p)",
+        "url": "http://41.205.93.154/BRAVO/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Bravo West (1080p)",
+        "url": "http://40.160.24.52/BRAVO_WEST/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Bravo West (720p)",
+        "url": "http://206.212.244.63/26/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Business Rockstars (720p)",
+        "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2220",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Buzzr (1080p)",
+        "url": "http://23.237.104.106:8080/USA_BUZZR/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "BX Arts (720p)",
+        "url": "https://reflect-stream-bronxnet.cablecast.tv/live-19/live/stream-2/live.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "BX Culture (720p)",
+        "url": "https://reflect-stream-bronxnet.cablecast.tv/live-7/live/stream-3/live.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "BX Inform (1080p)",
+        "url": "https://reflect-stream-bronxnet.cablecast.tv/live-8/live/stream-4/live.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "BX Inspire (720p)",
+        "url": "https://reflect-stream-bronxnet.cablecast.tv/live-18/live/stream-7/live.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "BX Omni (720p)",
+        "url": "https://reflect-stream-bronxnet.cablecast.tv/live-16/live/stream-1/live.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "BYU TV (720p)",
+        "url": "http://206.212.244.63/28/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Camera Smile (480p)",
+        "url": "https://rpn.bozztv.com/gusa/gusa-camerasmile/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Camp Spoopy (576p)",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=269",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "CAN TV19 (1080p)",
+        "url": "https://cantv.streamguys1.com/cantv/cantv19hls/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "CAN TV21 (1080p)",
+        "url": "https://cantv.streamguys1.com/cantv/cantv21hls/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "CAN TV27 (1080p)",
+        "url": "https://cantv.streamguys1.com/cantv/cantv27hls/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "CAN TV36 (1080p)",
+        "url": "https://cantv.streamguys1.com/cantv/cantv36hls/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Canal Infantil (1080p)",
+        "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/canalinfantil/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Catchy Comedy (720p)",
+        "url": "http://40.160.24.52/DECADES/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Catholic TV (1080p)",
+        "url": "https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "CBN Espanol (1080p)",
+        "url": "https://fastly.live.brightcove.com/6383462549112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgzNDYyNTQ5MTEyIn0.g04lznsvgqgIXQt2ZH0H_tWtIeTsMgGjVORsjOJ0T6U/playlist-hls.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "CBN Family (1080p)",
+        "url": "https://fastly.live.brightcove.com/6380399588112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk5NTg4MTEyIn0.LYfIeObmX4AEStY_xCnPZwMJHXgOAPFMTKfztq-9F8U/playlist-hls.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "CBN News Channel (1080p)",
+        "url": "https://fastly.live.brightcove.com/6380396819112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk2ODE5MTEyIn0.GDYp4IWtzwPkupEWeeOavnioVknO-Ev3UGlHvM1rE6I/playlist-hls.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "CBS (1080p)",
+        "url": "http://stream.cammonitorplus.net/1783/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "CBS News 24/7 (720p)",
+        "url": "http://40.160.24.56/CBS_NEWS/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "CBS West (720p)",
+        "url": "http://stream.cammonitorplus.net/1798/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "CCX1 (1080p)",
+        "url": "http://reflect-ccx.cablecast.tv/live-9/live/stream-1/live.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Celebrity Scene TV (720p)",
+        "url": "https://rpn.bozztv.com/gusa/gusa-celebrityscene/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "CFN Catholic Faith Network (720p)",
+        "url": "https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Channel 18 GAC",
+        "url": "https://reflect-channel18vod-springfield-il-us.cablecast.tv/live-13/live/stream-1/live.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Charge! (1080p)",
+        "url": "https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Charge! (720p)",
+        "url": "http://206.212.244.63/34/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Cheddar News (720p)",
+        "url": "http://206.212.244.63/35/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Chef Champion (720p) [Not 24/7]",
+        "url": "https://rpn.bozztv.com/gusa/gusa-chefchampion/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Chef Roc Show (720p) [Not 24/7]",
+        "url": "https://rpn.bozztv.com/gusa/gusa-chefrock/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Christian Youth Channel (CYC) (1080p)",
+        "url": "http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Cine Familiar (1080p)",
+        "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinefamiliar.stream/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Cine Hispano (1080p)",
+        "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinehispano.stream/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Cine Mexicano (1080p)",
+        "url": "http://177.234.249.178:8888/AMERICA/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Cine Premium (1080p)",
+        "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinepremium.stream/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Cine Premium",
+        "url": "http://190.61.90.17:40000/play/a02i/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Cine Sony (1080p)",
+        "url": "http://177.234.249.178:8888/SONY-MOVIES/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Cinecanal (1080p)",
+        "url": "http://138.186.23.7:8082/CINECANAL/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Comercio TV (1080p)",
+        "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=16960",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Comercio TV (720p)",
+        "url": "https://amg00082-amg00082c1-zapitv-emea-7424.playouts.now.amagi.tv/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Comet (1080p)",
+        "url": "https://fast-channels.sinclairstoryline.com/COMET/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Comet (720p)",
+        "url": "http://206.212.244.63/46/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Cooking Panda (576p)",
+        "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Cornerstone TV (720p)",
+        "url": "https://2-fss-1.themediacdn.com/pl_122/206280-3059514-1/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "COStv",
+        "url": "https://irctv.cablecast.tv/live/stream-1/live.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Court TV (1080p)",
+        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Cozi TV (720p)",
+        "url": "http://206.212.244.63/49/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Create (1080p)",
+        "url": "https://create.lls.pbs.org/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Crime + Investigation (720p)",
+        "url": "http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "CSat TV (1080p) [Not 24/7]",
+        "url": "http://media.smc-host.com:1935/csat.tv/smil:csat.smil/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "CTN (720p)",
+        "url": "https://d3k5y954fiztgy.cloudfront.net/FREECAST/CTN-2b0dd347-f7b0-e7ed-9096-68966d29db50/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "CT-N Court Feed (360p) [Not 24/7]",
+        "url": "http://video.ct-n.com/live/ctnSupreme/playlist_DVR.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "CT-N Live Stream 2 (360p) [Not 24/7]",
+        "url": "http://video.ct-n.com/live/web2stream/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "CT-N TV Conneticut (720p) [Not 24/7]",
+        "url": "http://video.ct-n.com/live/ctnstream/playlist_DVR.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "CVTV Channel 192 (1080p)",
+        "url": "https://livestream.telvue.com/cvtv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "CVTV Channel 194 (1080p)",
+        "url": "https://livestream.telvue.com/cvtv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Dabl (720p)",
+        "url": "http://40.160.24.56/DABL/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Dateline 24/7 (1080p)",
+        "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99993007/hls/master.m3u8?ads.xumo_channelId=99993007",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "De Pelicula US (720p)",
+        "url": "http://138.121.15.230:9002/DEPELICULA/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Del Mar TV (720p)",
+        "url": "https://d25ykpi2vxhoyc.cloudfront.net/delmar-cdn/dmtv/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "DerryTV 17 (720p)",
+        "url": "https://livestream.telvue.com/derrynh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "DerryTV 23 (720p)",
+        "url": "https://livestream.telvue.com/derrynh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Detroit Channel 10",
+        "url": "https://reflect-detroit-vod.cablecast.tv/live-2/live/stream-6/live.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Detroit Channel 21",
+        "url": "https://reflect-detroit-vod.cablecast.tv/live-9/live/stream-4/live.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Detroit Channel 22",
+        "url": "https://reflect-detroit-vod.cablecast.tv/live-3/live/stream-3/live.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Detroit Channel 68",
+        "url": "https://reflect-detroit-vod.cablecast.tv/live-10/live/stream-5/live.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "DHE (1080p)",
+        "url": "http://177.245.131.133:8080/DHE/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "DHE (720p)",
+        "url": "http://177.234.249.178:8888/PARAMOUNT/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Didgah TV (576p)",
+        "url": "https://media.streambrothers.com:1936/8276/8276/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Disney Channel (720p)",
+        "url": "http://206.212.244.63/650/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Disney Channel (720p) [Geo-blocked]",
+        "url": "http://212.5.144.156/disney/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Disney Junior (576p) [Geo-blocked]",
+        "url": "http://212.5.144.156/disneyjr/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Disney Junior West (720p)",
+        "url": "http://206.212.244.63/655/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Disney XD (720p)",
+        "url": "http://40.160.24.52/DISNEY_XD_HD/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Diva Adria",
         "url": "#EXTINF:-1 tvg-id=\"NationalGeographic.us@West\",National Geographic West (720p)",
         "logo": "",
         "category": "Otros",
         "options": {
-          "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
         }
       },
       {
@@ -4461,12 +5517,6 @@
       {
         "name": "Paramount Network Latin America (720p)",
         "url": "http://138.186.23.7:8082/PARAMOUNT/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Pasiones (1080p)",
-        "url": "http://190.61.43.123:8081/PasionesHD/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -5033,7 +6083,7 @@
       },
       {
         "name": "Studio Universal Latin America Brazil (720p)",
-        "url": "http://167.250.126.140:7777/STUDIOUNIVERSAL-HD/index.m3u8",
+        "url": "http://177.52.24.163/STUDIO-UNIVERSAL-HD/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -5134,18 +6184,6 @@
         "category": "Otros"
       },
       {
-        "name": "Telemundo (1080p)",
-        "url": "https://streamvidex.qzz.io/videx/telemundo/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Telemundo (720p)",
-        "url": "http://168.228.44.241:9998/play/a0a9/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "Telemundo Al Dia",
         "url": "https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/3.m3u8",
         "logo": "",
@@ -5154,12 +6192,6 @@
       {
         "name": "Telemundo Internacional (1080p)",
         "url": "http://138.121.15.230:9002/TELEMUNDO/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Telemundo Internacional (720p)",
-        "url": "http://45.181.87.106/TELEMUNDOHD/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -5666,7 +6698,7 @@
       },
       {
         "name": "USA Network Latin America Brazil (720p)",
-        "url": "http://167.250.126.140:7777/SYFY-HD/index.m3u8",
+        "url": "http://177.52.24.163/USA-HD/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -6250,12 +7282,6 @@
         "category": "Otros"
       },
       {
-        "name": "Aspire (1080p)",
-        "url": "https://gpuserver3.tier1streams.com/ASPIRE/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "AWE (1080p)",
         "url": "https://gpuserver3.tier1streams.com/AWE/index.m3u8",
         "logo": "",
@@ -6280,50 +7306,14 @@
         "category": "Otros"
       },
       {
-        "name": "BET West (720p)",
-        "url": "https://gpuserver3.tier1streams.com/BET_WEST/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "BET Her (720p)",
         "url": "https://gpuserver3.tier1streams.com/BET_HER/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "BET Jams (576p)",
-        "url": "https://gpuserver3.tier1streams.com/BET_JAMS/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "BET Soul (576p)",
-        "url": "https://gpuserver3.tier1streams.com/BET_SOUL/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Big Ten Network (720p)",
-        "url": "https://gpuserver3.tier1streams.com/BIG_TEN_NETWORK/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Bloomberg TV (1080p)",
-        "url": "https://gpuserver3.tier1streams.com/BLOOMBERG/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "Bravo (1080p)",
         "url": "https://gpuserver3.tier1streams.com/BRAVO/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Buzzr (1080p)",
-        "url": "https://gpuserver3.tier1streams.com/BUZZR/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -6346,20 +7336,14 @@
         "category": "Otros"
       },
       {
-        "name": "Charge! (1080p)",
-        "url": "https://gpuserver3.tier1streams.com/CHARGE/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Cheddar News (720p)",
-        "url": "https://gpuserver3.tier1streams.com/CHEDDAR_NEWS/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "Cheddar Business (720p)",
         "url": "https://gpuserver3.tier1streams.com/CHEDDAR_BUSINESS/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Cleo TV (720p)",
+        "url": "https://gpuserver3.tier1streams.com/Cleo_TV/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -6376,20 +7360,20 @@
         "category": "Otros"
       },
       {
+        "name": "CNBC World (576p)",
+        "url": "https://gpuserver3.tier1streams.com/CNBC_WORLD/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Comedy Central (1080p)",
+        "url": "https://gpuserver3.tier1streams.com/COMEDY_CENTRAL/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
         "name": "Comedy TV (720p)",
         "url": "https://gpuserver3.tier1streams.com/COMEDY_TV/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Comet (1080p)",
-        "url": "https://gpuserver3.tier1streams.com/COMET/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Court TV (1080p)",
-        "url": "https://gpuserver3.tier1streams.com/COURT_TV/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -6408,12 +7392,6 @@
       {
         "name": "Daystar TV (1080p)",
         "url": "https://gpuserver3.tier1streams.com/DAYSTAR_TV/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Disney Channel (720p)",
-        "url": "https://gpuserver3.tier1streams.com/Disney_Channel_HD/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -6622,14 +7600,8 @@
         "category": "Otros"
       },
       {
-        "name": "Adult Swim Latin America (1080p)",
-        "url": "https://cablered.iptvperu.tv:1936/cablered/adultswing_new/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "DHE (1080p)",
-        "url": "https://cablered.iptvperu.tv:1936/cablered/dhe_new/playlist.m3u8",
+        "name": "Telemundo (720p)",
+        "url": "http://170.254.17.2:80/TELEMUNDO/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -6712,20 +7684,26 @@
         "category": "Otros"
       },
       {
+        "name": "AXN Latin America (1080p)",
+        "url": "http://15.204.246.24:8080/AXNHD/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
         "name": "MTV Latin America (1080p)",
         "url": "http://15.204.246.24:8080/MTVHD/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "KidOO (1080p)",
-        "url": "http://15.204.246.24:8080/KidooHD/index.m3u8",
+        "name": "Comedy Central Latin America (1080p)",
+        "url": "http://15.204.246.24:8080/ComedyCentralHD/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "Cinecanal (1080p)",
-        "url": "http://15.204.246.24:8080/CinecanalHD/index.m3u8",
+        "name": "KidOO (1080p)",
+        "url": "http://15.204.246.24:8080/KidooHD/index.m3u8",
         "logo": "",
         "category": "Otros"
       },

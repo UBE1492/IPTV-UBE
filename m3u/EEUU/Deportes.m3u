@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AltitudeSports.us@SD",Altitude Sports (720p)
 http://206.212.244.63/6153/index.m3u8
+#EXTINF:-1 tvg-id="beINSportsUSA.us@SD",beIN Sports USA (720p)
+http://23.237.104.106:8080/USA_BEIN/index.m3u8
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD",beIN SPORTS XTRA (1080p)
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NBATV.us@SD",NBA TV (720p)
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-id="NBCSportsChicago.us@SD",NBC Sports Chicago (720p)

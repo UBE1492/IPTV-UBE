@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="BetterLifeNatureChannel.us@SD",Better Life Nature Channel (480p)
+https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
+#EXTINF:-1 tvg-id="BetterLifeTV.us@SD",Better Life TV (720p)
+https://tgn.bozztv.com/betterlife/betterlife/betterlife/index.m3u8
+#EXTINF:-1 tvg-id="CTNCourtFeed.us@SD",CT-N Court Feed (360p) [Not 24/7]
+http://video.ct-n.com/live/ctnSupreme/playlist_DVR.m3u8
 #EXTINF:-1 tvg-id="FETV.us@SD",FETV (720p)
 https://gpuserver3.tier1streams.com/FETV/index.m3u8
 #EXTINF:-1 tvg-id="LifetimeLatinAmerica.us@Brazil",Lifetime Latin America Brazil (720p)
