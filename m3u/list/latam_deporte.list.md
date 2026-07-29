@@ -14,4 +14,4 @@
 | 8 | ESPNews (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/ESPN_NEWS/index.m3u8> |
 | 9 | beIN SPORTS XTRA en Espanol (1080p) | IPv4 直链 | <http://201.190.41.246:9060/play/a03y/index.m3u8> |
 
-Updated at **Wed Jul 29 2026 14:17:47 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jul 29 2026 19:20:46 GMT+0000 (Coordinated Universal Time)**

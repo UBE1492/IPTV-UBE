@@ -68,4 +68,4 @@
 | 62 | RTS (720p) | IPv4 直链 | <http://157.100.248.242:8080/RTSHD/index.m3u8> |
 | 63 | Telecosta (720p) | telecosta.botlife.app | <https://telecosta.botlife.app/memfs/6ba9dc9a-aff4-4e4e-9466-a9f0c714b60b.m3u8> |
 
-Updated at **Wed Jul 29 2026 14:17:48 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jul 29 2026 19:20:46 GMT+0000 (Coordinated Universal Time)**

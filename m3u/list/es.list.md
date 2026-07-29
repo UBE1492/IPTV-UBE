@@ -123,4 +123,4 @@
 | 117 | La 8 Mediterraneo (1080p) | newscript.gestec-video.com | <https://newscript.gestec-video.com/hls/8TVEVENTOS.m3u8> |
 | 118 | Real Madrid TV English | IPv4 直链 | <http://88.212.15.19/live/real_madrid_tv/index.m3u8> |
 
-Updated at **Wed Jul 29 2026 14:17:47 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jul 29 2026 19:20:47 GMT+0000 (Coordinated Universal Time)**
