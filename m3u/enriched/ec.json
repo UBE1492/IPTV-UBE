@@ -1,6 +1,6 @@
 {
   "name": "ec",
-  "updated_at": 1785400292867,
+  "updated_at": 1785420539414,
   "m3u": "https://ube1492.github.io/IPTV-UBE/ec.m3u",
   "channels": [
     {
@@ -367,6 +367,12 @@
       "category": "Otros"
     },
     {
+      "name": "Telecosta",
+      "url": "https://telecosta.botlife.app/memfs/6ba9dc9a-aff4-4e4e-9466-a9f0c714b60b.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
       "name": "Teleamazonas (720p)",
       "url": "http://157.100.248.242:8080/TeleamazonasHD/index.m3u8",
       "logo": "",
@@ -379,8 +385,8 @@
       "category": "Otros"
     },
     {
-      "name": "Telecosta (720p)",
-      "url": "https://telecosta.botlife.app/memfs/6ba9dc9a-aff4-4e4e-9466-a9f0c714b60b.m3u8",
+      "name": "Studio + TV",
+      "url": "https://cloudvideo.servers10.com:8081/8184/index.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -751,6 +757,12 @@
         "category": "Otros"
       },
       {
+        "name": "Telecosta",
+        "url": "https://telecosta.botlife.app/memfs/6ba9dc9a-aff4-4e4e-9466-a9f0c714b60b.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
         "name": "Teleamazonas (720p)",
         "url": "http://157.100.248.242:8080/TeleamazonasHD/index.m3u8",
         "logo": "",
@@ -763,8 +775,8 @@
         "category": "Otros"
       },
       {
-        "name": "Telecosta (720p)",
-        "url": "https://telecosta.botlife.app/memfs/6ba9dc9a-aff4-4e4e-9466-a9f0c714b60b.m3u8",
+        "name": "Studio + TV",
+        "url": "https://cloudvideo.servers10.com:8081/8184/index.m3u8",
         "logo": "",
         "category": "Otros"
       }

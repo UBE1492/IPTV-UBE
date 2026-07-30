@@ -64,8 +64,9 @@
 | 58 | Zaracay TV (1080p) [Not 24/7] | video2.makrodigital.com | <https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8> |
 | 59 | TC Television | IPv4 直链 | <http://177.234.218.66:8084/play/a089/index.m3u8> |
 | 60 | TvOro (1080p) | IPv4 直链 | <http://45.187.0.19:9090/tvusa/index.m3u8> |
-| 61 | Teleamazonas (720p) | IPv4 直链 | <http://157.100.248.242:8080/TeleamazonasHD/index.m3u8> |
-| 62 | RTS (720p) | IPv4 直链 | <http://157.100.248.242:8080/RTSHD/index.m3u8> |
-| 63 | Telecosta (720p) | telecosta.botlife.app | <https://telecosta.botlife.app/memfs/6ba9dc9a-aff4-4e4e-9466-a9f0c714b60b.m3u8> |
+| 61 | Telecosta | telecosta.botlife.app | <https://telecosta.botlife.app/memfs/6ba9dc9a-aff4-4e4e-9466-a9f0c714b60b.m3u8> |
+| 62 | Teleamazonas (720p) | IPv4 直链 | <http://157.100.248.242:8080/TeleamazonasHD/index.m3u8> |
+| 63 | RTS (720p) | IPv4 直链 | <http://157.100.248.242:8080/RTSHD/index.m3u8> |
+| 64 | Studio + TV | cloudvideo.servers10.com:8081 | <https://cloudvideo.servers10.com:8081/8184/index.m3u8> |
 
-Updated at **Thu Jul 30 2026 08:31:32 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jul 30 2026 14:08:59 GMT+0000 (Coordinated Universal Time)**
