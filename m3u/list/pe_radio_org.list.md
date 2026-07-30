@@ -16,4 +16,4 @@
 | 10 | Radio Uno Tacna (720p) | live-evg7.tv360.bitel.com.pe | <https://live-evg7.tv360.bitel.com.pe/bitel/radiounotv/playlist.m3u8> |
 | 11 | Turbo Mix Radio TV (720p) | live-evg11.tv360.bitel.com.pe | <https://live-evg11.tv360.bitel.com.pe/bitel/turbomixSRT/playlist.m3u8> |
 
-Updated at **Thu Jul 30 2026 14:09:05 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jul 30 2026 19:36:52 GMT+0000 (Coordinated Universal Time)**
