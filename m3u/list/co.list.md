@@ -116,5 +116,6 @@
 | 110 | Nuestra Tele Internacional (720p) | IPv4 直链 | <http://170.238.200.199:80/nuestra-tele/index.m3u8> |
 | 111 | RCN Novelas (720p) | IPv4 直链 | <http://170.238.200.199:80/rcn-novelas/index.m3u8> |
 | 112 | Senal Colombia (1080p) | IPv4 直链 | <http://209.14.115.253:8081/SENALCOLOMBIA/index.m3u8> |
+| 113 | TeleQuindio (1080p) | live20.bozztv.com | <https://live20.bozztv.com/akamaissh101/ssh101/telequindio/playlist.m3u8> |
 
-Updated at **Wed Jul 29 2026 19:20:47 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jul 30 2026 02:37:51 GMT+0000 (Coordinated Universal Time)**

@@ -1,6 +1,6 @@
 {
   "name": "pe_regionales",
-  "updated_at": 1785352860912,
+  "updated_at": 1785379091919,
   "m3u": "https://ube1492.github.io/IPTV-UBE/pe_regionales.m3u",
   "channels": [
     {
@@ -28,6 +28,18 @@
       "category": "Without category"
     },
     {
+      "name": "Mundo de la Musica TV | CL",
+      "url": "https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png",
+      "category": "Without category"
+    },
+    {
+      "name": "CR TV | PE",
+      "url": "https://live.obslivestream.com/crtvmux/index.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/1180_CR_TV.png",
+      "category": "Without category"
+    },
+    {
       "name": "Mega TV Jaen | PE",
       "url": "https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8?PlaylistM3UCL",
       "logo": "https://cdn.m3u.cl/logo/1491_Mega_TV_Jaen.png",
@@ -40,15 +52,9 @@
       "category": "Without category"
     },
     {
-      "name": "Mundo de la Musica TV | CL",
-      "url": "https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png",
-      "category": "Without category"
-    },
-    {
-      "name": "CR TV | PE",
-      "url": "https://live.obslivestream.com/crtvmux/index.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/1180_CR_TV.png",
+      "name": "Nativa | PE",
+      "url": "https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/684_Nativa.png",
       "category": "Without category"
     },
     {
@@ -67,18 +73,6 @@
       "name": "Telecolor TV | PE",
       "url": "https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL",
       "logo": "https://cdn.m3u.cl/logo/1189_Telecolor_TV.png",
-      "category": "Without category"
-    },
-    {
-      "name": "Nativa | PE",
-      "url": "https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/684_Nativa.png",
-      "category": "Without category"
-    },
-    {
-      "name": "Cultura 24 TV | PE",
-      "url": "https://www.opencaster.com/resources/hls_stream/cultura24.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/696_Cultura_24_TV.png",
       "category": "Without category"
     },
     {
@@ -139,6 +133,18 @@
         "category": "Without category"
       },
       {
+        "name": "Mundo de la Musica TV | CL",
+        "url": "https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png",
+        "category": "Without category"
+      },
+      {
+        "name": "CR TV | PE",
+        "url": "https://live.obslivestream.com/crtvmux/index.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/1180_CR_TV.png",
+        "category": "Without category"
+      },
+      {
         "name": "Mega TV Jaen | PE",
         "url": "https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8?PlaylistM3UCL",
         "logo": "https://cdn.m3u.cl/logo/1491_Mega_TV_Jaen.png",
@@ -151,15 +157,9 @@
         "category": "Without category"
       },
       {
-        "name": "Mundo de la Musica TV | CL",
-        "url": "https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png",
-        "category": "Without category"
-      },
-      {
-        "name": "CR TV | PE",
-        "url": "https://live.obslivestream.com/crtvmux/index.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/1180_CR_TV.png",
+        "name": "Nativa | PE",
+        "url": "https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/684_Nativa.png",
         "category": "Without category"
       },
       {
@@ -178,18 +178,6 @@
         "name": "Telecolor TV | PE",
         "url": "https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL",
         "logo": "https://cdn.m3u.cl/logo/1189_Telecolor_TV.png",
-        "category": "Without category"
-      },
-      {
-        "name": "Nativa | PE",
-        "url": "https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/684_Nativa.png",
-        "category": "Without category"
-      },
-      {
-        "name": "Cultura 24 TV | PE",
-        "url": "https://www.opencaster.com/resources/hls_stream/cultura24.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/696_Cultura_24_TV.png",
         "category": "Without category"
       },
       {

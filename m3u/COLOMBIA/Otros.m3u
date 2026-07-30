@@ -121,3 +121,5 @@ https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
 http://170.238.200.199:80/nuestra-tele/index.m3u8
 #EXTINF:-1 tvg-id="SenalColombia.co@SD",Senal Colombia (1080p)
 http://209.14.115.253:8081/SENALCOLOMBIA/index.m3u8
+#EXTINF:-1 tvg-id="TeleQuindio.co@SD",TeleQuindio (1080p)
+https://live20.bozztv.com/akamaissh101/ssh101/telequindio/playlist.m3u8

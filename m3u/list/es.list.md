@@ -93,7 +93,7 @@
 | 87 | Ràdio Bocairent TV (1080p) [Not 24/7] | IPv4 直链 | <http://185.81.77.4/BocairentTV/index.m3u8> |
 | 88 | Radio Carnaval TV (720p) [Not 24/7] | eu1.servers10.com:8081 | <https://eu1.servers10.com:8081/8116/index.m3u8> |
 | 89 | Rakuten Viki (1080p) | newidco-rakutenviki-2-eu.xiaomi.wurl.tv | <https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8> |
-| 90 | Real Madrid TV (404p) | rmtv.akamaized.net | <https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8> |
+| 90 | Real Madrid TV (726p) | rmtv.akamaized.net | <https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8> |
 | 91 | Real Madrid TV English [Geo-blocked] | rmtv.akamaized.net | <https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8> |
 | 92 | Ribera TV (576p) | common01.todostreaming.es | <https://common01.todostreaming.es/live/ribera-livestream.m3u8> |
 | 93 | Rioja Televisión (360p) [Not 24/7] | 5924d3ad0efcf.streamlock.net | <https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8> |
@@ -123,4 +123,4 @@
 | 117 | La 8 Mediterraneo (1080p) | newscript.gestec-video.com | <https://newscript.gestec-video.com/hls/8TVEVENTOS.m3u8> |
 | 118 | Real Madrid TV English | IPv4 直链 | <http://88.212.15.19/live/real_madrid_tv/index.m3u8> |
 
-Updated at **Wed Jul 29 2026 19:20:47 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jul 30 2026 02:37:51 GMT+0000 (Coordinated Universal Time)**

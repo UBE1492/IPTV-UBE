@@ -1,6 +1,6 @@
 {
   "name": "co",
-  "updated_at": 1785352847691,
+  "updated_at": 1785379071594,
   "m3u": "https://ube1492.github.io/IPTV-UBE/co.m3u",
   "channels": [
     {
@@ -690,6 +690,12 @@
     {
       "name": "Senal Colombia (1080p)",
       "url": "http://209.14.115.253:8081/SENALCOLOMBIA/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "TeleQuindio (1080p)",
+      "url": "https://live20.bozztv.com/akamaissh101/ssh101/telequindio/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -1383,6 +1389,12 @@
       {
         "name": "Senal Colombia (1080p)",
         "url": "http://209.14.115.253:8081/SENALCOLOMBIA/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "TeleQuindio (1080p)",
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/telequindio/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       }
