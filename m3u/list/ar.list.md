@@ -83,28 +83,23 @@
 | 77 | Chacra TV | 5f700d5b2c46f.streamlock.net | <https://5f700d5b2c46f.streamlock.net/chacratv/chacratv/playlist.m3u8> |
 | 78 | Chamame TV | srv4.zcast.com.br | <https://srv4.zcast.com.br/chamametv/chamametv/playlist.m3u8> |
 | 79 | Chilecito TV (480p) | vivo.solumedia.com:19360 | <https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8> |
-| 80 | Cine.Ar (576p) | IPv4 直链 | <http://200.91.32.158:8080/cinear/index.m3u8> |
-| 81 | Disney Jr. Latin America (1080p) | IPv4 直链 | <http://177.234.249.178:8888/DISNEY-JR/index.m3u8> |
-| 82 | Disney Jr. Latin America (720p) | IPv4 直链 | <http://177.245.131.133:8080/DISNEYJR/index.m3u8> |
-| 83 | Disney Jr. Latin America (576p) | IPv4 直链 | <http://45.189.62.33:8002/play/a0bz/index.m3u8> |
-| 84 | Disney Jr. Latin America North HD (1080p) | IPv4 直链 | <http://181.78.14.26:4000/play/a073/index.m3u8> |
-| 85 | Disney Jr. Latin America South (1080p) | IPv4 直链 | <http://45.185.163.75:8000/play/a016/index.m3u8> |
-| 86 | Disney Jr. Latin America South (576p) | IPv4 直链 | <http://200.91.32.158:8080/disneyjr/index.m3u8> |
-| 87 | Disney Jr. Latin America South | tr.live.clarovtrcdn.vtrplay.com | <http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD> |
-| 88 | Disney Jr. Latin America South HD (1080p) | IPv4 直链 | <http://45.134.141.161:2200/ARG/Disney_Junior/index.m3u8> |
-| 89 | Eco TV | stream.arcast.com.ar | <https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8> |
-| 90 | El Gourmet (1080p) | IPv4 直链 | <http://177.234.249.178:8888/EL-GOURMET/index.m3u8> |
-| 91 | El Gourmet (720p) | IPv4 直链 | <http://177.245.131.133:8080/GOURMET/index.m3u8> |
-| 92 | El Gourmet South (720p) | IPv4 直链 | <http://200.91.32.158:8080/gourmet/index.m3u8> |
-| 93 | El Nueve (1080p) | playcom.trapemn.tv:1935 | <http://playcom.trapemn.tv:1935/transcoderip/canal9.stream/playlist.m3u8> |
-| 94 | El Siete (1080p) | edgectc.com | <https://edgectc.com/CANAL7_MZA/index.m3u8> |
-| 95 | Canal Showsport (720p) | livestream.lumpentv.com.ar | <https://livestream.lumpentv.com.ar/hls/lumpen.m3u8> |
-| 96 | Tele Posadas HD (720p) | lbgo.bozztv.com | <https://lbgo.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8> |
-| 97 | Telefe Interior (720p) | IPv4 直链 | <http://200.91.32.158:8080/telefehdvalle/index.m3u8> |
-| 98 | Fox Sports (720p) [Not 24/7] | futbol9865.ultratv13.workers.dev | <https://futbol9865.ultratv13.workers.dev/deportivo111/78.m3u8> |
-| 99 | TN (1080p) | IPv4 直链 | <http://15.204.246.24:8080/TNHD/index.m3u8> |
-| 100 | Disney Channel Latin America (1080p) | IPv4 直链 | <http://15.204.246.24:8080/DisneyHD/index.m3u8> |
-| 101 | Film & Arts (1080p) | IPv4 直链 | <http://15.204.246.24:8080/FilmArtsHD/index.m3u8> |
-| 102 | TV Publica Fueguina (1080p) | nd106.republicaservers.com | <https://nd106.republicaservers.com/hls/c8094/index.m3u8> |
+| 80 | Disney Jr. Latin America (1080p) | IPv4 直链 | <http://177.234.249.178:8888/DISNEY-JR/index.m3u8> |
+| 81 | Disney Jr. Latin America (576p) | IPv4 直链 | <http://45.189.62.33:8002/play/a0bz/index.m3u8> |
+| 82 | Disney Jr. Latin America North HD (1080p) | IPv4 直链 | <http://181.78.14.26:4000/play/a073/index.m3u8> |
+| 83 | Disney Jr. Latin America South (1080p) | IPv4 直链 | <http://45.185.163.75:8000/play/a016/index.m3u8> |
+| 84 | Disney Jr. Latin America South | tr.live.clarovtrcdn.vtrplay.com | <http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD> |
+| 85 | Disney Jr. Latin America South HD (1080p) | IPv4 直链 | <http://45.134.141.161:2200/ARG/Disney_Junior/index.m3u8> |
+| 86 | Eco TV | stream.arcast.com.ar | <https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8> |
+| 87 | El Gourmet (1080p) | IPv4 直链 | <http://177.234.249.178:8888/EL-GOURMET/index.m3u8> |
+| 88 | El Nueve (1080p) | playcom.trapemn.tv:1935 | <http://playcom.trapemn.tv:1935/transcoderip/canal9.stream/playlist.m3u8> |
+| 89 | El Siete (1080p) | edgectc.com | <https://edgectc.com/CANAL7_MZA/index.m3u8> |
+| 90 | Canal Showsport (720p) | livestream.lumpentv.com.ar | <https://livestream.lumpentv.com.ar/hls/lumpen.m3u8> |
+| 91 | Tele Posadas HD (720p) | lbgo.bozztv.com | <https://lbgo.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8> |
+| 92 | Telefe Interior (720p) | IPv4 直链 | <http://200.91.32.158:8080/telefehdvalle/index.m3u8> |
+| 93 | Fox Sports (720p) [Not 24/7] | futbol9865.ultratv13.workers.dev | <https://futbol9865.ultratv13.workers.dev/deportivo111/78.m3u8> |
+| 94 | TN (1080p) | IPv4 直链 | <http://15.204.246.24:8080/TNHD/index.m3u8> |
+| 95 | Disney Channel Latin America (1080p) | IPv4 直链 | <http://15.204.246.24:8080/DisneyHD/index.m3u8> |
+| 96 | Film & Arts (1080p) | IPv4 直链 | <http://15.204.246.24:8080/FilmArtsHD/index.m3u8> |
+| 97 | TV Publica Fueguina (1080p) | nd106.republicaservers.com | <https://nd106.republicaservers.com/hls/c8094/index.m3u8> |
 
-Updated at **Thu Jul 30 2026 19:36:47 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jul 31 2026 03:19:22 GMT+0000 (Coordinated Universal Time)**

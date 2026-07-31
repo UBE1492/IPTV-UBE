@@ -23,8 +23,6 @@ https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8
 https://stream.oursnetworktv.com/latin/encoder13/playlist.m3u8
 #EXTINF:-1 tvg-id="Azteca7.mx@SD",Azteca 7 (1080p)
 http://45.189.62.33:8002/play/a0fm/index.m3u8
-#EXTINF:-1 tvg-id="Azteca7.mx@SD",Azteca 7 (720p)
-http://177.245.131.133:8080/AZTECA7/index.m3u8
 #EXTINF:-1 tvg-id="AztecaInternacional.mx@SD",Azteca Internacional (1080p)
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-id="AztecaUno.mx@SD",Azteca Uno (1080p)

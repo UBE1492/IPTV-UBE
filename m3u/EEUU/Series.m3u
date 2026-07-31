@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AMCSeriesLatinAmerica.us@SD",AMC Series Latin America (1080p)
-http://177.245.131.133:8080/AMCSERIES/index.m3u8
 #EXTINF:-1 tvg-id="TNTNovelas.us@SD",TNT Novelas (1080p)
 http://138.186.23.7:8082/TNTNOVELAS/index.m3u8
 #EXTINF:-1 tvg-id="TNTNovelas.us@Brazil",TNT Novelas Brazil (720p)

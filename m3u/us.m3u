@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/StrangeDrVN/epg/public/guide.xml.gz"
 #EXTINF:-1 tvg-id="6WiseTv.us@SD",6 Wise Tv (720p)
 https://live.enhdtv.com:8081/8150/index.m3u8
 #EXTINF:-1 tvg-id="48Hours.us@US",48 Hours (1080p)
@@ -121,8 +121,6 @@ http://23.239.31.26:8989/amc/index.m3u8
 http://190.11.225.124:5000/live/amc_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us@Panregional",AMC Latin America (1080p)
 http://45.162.193.35/AMC/index.m3u8
-#EXTINF:-1 tvg-id="AMCSeriesLatinAmerica.us@SD",AMC Series Latin America (1080p)
-http://177.245.131.133:8080/AMCSERIES/index.m3u8
 #EXTINF:-1 tvg-id="AmericanHorrors.us@SD",American Horrors (480p)
 http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
 #EXTINF:-1 tvg-id="AMGTV.us@SD",AMG TV (1080p)
@@ -380,7 +378,7 @@ https://reflect-detroit-vod.cablecast.tv/live-3/live/stream-3/live.m3u8
 #EXTINF:-1 tvg-id="DetroitChannel68.us@SD",Detroit Channel 68
 https://reflect-detroit-vod.cablecast.tv/live-10/live/stream-5/live.m3u8
 #EXTINF:-1 tvg-id="DHE.us@SD",DHE (1080p)
-http://177.245.131.133:8080/DHE/index.m3u8
+http://190.11.225.124:5000/live/dhe_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="DHE.us@SD",DHE (720p)
 http://177.234.249.178:8888/PARAMOUNT/index.m3u8
 #EXTINF:-1 tvg-id="DidgahTV.us@SD",Didgah TV (576p)
@@ -925,8 +923,6 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/universalcinema/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="UniversalTVLatinAmerica.us@Panregional",Universal TV Latin America (1080p)
 http://138.121.15.230:9002/UNIVERSAL-CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="UniversalTVLatinAmerica.us@Mexico",Universal TV Latin America Mexico (1080p)
-http://177.245.131.133:8080/UNIVERSAL/index.m3u8
 #EXTINF:-1 tvg-id="Univision.us@East",Univision (1080p)
 http://200.115.120.1:8000/play/ca106/index.m3u8
 #EXTINF:-1 tvg-id="UnivisionTlnovelas.us@SD",Univision Tlnovelas (1080p)
@@ -941,8 +937,6 @@ http://40.160.24.55/USA_NETWORK/index.m3u8
 http://206.212.244.63/168/index.m3u8
 #EXTINF:-1 tvg-id="USANetworkLatinAmerica.us@Panregional",USA Network Latin America (1080p)
 http://138.121.15.230:9002/USA/index.m3u8
-#EXTINF:-1 tvg-id="USANetworkLatinAmerica.us@Panregional",USA Network Latin America (720p)
-http://200.91.32.158:8080/usanetwork/index.m3u8
 #EXTINF:-1 tvg-id="USANetworkLatinAmerica.us@Brazil",USA Network Latin America Brazil (720p)
 http://177.52.24.163/USA-HD/index.m3u8
 #EXTINF:-1 tvg-id="USANetwork.us@West",USA Network West (1080p)

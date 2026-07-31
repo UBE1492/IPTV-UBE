@@ -155,4 +155,4 @@
 | 149 | Via X (576p) | IPv4 直链 | <http://45.170.130.224:8000/play/a025/index.m3u8> |
 | 150 | Vida Nueva TV | mc.servidor.stream:19360 | <https://mc.servidor.stream:19360/8240/8240.m3u8> |
 
-Updated at **Thu Jul 30 2026 19:36:47 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jul 31 2026 03:19:22 GMT+0000 (Coordinated Universal Time)**

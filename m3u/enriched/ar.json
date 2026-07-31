@@ -1,6 +1,6 @@
 {
   "name": "ar",
-  "updated_at": 1785440207556,
+  "updated_at": 1785467962424,
   "m3u": "https://ube1492.github.io/IPTV-UBE/ar.m3u",
   "channels": [
     {
@@ -481,12 +481,6 @@
       "category": "Otros"
     },
     {
-      "name": "Cine.Ar (576p)",
-      "url": "http://200.91.32.158:8080/cinear/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Ciudad Magazine (1080p)",
       "url": "#EXTINF:-1 tvg-id=\"DisneyJrLatinAmerica.ar@North\",Disney Jr. Latin America (1080p)",
       "logo": "",
@@ -494,12 +488,6 @@
       "options": {
         "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
       }
-    },
-    {
-      "name": "Disney Jr. Latin America (720p)",
-      "url": "http://177.245.131.133:8080/DISNEYJR/index.m3u8",
-      "logo": "",
-      "category": "Otros"
     },
     {
       "name": "Disney Jr. Latin America (576p)",
@@ -516,12 +504,6 @@
     {
       "name": "Disney Jr. Latin America South (1080p)",
       "url": "http://45.185.163.75:8000/play/a016/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Disney Jr. Latin America South (576p)",
-      "url": "http://200.91.32.158:8080/disneyjr/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -546,18 +528,6 @@
     {
       "name": "El Gourmet (1080p)",
       "url": "http://177.234.249.178:8888/EL-GOURMET/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "El Gourmet (720p)",
-      "url": "http://177.245.131.133:8080/GOURMET/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "El Gourmet South (720p)",
-      "url": "http://200.91.32.158:8080/gourmet/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -1114,12 +1084,6 @@
         "category": "Otros"
       },
       {
-        "name": "Cine.Ar (576p)",
-        "url": "http://200.91.32.158:8080/cinear/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "Ciudad Magazine (1080p)",
         "url": "#EXTINF:-1 tvg-id=\"DisneyJrLatinAmerica.ar@North\",Disney Jr. Latin America (1080p)",
         "logo": "",
@@ -1127,12 +1091,6 @@
         "options": {
           "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
         }
-      },
-      {
-        "name": "Disney Jr. Latin America (720p)",
-        "url": "http://177.245.131.133:8080/DISNEYJR/index.m3u8",
-        "logo": "",
-        "category": "Otros"
       },
       {
         "name": "Disney Jr. Latin America (576p)",
@@ -1149,12 +1107,6 @@
       {
         "name": "Disney Jr. Latin America South (1080p)",
         "url": "http://45.185.163.75:8000/play/a016/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Disney Jr. Latin America South (576p)",
-        "url": "http://200.91.32.158:8080/disneyjr/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -1179,18 +1131,6 @@
       {
         "name": "El Gourmet (1080p)",
         "url": "http://177.234.249.178:8888/EL-GOURMET/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "El Gourmet (720p)",
-        "url": "http://177.245.131.133:8080/GOURMET/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "El Gourmet South (720p)",
-        "url": "http://200.91.32.158:8080/gourmet/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
