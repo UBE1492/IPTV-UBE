@@ -15,4 +15,4 @@
 | 9 | Fox Sports 2 (1080p) | messi.damitv.st | <https://messi.damitv.st/papi/ts/fox-sports-2/playlist.m3u8> |
 | 10 | Fox Sports 1 (1080p) | messi.damitv.st | <https://messi.damitv.st/papi/ts/fox-sports-1/playlist.m3u8> |
 
-Updated at **Fri Jul 31 2026 14:14:27 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jul 31 2026 19:38:31 GMT+0000 (Coordinated Universal Time)**
