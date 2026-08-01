@@ -105,4 +105,4 @@
 | 99 | BVC | vivo.solumedia.com:19360 | <https://vivo.solumedia.com:19360/bvnet/bvnet.m3u8> |
 | 100 | Canal 4 Esquel | stream.arcast.com.ar | <https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8> |
 
-Updated at **Sat Aug 01 2026 08:24:59 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Aug 01 2026 13:27:47 GMT+0000 (Coordinated Universal Time)**
