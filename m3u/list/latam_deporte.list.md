@@ -16,4 +16,4 @@
 | 10 | Fox Sports 1 (1080p) | messi.damitv.st | <https://messi.damitv.st/papi/ts/fox-sports-1/playlist.m3u8> |
 | 11 | beIN Sports USA (1080p) | messi.damitv.st | <https://messi.damitv.st/papi/ts/beinsports-usa/playlist.m3u8> |
 
-Updated at **Sat Aug 01 2026 13:27:46 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Aug 01 2026 19:12:48 GMT+0000 (Coordinated Universal Time)**
