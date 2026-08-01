@@ -101,3 +101,6 @@ TN_(1080p),http://15.204.246.24:8080/TNHD/index.m3u8
 Disney_Channel_Latin_America_(1080p),http://15.204.246.24:8080/DisneyHD/index.m3u8
 Film_&_Arts_(1080p),http://15.204.246.24:8080/FilmArtsHD/index.m3u8
 TV_Publica_Fueguina_(1080p),https://nd106.republicaservers.com/hls/c8094/index.m3u8
+Cosmos_Tv,https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+BVC,https://vivo.solumedia.com:19360/bvnet/bvnet.m3u8
+Canal_4_Esquel,https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8

@@ -14,5 +14,6 @@
 | 8 | beIN SPORTS XTRA en Espanol (1080p) | IPv4 直链 | <http://201.190.41.246:9060/play/a03y/index.m3u8> |
 | 9 | Fox Sports 2 (1080p) | messi.damitv.st | <https://messi.damitv.st/papi/ts/fox-sports-2/playlist.m3u8> |
 | 10 | Fox Sports 1 (1080p) | messi.damitv.st | <https://messi.damitv.st/papi/ts/fox-sports-1/playlist.m3u8> |
+| 11 | beIN Sports USA (1080p) | messi.damitv.st | <https://messi.damitv.st/papi/ts/beinsports-usa/playlist.m3u8> |
 
-Updated at **Fri Jul 31 2026 19:38:31 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Aug 01 2026 03:17:35 GMT+0000 (Coordinated Universal Time)**

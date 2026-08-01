@@ -101,5 +101,8 @@
 | 95 | Disney Channel Latin America (1080p) | IPv4 直链 | <http://15.204.246.24:8080/DisneyHD/index.m3u8> |
 | 96 | Film & Arts (1080p) | IPv4 直链 | <http://15.204.246.24:8080/FilmArtsHD/index.m3u8> |
 | 97 | TV Publica Fueguina (1080p) | nd106.republicaservers.com | <https://nd106.republicaservers.com/hls/c8094/index.m3u8> |
+| 98 | Cosmos Tv | tv.mediacp.eu:19360 | <https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8> |
+| 99 | BVC | vivo.solumedia.com:19360 | <https://vivo.solumedia.com:19360/bvnet/bvnet.m3u8> |
+| 100 | Canal 4 Esquel | stream.arcast.com.ar | <https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8> |
 
-Updated at **Fri Jul 31 2026 19:38:32 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Aug 01 2026 03:17:37 GMT+0000 (Coordinated Universal Time)**

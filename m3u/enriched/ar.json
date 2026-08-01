@@ -1,6 +1,6 @@
 {
   "name": "ar",
-  "updated_at": 1785526712531,
+  "updated_at": 1785554257485,
   "m3u": "https://ube1492.github.io/IPTV-UBE/ar.m3u",
   "channels": [
     {
@@ -600,6 +600,24 @@
     {
       "name": "TV Publica Fueguina (1080p)",
       "url": "https://nd106.republicaservers.com/hls/c8094/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Cosmos Tv",
+      "url": "https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "BVC",
+      "url": "https://vivo.solumedia.com:19360/bvnet/bvnet.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Canal 4 Esquel",
+      "url": "https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -1203,6 +1221,24 @@
       {
         "name": "TV Publica Fueguina (1080p)",
         "url": "https://nd106.republicaservers.com/hls/c8094/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Cosmos Tv",
+        "url": "https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "BVC",
+        "url": "https://vivo.solumedia.com:19360/bvnet/bvnet.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Canal 4 Esquel",
+        "url": "https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       }

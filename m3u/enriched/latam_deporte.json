@@ -1,6 +1,6 @@
 {
   "name": "latam_deporte",
-  "updated_at": 1785526711435,
+  "updated_at": 1785554255117,
   "m3u": "https://ube1492.github.io/IPTV-UBE/latam_deporte.m3u",
   "channels": [
     {
@@ -60,6 +60,12 @@
     {
       "name": "Fox Sports 1 (1080p)",
       "url": "https://messi.damitv.st/papi/ts/fox-sports-1/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "beIN Sports USA (1080p)",
+      "url": "https://messi.damitv.st/papi/ts/beinsports-usa/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -123,6 +129,12 @@
       {
         "name": "Fox Sports 1 (1080p)",
         "url": "https://messi.damitv.st/papi/ts/fox-sports-1/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "beIN Sports USA (1080p)",
+        "url": "https://messi.damitv.st/papi/ts/beinsports-usa/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       }
