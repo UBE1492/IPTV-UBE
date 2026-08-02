@@ -642,4 +642,4 @@
 | 636 | FX Movie Channel (720p) | IPv4 直链 | <http://40.160.24.52/FXM/index.m3u8> |
 | 637 | Logo (720p) | IPv4 直链 | <http://40.160.24.53/LOGO_TV/index.m3u8> |
 
-Updated at **Sat Aug 01 2026 19:12:49 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Aug 02 2026 03:17:58 GMT+0000 (Coordinated Universal Time)**
