@@ -104,3 +104,4 @@ TV_Publica_Fueguina_(1080p),https://nd106.republicaservers.com/hls/c8094/index.m
 Cosmos_Tv,https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 BVC,https://vivo.solumedia.com:19360/bvnet/bvnet.m3u8
 Canal_4_Esquel,https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
+La_100_(1080p),https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8

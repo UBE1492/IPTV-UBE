@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1785698102589,
+  "updated_at": 1785727181582,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -2077,12 +2077,6 @@
       "category": "Otros"
     },
     {
-      "name": "Showtime (1080p)",
-      "url": "http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Showtime Family Zone (720p)",
       "url": "http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8",
       "logo": "",
@@ -3851,7 +3845,7 @@
     },
     {
       "name": "Golf Channel",
-      "url": "",
+      "url": "#EXTINF:-1 tvg-id=\"Showtime.us@East\",Showtime (720p)",
       "logo": "",
       "category": "Otros",
       "options": {
@@ -5935,12 +5929,6 @@
         "category": "Otros"
       },
       {
-        "name": "Showtime (1080p)",
-        "url": "http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "Showtime Family Zone (720p)",
         "url": "http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8",
         "logo": "",
@@ -7709,7 +7697,7 @@
       },
       {
         "name": "Golf Channel",
-        "url": "",
+        "url": "#EXTINF:-1 tvg-id=\"Showtime.us@East\",Showtime (720p)",
         "logo": "",
         "category": "Otros",
         "options": {
