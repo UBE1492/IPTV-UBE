@@ -642,4 +642,4 @@
 | 636 | Logo (720p) | IPv4 直链 | <http://40.160.24.53/LOGO_TV/index.m3u8> |
 | 637 | Showtime (720p) | IPv4 直链 | <http://40.160.24.55/SHOWTIME/index.m3u8> |
 
-Updated at **Mon Aug 03 2026 14:46:09 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Aug 03 2026 19:41:20 GMT+0000 (Coordinated Universal Time)**
