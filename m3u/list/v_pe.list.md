@@ -6,4 +6,4 @@
 | --- | ------------ | ---- | ------ |
 | 1 | BHTVSD | cdn2.ujjina.com:1935 | <http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8> |
 
-Updated at **Tue Aug 04 2026 02:49:06 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Aug 04 2026 08:42:20 GMT+0000 (Coordinated Universal Time)**

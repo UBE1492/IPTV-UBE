@@ -118,4 +118,4 @@
 | 112 | Senal Colombia (1080p) | IPv4 直链 | <http://209.14.115.253:8081/SENALCOLOMBIA/index.m3u8> |
 | 113 | TeleQuindio (1080p) | live20.bozztv.com | <https://live20.bozztv.com/akamaissh101/ssh101/telequindio/playlist.m3u8> |
 
-Updated at **Tue Aug 04 2026 02:48:47 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Aug 04 2026 08:42:01 GMT+0000 (Coordinated Universal Time)**
