@@ -200,3 +200,11 @@ https://live-evg10.tv360.bitel.com.pe/bitel/nasca/playlist.m3u8
 https://live-evg5.tv360.bitel.com.pe/bitel/yurivisionSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="WEST.pe@SD",WEST (1080p)
 https://cablered.iptvperu.tv:1936/cablered/west/playlist.m3u8
+#EXTINF:-1 tvg-id="Trivu.pe@SD",Trivu (1080p)
+http://190.93.224.42/TRIVU-TV/index.m3u8
+#EXTINF:-1 tvg-id="Karibena.pe@SD",Karibena (1080p)
+http://190.93.224.42/KARIBENA/index.m3u8
+#EXTINF:-1 tvg-id="PBO.pe@SD",PBO (1080p)
+http://190.93.224.42/PBO/index.m3u8
+#EXTINF:-1 tvg-id="L1Max.pe@SD",L1 Max (1080p)
+http://190.93.224.42/LIGA-1-MAX/index.m3u8

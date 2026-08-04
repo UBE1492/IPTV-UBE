@@ -644,3 +644,24 @@ FX_Movie_Channel_(720p),http://40.160.24.52/FXM/index.m3u8
 Logo_(720p),http://40.160.24.53/LOGO_TV/index.m3u8
 Golf_Channel,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 Showtime_(720p),http://40.160.24.55/SHOWTIME/index.m3u8
+MS_NOW_(576p),https://tvsen6.aynaott.com/msnbc/index.m3u8
+Willow_(720p),https://tvsen5.aynaott.com/willowhd/index.m3u8
+Disney_Channel_(576p),https://tvsen5.aynaott.com/disney/index.m3u8
+Disney_XD_(576p),https://tvsen5.aynaott.com/disneyxd/index.m3u8
+Giggle_Mug_(576p),https://tvsen6.aynaott.com/ytv/index.m3u8
+Fox_News_Channel_(576p),https://tvsen6.aynaott.com/foxnews/index.m3u8
+Sportsman_Channel_(576p),https://tvsen6.aynaott.com/SportsmanChannel/index.m3u8
+WPIX-HD_(576p),https://tvsen6.aynaott.com/pix11/index.m3u8
+Golf_Channel_Latin_America_(1080p),http://15.204.246.24:8080/GolfChannelHD/index.m3u8
+ActionMax_East_HD_(720p),https://gpuserver3.tier1streams.com/ACTIONMAX/index.m3u8
+Fox_(1080p)_[Geo-blocked],https://messi.damitv.st/papi/ts/fox-usa/playlist.m3u8
+MoreMax_(1080p),http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+Racer_Network_(1080p)_[Geo-blocked],https://messi.damitv.st/papi/ts/racernetwork-usa/playlist.m3u8
+Starz_Cinema_(1080p)_[Geo-blocked],https://messi.damitv.st/papi/ts/starzcinema-usa/playlist.m3u8
+Starz_Comedy_(1080p)_[Geo-blocked],https://messi.damitv.st/papi/ts/starzcomedy-usa/playlist.m3u8
+Starz_(1080p)_[Geo-blocked],https://messi.damitv.st/papi/ts/starz-usa/playlist.m3u8
+Showtime_2_(1080p)_[Geo-blocked],https://messi.damitv.st/papi/ts/showtime2-usa/playlist.m3u8
+Showtime_Extreme_(1080p)_[Geo-blocked],https://messi.damitv.st/papi/ts/showtimeextreme-usa/playlist.m3u8
+Showtime_Family_Zone_(1080p)_[Geo-blocked],https://messi.damitv.st/papi/ts/showtimefamilyzone-usa/playlist.m3u8
+Showtime_Next_(1080p)_[Geo-blocked],https://messi.damitv.st/papi/ts/showtimenext-usa/playlist.m3u8
+ActionMax_(720p),http://40.160.24.52/ACTIONMAX/index.m3u8

@@ -641,5 +641,26 @@
 | 635 | FX Movie Channel (720p) | IPv4 直链 | <http://40.160.24.52/FXM/index.m3u8> |
 | 636 | Logo (720p) | IPv4 直链 | <http://40.160.24.53/LOGO_TV/index.m3u8> |
 | 637 | Showtime (720p) | IPv4 直链 | <http://40.160.24.55/SHOWTIME/index.m3u8> |
+| 638 | MS NOW (576p) | tvsen6.aynaott.com | <https://tvsen6.aynaott.com/msnbc/index.m3u8> |
+| 639 | Willow (720p) | tvsen5.aynaott.com | <https://tvsen5.aynaott.com/willowhd/index.m3u8> |
+| 640 | Disney Channel (576p) | tvsen5.aynaott.com | <https://tvsen5.aynaott.com/disney/index.m3u8> |
+| 641 | Disney XD (576p) | tvsen5.aynaott.com | <https://tvsen5.aynaott.com/disneyxd/index.m3u8> |
+| 642 | Giggle Mug (576p) | tvsen6.aynaott.com | <https://tvsen6.aynaott.com/ytv/index.m3u8> |
+| 643 | Fox News Channel (576p) | tvsen6.aynaott.com | <https://tvsen6.aynaott.com/foxnews/index.m3u8> |
+| 644 | Sportsman Channel (576p) | tvsen6.aynaott.com | <https://tvsen6.aynaott.com/SportsmanChannel/index.m3u8> |
+| 645 | WPIX-HD (576p) | tvsen6.aynaott.com | <https://tvsen6.aynaott.com/pix11/index.m3u8> |
+| 646 | Golf Channel Latin America (1080p) | IPv4 直链 | <http://15.204.246.24:8080/GolfChannelHD/index.m3u8> |
+| 647 | ActionMax East HD (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/ACTIONMAX/index.m3u8> |
+| 648 | Fox (1080p) [Geo-blocked] | messi.damitv.st | <https://messi.damitv.st/papi/ts/fox-usa/playlist.m3u8> |
+| 649 | MoreMax (1080p) | IPv4 直链 | <http://23.237.104.106:8080/USA_MOREMAX/index.m3u8> |
+| 650 | Racer Network (1080p) [Geo-blocked] | messi.damitv.st | <https://messi.damitv.st/papi/ts/racernetwork-usa/playlist.m3u8> |
+| 651 | Starz Cinema (1080p) [Geo-blocked] | messi.damitv.st | <https://messi.damitv.st/papi/ts/starzcinema-usa/playlist.m3u8> |
+| 652 | Starz Comedy (1080p) [Geo-blocked] | messi.damitv.st | <https://messi.damitv.st/papi/ts/starzcomedy-usa/playlist.m3u8> |
+| 653 | Starz (1080p) [Geo-blocked] | messi.damitv.st | <https://messi.damitv.st/papi/ts/starz-usa/playlist.m3u8> |
+| 654 | Showtime 2 (1080p) [Geo-blocked] | messi.damitv.st | <https://messi.damitv.st/papi/ts/showtime2-usa/playlist.m3u8> |
+| 655 | Showtime Extreme (1080p) [Geo-blocked] | messi.damitv.st | <https://messi.damitv.st/papi/ts/showtimeextreme-usa/playlist.m3u8> |
+| 656 | Showtime Family Zone (1080p) [Geo-blocked] | messi.damitv.st | <https://messi.damitv.st/papi/ts/showtimefamilyzone-usa/playlist.m3u8> |
+| 657 | Showtime Next (1080p) [Geo-blocked] | messi.damitv.st | <https://messi.damitv.st/papi/ts/showtimenext-usa/playlist.m3u8> |
+| 658 | ActionMax (720p) | IPv4 直链 | <http://40.160.24.52/ACTIONMAX/index.m3u8> |
 
-Updated at **Mon Aug 03 2026 19:41:20 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Aug 04 2026 02:48:47 GMT+0000 (Coordinated Universal Time)**

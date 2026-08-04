@@ -573,3 +573,19 @@ http://15.204.246.24:8080/ComedyCentralHD/index.m3u8
 http://15.204.246.24:8080/NatGeoHD/index.m3u8
 #EXTINF:-1 tvg-id="Logo.us@East",Logo (720p)
 http://40.160.24.53/LOGO_TV/index.m3u8
+#EXTINF:-1 tvg-id="MSNOW.us@SD",MS NOW (576p)
+https://tvsen6.aynaott.com/msnbc/index.m3u8
+#EXTINF:-1 tvg-id="Willow.us@SD",Willow (720p)
+https://tvsen5.aynaott.com/willowhd/index.m3u8
+#EXTINF:-1 tvg-id="GiggleMug.us@SD",Giggle Mug (576p)
+https://tvsen6.aynaott.com/ytv/index.m3u8
+#EXTINF:-1 tvg-id="WPIXHD.us@SD",WPIX-HD (576p)
+https://tvsen6.aynaott.com/pix11/index.m3u8
+#EXTINF:-1 tvg-id="ActionMax.us@EastHD",ActionMax East HD (720p)
+https://gpuserver3.tier1streams.com/ACTIONMAX/index.m3u8
+#EXTINF:-1 tvg-id="MoreMax.us@East",MoreMax (1080p)
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+#EXTINF:-1 tvg-id="RacerNetwork.us@SD",Racer Network (1080p) [Geo-blocked]
+https://messi.damitv.st/papi/ts/racernetwork-usa/playlist.m3u8
+#EXTINF:-1 tvg-id="ActionMax.us@East",ActionMax (720p)
+http://40.160.24.52/ACTIONMAX/index.m3u8
