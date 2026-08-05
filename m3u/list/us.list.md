@@ -609,4 +609,4 @@
 | 603 | FX Movie Channel (720p) | IPv4 直链 | <http://40.160.24.52/FXM/index.m3u8> |
 | 604 | Logo (720p) | IPv4 直链 | <http://40.160.24.53/LOGO_TV/index.m3u8> |
 
-Updated at **Wed Aug 05 2026 02:45:58 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Aug 05 2026 08:40:22 GMT+0000 (Coordinated Universal Time)**
