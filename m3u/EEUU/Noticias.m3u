@@ -1,20 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ABCNewsLive.us@SD",ABC News Live (720p)
-http://206.212.244.63/2/index.m3u8
 #EXTINF:-1 tvg-id="CBNNews.us@SD",CBN News Channel (1080p)
 https://fastly.live.brightcove.com/6380396819112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk2ODE5MTEyIn0.GDYp4IWtzwPkupEWeeOavnioVknO-Ev3UGlHvM1rE6I/playlist-hls.m3u8
 #EXTINF:-1 tvg-id="CBSNews247.us@SD",CBS News 24/7 (720p)
 http://40.160.24.56/CBS_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="CheddarNews.us@SD",Cheddar News (720p)
-http://206.212.244.63/35/index.m3u8
 #EXTINF:-1 tvg-id="WMAQTV51.us@HD",NBC 5 Chicago Live News (1080p)
 https://d368vp0qqzvkid.cloudfront.net/11603/88889704/hls/master.m3u8?ads.xumo_channelId=88889704a&ads.xumo_ifaType=&ads.xumo_providerId=3818&ads.xumo_providerName=NBCNCHI
 #EXTINF:-1 tvg-id="NBCNewsNOW.us@SD",NBC News NOW (1080p)
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003
 #EXTINF:-1 tvg-id="NBCNewsNOW.us@SD",NBC News NOW (720p)
 http://40.160.24.53/NBC_NEWS_NOW/index.m3u8
-#EXTINF:-1 tvg-id="NBCNewsNOW.us@HD",NBC News NOW HD (720p)
-http://206.212.244.63/127/index.m3u8
 #EXTINF:-1 tvg-id="News12PlusConnecticut.us@HD",News12+ Connecticut (1080p) [Geo-blocked]
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8
 #EXTINF:-1 tvg-id="News12PlusHudsonValley.us@HD",News12+ Hudson Valley (1080p) [Geo-blocked]
@@ -61,11 +55,11 @@ https://amg00732-salemmediagroup-snc-ono-ekp8j.amagi.tv/playlist/amg00732-salemm
 http://40.160.24.53/SCRIPPS_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="W14DKD142.us@SD",W14DK-D 14.2 NEWSNET
 https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8
+#EXTINF:-1 tvg-id="CheddarNews.us@SD",Cheddar News (720p)
+https://gpuserver3.tier1streams.com/CHEDDAR_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="ESPNews.us@SD",ESPNews (720p)
 https://gpuserver3.tier1streams.com/ESPN_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="FoxNewsInternational.us@SD",Fox News International (720p)
 https://gpuserver3.tier1streams.com/FOX/index.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
 https://gpuserver3.tier1streams.com/FOX_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (576p)
-https://tvsen6.aynaott.com/foxnews/index.m3u8

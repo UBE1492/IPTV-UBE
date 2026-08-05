@@ -12,4 +12,4 @@
 | 6 | LIGA 1 MAX (Op 4) | IPv4 直链 | <http://38.210.3.64:8090/play/a0nn/index.m3u8> |
 | 7 | L1 Max (1080p) | IPv4 直链 | <http://190.93.224.42/LIGA-1-MAX/index.m3u8> |
 
-Updated at **Tue Aug 04 2026 19:41:00 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Aug 05 2026 02:46:07 GMT+0000 (Coordinated Universal Time)**

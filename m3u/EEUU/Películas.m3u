@@ -61,9 +61,3 @@ http://40.160.24.55/STARZ_ENCORE/index.m3u8
 http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
 #EXTINF:-1 tvg-id="FXMovieChannel.us@SD",FX Movie Channel (720p)
 http://40.160.24.52/FXM/index.m3u8
-#EXTINF:-1 tvg-id="StarzCinema.us@East",Starz Cinema (1080p) [Geo-blocked]
-https://messi.damitv.st/papi/ts/starzcinema-usa/playlist.m3u8
-#EXTINF:-1 tvg-id="StarzComedy.us@East",Starz Comedy (1080p) [Geo-blocked]
-https://messi.damitv.st/papi/ts/starzcomedy-usa/playlist.m3u8
-#EXTINF:-1 tvg-id="Starz.us@East",Starz (1080p) [Geo-blocked]
-https://messi.damitv.st/papi/ts/starz-usa/playlist.m3u8

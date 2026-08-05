@@ -1,14 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AltitudeSports.us@SD",Altitude Sports (720p)
-http://206.212.244.63/6153/index.m3u8
 #EXTINF:-1 tvg-id="beINSportsUSA.us@SD",beIN Sports USA (720p)
 http://23.237.104.106:8080/USA_BEIN/index.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD",beIN SPORTS XTRA (1080p)
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NBATV.us@SD",NBA TV (720p)
 http://23.237.104.106:8080/USA_NBA/index.m3u8
-#EXTINF:-1 tvg-id="NBCSportsChicago.us@SD",NBC Sports Chicago (720p)
-http://206.212.244.63/6141/index.m3u8
 #EXTINF:-1 tvg-id="NBCSportsNOW.us@SD",NBC Sports NOW (1080p)
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
 #EXTINF:-1 tvg-id="NFLNetwork.us@SD",NFL Network (720p)
@@ -45,9 +41,3 @@ https://gpuserver3.tier1streams.com/MARQUEE_SPORTS_NETWORK/index.m3u8
 https://cdn1.ayitistream.com/NBATV/index.m3u8
 #EXTINF:-1 tvg-id="GolfChannel.us@SD",Golf Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="SportsmanChannel.us@SD",Sportsman Channel (576p)
-https://tvsen6.aynaott.com/SportsmanChannel/index.m3u8
-#EXTINF:-1 tvg-id="GolfChannelLatinAmerica.us@SD",Golf Channel Latin America (1080p)
-http://15.204.246.24:8080/GolfChannelHD/index.m3u8
-#EXTINF:-1 tvg-id="Fox.us@East",Fox (1080p) [Geo-blocked]
-https://messi.damitv.st/papi/ts/fox-usa/playlist.m3u8

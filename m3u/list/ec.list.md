@@ -69,4 +69,4 @@
 | 63 | RTS (720p) | IPv4 直链 | <http://157.100.248.242:8080/RTSHD/index.m3u8> |
 | 64 | Studio + TV | cloudvideo.servers10.com:8081 | <https://cloudvideo.servers10.com:8081/8184/index.m3u8> |
 
-Updated at **Tue Aug 04 2026 19:40:51 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Aug 05 2026 02:45:59 GMT+0000 (Coordinated Universal Time)**

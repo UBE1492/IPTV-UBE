@@ -77,8 +77,6 @@ https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8
 https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us@US",Bloomberg TV (1080p)
 http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
-#EXTINF:-1 tvg-id="BloombergTV.us@US",Bloomberg TV (720p)
-http://206.212.244.63/22/index.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us@Plus",Bloomberg TV + (2160p)
 https://66e4bbba.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnVFZQbHVzX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us@US",Bloomberg TV US (720p)
@@ -99,8 +97,6 @@ https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
 https://livestream.telvue.com/belmontmedia4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="BratTV.us@SD",Brat TV (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04072b68-dc6a-4d5e-98af-f356ba8d5063/playlist.m3u8
-#EXTINF:-1 tvg-id="BYUTV.us@SD",BYU TV (720p)
-http://206.212.244.63/28/index.m3u8
 #EXTINF:-1 tvg-id="CANTV19.us@SD",CAN TV19 (1080p)
 https://cantv.streamguys1.com/cantv/cantv19hls/playlist.m3u8
 #EXTINF:-1 tvg-id="CANTV21.us@SD",CAN TV21 (1080p)
@@ -119,8 +115,6 @@ https://2-fss-1.themediacdn.com/pl_122/206280-3059514-1/playlist.m3u8
 https://irctv.cablecast.tv/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="CourtTV.us@SD",Court TV (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
-#EXTINF:-1 tvg-id="CoziTV.us@SD",Cozi TV (720p)
-http://206.212.244.63/49/index.m3u8
 #EXTINF:-1 tvg-id="CSatTV.us@SD",CSat TV (1080p) [Not 24/7]
 http://media.smc-host.com:1935/csat.tv/smil:csat.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CTNTVConneticut.us@SD",CT-N TV Conneticut (720p) [Not 24/7]
@@ -193,8 +187,6 @@ https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8
 https://freecast-lukentvlive.vgcdn.net/out/v1/665e9f91614b43b0a0654e9317f1d9f3/index.m3u8
 #EXTINF:-1 tvg-id="RFDTV.us@SD",RFD-TV (1080p)
 http://40.160.24.55/RFD-TV/index.m3u8
-#EXTINF:-1 tvg-id="RFDTV.us@SD",RFD-TV (720p)
-http://206.212.244.63/146/index.m3u8
 #EXTINF:-1 tvg-id="RFDTV.us@SD",RFD-TV
 https://rfdtv-jw.cdn.vustreams.com/live/7cba1a3b-318a-4097-8492-374478370b91/live.isml/7cba1a3b-318a-4097-8492-374478370b91.m3u8
 #EXTINF:-1 tvg-id="RTHTV2Gospel.us@SD",RTH-TV2 Gospel (720p)
@@ -253,8 +245,6 @@ https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8
 http://40.160.24.55/TV_LAND/index.m3u8
 #EXTINF:-1 tvg-id="TVOne.us@SD",TV One (1080p)
 http://40.160.24.55/TV_ONE/index.m3u8
-#EXTINF:-1 tvg-id="TVOne.us@SD",TV One (720p)
-http://206.212.244.63/166/index.m3u8
 #EXTINF:-1 tvg-id="TVSBowlingNetwork.us@SD",TVS Bowling Network (720p)
 https://rpn.bozztv.com/gusa/gusa-tvsbowling/index.m3u8
 #EXTINF:-1 tvg-id="TVSBoxing.us@SD",TVS Boxing (360p)
@@ -319,10 +309,6 @@ https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_118/amlst:204972-1949480/playlist.m3u8
 #EXTINF:-1 tvg-id="WATCDT571.us@HD",WATC TV57 (1080p)
 https://tgn2.bozztv.com/watc57/watc57-1/watc57-1/index.m3u8
-#EXTINF:-1 tvg-id="WCBSTV21.us@HD",WCBS-TV 2.1 (720p)
-http://206.212.244.63/32/index.m3u8
-#EXTINF:-1 tvg-id="WDAFTV42.us@SD",WDAF-TV 4.2 (576p)
-http://206.212.244.63/9/index.m3u8
 #EXTINF:-1 tvg-id="WeTV.us@East",We TV (720p)
 http://40.160.24.55/WE_TV/index.m3u8
 #EXTINF:-1 tvg-id="WGTV83.us@SD",WGTV-DT3 (1080p)
