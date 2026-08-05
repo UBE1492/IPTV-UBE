@@ -55,29 +55,28 @@
 | 49 | TAM TV | rtmp.tamtv.com.ve | <https://rtmp.tamtv.com.ve/tmp_hls/stream/index.m3u8> |
 | 50 | TeleAragua (480p) | IPv4 直链 | <http://45.173.198.59:8080/hls/nginx3.m3u8?tla=> |
 | 51 | Teleboconó (720p) [Not 24/7] | ssh101stream.ssh101.com | <https://ssh101stream.ssh101.com/akamaissh101/ssh101/tcbstreaming/playlist.m3u8> |
-| 52 | Telecentro (720p) | streamtv.intervenhosting.net:3161 | <https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8> |
-| 53 | Telecentro (480p) [Not 24/7] | streamtv.intervenhosting.net:3698 | <https://streamtv.intervenhosting.net:3698/live/telecentrolive.m3u8> |
-| 54 | Telecolor (480p) | cloud.livescast.com:19360 | <https://cloud.livescast.com:19360/telecolor/telecolor.m3u8> |
-| 55 | Telesur (720p) | bantel-cdn1.iptvperu.tv:1935 | <http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/telesur.stream/playlist.m3u8> |
-| 56 | Telesur (576p) | edgectc.com | <https://edgectc.com/TELESUR/index.m3u8> |
-| 57 | Telesur (480p) | mblesmain01.telesur.ultrabase.net | <https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8> |
-| 58 | Telesur English (480p) | mblenmain01.telesur.ultrabase.net | <https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8> |
-| 59 | Telesur English HD (1080p) | mblenmain01.telesur.ultrabase.net | <https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8> |
-| 60 | Telesur HD (1080p) | mblesmain01.telesur.ultrabase.net | <https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8> |
-| 61 | Telesur HD (720p) | IPv4 直链 | <http://45.190.28.50/TELESUR_HD/index.m3u8> |
-| 62 | Televen (720p) | IPv4 直链 | <http://138.186.23.7:8082/TELEVEN/index.m3u8> |
-| 63 | Televen (576p) | IPv4 直链 | <http://181.78.8.199:8000/play/a09j/index.m3u8> |
-| 64 | Televisora de Oriente (406p) | cloud.fastchannel.es | <https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8> |
-| 65 | TNO Radio (720p) | stmv1.srvstm.com | <https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8> |
-| 66 | Torococo TV (720p) [Not 24/7] | us.streaminghd.cl | <https://us.streaminghd.cl/torococotelevision/video.m3u8> |
-| 67 | TRT (410p) [Not 24/7] | vcp12.myplaytv.com | <https://vcp12.myplaytv.com/trt/trt/playlist.m3u8> |
-| 68 | TRV (480p) | vcp3.myplaytv.com | <https://vcp3.myplaytv.com/trv/trv/playlist.m3u8> |
-| 69 | Tu TV (720p) | astl-mainstr.qvixsolutions.com | <https://astl-mainstr.qvixsolutions.com/asltvtu_ext/index.m3u8> |
-| 70 | TV Andes (720p) [Not 24/7] | vcp3.myplaytv.com | <https://vcp3.myplaytv.com/tvandes/tvandes/playlist.m3u8> |
-| 71 | TV Familia (720p) | cloudusa.streamingconnect.com | <https://cloudusa.streamingconnect.com/tvfamiliatvbox/tvfamiliaweb.m3u8> |
-| 72 | TV Familia | 59d39900ebfb8.streamlock.net | <https://59d39900ebfb8.streamlock.net/tvfamilia_270p/tvfamilia_270p/playlist.m3u8> |
-| 73 | TV Oasis Monay (720p) | servilive.com:3562 | <https://servilive.com:3562/live/vav4c8z38live.m3u8> |
-| 74 | TVM para ti (1080p) | streamtv.intervenhosting.net:3529 | <https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8> |
-| 75 | TVS (720p) | vcp10.myplaytv.com | <https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8> |
+| 52 | Telecentro (480p) [Not 24/7] | streamtv.intervenhosting.net:3531 | <https://streamtv.intervenhosting.net:3531/live/telecentrovelive.m3u8> |
+| 53 | Telecolor (480p) | cloud.livescast.com:19360 | <https://cloud.livescast.com:19360/telecolor/telecolor.m3u8> |
+| 54 | Telesur (720p) | bantel-cdn1.iptvperu.tv:1935 | <http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/telesur.stream/playlist.m3u8> |
+| 55 | Telesur (576p) | edgectc.com | <https://edgectc.com/TELESUR/index.m3u8> |
+| 56 | Telesur (480p) | mblesmain01.telesur.ultrabase.net | <https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8> |
+| 57 | Telesur English (480p) | mblenmain01.telesur.ultrabase.net | <https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8> |
+| 58 | Telesur English HD (1080p) | mblenmain01.telesur.ultrabase.net | <https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8> |
+| 59 | Telesur HD (1080p) | mblesmain01.telesur.ultrabase.net | <https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8> |
+| 60 | Telesur HD (720p) | IPv4 直链 | <http://45.190.28.50/TELESUR_HD/index.m3u8> |
+| 61 | Televen (720p) | IPv4 直链 | <http://138.186.23.7:8082/TELEVEN/index.m3u8> |
+| 62 | Televen (576p) | IPv4 直链 | <http://181.78.8.199:8000/play/a09j/index.m3u8> |
+| 63 | Televisora de Oriente (406p) | cloud.fastchannel.es | <https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8> |
+| 64 | TNO Radio (720p) | stmv1.srvstm.com | <https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8> |
+| 65 | Torococo TV (720p) [Not 24/7] | us.streaminghd.cl | <https://us.streaminghd.cl/torococotelevision/video.m3u8> |
+| 66 | TRT (410p) [Not 24/7] | vcp12.myplaytv.com | <https://vcp12.myplaytv.com/trt/trt/playlist.m3u8> |
+| 67 | TRV (480p) | vcp3.myplaytv.com | <https://vcp3.myplaytv.com/trv/trv/playlist.m3u8> |
+| 68 | Tu TV (720p) | astl-mainstr.qvixsolutions.com | <https://astl-mainstr.qvixsolutions.com/asltvtu_ext/index.m3u8> |
+| 69 | TV Andes (720p) [Not 24/7] | vcp3.myplaytv.com | <https://vcp3.myplaytv.com/tvandes/tvandes/playlist.m3u8> |
+| 70 | TV Familia (720p) | cloudusa.streamingconnect.com | <https://cloudusa.streamingconnect.com/tvfamiliatvbox/tvfamiliaweb.m3u8> |
+| 71 | TV Familia | 59d39900ebfb8.streamlock.net | <https://59d39900ebfb8.streamlock.net/tvfamilia_270p/tvfamilia_270p/playlist.m3u8> |
+| 72 | TV Oasis Monay (720p) | servilive.com:3562 | <https://servilive.com:3562/live/vav4c8z38live.m3u8> |
+| 73 | TVM para ti (1080p) | streamtv.intervenhosting.net:3529 | <https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8> |
+| 74 | TVS (720p) | vcp10.myplaytv.com | <https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8> |
 
-Updated at **Wed Aug 05 2026 08:40:23 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Aug 05 2026 14:16:17 GMT+0000 (Coordinated Universal Time)**

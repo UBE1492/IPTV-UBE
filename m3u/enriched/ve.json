@@ -1,6 +1,6 @@
 {
   "name": "ve",
-  "updated_at": 1785919223413,
+  "updated_at": 1785939377907,
   "m3u": "https://ube1492.github.io/IPTV-UBE/ve.m3u",
   "channels": [
     {
@@ -313,14 +313,8 @@
       "category": "Otros"
     },
     {
-      "name": "Telecentro (720p)",
-      "url": "https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Telecentro (480p) [Not 24/7]",
-      "url": "https://streamtv.intervenhosting.net:3698/live/telecentrolive.m3u8",
+      "url": "https://streamtv.intervenhosting.net:3531/live/telecentrovelive.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -778,14 +772,8 @@
         "category": "Otros"
       },
       {
-        "name": "Telecentro (720p)",
-        "url": "https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "Telecentro (480p) [Not 24/7]",
-        "url": "https://streamtv.intervenhosting.net:3698/live/telecentrolive.m3u8",
+        "url": "https://streamtv.intervenhosting.net:3531/live/telecentrovelive.m3u8",
         "logo": "",
         "category": "Otros"
       },
