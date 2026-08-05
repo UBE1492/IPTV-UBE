@@ -106,4 +106,4 @@
 | 100 | Canal 4 Esquel | stream.arcast.com.ar | <https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8> |
 | 101 | La 100 (1080p) | mdstrm.com | <https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8> |
 
-Updated at **Wed Aug 05 2026 14:16:17 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Aug 05 2026 19:39:37 GMT+0000 (Coordinated Universal Time)**
