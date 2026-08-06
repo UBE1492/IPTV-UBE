@@ -117,3 +117,4 @@ Nuestra_Tele_Internacional_(720p),http://170.238.200.199:80/nuestra-tele/index.m
 RCN_Novelas_(720p),http://170.238.200.199:80/rcn-novelas/index.m3u8
 Senal_Colombia_(1080p),http://209.14.115.253:8081/SENALCOLOMBIA/index.m3u8
 TeleQuindio_(1080p),https://live20.bozztv.com/akamaissh101/ssh101/telequindio/playlist.m3u8
+RCN_Novelas_(1080p),https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8

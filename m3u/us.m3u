@@ -159,8 +159,6 @@ https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8
 http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
 #EXTINF:-1 tvg-id="BeachTVPanamaCity.us@SD",Beach TV Panama City (720p)
 http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
-#EXTINF:-1 tvg-id="beINSportsUSA.us@SD",beIN Sports USA (720p)
-http://23.237.104.106:8080/USA_BEIN/index.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD",beIN SPORTS XTRA (1080p)
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BerksCommunityTV.us@SD",Berks Community TV (1080p)
@@ -1223,3 +1221,5 @@ http://40.160.24.52/FXM/index.m3u8
 http://40.160.24.53/LOGO_TV/index.m3u8
 #EXTINF:-1 tvg-id="GolfChannel.us@SD",Golf Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="USANetwork.us@East",USA Network (720p)
+https://ftv.itscwd273.workers.dev/?id=USANETEAST

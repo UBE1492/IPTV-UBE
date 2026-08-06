@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1785958777343,
+  "updated_at": 1785984545207,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -474,12 +474,6 @@
     {
       "name": "Beach TV Panama City (720p)",
       "url": "http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "beIN Sports USA (720p)",
-      "url": "http://23.237.104.106:8080/USA_BEIN/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -3653,7 +3647,7 @@
     },
     {
       "name": "Golf Channel",
-      "url": "",
+      "url": "#EXTINF:-1 tvg-id=\"USANetwork.us@East\",USA Network (720p)",
       "logo": "",
       "category": "Otros",
       "options": {
@@ -4134,12 +4128,6 @@
       {
         "name": "Beach TV Panama City (720p)",
         "url": "http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "beIN Sports USA (720p)",
-        "url": "http://23.237.104.106:8080/USA_BEIN/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -7313,7 +7301,7 @@
       },
       {
         "name": "Golf Channel",
-        "url": "",
+        "url": "#EXTINF:-1 tvg-id=\"USANetwork.us@East\",USA Network (720p)",
         "logo": "",
         "category": "Otros",
         "options": {

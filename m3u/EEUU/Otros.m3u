@@ -539,3 +539,5 @@ http://15.204.246.24:8080/ComedyCentralHD/index.m3u8
 http://15.204.246.24:8080/NatGeoHD/index.m3u8
 #EXTINF:-1 tvg-id="Logo.us@East",Logo (720p)
 http://40.160.24.53/LOGO_TV/index.m3u8
+#EXTINF:-1 tvg-id="USANetwork.us@East",USA Network (720p)
+https://ftv.itscwd273.workers.dev/?id=USANETEAST

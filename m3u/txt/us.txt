@@ -79,7 +79,6 @@ Beach_TV_Florida_&_Alabama_(720p),http://media4.tripsmarter.com:1935/LiveTV/DTVH
 Beach_TV_Key_West_&_Florida_Keys_(720p),https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8
 Beach_TV_Myrtle_Beach_&_The_Grand_Strand_(720p),http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
 Beach_TV_Panama_City_(720p),http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
-beIN_Sports_USA_(720p),http://23.237.104.106:8080/USA_BEIN/index.m3u8
 beIN_SPORTS_XTRA_(1080p),https://bein-xtra-bein.amagi.tv/playlist.m3u8
 Berks_Community_TV_(1080p),https://livestream.telvue.com/berkscmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 Better_Health_TV_(480p),https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8
@@ -611,3 +610,4 @@ Lifetime_Latin_America_(1080p),http://181.119.66.28:8081/Lifetime-HD/index.m3u8
 FX_Movie_Channel_(720p),http://40.160.24.52/FXM/index.m3u8
 Logo_(720p),http://40.160.24.53/LOGO_TV/index.m3u8
 Golf_Channel,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+USA_Network_(720p),https://ftv.itscwd273.workers.dev/?id=USANETEAST

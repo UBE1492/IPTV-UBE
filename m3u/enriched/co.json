@@ -1,6 +1,6 @@
 {
   "name": "co",
-  "updated_at": 1785958777452,
+  "updated_at": 1785984545431,
   "m3u": "https://ube1492.github.io/IPTV-UBE/co.m3u",
   "channels": [
     {
@@ -696,6 +696,12 @@
     {
       "name": "TeleQuindio (1080p)",
       "url": "https://live20.bozztv.com/akamaissh101/ssh101/telequindio/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "RCN Novelas (1080p)",
+      "url": "https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -1395,6 +1401,12 @@
       {
         "name": "TeleQuindio (1080p)",
         "url": "https://live20.bozztv.com/akamaissh101/ssh101/telequindio/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "RCN Novelas (1080p)",
+        "url": "https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       }

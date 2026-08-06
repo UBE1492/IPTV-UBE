@@ -1,6 +1,4 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/StrangeDrVN/epg/public/guide.xml.gz"
-#EXTINF:-1 tvg-id="beINSportsUSA.us@SD",beIN Sports USA (720p)
-http://23.237.104.106:8080/USA_BEIN/index.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD",beIN SPORTS XTRA (1080p)
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPNDeportes.us@SD",ESPN Deportes (720p)
