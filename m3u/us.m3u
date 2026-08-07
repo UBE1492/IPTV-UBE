@@ -1223,3 +1223,7 @@ http://40.160.24.53/LOGO_TV/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="USANetwork.us@East",USA Network (720p)
 https://ftv.itscwd273.workers.dev/?id=USANETEAST
+#EXTINF:-1 tvg-id="DreamWorksChannelAsia.us@SD",DreamWorks Channel Asia (1080p) [Geo-blocked]
+https://thinkkast.dpdns.org/thinkkast/cg_dreamworks_hd1/versiglia/index.m3u8
+#EXTINF:-1 tvg-id="BestofDrPhil.us@SD",Best of Dr Phil
+http://88.218.227.85:8080/60f760bbdf090700075d7bfe?mode=hls

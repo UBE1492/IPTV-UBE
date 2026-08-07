@@ -11,9 +11,7 @@
 | 5 | beIN Sports USA (576p) | IPv4 直链 | <http://40.160.24.52/BEIN_SPORTS_HD/index.m3u8> |
 | 6 | ESPNews (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/ESPN_NEWS/index.m3u8> |
 | 7 | beIN SPORTS XTRA en Espanol (1080p) | IPv4 直链 | <http://201.190.41.246:9060/play/a03y/index.m3u8> |
-| 8 | Fox Sports 2 (1080p) | messi.damitv.st | <https://messi.damitv.st/papi/ts/fox-sports-2/playlist.m3u8> |
-| 9 | Fox Sports 1 (1080p) | messi.damitv.st | <https://messi.damitv.st/papi/ts/fox-sports-1/playlist.m3u8> |
-| 10 | beIN Sports USA (1080p) | messi.damitv.st | <https://messi.damitv.st/papi/ts/beinsports-usa/playlist.m3u8> |
-| 11 | Fox Sports 2 (720p) | ftv.itscwd273.workers.dev | <https://ftv.itscwd273.workers.dev/?id=FOXSPORTS2> |
+| 8 | beIN Sports USA (1080p) | messi.damitv.st | <https://messi.damitv.st/papi/ts/beinsports-usa/playlist.m3u8> |
+| 9 | Fox Sports 2 (720p) | ftv.itscwd273.workers.dev | <https://ftv.itscwd273.workers.dev/?id=FOXSPORTS2> |
 
-Updated at **Fri Aug 07 2026 00:04:27 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Aug 07 2026 07:20:29 GMT+0000 (Coordinated Universal Time)**

@@ -6,7 +6,5 @@ Fox_Sports_1_(720p),http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 beIN_Sports_USA_(576p),http://40.160.24.52/BEIN_SPORTS_HD/index.m3u8
 ESPNews_(720p),https://gpuserver3.tier1streams.com/ESPN_NEWS/index.m3u8
 beIN_SPORTS_XTRA_en_Espanol_(1080p),http://201.190.41.246:9060/play/a03y/index.m3u8
-Fox_Sports_2_(1080p),https://messi.damitv.st/papi/ts/fox-sports-2/playlist.m3u8
-Fox_Sports_1_(1080p),https://messi.damitv.st/papi/ts/fox-sports-1/playlist.m3u8
 beIN_Sports_USA_(1080p),https://messi.damitv.st/papi/ts/beinsports-usa/playlist.m3u8
 Fox_Sports_2_(720p),https://ftv.itscwd273.workers.dev/?id=FOXSPORTS2

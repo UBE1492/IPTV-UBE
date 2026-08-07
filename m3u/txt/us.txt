@@ -611,3 +611,5 @@ FX_Movie_Channel_(720p),http://40.160.24.52/FXM/index.m3u8
 Logo_(720p),http://40.160.24.53/LOGO_TV/index.m3u8
 Golf_Channel,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 USA_Network_(720p),https://ftv.itscwd273.workers.dev/?id=USANETEAST
+DreamWorks_Channel_Asia_(1080p)_[Geo-blocked],https://thinkkast.dpdns.org/thinkkast/cg_dreamworks_hd1/versiglia/index.m3u8
+Best_of_Dr_Phil,http://88.218.227.85:8080/60f760bbdf090700075d7bfe?mode=hls

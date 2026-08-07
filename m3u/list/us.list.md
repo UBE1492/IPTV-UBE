@@ -608,5 +608,7 @@
 | 602 | FX Movie Channel (720p) | IPv4 直链 | <http://40.160.24.52/FXM/index.m3u8> |
 | 603 | Logo (720p) | IPv4 直链 | <http://40.160.24.53/LOGO_TV/index.m3u8> |
 | 604 | USA Network (720p) | ftv.itscwd273.workers.dev | <https://ftv.itscwd273.workers.dev/?id=USANETEAST> |
+| 605 | DreamWorks Channel Asia (1080p) [Geo-blocked] | thinkkast.dpdns.org | <https://thinkkast.dpdns.org/thinkkast/cg_dreamworks_hd1/versiglia/index.m3u8> |
+| 606 | Best of Dr Phil | IPv4 直链 | <http://88.218.227.85:8080/60f760bbdf090700075d7bfe?mode=hls> |
 
-Updated at **Fri Aug 07 2026 00:04:30 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Aug 07 2026 07:20:30 GMT+0000 (Coordinated Universal Time)**

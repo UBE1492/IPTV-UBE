@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1786061070099,
+  "updated_at": 1786087230610,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -3653,6 +3653,18 @@
       "options": {
         "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       }
+    },
+    {
+      "name": "DreamWorks Channel Asia (1080p) [Geo-blocked]",
+      "url": "https://thinkkast.dpdns.org/thinkkast/cg_dreamworks_hd1/versiglia/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Best of Dr Phil",
+      "url": "http://88.218.227.85:8080/60f760bbdf090700075d7bfe?mode=hls",
+      "logo": "",
+      "category": "Otros"
     }
   ],
   "categories": {
@@ -7307,6 +7319,18 @@
         "options": {
           "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "DreamWorks Channel Asia (1080p) [Geo-blocked]",
+        "url": "https://thinkkast.dpdns.org/thinkkast/cg_dreamworks_hd1/versiglia/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Best of Dr Phil",
+        "url": "http://88.218.227.85:8080/60f760bbdf090700075d7bfe?mode=hls",
+        "logo": "",
+        "category": "Otros"
       }
     ]
   }
