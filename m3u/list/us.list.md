@@ -609,4 +609,4 @@
 | 603 | Best of Dr Phil | IPv4 直链 | <http://88.218.227.85:8080/60f760bbdf090700075d7bfe?mode=hls> |
 | 604 | KNTV 11.1 | IPv4 直链 | <http://50.229.129.155/0.ts> |
 
-Updated at **Sat Aug 08 2026 12:53:57 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Aug 08 2026 18:41:10 GMT+0000 (Coordinated Universal Time)**
