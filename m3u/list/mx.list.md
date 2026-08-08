@@ -74,4 +74,4 @@
 | 68 | Telehit Musica (1080p) | IPv4 直链 | <http://181.119.66.28:8081/TELEHIT-MUSICA/index.m3u8> |
 | 69 | Azteca Deportes Network (1080p) | IPv4 直链 | <http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8> |
 
-Updated at **Sat Aug 08 2026 01:50:43 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Aug 08 2026 06:57:48 GMT+0000 (Coordinated Universal Time)**
