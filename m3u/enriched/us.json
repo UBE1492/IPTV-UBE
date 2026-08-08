@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1786129265211,
+  "updated_at": 1786153843547,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -863,15 +863,12 @@
     },
     {
       "name": "Cinecanal (1080p)",
-      "url": "http://138.186.23.7:8082/CINECANAL/index.m3u8",
+      "url": "#EXTINF:-1 tvg-id=\"ComercioTV.us@SD\",Comercio TV (1080p)",
       "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Comercio TV (1080p)",
-      "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=16960",
-      "logo": "",
-      "category": "Otros"
+      "category": "Otros",
+      "options": {
+        "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+      }
     },
     {
       "name": "Comercio TV (720p)",
@@ -1298,7 +1295,7 @@
     },
     {
       "name": "Nick Jr. Latin America (1080p)",
-      "url": "http://138.186.23.7:8082/NICKJR/index.m3u8",
+      "url": "http://177.234.249.178:8888/NICK-JR/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -1322,7 +1319,7 @@
     },
     {
       "name": "Nickelodeon Latin America (1080p)",
-      "url": "http://138.186.23.7:8082/NICK/index.m3u8",
+      "url": "http://177.234.249.178:8888/NICK/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -1485,12 +1482,6 @@
     {
       "name": "Paramount Network (720p)",
       "url": "http://40.160.24.55/PARAMOUNT_CHANNEL/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Paramount Network Latin America (720p)",
-      "url": "http://138.186.23.7:8082/PARAMOUNT/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -1928,7 +1919,7 @@
     },
     {
       "name": "Sony Channel Andes (1080p)",
-      "url": "http://138.186.23.7:8082/SONYCHANNEL/index.m3u8",
+      "url": "http://177.234.249.178:8888/SONY-TV/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -2226,12 +2217,6 @@
     {
       "name": "TM TV (720p)",
       "url": "https://hls.tmtv.live/hls/stream.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "TNT Novelas (1080p)",
-      "url": "http://138.186.23.7:8082/TNTNOVELAS/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -3502,12 +3487,6 @@
       "category": "Otros"
     },
     {
-      "name": "Telemundo (720p)",
-      "url": "http://170.254.17.2:80/TELEMUNDO/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "NBC (720p)",
       "url": "http://170.254.17.2:80/NBC/index.m3u8",
       "logo": "",
@@ -3610,6 +3589,12 @@
       "category": "Otros"
     },
     {
+      "name": "TNT Novelas (1080p)",
+      "url": "http://15.204.246.24:8080/TNTNovelasHD/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
       "name": "National Geographic Latin America (1080p)",
       "url": "http://15.204.246.24:8080/NatGeoHD/index.m3u8",
       "logo": "",
@@ -3663,6 +3648,12 @@
     {
       "name": "Best of Dr Phil",
       "url": "http://88.218.227.85:8080/60f760bbdf090700075d7bfe?mode=hls",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "KNTV 11.1",
+      "url": "http://50.229.129.155/0.ts",
       "logo": "",
       "category": "Otros"
     }
@@ -4529,15 +4520,12 @@
       },
       {
         "name": "Cinecanal (1080p)",
-        "url": "http://138.186.23.7:8082/CINECANAL/index.m3u8",
+        "url": "#EXTINF:-1 tvg-id=\"ComercioTV.us@SD\",Comercio TV (1080p)",
         "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Comercio TV (1080p)",
-        "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=16960",
-        "logo": "",
-        "category": "Otros"
+        "category": "Otros",
+        "options": {
+          "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+        }
       },
       {
         "name": "Comercio TV (720p)",
@@ -4964,7 +4952,7 @@
       },
       {
         "name": "Nick Jr. Latin America (1080p)",
-        "url": "http://138.186.23.7:8082/NICKJR/index.m3u8",
+        "url": "http://177.234.249.178:8888/NICK-JR/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -4988,7 +4976,7 @@
       },
       {
         "name": "Nickelodeon Latin America (1080p)",
-        "url": "http://138.186.23.7:8082/NICK/index.m3u8",
+        "url": "http://177.234.249.178:8888/NICK/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -5151,12 +5139,6 @@
       {
         "name": "Paramount Network (720p)",
         "url": "http://40.160.24.55/PARAMOUNT_CHANNEL/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Paramount Network Latin America (720p)",
-        "url": "http://138.186.23.7:8082/PARAMOUNT/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -5594,7 +5576,7 @@
       },
       {
         "name": "Sony Channel Andes (1080p)",
-        "url": "http://138.186.23.7:8082/SONYCHANNEL/index.m3u8",
+        "url": "http://177.234.249.178:8888/SONY-TV/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -5892,12 +5874,6 @@
       {
         "name": "TM TV (720p)",
         "url": "https://hls.tmtv.live/hls/stream.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "TNT Novelas (1080p)",
-        "url": "http://138.186.23.7:8082/TNTNOVELAS/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -7168,12 +7144,6 @@
         "category": "Otros"
       },
       {
-        "name": "Telemundo (720p)",
-        "url": "http://170.254.17.2:80/TELEMUNDO/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "NBC (720p)",
         "url": "http://170.254.17.2:80/NBC/index.m3u8",
         "logo": "",
@@ -7276,6 +7246,12 @@
         "category": "Otros"
       },
       {
+        "name": "TNT Novelas (1080p)",
+        "url": "http://15.204.246.24:8080/TNTNovelasHD/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
         "name": "National Geographic Latin America (1080p)",
         "url": "http://15.204.246.24:8080/NatGeoHD/index.m3u8",
         "logo": "",
@@ -7329,6 +7305,12 @@
       {
         "name": "Best of Dr Phil",
         "url": "http://88.218.227.85:8080/60f760bbdf090700075d7bfe?mode=hls",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "KNTV 11.1",
+        "url": "http://50.229.129.155/0.ts",
         "logo": "",
         "category": "Otros"
       }

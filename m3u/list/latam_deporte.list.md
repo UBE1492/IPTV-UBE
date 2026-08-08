@@ -14,4 +14,4 @@
 | 8 | beIN Sports USA (1080p) | messi.damitv.st | <https://messi.damitv.st/papi/ts/beinsports-usa/playlist.m3u8> |
 | 9 | Fox Sports 2 (720p) | ftv.itscwd273.workers.dev | <https://ftv.itscwd273.workers.dev/?id=FOXSPORTS2> |
 
-Updated at **Fri Aug 07 2026 19:01:04 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Aug 08 2026 01:50:42 GMT+0000 (Coordinated Universal Time)**

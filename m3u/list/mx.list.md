@@ -41,31 +41,31 @@
 | 35 | Canal 22 Nacional (720p) [Geo-blocked] | 5fc584f3f19c9.streamlock.net | <https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8> |
 | 36 | Canal 26 Aguascalientes (1080p) | 60417ddeaf0d9.streamlock.net | <https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8> |
 | 37 | Golden (720p) | IPv4 直链 | <http://177.234.249.135:8888/Golden/index.m3u8> |
-| 38 | Golden Edge (1080p) | IPv4 直链 | <http://138.186.23.7:8082/GOLDENEDGE/index.m3u8> |
-| 39 | Golden Edge (720p) | IPv4 直链 | <http://177.234.249.135:8888/GoldenEdge/index.m3u8> |
-| 40 | Golden Plus (1080p) | IPv4 直链 | <http://177.234.249.135:8888/GoldenPlus/index.m3u8> |
-| 41 | ICRTV Colima (1080p) | 5fc584f3f19c9.streamlock.net | <https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8> |
-| 42 | IERTBCS Canal 8.2 La Paz (1080p) [Not 24/7] | s5.mexside.net:1936 | <https://s5.mexside.net:1936/xhbzc82/xhbzc82/playlist.m3u8> |
-| 43 | IERTBCS Canal 8 La Paz (1080p) [Not 24/7] | s5.mexside.net:1936 | <https://s5.mexside.net:1936/xhbzc81/xhbzc81/playlist.m3u8> |
-| 44 | Imagen TV (1080p) | igd-it-runtime.otteravision.com | <https://igd-it-runtime.otteravision.com/igd/it/it.m3u8> |
-| 45 | IMRyT Morelos TV (720p) | stream8.mexiserver.com:19360 | <https://stream8.mexiserver.com:19360/morelostv/morelostv.m3u8> |
-| 46 | Ingenio TV (720p) [Geo-blocked] | aprende-usea.streaming.media.azure.net | <https://aprende-usea.streaming.media.azure.net/9317ea3f-03a0-4266-9292-ac97a0e41c4d/output-20230609-123537-manifest.ism/manifest(format=m3u8-cmaf).m3u8> |
-| 47 | ITV Deportes (720p) | thm-it-roku.otteravision.com | <https://thm-it-roku.otteravision.com/thm/it/it.m3u8> |
-| 48 | Jalisco TV (720p) | video0.rogohosting.com:19360 | <https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8> |
-| 49 | Justicia TV (720p) | live-scjn.ovp-vivaro.digital | <https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8> |
-| 50 | La Mejor TV (576p) | IPv4 直链 | <http://45.189.62.33:8002/play/a0ls/index.m3u8> |
-| 51 | Las Estrellas (1080p) | channel01-onlymex.akamaized.net | <https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8> |
-| 52 | Las Estrellas Latin America (1080p) | IPv4 直链 | <http://177.234.249.135:8888/LasEstrellas/index.m3u8> |
-| 53 | TeleFórmula (720p) | mdstrm.com | <https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8> |
-| 54 | Telehit Musica | IPv4 直链 | <http://190.61.55.34:2401/play/a06t/index.m3u8> |
-| 55 | Telemax (XEWH-TDT) (1080p) | s5.mexside.net:1936 | <https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8> |
-| 56 | Teleplay Sureste (720p) | player.tvstream.mx | <https://player.tvstream.mx/livestream/teleplay/livehd/playlist.m3u8> |
-| 57 | Teleplay Sureste (360p) | player.tvstream.mx | <https://player.tvstream.mx/livestream/teleplay/livesd/playlist.m3u8> |
-| 58 | Teleritmo (720p) [Not 24/7] | mdstrm.com | <https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8> |
-| 59 | Tlaxcala Televisión (360p) [Not 24/7] | vid26.mega00.com:5443 | <https://vid26.mega00.com:5443/live/streams/qNmc7nulmq8zPYZE1582752735050.m3u8> |
-| 60 | Tlnovelas Latin America (1080p) | IPv4 直链 | <http://177.234.249.135:8888/Telenovelas/index.m3u8> |
-| 61 | Azteca Deportes Network (720p) | IPv4 直链 | <http://38.194.226.190:8000/play/a02r/index.m3u8> |
-| 62 | Golden (1080p) | IPv4 直链 | <http://38.19.41.46:8081/MTV/index.m3u8> |
+| 38 | Golden Edge (720p) | IPv4 直链 | <http://177.234.249.135:8888/GoldenEdge/index.m3u8> |
+| 39 | Golden Plus (1080p) | IPv4 直链 | <http://177.234.249.135:8888/GoldenPlus/index.m3u8> |
+| 40 | ICRTV Colima (1080p) | 5fc584f3f19c9.streamlock.net | <https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8> |
+| 41 | IERTBCS Canal 8.2 La Paz (1080p) [Not 24/7] | s5.mexside.net:1936 | <https://s5.mexside.net:1936/xhbzc82/xhbzc82/playlist.m3u8> |
+| 42 | IERTBCS Canal 8 La Paz (1080p) [Not 24/7] | s5.mexside.net:1936 | <https://s5.mexside.net:1936/xhbzc81/xhbzc81/playlist.m3u8> |
+| 43 | Imagen TV (1080p) | igd-it-runtime.otteravision.com | <https://igd-it-runtime.otteravision.com/igd/it/it.m3u8> |
+| 44 | IMRyT Morelos TV (720p) | stream8.mexiserver.com:19360 | <https://stream8.mexiserver.com:19360/morelostv/morelostv.m3u8> |
+| 45 | Ingenio TV (720p) [Geo-blocked] | aprende-usea.streaming.media.azure.net | <https://aprende-usea.streaming.media.azure.net/9317ea3f-03a0-4266-9292-ac97a0e41c4d/output-20230609-123537-manifest.ism/manifest(format=m3u8-cmaf).m3u8> |
+| 46 | ITV Deportes (720p) | thm-it-roku.otteravision.com | <https://thm-it-roku.otteravision.com/thm/it/it.m3u8> |
+| 47 | Jalisco TV (720p) | video0.rogohosting.com:19360 | <https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8> |
+| 48 | Justicia TV (720p) | live-scjn.ovp-vivaro.digital | <https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8> |
+| 49 | La Mejor TV (576p) | IPv4 直链 | <http://45.189.62.33:8002/play/a0ls/index.m3u8> |
+| 50 | Las Estrellas (1080p) | channel01-onlymex.akamaized.net | <https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8> |
+| 51 | Las Estrellas Latin America (1080p) | IPv4 直链 | <http://177.234.249.135:8888/LasEstrellas/index.m3u8> |
+| 52 | TeleFórmula (720p) | mdstrm.com | <https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8> |
+| 53 | Telehit Musica | IPv4 直链 | <http://190.61.55.34:2401/play/a06t/index.m3u8> |
+| 54 | Telemax (XEWH-TDT) (1080p) | s5.mexside.net:1936 | <https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8> |
+| 55 | Teleplay Sureste (720p) | player.tvstream.mx | <https://player.tvstream.mx/livestream/teleplay/livehd/playlist.m3u8> |
+| 56 | Teleplay Sureste (360p) | player.tvstream.mx | <https://player.tvstream.mx/livestream/teleplay/livesd/playlist.m3u8> |
+| 57 | Teleritmo (720p) [Not 24/7] | mdstrm.com | <https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8> |
+| 58 | Tlaxcala Televisión (360p) [Not 24/7] | vid26.mega00.com:5443 | <https://vid26.mega00.com:5443/live/streams/qNmc7nulmq8zPYZE1582752735050.m3u8> |
+| 59 | Tlnovelas Latin America (1080p) | IPv4 直链 | <http://177.234.249.135:8888/Telenovelas/index.m3u8> |
+| 60 | Azteca Deportes Network (720p) | IPv4 直链 | <http://38.194.226.190:8000/play/a02r/index.m3u8> |
+| 61 | Golden (1080p) | IPv4 直链 | <http://38.19.41.46:8081/MTV/index.m3u8> |
+| 62 | Golden Edge (1080p) | IPv4 直链 | <http://38.19.41.46:8081/GOLDENEDGE/index.m3u8> |
 | 63 | De Pelicula Latin America (1080p) | IPv4 直链 | <http://38.19.41.46:8081/DEPELICULA/index.m3u8> |
 | 64 | bitMe (1080p) | cablered.iptvperu.tv:1936 | <https://cablered.iptvperu.tv:1936/cablered/bitme-srt_new/playlist.m3u8> |
 | 65 | bitMe Latin America (1080p) | cablered.iptvperu.tv:1936 | <https://cablered.iptvperu.tv:1936/cablered/bitme_new/playlist.m3u8> |
@@ -74,4 +74,4 @@
 | 68 | Telehit Musica (1080p) | IPv4 直链 | <http://181.119.66.28:8081/TELEHIT-MUSICA/index.m3u8> |
 | 69 | Azteca Deportes Network (1080p) | IPv4 直链 | <http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8> |
 
-Updated at **Fri Aug 07 2026 19:01:05 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Aug 08 2026 01:50:43 GMT+0000 (Coordinated Universal Time)**

@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Golden.mx@Panregional",Golden (720p)
 http://177.234.249.135:8888/Golden/index.m3u8
-#EXTINF:-1 tvg-id="GoldenEdge.mx@Panregional",Golden Edge (1080p)
-http://138.186.23.7:8082/GOLDENEDGE/index.m3u8
 #EXTINF:-1 tvg-id="GoldenEdge.mx@Panregional",Golden Edge (720p)
 http://177.234.249.135:8888/GoldenEdge/index.m3u8
 #EXTINF:-1 tvg-id="GoldenPlus.mx@SD",Golden Plus (1080p)
@@ -13,5 +11,7 @@ https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 http://38.194.226.190:8000/play/a02r/index.m3u8
 #EXTINF:-1 tvg-id="Golden.mx@Panregional",Golden (1080p)
 http://38.19.41.46:8081/MTV/index.m3u8
+#EXTINF:-1 tvg-id="GoldenEdge.mx@Panregional",Golden Edge (1080p)
+http://38.19.41.46:8081/GOLDENEDGE/index.m3u8
 #EXTINF:-1 tvg-id="AztecaDeportesNetwork.mx@SD",Azteca Deportes Network (1080p)
 http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8

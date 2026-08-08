@@ -211,8 +211,6 @@ http://40.160.24.55/OVATION/index.m3u8
 http://40.160.24.55/OXYGEN/index.m3u8
 #EXTINF:-1 tvg-id="ParamountNetwork.us@East",Paramount Network (720p)
 http://40.160.24.55/PARAMOUNT_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="ParamountNetworkLatinAmerica.us@Panregional",Paramount Network Latin America (720p)
-http://138.186.23.7:8082/PARAMOUNT/index.m3u8
 #EXTINF:-1 tvg-id="PasionesLatinAmerica.us@SD",Pasiones Latin America (1080p)
 http://45.162.193.35/PASIONESHD/index.m3u8
 #EXTINF:-1 tvg-id="PhillyCAM.us@SD",PhillyCAM (720p)
@@ -262,7 +260,7 @@ http://40.160.24.55/SMITHSONIAN/index.m3u8
 #EXTINF:-1 tvg-id="SNLVault.us@SD",SNL Vault (1080p)
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993017/hls/master.m3u8?ads.xumo_channelId=99993017
 #EXTINF:-1 tvg-id="SonyChannelAndes.us@SD",Sony Channel Andes (1080p)
-http://138.186.23.7:8082/SONYCHANNEL/index.m3u8
+http://177.234.249.178:8888/SONY-TV/index.m3u8
 #EXTINF:-1 tvg-id="SonyKALHindi.us@SD",Sony KAL Hindi (1080p)
 https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="SPEEDVISION.us@SD",SPEEDVISION (1080p)

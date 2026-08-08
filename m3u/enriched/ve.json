@@ -1,6 +1,6 @@
 {
   "name": "ve",
-  "updated_at": 1786129265569,
+  "updated_at": 1786153843668,
   "m3u": "https://ube1492.github.io/IPTV-UBE/ve.m3u",
   "channels": [
     {
@@ -97,12 +97,6 @@
       "category": "Otros"
     },
     {
-      "name": "Globovision (720p)",
-      "url": "http://138.186.23.7:8082/GLOBOVISION/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Globovision (576p)",
       "url": "http://181.78.8.199:8000/play/a09k/index.m3u8",
       "logo": "",
@@ -141,12 +135,6 @@
     {
       "name": "Italianissimo (360p) [Not 24/7]",
       "url": "https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "IVC (576p)",
-      "url": "http://138.186.23.7:8082/IVC/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -367,12 +355,6 @@
       "category": "Otros"
     },
     {
-      "name": "Televen (720p)",
-      "url": "http://138.186.23.7:8082/TELEVEN/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Televen (576p)",
       "url": "http://181.78.8.199:8000/play/a09j/index.m3u8",
       "logo": "",
@@ -556,12 +538,6 @@
         "category": "Otros"
       },
       {
-        "name": "Globovision (720p)",
-        "url": "http://138.186.23.7:8082/GLOBOVISION/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "Globovision (576p)",
         "url": "http://181.78.8.199:8000/play/a09k/index.m3u8",
         "logo": "",
@@ -600,12 +576,6 @@
       {
         "name": "Italianissimo (360p) [Not 24/7]",
         "url": "https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "IVC (576p)",
-        "url": "http://138.186.23.7:8082/IVC/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -822,12 +792,6 @@
       {
         "name": "Telesur HD (720p)",
         "url": "http://45.190.28.50/TELESUR_HD/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Televen (720p)",
-        "url": "http://138.186.23.7:8082/TELEVEN/index.m3u8",
         "logo": "",
         "category": "Otros"
       },

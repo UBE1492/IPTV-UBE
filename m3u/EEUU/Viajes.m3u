@@ -21,5 +21,3 @@ https://world.lls.pbs.org/index.m3u8
 http://40.160.24.55/WORLD_FISHING_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="CNBCWorld.us@SD",CNBC World (576p)
 https://gpuserver3.tier1streams.com/CNBC_WORLD/index.m3u8
-#EXTINF:-1 tvg-id="Telemundo.us@East",Telemundo (720p)
-http://170.254.17.2:80/TELEMUNDO/index.m3u8

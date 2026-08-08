@@ -15,7 +15,6 @@ eSports_Max_TV,https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8
 Explosión_Creativa_(720p)_[Not_24/7],https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8
 Fortuna_TV_(1080p),https://streamtv.intervenhosting.net:3355/live/fortunatvlive.m3u8
 GlobalTV_(480p)_[Not_24/7],https://streamtv.intervenhosting.net:3179/live/globaltvlive.m3u8
-Globovision_(720p),http://138.186.23.7:8082/GLOBOVISION/index.m3u8
 Globovision_(576p),http://181.78.8.199:8000/play/a09k/index.m3u8
 Grande_TV_(720p)_[Not_24/7],https://live20.bozztv.com/akamaissh101/ssh101/grandetv2240/playlist.m3u8
 Grande_TV,https://vs20.live.opencaster.com/grande41_0b593479/index.m3u8
@@ -23,7 +22,6 @@ Guaro_TV_(720p),https://stream.guarotv.net:3592/hybrid/play.m3u8
 interTV_(1080p),https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
 Isla_TV_(480p),https://59d39900ebfb8.streamlock.net/islatv/islatv/playlist.m3u8
 Italianissimo_(360p)_[Not_24/7],https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8
-IVC_(576p),http://138.186.23.7:8082/IVC/index.m3u8
 KandelaTV_(480p),https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
 La_Tele_Tuya_(576p),http://181.78.8.199:8000/play/a0fs/index.m3u8
 LaPuraCrema_Television,https://streamlov.alsolnet.com/lapuracrema/live/playlist.m3u8
@@ -60,7 +58,6 @@ Telesur_English_(480p),https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/p
 Telesur_English_HD_(1080p),https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
 Telesur_HD_(1080p),https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 Telesur_HD_(720p),http://45.190.28.50/TELESUR_HD/index.m3u8
-Televen_(720p),http://138.186.23.7:8082/TELEVEN/index.m3u8
 Televen_(576p),http://181.78.8.199:8000/play/a09j/index.m3u8
 Televisora_de_Oriente_(406p),https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
 TNO_Radio_(720p),https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8

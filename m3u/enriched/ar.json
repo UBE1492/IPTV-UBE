@@ -1,6 +1,6 @@
 {
   "name": "ar",
-  "updated_at": 1786129264926,
+  "updated_at": 1786153842901,
   "m3u": "https://ube1492.github.io/IPTV-UBE/ar.m3u",
   "channels": [
     {
@@ -624,6 +624,12 @@
     {
       "name": "La 100 (1080p)",
       "url": "https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Retroclub (720p)",
+      "url": "https://video03.logicahost.com.br/retroclub02/retroclub02/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -1251,6 +1257,12 @@
       {
         "name": "La 100 (1080p)",
         "url": "https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Retroclub (720p)",
+        "url": "https://video03.logicahost.com.br/retroclub02/retroclub02/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       }

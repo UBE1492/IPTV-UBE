@@ -105,5 +105,6 @@
 | 99 | BVC | vivo.solumedia.com:19360 | <https://vivo.solumedia.com:19360/bvnet/bvnet.m3u8> |
 | 100 | Canal 4 Esquel | stream.arcast.com.ar | <https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8> |
 | 101 | La 100 (1080p) | mdstrm.com | <https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8> |
+| 102 | Retroclub (720p) | video03.logicahost.com.br | <https://video03.logicahost.com.br/retroclub02/retroclub02/playlist.m3u8> |
 
-Updated at **Fri Aug 07 2026 19:01:04 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Aug 08 2026 01:50:42 GMT+0000 (Coordinated Universal Time)**

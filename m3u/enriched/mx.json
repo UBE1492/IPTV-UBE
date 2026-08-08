@@ -1,6 +1,6 @@
 {
   "name": "mx",
-  "updated_at": 1786129265079,
+  "updated_at": 1786153843325,
   "m3u": "https://ube1492.github.io/IPTV-UBE/mx.m3u",
   "channels": [
     {
@@ -229,12 +229,6 @@
       }
     },
     {
-      "name": "Golden Edge (1080p)",
-      "url": "http://138.186.23.7:8082/GOLDENEDGE/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Golden Edge (720p)",
       "url": "http://177.234.249.135:8888/GoldenEdge/index.m3u8",
       "logo": "",
@@ -375,6 +369,12 @@
     {
       "name": "Golden (1080p)",
       "url": "http://38.19.41.46:8081/MTV/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Golden Edge (1080p)",
+      "url": "http://38.19.41.46:8081/GOLDENEDGE/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -649,12 +649,6 @@
         }
       },
       {
-        "name": "Golden Edge (1080p)",
-        "url": "http://138.186.23.7:8082/GOLDENEDGE/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "Golden Edge (720p)",
         "url": "http://177.234.249.135:8888/GoldenEdge/index.m3u8",
         "logo": "",
@@ -795,6 +789,12 @@
       {
         "name": "Golden (1080p)",
         "url": "http://38.19.41.46:8081/MTV/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Golden Edge (1080p)",
+        "url": "http://38.19.41.46:8081/GOLDENEDGE/index.m3u8",
         "logo": "",
         "category": "Otros"
       },

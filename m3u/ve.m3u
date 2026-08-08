@@ -31,8 +31,6 @@ https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8
 https://streamtv.intervenhosting.net:3355/live/fortunatvlive.m3u8
 #EXTINF:-1 tvg-id="GlobalTV.ve@SD",GlobalTV (480p) [Not 24/7]
 https://streamtv.intervenhosting.net:3179/live/globaltvlive.m3u8
-#EXTINF:-1 tvg-id="Globovision.ve@SD",Globovision (720p)
-http://138.186.23.7:8082/GLOBOVISION/index.m3u8
 #EXTINF:-1 tvg-id="Globovision.ve@SD",Globovision (576p)
 http://181.78.8.199:8000/play/a09k/index.m3u8
 #EXTINF:-1 tvg-id="GrandeTV.ve@SD",Grande TV (720p) [Not 24/7]
@@ -47,8 +45,6 @@ https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
 https://59d39900ebfb8.streamlock.net/islatv/islatv/playlist.m3u8
 #EXTINF:-1 tvg-id="Italianissimo.ve@SD",Italianissimo (360p) [Not 24/7]
 https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8
-#EXTINF:-1 tvg-id="IVC.ve@SD",IVC (576p)
-http://138.186.23.7:8082/IVC/index.m3u8
 #EXTINF:-1 tvg-id="KandelaTV.ve@SD",KandelaTV (480p)
 https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
 #EXTINF:-1 tvg-id="LaTeleTuya.ve@SD",La Tele Tuya (576p)
@@ -121,8 +117,6 @@ https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Telesur.ve@HD",Telesur HD (720p)
 http://45.190.28.50/TELESUR_HD/index.m3u8
-#EXTINF:-1 tvg-id="Televen.ve@SD",Televen (720p)
-http://138.186.23.7:8082/TELEVEN/index.m3u8
 #EXTINF:-1 tvg-id="Televen.ve@SD",Televen (576p)
 http://181.78.8.199:8000/play/a09j/index.m3u8
 #EXTINF:-1 tvg-id="TelevisoradeOriente.ve@SD",Televisora de Oriente (406p)
