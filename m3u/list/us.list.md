@@ -589,4 +589,4 @@
 | 583 | KNTV 11.1 | IPv4 直链 | <http://50.229.129.155/0.ts> |
 | 584 | Showtime Women (720p) | IPv4 直链 | <http://40.160.24.55/SHOWTIME_WOMEN/index.m3u8> |
 
-Updated at **Sun Aug 09 2026 07:00:37 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Aug 09 2026 12:56:52 GMT+0000 (Coordinated Universal Time)**
