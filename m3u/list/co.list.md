@@ -117,4 +117,4 @@
 | 111 | TeleQuindio (1080p) | live20.bozztv.com | <https://live20.bozztv.com/akamaissh101/ssh101/telequindio/playlist.m3u8> |
 | 112 | RCN Novelas (1080p) | cdnlive.klicgo.net | <https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8> |
 
-Updated at **Sun Aug 09 2026 12:56:52 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Aug 09 2026 18:45:23 GMT+0000 (Coordinated Universal Time)**
