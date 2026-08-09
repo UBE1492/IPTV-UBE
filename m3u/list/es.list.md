@@ -122,5 +122,6 @@
 | 116 | La 2 | rtvelivestream.rtve.es | <https://rtvelivestream.rtve.es/rtvesec/la2/la2_main.m3u8> |
 | 117 | La 8 Mediterraneo (1080p) | newscript.gestec-video.com | <https://newscript.gestec-video.com/hls/8TVEVENTOS.m3u8> |
 | 118 | Real Madrid TV English | IPv4 直链 | <http://88.212.15.19/live/real_madrid_tv/index.m3u8> |
+| 119 | La 1 UHD (2160p) | IPv4 直链 | <http://185.47.212.25:8080/tdp_HD/index.m3u8> |
 
-Updated at **Sat Aug 08 2026 18:41:10 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Aug 09 2026 01:57:44 GMT+0000 (Coordinated Universal Time)**

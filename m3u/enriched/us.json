@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1786214470979,
+  "updated_at": 1786240665153,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -3103,104 +3103,14 @@
       "category": "Otros"
     },
     {
-      "name": "A&E (1080p)",
-      "url": "https://gpuserver3.tier1streams.com/AE/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "ACC Network (720p)",
-      "url": "https://gpuserver3.tier1streams.com/ACC_NETWORK/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "AccuWeather Network (720p)",
       "url": "https://gpuserver3.tier1streams.com/AccuWeather/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "AMC+ (720p)",
-      "url": "https://gpuserver3.tier1streams.com/AMC_PLUS/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Antenna TV (576p)",
-      "url": "https://gpuserver3.tier1streams.com/ANTENNA_TV/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Aspire (1080p)",
-      "url": "https://gpuserver3.tier1streams.com/ASPIRE/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "AWE (1080p)",
       "url": "https://gpuserver3.tier1streams.com/AWE/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "AXS TV (1080p)",
-      "url": "https://gpuserver3.tier1streams.com/AXS_TV/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "BBC America East HD (720p)",
-      "url": "https://gpuserver3.tier1streams.com/BBC_AMERICA/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "BET (720p)",
-      "url": "https://gpuserver3.tier1streams.com/BET_EAST/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "BET West (720p)",
-      "url": "https://gpuserver3.tier1streams.com/BET_WEST/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "BET Her (720p)",
-      "url": "https://gpuserver3.tier1streams.com/BET_HER/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "BET Jams (576p)",
-      "url": "https://gpuserver3.tier1streams.com/BET_JAMS/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "BET Soul (576p)",
-      "url": "https://gpuserver3.tier1streams.com/BET_SOUL/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Bravo (1080p)",
-      "url": "https://gpuserver3.tier1streams.com/BRAVO/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "C-SPAN (1080p)",
-      "url": "https://gpuserver3.tier1streams.com/C-SPAN_HD/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "C-SPAN 2 (1080p)",
-      "url": "https://gpuserver3.tier1streams.com/C-SPAN_2/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -3223,32 +3133,8 @@
       "category": "Otros"
     },
     {
-      "name": "Cleo TV (720p)",
-      "url": "https://gpuserver3.tier1streams.com/Cleo_TV/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "CMT (1080p)",
-      "url": "https://gpuserver3.tier1streams.com/CMT/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "CNBC (1080p)",
-      "url": "https://gpuserver3.tier1streams.com/CNBC/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "CNBC World (576p)",
       "url": "https://gpuserver3.tier1streams.com/CNBC_WORLD/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Comedy Central (1080p)",
-      "url": "https://gpuserver3.tier1streams.com/COMEDY_CENTRAL/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -3261,12 +3147,6 @@
     {
       "name": "Cozi TV (1080p)",
       "url": "https://gpuserver3.tier1streams.com/COZI_TV/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "CW (720p)",
-      "url": "https://gpuserver3.tier1streams.com/CW/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -3640,12 +3520,6 @@
       }
     },
     {
-      "name": "DreamWorks Channel Asia (1080p) [Geo-blocked]",
-      "url": "https://thinkkast.dpdns.org/thinkkast/cg_dreamworks_hd1/versiglia/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Best of Dr Phil",
       "url": "http://88.218.227.85:8080/60f760bbdf090700075d7bfe?mode=hls",
       "logo": "",
@@ -3654,6 +3528,12 @@
     {
       "name": "KNTV 11.1",
       "url": "http://50.229.129.155/0.ts",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Showtime Women (720p)",
+      "url": "http://40.160.24.55/SHOWTIME_WOMEN/index.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -6760,104 +6640,14 @@
         "category": "Otros"
       },
       {
-        "name": "A&E (1080p)",
-        "url": "https://gpuserver3.tier1streams.com/AE/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "ACC Network (720p)",
-        "url": "https://gpuserver3.tier1streams.com/ACC_NETWORK/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "AccuWeather Network (720p)",
         "url": "https://gpuserver3.tier1streams.com/AccuWeather/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "AMC+ (720p)",
-        "url": "https://gpuserver3.tier1streams.com/AMC_PLUS/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Antenna TV (576p)",
-        "url": "https://gpuserver3.tier1streams.com/ANTENNA_TV/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Aspire (1080p)",
-        "url": "https://gpuserver3.tier1streams.com/ASPIRE/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "AWE (1080p)",
         "url": "https://gpuserver3.tier1streams.com/AWE/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "AXS TV (1080p)",
-        "url": "https://gpuserver3.tier1streams.com/AXS_TV/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "BBC America East HD (720p)",
-        "url": "https://gpuserver3.tier1streams.com/BBC_AMERICA/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "BET (720p)",
-        "url": "https://gpuserver3.tier1streams.com/BET_EAST/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "BET West (720p)",
-        "url": "https://gpuserver3.tier1streams.com/BET_WEST/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "BET Her (720p)",
-        "url": "https://gpuserver3.tier1streams.com/BET_HER/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "BET Jams (576p)",
-        "url": "https://gpuserver3.tier1streams.com/BET_JAMS/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "BET Soul (576p)",
-        "url": "https://gpuserver3.tier1streams.com/BET_SOUL/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Bravo (1080p)",
-        "url": "https://gpuserver3.tier1streams.com/BRAVO/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "C-SPAN (1080p)",
-        "url": "https://gpuserver3.tier1streams.com/C-SPAN_HD/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "C-SPAN 2 (1080p)",
-        "url": "https://gpuserver3.tier1streams.com/C-SPAN_2/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -6880,32 +6670,8 @@
         "category": "Otros"
       },
       {
-        "name": "Cleo TV (720p)",
-        "url": "https://gpuserver3.tier1streams.com/Cleo_TV/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "CMT (1080p)",
-        "url": "https://gpuserver3.tier1streams.com/CMT/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "CNBC (1080p)",
-        "url": "https://gpuserver3.tier1streams.com/CNBC/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "CNBC World (576p)",
         "url": "https://gpuserver3.tier1streams.com/CNBC_WORLD/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Comedy Central (1080p)",
-        "url": "https://gpuserver3.tier1streams.com/COMEDY_CENTRAL/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -6918,12 +6684,6 @@
       {
         "name": "Cozi TV (1080p)",
         "url": "https://gpuserver3.tier1streams.com/COZI_TV/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "CW (720p)",
-        "url": "https://gpuserver3.tier1streams.com/CW/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -7297,12 +7057,6 @@
         }
       },
       {
-        "name": "DreamWorks Channel Asia (1080p) [Geo-blocked]",
-        "url": "https://thinkkast.dpdns.org/thinkkast/cg_dreamworks_hd1/versiglia/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "Best of Dr Phil",
         "url": "http://88.218.227.85:8080/60f760bbdf090700075d7bfe?mode=hls",
         "logo": "",
@@ -7311,6 +7065,12 @@
       {
         "name": "KNTV 11.1",
         "url": "http://50.229.129.155/0.ts",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Showtime Women (720p)",
+        "url": "http://40.160.24.55/SHOWTIME_WOMEN/index.m3u8",
         "logo": "",
         "category": "Otros"
       }

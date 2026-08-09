@@ -135,3 +135,4 @@ La_2,https://rtvelivestream.rtve.es/rtvesec/la2/la2_main.m3u8
 KinoKazka_(1080p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 La_8_Mediterraneo_(1080p),https://newscript.gestec-video.com/hls/8TVEVENTOS.m3u8
 Real_Madrid_TV_English,http://88.212.15.19/live/real_madrid_tv/index.m3u8
+La_1_UHD_(2160p),http://185.47.212.25:8080/tdp_HD/index.m3u8

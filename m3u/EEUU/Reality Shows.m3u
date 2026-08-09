@@ -13,3 +13,5 @@ http://40.160.24.55/SHOWTIME_2/index.m3u8
 http://40.160.24.55/SHOWTIME_NEXT/index.m3u8
 #EXTINF:-1 tvg-id="Showtime.us@West",Showtime West (720p)
 http://40.160.24.55/SHOWTIME_WEST/index.m3u8
+#EXTINF:-1 tvg-id="ShowtimeWomen.us@East",Showtime Women (720p)
+http://40.160.24.55/SHOWTIME_WOMEN/index.m3u8

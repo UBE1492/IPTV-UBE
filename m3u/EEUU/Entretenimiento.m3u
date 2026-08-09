@@ -337,12 +337,6 @@ https://fl1002.bozztv.com/gf-zarintv/index.m3u8
 #EXTVLCOPT:http-referrer=https://zoomnews.info/
 #EXTINF:-1 tvg-id="MuslimNetworkTV.us@SD",Muslim Network TV
 https://afghantv.app/hls2/muslimnetwork/index.m3u8
-#EXTINF:-1 tvg-id="AntennaTV.us@SD",Antenna TV (576p)
-https://gpuserver3.tier1streams.com/ANTENNA_TV/index.m3u8
-#EXTINF:-1 tvg-id="AXSTV.us@SD",AXS TV (1080p)
-https://gpuserver3.tier1streams.com/AXS_TV/index.m3u8
-#EXTINF:-1 tvg-id="CleoTV.us@SD",Cleo TV (720p)
-https://gpuserver3.tier1streams.com/Cleo_TV/index.m3u8
 #EXTINF:-1 tvg-id="ComedyTV.us@SD",Comedy TV (720p)
 https://gpuserver3.tier1streams.com/COMEDY_TV/index.m3u8
 #EXTINF:-1 tvg-id="CoziTV.us@SD",Cozi TV (1080p)

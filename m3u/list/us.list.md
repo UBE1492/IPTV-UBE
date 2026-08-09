@@ -516,97 +516,77 @@
 | 510 | Laff (576p) | tvsen7.aynascope.net | <http://tvsen7.aynascope.net/laff/index.m3u8> |
 | 511 | DreamWorks Channel Latin America (1080p) | live.nxplay.com.br | <https://live.nxplay.com.br/DREAMWORKS/index.m3u8> |
 | 512 | Muslim Network TV | afghantv.app | <https://afghantv.app/hls2/muslimnetwork/index.m3u8> |
-| 513 | A&E (1080p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/AE/index.m3u8> |
-| 514 | ACC Network (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/ACC_NETWORK/index.m3u8> |
-| 515 | AccuWeather Network (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/AccuWeather/index.m3u8> |
-| 516 | AMC+ (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/AMC_PLUS/index.m3u8> |
-| 517 | Antenna TV (576p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/ANTENNA_TV/index.m3u8> |
-| 518 | Aspire (1080p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/ASPIRE/index.m3u8> |
-| 519 | AWE (1080p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/AWE/index.m3u8> |
-| 520 | AXS TV (1080p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/AXS_TV/index.m3u8> |
-| 521 | BBC America East HD (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/BBC_AMERICA/index.m3u8> |
-| 522 | BET (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/BET_EAST/index.m3u8> |
-| 523 | BET West (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/BET_WEST/index.m3u8> |
-| 524 | BET Her (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/BET_HER/index.m3u8> |
-| 525 | BET Jams (576p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/BET_JAMS/index.m3u8> |
-| 526 | BET Soul (576p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/BET_SOUL/index.m3u8> |
-| 527 | Bravo (1080p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/BRAVO/index.m3u8> |
-| 528 | C-SPAN (1080p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/C-SPAN_HD/index.m3u8> |
-| 529 | C-SPAN 2 (1080p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/C-SPAN_2/index.m3u8> |
-| 530 | CBS Sports Network USA (1080p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/CBS_SPORTS_NETWORK/index.m3u8> |
-| 531 | Cheddar News (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/CHEDDAR_NEWS/index.m3u8> |
-| 532 | Cheddar Business (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/CHEDDAR_BUSINESS/index.m3u8> |
-| 533 | Cleo TV (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/Cleo_TV/index.m3u8> |
-| 534 | CMT (1080p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/CMT/index.m3u8> |
-| 535 | CNBC (1080p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/CNBC/index.m3u8> |
-| 536 | CNBC World (576p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/CNBC_WORLD/index.m3u8> |
-| 537 | Comedy Central (1080p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/COMEDY_CENTRAL/index.m3u8> |
-| 538 | Comedy TV (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/COMEDY_TV/index.m3u8> |
-| 539 | Cozi TV (1080p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/COZI_TV/index.m3u8> |
-| 540 | CW (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/CW/index.m3u8> |
-| 541 | Daystar TV (1080p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/DAYSTAR_TV/index.m3u8> |
-| 542 | Disney Channel (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/Disney_Channel_HD/index.m3u8> |
-| 543 | Disney Junior (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/Disney_JR/index.m3u8> |
-| 544 | E! (1080p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/E_ENTERTAINMENT_EAST/index.m3u8> |
-| 545 | E! West (1080p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/E_ENTERTAINMENT_WEST/index.m3u8> |
-| 546 | ESPNews (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/ESPN_NEWS/index.m3u8> |
-| 547 | ESPNU (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/ESPN_U/index.m3u8> |
-| 548 | FETV (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/FETV/index.m3u8> |
-| 549 | Flix (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/FLIX/index.m3u8> |
-| 550 | Fox News International (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/FOX/index.m3u8> |
-| 551 | Fox News Channel (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/FOX_NEWS/index.m3u8> |
-| 552 | Fox Soccer Plus (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/FOX_SOCCER_PLUS/index.m3u8> |
-| 553 | Freeform (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/FREEFORM/index.m3u8> |
-| 554 | Fuse (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/FUSE/index.m3u8> |
-| 555 | FX (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/FX/index.m3u8> |
-| 556 | FXM (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/FXM/index.m3u8> |
-| 557 | FXX (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/FXX/index.m3u8> |
-| 558 | Game Show Network (1080p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/GSN/index.m3u8> |
-| 559 | Golf Channel (1080p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/GOLF_CHANNEL/index.m3u8> |
-| 560 | Great American Faith & Living (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/GAC_LIVING/index.m3u8> |
-| 561 | Great American Family (1080p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/GREAT_AMERICAN_COUNTRY/index.m3u8> |
-| 562 | Great Entertainment Television (1080p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/GetTV/index.m3u8> |
-| 563 | Grit (1080p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/GRIT/index.m3u8> |
-| 564 | Marquee Sports Network (1080p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/MARQUEE_SPORTS_NETWORK/index.m3u8> |
-| 565 | MLB Network (1080p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/MLB_Network/index.m3u8> |
-| 566 | MSG (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/MSG/index.m3u8> |
-| 567 | MSG Plus (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/MSG_PLUS/index.m3u8> |
-| 568 | Racer Network (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/MAV_TV/index.m3u8> |
-| 569 | The Cowboy Channel (1080p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/THE_COWBOY_CHANNEL/index.m3u8> |
-| 570 | Discovery Turbo (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/MOTORTREND/index.m3u8> |
-| 571 | NBA TV (1080p) | cdn1.ayitistream.com | <https://cdn1.ayitistream.com/NBATV/index.m3u8> |
-| 572 | MGM+ (1080p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/EPIX/index.m3u8> |
-| 573 | MGM+ Drive-In (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/EPIX_DRIVE-IN/index.m3u8> |
-| 574 | History 2 Latin America Brazil (720p) | IPv4 直链 | <http://138.255.2.6:8084/H2/index.m3u8> |
-| 575 | Lifetime Latin America Brazil (720p) | IPv4 直链 | <http://138.255.2.6:8084/LIFETIME/index.m3u8> |
-| 576 | AMC Latin America Brazil (720p) | IPv4 直链 | <http://170.83.49.66:8083/AMCHD/index.m3u8> |
-| 577 | NBC (720p) | IPv4 直链 | <http://170.254.17.2:80/NBC/index.m3u8> |
-| 578 | Daystar TV (720p) | IPv4 直链 | <http://170.254.17.2:80/DAYSTAR/index.m3u8> |
-| 579 | Showtime Extreme (1080p) | IPv4 直链 | <http://40.160.24.55/SHOWTIME_EXTREME/index.m3u8> |
-| 580 | Showtime 2 (1080p) | IPv4 直链 | <http://40.160.24.55/SHOWTIME_2/index.m3u8> |
-| 581 | Showtime Next (720p) | IPv4 直链 | <http://40.160.24.55/SHOWTIME_NEXT/index.m3u8> |
-| 582 | Starz West (720p) | IPv4 直链 | <http://40.160.24.55/STARZ_WEST/index.m3u8> |
-| 583 | Starz Edge (1080p) | IPv4 直链 | <http://40.160.24.55/STARZ_EDGE/index.m3u8> |
-| 584 | Starz Comedy (720p) | IPv4 直链 | <http://40.160.24.55/STARZ_COMEDY/index.m3u8> |
-| 585 | Starz Encore (1080p) | IPv4 直链 | <http://40.160.24.55/STARZ_ENCORE/index.m3u8> |
-| 586 | Showtime West (720p) | IPv4 直链 | <http://40.160.24.55/SHOWTIME_WEST/index.m3u8> |
-| 587 | Star Channel Latin America (1080p) | IPv4 直链 | <http://15.204.246.24:8080/STARCHANNELHD/index.m3u8> |
-| 588 | History Latin America (1080p) | IPv4 直链 | <http://15.204.246.24:8080/HistoryHD/index.m3u8> |
-| 589 | FX Latin America (1080p) | IPv4 直链 | <http://15.204.246.24:8080/FXHD/index.m3u8> |
-| 590 | AXN Latin America (1080p) | IPv4 直链 | <http://15.204.246.24:8080/AXNHD/index.m3u8> |
-| 591 | MTV Latin America (1080p) | IPv4 直链 | <http://15.204.246.24:8080/MTVHD/index.m3u8> |
-| 592 | Comedy Central Latin America (1080p) | IPv4 直链 | <http://15.204.246.24:8080/ComedyCentralHD/index.m3u8> |
-| 593 | KidOO (1080p) | IPv4 直链 | <http://15.204.246.24:8080/KidooHD/index.m3u8> |
-| 594 | TNT Novelas (1080p) | IPv4 直链 | <http://15.204.246.24:8080/TNTNovelasHD/index.m3u8> |
-| 595 | National Geographic Latin America (1080p) | IPv4 直链 | <http://15.204.246.24:8080/NatGeoHD/index.m3u8> |
-| 596 | Hola! TV Latin America (1080p) | IPv4 直链 | <http://15.204.246.24:8080/HOLATVHD/index.m3u8> |
-| 597 | History 2 Latin America (1080p) | IPv4 直链 | <http://181.119.66.28:8081/HISTORY-2/index.m3u8> |
-| 598 | Lifetime Latin America (1080p) | IPv4 直链 | <http://181.119.66.28:8081/Lifetime-HD/index.m3u8> |
-| 599 | FX Movie Channel (720p) | IPv4 直链 | <http://40.160.24.52/FXM/index.m3u8> |
-| 600 | Logo (720p) | IPv4 直链 | <http://40.160.24.53/LOGO_TV/index.m3u8> |
-| 601 | USA Network (720p) | ftv.itscwd273.workers.dev | <https://ftv.itscwd273.workers.dev/?id=USANETEAST> |
-| 602 | DreamWorks Channel Asia (1080p) [Geo-blocked] | thinkkast.dpdns.org | <https://thinkkast.dpdns.org/thinkkast/cg_dreamworks_hd1/versiglia/index.m3u8> |
-| 603 | Best of Dr Phil | IPv4 直链 | <http://88.218.227.85:8080/60f760bbdf090700075d7bfe?mode=hls> |
-| 604 | KNTV 11.1 | IPv4 直链 | <http://50.229.129.155/0.ts> |
+| 513 | AccuWeather Network (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/AccuWeather/index.m3u8> |
+| 514 | AWE (1080p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/AWE/index.m3u8> |
+| 515 | CBS Sports Network USA (1080p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/CBS_SPORTS_NETWORK/index.m3u8> |
+| 516 | Cheddar News (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/CHEDDAR_NEWS/index.m3u8> |
+| 517 | Cheddar Business (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/CHEDDAR_BUSINESS/index.m3u8> |
+| 518 | CNBC World (576p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/CNBC_WORLD/index.m3u8> |
+| 519 | Comedy TV (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/COMEDY_TV/index.m3u8> |
+| 520 | Cozi TV (1080p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/COZI_TV/index.m3u8> |
+| 521 | Daystar TV (1080p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/DAYSTAR_TV/index.m3u8> |
+| 522 | Disney Channel (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/Disney_Channel_HD/index.m3u8> |
+| 523 | Disney Junior (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/Disney_JR/index.m3u8> |
+| 524 | E! (1080p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/E_ENTERTAINMENT_EAST/index.m3u8> |
+| 525 | E! West (1080p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/E_ENTERTAINMENT_WEST/index.m3u8> |
+| 526 | ESPNews (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/ESPN_NEWS/index.m3u8> |
+| 527 | ESPNU (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/ESPN_U/index.m3u8> |
+| 528 | FETV (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/FETV/index.m3u8> |
+| 529 | Flix (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/FLIX/index.m3u8> |
+| 530 | Fox News International (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/FOX/index.m3u8> |
+| 531 | Fox News Channel (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/FOX_NEWS/index.m3u8> |
+| 532 | Fox Soccer Plus (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/FOX_SOCCER_PLUS/index.m3u8> |
+| 533 | Freeform (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/FREEFORM/index.m3u8> |
+| 534 | Fuse (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/FUSE/index.m3u8> |
+| 535 | FX (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/FX/index.m3u8> |
+| 536 | FXM (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/FXM/index.m3u8> |
+| 537 | FXX (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/FXX/index.m3u8> |
+| 538 | Game Show Network (1080p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/GSN/index.m3u8> |
+| 539 | Golf Channel (1080p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/GOLF_CHANNEL/index.m3u8> |
+| 540 | Great American Faith & Living (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/GAC_LIVING/index.m3u8> |
+| 541 | Great American Family (1080p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/GREAT_AMERICAN_COUNTRY/index.m3u8> |
+| 542 | Great Entertainment Television (1080p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/GetTV/index.m3u8> |
+| 543 | Grit (1080p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/GRIT/index.m3u8> |
+| 544 | Marquee Sports Network (1080p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/MARQUEE_SPORTS_NETWORK/index.m3u8> |
+| 545 | MLB Network (1080p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/MLB_Network/index.m3u8> |
+| 546 | MSG (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/MSG/index.m3u8> |
+| 547 | MSG Plus (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/MSG_PLUS/index.m3u8> |
+| 548 | Racer Network (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/MAV_TV/index.m3u8> |
+| 549 | The Cowboy Channel (1080p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/THE_COWBOY_CHANNEL/index.m3u8> |
+| 550 | Discovery Turbo (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/MOTORTREND/index.m3u8> |
+| 551 | NBA TV (1080p) | cdn1.ayitistream.com | <https://cdn1.ayitistream.com/NBATV/index.m3u8> |
+| 552 | MGM+ (1080p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/EPIX/index.m3u8> |
+| 553 | MGM+ Drive-In (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/EPIX_DRIVE-IN/index.m3u8> |
+| 554 | History 2 Latin America Brazil (720p) | IPv4 直链 | <http://138.255.2.6:8084/H2/index.m3u8> |
+| 555 | Lifetime Latin America Brazil (720p) | IPv4 直链 | <http://138.255.2.6:8084/LIFETIME/index.m3u8> |
+| 556 | AMC Latin America Brazil (720p) | IPv4 直链 | <http://170.83.49.66:8083/AMCHD/index.m3u8> |
+| 557 | NBC (720p) | IPv4 直链 | <http://170.254.17.2:80/NBC/index.m3u8> |
+| 558 | Daystar TV (720p) | IPv4 直链 | <http://170.254.17.2:80/DAYSTAR/index.m3u8> |
+| 559 | Showtime Extreme (1080p) | IPv4 直链 | <http://40.160.24.55/SHOWTIME_EXTREME/index.m3u8> |
+| 560 | Showtime 2 (1080p) | IPv4 直链 | <http://40.160.24.55/SHOWTIME_2/index.m3u8> |
+| 561 | Showtime Next (720p) | IPv4 直链 | <http://40.160.24.55/SHOWTIME_NEXT/index.m3u8> |
+| 562 | Starz West (720p) | IPv4 直链 | <http://40.160.24.55/STARZ_WEST/index.m3u8> |
+| 563 | Starz Edge (1080p) | IPv4 直链 | <http://40.160.24.55/STARZ_EDGE/index.m3u8> |
+| 564 | Starz Comedy (720p) | IPv4 直链 | <http://40.160.24.55/STARZ_COMEDY/index.m3u8> |
+| 565 | Starz Encore (1080p) | IPv4 直链 | <http://40.160.24.55/STARZ_ENCORE/index.m3u8> |
+| 566 | Showtime West (720p) | IPv4 直链 | <http://40.160.24.55/SHOWTIME_WEST/index.m3u8> |
+| 567 | Star Channel Latin America (1080p) | IPv4 直链 | <http://15.204.246.24:8080/STARCHANNELHD/index.m3u8> |
+| 568 | History Latin America (1080p) | IPv4 直链 | <http://15.204.246.24:8080/HistoryHD/index.m3u8> |
+| 569 | FX Latin America (1080p) | IPv4 直链 | <http://15.204.246.24:8080/FXHD/index.m3u8> |
+| 570 | AXN Latin America (1080p) | IPv4 直链 | <http://15.204.246.24:8080/AXNHD/index.m3u8> |
+| 571 | MTV Latin America (1080p) | IPv4 直链 | <http://15.204.246.24:8080/MTVHD/index.m3u8> |
+| 572 | Comedy Central Latin America (1080p) | IPv4 直链 | <http://15.204.246.24:8080/ComedyCentralHD/index.m3u8> |
+| 573 | KidOO (1080p) | IPv4 直链 | <http://15.204.246.24:8080/KidooHD/index.m3u8> |
+| 574 | TNT Novelas (1080p) | IPv4 直链 | <http://15.204.246.24:8080/TNTNovelasHD/index.m3u8> |
+| 575 | National Geographic Latin America (1080p) | IPv4 直链 | <http://15.204.246.24:8080/NatGeoHD/index.m3u8> |
+| 576 | Hola! TV Latin America (1080p) | IPv4 直链 | <http://15.204.246.24:8080/HOLATVHD/index.m3u8> |
+| 577 | History 2 Latin America (1080p) | IPv4 直链 | <http://181.119.66.28:8081/HISTORY-2/index.m3u8> |
+| 578 | Lifetime Latin America (1080p) | IPv4 直链 | <http://181.119.66.28:8081/Lifetime-HD/index.m3u8> |
+| 579 | FX Movie Channel (720p) | IPv4 直链 | <http://40.160.24.52/FXM/index.m3u8> |
+| 580 | Logo (720p) | IPv4 直链 | <http://40.160.24.53/LOGO_TV/index.m3u8> |
+| 581 | USA Network (720p) | ftv.itscwd273.workers.dev | <https://ftv.itscwd273.workers.dev/?id=USANETEAST> |
+| 582 | Best of Dr Phil | IPv4 直链 | <http://88.218.227.85:8080/60f760bbdf090700075d7bfe?mode=hls> |
+| 583 | KNTV 11.1 | IPv4 直链 | <http://50.229.129.155/0.ts> |
+| 584 | Showtime Women (720p) | IPv4 直链 | <http://40.160.24.55/SHOWTIME_WOMEN/index.m3u8> |
 
-Updated at **Sat Aug 08 2026 18:41:10 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Aug 09 2026 01:57:45 GMT+0000 (Coordinated Universal Time)**

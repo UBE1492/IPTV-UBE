@@ -1039,62 +1039,22 @@ http://tvsen7.aynascope.net/laff/index.m3u8
 https://live.nxplay.com.br/DREAMWORKS/index.m3u8
 #EXTINF:-1 tvg-id="MuslimNetworkTV.us@SD",Muslim Network TV
 https://afghantv.app/hls2/muslimnetwork/index.m3u8
-#EXTINF:-1 tvg-id="AE.us@East",A&E (1080p)
-https://gpuserver3.tier1streams.com/AE/index.m3u8
-#EXTINF:-1 tvg-id="ACCNetwork.us@SD",ACC Network (720p)
-https://gpuserver3.tier1streams.com/ACC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="AccuWeatherNetwork.us@SD",AccuWeather Network (720p)
 https://gpuserver3.tier1streams.com/AccuWeather/index.m3u8
-#EXTINF:-1 tvg-id="AMCPlus.us@SD",AMC+ (720p)
-https://gpuserver3.tier1streams.com/AMC_PLUS/index.m3u8
-#EXTINF:-1 tvg-id="AntennaTV.us@SD",Antenna TV (576p)
-https://gpuserver3.tier1streams.com/ANTENNA_TV/index.m3u8
-#EXTINF:-1 tvg-id="Aspire.us@SD",Aspire (1080p)
-https://gpuserver3.tier1streams.com/ASPIRE/index.m3u8
 #EXTINF:-1 tvg-id="AWE.us@SD",AWE (1080p)
 https://gpuserver3.tier1streams.com/AWE/index.m3u8
-#EXTINF:-1 tvg-id="AXSTV.us@SD",AXS TV (1080p)
-https://gpuserver3.tier1streams.com/AXS_TV/index.m3u8
-#EXTINF:-1 tvg-id="BBCAmerica.us@EastHD",BBC America East HD (720p)
-https://gpuserver3.tier1streams.com/BBC_AMERICA/index.m3u8
-#EXTINF:-1 tvg-id="BET.us@East",BET (720p)
-https://gpuserver3.tier1streams.com/BET_EAST/index.m3u8
-#EXTINF:-1 tvg-id="BET.us@West",BET West (720p)
-https://gpuserver3.tier1streams.com/BET_WEST/index.m3u8
-#EXTINF:-1 tvg-id="BETHer.us@East",BET Her (720p)
-https://gpuserver3.tier1streams.com/BET_HER/index.m3u8
-#EXTINF:-1 tvg-id="BETJams.us@SD",BET Jams (576p)
-https://gpuserver3.tier1streams.com/BET_JAMS/index.m3u8
-#EXTINF:-1 tvg-id="BETSoul.us@SD",BET Soul (576p)
-https://gpuserver3.tier1streams.com/BET_SOUL/index.m3u8
-#EXTINF:-1 tvg-id="Bravo.us@East",Bravo (1080p)
-https://gpuserver3.tier1streams.com/BRAVO/index.m3u8
-#EXTINF:-1 tvg-id="CSPAN.us@SD",C-SPAN (1080p)
-https://gpuserver3.tier1streams.com/C-SPAN_HD/index.m3u8
-#EXTINF:-1 tvg-id="CSPAN2.us@SD",C-SPAN 2 (1080p)
-https://gpuserver3.tier1streams.com/C-SPAN_2/index.m3u8
 #EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us@SD",CBS Sports Network USA (1080p)
 https://gpuserver3.tier1streams.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="CheddarNews.us@SD",Cheddar News (720p)
 https://gpuserver3.tier1streams.com/CHEDDAR_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="CheddarBusiness.us@SD",Cheddar Business (720p)
 https://gpuserver3.tier1streams.com/CHEDDAR_BUSINESS/index.m3u8
-#EXTINF:-1 tvg-id="CleoTV.us@SD",Cleo TV (720p)
-https://gpuserver3.tier1streams.com/Cleo_TV/index.m3u8
-#EXTINF:-1 tvg-id="CMT.us@East",CMT (1080p)
-https://gpuserver3.tier1streams.com/CMT/index.m3u8
-#EXTINF:-1 tvg-id="CNBC.us@SD",CNBC (1080p)
-https://gpuserver3.tier1streams.com/CNBC/index.m3u8
 #EXTINF:-1 tvg-id="CNBCWorld.us@SD",CNBC World (576p)
 https://gpuserver3.tier1streams.com/CNBC_WORLD/index.m3u8
-#EXTINF:-1 tvg-id="ComedyCentral.us@East",Comedy Central (1080p)
-https://gpuserver3.tier1streams.com/COMEDY_CENTRAL/index.m3u8
 #EXTINF:-1 tvg-id="ComedyTV.us@SD",Comedy TV (720p)
 https://gpuserver3.tier1streams.com/COMEDY_TV/index.m3u8
 #EXTINF:-1 tvg-id="CoziTV.us@SD",Cozi TV (1080p)
 https://gpuserver3.tier1streams.com/COZI_TV/index.m3u8
-#EXTINF:-1 tvg-id="CW.us@East",CW (720p)
-https://gpuserver3.tier1streams.com/CW/index.m3u8
 #EXTINF:-1 tvg-id="DaystarTV.us@SD",Daystar TV (1080p)
 https://gpuserver3.tier1streams.com/DAYSTAR_TV/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.us@East",Disney Channel (720p)
@@ -1219,9 +1179,9 @@ http://40.160.24.53/LOGO_TV/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="USANetwork.us@East",USA Network (720p)
 https://ftv.itscwd273.workers.dev/?id=USANETEAST
-#EXTINF:-1 tvg-id="DreamWorksChannelAsia.us@SD",DreamWorks Channel Asia (1080p) [Geo-blocked]
-https://thinkkast.dpdns.org/thinkkast/cg_dreamworks_hd1/versiglia/index.m3u8
 #EXTINF:-1 tvg-id="BestofDrPhil.us@SD",Best of Dr Phil
 http://88.218.227.85:8080/60f760bbdf090700075d7bfe?mode=hls
 #EXTINF:-1 tvg-id="KNTV111.us@HD",KNTV 11.1
 http://50.229.129.155/0.ts
+#EXTINF:-1 tvg-id="ShowtimeWomen.us@East",Showtime Women (720p)
+http://40.160.24.55/SHOWTIME_WOMEN/index.m3u8
