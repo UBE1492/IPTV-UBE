@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1786301123607,
+  "updated_at": 1786327337742,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -2536,12 +2536,6 @@
       "category": "Otros"
     },
     {
-      "name": "Univision West (1080p)",
-      "url": "http://8an4dgnb.megatv.fun/iptv/8XFKA8883W9M5K/1099/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Up TV (1080p)",
       "url": "http://40.160.24.55/Up_TV/index.m3u8",
       "logo": "",
@@ -2556,12 +2550,6 @@
     {
       "name": "USA Network Latin America (1080p)",
       "url": "http://138.121.15.230:9002/USA/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "USA Network Latin America Brazil (720p)",
-      "url": "http://177.52.24.163/USA-HD/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -3205,12 +3193,6 @@
       "category": "Otros"
     },
     {
-      "name": "Fox News International (720p)",
-      "url": "https://gpuserver3.tier1streams.com/FOX/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Fox News Channel (720p)",
       "url": "https://gpuserver3.tier1streams.com/FOX_NEWS/index.m3u8",
       "logo": "",
@@ -3237,12 +3219,6 @@
     {
       "name": "FX (720p)",
       "url": "https://gpuserver3.tier1streams.com/FX/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "FXM (720p)",
-      "url": "https://gpuserver3.tier1streams.com/FXM/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -3499,12 +3475,6 @@
       "category": "Otros"
     },
     {
-      "name": "FX Movie Channel (720p)",
-      "url": "http://40.160.24.52/FXM/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Logo (720p)",
       "url": "http://40.160.24.53/LOGO_TV/index.m3u8",
       "logo": "",
@@ -3512,18 +3482,12 @@
     },
     {
       "name": "Golf Channel",
-      "url": "#EXTINF:-1 tvg-id=\"USANetwork.us@East\",USA Network (720p)",
+      "url": "#EXTINF:-1 tvg-id=\"BestofDrPhil.us@SD\",Best of Dr Phil",
       "logo": "",
       "category": "Otros",
       "options": {
         "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       }
-    },
-    {
-      "name": "Best of Dr Phil",
-      "url": "http://88.218.227.85:8080/60f760bbdf090700075d7bfe?mode=hls",
-      "logo": "",
-      "category": "Otros"
     },
     {
       "name": "KNTV 11.1",
@@ -3534,6 +3498,48 @@
     {
       "name": "Showtime Women (720p)",
       "url": "http://40.160.24.55/SHOWTIME_WOMEN/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Fox Sports 1 (720p)",
+      "url": "http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Showtime (720p)",
+      "url": "https://gpuserver5.tier1streams.com/SHOWTIME/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Showtime 2 (720p)",
+      "url": "https://gpuserver5.tier1streams.com/SHOWTIME_2/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Showtime Extreme (720p)",
+      "url": "https://gpuserver5.tier1streams.com/SHOWTIME_EXTREME/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "ABC (1080p)",
+      "url": "http://190.11.225.124:5000/live/abc_hd/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "CBS (720p)",
+      "url": "http://190.11.225.124:5000/live/cbs_hd/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "NBC LX Home (720p)",
+      "url": "https://dn7vkzd5khpp3.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jnz0hbnuaajo2/b3d9d2ee-94c1-4de2-bb46-b1ed009f4f30/4.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -6073,12 +6079,6 @@
         "category": "Otros"
       },
       {
-        "name": "Univision West (1080p)",
-        "url": "http://8an4dgnb.megatv.fun/iptv/8XFKA8883W9M5K/1099/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "Up TV (1080p)",
         "url": "http://40.160.24.55/Up_TV/index.m3u8",
         "logo": "",
@@ -6093,12 +6093,6 @@
       {
         "name": "USA Network Latin America (1080p)",
         "url": "http://138.121.15.230:9002/USA/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "USA Network Latin America Brazil (720p)",
-        "url": "http://177.52.24.163/USA-HD/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -6742,12 +6736,6 @@
         "category": "Otros"
       },
       {
-        "name": "Fox News International (720p)",
-        "url": "https://gpuserver3.tier1streams.com/FOX/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "Fox News Channel (720p)",
         "url": "https://gpuserver3.tier1streams.com/FOX_NEWS/index.m3u8",
         "logo": "",
@@ -6774,12 +6762,6 @@
       {
         "name": "FX (720p)",
         "url": "https://gpuserver3.tier1streams.com/FX/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "FXM (720p)",
-        "url": "https://gpuserver3.tier1streams.com/FXM/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -7036,12 +7018,6 @@
         "category": "Otros"
       },
       {
-        "name": "FX Movie Channel (720p)",
-        "url": "http://40.160.24.52/FXM/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "Logo (720p)",
         "url": "http://40.160.24.53/LOGO_TV/index.m3u8",
         "logo": "",
@@ -7049,18 +7025,12 @@
       },
       {
         "name": "Golf Channel",
-        "url": "#EXTINF:-1 tvg-id=\"USANetwork.us@East\",USA Network (720p)",
+        "url": "#EXTINF:-1 tvg-id=\"BestofDrPhil.us@SD\",Best of Dr Phil",
         "logo": "",
         "category": "Otros",
         "options": {
           "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
         }
-      },
-      {
-        "name": "Best of Dr Phil",
-        "url": "http://88.218.227.85:8080/60f760bbdf090700075d7bfe?mode=hls",
-        "logo": "",
-        "category": "Otros"
       },
       {
         "name": "KNTV 11.1",
@@ -7071,6 +7041,48 @@
       {
         "name": "Showtime Women (720p)",
         "url": "http://40.160.24.55/SHOWTIME_WOMEN/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Fox Sports 1 (720p)",
+        "url": "http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Showtime (720p)",
+        "url": "https://gpuserver5.tier1streams.com/SHOWTIME/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Showtime 2 (720p)",
+        "url": "https://gpuserver5.tier1streams.com/SHOWTIME_2/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Showtime Extreme (720p)",
+        "url": "https://gpuserver5.tier1streams.com/SHOWTIME_EXTREME/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "ABC (1080p)",
+        "url": "http://190.11.225.124:5000/live/abc_hd/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "CBS (720p)",
+        "url": "http://190.11.225.124:5000/live/cbs_hd/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "NBC LX Home (720p)",
+        "url": "https://dn7vkzd5khpp3.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jnz0hbnuaajo2/b3d9d2ee-94c1-4de2-bb46-b1ed009f4f30/4.m3u8",
         "logo": "",
         "category": "Otros"
       }
