@@ -590,4 +590,4 @@
 | 584 | CBS (720p) | IPv4 直链 | <http://190.11.225.124:5000/live/cbs_hd/playlist.m3u8> |
 | 585 | NBC LX Home (720p) | dn7vkzd5khpp3.cloudfront.net | <https://dn7vkzd5khpp3.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jnz0hbnuaajo2/b3d9d2ee-94c1-4de2-bb46-b1ed009f4f30/4.m3u8> |
 
-Updated at **Mon Aug 10 2026 13:15:09 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Aug 10 2026 19:00:58 GMT+0000 (Coordinated Universal Time)**
