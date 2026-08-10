@@ -124,4 +124,4 @@
 | 118 | Real Madrid TV English | IPv4 直链 | <http://88.212.15.19/live/real_madrid_tv/index.m3u8> |
 | 119 | La 1 UHD (2160p) | IPv4 直链 | <http://185.47.212.25:8080/tdp_HD/index.m3u8> |
 
-Updated at **Mon Aug 10 2026 02:02:17 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Aug 10 2026 07:46:42 GMT+0000 (Coordinated Universal Time)**
