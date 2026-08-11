@@ -13,8 +13,6 @@ https://tvdatta.com:3578/live/antenaunolive.m3u8
 https://asomatv.cloud-ip.cc/livestream/stream.m3u8
 #EXTINF:-1 tvg-id="BacanTeVeo.ec@SD",Bacán Te Veo (360p)
 https://stmv6.voxtvhd.com.br/vacantveo2/vacantveo2/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalSur.ec@SD",Canal Sur (720p)
-https://avm.ecuamedia.net/canalsur/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Ecuavisa.ec@Quito",Ecuavisa (1080p)
 http://45.171.108.253:8888/ECUAVISA/index.m3u8
 #EXTINF:-1 tvg-id="Ecuavisa.ec@Guayaquil",Ecuavisa Guayaquil (1080p) [Not 24/7]
@@ -29,17 +27,7 @@ https://stream.esradioecuador.com/hls/stream.m3u8
 https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8
 #EXTINF:-1 tvg-id="IeanJesusEcuador.ec@SD",IeanJesus Ecuador (720p)
 https://cloud37.ecuatel.com/iglesia2020/Stream1/playlist.m3u8
-#EXTINF:-1 tvg-id="KasterweyMedia.ec@HD",Kasterwey Media (1080p)
-https://live.fansplay.tv/livestreams/45.b0JPENQx19PG2pxg.m3u8
 #EXTINF:-1 tvg-id="MajestadTelevision.ec@SD",Majestad Televisión (720p)
 https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8
 #EXTINF:-1 tvg-id="WuanPlus.ec@SD",Wuan+
 https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8
-#EXTINF:-1 tvg-id="TCTelevision.ec@SD",TC Television
-http://177.234.218.66:8084/play/a089/index.m3u8
-#EXTINF:-1 tvg-id="Telecosta.ec@SD",Telecosta
-https://telecosta.botlife.app/memfs/6ba9dc9a-aff4-4e4e-9466-a9f0c714b60b.m3u8
-#EXTINF:-1 tvg-id="Teleamazonas.ec@Quito",Teleamazonas (720p)
-http://157.100.248.242:8080/TeleamazonasHD/index.m3u8
-#EXTINF:-1 tvg-id="RTS.ec@SD",RTS (720p)
-http://157.100.248.242:8080/RTSHD/index.m3u8

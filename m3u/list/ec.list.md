@@ -12,61 +12,50 @@
 | 6 | Asomavisión (614p) | asomatv.cloud-ip.cc | <https://asomatv.cloud-ip.cc/livestream/stream.m3u8> |
 | 7 | Austral TV (1080p) | stmv3.voxtvhd.com.br | <https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8> |
 | 8 | Bacán Te Veo (360p) | stmv6.voxtvhd.com.br | <https://stmv6.voxtvhd.com.br/vacantveo2/vacantveo2/playlist.m3u8> |
-| 9 | Canal Sur (720p) | avm.ecuamedia.net | <https://avm.ecuamedia.net/canalsur/live/playlist.m3u8> |
-| 10 | Capricho TV (720p) [Not 24/7] | video.compuwebecuador.com:3783 | <https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8> |
-| 11 | Ciracu TV (720p) [Not 24/7] | cloud37.ecuatel.com | <https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8> |
-| 12 | Clic TV (360p) | stmv1.voxhdnet.com | <https://stmv1.voxhdnet.com/yorka7322/yorka7322/playlist.m3u8> |
-| 13 | Colorados Visión TV (1080p) | IPv4 直链 | <http://177.234.247.66:9975/ColoradosTV/index.m3u8> |
-| 14 | Curiquingue TV (720p) | video2.lhdserver.es | <https://video2.lhdserver.es/pjtv/live.m3u8> |
-| 15 | Duende Tv (720p) [Not 24/7] | live.fansplay.tv | <https://live.fansplay.tv/livestreams/21.GdPGZIRcwzZ9vgE5.m3u8> |
-| 16 | Durán TV (480p) [Not 24/7] | cloudvideo.servers10.com:8081 | <https://cloudvideo.servers10.com:8081/8074/index.m3u8> |
-| 17 | Ecotel TV (720p) | ecoteltv.streamseguro.com:5443 | <https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8> |
-| 18 | Ecuador TV (1080p) | IPv4 直链 | <http://45.224.97.181:9999/EcuadorTV/index.m3u8> |
-| 19 | Ecuador TV (720p) | samson.streamerr.co:8081 | <https://samson.streamerr.co:8081/shogun/index.m3u8> |
-| 20 | Ecuador TV | video-eu1.streamerr.co | <https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8> |
-| 21 | EcuaMundo Radio TV (720p) [Not 24/7] | pacific.direcnode.com:3353 | <https://pacific.direcnode.com:3353/live/ecuamundotvlive.m3u8> |
-| 22 | Ecuavisa (1080p) | IPv4 直链 | <http://45.171.108.253:8888/ECUAVISA/index.m3u8> |
-| 23 | Ecuavisa Guayaquil (1080p) [Not 24/7] | dai.google.com | <https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8> |
-| 24 | Ecuavisa Quito (1080p) [Not 24/7] | redirector.dps.live | <https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8> |
-| 25 | Educa TV (720p) [Not 24/7] | avm.ecuamedia.net | <https://avm.ecuamedia.net/educatv/live/playlist.m3u8> |
-| 26 | El Sol Network TV (1080p) | tv.wracanal10.com:3025 | <https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8> |
-| 27 | FM Mundo (1080p) | video2.makrodigital.com | <https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8> |
-| 28 | Gamavision (1080p) | IPv4 直链 | <http://45.224.97.181:9999/Gamavision/index.m3u8> |
-| 29 | Gamavisión (720p) [Not 24/7] | stream.esradioecuador.com | <https://stream.esradioecuador.com/hls/stream.m3u8> |
-| 30 | Gaviota TV | gaviotatv.streamseguro.com:3195 | <https://gaviotatv.streamseguro.com:3195/live/gaviotatvlive.m3u8> |
-| 31 | GM7 Digital [Not 24/7] | s2.tvdatta.com:3858 | <https://s2.tvdatta.com:3858/live/gm7digitallive.m3u8> |
-| 32 | Hechos Ecuador (1080p) [Not 24/7] | online.hechosecuador.com:5443 | <https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8> |
-| 33 | IeanJesus Ecuador (720p) | cloud37.ecuatel.com | <https://cloud37.ecuatel.com/iglesia2020/Stream1/playlist.m3u8> |
-| 34 | Imperio TV Canal 6 (720p) | live21.bozztv.com | <https://live21.bozztv.com/akamaissh101/ssh101/imperiotvcanal6/playlist.m3u8> |
-| 35 | Infinita TV (1080p) | s2.tvdatta.com:3753 | <https://s2.tvdatta.com:3753/hybrid/play.m3u8> |
-| 36 | Inti TV (1080p) [Not 24/7] | 5e2f36bc1c433.streamlock.net | <https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8> |
-| 37 | Kasterwey Media (1080p) | live.fansplay.tv | <https://live.fansplay.tv/livestreams/45.b0JPENQx19PG2pxg.m3u8> |
-| 38 | KCHTV (1080p) | iptv.kchtv.video.makrodigital.com:8081 | <http://iptv.kchtv.video.makrodigital.com:8081/kchtv/iptv/playlist.m3u8> |
-| 39 | La Nueva Radio TV 97.7 (1080p) | sv72.ecuaradiotv.net | <https://sv72.ecuaradiotv.net/lanuevatv/live/playlist.m3u8> |
-| 40 | La Perla Radio TV (720p) [Not 24/7] | eu1.servers10.com:8081 | <https://eu1.servers10.com:8081/8068/index.m3u8> |
-| 41 | Latacunga TV (360p) | stmv1.voxtvhd.com.br | <https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8> |
-| 42 | Loreto TV (720p) | loretotv.moxapps.shop | <https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8> |
-| 43 | Mágica Tv (1080p) | magicatv.4pu.com | <https://magicatv.4pu.com/hls/stream.m3u8> |
-| 44 | Majestad Televisión (720p) | videoserver.tmcreativos.com:19360 | <https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8> |
-| 45 | TV Cisne (1080p) | video2.lhdserver.es | <https://video2.lhdserver.es/tvcisne/live.m3u8> |
-| 46 | TV Color Canal 36 (720p) | video.compuwebecuador.com:3067 | <https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8> |
-| 47 | TV Legislativa (1080p) [Not 24/7] | streamingav.asambleanacional.gob.ec | <https://streamingav.asambleanacional.gob.ec/hls/stream.m3u8> |
-| 48 | TV Universal Ecuador (720p) | cdn.mycloudstream.io | <https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8> |
-| 49 | TVC (1080p) | IPv4 直链 | <http://45.224.97.181:9999/TVC/index.m3u8> |
-| 50 | TVC (720p) | d2qsan2ut81n2k.cloudfront.net | <https://d2qsan2ut81n2k.cloudfront.net/live/19e86940-42cc-485e-80f4-89ae27c69f1b/ts:abr.m3u8> |
-| 51 | TVC (480i) | d2m7i0pvomh4vg.cloudfront.net | <https://d2m7i0pvomh4vg.cloudfront.net/ts:abr.m3u8> |
-| 52 | UEBI TV Online (720p) [Not 24/7] | ventaxtv.com:3575 | <https://ventaxtv.com:3575/live/uebilive.m3u8> |
-| 53 | UNIANDES TV (720p) [Not 24/7] | video.compuwebecuador.com:3323 | <https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8> |
-| 54 | Unsion TV (1080p) | provedores.unsion.tv:8081 | <http://provedores.unsion.tv:8081/srt/1/playlist.m3u8> |
-| 55 | VitoTVO (1080p) | iptv.vitotvo.video.makrodigital.com:8081 | <http://iptv.vitotvo.video.makrodigital.com:8081/vitotvo/iptv/playlist.m3u8> |
-| 56 | Vos y TV (720p) [Not 24/7] | cloud37.ecuatel.com | <https://cloud37.ecuatel.com/vostv/live/manifest.m3u8> |
-| 57 | Wuan+ | 7.innovatestream.pe:19360 | <https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8> |
-| 58 | Zaracay TV (1080p) [Not 24/7] | video2.makrodigital.com | <https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8> |
-| 59 | TC Television | IPv4 直链 | <http://177.234.218.66:8084/play/a089/index.m3u8> |
-| 60 | TvOro (1080p) | IPv4 直链 | <http://45.187.0.19:9090/tvusa/index.m3u8> |
-| 61 | Telecosta | telecosta.botlife.app | <https://telecosta.botlife.app/memfs/6ba9dc9a-aff4-4e4e-9466-a9f0c714b60b.m3u8> |
-| 62 | Teleamazonas (720p) | IPv4 直链 | <http://157.100.248.242:8080/TeleamazonasHD/index.m3u8> |
-| 63 | RTS (720p) | IPv4 直链 | <http://157.100.248.242:8080/RTSHD/index.m3u8> |
-| 64 | Studio + TV | cloudvideo.servers10.com:8081 | <https://cloudvideo.servers10.com:8081/8184/index.m3u8> |
+| 9 | Capricho TV (720p) [Not 24/7] | video.compuwebecuador.com:3783 | <https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8> |
+| 10 | Ciracu TV (720p) [Not 24/7] | cloud37.ecuatel.com | <https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8> |
+| 11 | Curiquingue TV (720p) | video2.lhdserver.es | <https://video2.lhdserver.es/pjtv/live.m3u8> |
+| 12 | Duende Tv (720p) [Not 24/7] | live.fansplay.tv | <https://live.fansplay.tv/livestreams/21.GdPGZIRcwzZ9vgE5.m3u8> |
+| 13 | Durán TV (480p) [Not 24/7] | cloudvideo.servers10.com:8081 | <https://cloudvideo.servers10.com:8081/8074/index.m3u8> |
+| 14 | Ecotel TV (720p) | ecoteltv.streamseguro.com:5443 | <https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8> |
+| 15 | Ecuador TV (1080p) | IPv4 直链 | <http://45.224.97.181:9999/EcuadorTV/index.m3u8> |
+| 16 | Ecuador TV | video-eu1.streamerr.co | <https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8> |
+| 17 | EcuaMundo Radio TV (720p) [Not 24/7] | pacific.direcnode.com:3353 | <https://pacific.direcnode.com:3353/live/ecuamundotvlive.m3u8> |
+| 18 | Ecuavisa (1080p) | IPv4 直链 | <http://45.171.108.253:8888/ECUAVISA/index.m3u8> |
+| 19 | Ecuavisa Guayaquil (1080p) [Not 24/7] | dai.google.com | <https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8> |
+| 20 | Ecuavisa Quito (1080p) [Not 24/7] | redirector.dps.live | <https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8> |
+| 21 | Educa TV (720p) [Not 24/7] | avm.ecuamedia.net | <https://avm.ecuamedia.net/educatv/live/playlist.m3u8> |
+| 22 | El Sol Network TV (1080p) | tv.wracanal10.com:3025 | <https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8> |
+| 23 | FM Mundo (1080p) | video2.makrodigital.com | <https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8> |
+| 24 | Gamavision (1080p) | IPv4 直链 | <http://45.224.97.181:9999/Gamavision/index.m3u8> |
+| 25 | Gamavisión (720p) [Not 24/7] | stream.esradioecuador.com | <https://stream.esradioecuador.com/hls/stream.m3u8> |
+| 26 | Gaviota TV [Not 24/7] | gaviotatv.streamseguro.com:3195 | <https://gaviotatv.streamseguro.com:3195/live/gaviotatvlive.m3u8> |
+| 27 | GM7 Digital [Not 24/7] | s2.tvdatta.com:3858 | <https://s2.tvdatta.com:3858/live/gm7digitallive.m3u8> |
+| 28 | Hechos Ecuador (1080p) [Not 24/7] | online.hechosecuador.com:5443 | <https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8> |
+| 29 | IeanJesus Ecuador (720p) | cloud37.ecuatel.com | <https://cloud37.ecuatel.com/iglesia2020/Stream1/playlist.m3u8> |
+| 30 | Imperio TV Canal 6 (720p) | live21.bozztv.com | <https://live21.bozztv.com/akamaissh101/ssh101/imperiotvcanal6/playlist.m3u8> |
+| 31 | Infinita TV (1080p) | s2.tvdatta.com:3753 | <https://s2.tvdatta.com:3753/hybrid/play.m3u8> |
+| 32 | Inti TV (1080p) [Not 24/7] | 5e2f36bc1c433.streamlock.net | <https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8> |
+| 33 | KCHTV (1080p) | iptv.kchtv.video.makrodigital.com:8081 | <http://iptv.kchtv.video.makrodigital.com:8081/kchtv/iptv/playlist.m3u8> |
+| 34 | La Nueva Radio TV 97.7 (1080p) | sv72.ecuaradiotv.net | <https://sv72.ecuaradiotv.net/lanuevatv/live/playlist.m3u8> |
+| 35 | La Perla Radio TV (720p) [Not 24/7] | eu1.servers10.com:8081 | <https://eu1.servers10.com:8081/8068/index.m3u8> |
+| 36 | Latacunga TV (360p) | stmv1.voxtvhd.com.br | <https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8> |
+| 37 | Loreto TV (720p) | loretotv.moxapps.shop | <https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8> |
+| 38 | Majestad Televisión (720p) | videoserver.tmcreativos.com:19360 | <https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8> |
+| 39 | TV Cisne (1080p) | video2.lhdserver.es | <https://video2.lhdserver.es/tvcisne/live.m3u8> |
+| 40 | TV Color Canal 36 (720p) | video.compuwebecuador.com:3067 | <https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8> |
+| 41 | TV Legislativa (1080p) [Not 24/7] | streamingav.asambleanacional.gob.ec | <https://streamingav.asambleanacional.gob.ec/hls/stream.m3u8> |
+| 42 | TV Universal Ecuador (720p) | cdn.mycloudstream.io | <https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8> |
+| 43 | TVC (1080p) | IPv4 直链 | <http://45.224.97.181:9999/TVC/index.m3u8> |
+| 44 | TVC (720p) | IPv4 直链 | <http://157.100.248.242:8080/TVCHD/index.m3u8> |
+| 45 | TVC (480i) | d2m7i0pvomh4vg.cloudfront.net | <https://d2m7i0pvomh4vg.cloudfront.net/ts:abr.m3u8> |
+| 46 | TvOro (1080p) | IPv4 直链 | <http://45.187.0.19:9090/tvusa/index.m3u8> |
+| 47 | UEBI TV Online (720p) [Not 24/7] | ventaxtv.com:3575 | <https://ventaxtv.com:3575/live/uebilive.m3u8> |
+| 48 | UNIANDES TV (720p) [Not 24/7] | video.compuwebecuador.com:3323 | <https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8> |
+| 49 | Unsion TV (1080p) | provedores.unsion.tv:8081 | <http://provedores.unsion.tv:8081/srt/1/playlist.m3u8> |
+| 50 | VitoTVO (1080p) | iptv.vitotvo.video.makrodigital.com:8081 | <http://iptv.vitotvo.video.makrodigital.com:8081/vitotvo/iptv/playlist.m3u8> |
+| 51 | Vos y TV (720p) [Not 24/7] | cloud37.ecuatel.com | <https://cloud37.ecuatel.com/vostv/live/manifest.m3u8> |
+| 52 | Wuan+ | 7.innovatestream.pe:19360 | <https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8> |
+| 53 | Zaracay TV (1080p) [Not 24/7] | video2.makrodigital.com | <https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8> |
 
-Updated at **Tue Aug 11 2026 13:12:05 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Aug 11 2026 19:04:53 GMT+0000 (Coordinated Universal Time)**

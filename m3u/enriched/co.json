@@ -1,6 +1,6 @@
 {
   "name": "co",
-  "updated_at": 1786453926546,
+  "updated_at": 1786475093417,
   "m3u": "https://ube1492.github.io/IPTV-UBE/co.m3u",
   "channels": [
     {
@@ -58,18 +58,6 @@
       "category": "Otros"
     },
     {
-      "name": "Cable Nobsa TV (720p)",
-      "url": "https://eu1.servers10.com:8081/8164/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Cable Sur TV",
-      "url": "https://tvlatina.live:1936/8025/8025/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Canal 1 (1080p) [Geo-blocked]",
       "url": "https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8",
       "logo": "",
@@ -106,20 +94,8 @@
       "category": "Otros"
     },
     {
-      "name": "Canal 10 SOL TV (1080p)",
-      "url": "http://190.211.140.89:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Canal 14 Codazzi (720p) [Not 24/7]",
       "url": "https://eu1.servers10.com:8081/8056/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Canal 55 Telemorisco TV (720p)",
-      "url": "http://canal.mediaserver.com.co/live/telemorisco.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -259,12 +235,6 @@
       "category": "Otros"
     },
     {
-      "name": "Cine35mm",
-      "url": "https://micanal.ovh/livestreams/262.D9DCDM7EXNRT.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Citytv Bogota (1080p)",
       "url": "http://138.121.15.230:9002/CITY-TV/index.m3u8",
       "logo": "",
@@ -367,12 +337,6 @@
       "category": "Otros"
     },
     {
-      "name": "Huila TV",
-      "url": "https://server.asilivehd.com:3333/live/huilatvlive.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Kalu TV (1080p)",
       "url": "https://tv.kaludecolombia.com/memfs/d71c0104-4752-4690-bdbf-19aa849da6c4.m3u8",
       "logo": "",
@@ -463,6 +427,12 @@
       "category": "Otros"
     },
     {
+      "name": "Nuestra Tele Internacional (720p)",
+      "url": "http://170.238.200.199/nuestra-tele/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
       "name": "Nuestra Tele Internacional (576p)",
       "url": "http://181.78.8.199:8000/play/a0a8/index.m3u8",
       "logo": "",
@@ -495,6 +465,18 @@
     {
       "name": "RCN HD2 (1080p)",
       "url": "http://181.78.14.26:4000/play/a07m/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "RCN Novelas (1080p)",
+      "url": "https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "RCN Novelas (720p)",
+      "url": "http://170.238.200.199/rcn-novelas/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -535,14 +517,14 @@
       "category": "Otros"
     },
     {
-      "name": "Salsa Latina FM",
-      "url": "https://panel.streamingmedia.com.co:3557/stream/play.m3u8",
+      "name": "Santel TV",
+      "url": "https://tv3.bitstreaming.net:3540/live/santeltvlive.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "Santel TV",
-      "url": "https://tv3.bitstreaming.net:3540/live/santeltvlive.m3u8",
+      "name": "Senal Colombia (1080p)",
+      "url": "http://209.14.115.253:8081/SENALCOLOMBIA/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -565,20 +547,8 @@
       "category": "Otros"
     },
     {
-      "name": "Suram TV (1080p)",
-      "url": "https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Suram TV (720p)",
       "url": "https://us.streaminghd.cl/suramtv/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "TDI Colombia (720p)",
-      "url": "https://live.amelbatv.co:81/tdicolombiatv/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -646,12 +616,6 @@
       "category": "Otros"
     },
     {
-      "name": "Vahos TV",
-      "url": "https://canal.vahostv.com/stream/0.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Vive TV Colombia (1080p)",
       "url": "http://192.144.113.132:1935/live/ViveTV/playlist.m3u8",
       "logo": "",
@@ -660,36 +624,6 @@
     {
       "name": "Win Sports (1080p)",
       "url": "http://138.121.15.230:9002/WIN-SPORT/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Nuestra Tele Internacional (720p)",
-      "url": "http://170.238.200.199:80/nuestra-tele/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "RCN Novelas (720p)",
-      "url": "http://170.238.200.199:80/rcn-novelas/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Senal Colombia (1080p)",
-      "url": "http://209.14.115.253:8081/SENALCOLOMBIA/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "TeleQuindio (1080p)",
-      "url": "https://live20.bozztv.com/akamaissh101/ssh101/telequindio/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "RCN Novelas (1080p)",
-      "url": "https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -751,18 +685,6 @@
         "category": "Otros"
       },
       {
-        "name": "Cable Nobsa TV (720p)",
-        "url": "https://eu1.servers10.com:8081/8164/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Cable Sur TV",
-        "url": "https://tvlatina.live:1936/8025/8025/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "Canal 1 (1080p) [Geo-blocked]",
         "url": "https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8",
         "logo": "",
@@ -799,20 +721,8 @@
         "category": "Otros"
       },
       {
-        "name": "Canal 10 SOL TV (1080p)",
-        "url": "http://190.211.140.89:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "Canal 14 Codazzi (720p) [Not 24/7]",
         "url": "https://eu1.servers10.com:8081/8056/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Canal 55 Telemorisco TV (720p)",
-        "url": "http://canal.mediaserver.com.co/live/telemorisco.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -952,12 +862,6 @@
         "category": "Otros"
       },
       {
-        "name": "Cine35mm",
-        "url": "https://micanal.ovh/livestreams/262.D9DCDM7EXNRT.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "Citytv Bogota (1080p)",
         "url": "http://138.121.15.230:9002/CITY-TV/index.m3u8",
         "logo": "",
@@ -1060,12 +964,6 @@
         "category": "Otros"
       },
       {
-        "name": "Huila TV",
-        "url": "https://server.asilivehd.com:3333/live/huilatvlive.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "Kalu TV (1080p)",
         "url": "https://tv.kaludecolombia.com/memfs/d71c0104-4752-4690-bdbf-19aa849da6c4.m3u8",
         "logo": "",
@@ -1156,6 +1054,12 @@
         "category": "Otros"
       },
       {
+        "name": "Nuestra Tele Internacional (720p)",
+        "url": "http://170.238.200.199/nuestra-tele/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
         "name": "Nuestra Tele Internacional (576p)",
         "url": "http://181.78.8.199:8000/play/a0a8/index.m3u8",
         "logo": "",
@@ -1188,6 +1092,18 @@
       {
         "name": "RCN HD2 (1080p)",
         "url": "http://181.78.14.26:4000/play/a07m/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "RCN Novelas (1080p)",
+        "url": "https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "RCN Novelas (720p)",
+        "url": "http://170.238.200.199/rcn-novelas/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -1228,14 +1144,14 @@
         "category": "Otros"
       },
       {
-        "name": "Salsa Latina FM",
-        "url": "https://panel.streamingmedia.com.co:3557/stream/play.m3u8",
+        "name": "Santel TV",
+        "url": "https://tv3.bitstreaming.net:3540/live/santeltvlive.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "Santel TV",
-        "url": "https://tv3.bitstreaming.net:3540/live/santeltvlive.m3u8",
+        "name": "Senal Colombia (1080p)",
+        "url": "http://209.14.115.253:8081/SENALCOLOMBIA/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -1258,20 +1174,8 @@
         "category": "Otros"
       },
       {
-        "name": "Suram TV (1080p)",
-        "url": "https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "Suram TV (720p)",
         "url": "https://us.streaminghd.cl/suramtv/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "TDI Colombia (720p)",
-        "url": "https://live.amelbatv.co:81/tdicolombiatv/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -1339,12 +1243,6 @@
         "category": "Otros"
       },
       {
-        "name": "Vahos TV",
-        "url": "https://canal.vahostv.com/stream/0.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "Vive TV Colombia (1080p)",
         "url": "http://192.144.113.132:1935/live/ViveTV/playlist.m3u8",
         "logo": "",
@@ -1353,36 +1251,6 @@
       {
         "name": "Win Sports (1080p)",
         "url": "http://138.121.15.230:9002/WIN-SPORT/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Nuestra Tele Internacional (720p)",
-        "url": "http://170.238.200.199:80/nuestra-tele/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "RCN Novelas (720p)",
-        "url": "http://170.238.200.199:80/rcn-novelas/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Senal Colombia (1080p)",
-        "url": "http://209.14.115.253:8081/SENALCOLOMBIA/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "TeleQuindio (1080p)",
-        "url": "https://live20.bozztv.com/akamaissh101/ssh101/telequindio/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "RCN Novelas (1080p)",
-        "url": "https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       }

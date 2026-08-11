@@ -5,8 +5,6 @@
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
 | 1 | Canal 5 (720p) | tinyurl.com | <https://tinyurl.com/canal5uy> |
-| 2 | DSports Uruguay | cors-proxy.cooks.fyi | <https://cors-proxy.cooks.fyi/http://147.135.114.221:8001/play/a00m/index.m3u8> |
-| 3 | UCL (720p) | livedelta.cdn.antel.net.uy | <https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8> |
-| 4 | VIVO TV (1080p) | stream.vivotv.uy | <https://stream.vivotv.uy/hls/stream.m3u8> |
+| 2 | UCL (720p) | livedelta.cdn.antel.net.uy | <https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8> |
 
-Updated at **Tue Aug 11 2026 13:12:07 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Aug 11 2026 19:04:53 GMT+0000 (Coordinated Universal Time)**

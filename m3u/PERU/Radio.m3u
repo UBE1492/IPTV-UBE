@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="AtlantisRadioTV.pe@SD",Atlantis Radio TV (720p)
+https://live-evg8.tv360.bitel.com.pe/bitel/atlantisSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="LaFabulosaTV.pe@SD",La Fabulosa Radio y TV (720p)
 https://eu1.servers10.com:8081/8004/index.m3u8
 #EXTINF:-1 tvg-id="Millenium109FM.pe@SD",Millenium 109 FM

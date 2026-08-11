@@ -3,3 +3,5 @@
 https://videostream.chileservidores.com:8081/latina/index.m3u8
 #EXTINF:-1 tvg-id="LaPopularTV.cl@SD",La Popular TV
 https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8
+#EXTINF:-1 tvg-id="RetromusicaTelevision.cl@SD",Retromusica Television (720p)
+https://vdochile.com:3864/stream/play.m3u8

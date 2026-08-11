@@ -1,17 +1,11 @@
 {
   "name": "py",
-  "updated_at": 1786453926712,
+  "updated_at": 1786475093615,
   "m3u": "https://ube1492.github.io/IPTV-UBE/py.m3u",
   "channels": [
     {
       "name": "4DmásNoticias TV (1080p) [Not 24/7]",
       "url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "A24 Paraguay",
-      "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/6.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -28,38 +22,14 @@
       "category": "Otros"
     },
     {
-      "name": "Almaya TV (720p)",
-      "url": "https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Alt Media TV",
       "url": "https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "America Paraguay",
-      "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/83.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Bruno Masi TV (720p)",
       "url": "https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Canal 5 TV Max (1080p)",
-      "url": "https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "C9N (1080p)",
-      "url": "https://alba-py-c9n-c9n.stream.mediatiquestream.com/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -82,8 +52,8 @@
       "category": "Otros"
     },
     {
-      "name": "Canal 5 TV Max (720p)",
-      "url": "https://video.wilohosting.com:19360/tvmax/tvmax.m3u8",
+      "name": "Canal 5 TV Max (1080p)",
+      "url": "https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -110,18 +80,12 @@
     },
     {
       "name": "Del Rey TV (1080p)",
-      "url": "#EXTINF:-1 tvg-id=\"EnLenguadeSenasTV.py@SD\",En Lengua de Senas TV (720p)",
+      "url": "#EXTINF:-1 tvg-id=\"FarraPlay.py@SD\",Farra Play (720p) [Not 24/7]",
       "logo": "",
       "category": "Otros",
       "options": {
         "http-referrer": "https://tvonline.com.py/"
       }
-    },
-    {
-      "name": "Farra Play (720p) [Not 24/7]",
-      "url": "http://159.203.148.226/live/farra.m3u8",
-      "logo": "",
-      "category": "Otros"
     },
     {
       "name": "Farra Play (576p)",
@@ -131,12 +95,15 @@
     },
     {
       "name": "Gen",
-      "url": "#EXTINF:-1 tvg-id=\"InvasivaTV.py@SD\",Invasiva TV (720p)",
+      "url": "https://gentvpeer.desdeparaguay.net/gentvpeer/gentv_py_alta/master.m3u8",
       "logo": "",
-      "category": "Otros",
-      "options": {
-        "http-referrer": "https://www.gen.com.py/"
-      }
+      "category": "Otros"
+    },
+    {
+      "name": "Invasiva TV (720p)",
+      "url": "https://tv-omega-nine.vercel.app/hls/live.m3u8",
+      "logo": "",
+      "category": "Otros"
     },
     {
       "name": "Latele (1080p)",
@@ -163,12 +130,6 @@
       }
     },
     {
-      "name": "Obedira TV",
-      "url": "https://video.hostingcaaguazu.com:19360/obediratv/obediratv.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Occidental TV",
       "url": "https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8",
       "logo": "",
@@ -181,140 +142,23 @@
       "category": "Otros"
     },
     {
-      "name": "Paraguay TV (1080p)",
-      "url": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8",
+      "name": "Popu TV (1080p)",
+      "url": "http://190.108.83.69:8000/play/a070/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "Paraguay TV",
-      "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/118.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Paravision",
-      "url": "#EXTINF:-1 tvg-id=\"ProductivaTV.py@SD\",Productiva TV",
+      "name": "Tigo Sports (1080p)",
+      "url": "#EXTINF:-1 tvg-id=\"TigoSportsPlus.py@SD\",Tigo Sports+",
       "logo": "",
       "category": "Otros",
       "options": {
-        "http-referrer": "https://www.paravision.com.py/"
-      }
-    },
-    {
-      "name": "Radio Ciudad 98.9 FM TV",
-      "url": "https://video.wilohosting.com:19360/radiociudadtv/radiociudadtv.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Radio Colmenar 92.5 FM",
-      "url": "https://tvdatta.com:3041/live/colmenarlive.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Radio Guaira TV",
-      "url": "https://tvdatta.com:3991/live/guairatvlive.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Radio Nacional del Paraguay",
-      "url": "https://stream.paraguaytv.gov.py/memfs/ea8a90e9-10f7-4b00-8e88-42f4a838d74b.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Radio San Cristobal 88.7 FM",
-      "url": "https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Radio TV El Arca del Pacto (1080p)",
-      "url": "https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "RCC TV (1080p) [Not 24/7]",
-      "url": "https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Red Digital (1080p) [Not 24/7]",
-      "url": "https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Red Interior TV",
-      "url": "https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Regional TV Yaguaron (1080p)",
-      "url": "https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "República TV (720p)",
-      "url": "https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "RQP Paraguay (1080i)",
-      "url": "https://alba-py-rqp-rqp.stream.mediatiquestream.com/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "SNT (1080p)",
-      "url": "https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "SNT (480p)",
-      "url": "https://d3epa8orr2qy3m.cloudfront.net/ts:abr.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Suceso TV (720p) [Not 24/7]",
-      "url": "https://live.enhdtv.com:8081/8060/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "SUR TV Itapua",
-      "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1596.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Telefuturo (1080p)",
-      "url": "#EXTINF:-1 tvg-id=\"Tropicalia939FM.py@SD\",Tropicalia 93.9 FM (1280p)",
-      "logo": "",
-      "category": "Otros",
-      "options": {
-        "http-referrer": "https://www.telefuturo.com.py"
+        "http-referrer": "https://www.tigosports.com.py/"
       }
     },
     {
       "name": "TV Aire",
       "url": "https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "TV Camara (1080p)",
-      "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/119.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -325,13 +169,28 @@
       "category": "Otros"
     },
     {
-      "name": "Unicanal (1080p)",
-      "url": "",
+      "name": "UnionTV",
+      "url": "https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8",
       "logo": "",
-      "category": "Otros",
-      "options": {
-        "http-referrer": "https://unicanal.com.py/"
-      }
+      "category": "Otros"
+    },
+    {
+      "name": "UniRadio TV (1080p)",
+      "url": "https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Venus Media (1080p)",
+      "url": "https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Villa Elisa Radio TV (1080p)",
+      "url": "https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/playlist.m3u8?admin=nacion",
+      "logo": "",
+      "category": "Otros"
     }
   ],
   "categories": {
@@ -339,12 +198,6 @@
       {
         "name": "4DmásNoticias TV (1080p) [Not 24/7]",
         "url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "A24 Paraguay",
-        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/6.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -361,38 +214,14 @@
         "category": "Otros"
       },
       {
-        "name": "Almaya TV (720p)",
-        "url": "https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "Alt Media TV",
         "url": "https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "America Paraguay",
-        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/83.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "Bruno Masi TV (720p)",
         "url": "https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Canal 5 TV Max (1080p)",
-        "url": "https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "C9N (1080p)",
-        "url": "https://alba-py-c9n-c9n.stream.mediatiquestream.com/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -415,8 +244,8 @@
         "category": "Otros"
       },
       {
-        "name": "Canal 5 TV Max (720p)",
-        "url": "https://video.wilohosting.com:19360/tvmax/tvmax.m3u8",
+        "name": "Canal 5 TV Max (1080p)",
+        "url": "https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -443,18 +272,12 @@
       },
       {
         "name": "Del Rey TV (1080p)",
-        "url": "#EXTINF:-1 tvg-id=\"EnLenguadeSenasTV.py@SD\",En Lengua de Senas TV (720p)",
+        "url": "#EXTINF:-1 tvg-id=\"FarraPlay.py@SD\",Farra Play (720p) [Not 24/7]",
         "logo": "",
         "category": "Otros",
         "options": {
           "http-referrer": "https://tvonline.com.py/"
         }
-      },
-      {
-        "name": "Farra Play (720p) [Not 24/7]",
-        "url": "http://159.203.148.226/live/farra.m3u8",
-        "logo": "",
-        "category": "Otros"
       },
       {
         "name": "Farra Play (576p)",
@@ -464,12 +287,15 @@
       },
       {
         "name": "Gen",
-        "url": "#EXTINF:-1 tvg-id=\"InvasivaTV.py@SD\",Invasiva TV (720p)",
+        "url": "https://gentvpeer.desdeparaguay.net/gentvpeer/gentv_py_alta/master.m3u8",
         "logo": "",
-        "category": "Otros",
-        "options": {
-          "http-referrer": "https://www.gen.com.py/"
-        }
+        "category": "Otros"
+      },
+      {
+        "name": "Invasiva TV (720p)",
+        "url": "https://tv-omega-nine.vercel.app/hls/live.m3u8",
+        "logo": "",
+        "category": "Otros"
       },
       {
         "name": "Latele (1080p)",
@@ -496,12 +322,6 @@
         }
       },
       {
-        "name": "Obedira TV",
-        "url": "https://video.hostingcaaguazu.com:19360/obediratv/obediratv.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "Occidental TV",
         "url": "https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8",
         "logo": "",
@@ -514,140 +334,23 @@
         "category": "Otros"
       },
       {
-        "name": "Paraguay TV (1080p)",
-        "url": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8",
+        "name": "Popu TV (1080p)",
+        "url": "http://190.108.83.69:8000/play/a070/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "Paraguay TV",
-        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/118.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Paravision",
-        "url": "#EXTINF:-1 tvg-id=\"ProductivaTV.py@SD\",Productiva TV",
+        "name": "Tigo Sports (1080p)",
+        "url": "#EXTINF:-1 tvg-id=\"TigoSportsPlus.py@SD\",Tigo Sports+",
         "logo": "",
         "category": "Otros",
         "options": {
-          "http-referrer": "https://www.paravision.com.py/"
-        }
-      },
-      {
-        "name": "Radio Ciudad 98.9 FM TV",
-        "url": "https://video.wilohosting.com:19360/radiociudadtv/radiociudadtv.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Radio Colmenar 92.5 FM",
-        "url": "https://tvdatta.com:3041/live/colmenarlive.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Radio Guaira TV",
-        "url": "https://tvdatta.com:3991/live/guairatvlive.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Radio Nacional del Paraguay",
-        "url": "https://stream.paraguaytv.gov.py/memfs/ea8a90e9-10f7-4b00-8e88-42f4a838d74b.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Radio San Cristobal 88.7 FM",
-        "url": "https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Radio TV El Arca del Pacto (1080p)",
-        "url": "https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "RCC TV (1080p) [Not 24/7]",
-        "url": "https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Red Digital (1080p) [Not 24/7]",
-        "url": "https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Red Interior TV",
-        "url": "https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Regional TV Yaguaron (1080p)",
-        "url": "https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "República TV (720p)",
-        "url": "https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "RQP Paraguay (1080i)",
-        "url": "https://alba-py-rqp-rqp.stream.mediatiquestream.com/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "SNT (1080p)",
-        "url": "https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "SNT (480p)",
-        "url": "https://d3epa8orr2qy3m.cloudfront.net/ts:abr.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Suceso TV (720p) [Not 24/7]",
-        "url": "https://live.enhdtv.com:8081/8060/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "SUR TV Itapua",
-        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1596.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Telefuturo (1080p)",
-        "url": "#EXTINF:-1 tvg-id=\"Tropicalia939FM.py@SD\",Tropicalia 93.9 FM (1280p)",
-        "logo": "",
-        "category": "Otros",
-        "options": {
-          "http-referrer": "https://www.telefuturo.com.py"
+          "http-referrer": "https://www.tigosports.com.py/"
         }
       },
       {
         "name": "TV Aire",
         "url": "https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "TV Camara (1080p)",
-        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/119.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -658,13 +361,28 @@
         "category": "Otros"
       },
       {
-        "name": "Unicanal (1080p)",
-        "url": "",
+        "name": "UnionTV",
+        "url": "https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8",
         "logo": "",
-        "category": "Otros",
-        "options": {
-          "http-referrer": "https://unicanal.com.py/"
-        }
+        "category": "Otros"
+      },
+      {
+        "name": "UniRadio TV (1080p)",
+        "url": "https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Venus Media (1080p)",
+        "url": "https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Villa Elisa Radio TV (1080p)",
+        "url": "https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/playlist.m3u8?admin=nacion",
+        "logo": "",
+        "category": "Otros"
       }
     ]
   }

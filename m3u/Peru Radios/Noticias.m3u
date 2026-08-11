@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1 group-title="Música",Noticias Madre de Dios
-https://tupanel.info:9000/stream
-#EXTINF:-1 group-title="Música",Radio OD Noticias – PE-LIM
-https://conectperu.com:7176/
-#EXTINF:-1 group-title="Música",Radio Od Noticias
-https://server.streamingradios.net/8028/;
-#EXTINF:-1 group-title="Música",RADIO OD NOTICIAS
-https://dpfmadmin.radioca.st/

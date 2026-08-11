@@ -1,8 +1,14 @@
 {
   "name": "bo",
-  "updated_at": 1786453926605,
+  "updated_at": 1786475093533,
   "m3u": "https://ube1492.github.io/IPTV-UBE/bo.m3u",
   "channels": [
+    {
+      "name": "Abya Yala TV (720p)",
+      "url": "http://15.204.246.24:8080/AbyaYalaTvHD/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
     {
       "name": "Abya Yala TV",
       "url": "https://seo.tv.bo/live.php?ch=abyayala_sd&token=seotv2026",
@@ -28,6 +34,12 @@
       "category": "Otros"
     },
     {
+      "name": "ATB La Paz (1080p)",
+      "url": "http://15.204.246.24:8080/ATBHD/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
       "name": "ATB La Paz (614p) [Not 24/7]",
       "url": "http://186.121.206.197/live/daniel/index.m3u8",
       "logo": "",
@@ -46,26 +58,26 @@
       "category": "Otros"
     },
     {
+      "name": "AYNI TV (1080p)",
+      "url": "http://15.204.246.24:8080/AyniTVHD/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
       "name": "AYNI TV",
       "url": "https://59d39900ebfb8.streamlock.net/Aynitv/Aynitv/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "Bolivia Punto TV",
-      "url": "https://streaming.hostpannel.lat/hls/fc517baca1d452f22f56a2563f93f500/index.m3u8",
+      "name": "Bolivia TV (1080p)",
+      "url": "http://15.204.246.24:8080/BoliviaTvHD/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
       "name": "Bolivision (1080p)",
-      "url": "https://d135ohnuotzzyo.cloudfront.net/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Bolivisión LPZ (720p)",
-      "url": "https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8",
+      "url": "http://15.204.246.24:8080/BolivisionHD/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -78,6 +90,12 @@
     {
       "name": "Cadena A (720p) [Not 24/7]",
       "url": "https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Cadena A (576p)",
+      "url": "http://15.204.246.24:8080/CadenaAHD/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -106,14 +124,14 @@
       "category": "Otros"
     },
     {
-      "name": "CN3 Television (720p)",
-      "url": "https://edge.enhdtv.com/cn3/index.m3u8",
+      "name": "Coral TV (720p)",
+      "url": "https://tv.mediacp.eu:8081/coraltv/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "Coral TV (720p)",
-      "url": "https://tv.mediacp.eu:8081/coraltv/index.m3u8",
+      "name": "CTV (1080p)",
+      "url": "http://15.204.246.24:8080/CTVHD/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -126,6 +144,12 @@
     {
       "name": "CTV",
       "url": "https://live.ctvbolivia.com/hls/ctv.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "CVC (1080p)",
+      "url": "http://15.204.246.24:8080/CVCHD/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -156,6 +180,12 @@
     {
       "name": "Erbol (720p)",
       "url": "https://twitch-m3u8.bastypro112.workers.dev/erboldigital/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "F10 HD (720p)",
+      "url": "http://15.204.246.24:8080/F10HD/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -208,24 +238,6 @@
       "category": "Otros"
     },
     {
-      "name": "GoLochTel TV (576p)",
-      "url": "https://lbgo.bozztv.com/ssh101/ssh101/songsofangels33/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "GTV (720p)",
-      "url": "https://lbgo.bozztv.com/ssh101/ssh101/guadalupetv/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Imagen TV (720p)",
-      "url": "https://lbgo.bozztv.com/ssh101/ssh101/imagentvpotosib/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Imperial TV (720p)",
       "url": "https://tv.centaurychile.com/imperial/streams/EnCyCiwNLsqEQ2kv2852222720686498.m3u8",
       "logo": "",
@@ -238,20 +250,14 @@
       "category": "Otros"
     },
     {
-      "name": "La Exitosa TV Riberalta (720p)",
-      "url": "https://ares.disfrutaenlared.com:1936/exitosa/exitosa/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "MegaTV (576p)",
-      "url": "http://tv.istbolivia.com:1935/megatv/megatv/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Megavision (720p)",
       "url": "https://twitch-m3u8.bastypro112.workers.dev/megavisionbo/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Palenque TV (576p)",
+      "url": "http://15.204.246.24:8080/PalenqueTVSD/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -262,8 +268,26 @@
       "category": "Otros"
     },
     {
+      "name": "PAT La Paz (576p)",
+      "url": "http://15.204.246.24:8080/PATSD/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
       "name": "PLUS Television (720p)",
       "url": "https://twitch-m3u8.bastypro112.workers.dev/plustelevisionbolivia/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Plus TLT (720p)",
+      "url": "http://15.204.246.24:8080/PlusTLTHD/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Poder de Dios TV (1080p)",
+      "url": "http://15.204.246.24:8080/PoderdeDiosHD/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -280,12 +304,6 @@
       "category": "Otros"
     },
     {
-      "name": "RA Television (720p)",
-      "url": "https://lbgo.bozztv.com/ssh101/ssh101/ratvbol/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Radio Centro (720p)",
       "url": "https://streamlov.alsolnet.com/grupocentrobo/live/playlist.m3u8",
       "logo": "",
@@ -294,12 +312,6 @@
     {
       "name": "Radio Clasica TV (720p)",
       "url": "https://ares.disfrutaenlared.com:1936/clasica/clasica/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Radio Gente (720p)",
-      "url": "https://edge.enhdtv.com/8068/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -328,12 +340,6 @@
       "category": "Otros"
     },
     {
-      "name": "Radio Uno PST (720p)",
-      "url": "https://master.tucableip.com/pstbolivia/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Red ADvenir TV (360p) [Not 24/7]",
       "url": "http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8",
       "logo": "",
@@ -358,6 +364,12 @@
       "category": "Otros"
     },
     {
+      "name": "Red DTV (1080p)",
+      "url": "http://15.204.246.24:8080/DTVHD/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
       "name": "Red Rubi (720p)",
       "url": "https://59d39900ebfb8.streamlock.net/asiesmipueblo/asiesmipueblo/playlist.m3u8",
       "logo": "",
@@ -371,7 +383,13 @@
     },
     {
       "name": "Red Uno (720p)",
-      "url": "https://tv.centaurychile.com/interactiva/streams/KIgB6QvZ0L8XaSLd3211668845221245.m3u8",
+      "url": "http://190.181.18.82:4111/play/a005/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Red Uno Santa Cruz (1080p)",
+      "url": "http://190.181.18.82:4111/play/a006/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -390,18 +408,6 @@
     {
       "name": "RTP",
       "url": "https://rtp.noxun.net/hls/stream.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "RTV Norte (720p)",
-      "url": "https://lbgo.bozztv.com/ssh101/ssh101/mbocayatyhd/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "SCM TV HD 32.1 (720p)",
-      "url": "https://lbgo.bozztv.com/ssh101/ssh101/cinebes/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -442,12 +448,6 @@
       "category": "Otros"
     },
     {
-      "name": "Tigo Sports (1080p)",
-      "url": "https://master.tucableip.com/Amistoso/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Tigo Sports (720p) [Geo-blocked]",
       "url": "https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index.m3u8",
       "logo": "",
@@ -466,6 +466,12 @@
       "category": "Otros"
     },
     {
+      "name": "TV Culturas (576p)",
+      "url": "http://15.204.246.24:8080/TVCulturasSD/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
       "name": "TV Latina (1080p)",
       "url": "https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8",
       "logo": "",
@@ -478,12 +484,6 @@
       "category": "Otros"
     },
     {
-      "name": "TV Show Oruro (720p)",
-      "url": "http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "TVU Sucre (720p)",
       "url": "https://edge.enhdtv.com/8214/index.m3u8",
       "logo": "",
@@ -492,12 +492,6 @@
     {
       "name": "UMSA TVU Internacional (720p)",
       "url": "https://edge.enhdtv.com/8026/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Unica TV (720p)",
-      "url": "https://59d39900ebfb8.streamlock.net/unicatv/unicatv/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -547,6 +541,12 @@
       }
     },
     {
+      "name": "Vos TV (720p)",
+      "url": "http://15.204.246.24:8080/VOSTVHD/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
       "name": "Vos TV",
       "url": "https://59d39900ebfb8.streamlock.net/vostv/vostv/playlist.m3u8",
       "logo": "",
@@ -570,6 +570,12 @@
   ],
   "categories": {
     "Otros": [
+      {
+        "name": "Abya Yala TV (720p)",
+        "url": "http://15.204.246.24:8080/AbyaYalaTvHD/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
       {
         "name": "Abya Yala TV",
         "url": "https://seo.tv.bo/live.php?ch=abyayala_sd&token=seotv2026",
@@ -595,6 +601,12 @@
         "category": "Otros"
       },
       {
+        "name": "ATB La Paz (1080p)",
+        "url": "http://15.204.246.24:8080/ATBHD/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
         "name": "ATB La Paz (614p) [Not 24/7]",
         "url": "http://186.121.206.197/live/daniel/index.m3u8",
         "logo": "",
@@ -613,26 +625,26 @@
         "category": "Otros"
       },
       {
+        "name": "AYNI TV (1080p)",
+        "url": "http://15.204.246.24:8080/AyniTVHD/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
         "name": "AYNI TV",
         "url": "https://59d39900ebfb8.streamlock.net/Aynitv/Aynitv/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "Bolivia Punto TV",
-        "url": "https://streaming.hostpannel.lat/hls/fc517baca1d452f22f56a2563f93f500/index.m3u8",
+        "name": "Bolivia TV (1080p)",
+        "url": "http://15.204.246.24:8080/BoliviaTvHD/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
         "name": "Bolivision (1080p)",
-        "url": "https://d135ohnuotzzyo.cloudfront.net/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Bolivisión LPZ (720p)",
-        "url": "https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8",
+        "url": "http://15.204.246.24:8080/BolivisionHD/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -645,6 +657,12 @@
       {
         "name": "Cadena A (720p) [Not 24/7]",
         "url": "https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Cadena A (576p)",
+        "url": "http://15.204.246.24:8080/CadenaAHD/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -673,14 +691,14 @@
         "category": "Otros"
       },
       {
-        "name": "CN3 Television (720p)",
-        "url": "https://edge.enhdtv.com/cn3/index.m3u8",
+        "name": "Coral TV (720p)",
+        "url": "https://tv.mediacp.eu:8081/coraltv/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "Coral TV (720p)",
-        "url": "https://tv.mediacp.eu:8081/coraltv/index.m3u8",
+        "name": "CTV (1080p)",
+        "url": "http://15.204.246.24:8080/CTVHD/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -693,6 +711,12 @@
       {
         "name": "CTV",
         "url": "https://live.ctvbolivia.com/hls/ctv.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "CVC (1080p)",
+        "url": "http://15.204.246.24:8080/CVCHD/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -723,6 +747,12 @@
       {
         "name": "Erbol (720p)",
         "url": "https://twitch-m3u8.bastypro112.workers.dev/erboldigital/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "F10 HD (720p)",
+        "url": "http://15.204.246.24:8080/F10HD/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -775,24 +805,6 @@
         "category": "Otros"
       },
       {
-        "name": "GoLochTel TV (576p)",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/songsofangels33/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "GTV (720p)",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/guadalupetv/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Imagen TV (720p)",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/imagentvpotosib/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "Imperial TV (720p)",
         "url": "https://tv.centaurychile.com/imperial/streams/EnCyCiwNLsqEQ2kv2852222720686498.m3u8",
         "logo": "",
@@ -805,20 +817,14 @@
         "category": "Otros"
       },
       {
-        "name": "La Exitosa TV Riberalta (720p)",
-        "url": "https://ares.disfrutaenlared.com:1936/exitosa/exitosa/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "MegaTV (576p)",
-        "url": "http://tv.istbolivia.com:1935/megatv/megatv/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "Megavision (720p)",
         "url": "https://twitch-m3u8.bastypro112.workers.dev/megavisionbo/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Palenque TV (576p)",
+        "url": "http://15.204.246.24:8080/PalenqueTVSD/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -829,8 +835,26 @@
         "category": "Otros"
       },
       {
+        "name": "PAT La Paz (576p)",
+        "url": "http://15.204.246.24:8080/PATSD/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
         "name": "PLUS Television (720p)",
         "url": "https://twitch-m3u8.bastypro112.workers.dev/plustelevisionbolivia/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Plus TLT (720p)",
+        "url": "http://15.204.246.24:8080/PlusTLTHD/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Poder de Dios TV (1080p)",
+        "url": "http://15.204.246.24:8080/PoderdeDiosHD/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -847,12 +871,6 @@
         "category": "Otros"
       },
       {
-        "name": "RA Television (720p)",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/ratvbol/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "Radio Centro (720p)",
         "url": "https://streamlov.alsolnet.com/grupocentrobo/live/playlist.m3u8",
         "logo": "",
@@ -861,12 +879,6 @@
       {
         "name": "Radio Clasica TV (720p)",
         "url": "https://ares.disfrutaenlared.com:1936/clasica/clasica/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Radio Gente (720p)",
-        "url": "https://edge.enhdtv.com/8068/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -895,12 +907,6 @@
         "category": "Otros"
       },
       {
-        "name": "Radio Uno PST (720p)",
-        "url": "https://master.tucableip.com/pstbolivia/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "Red ADvenir TV (360p) [Not 24/7]",
         "url": "http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8",
         "logo": "",
@@ -925,6 +931,12 @@
         "category": "Otros"
       },
       {
+        "name": "Red DTV (1080p)",
+        "url": "http://15.204.246.24:8080/DTVHD/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
         "name": "Red Rubi (720p)",
         "url": "https://59d39900ebfb8.streamlock.net/asiesmipueblo/asiesmipueblo/playlist.m3u8",
         "logo": "",
@@ -938,7 +950,13 @@
       },
       {
         "name": "Red Uno (720p)",
-        "url": "https://tv.centaurychile.com/interactiva/streams/KIgB6QvZ0L8XaSLd3211668845221245.m3u8",
+        "url": "http://190.181.18.82:4111/play/a005/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Red Uno Santa Cruz (1080p)",
+        "url": "http://190.181.18.82:4111/play/a006/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -957,18 +975,6 @@
       {
         "name": "RTP",
         "url": "https://rtp.noxun.net/hls/stream.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "RTV Norte (720p)",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/mbocayatyhd/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "SCM TV HD 32.1 (720p)",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/cinebes/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -1009,12 +1015,6 @@
         "category": "Otros"
       },
       {
-        "name": "Tigo Sports (1080p)",
-        "url": "https://master.tucableip.com/Amistoso/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "Tigo Sports (720p) [Geo-blocked]",
         "url": "https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index.m3u8",
         "logo": "",
@@ -1033,6 +1033,12 @@
         "category": "Otros"
       },
       {
+        "name": "TV Culturas (576p)",
+        "url": "http://15.204.246.24:8080/TVCulturasSD/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
         "name": "TV Latina (1080p)",
         "url": "https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8",
         "logo": "",
@@ -1045,12 +1051,6 @@
         "category": "Otros"
       },
       {
-        "name": "TV Show Oruro (720p)",
-        "url": "http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "TVU Sucre (720p)",
         "url": "https://edge.enhdtv.com/8214/index.m3u8",
         "logo": "",
@@ -1059,12 +1059,6 @@
       {
         "name": "UMSA TVU Internacional (720p)",
         "url": "https://edge.enhdtv.com/8026/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Unica TV (720p)",
-        "url": "https://59d39900ebfb8.streamlock.net/unicatv/unicatv/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -1112,6 +1106,12 @@
         "options": {
           "http-referrer": "https://tvu.umsa.bo/en-vivo"
         }
+      },
+      {
+        "name": "Vos TV (720p)",
+        "url": "http://15.204.246.24:8080/VOSTVHD/index.m3u8",
+        "logo": "",
+        "category": "Otros"
       },
       {
         "name": "Vos TV",

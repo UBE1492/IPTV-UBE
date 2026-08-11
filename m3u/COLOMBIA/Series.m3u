@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="RCNNovelas.co@SD",RCN Novelas (576p)
-http://181.78.8.199:8000/play/a0a7/index.m3u8
-#EXTINF:-1 tvg-id="RCNNovelas.co@SD",RCN Novelas (720p)
-http://170.238.200.199:80/rcn-novelas/index.m3u8
 #EXTINF:-1 tvg-id="RCNNovelas.co@SD",RCN Novelas (1080p)
 https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8
+#EXTINF:-1 tvg-id="RCNNovelas.co@SD",RCN Novelas (720p)
+http://170.238.200.199/rcn-novelas/index.m3u8
+#EXTINF:-1 tvg-id="RCNNovelas.co@SD",RCN Novelas (576p)
+http://181.78.8.199:8000/play/a0a7/index.m3u8

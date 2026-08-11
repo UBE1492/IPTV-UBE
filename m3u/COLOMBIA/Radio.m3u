@@ -11,5 +11,3 @@ https://eu1.servers10.com:8081/8178/index.m3u8
 https://movil.ejeserver.com/live/lamoradatv.m3u8
 #EXTINF:-1 tvg-id="MasMusicaFM.co@SD",MasMusica FM (720p)
 https://movil.ejeserver.com/live/masmusica.m3u8
-#EXTINF:-1 tvg-id="SalsaLatinaFM.co@SD",Salsa Latina FM
-https://panel.streamingmedia.com.co:3557/stream/play.m3u8

@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Teleangol.cl@SD",Teleangol (720p)
+https://pantera1-100gb-cl-movistar.dps.live/teleangol/teleangol.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleangolRadio.cl@SD",Teleangol Radio (720p)
+https://pantera1-100gb-cl-movistar.dps.live/teleangolradio/teleangolradio.smil/playlist.m3u8

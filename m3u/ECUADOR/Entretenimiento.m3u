@@ -5,10 +5,6 @@ https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
 https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8
 #EXTINF:-1 tvg-id="CiracuTV.ec@SD",Ciracu TV (720p) [Not 24/7]
 https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8
-#EXTINF:-1 tvg-id="ClicTV.ec@SD",Clic TV (360p)
-https://stmv1.voxhdnet.com/yorka7322/yorka7322/playlist.m3u8
-#EXTINF:-1 tvg-id="ColoradosVisionTV.ec@SD",Colorados Visión TV (1080p)
-http://177.234.247.66:9975/ColoradosTV/index.m3u8
 #EXTINF:-1 tvg-id="CuriquingueTV.ec@SD",Curiquingue TV (720p)
 https://video2.lhdserver.es/pjtv/live.m3u8
 #EXTINF:-1 tvg-id="DuendeTv.ec@SD",Duende Tv (720p) [Not 24/7]
@@ -19,13 +15,11 @@ https://cloudvideo.servers10.com:8081/8074/index.m3u8
 https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 #EXTINF:-1 tvg-id="EcuadorTV.ec@SD",Ecuador TV (1080p)
 http://45.224.97.181:9999/EcuadorTV/index.m3u8
-#EXTINF:-1 tvg-id="EcuadorTV.ec@SD",Ecuador TV (720p)
-https://samson.streamerr.co:8081/shogun/index.m3u8
 #EXTINF:-1 tvg-id="EcuadorTV.ec@SD",Ecuador TV
 https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8
 #EXTINF:-1 tvg-id="ElSolNetworkTV.ec@SD",El Sol Network TV (1080p)
 https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8
-#EXTINF:-1 tvg-id="GaviotaTV.ec@SD",Gaviota TV
+#EXTINF:-1 tvg-id="GaviotaTV.ec@SD",Gaviota TV [Not 24/7]
 https://gaviotatv.streamseguro.com:3195/live/gaviotatvlive.m3u8
 #EXTINF:-1 tvg-id="ImperioTVCanal6.ec@SD",Imperio TV Canal 6 (720p)
 https://live21.bozztv.com/akamaissh101/ssh101/imperiotvcanal6/playlist.m3u8
@@ -39,8 +33,6 @@ http://iptv.kchtv.video.makrodigital.com:8081/kchtv/iptv/playlist.m3u8
 https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8
 #EXTINF:-1 tvg-id="LoretoTV.ec@SD",Loreto TV (720p)
 https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8
-#EXTINF:-1 tvg-id="MagicaTv.ec@SD",Mágica Tv (1080p)
-https://magicatv.4pu.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="TVCisne.ec@SD",TV Cisne (1080p)
 https://video2.lhdserver.es/tvcisne/live.m3u8
 #EXTINF:-1 tvg-id="TVColorCanal36.ec@SD",TV Color Canal 36 (720p)
@@ -52,9 +44,11 @@ https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8
 #EXTINF:-1 tvg-id="TVC.ec@SD",TVC (1080p)
 http://45.224.97.181:9999/TVC/index.m3u8
 #EXTINF:-1 tvg-id="TVC.ec@SD",TVC (720p)
-https://d2qsan2ut81n2k.cloudfront.net/live/19e86940-42cc-485e-80f4-89ae27c69f1b/ts:abr.m3u8
+http://157.100.248.242:8080/TVCHD/index.m3u8
 #EXTINF:-1 tvg-id="TVC.ec@SD",TVC (480i)
 https://d2m7i0pvomh4vg.cloudfront.net/ts:abr.m3u8
+#EXTINF:-1 tvg-id="TvOro.ec@SD",TvOro (1080p)
+http://45.187.0.19:9090/tvusa/index.m3u8
 #EXTINF:-1 tvg-id="UEBITVOnline.ec@SD",UEBI TV Online (720p) [Not 24/7]
 https://ventaxtv.com:3575/live/uebilive.m3u8
 #EXTINF:-1 tvg-id="UNIANDESTV.ec@SD",UNIANDES TV (720p) [Not 24/7]
@@ -67,7 +61,3 @@ http://iptv.vitotvo.video.makrodigital.com:8081/vitotvo/iptv/playlist.m3u8
 https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
 #EXTINF:-1 tvg-id="ZaracayTV.ec@SD",Zaracay TV (1080p) [Not 24/7]
 https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
-#EXTINF:-1 tvg-id="TvOro.ec@SD",TvOro (1080p)
-http://45.187.0.19:9090/tvusa/index.m3u8
-#EXTINF:-1 tvg-id="StudioPlusTV.ec@SD",Studio + TV
-https://cloudvideo.servers10.com:8081/8184/index.m3u8
