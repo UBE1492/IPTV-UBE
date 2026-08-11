@@ -609,4 +609,4 @@
 | 603 | Fox Business Network (720p) | IPv4 直链 | <http://40.160.24.56/FOX_BUSINESS_SD/index.m3u8> |
 | 604 | Fox (720p) | IPv4 直链 | <http://40.160.24.56/FOX_SD/index.m3u8> |
 
-Updated at **Tue Aug 11 2026 07:12:15 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Aug 11 2026 13:12:06 GMT+0000 (Coordinated Universal Time)**
