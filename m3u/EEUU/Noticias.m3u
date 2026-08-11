@@ -60,4 +60,4 @@ https://gpuserver3.tier1streams.com/CHEDDAR_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="ESPNews.us@SD",ESPNews (720p)
 https://gpuserver3.tier1streams.com/ESPN_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
-https://gpuserver3.tier1streams.com/FOX_NEWS/index.m3u8
+http://40.160.24.56/FOX_NEWS_SD/index.m3u8

@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1786388458004,
+  "updated_at": 1786413466285,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -3157,18 +3157,6 @@
       "category": "Otros"
     },
     {
-      "name": "E! (1080p)",
-      "url": "https://gpuserver3.tier1streams.com/E_ENTERTAINMENT_EAST/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "E! West (1080p)",
-      "url": "https://gpuserver3.tier1streams.com/E_ENTERTAINMENT_WEST/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "ESPNews (720p)",
       "url": "https://gpuserver3.tier1streams.com/ESPN_NEWS/index.m3u8",
       "logo": "",
@@ -3189,12 +3177,6 @@
     {
       "name": "Flix (720p)",
       "url": "https://gpuserver3.tier1streams.com/FLIX/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Fox News Channel (720p)",
-      "url": "https://gpuserver3.tier1streams.com/FOX_NEWS/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -3540,6 +3522,138 @@
     {
       "name": "NBC LX Home (720p)",
       "url": "https://dn7vkzd5khpp3.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jnz0hbnuaajo2/b3d9d2ee-94c1-4de2-bb46-b1ed009f4f30/4.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "FX Movie Channel (720p)",
+      "url": "http://40.160.24.56/FXM_SD/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "ActionMax (720p)",
+      "url": "http://40.160.24.56/ACTIONMAX_SD/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "MoreMax (720p)",
+      "url": "http://40.160.24.56/MOREMAX_SD/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "ACC Network (720p)",
+      "url": "http://40.160.24.56/ACC_NETWORK_SD/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Aspire (720p)",
+      "url": "http://40.160.24.56/ASPIRE_SD/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "BET (720p)",
+      "url": "http://40.160.24.56/BET_EAST_SD/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "BET West (720p)",
+      "url": "http://40.160.24.56/BET_WEST_SD/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "BET Her (720p)",
+      "url": "http://40.160.24.56/BET_HER_SD/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "BET Soul (720p)",
+      "url": "http://40.160.24.56/BET_SOUL_SD/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "BET Jams (720p)",
+      "url": "http://40.160.24.56/BET_JAMS_SD/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Bloomberg TV (720p)",
+      "url": "http://40.160.24.56/BLOOMBERG_SD/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "CMT (720p)",
+      "url": "http://40.160.24.56/CMT_SD/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "CNBC (720p)",
+      "url": "http://40.160.24.56/CNBC_SD/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "CNBC World (720p)",
+      "url": "http://40.160.24.56/CNBC_WORLD_SD/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Comedy Central (720p)",
+      "url": "http://40.160.24.56/COMEDY_CENTRAL_SD/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Cozi TV (720p)",
+      "url": "http://40.160.24.56/COZI_TV_SD/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "CW (720p)",
+      "url": "http://40.160.24.56/CW_SD/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "E! East (720p)",
+      "url": "http://40.160.24.56/E_ENTERTAINMENT_EAST_SD/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "E! West (720p)",
+      "url": "http://40.160.24.56/E_ENTERTAINMENT_WEST_SD/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Fox News Channel (720p)",
+      "url": "http://40.160.24.56/FOX_NEWS_SD/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Fox Business Network (720p)",
+      "url": "http://40.160.24.56/FOX_BUSINESS_SD/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Fox (720p)",
+      "url": "http://40.160.24.56/FOX_SD/index.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -6700,18 +6814,6 @@
         "category": "Otros"
       },
       {
-        "name": "E! (1080p)",
-        "url": "https://gpuserver3.tier1streams.com/E_ENTERTAINMENT_EAST/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "E! West (1080p)",
-        "url": "https://gpuserver3.tier1streams.com/E_ENTERTAINMENT_WEST/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "ESPNews (720p)",
         "url": "https://gpuserver3.tier1streams.com/ESPN_NEWS/index.m3u8",
         "logo": "",
@@ -6732,12 +6834,6 @@
       {
         "name": "Flix (720p)",
         "url": "https://gpuserver3.tier1streams.com/FLIX/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Fox News Channel (720p)",
-        "url": "https://gpuserver3.tier1streams.com/FOX_NEWS/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -7083,6 +7179,138 @@
       {
         "name": "NBC LX Home (720p)",
         "url": "https://dn7vkzd5khpp3.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jnz0hbnuaajo2/b3d9d2ee-94c1-4de2-bb46-b1ed009f4f30/4.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "FX Movie Channel (720p)",
+        "url": "http://40.160.24.56/FXM_SD/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "ActionMax (720p)",
+        "url": "http://40.160.24.56/ACTIONMAX_SD/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "MoreMax (720p)",
+        "url": "http://40.160.24.56/MOREMAX_SD/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "ACC Network (720p)",
+        "url": "http://40.160.24.56/ACC_NETWORK_SD/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Aspire (720p)",
+        "url": "http://40.160.24.56/ASPIRE_SD/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "BET (720p)",
+        "url": "http://40.160.24.56/BET_EAST_SD/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "BET West (720p)",
+        "url": "http://40.160.24.56/BET_WEST_SD/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "BET Her (720p)",
+        "url": "http://40.160.24.56/BET_HER_SD/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "BET Soul (720p)",
+        "url": "http://40.160.24.56/BET_SOUL_SD/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "BET Jams (720p)",
+        "url": "http://40.160.24.56/BET_JAMS_SD/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Bloomberg TV (720p)",
+        "url": "http://40.160.24.56/BLOOMBERG_SD/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "CMT (720p)",
+        "url": "http://40.160.24.56/CMT_SD/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "CNBC (720p)",
+        "url": "http://40.160.24.56/CNBC_SD/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "CNBC World (720p)",
+        "url": "http://40.160.24.56/CNBC_WORLD_SD/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Comedy Central (720p)",
+        "url": "http://40.160.24.56/COMEDY_CENTRAL_SD/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Cozi TV (720p)",
+        "url": "http://40.160.24.56/COZI_TV_SD/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "CW (720p)",
+        "url": "http://40.160.24.56/CW_SD/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "E! East (720p)",
+        "url": "http://40.160.24.56/E_ENTERTAINMENT_EAST_SD/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "E! West (720p)",
+        "url": "http://40.160.24.56/E_ENTERTAINMENT_WEST_SD/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Fox News Channel (720p)",
+        "url": "http://40.160.24.56/FOX_NEWS_SD/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Fox Business Network (720p)",
+        "url": "http://40.160.24.56/FOX_BUSINESS_SD/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Fox (720p)",
+        "url": "http://40.160.24.56/FOX_SD/index.m3u8",
         "logo": "",
         "category": "Otros"
       }
