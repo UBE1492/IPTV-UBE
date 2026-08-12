@@ -9,9 +9,8 @@
 | 3 | beIN SPORTS XTRA (1080p) | bein-xtra-bein.amagi.tv | <https://bein-xtra-bein.amagi.tv/playlist.m3u8> |
 | 4 | beIN SPORTS XTRA en Espanol (1080p) | IPv4 直链 | <http://201.190.41.246:9060/play/a03y/index.m3u8> |
 | 5 | ESPN Deportes (720p) | IPv4 直链 | <http://40.160.24.58/ESPN_DEPORTES/index.m3u8> |
-| 6 | ESPNews (720p) | gpuserver3.tier1streams.com | <https://gpuserver3.tier1streams.com/ESPN_NEWS/index.m3u8> |
-| 7 | ESPNU (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_ESPNU/index.m3u8> |
-| 8 | Fox Sports 1 (720p) | IPv4 直链 | <http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8> |
-| 9 | Fox Sports 2 (720p) | ftv.itscwd273.workers.dev | <https://ftv.itscwd273.workers.dev/?id=FOXSPORTS2> |
+| 6 | ESPNU (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_ESPNU/index.m3u8> |
+| 7 | Fox Sports 1 (720p) | IPv4 直链 | <http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8> |
+| 8 | Fox Sports 2 (720p) | ftv.itscwd273.workers.dev | <https://ftv.itscwd273.workers.dev/?id=FOXSPORTS2> |
 
-Updated at **Tue Aug 11 2026 19:04:52 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Aug 12 2026 02:10:23 GMT+0000 (Coordinated Universal Time)**
