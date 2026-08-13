@@ -84,4 +84,4 @@
 | 78 | ZAZ (1080p) | cloud.fastchannel.es | <https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8> |
 | 79 | Univision Latin America (720p) | streamer.metronethn.com | <https://streamer.metronethn.com/Univision/index.m3u8> |
 
-Updated at **Thu Aug 13 2026 02:12:28 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Aug 13 2026 07:38:31 GMT+0000 (Coordinated Universal Time)**
