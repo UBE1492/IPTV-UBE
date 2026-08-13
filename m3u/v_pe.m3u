@@ -1,3 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="LG" group-title= "LAT|FREE|PERU", BHTV|SD|
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="LG" group-title= "LAT|FREE|PERU", Latina.|SD|
 http://photocall.tv/latina.php/.m3u8
