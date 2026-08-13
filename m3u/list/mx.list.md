@@ -82,5 +82,6 @@
 | 76 | VB Media TV (1080p) | capomo01-enitv.eninetworks.com | <https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8> |
 | 77 | Visión Televisión (720p) | cloudvideo.servers10.com:8081 | <https://cloudvideo.servers10.com:8081/8016/index.m3u8> |
 | 78 | ZAZ (1080p) | cloud.fastchannel.es | <https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8> |
+| 79 | Univision Latin America (720p) | streamer.metronethn.com | <https://streamer.metronethn.com/Univision/index.m3u8> |
 
-Updated at **Wed Aug 12 2026 19:04:30 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Aug 13 2026 02:12:28 GMT+0000 (Coordinated Universal Time)**

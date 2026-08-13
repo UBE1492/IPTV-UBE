@@ -9,7 +9,7 @@ Undefined,#genre#
 8_La_Marina_TV_(576p),https://streaming005.gestec-video.com/hls/canal24.m3u8
 9_la_Loma_TV_(1080p)_[Geo-blocked],https://9laloma.tv/live.m3u8
 12tv,#EXTVLCOPT:http-referrer=https://www.12tv.es/
-24_Horas_(1080p),http://185.47.212.25:8080/24h_HD/index.m3u8
+24_Horas_Canarias_(1080p),http://185.47.212.25:8080/24h_HD/index.m3u8
 28_kanala,https://streaming.28kanala.eus/hls/z.m3u8
 101tv_Cádiz_(1080p),https://streaming101tv.es:19360/cadiz/cadiz.m3u8
 101tv_Malaga,#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/

@@ -1,6 +1,6 @@
 {
   "name": "es",
-  "updated_at": 1786561470895,
+  "updated_at": 1786587148567,
   "m3u": "https://ube1492.github.io/IPTV-UBE/es.m3u",
   "channels": [
     {
@@ -59,7 +59,7 @@
     },
     {
       "name": "12tv",
-      "url": "#EXTINF:-1 tvg-id=\"24Horas.es@SD\",24 Horas (1080p)",
+      "url": "#EXTINF:-1 tvg-id=\"24HorasCanarias.es@SD\",24 Horas Canarias (1080p)",
       "logo": "",
       "category": "Otros",
       "options": {
@@ -815,7 +815,7 @@
       },
       {
         "name": "12tv",
-        "url": "#EXTINF:-1 tvg-id=\"24Horas.es@SD\",24 Horas (1080p)",
+        "url": "#EXTINF:-1 tvg-id=\"24HorasCanarias.es@SD\",24 Horas Canarias (1080p)",
         "logo": "",
         "category": "Otros",
         "options": {

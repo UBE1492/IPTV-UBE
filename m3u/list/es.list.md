@@ -13,7 +13,7 @@
 | 7 | 7 TeleValencia (576p) | play.cdn.enetres.net | <https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8> |
 | 8 | 8 La Marina TV (576p) | streaming005.gestec-video.com | <https://streaming005.gestec-video.com/hls/canal24.m3u8> |
 | 9 | 9 la Loma TV (1080p) [Geo-blocked] | 9laloma.tv | <https://9laloma.tv/live.m3u8> |
-| 10 | 24 Horas (1080p) | IPv4 直链 | <http://185.47.212.25:8080/24h_HD/index.m3u8> |
+| 10 | 24 Horas Canarias (1080p) | IPv4 直链 | <http://185.47.212.25:8080/24h_HD/index.m3u8> |
 | 11 | 28 kanala | streaming.28kanala.eus | <https://streaming.28kanala.eus/hls/z.m3u8> |
 | 12 | 101tv Cádiz (1080p) | streaming101tv.es:19360 | <https://streaming101tv.es:19360/cadiz/cadiz.m3u8> |
 | 13 | A Punt (720p) | fastly.live.brightcove.com | <https://fastly.live.brightcove.com/1846756479408303045/eu-central-1/6057955885001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZWFxNWh4LmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTg4NTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1ODg1MDAxIl0sImp0aSI6IjE4NDY3NTY0Nzk0MDgzMDMwNDUifQ.o6wb_VA-TVxl3ERgr7FKLlaTjY7smErmsf73QAydySE/playlist-hls-dvr.m3u8> |
@@ -120,4 +120,4 @@
 | 114 | XPTV2 (720p) | janus.xpbroadcasting.com:8443 | <https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8> |
 | 115 | XPTV US (720p) | janus.xpbroadcasting.com:8443 | <https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8> |
 
-Updated at **Wed Aug 12 2026 19:04:30 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Aug 13 2026 02:12:28 GMT+0000 (Coordinated Universal Time)**

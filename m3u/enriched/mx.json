@@ -1,6 +1,6 @@
 {
   "name": "mx",
-  "updated_at": 1786561470760,
+  "updated_at": 1786587148760,
   "m3u": "https://ube1492.github.io/IPTV-UBE/mx.m3u",
   "channels": [
     {
@@ -471,6 +471,12 @@
     {
       "name": "ZAZ (1080p)",
       "url": "https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Univision Latin America (720p)",
+      "url": "https://streamer.metronethn.com/Univision/index.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -945,6 +951,12 @@
       {
         "name": "ZAZ (1080p)",
         "url": "https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Univision Latin America (720p)",
+        "url": "https://streamer.metronethn.com/Univision/index.m3u8",
         "logo": "",
         "category": "Otros"
       }

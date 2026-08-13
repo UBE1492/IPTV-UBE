@@ -13,7 +13,7 @@ https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8
 https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
 #EXTINF:-1 tvg-id="Canal7TeleValencia.es@SD",7 TeleValencia (576p)
 https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
-#EXTINF:-1 tvg-id="24Horas.es@SD",24 Horas (1080p)
+#EXTINF:-1 tvg-id="24HorasCanarias.es@SD",24 Horas Canarias (1080p)
 http://185.47.212.25:8080/24h_HD/index.m3u8
 #EXTINF:-1 tvg-id="28kanala.es@SD",28 kanala
 https://streaming.28kanala.eus/hls/z.m3u8
