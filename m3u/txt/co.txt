@@ -9,7 +9,6 @@ Blu_Radio_(720p),https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e49
 Buenisima_Radio_TV,https://canal.mediaserver.com.co/live/buenisimatv.m3u8
 BUM_Televisión_(720p)_[Not_24/7],https://movil.ejeserver.com/live/visiondorada.m3u8
 Canal_1_(1080p)_[Geo-blocked],https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
-Canal_1_(720p),http://177.234.249.135:8888/CANAL_UNO/index.m3u8
 Canal_1_(576p),http://138.121.15.230:9002/CANAL-UNO/index.m3u8
 Canal_2_Alpavisión_Neiva_(720p)_[Not_24/7],https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
 Canal_8_TV+_(720p),https://movil.ejeserver.com/live/canal8tv.m3u8

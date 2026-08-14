@@ -133,3 +133,4 @@ Vision_6_TV_(720p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win6
 XPTV1_(720p),https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
 XPTV2_(720p),https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8
 XPTV_US_(720p),https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8
+TVE_Internacional_America_(720p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36

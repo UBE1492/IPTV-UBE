@@ -1,6 +1,6 @@
 {
   "name": "mx",
-  "updated_at": 1786647919985,
+  "updated_at": 1786673424661,
   "m3u": "https://ube1492.github.io/IPTV-UBE/mx.m3u",
   "channels": [
     {
@@ -272,7 +272,7 @@
     },
     {
       "name": "Tlnovelas Latin America (1080p)",
-      "url": "http://177.234.249.135:8888/Telenovelas/index.m3u8",
+      "url": "http://209.14.115.253:8081/TELENOVELAS/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -477,6 +477,12 @@
     {
       "name": "Univision Latin America (720p)",
       "url": "https://streamer.metronethn.com/Univision/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "TUDN (720p)",
+      "url": "https://streamer.metronethn.com/TUDN/index.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -752,7 +758,7 @@
       },
       {
         "name": "Tlnovelas Latin America (1080p)",
-        "url": "http://177.234.249.135:8888/Telenovelas/index.m3u8",
+        "url": "http://209.14.115.253:8081/TELENOVELAS/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -957,6 +963,12 @@
       {
         "name": "Univision Latin America (720p)",
         "url": "https://streamer.metronethn.com/Univision/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "TUDN (720p)",
+        "url": "https://streamer.metronethn.com/TUDN/index.m3u8",
         "logo": "",
         "category": "Otros"
       }

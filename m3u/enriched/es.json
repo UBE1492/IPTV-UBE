@@ -1,6 +1,6 @@
 {
   "name": "es",
-  "updated_at": 1786647920599,
+  "updated_at": 1786673424953,
   "m3u": "https://ube1492.github.io/IPTV-UBE/es.m3u",
   "channels": [
     {
@@ -755,6 +755,15 @@
       "url": "https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8",
       "logo": "",
       "category": "Otros"
+    },
+    {
+      "name": "TVE Internacional America (720p)",
+      "url": "",
+      "logo": "",
+      "category": "Otros",
+      "options": {
+        "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      }
     }
   ],
   "categories": {
@@ -1511,6 +1520,15 @@
         "url": "https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8",
         "logo": "",
         "category": "Otros"
+      },
+      {
+        "name": "TVE Internacional America (720p)",
+        "url": "",
+        "logo": "",
+        "category": "Otros",
+        "options": {
+          "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        }
       }
     ]
   }

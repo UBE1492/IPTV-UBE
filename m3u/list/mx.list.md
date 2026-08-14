@@ -48,7 +48,7 @@
 | 42 | Teleplay Sureste (360p) | player.tvstream.mx | <https://player.tvstream.mx/livestream/teleplay/livesd/playlist.m3u8> |
 | 43 | Teleritmo (720p) [Not 24/7] | mdstrm.com | <https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8> |
 | 44 | Tlaxcala Televisión (360p) [Not 24/7] | vid26.mega00.com:5443 | <https://vid26.mega00.com:5443/live/streams/qNmc7nulmq8zPYZE1582752735050.m3u8> |
-| 45 | Tlnovelas Latin America (1080p) | IPv4 直链 | <http://177.234.249.135:8888/Telenovelas/index.m3u8> |
+| 45 | Tlnovelas Latin America (1080p) | IPv4 直链 | <http://209.14.115.253:8081/TELENOVELAS/index.m3u8> |
 | 46 | Transmedia Televisión Morelia (614p) [Geo-blocked] | streamingcws20.com:1935 | <http://streamingcws20.com:1935/tmtv/videotmtv/playlist.m3u8> |
 | 47 | TRC Televisión (720p) | 5fe2654d6127d.streamlock.net | <https://5fe2654d6127d.streamlock.net/trc/videotrc/playlist.m3u8> |
 | 48 | TUDN (1080p) | streaming.alwaysdata.net | <https://streaming.alwaysdata.net/tudn.php> |
@@ -83,5 +83,6 @@
 | 77 | Visión Televisión (720p) | cloudvideo.servers10.com:8081 | <https://cloudvideo.servers10.com:8081/8016/index.m3u8> |
 | 78 | ZAZ (1080p) | cloud.fastchannel.es | <https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8> |
 | 79 | Univision Latin America (720p) | streamer.metronethn.com | <https://streamer.metronethn.com/Univision/index.m3u8> |
+| 80 | TUDN (720p) | streamer.metronethn.com | <https://streamer.metronethn.com/TUDN/index.m3u8> |
 
-Updated at **Thu Aug 13 2026 19:05:19 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Aug 14 2026 02:10:24 GMT+0000 (Coordinated Universal Time)**

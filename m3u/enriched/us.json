@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1786647920638,
+  "updated_at": 1786673425130,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -456,12 +456,6 @@
     {
       "name": "BabyFirst (720p)",
       "url": "https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Bandamax USA (1080p)",
-      "url": "http://177.234.249.135:8888/Bandamax/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -1850,7 +1844,7 @@
     },
     {
       "name": "Zoom TV Kurdish (720p)",
-      "url": "",
+      "url": "#EXTINF:-1 tvg-id=\"CinemaxLatino.us@SD\",Cinemax Latino (480p)",
       "logo": "",
       "category": "Otros",
       "options": {
@@ -2313,12 +2307,6 @@
       {
         "name": "BabyFirst (720p)",
         "url": "https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Bandamax USA (1080p)",
-        "url": "http://177.234.249.135:8888/Bandamax/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -3707,7 +3695,7 @@
       },
       {
         "name": "Zoom TV Kurdish (720p)",
-        "url": "",
+        "url": "#EXTINF:-1 tvg-id=\"CinemaxLatino.us@SD\",Cinemax Latino (480p)",
         "logo": "",
         "category": "Otros",
         "options": {

@@ -46,8 +46,6 @@ http://190.93.224.42/IPE/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bitel.com.pe/
 https://live-evg10.tv360.bitel.com.pe/bitel/anqaratv/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalN.pe@SD",Canal N (576p)
-http://8.243.126.131:8000/play/a058/index.m3u8
 #EXTINF:-1 tvg-id="CRTelevision.pe@SD",CR Televisión Moyobamba (720p) [Not 24/7]
 https://live.obslivestream.com/crtvmux/index.m3u8
 #EXTINF:-1 tvg-id="DobleCTelevision.pe@SD",Doble C Television (720p)
@@ -77,7 +75,7 @@ http://45.4.1.201:8000/play/a1ai/index.m3u8
 #EXTINF:-1 tvg-id="L1Max.pe@SD",L1 Max (1080p)
 http://190.93.224.42/LIGA-1-MAX/index.m3u8
 #EXTINF:-1 tvg-id="LaTele.pe@SD",La Tele (1080p)
-http://8.243.126.131:8000/play/a01v/index.m3u8
+http://190.93.224.42/LA-TELE/index.m3u8
 #EXTINF:-1 tvg-id="Latina.pe@SD",Latina (1080p)
 http://190.93.224.42/LATINA/index.m3u8
 #EXTINF:-1 tvg-id="LatinaClasicos.pe@SD",Latina Clasicos (1080p)
@@ -189,3 +187,6 @@ https://cablered.iptvperu.tv:1936/cablered/west/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bitel.com.pe/
 https://live-evg5.tv360.bitel.com.pe/bitel/yurivisionSRT/playlist.m3u8
+#EXTINF:-1 tvg-id="Karibena.pe@SD",Karibena
+#EXTVLCOPT:http-referrer=https://karibena.pe/
+http://201.77.61.226:8000/play/a0qd/index.m3u8

@@ -44,7 +44,7 @@ Teleplay_Sureste_(720p),https://player.tvstream.mx/livestream/teleplay/livehd/pl
 Teleplay_Sureste_(360p),https://player.tvstream.mx/livestream/teleplay/livesd/playlist.m3u8
 Teleritmo_(720p)_[Not_24/7],https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 Tlaxcala_Televisión_(360p)_[Not_24/7],https://vid26.mega00.com:5443/live/streams/qNmc7nulmq8zPYZE1582752735050.m3u8
-Tlnovelas_Latin_America_(1080p),http://177.234.249.135:8888/Telenovelas/index.m3u8
+Tlnovelas_Latin_America_(1080p),http://209.14.115.253:8081/TELENOVELAS/index.m3u8
 Transmedia_Televisión_Morelia_(614p)_[Geo-blocked],http://streamingcws20.com:1935/tmtv/videotmtv/playlist.m3u8
 TRC_Televisión_(720p),https://5fe2654d6127d.streamlock.net/trc/videotrc/playlist.m3u8
 TUDN_(1080p),https://streaming.alwaysdata.net/tudn.php
@@ -79,3 +79,4 @@ VB_Media_TV_(1080p),https://capomo01-enitv.eninetworks.com/locales_vbmedia_publi
 Visión_Televisión_(720p),https://cloudvideo.servers10.com:8081/8016/index.m3u8
 ZAZ_(1080p),https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 Univision_Latin_America_(720p),https://streamer.metronethn.com/Univision/index.m3u8
+TUDN_(720p),https://streamer.metronethn.com/TUDN/index.m3u8

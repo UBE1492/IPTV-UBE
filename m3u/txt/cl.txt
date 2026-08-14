@@ -81,7 +81,6 @@ Enfoque_Digital_TV,https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.
 EPA!_TV_(720p),https://live-evg10.tv360.bitel.com.pe/bitel/epatv/playlist.m3u8
 Estacion_Limache_TV_(720p),https://v4.tustreaming.cl/limachemovil/index.m3u8
 Estacion_TV_(720p),https://unlimited1-cl-isp.dps.live/supersonikatv/supersonikatv.smil/playlist.m3u8
-ETC_TV_(576p),http://181.119.93.83:8000/play/a217/index.m3u8
 Evavision,https://stmv2.voxtvhd.com.br/evavision/evavision/playlist.m3u8
 FM_Plus_TV_(720p),https://v2.tustreaming.cl/fmplus/index.m3u8
 Fortaleza_TV_(1080p),https://multimedia.fortalezatv.cl/video/video.m3u8

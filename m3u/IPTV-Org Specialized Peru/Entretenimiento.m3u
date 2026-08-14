@@ -264,7 +264,7 @@ https://live-evg8.tv360.bitel.com.pe/bitel/nexSRT_TRA/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://bitel.com.pe/
 https://live-evg5.tv360.bitel.com.pe/bitel/tvnorte/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPeru.pe@SD",TV Peru (1080p)
-http://181.119.93.83:8000/play/a25t/index.m3u8
+http://190.93.224.42/TV-PERU/index.m3u8
 #EXTINF:-1 tvg-id="TVPeru.pe@SD",TV Peru (720p)
 http://187.102.210.46/TVPERU/index.m3u8
 #EXTINF:-1 tvg-id="TVPeruanisima.pe@SD",TV Peruanisima (720p)

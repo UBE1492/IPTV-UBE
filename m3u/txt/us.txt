@@ -76,7 +76,6 @@ AXN_Black_Czech_Republic,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0
 AXN_White_CzechRepublic,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 AXS_TV_(720p),http://23.239.31.26:8989/axstv/index.m3u8
 BabyFirst_(720p),https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
-Bandamax_USA_(1080p),http://177.234.249.135:8888/Bandamax/index.m3u8
 Bark_TV_(1080p),https://bbb-barkt-streamstak.otteravision.com/bbb/barkt/barkt.m3u8
 BBC_America_(720p),http://23.239.31.26:8989/bbcamerica/index.m3u8
 Beach_TV_Florida_&_Alabama_(720p),http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
@@ -310,3 +309,4 @@ YTA_TV,https://yta.unitedteleports.tv/hls/YTA.m3u8
 Yu-Gi-Oh!_(1080p),https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8
 Zarin_TV_(1080p),https://fl1002.bozztv.com/gf-zarintv/index.m3u8
 Zoom_TV_Kurdish_(720p),#EXTVLCOPT:http-referrer=https://zoomnews.info/
+Cinemax_Latino_(480p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
