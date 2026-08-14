@@ -85,4 +85,4 @@
 | 79 | Univision Latin America (720p) | streamer.metronethn.com | <https://streamer.metronethn.com/Univision/index.m3u8> |
 | 80 | TUDN (720p) | streamer.metronethn.com | <https://streamer.metronethn.com/TUDN/index.m3u8> |
 
-Updated at **Fri Aug 14 2026 07:36:16 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Aug 14 2026 13:12:21 GMT+0000 (Coordinated Universal Time)**
