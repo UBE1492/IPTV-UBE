@@ -1,6 +1,6 @@
 {
   "name": "cl",
-  "updated_at": 1786733885325,
+  "updated_at": 1786756996389,
   "m3u": "https://ube1492.github.io/IPTV-UBE/cl.m3u",
   "channels": [
     {
@@ -1050,6 +1050,18 @@
     {
       "name": "Zoom Tecnologico Plus (720p)",
       "url": "https://5f700d5b2c46f.streamlock.net/zoomtec/zoomtec/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "El Pinguino TV (720p)",
+      "url": "https://redirector.dps.live/hls/pinguinotv/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "El Pinguino TV",
+      "url": "https://streaming.elpinguino.com:5391/live/EP.smil/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -2103,6 +2115,18 @@
       {
         "name": "Zoom Tecnologico Plus (720p)",
         "url": "https://5f700d5b2c46f.streamlock.net/zoomtec/zoomtec/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "El Pinguino TV (720p)",
+        "url": "https://redirector.dps.live/hls/pinguinotv/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "El Pinguino TV",
+        "url": "https://streaming.elpinguino.com:5391/live/EP.smil/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       }

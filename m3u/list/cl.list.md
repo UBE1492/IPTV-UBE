@@ -178,5 +178,7 @@
 | 172 | Zona Latina (576p) | IPv4 直链 | <http://45.170.130.224:8000/play/a00x/index.m3u8> |
 | 173 | Zona Play TV (720p) | tv1.mediacp.eu:3131 | <https://tv1.mediacp.eu:3131/live/dilxbgxylive.m3u8> |
 | 174 | Zoom Tecnologico Plus (720p) | 5f700d5b2c46f.streamlock.net | <https://5f700d5b2c46f.streamlock.net/zoomtec/zoomtec/playlist.m3u8> |
+| 175 | El Pinguino TV (720p) | redirector.dps.live | <https://redirector.dps.live/hls/pinguinotv/playlist.m3u8> |
+| 176 | El Pinguino TV | streaming.elpinguino.com:5391 | <https://streaming.elpinguino.com:5391/live/EP.smil/playlist.m3u8> |
 
-Updated at **Fri Aug 14 2026 18:58:05 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Aug 15 2026 01:23:16 GMT+0000 (Coordinated Universal Time)**

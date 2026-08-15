@@ -175,3 +175,5 @@ Zona_Latina_(720p),http://45.162.193.35/ZONALATINA/index.m3u8
 Zona_Latina_(576p),http://45.170.130.224:8000/play/a00x/index.m3u8
 Zona_Play_TV_(720p),https://tv1.mediacp.eu:3131/live/dilxbgxylive.m3u8
 Zoom_Tecnologico_Plus_(720p),https://5f700d5b2c46f.streamlock.net/zoomtec/zoomtec/playlist.m3u8
+El_Pinguino_TV_(720p),https://redirector.dps.live/hls/pinguinotv/playlist.m3u8
+El_Pinguino_TV,https://streaming.elpinguino.com:5391/live/EP.smil/playlist.m3u8
