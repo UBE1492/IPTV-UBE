@@ -5,7 +5,6 @@ A&E_(720p),http://23.239.31.26:8989/aande/index.m3u8
 A&E_Latin_America_(1080p),http://138.121.15.230:9002/A&E/index.m3u8
 A&E_Latin_America_Brazil_(720p),http://45.190.28.50/AE_HD/index.m3u8
 ABC_(1080p),http://190.11.225.124:5000/live/abc_hd/playlist.m3u8
-ABC_(720p),http://40.160.24.56/ABC_SD/index.m3u8
 ABC_West_(720p),http://stream.cammonitorplus.net/1797/index.m3u8
 ABN_Afghanistan_(540p),https://mediaserver.abnvideos.com/streams/abnafghanistan.m3u8
 ABN_Africa_(480p),https://mediaserver.abnvideos.com/streams/abnafrica.m3u8
@@ -16,7 +15,6 @@ ABN_I_AM,https://mediaserver.abnvideos.com/streams/i_am_.m3u8
 ABN_Son_of_God,https://mediaserver.abnvideos.com/streams/son_of_god_.m3u8
 ABN_TV_India_(540p),https://mediaserver.abnvideos.com/streams/abntvindia.m3u8
 ABN_Urdu_(540p),https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
-ACC_Network_(720p),http://40.160.24.56/ACC_NETWORK_SD/index.m3u8
 Access_4_PAC,https://reflect-channel18vod-springfield-il-us.cablecast.tv/live-16/live/stream-4/live.m3u8
 Access_19,https://reflect-montgomerycommunitymedia.cablecast.tv/live-8/live/stream-3/live.m3u8
 Access_Nashua_(720p),https://livestream.telvue.com/nashuanh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
@@ -24,7 +22,6 @@ AccessVision_Channel_16_(720p),https://livestream.telvue.com/accvision1/f7b44cfa
 AccessVision_Channel_17_(720p),https://livestream.telvue.com/accvision2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 AccuWeather_NOW_(720p),http://23.239.31.26:8989/accuweather/index.m3u8
 Ace_TV_(480p),https://c.streamhoster.com/link/hls/W5s3fS/inLo5pcsHjo/iqg9wps0m1x_5/playlist.m3u8
-ActionMax_(720p),http://40.160.24.56/ACTIONMAX_SD/index.m3u8
 ACTV,https://castus-vod-dev.s3.amazonaws.com/vod_clients/athens/live/ch2/video.m3u8
 Adult_Swim_Latin_America_Brazil_(720p),http://45.190.28.50/TRUTV_HD/index.m3u8
 AfroLandTV_(1080p),https://alt-al.otteravision.com/alt/al/al.m3u8
@@ -88,11 +85,6 @@ beIN_SPORTS_XTRA_(1080p),https://bein-xtra-bein.amagi.tv/playlist.m3u8
 beIN_SPORTS_XTRA_en_Espanol_(1080p),http://201.190.41.246:9060/play/a03y/index.m3u8
 Berks_Community_TV_(1080p),https://livestream.telvue.com/berkscmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 Best_of_Dr_Phil,http://88.218.227.85:8080/60f760bbdf090700075d7bfe?mode=hls
-BET_(720p),http://40.160.24.56/BET_EAST_SD/index.m3u8
-BET_Her_(720p),http://40.160.24.56/BET_HER_SD/index.m3u8
-BET_Jams_(720p),http://40.160.24.56/BET_JAMS_SD/index.m3u8
-BET_Soul_(720p),http://40.160.24.56/BET_SOUL_SD/index.m3u8
-BET_West_(720p),http://40.160.24.56/BET_WEST_SD/index.m3u8
 Better_Health_TV_(480p),https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8
 Better_Life_Nature_Channel_(480p),https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
 Better_Life_TV_(720p),https://tgn.bozztv.com/betterlife/betterlife/betterlife/index.m3u8
@@ -103,7 +95,6 @@ Binge,https://videostack1.cdnstream1.com:1936/binge-tv/binge-tv/playlist.m3u8
 Biz_TV_(1080p),https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8
 Bloomberg_Originals_(1080p),https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8
 Bloomberg_TV_(1080p),http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
-Bloomberg_TV_(720p),http://40.160.24.56/BLOOMBERG_SD/index.m3u8
 Bloomberg_TV_+_(2160p),https://66e4bbba.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnVFZQbHVzX0hMUw/playlist.m3u8
 Bloomberg_TV_US_(720p),https://bloomberg.com/media-manifest/streams/us.m3u8
 Bloomberg_TV_US_Live_Event_(720p),https://bloomberg.com/media-manifest/streams/us-event.m3u8
@@ -118,7 +109,7 @@ Bounce_(720p),http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
 Bounce_XL_(1080p),https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tablo/playlist.m3u8
 BPX_TV_Radio,https://video1.getstreamhosting.com:1936/8212/8212/playlist.m3u8
 Brat_TV_(1080p),https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04072b68-dc6a-4d5e-98af-f356ba8d5063/playlist.m3u8
-Bravo_(720p),http://40.160.24.56/BRAVO_SD/index.m3u8
+Bravo_(720p),http://41.205.93.154/BRAVO/index.m3u8
 Business_Rockstars_(720p),https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2220
 Buzzr_(1080p),http://23.237.104.106:8080/USA_BUZZR/index.m3u8
 BX_Arts_(720p),https://reflect-stream-bronxnet.cablecast.tv/live-19/live/stream-2/live.m3u8
@@ -142,7 +133,6 @@ CBN_News_Channel_(1080p),https://fastly.live.brightcove.com/6380396819112/us-eas
 CBS_(1080p),http://stream.cammonitorplus.net/1783/index.m3u8
 CBS_(720p),http://190.11.225.124:5000/live/cbs_hd/playlist.m3u8
 CBS_(576p),http://tvsen7.aynascope.net/cbs/index.m3u8
-CBS_News_24/7_(720p),http://40.160.24.56/CBS_NEWS/index.m3u8
 CCX1_(1080p),http://reflect-ccx.cablecast.tv/live-9/live/stream-1/live.m3u8
 Celebrity_Scene_TV_(720p),https://rpn.bozztv.com/gusa/gusa-celebrityscene/index.m3u8
 CFN_Catholic_Faith_Network_(720p),https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8
@@ -171,11 +161,8 @@ Clubbing_TV_France,https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c1
 CMC_California_Music_Channel_(1080p)_[Geo-blocked],https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
 CMC-USA_Country_Music_Channel_(720p),https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8
 CMT_(720p),http://23.237.104.106:8080/USA_CMT/index.m3u8
-CNBC_(720p),http://40.160.24.56/CNBC_SD/index.m3u8
 CNBC_Indonesia_(720p),https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-CNBC_World_(720p),http://40.160.24.56/CNBC_WORLD_SD/index.m3u8
 Comedy_Central_(1080p),http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
-Comedy_Central_(720p),http://40.160.24.56/COMEDY_CENTRAL_SD/index.m3u8
 Comedy_Central_Latin_America_(1080p),http://15.204.246.24:8080/ComedyCentralHD/index.m3u8
 Comedy_Central_Latin_America,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 Sony_KAL_Hindi_(1080p),https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8

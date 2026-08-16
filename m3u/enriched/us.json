@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1786862600687,
+  "updated_at": 1786884259401,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -36,12 +36,6 @@
     {
       "name": "ABC (1080p)",
       "url": "http://190.11.225.124:5000/live/abc_hd/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "ABC (720p)",
-      "url": "http://40.160.24.56/ABC_SD/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -106,12 +100,6 @@
       "category": "Otros"
     },
     {
-      "name": "ACC Network (720p)",
-      "url": "http://40.160.24.56/ACC_NETWORK_SD/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Access 4 PAC",
       "url": "https://reflect-channel18vod-springfield-il-us.cablecast.tv/live-16/live/stream-4/live.m3u8",
       "logo": "",
@@ -150,12 +138,6 @@
     {
       "name": "Ace TV (480p)",
       "url": "https://c.streamhoster.com/link/hls/W5s3fS/inLo5pcsHjo/iqg9wps0m1x_5/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "ActionMax (720p)",
-      "url": "http://40.160.24.56/ACTIONMAX_SD/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -532,36 +514,6 @@
       "category": "Otros"
     },
     {
-      "name": "BET (720p)",
-      "url": "http://40.160.24.56/BET_EAST_SD/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "BET Her (720p)",
-      "url": "http://40.160.24.56/BET_HER_SD/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "BET Jams (720p)",
-      "url": "http://40.160.24.56/BET_JAMS_SD/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "BET Soul (720p)",
-      "url": "http://40.160.24.56/BET_SOUL_SD/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "BET West (720p)",
-      "url": "http://40.160.24.56/BET_WEST_SD/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Better Health TV (480p)",
       "url": "https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8",
       "logo": "",
@@ -618,12 +570,6 @@
     {
       "name": "Bloomberg TV (1080p)",
       "url": "http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Bloomberg TV (720p)",
-      "url": "http://40.160.24.56/BLOOMBERG_SD/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -713,7 +659,7 @@
     },
     {
       "name": "Bravo (720p)",
-      "url": "http://40.160.24.56/BRAVO_SD/index.m3u8",
+      "url": "http://41.205.93.154/BRAVO/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -852,12 +798,6 @@
     {
       "name": "CBS (576p)",
       "url": "http://tvsen7.aynascope.net/cbs/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "CBS News 24/7 (720p)",
-      "url": "http://40.160.24.56/CBS_NEWS/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -1030,32 +970,14 @@
       "category": "Otros"
     },
     {
-      "name": "CNBC (720p)",
-      "url": "http://40.160.24.56/CNBC_SD/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "CNBC Indonesia (720p)",
       "url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "CNBC World (720p)",
-      "url": "http://40.160.24.56/CNBC_WORLD_SD/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Comedy Central (1080p)",
       "url": "http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Comedy Central (720p)",
-      "url": "http://40.160.24.56/COMEDY_CENTRAL_SD/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -1891,12 +1813,6 @@
         "category": "Otros"
       },
       {
-        "name": "ABC (720p)",
-        "url": "http://40.160.24.56/ABC_SD/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "ABC West (720p)",
         "url": "http://stream.cammonitorplus.net/1797/index.m3u8",
         "logo": "",
@@ -1957,12 +1873,6 @@
         "category": "Otros"
       },
       {
-        "name": "ACC Network (720p)",
-        "url": "http://40.160.24.56/ACC_NETWORK_SD/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "Access 4 PAC",
         "url": "https://reflect-channel18vod-springfield-il-us.cablecast.tv/live-16/live/stream-4/live.m3u8",
         "logo": "",
@@ -2001,12 +1911,6 @@
       {
         "name": "Ace TV (480p)",
         "url": "https://c.streamhoster.com/link/hls/W5s3fS/inLo5pcsHjo/iqg9wps0m1x_5/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "ActionMax (720p)",
-        "url": "http://40.160.24.56/ACTIONMAX_SD/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -2383,36 +2287,6 @@
         "category": "Otros"
       },
       {
-        "name": "BET (720p)",
-        "url": "http://40.160.24.56/BET_EAST_SD/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "BET Her (720p)",
-        "url": "http://40.160.24.56/BET_HER_SD/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "BET Jams (720p)",
-        "url": "http://40.160.24.56/BET_JAMS_SD/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "BET Soul (720p)",
-        "url": "http://40.160.24.56/BET_SOUL_SD/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "BET West (720p)",
-        "url": "http://40.160.24.56/BET_WEST_SD/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "Better Health TV (480p)",
         "url": "https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8",
         "logo": "",
@@ -2469,12 +2343,6 @@
       {
         "name": "Bloomberg TV (1080p)",
         "url": "http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Bloomberg TV (720p)",
-        "url": "http://40.160.24.56/BLOOMBERG_SD/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -2564,7 +2432,7 @@
       },
       {
         "name": "Bravo (720p)",
-        "url": "http://40.160.24.56/BRAVO_SD/index.m3u8",
+        "url": "http://41.205.93.154/BRAVO/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -2703,12 +2571,6 @@
       {
         "name": "CBS (576p)",
         "url": "http://tvsen7.aynascope.net/cbs/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "CBS News 24/7 (720p)",
-        "url": "http://40.160.24.56/CBS_NEWS/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -2881,32 +2743,14 @@
         "category": "Otros"
       },
       {
-        "name": "CNBC (720p)",
-        "url": "http://40.160.24.56/CNBC_SD/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "CNBC Indonesia (720p)",
         "url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "CNBC World (720p)",
-        "url": "http://40.160.24.56/CNBC_WORLD_SD/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "Comedy Central (1080p)",
         "url": "http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Comedy Central (720p)",
-        "url": "http://40.160.24.56/COMEDY_CENTRAL_SD/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
