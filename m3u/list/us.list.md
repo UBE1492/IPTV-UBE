@@ -196,7 +196,7 @@
 | 190 | TLN Media Chicago (720p) | fuel-streaming-prod01.fuelmedia.io | <https://fuel-streaming-prod01.fuelmedia.io/v1/sem/cb165faa-41c9-42ad-83ee-ad5ca9fb927c.m3u8> |
 | 191 | TLN Media San Francisco (720p) | fuel-streaming-prod01.fuelmedia.io | <https://fuel-streaming-prod01.fuelmedia.io/v1/sem/b29d27bb-88af-42d1-937a-5bdf76b71c17.m3u8> |
 | 192 | TM TV (720p) | hls.tmtv.live | <https://hls.tmtv.live/hls/stream.m3u8> |
-| 193 | TNT Novelas (1080p) | IPv4 直链 | <http://15.204.246.24:8080/TNTNovelasHD/index.m3u8> |
+| 193 | TNT Novelas (1080p) | IPv4 直链 | <http://190.93.224.42/TNT-NOVELAS/index.m3u8> |
 | 194 | TNT Novelas Brazil (720p) | IPv4 直链 | <http://45.162.64.114/TNT_NOVELAS/index.m3u8> |
 | 195 | Toon Goggles (720p) | stream-us-east-1.getpublica.com | <https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37> |
 | 196 | Toonami Aftermath East (480p) | api.toonamiaftermath.com:3000 | <http://api.toonamiaftermath.com:3000/est/playlist.m3u8> |
@@ -308,4 +308,4 @@
 | 302 | Yu-Gi-Oh! (1080p) | amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv | <https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8> |
 | 303 | Zarin TV (1080p) | fl1002.bozztv.com | <https://fl1002.bozztv.com/gf-zarintv/index.m3u8> |
 
-Updated at **Sat Aug 15 2026 18:33:21 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Aug 16 2026 01:34:19 GMT+0000 (Coordinated Universal Time)**

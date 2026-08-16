@@ -1,6 +1,6 @@
 {
   "name": "latam_deporte",
-  "updated_at": 1786818800193,
+  "updated_at": 1786844057636,
   "m3u": "https://ube1492.github.io/IPTV-UBE/latam_deporte.m3u",
   "channels": [
     {
@@ -34,8 +34,20 @@
       "category": "Otros"
     },
     {
+      "name": "ESPN Deportes HD (720p)",
+      "url": "https://gpuserver7.tier1streams.com/ESPN_DEPORTES/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
       "name": "ESPNU (720p)",
       "url": "http://23.237.104.106:8080/USA_ESPNU/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "ESPNU HD (720p)",
+      "url": "http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -85,8 +97,20 @@
         "category": "Otros"
       },
       {
+        "name": "ESPN Deportes HD (720p)",
+        "url": "https://gpuserver7.tier1streams.com/ESPN_DEPORTES/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
         "name": "ESPNU (720p)",
         "url": "http://23.237.104.106:8080/USA_ESPNU/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "ESPNU HD (720p)",
+        "url": "http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8",
         "logo": "",
         "category": "Otros"
       },

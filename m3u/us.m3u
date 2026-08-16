@@ -394,7 +394,7 @@ https://fuel-streaming-prod01.fuelmedia.io/v1/sem/b29d27bb-88af-42d1-937a-5bdf76
 #EXTINF:-1 tvg-id="TMTV.us@SD",TM TV (720p)
 https://hls.tmtv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="TNTNovelas.us@Panregional",TNT Novelas (1080p)
-http://15.204.246.24:8080/TNTNovelasHD/index.m3u8
+http://190.93.224.42/TNT-NOVELAS/index.m3u8
 #EXTINF:-1 tvg-id="TNTNovelas.us@Brazil",TNT Novelas Brazil (720p)
 http://45.162.64.114/TNT_NOVELAS/index.m3u8
 #EXTINF:-1 tvg-id="ToonGoggles.us@SD",Toon Goggles (720p)

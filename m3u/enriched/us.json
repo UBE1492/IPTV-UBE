@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1786818801959,
+  "updated_at": 1786844059052,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -1175,7 +1175,7 @@
     },
     {
       "name": "TNT Novelas (1080p)",
-      "url": "http://15.204.246.24:8080/TNTNovelasHD/index.m3u8",
+      "url": "http://190.93.224.42/TNT-NOVELAS/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -3026,7 +3026,7 @@
       },
       {
         "name": "TNT Novelas (1080p)",
-        "url": "http://15.204.246.24:8080/TNTNovelasHD/index.m3u8",
+        "url": "http://190.93.224.42/TNT-NOVELAS/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
