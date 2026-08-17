@@ -191,7 +191,7 @@
 | 185 | Toonami Aftermath Radio (480p) | api.toonamiaftermath.com:3000 | <http://api.toonamiaftermath.com:3000/radio/playlist.m3u8> |
 | 186 | ToonGoggles (720p) | d1eg24xrsfr6kv.cloudfront.net | <https://d1eg24xrsfr6kv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-b4b1bzxkt1uzo-prod/tg/tg/tg.m3u8> |
 | 187 | TSTV (720p) | reflector.watchtstv.com | <https://reflector.watchtstv.com/hls/livestream.m3u8> |
-| 188 | TUDN (1080p) [Geo-blocked] | messi.damitv.st | <https://messi.damitv.st/papi/ts/tudn-usa/playlist.m3u8> |
+| 188 | TUDN (1080p) [Geo-blocked] | streaming-live-fcdn.api.prd.univisionnow.com | <https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8> |
 | 189 | TUTV (1080p) | livestream.telvue.com | <https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8> |
 | 190 | TV Hispanic [Not 24/7] | livetv.305streamhd.com:3504 | <https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8> |
 | 191 | TV Land (720p) | IPv4 直链 | <http://40.160.24.55/TV_LAND/index.m3u8> |
@@ -295,4 +295,4 @@
 | 289 | Yu-Gi-Oh! (1080p) | amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv | <https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8> |
 | 290 | Zarin TV (1080p) | fl1002.bozztv.com | <https://fl1002.bozztv.com/gf-zarintv/index.m3u8> |
 
-Updated at **Sun Aug 16 2026 18:32:45 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Aug 17 2026 01:25:57 GMT+0000 (Coordinated Universal Time)**

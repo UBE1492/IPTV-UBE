@@ -15,4 +15,4 @@
 | 9 | Fox Sports 1 (720p) | IPv4 直链 | <http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8> |
 | 10 | Fox Sports 2 (720p) | ftv.itscwd273.workers.dev | <https://ftv.itscwd273.workers.dev/?id=FOXSPORTS2> |
 
-Updated at **Sun Aug 16 2026 18:32:43 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Aug 17 2026 01:25:56 GMT+0000 (Coordinated Universal Time)**

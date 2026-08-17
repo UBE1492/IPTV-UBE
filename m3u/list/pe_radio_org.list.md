@@ -10,8 +10,6 @@
 | 4 | Radio Onda Digital (1080p) | live.ondadigitaltv.com | <https://live.ondadigitaltv.com/RADIOODTV/index.m3u8> |
 | 5 | Radio Tropical Tarapoto (480p) [Not 24/7] | videoserver.tmcreativos.com:19360 | <https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8> |
 | 6 | Radio San Borja TV (1080p) | stream.mediacorp.pe | <https://stream.mediacorp.pe/srt/3/playlist.m3u8> |
-| 7 | Radio Rumba TV (720p) | live-evg7.tv360.bitel.com.pe | <https://live-evg7.tv360.bitel.com.pe/bitel/rumba/playlist.m3u8> |
-| 8 | Atlantis Radio TV (720p) | live-evg8.tv360.bitel.com.pe | <https://live-evg8.tv360.bitel.com.pe/bitel/atlantisSRT/playlist.m3u8> |
-| 9 | Turbo Mix Radio TV (720p) | live-evg11.tv360.bitel.com.pe | <https://live-evg11.tv360.bitel.com.pe/bitel/turbomixSRT/playlist.m3u8> |
+| 7 | Turbo Mix Radio TV (720p) | live-evg11.tv360.bitel.com.pe | <https://live-evg11.tv360.bitel.com.pe/bitel/turbomixSRT/playlist.m3u8> |
 
-Updated at **Sun Aug 16 2026 18:32:49 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Aug 17 2026 01:26:01 GMT+0000 (Coordinated Universal Time)**

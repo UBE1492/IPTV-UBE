@@ -191,7 +191,7 @@ Toonami_Aftermath_Movies_(540p),http://api.toonamiaftermath.com:3000/movies/play
 Toonami_Aftermath_Radio_(480p),http://api.toonamiaftermath.com:3000/radio/playlist.m3u8
 ToonGoggles_(720p),https://d1eg24xrsfr6kv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-b4b1bzxkt1uzo-prod/tg/tg/tg.m3u8
 TSTV_(720p),https://reflector.watchtstv.com/hls/livestream.m3u8
-TUDN_(1080p)_[Geo-blocked],https://messi.damitv.st/papi/ts/tudn-usa/playlist.m3u8
+TUDN_(1080p)_[Geo-blocked],https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
 TUTV_(1080p),https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 TV_Hispanic_[Not_24/7],https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8
 TV_Land_(720p),http://40.160.24.55/TV_LAND/index.m3u8
