@@ -34,4 +34,4 @@
 | 28 | Venus Media (1080p) | tigocloud.desdeparaguay.net | <https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8> |
 | 29 | Villa Elisa Radio TV (1080p) | copacogen.desdeparaguay.net | <https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/playlist.m3u8?admin=nacion> |
 
-Updated at **Tue Aug 18 2026 06:48:19 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Aug 18 2026 12:51:50 GMT+0000 (Coordinated Universal Time)**
