@@ -12,4 +12,4 @@
 | 6 | Fox Sports 1 (720p) | IPv4 直链 | <http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8> |
 | 7 | Fox Sports 2 (720p) | tvsen7.aynascope.net | <https://tvsen7.aynascope.net/foxsports2/index.m3u8> |
 
-Updated at **Wed Aug 19 2026 06:49:12 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Aug 19 2026 12:52:25 GMT+0000 (Coordinated Universal Time)**
