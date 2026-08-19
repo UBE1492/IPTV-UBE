@@ -60,7 +60,6 @@ American_Horrors_(480p),http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
 AMG_TV_(1080p),https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 Amga_TV_(720p)_[Not_24/7],https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8
 Amu_TV,https://jmc-live.ercdn.net/amutv/amutv.m3u8
-Aspire_(720p),http://40.160.24.56/ASPIRE_SD/index.m3u8
 ATL_26,https://securestream11.champds.com/LIVE/AtlantaGALIVE/AtlantaGALIVE.m3u8
 Atlas_(480p),https://cdn.whiplash.cc/whiplash-atlas/index.m3u8
 ATXN1_(1080p),https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(616d6f49-eaec-6f7e-7186-2bbaf66c69c0)/index.m3u8
@@ -80,7 +79,6 @@ Beach_TV_Key_West_&_Florida_Keys_(720p),https://5ed325193d4e1.streamlock.net:444
 Beach_TV_Myrtle_Beach_&_The_Grand_Strand_(720p),http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
 Beach_TV_Panama_City_(720p),http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
 beIN_Sports_USA_(1080p)_[Geo-blocked],https://messi.damitv.st/papi/ts/beinsports-usa/playlist.m3u8
-beIN_Sports_USA_(576p),http://40.160.24.52/BEIN_SPORTS_HD/index.m3u8
 beIN_SPORTS_XTRA_(1080p),https://bein-xtra-bein.amagi.tv/playlist.m3u8
 beIN_SPORTS_XTRA_en_Espanol_(1080p),http://201.190.41.246:9060/play/a03y/index.m3u8
 Berks_Community_TV_(1080p),https://livestream.telvue.com/berkscmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
@@ -104,7 +102,6 @@ Bloomfield_Access_Government_TV_(480p),https://reflect-batv.cablecast.tv/live-3/
 Bloomfield_Access_TV_Channel_5_(480p),https://reflect-batv.cablecast.tv/live-5/live/live.m3u8
 Blues_TV,https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
 BMC-HD_TV_(720p),https://livestream.telvue.com/belmontmedia4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-Bounce_(1080p),http://40.160.24.58/BOUNCE_TV/index.m3u8
 Bounce_(720p),http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
 Bounce_XL_(1080p),https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tablo/playlist.m3u8
 BPX_TV_Radio,https://video1.getstreamhosting.com:1936/8212/8212/playlist.m3u8
@@ -168,8 +165,6 @@ Comedy_Central_Latin_America,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 
 Sony_KAL_Hindi_(1080p),https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
 Sony_Movies_Latin_America_(720p),http://15.204.246.24:8080/SonyMoviesHD/index.m3u8
 Spirit_TV_(720p)_[Not_24/7],https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
-Sportsman_Channel_(720p),http://40.160.24.55/Sportsman_Channel/index.m3u8
-SportsNet_New_York_(1080p),http://40.160.24.55/SNY/index.m3u8
 St_Lucie_Public_Schools,https://reflect-stlucie-ps-fl.cablecast.tv/live-1/live/stream-1/WIFI-1896k-720p.m3u8
 Star_Channel_Latin_America_(1080p),http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
 Star_Channel_Latin_America_(1080i),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
@@ -194,8 +189,6 @@ TSTV_(720p),https://reflector.watchtstv.com/hls/livestream.m3u8
 TUDN_(1080p)_[Geo-blocked],https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
 TUTV_(1080p),https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 TV_Hispanic_[Not_24/7],https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8
-TV_Land_(720p),http://40.160.24.55/TV_LAND/index.m3u8
-TV_One_(1080p),http://40.160.24.55/TV_ONE/index.m3u8
 TVS_Bowling_Network_(720p),https://rpn.bozztv.com/gusa/gusa-tvsbowling/index.m3u8
 TVS_Boxing_(360p),https://rpn.bozztv.com/gusa/gusa-tvsboxing/index.m3u8
 TVS_Cipher_Network_(360p),https://rpn.bozztv.com/gusa/gusa-tvsmystery/index.m3u8
@@ -239,8 +232,7 @@ Universal_Comedy_(1080p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0
 Universal_TV_Latin_America_(1080p),http://15.204.246.24:8080/UniversalHD/index.m3u8
 Univision_(1080p),http://190.197.41.183/Univision/index.m3u8
 Univision_Tlnovelas_(1080p),http://45.6.4.35/TELENOVELAS/index.m3u8
-Up_TV_(1080p),http://40.160.24.55/Up_TV/index.m3u8
-USA_Network_(1080p),http://40.160.24.55/USA_NETWORK/index.m3u8
+USA_Network_(1080p),http://190.11.225.124:5000/live/usa_hd/playlist.m3u8
 USA_Network_Latin_America_(1080p),http://138.121.15.230:9002/USA/index.m3u8
 WGN-DT1_(720p),http://23.237.104.106:8080/USA_WGN/index.m3u8
 WGTV-DT3_(1080p),https://wgtvdt3.lls.pbs.org/wgtvdt3-cmaf-hls.m3u8

@@ -1,17 +1,11 @@
 {
   "name": "latam_deporte",
-  "updated_at": 1787078483269,
+  "updated_at": 1787102633103,
   "m3u": "https://ube1492.github.io/IPTV-UBE/latam_deporte.m3u",
   "channels": [
     {
       "name": "beIN Sports USA (1080p)",
       "url": "https://messi.damitv.st/papi/ts/beinsports-usa/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "beIN Sports USA (576p)",
-      "url": "http://40.160.24.52/BEIN_SPORTS_HD/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -24,18 +18,6 @@
     {
       "name": "beIN SPORTS XTRA en Espanol (1080p)",
       "url": "http://201.190.41.246:9060/play/a03y/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "ESPN Deportes (720p)",
-      "url": "http://40.160.24.58/ESPN_DEPORTES/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "ESPN Deportes HD (720p)",
-      "url": "https://gpuserver7.tier1streams.com/ESPN_DEPORTES/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -59,7 +41,7 @@
     },
     {
       "name": "Fox Sports 2 (720p)",
-      "url": "https://ftv.itscwd273.workers.dev/?id=FOXSPORTS2",
+      "url": "https://tvsen7.aynascope.net/foxsports2/index.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -73,12 +55,6 @@
         "category": "Otros"
       },
       {
-        "name": "beIN Sports USA (576p)",
-        "url": "http://40.160.24.52/BEIN_SPORTS_HD/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "beIN SPORTS XTRA (1080p)",
         "url": "https://bein-xtra-bein.amagi.tv/playlist.m3u8",
         "logo": "",
@@ -87,18 +63,6 @@
       {
         "name": "beIN SPORTS XTRA en Espanol (1080p)",
         "url": "http://201.190.41.246:9060/play/a03y/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "ESPN Deportes (720p)",
-        "url": "http://40.160.24.58/ESPN_DEPORTES/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "ESPN Deportes HD (720p)",
-        "url": "https://gpuserver7.tier1streams.com/ESPN_DEPORTES/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -122,7 +86,7 @@
       },
       {
         "name": "Fox Sports 2 (720p)",
-        "url": "https://ftv.itscwd273.workers.dev/?id=FOXSPORTS2",
+        "url": "https://tvsen7.aynascope.net/foxsports2/index.m3u8",
         "logo": "",
         "category": "Otros"
       }

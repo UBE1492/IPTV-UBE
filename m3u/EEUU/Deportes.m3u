@@ -1,16 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="beINSportsUSA.us@SD",beIN Sports USA (1080p) [Geo-blocked]
 https://messi.damitv.st/papi/ts/beinsports-usa/playlist.m3u8
-#EXTINF:-1 tvg-id="beINSportsUSA.us@SD",beIN Sports USA (576p)
-http://40.160.24.52/BEIN_SPORTS_HD/index.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD",beIN SPORTS XTRA (1080p)
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD",beIN SPORTS XTRA en Espanol (1080p)
 http://201.190.41.246:9060/play/a03y/index.m3u8
-#EXTINF:-1 tvg-id="SportsmanChannel.us@SD",Sportsman Channel (720p)
-http://40.160.24.55/Sportsman_Channel/index.m3u8
-#EXTINF:-1 tvg-id="SportsNetNewYork.us@SD",SportsNet New York (1080p)
-http://40.160.24.55/SNY/index.m3u8
 #EXTINF:-1 tvg-id="TVSClassicSports.us@SD",TVS Classic Sports (360p)
 https://rpn.bozztv.com/gusa/gusa-tvs/index.m3u8
 #EXTINF:-1 tvg-id="TVSPinballNetwork.us@SD",TVS Pinball Network (480p)

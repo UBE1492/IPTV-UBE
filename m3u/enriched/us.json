@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1787078484968,
+  "updated_at": 1787102634911,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -370,12 +370,6 @@
       "category": "Otros"
     },
     {
-      "name": "Aspire (720p)",
-      "url": "http://40.160.24.56/ASPIRE_SD/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "ATL 26",
       "url": "https://securestream11.champds.com/LIVE/AtlantaGALIVE/AtlantaGALIVE.m3u8",
       "logo": "",
@@ -480,12 +474,6 @@
     {
       "name": "beIN Sports USA (1080p) [Geo-blocked]",
       "url": "https://messi.damitv.st/papi/ts/beinsports-usa/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "beIN Sports USA (576p)",
-      "url": "http://40.160.24.52/BEIN_SPORTS_HD/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -624,12 +612,6 @@
     {
       "name": "BMC-HD TV (720p)",
       "url": "https://livestream.telvue.com/belmontmedia4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Bounce (1080p)",
-      "url": "http://40.160.24.58/BOUNCE_TV/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -1009,18 +991,6 @@
       "category": "Otros"
     },
     {
-      "name": "Sportsman Channel (720p)",
-      "url": "http://40.160.24.55/Sportsman_Channel/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "SportsNet New York (1080p)",
-      "url": "http://40.160.24.55/SNY/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "St Lucie Public Schools",
       "url": "https://reflect-stlucie-ps-fl.cablecast.tv/live-1/live/stream-1/WIFI-1896k-720p.m3u8",
       "logo": "",
@@ -1158,18 +1128,6 @@
     {
       "name": "TV Hispanic [Not 24/7]",
       "url": "https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "TV Land (720p)",
-      "url": "http://40.160.24.55/TV_LAND/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "TV One (1080p)",
-      "url": "http://40.160.24.55/TV_ONE/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -1429,14 +1387,8 @@
       "category": "Otros"
     },
     {
-      "name": "Up TV (1080p)",
-      "url": "http://40.160.24.55/Up_TV/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "USA Network (1080p)",
-      "url": "http://40.160.24.55/USA_NETWORK/index.m3u8",
+      "url": "http://190.11.225.124:5000/live/usa_hd/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -2143,12 +2095,6 @@
         "category": "Otros"
       },
       {
-        "name": "Aspire (720p)",
-        "url": "http://40.160.24.56/ASPIRE_SD/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "ATL 26",
         "url": "https://securestream11.champds.com/LIVE/AtlantaGALIVE/AtlantaGALIVE.m3u8",
         "logo": "",
@@ -2253,12 +2199,6 @@
       {
         "name": "beIN Sports USA (1080p) [Geo-blocked]",
         "url": "https://messi.damitv.st/papi/ts/beinsports-usa/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "beIN Sports USA (576p)",
-        "url": "http://40.160.24.52/BEIN_SPORTS_HD/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -2397,12 +2337,6 @@
       {
         "name": "BMC-HD TV (720p)",
         "url": "https://livestream.telvue.com/belmontmedia4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Bounce (1080p)",
-        "url": "http://40.160.24.58/BOUNCE_TV/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -2782,18 +2716,6 @@
         "category": "Otros"
       },
       {
-        "name": "Sportsman Channel (720p)",
-        "url": "http://40.160.24.55/Sportsman_Channel/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "SportsNet New York (1080p)",
-        "url": "http://40.160.24.55/SNY/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "St Lucie Public Schools",
         "url": "https://reflect-stlucie-ps-fl.cablecast.tv/live-1/live/stream-1/WIFI-1896k-720p.m3u8",
         "logo": "",
@@ -2931,18 +2853,6 @@
       {
         "name": "TV Hispanic [Not 24/7]",
         "url": "https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "TV Land (720p)",
-        "url": "http://40.160.24.55/TV_LAND/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "TV One (1080p)",
-        "url": "http://40.160.24.55/TV_ONE/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -3202,14 +3112,8 @@
         "category": "Otros"
       },
       {
-        "name": "Up TV (1080p)",
-        "url": "http://40.160.24.55/Up_TV/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "USA Network (1080p)",
-        "url": "http://40.160.24.55/USA_NETWORK/index.m3u8",
+        "url": "http://190.11.225.124:5000/live/usa_hd/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },
