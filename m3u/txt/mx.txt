@@ -80,3 +80,4 @@ Visión_Televisión_(720p),https://cloudvideo.servers10.com:8081/8016/index.m3u8
 ZAZ_(1080p),https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 Univision_Latin_America_(720p),https://streamer.metronethn.com/Univision/index.m3u8
 TUDN_(720p),https://streamer.metronethn.com/TUDN/index.m3u8
+GikTVMX_(720p),https://pistream.ddns.net/hls/stream.m3u8

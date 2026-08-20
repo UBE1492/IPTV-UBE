@@ -84,5 +84,6 @@
 | 78 | ZAZ (1080p) | cloud.fastchannel.es | <https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8> |
 | 79 | Univision Latin America (720p) | streamer.metronethn.com | <https://streamer.metronethn.com/Univision/index.m3u8> |
 | 80 | TUDN (720p) | streamer.metronethn.com | <https://streamer.metronethn.com/TUDN/index.m3u8> |
+| 81 | GikTVMX (720p) | pistream.ddns.net | <https://pistream.ddns.net/hls/stream.m3u8> |
 
-Updated at **Wed Aug 19 2026 18:38:44 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Aug 20 2026 01:23:14 GMT+0000 (Coordinated Universal Time)**
