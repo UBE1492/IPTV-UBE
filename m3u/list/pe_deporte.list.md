@@ -4,11 +4,11 @@
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
-| 1 | ESPN 3 | IPv4 直链 | <http://179.1.87.75:8098/play/a0hn/index.m3u8> |
-| 2 | Fox Sports 3 | IPv4 直链 | <http://179.1.87.75:8098/play/a0fh/index.m3u8> |
-| 3 | ESPN 4 | IPv4 直链 | <http://179.1.87.75:8098/play/a0fu/index.m3u8> |
+| 1 | Fox Sports 3 | IPv4 直链 | <http://179.1.87.75:8098/play/a0fh/index.m3u8> |
+| 2 | ESPN 4 | IPv4 直链 | <http://179.1.87.75:8098/play/a0fu/index.m3u8> |
+| 3 | ESPN 3 | IPv4 直链 | <http://179.1.87.75:8098/play/a0hn/index.m3u8> |
 | 4 | ESPN 2 | IPv4 直链 | <http://179.1.87.75:8098/play/a0ew/index.m3u8> |
 | 5 | Fox Sports 2 | IPv4 直链 | <http://179.1.87.75:8098/play/a0fg/index.m3u8> |
 | 6 | L1 Max (1080p) | IPv4 直链 | <http://190.93.224.42/LIGA-1-MAX/index.m3u8> |
 
-Updated at **Thu Aug 20 2026 12:54:36 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Aug 20 2026 18:42:38 GMT+0000 (Coordinated Universal Time)**
