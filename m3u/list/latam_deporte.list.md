@@ -13,4 +13,4 @@
 | 7 | Fox Sports 2 (720p) | tvsen7.aynascope.net | <https://tvsen7.aynascope.net/foxsports2/index.m3u8> |
 | 8 | ESPN Deportes HD (720p) | IPv4 直链 | <http://168.228.44.241:9998/play/a0dz/index.m3u8> |
 
-Updated at **Thu Aug 20 2026 01:23:13 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Aug 20 2026 06:50:43 GMT+0000 (Coordinated Universal Time)**
