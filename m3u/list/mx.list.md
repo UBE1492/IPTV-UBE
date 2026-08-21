@@ -86,4 +86,4 @@
 | 80 | TUDN (720p) | streamer.metronethn.com | <https://streamer.metronethn.com/TUDN/index.m3u8> |
 | 81 | GikTVMX (720p) | pistream.ddns.net | <https://pistream.ddns.net/hls/stream.m3u8> |
 
-Updated at **Fri Aug 21 2026 06:51:48 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Aug 21 2026 12:53:16 GMT+0000 (Coordinated Universal Time)**
