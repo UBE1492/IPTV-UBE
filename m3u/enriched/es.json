@@ -1,6 +1,6 @@
 {
   "name": "es",
-  "updated_at": 1787251349729,
+  "updated_at": 1787275649794,
   "m3u": "https://ube1492.github.io/IPTV-UBE/es.m3u",
   "channels": [
     {
@@ -86,12 +86,6 @@
       "options": {
         "http-referrer": "https://player.instantvideocloud.net/"
       }
-    },
-    {
-      "name": "A Punt",
-      "url": "https://bcovlive-a.akamaihd.net/8499d938ef904e39b58a4adec2ddeada/eu-west-1/6057955885001/playlist_dvr.m3u8",
-      "logo": "",
-      "category": "Otros"
     },
     {
       "name": "Activa TV (720p)",
@@ -851,12 +845,6 @@
         "options": {
           "http-referrer": "https://player.instantvideocloud.net/"
         }
-      },
-      {
-        "name": "A Punt",
-        "url": "https://bcovlive-a.akamaihd.net/8499d938ef904e39b58a4adec2ddeada/eu-west-1/6057955885001/playlist_dvr.m3u8",
-        "logo": "",
-        "category": "Otros"
       },
       {
         "name": "Activa TV (720p)",
