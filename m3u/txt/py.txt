@@ -33,3 +33,10 @@ UnionTV,https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
 UniRadio_TV_(1080p),https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8
 Venus_Media_(1080p),https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
 Villa_Elisa_Radio_TV_(1080p),https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/playlist.m3u8?admin=nacion
+America_Paraguay_(720p),http://45.170.130.224:8000/play/a02o/index.m3u8?hls
+Paravision,http://45.170.130.224:8000/play/a032/index.m3u8?hls
+SUR_TV_Itapua,http://45.170.130.224:8000/play/a036/index.m3u8?hls
+TV_Camara_(1080p),http://45.170.130.224:8000/play/a03x/index.m3u8?hls
+Trece,http://45.170.130.224:8000/play/a050/index.m3u8?hls
+Unicanal,http://45.170.130.224:8000/play/a04y/index.m3u8?hls
+Tigo_Sports+_(1080p)_[Not_24/7],https://lbgo.bozztv.com/ssh101/ssh101/events2py/playlist.m3u8

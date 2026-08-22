@@ -1,6 +1,6 @@
 {
   "name": "cl",
-  "updated_at": 1787337595829,
+  "updated_at": 1787361754674,
   "m3u": "https://ube1492.github.io/IPTV-UBE/cl.m3u",
   "channels": [
     {
@@ -1062,6 +1062,126 @@
     {
       "name": "El Pinguino TV",
       "url": "https://streaming.elpinguino.com:5391/live/EP.smil/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "ETC TV (1080p)",
+      "url": "http://cdn1tlinkgo.tlink.cl/etc/mono.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Mega Ficcion (1080p)",
+      "url": "http://cdn1tlinkgo.tlink.cl/megaficcion/mono.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Meganoticias Ahora (1080p)",
+      "url": "http://cdn1tlinkgo.tlink.cl/meganoticias/mono.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Megatiempo (1080p)",
+      "url": "http://cdn1tlinkgo.tlink.cl/megatiempo/mono.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "NTV (1080p)",
+      "url": "http://cdn1tlinkgo.tlink.cl/ntvhd/mono.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "TVN3 (1080p)",
+      "url": "http://cdn1tlinkgo.tlink.cl/tvn3/mono.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "24 Horas (1080p)",
+      "url": "http://cdn1tlinkgo.tlink.cl/24horashd/mono.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "13C (720p)",
+      "url": "http://cdn1tlinkgo.tlink.cl/13c/mono.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "13Rec (720p)",
+      "url": "http://cdn1tlinkgo.tlink.cl/13rec/mono.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Canal CHV Noticias (1080p)",
+      "url": "http://cdn1tlinkgo.tlink.cl/chvnoticias/mono.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "UCV TV (1080p)",
+      "url": "http://cdn1tlinkgo.tlink.cl/ucvhd/mono.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "La Red (1080p)",
+      "url": "http://cdn1tlinkgo.tlink.cl/laredhd/mono.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Via X (1080p)",
+      "url": "http://cdn1tlinkgo.tlink.cl/viax/mono.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "TVR (1080p)",
+      "url": "http://cdn1tlinkgo.tlink.cl/tvr/mono.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "CDO (1080p)",
+      "url": "http://cdn1tlinkgo.tlink.cl/cdo/mono.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "TV Senado (720p)",
+      "url": "http://cdn1tlinkgo.tlink.cl/tvsenado/mono.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Bio Bio TV (1080p)",
+      "url": "http://cdn1tlinkgo.tlink.cl/biobiotv/mono.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Nuevo Tiempo TV (1080p)",
+      "url": "http://cdn1tlinkgo.tlink.cl/nuevotiempo/mono.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "TVU (1080p)",
+      "url": "http://cdn1tlinkgo.tlink.cl/tvu/mono.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Teletrak TV (1080p)",
+      "url": "https://cdn1tlinkgo.tlink.cl/teletrak/index.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -2127,6 +2247,126 @@
       {
         "name": "El Pinguino TV",
         "url": "https://streaming.elpinguino.com:5391/live/EP.smil/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "ETC TV (1080p)",
+        "url": "http://cdn1tlinkgo.tlink.cl/etc/mono.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Mega Ficcion (1080p)",
+        "url": "http://cdn1tlinkgo.tlink.cl/megaficcion/mono.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Meganoticias Ahora (1080p)",
+        "url": "http://cdn1tlinkgo.tlink.cl/meganoticias/mono.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Megatiempo (1080p)",
+        "url": "http://cdn1tlinkgo.tlink.cl/megatiempo/mono.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "NTV (1080p)",
+        "url": "http://cdn1tlinkgo.tlink.cl/ntvhd/mono.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "TVN3 (1080p)",
+        "url": "http://cdn1tlinkgo.tlink.cl/tvn3/mono.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "24 Horas (1080p)",
+        "url": "http://cdn1tlinkgo.tlink.cl/24horashd/mono.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "13C (720p)",
+        "url": "http://cdn1tlinkgo.tlink.cl/13c/mono.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "13Rec (720p)",
+        "url": "http://cdn1tlinkgo.tlink.cl/13rec/mono.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Canal CHV Noticias (1080p)",
+        "url": "http://cdn1tlinkgo.tlink.cl/chvnoticias/mono.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "UCV TV (1080p)",
+        "url": "http://cdn1tlinkgo.tlink.cl/ucvhd/mono.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "La Red (1080p)",
+        "url": "http://cdn1tlinkgo.tlink.cl/laredhd/mono.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Via X (1080p)",
+        "url": "http://cdn1tlinkgo.tlink.cl/viax/mono.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "TVR (1080p)",
+        "url": "http://cdn1tlinkgo.tlink.cl/tvr/mono.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "CDO (1080p)",
+        "url": "http://cdn1tlinkgo.tlink.cl/cdo/mono.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "TV Senado (720p)",
+        "url": "http://cdn1tlinkgo.tlink.cl/tvsenado/mono.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Bio Bio TV (1080p)",
+        "url": "http://cdn1tlinkgo.tlink.cl/biobiotv/mono.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Nuevo Tiempo TV (1080p)",
+        "url": "http://cdn1tlinkgo.tlink.cl/nuevotiempo/mono.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "TVU (1080p)",
+        "url": "http://cdn1tlinkgo.tlink.cl/tvu/mono.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Teletrak TV (1080p)",
+        "url": "https://cdn1tlinkgo.tlink.cl/teletrak/index.m3u8",
         "logo": "",
         "category": "Otros"
       }

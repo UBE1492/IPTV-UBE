@@ -85,5 +85,6 @@
 | 79 | Univision Latin America (720p) | streamer.metronethn.com | <https://streamer.metronethn.com/Univision/index.m3u8> |
 | 80 | TUDN (720p) | streamer.metronethn.com | <https://streamer.metronethn.com/TUDN/index.m3u8> |
 | 81 | GikTVMX (720p) | pistream.ddns.net | <https://pistream.ddns.net/hls/stream.m3u8> |
+| 82 | Az Cinema (1080p) | cdn1tlinkgo.tlink.cl | <https://cdn1tlinkgo.tlink.cl/azcinema/index.m3u8> |
 
-Updated at **Fri Aug 21 2026 18:39:55 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Aug 22 2026 01:22:34 GMT+0000 (Coordinated Universal Time)**

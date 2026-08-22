@@ -35,3 +35,7 @@ https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8
 https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
 #EXTINF:-1 tvg-id="UniRadioTV.py@SD",UniRadio TV (1080p)
 https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8
+#EXTINF:-1 tvg-id="SURTVItapua.py@SD",SUR TV Itapua
+http://45.170.130.224:8000/play/a036/index.m3u8?hls
+#EXTINF:-1 tvg-id="TVCamara.py@SD",TV Camara (1080p)
+http://45.170.130.224:8000/play/a03x/index.m3u8?hls

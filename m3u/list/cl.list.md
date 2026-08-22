@@ -180,5 +180,25 @@
 | 174 | Zoom Tecnologico Plus (720p) | 5f700d5b2c46f.streamlock.net | <https://5f700d5b2c46f.streamlock.net/zoomtec/zoomtec/playlist.m3u8> |
 | 175 | El Pinguino TV (720p) | redirector.dps.live | <https://redirector.dps.live/hls/pinguinotv/playlist.m3u8> |
 | 176 | El Pinguino TV | streaming.elpinguino.com:5391 | <https://streaming.elpinguino.com:5391/live/EP.smil/playlist.m3u8> |
+| 177 | ETC TV (1080p) | cdn1tlinkgo.tlink.cl | <http://cdn1tlinkgo.tlink.cl/etc/mono.m3u8> |
+| 178 | Mega Ficcion (1080p) | cdn1tlinkgo.tlink.cl | <http://cdn1tlinkgo.tlink.cl/megaficcion/mono.m3u8> |
+| 179 | Meganoticias Ahora (1080p) | cdn1tlinkgo.tlink.cl | <http://cdn1tlinkgo.tlink.cl/meganoticias/mono.m3u8> |
+| 180 | Megatiempo (1080p) | cdn1tlinkgo.tlink.cl | <http://cdn1tlinkgo.tlink.cl/megatiempo/mono.m3u8> |
+| 181 | NTV (1080p) | cdn1tlinkgo.tlink.cl | <http://cdn1tlinkgo.tlink.cl/ntvhd/mono.m3u8> |
+| 182 | TVN3 (1080p) | cdn1tlinkgo.tlink.cl | <http://cdn1tlinkgo.tlink.cl/tvn3/mono.m3u8> |
+| 183 | 24 Horas (1080p) | cdn1tlinkgo.tlink.cl | <http://cdn1tlinkgo.tlink.cl/24horashd/mono.m3u8> |
+| 184 | 13C (720p) | cdn1tlinkgo.tlink.cl | <http://cdn1tlinkgo.tlink.cl/13c/mono.m3u8> |
+| 185 | 13Rec (720p) | cdn1tlinkgo.tlink.cl | <http://cdn1tlinkgo.tlink.cl/13rec/mono.m3u8> |
+| 186 | Canal CHV Noticias (1080p) | cdn1tlinkgo.tlink.cl | <http://cdn1tlinkgo.tlink.cl/chvnoticias/mono.m3u8> |
+| 187 | UCV TV (1080p) | cdn1tlinkgo.tlink.cl | <http://cdn1tlinkgo.tlink.cl/ucvhd/mono.m3u8> |
+| 188 | La Red (1080p) | cdn1tlinkgo.tlink.cl | <http://cdn1tlinkgo.tlink.cl/laredhd/mono.m3u8> |
+| 189 | Via X (1080p) | cdn1tlinkgo.tlink.cl | <http://cdn1tlinkgo.tlink.cl/viax/mono.m3u8> |
+| 190 | TVR (1080p) | cdn1tlinkgo.tlink.cl | <http://cdn1tlinkgo.tlink.cl/tvr/mono.m3u8> |
+| 191 | CDO (1080p) | cdn1tlinkgo.tlink.cl | <http://cdn1tlinkgo.tlink.cl/cdo/mono.m3u8> |
+| 192 | TV Senado (720p) | cdn1tlinkgo.tlink.cl | <http://cdn1tlinkgo.tlink.cl/tvsenado/mono.m3u8> |
+| 193 | Bio Bio TV (1080p) | cdn1tlinkgo.tlink.cl | <http://cdn1tlinkgo.tlink.cl/biobiotv/mono.m3u8> |
+| 194 | Nuevo Tiempo TV (1080p) | cdn1tlinkgo.tlink.cl | <http://cdn1tlinkgo.tlink.cl/nuevotiempo/mono.m3u8> |
+| 195 | TVU (1080p) | cdn1tlinkgo.tlink.cl | <http://cdn1tlinkgo.tlink.cl/tvu/mono.m3u8> |
+| 196 | Teletrak TV (1080p) | cdn1tlinkgo.tlink.cl | <https://cdn1tlinkgo.tlink.cl/teletrak/index.m3u8> |
 
-Updated at **Fri Aug 21 2026 18:39:55 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Aug 22 2026 01:22:34 GMT+0000 (Coordinated Universal Time)**

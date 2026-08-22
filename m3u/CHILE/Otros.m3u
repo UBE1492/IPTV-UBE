@@ -147,3 +147,19 @@ http://45.162.193.35/ZONALATINA/index.m3u8
 http://45.170.130.224:8000/play/a00x/index.m3u8
 #EXTINF:-1 tvg-id="ZoomTecnologicoPlus.cl@SD",Zoom Tecnologico Plus (720p)
 https://5f700d5b2c46f.streamlock.net/zoomtec/zoomtec/playlist.m3u8
+#EXTINF:-1 tvg-id="MegaFiccion.cl@SD",Mega Ficcion (1080p)
+http://cdn1tlinkgo.tlink.cl/megaficcion/mono.m3u8
+#EXTINF:-1 tvg-id="Megatiempo.cl@SD",Megatiempo (1080p)
+http://cdn1tlinkgo.tlink.cl/megatiempo/mono.m3u8
+#EXTINF:-1 tvg-id="24Horas.cl@SD",24 Horas (1080p)
+http://cdn1tlinkgo.tlink.cl/24horashd/mono.m3u8
+#EXTINF:-1 tvg-id="13C.cl@SD",13C (720p)
+http://cdn1tlinkgo.tlink.cl/13c/mono.m3u8
+#EXTINF:-1 tvg-id="13Rec.cl@SD",13Rec (720p)
+http://cdn1tlinkgo.tlink.cl/13rec/mono.m3u8
+#EXTINF:-1 tvg-id="LaRed.cl@SD",La Red (1080p)
+http://cdn1tlinkgo.tlink.cl/laredhd/mono.m3u8
+#EXTINF:-1 tvg-id="ViaX.cl@SD",Via X (1080p)
+http://cdn1tlinkgo.tlink.cl/viax/mono.m3u8
+#EXTINF:-1 tvg-id="CDO.cl@SD",CDO (1080p)
+http://cdn1tlinkgo.tlink.cl/cdo/mono.m3u8

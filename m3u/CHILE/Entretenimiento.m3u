@@ -159,3 +159,21 @@ https://tv1.mediacp.eu:3131/live/dilxbgxylive.m3u8
 https://redirector.dps.live/hls/pinguinotv/playlist.m3u8
 #EXTINF:-1 tvg-id="ElPinguinoTV.cl@SD",El Pinguino TV
 https://streaming.elpinguino.com:5391/live/EP.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ETCTV.cl@SD",ETC TV (1080p)
+http://cdn1tlinkgo.tlink.cl/etc/mono.m3u8
+#EXTINF:-1 tvg-id="NTV.cl@SD",NTV (1080p)
+http://cdn1tlinkgo.tlink.cl/ntvhd/mono.m3u8
+#EXTINF:-1 tvg-id="TVN3.cl@SD",TVN3 (1080p)
+http://cdn1tlinkgo.tlink.cl/tvn3/mono.m3u8
+#EXTINF:-1 tvg-id="UCVTV.cl@SD",UCV TV (1080p)
+http://cdn1tlinkgo.tlink.cl/ucvhd/mono.m3u8
+#EXTINF:-1 tvg-id="TVR.cl@SD",TVR (1080p)
+http://cdn1tlinkgo.tlink.cl/tvr/mono.m3u8
+#EXTINF:-1 tvg-id="TVSenado.cl@SD",TV Senado (720p)
+http://cdn1tlinkgo.tlink.cl/tvsenado/mono.m3u8
+#EXTINF:-1 tvg-id="NuevoTiempoTV.cl@SD",Nuevo Tiempo TV (1080p)
+http://cdn1tlinkgo.tlink.cl/nuevotiempo/mono.m3u8
+#EXTINF:-1 tvg-id="TVU.cl@SD",TVU (1080p)
+http://cdn1tlinkgo.tlink.cl/tvu/mono.m3u8
+#EXTINF:-1 tvg-id="TeletrakTV.cl@SD",Teletrak TV (1080p)
+https://cdn1tlinkgo.tlink.cl/teletrak/index.m3u8

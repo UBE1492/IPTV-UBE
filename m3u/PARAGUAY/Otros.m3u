@@ -15,3 +15,11 @@ https://gentvpeer.desdeparaguay.net/gentvpeer/gentv_py_alta/master.m3u8
 #EXTVLCOPT:http-referrer=https://www.latele.com.py/en-vivo
 #EXTINF:-1 tvg-id="Nanduti.py@SD",Nanduti (1080p)
 #EXTVLCOPT:http-referrer=https://nanduti.com.py/nanduti-tv
+#EXTINF:-1 tvg-id="AmericaParaguay.py@SD",America Paraguay (720p)
+http://45.170.130.224:8000/play/a02o/index.m3u8?hls
+#EXTINF:-1 tvg-id="Paravision.py@SD",Paravision
+http://45.170.130.224:8000/play/a032/index.m3u8?hls
+#EXTINF:-1 tvg-id="Trece.py@SD",Trece
+http://45.170.130.224:8000/play/a050/index.m3u8?hls
+#EXTINF:-1 tvg-id="Unicanal.py@SD",Unicanal
+http://45.170.130.224:8000/play/a04y/index.m3u8?hls
