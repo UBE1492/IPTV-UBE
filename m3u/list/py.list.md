@@ -26,19 +26,18 @@
 | 20 | Occidental TV | video.wilohosting.com:19360 | <https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8> |
 | 21 | Oviedo TV | video.wilohosting.com:19360 | <https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8> |
 | 22 | Popu TV (1080p) | IPv4 直链 | <http://190.108.83.69:8000/play/a070/index.m3u8> |
-| 23 | Tigo Sports+ | IPv4 直链 | <http://45.170.130.224:8000/play/a04i/index.m3u8> |
-| 24 | TV Aire | video.hostingcaaguazu.com:19360 | <https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8> |
-| 25 | TV Canindeyu (1080p) | video.hostingcaaguazu.com:19360 | <https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8> |
-| 26 | UnionTV | tigocloud.desdeparaguay.net | <https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8> |
-| 27 | UniRadio TV (1080p) | video.hostingcaaguazu.com:19360 | <https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8> |
-| 28 | Venus Media (1080p) | tigocloud.desdeparaguay.net | <https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8> |
-| 29 | Villa Elisa Radio TV (1080p) | copacogen.desdeparaguay.net | <https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/playlist.m3u8?admin=nacion> |
-| 30 | America Paraguay (720p) | IPv4 直链 | <http://45.170.130.224:8000/play/a02o/index.m3u8?hls> |
-| 31 | Paravision | IPv4 直链 | <http://45.170.130.224:8000/play/a032/index.m3u8?hls> |
-| 32 | SUR TV Itapua | IPv4 直链 | <http://45.170.130.224:8000/play/a036/index.m3u8?hls> |
-| 33 | TV Camara (1080p) | IPv4 直链 | <http://45.170.130.224:8000/play/a03x/index.m3u8?hls> |
-| 34 | Trece | IPv4 直链 | <http://45.170.130.224:8000/play/a050/index.m3u8?hls> |
-| 35 | Unicanal | IPv4 直链 | <http://45.170.130.224:8000/play/a04y/index.m3u8?hls> |
-| 36 | Tigo Sports+ (1080p) [Not 24/7] | lbgo.bozztv.com | <https://lbgo.bozztv.com/ssh101/ssh101/events2py/playlist.m3u8> |
+| 23 | TV Aire | video.hostingcaaguazu.com:19360 | <https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8> |
+| 24 | TV Canindeyu (1080p) | video.hostingcaaguazu.com:19360 | <https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8> |
+| 25 | UnionTV | tigocloud.desdeparaguay.net | <https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8> |
+| 26 | UniRadio TV (1080p) | video.hostingcaaguazu.com:19360 | <https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8> |
+| 27 | Venus Media (1080p) | tigocloud.desdeparaguay.net | <https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8> |
+| 28 | Villa Elisa Radio TV (1080p) | copacogen.desdeparaguay.net | <https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/playlist.m3u8?admin=nacion> |
+| 29 | America Paraguay (720p) | IPv4 直链 | <http://45.170.130.224:8000/play/a02o/index.m3u8?hls> |
+| 30 | Paravision | IPv4 直链 | <http://45.170.130.224:8000/play/a032/index.m3u8?hls> |
+| 31 | SUR TV Itapua | IPv4 直链 | <http://45.170.130.224:8000/play/a036/index.m3u8?hls> |
+| 32 | TV Camara (1080p) | IPv4 直链 | <http://45.170.130.224:8000/play/a03x/index.m3u8?hls> |
+| 33 | Trece | IPv4 直链 | <http://45.170.130.224:8000/play/a050/index.m3u8?hls> |
+| 34 | Unicanal | IPv4 直链 | <http://45.170.130.224:8000/play/a04y/index.m3u8?hls> |
+| 35 | Tigo Sports+ (1080p) [Not 24/7] | lbgo.bozztv.com | <https://lbgo.bozztv.com/ssh101/ssh101/events2py/playlist.m3u8> |
 
-Updated at **Sat Aug 22 2026 18:34:12 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Aug 23 2026 01:36:14 GMT+0000 (Coordinated Universal Time)**
