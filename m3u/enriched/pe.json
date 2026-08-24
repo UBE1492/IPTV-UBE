@@ -1,29 +1,11 @@
 {
   "name": "pe",
-  "updated_at": 1787534872542,
+  "updated_at": 1787555043925,
   "m3u": "https://ube1492.github.io/IPTV-UBE/pe.m3u",
   "channels": [
     {
       "name": "36 TV Huacho (720p)",
       "url": "https://live-evg10.tv360.bitel.com.pe/bitel/36tvSRT/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Agro TV (720p)",
-      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/agroSRT/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Altura TV (720p)",
-      "url": "https://live-evg10.tv360.bitel.com.pe/bitel/urbanatv/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "ABC Teleshow (720p)",
-      "url": "https://live-evg10.tv360.bitel.com.pe/bitel/abctv/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -34,20 +16,26 @@
       "category": "Otros"
     },
     {
+      "name": "ABTelevision (720p)",
+      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/abctelevisionSRT/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
       "name": "ATV (720p)",
       "url": "http://187.102.210.46/ATV/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "Arpegio TV (720p)",
-      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/arpegioSRT/playlist.m3u8",
+      "name": "Agro TV (720p)",
+      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/agroSRT/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "ABTelevision (720p)",
-      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/abctelevisionSRT/playlist.m3u8",
+      "name": "Arpegio TV (720p)",
+      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/arpegioSRT/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -64,20 +52,20 @@
       "category": "Otros"
     },
     {
-      "name": "Bella Abanquina TV (720p)",
-      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/bellaabanquinaSRT/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Antena SUR (720p)",
-      "url": "https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "BNB Digital (720p)",
       "url": "https://live-evg8.tv360.bitel.com.pe/bitel/bnbSRT/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Cajamarca TV (720p)",
+      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/cajamarcatvSRT/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Canal 21 Huancayo (720p)",
+      "url": "https://live-evg11.tv360.bitel.com.pe/bitel/tvwanka/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -100,26 +88,8 @@
       "category": "Otros"
     },
     {
-      "name": "Canal 25 Ayacucho (720p)",
-      "url": "https://live-evg10.tv360.bitel.com.pe/bitel/canal25ayacucho/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Canal 21 Huancayo (720p)",
-      "url": "https://live-evg11.tv360.bitel.com.pe/bitel/tvwanka/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Cajamarca TV (720p)",
-      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/cajamarcatvSRT/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Casma TV (720p)",
-      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/casmatvSRT-TRA/playlist.m3u8",
+      "name": "AsiriTV (720p) [Not 24/7]",
+      "url": "https://video2.lhdserver.es/asiritv/live.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -130,26 +100,14 @@
       "category": "Otros"
     },
     {
-      "name": "Auténtica Televisión (720p) [Not 24/7]",
-      "url": "https://live.obslivestream.com/autenticatvmux/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "AsiriTV (720p) [Not 24/7]",
-      "url": "https://video2.lhdserver.es/asiritv/live.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Cultura 24",
       "url": "https://www.opencaster.com/resources/hls_stream/cultura24.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "CVN TV",
-      "url": "https://7.innovatestream.pe:19360/cvntumbes/cvntumbes.m3u8",
+      "name": "Auténtica Televisión (720p) [Not 24/7]",
+      "url": "https://live.obslivestream.com/autenticatvmux/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -160,8 +118,8 @@
       "category": "Otros"
     },
     {
-      "name": "Dac TV (720p)",
-      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/dactvSRT/playlist.m3u8",
+      "name": "Canal 8 Catacaos (720p) [Not 24/7]",
+      "url": "https://live.obslivestream.com/canal8/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -172,14 +130,20 @@
       "category": "Otros"
     },
     {
-      "name": "DTV (720p)",
-      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/sabormixtvSRT/playlist.m3u8",
+      "name": "Bella Abanquina TV (720p)",
+      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/bellaabanquinaSRT/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "Canal 8 Catacaos (720p) [Not 24/7]",
-      "url": "https://live.obslivestream.com/canal8/index.m3u8",
+      "name": "Dac TV (720p)",
+      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/dactvSRT/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Casma TV (720p)",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/casmatvSRT-TRA/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -190,20 +154,14 @@
       "category": "Otros"
     },
     {
-      "name": "Exitosa TV (1080p)",
-      "url": "http://190.93.224.42/EXITOSA/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Conecta2TV (720p) [Not 24/7]",
       "url": "https://live.obslivestream.com/conecta2/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "Canal Mas TV (720p)",
-      "url": "https://live-evg11.tv360.bitel.com.pe/bitel/mastvSRT/playlist.m3u8",
+      "name": "Exitosa TV (1080p)",
+      "url": "http://190.93.224.42/EXITOSA/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -220,14 +178,8 @@
       "category": "Otros"
     },
     {
-      "name": "DeltaTV",
-      "url": "https://tv2.bitstreaming.net:3539/live/deltanetlive.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Global TV (720p)",
-      "url": "http://187.102.210.46/GLOBAL/index.m3u8",
+      "name": "CVN TV",
+      "url": "https://7.innovatestream.pe:19360/cvntumbes/cvntumbes.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -238,8 +190,26 @@
       "category": "Otros"
     },
     {
+      "name": "DeltaTV",
+      "url": "https://tv2.bitstreaming.net:3539/live/deltanetlive.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
       "name": "Doble C Television (720p)",
       "url": "https://live20.bozztv.com/giatv/giatv-doblec1/doblec1/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Global TV (720p)",
+      "url": "http://187.102.210.46/GLOBAL/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "DTV (720p)",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/sabormixtvSRT/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -274,12 +244,6 @@
       "category": "Otros"
     },
     {
-      "name": "Folklore TV (720p)",
-      "url": "https://play.folkloretv.pe/StreamSD/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Karibena (720p)",
       "url": "http://187.102.210.46/KARIBENA/index.m3u8",
       "logo": "",
@@ -292,14 +256,14 @@
       "category": "Otros"
     },
     {
-      "name": "Huacho Peru TV",
-      "url": "https://tv.huachotv.com/stream.m3u8",
+      "name": "Folklore TV (720p)",
+      "url": "https://play.folkloretv.pe/StreamSD/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "Latina (1080p)",
-      "url": "http://190.93.224.42/LATINA/index.m3u8",
+      "name": "Huacho Peru TV",
+      "url": "https://tv.huachotv.com/stream.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -310,8 +274,8 @@
       "category": "Otros"
     },
     {
-      "name": "Impacto Televisión (360p) [Not 24/7]",
-      "url": "https://cloudvideo.servers10.com:8081/impactotv/index.m3u8",
+      "name": "Latina Clasicos (1080p)",
+      "url": "http://45.171.108.253:8888/LATINA/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -322,8 +286,14 @@
       "category": "Otros"
     },
     {
-      "name": "JNE TV (720p)",
-      "url": "https://lbgo.bozztv.com/ssh101/ssh101/jnetv/playlist.m3u8",
+      "name": "Latina (1080p)",
+      "url": "http://190.93.224.42/LATINA/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Impacto Televisión (360p) [Not 24/7]",
+      "url": "https://cloudvideo.servers10.com:8081/impactotv/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -334,8 +304,14 @@
       "category": "Otros"
     },
     {
-      "name": "Latina Clasicos (1080p)",
-      "url": "http://45.171.108.253:8888/LATINA/index.m3u8",
+      "name": "JNE TV (720p)",
+      "url": "https://lbgo.bozztv.com/ssh101/ssh101/jnetv/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Imperial Television (720p)",
+      "url": "https://live-evg5.tv360.bitel.com.pe/bitel/imperialSRT/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -358,18 +334,6 @@
       "category": "Otros"
     },
     {
-      "name": "Imperial Television (720p)",
-      "url": "https://live-evg5.tv360.bitel.com.pe/bitel/imperialSRT/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Master TV (720p)",
-      "url": "https://live-evg5.tv360.bitel.com.pe/bitel/mastertvSRT/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Latina Noticias 24/7 (1080p)",
       "url": "https://dai.google.com/linear/hls/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8",
       "logo": "",
@@ -388,8 +352,14 @@
       "category": "Otros"
     },
     {
-      "name": "Latina Podcast (720p)",
-      "url": "https://redirector.rudo.video/hls-video/plus226/latina4/latina4.smil/playlist.m3u8",
+      "name": "Mega TV Jaen (720p)",
+      "url": "https://live-evg5.tv360.bitel.com.pe/bitel/megatv/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Master TV (720p)",
+      "url": "https://live-evg5.tv360.bitel.com.pe/bitel/mastertvSRT/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -400,26 +370,14 @@
       "category": "Otros"
     },
     {
-      "name": "Metropolitana del Cuzco",
-      "url": "https://video1.earthcam.com/myearthcam/075ff02f78c35af55564cf3af3b3f750.flv/playlist.m3u8",
+      "name": "Latina Podcast (720p)",
+      "url": "https://redirector.rudo.video/hls-video/plus226/latina4/latina4.smil/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
       "name": "Miel TV (720p) [Not 24/7]",
       "url": "https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Miel TV (720p)",
-      "url": "https://live-evg5.tv360.bitel.com.pe/bitel/mieltvSRT/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Media TV (720p)",
-      "url": "https://live-evg5.tv360.bitel.com.pe/bitel/mediatv/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -442,8 +400,14 @@
       "category": "Otros"
     },
     {
-      "name": "Nativa TV Satipo (720p) [Not 24/7]",
-      "url": "https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8",
+      "name": "Nacional Tv Peru (720p)",
+      "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/nacionaltv_peru.stream/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Miel TV (720p)",
+      "url": "https://live-evg5.tv360.bitel.com.pe/bitel/mieltvSRT/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -454,14 +418,8 @@
       "category": "Otros"
     },
     {
-      "name": "Mega TV Jaen (720p)",
-      "url": "https://live-evg5.tv360.bitel.com.pe/bitel/megatv/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Nacional Tv Peru (720p)",
-      "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/nacionaltv_peru.stream/playlist.m3u8",
+      "name": "Nativa TV Satipo (720p) [Not 24/7]",
+      "url": "https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -472,32 +430,20 @@
       "category": "Otros"
     },
     {
-      "name": "Nativa (720p) [Not 24/7]",
-      "url": "https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Nativa TV Satipo (720p)",
       "url": "https://live-evg7.tv360.bitel.com.pe/bitel/nativachanchamayoSRT/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "ONDA DIGITAL (720p)",
-      "url": "https://tv.ondadigital.pe/ondadigital/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Onda TV (720p)",
-      "url": "https://live-evg5.tv360.bitel.com.pe/bitel/onda/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Neo TV (720p)",
       "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/DigitalTV/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Nativa (720p) [Not 24/7]",
+      "url": "https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -514,20 +460,20 @@
       "category": "Otros"
     },
     {
+      "name": "ONDA DIGITAL (720p)",
+      "url": "https://tv.ondadigital.pe/ondadigital/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Onda TV (720p)",
+      "url": "https://live-evg5.tv360.bitel.com.pe/bitel/onda/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
       "name": "Qosqo Times",
       "url": "https://stmv2.srvif.com/qtelevision/qtelevision/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Radio Master (720p)",
-      "url": "https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Radio Chalaca",
-      "url": "https://servilive.com:3414/hybrid/play.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -544,14 +490,14 @@
       "category": "Otros"
     },
     {
-      "name": "Radio Tropical Tarapoto (480p) [Not 24/7]",
-      "url": "https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8",
+      "name": "Radio Master (720p)",
+      "url": "https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "Radio Rumba TV (720p)",
-      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/rumba/playlist.m3u8",
+      "name": "Radio Tropical Tarapoto (480p) [Not 24/7]",
+      "url": "https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -562,26 +508,32 @@
       "category": "Otros"
     },
     {
+      "name": "RadioTV Oriente (720p)",
+      "url": "https://live.obslivestream.com/tvoriente/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Radio Rumba TV (720p)",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/rumba/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
       "name": "Qosqo Times (720p)",
       "url": "https://live-evg5.tv360.bitel.com.pe/bitel/qosqo/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "Ozono TV (720p)",
-      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/ozonotv/playlist.m3u8",
+      "name": "Radio Chalaca",
+      "url": "https://servilive.com:3414/hybrid/play.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "Region TV Callao (720p)",
-      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/regiontvSRT/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "RadioTV Oriente (720p)",
-      "url": "https://live.obslivestream.com/tvoriente/index.m3u8",
+      "name": "Radio Onda Digital (1080p)",
+      "url": "https://live.ondadigitaltv.com/RADIOODTV/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -598,26 +550,8 @@
       "category": "Otros"
     },
     {
-      "name": "Radio San Borja TV (1080p)",
-      "url": "https://stream.mediacorp.pe/srt/3/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Riku TV (1080p)",
       "url": "https://amixtv.com:8081/rikutv/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Riku TV (720p)",
-      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/riku/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Telecolor Yurimaguas (720p) [Not 24/7]",
-      "url": "https://live.obslivestream.com/telecolormux/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -634,14 +568,32 @@
       "category": "Otros"
     },
     {
+      "name": "Riku TV (720p)",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/riku/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Telecolor Yurimaguas (720p) [Not 24/7]",
+      "url": "https://live.obslivestream.com/telecolormux/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
       "name": "Vía Televisión (720P) [Not 24/7]",
       "url": "https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "Radio Onda Digital (1080p)",
-      "url": "https://live.ondadigitaltv.com/RADIOODTV/index.m3u8",
+      "name": "Region TV Callao (720p)",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/regiontvSRT/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Studio Pasco TV (720p)",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/studiopasco/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -652,8 +604,8 @@
       "category": "Otros"
     },
     {
-      "name": "Vía Altomayo (720p) [Not 24/7]",
-      "url": "https://live.obslivestream.com/viaaltomayomux/index.m3u8",
+      "name": "Sqala TV (720p)",
+      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/studiotvhuanta/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -664,8 +616,8 @@
       "category": "Otros"
     },
     {
-      "name": "Sqala TV (720p)",
-      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/studiotvhuanta/playlist.m3u8",
+      "name": "Vía Altomayo (720p) [Not 24/7]",
+      "url": "https://live.obslivestream.com/viaaltomayomux/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -691,26 +643,14 @@
         "category": "Otros"
       },
       {
-        "name": "Agro TV (720p)",
-        "url": "https://live-evg8.tv360.bitel.com.pe/bitel/agroSRT/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Altura TV (720p)",
-        "url": "https://live-evg10.tv360.bitel.com.pe/bitel/urbanatv/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "ABC Teleshow (720p)",
-        "url": "https://live-evg10.tv360.bitel.com.pe/bitel/abctv/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "ATV (1080p)",
         "url": "http://190.93.224.42/ATV/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "ABTelevision (720p)",
+        "url": "https://live-evg8.tv360.bitel.com.pe/bitel/abctelevisionSRT/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -721,14 +661,14 @@
         "category": "Otros"
       },
       {
-        "name": "Arpegio TV (720p)",
-        "url": "https://live-evg8.tv360.bitel.com.pe/bitel/arpegioSRT/playlist.m3u8",
+        "name": "Agro TV (720p)",
+        "url": "https://live-evg8.tv360.bitel.com.pe/bitel/agroSRT/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "ABTelevision (720p)",
-        "url": "https://live-evg8.tv360.bitel.com.pe/bitel/abctelevisionSRT/playlist.m3u8",
+        "name": "Arpegio TV (720p)",
+        "url": "https://live-evg8.tv360.bitel.com.pe/bitel/arpegioSRT/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -745,20 +685,20 @@
         "category": "Otros"
       },
       {
-        "name": "Bella Abanquina TV (720p)",
-        "url": "https://live-evg8.tv360.bitel.com.pe/bitel/bellaabanquinaSRT/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Antena SUR (720p)",
-        "url": "https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "BNB Digital (720p)",
         "url": "https://live-evg8.tv360.bitel.com.pe/bitel/bnbSRT/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Cajamarca TV (720p)",
+        "url": "https://live-evg8.tv360.bitel.com.pe/bitel/cajamarcatvSRT/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Canal 21 Huancayo (720p)",
+        "url": "https://live-evg11.tv360.bitel.com.pe/bitel/tvwanka/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -781,26 +721,8 @@
         "category": "Otros"
       },
       {
-        "name": "Canal 25 Ayacucho (720p)",
-        "url": "https://live-evg10.tv360.bitel.com.pe/bitel/canal25ayacucho/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Canal 21 Huancayo (720p)",
-        "url": "https://live-evg11.tv360.bitel.com.pe/bitel/tvwanka/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Cajamarca TV (720p)",
-        "url": "https://live-evg8.tv360.bitel.com.pe/bitel/cajamarcatvSRT/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Casma TV (720p)",
-        "url": "https://live-evg7.tv360.bitel.com.pe/bitel/casmatvSRT-TRA/playlist.m3u8",
+        "name": "AsiriTV (720p) [Not 24/7]",
+        "url": "https://video2.lhdserver.es/asiritv/live.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -811,26 +733,14 @@
         "category": "Otros"
       },
       {
-        "name": "Auténtica Televisión (720p) [Not 24/7]",
-        "url": "https://live.obslivestream.com/autenticatvmux/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "AsiriTV (720p) [Not 24/7]",
-        "url": "https://video2.lhdserver.es/asiritv/live.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "Cultura 24",
         "url": "https://www.opencaster.com/resources/hls_stream/cultura24.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "CVN TV",
-        "url": "https://7.innovatestream.pe:19360/cvntumbes/cvntumbes.m3u8",
+        "name": "Auténtica Televisión (720p) [Not 24/7]",
+        "url": "https://live.obslivestream.com/autenticatvmux/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -841,8 +751,8 @@
         "category": "Otros"
       },
       {
-        "name": "Dac TV (720p)",
-        "url": "https://live-evg8.tv360.bitel.com.pe/bitel/dactvSRT/playlist.m3u8",
+        "name": "Canal 8 Catacaos (720p) [Not 24/7]",
+        "url": "https://live.obslivestream.com/canal8/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -853,14 +763,20 @@
         "category": "Otros"
       },
       {
-        "name": "DTV (720p)",
-        "url": "https://live-evg7.tv360.bitel.com.pe/bitel/sabormixtvSRT/playlist.m3u8",
+        "name": "Bella Abanquina TV (720p)",
+        "url": "https://live-evg8.tv360.bitel.com.pe/bitel/bellaabanquinaSRT/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "Canal 8 Catacaos (720p) [Not 24/7]",
-        "url": "https://live.obslivestream.com/canal8/index.m3u8",
+        "name": "Dac TV (720p)",
+        "url": "https://live-evg8.tv360.bitel.com.pe/bitel/dactvSRT/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Casma TV (720p)",
+        "url": "https://live-evg7.tv360.bitel.com.pe/bitel/casmatvSRT-TRA/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -871,20 +787,14 @@
         "category": "Otros"
       },
       {
-        "name": "Exitosa TV (1080p)",
-        "url": "http://190.93.224.42/EXITOSA/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "Conecta2TV (720p) [Not 24/7]",
         "url": "https://live.obslivestream.com/conecta2/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "Canal Mas TV (720p)",
-        "url": "https://live-evg11.tv360.bitel.com.pe/bitel/mastvSRT/playlist.m3u8",
+        "name": "Exitosa TV (1080p)",
+        "url": "http://190.93.224.42/EXITOSA/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -901,14 +811,8 @@
         "category": "Otros"
       },
       {
-        "name": "DeltaTV",
-        "url": "https://tv2.bitstreaming.net:3539/live/deltanetlive.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Global TV (720p)",
-        "url": "http://187.102.210.46/GLOBAL/index.m3u8",
+        "name": "CVN TV",
+        "url": "https://7.innovatestream.pe:19360/cvntumbes/cvntumbes.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -919,8 +823,26 @@
         "category": "Otros"
       },
       {
+        "name": "DeltaTV",
+        "url": "https://tv2.bitstreaming.net:3539/live/deltanetlive.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
         "name": "Doble C Television (720p)",
         "url": "https://live20.bozztv.com/giatv/giatv-doblec1/doblec1/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Global TV (720p)",
+        "url": "http://187.102.210.46/GLOBAL/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "DTV (720p)",
+        "url": "https://live-evg7.tv360.bitel.com.pe/bitel/sabormixtvSRT/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -955,12 +877,6 @@
         "category": "Otros"
       },
       {
-        "name": "Folklore TV (720p)",
-        "url": "https://play.folkloretv.pe/StreamSD/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "Karibena (720p)",
         "url": "http://187.102.210.46/KARIBENA/index.m3u8",
         "logo": "",
@@ -973,14 +889,14 @@
         "category": "Otros"
       },
       {
-        "name": "Huacho Peru TV",
-        "url": "https://tv.huachotv.com/stream.m3u8",
+        "name": "Folklore TV (720p)",
+        "url": "https://play.folkloretv.pe/StreamSD/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "Latina (1080p)",
-        "url": "http://190.93.224.42/LATINA/index.m3u8",
+        "name": "Huacho Peru TV",
+        "url": "https://tv.huachotv.com/stream.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -991,8 +907,8 @@
         "category": "Otros"
       },
       {
-        "name": "Impacto Televisión (360p) [Not 24/7]",
-        "url": "https://cloudvideo.servers10.com:8081/impactotv/index.m3u8",
+        "name": "Latina Clasicos (1080p)",
+        "url": "http://45.171.108.253:8888/LATINA/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -1003,8 +919,14 @@
         "category": "Otros"
       },
       {
-        "name": "JNE TV (720p)",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/jnetv/playlist.m3u8",
+        "name": "Latina (1080p)",
+        "url": "http://190.93.224.42/LATINA/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Impacto Televisión (360p) [Not 24/7]",
+        "url": "https://cloudvideo.servers10.com:8081/impactotv/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -1015,8 +937,14 @@
         "category": "Otros"
       },
       {
-        "name": "Latina Clasicos (1080p)",
-        "url": "http://45.171.108.253:8888/LATINA/index.m3u8",
+        "name": "JNE TV (720p)",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/jnetv/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Imperial Television (720p)",
+        "url": "https://live-evg5.tv360.bitel.com.pe/bitel/imperialSRT/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -1039,18 +967,6 @@
         "category": "Otros"
       },
       {
-        "name": "Imperial Television (720p)",
-        "url": "https://live-evg5.tv360.bitel.com.pe/bitel/imperialSRT/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Master TV (720p)",
-        "url": "https://live-evg5.tv360.bitel.com.pe/bitel/mastertvSRT/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "Latina Noticias 24/7 (1080p)",
         "url": "https://dai.google.com/linear/hls/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8",
         "logo": "",
@@ -1069,8 +985,14 @@
         "category": "Otros"
       },
       {
-        "name": "Latina Podcast (720p)",
-        "url": "https://redirector.rudo.video/hls-video/plus226/latina4/latina4.smil/playlist.m3u8",
+        "name": "Mega TV Jaen (720p)",
+        "url": "https://live-evg5.tv360.bitel.com.pe/bitel/megatv/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Master TV (720p)",
+        "url": "https://live-evg5.tv360.bitel.com.pe/bitel/mastertvSRT/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -1081,26 +1003,14 @@
         "category": "Otros"
       },
       {
-        "name": "Metropolitana del Cuzco",
-        "url": "https://video1.earthcam.com/myearthcam/075ff02f78c35af55564cf3af3b3f750.flv/playlist.m3u8",
+        "name": "Latina Podcast (720p)",
+        "url": "https://redirector.rudo.video/hls-video/plus226/latina4/latina4.smil/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
         "name": "Miel TV (720p) [Not 24/7]",
         "url": "https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Miel TV (720p)",
-        "url": "https://live-evg5.tv360.bitel.com.pe/bitel/mieltvSRT/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Media TV (720p)",
-        "url": "https://live-evg5.tv360.bitel.com.pe/bitel/mediatv/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -1123,8 +1033,14 @@
         "category": "Otros"
       },
       {
-        "name": "Nativa TV Satipo (720p) [Not 24/7]",
-        "url": "https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8",
+        "name": "Nacional Tv Peru (720p)",
+        "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/nacionaltv_peru.stream/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Miel TV (720p)",
+        "url": "https://live-evg5.tv360.bitel.com.pe/bitel/mieltvSRT/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -1135,14 +1051,8 @@
         "category": "Otros"
       },
       {
-        "name": "Mega TV Jaen (720p)",
-        "url": "https://live-evg5.tv360.bitel.com.pe/bitel/megatv/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Nacional Tv Peru (720p)",
-        "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/nacionaltv_peru.stream/playlist.m3u8",
+        "name": "Nativa TV Satipo (720p) [Not 24/7]",
+        "url": "https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -1153,32 +1063,20 @@
         "category": "Otros"
       },
       {
-        "name": "Nativa (720p) [Not 24/7]",
-        "url": "https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "Nativa TV Satipo (720p)",
         "url": "https://live-evg7.tv360.bitel.com.pe/bitel/nativachanchamayoSRT/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "ONDA DIGITAL (720p)",
-        "url": "https://tv.ondadigital.pe/ondadigital/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Onda TV (720p)",
-        "url": "https://live-evg5.tv360.bitel.com.pe/bitel/onda/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "Neo TV (720p)",
         "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/DigitalTV/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Nativa (720p) [Not 24/7]",
+        "url": "https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -1195,20 +1093,20 @@
         "category": "Otros"
       },
       {
+        "name": "ONDA DIGITAL (720p)",
+        "url": "https://tv.ondadigital.pe/ondadigital/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Onda TV (720p)",
+        "url": "https://live-evg5.tv360.bitel.com.pe/bitel/onda/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
         "name": "Qosqo Times",
         "url": "https://stmv2.srvif.com/qtelevision/qtelevision/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Radio Master (720p)",
-        "url": "https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Radio Chalaca",
-        "url": "https://servilive.com:3414/hybrid/play.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -1225,14 +1123,14 @@
         "category": "Otros"
       },
       {
-        "name": "Radio Tropical Tarapoto (480p) [Not 24/7]",
-        "url": "https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8",
+        "name": "Radio Master (720p)",
+        "url": "https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "Radio Rumba TV (720p)",
-        "url": "https://live-evg7.tv360.bitel.com.pe/bitel/rumba/playlist.m3u8",
+        "name": "Radio Tropical Tarapoto (480p) [Not 24/7]",
+        "url": "https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -1243,26 +1141,32 @@
         "category": "Otros"
       },
       {
+        "name": "RadioTV Oriente (720p)",
+        "url": "https://live.obslivestream.com/tvoriente/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Radio Rumba TV (720p)",
+        "url": "https://live-evg7.tv360.bitel.com.pe/bitel/rumba/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
         "name": "Qosqo Times (720p)",
         "url": "https://live-evg5.tv360.bitel.com.pe/bitel/qosqo/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "Ozono TV (720p)",
-        "url": "https://live-evg8.tv360.bitel.com.pe/bitel/ozonotv/playlist.m3u8",
+        "name": "Radio Chalaca",
+        "url": "https://servilive.com:3414/hybrid/play.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "Region TV Callao (720p)",
-        "url": "https://live-evg7.tv360.bitel.com.pe/bitel/regiontvSRT/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "RadioTV Oriente (720p)",
-        "url": "https://live.obslivestream.com/tvoriente/index.m3u8",
+        "name": "Radio Onda Digital (1080p)",
+        "url": "https://live.ondadigitaltv.com/RADIOODTV/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -1279,26 +1183,8 @@
         "category": "Otros"
       },
       {
-        "name": "Radio San Borja TV (1080p)",
-        "url": "https://stream.mediacorp.pe/srt/3/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "Riku TV (1080p)",
         "url": "https://amixtv.com:8081/rikutv/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Riku TV (720p)",
-        "url": "https://live-evg7.tv360.bitel.com.pe/bitel/riku/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Telecolor Yurimaguas (720p) [Not 24/7]",
-        "url": "https://live.obslivestream.com/telecolormux/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -1315,14 +1201,32 @@
         "category": "Otros"
       },
       {
+        "name": "Riku TV (720p)",
+        "url": "https://live-evg7.tv360.bitel.com.pe/bitel/riku/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Telecolor Yurimaguas (720p) [Not 24/7]",
+        "url": "https://live.obslivestream.com/telecolormux/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
         "name": "Vía Televisión (720P) [Not 24/7]",
         "url": "https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "Radio Onda Digital (1080p)",
-        "url": "https://live.ondadigitaltv.com/RADIOODTV/index.m3u8",
+        "name": "Region TV Callao (720p)",
+        "url": "https://live-evg7.tv360.bitel.com.pe/bitel/regiontvSRT/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Studio Pasco TV (720p)",
+        "url": "https://live-evg7.tv360.bitel.com.pe/bitel/studiopasco/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -1333,8 +1237,8 @@
         "category": "Otros"
       },
       {
-        "name": "Vía Altomayo (720p) [Not 24/7]",
-        "url": "https://live.obslivestream.com/viaaltomayomux/index.m3u8",
+        "name": "Sqala TV (720p)",
+        "url": "https://live-evg8.tv360.bitel.com.pe/bitel/studiotvhuanta/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -1345,8 +1249,8 @@
         "category": "Otros"
       },
       {
-        "name": "Sqala TV (720p)",
-        "url": "https://live-evg8.tv360.bitel.com.pe/bitel/studiotvhuanta/playlist.m3u8",
+        "name": "Vía Altomayo (720p) [Not 24/7]",
+        "url": "https://live.obslivestream.com/viaaltomayomux/index.m3u8",
         "logo": "",
         "category": "Otros"
       },

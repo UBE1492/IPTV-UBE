@@ -6,4 +6,4 @@
 | --- | ------------ | ---- | ------ |
 | 1 | L1 Max (1080p) | IPv4 直链 | <http://190.93.224.42/LIGA-1-MAX/index.m3u8> |
 
-Updated at **Mon Aug 24 2026 01:27:36 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Aug 24 2026 07:03:45 GMT+0000 (Coordinated Universal Time)**
