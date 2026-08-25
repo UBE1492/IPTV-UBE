@@ -40,4 +40,4 @@
 | 34 | Unicanal | IPv4 直链 | <http://45.170.130.224:8000/play/a04y/index.m3u8?hls> |
 | 35 | Tigo Sports+ (1080p) [Not 24/7] | lbgo.bozztv.com | <https://lbgo.bozztv.com/ssh101/ssh101/events2py/playlist.m3u8> |
 
-Updated at **Mon Aug 24 2026 18:43:51 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Aug 25 2026 01:24:17 GMT+0000 (Coordinated Universal Time)**
