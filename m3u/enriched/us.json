@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1787867980423,
+  "updated_at": 1787912446394,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -1723,6 +1723,15 @@
       "category": "Otros",
       "options": {
         "http-referrer": "https://zoomnews.info/"
+      }
+    },
+    {
+      "name": "Nickelodeon East HD (720p)",
+      "url": "",
+      "logo": "",
+      "category": "Otros",
+      "options": {
+        "http-referrer": "https://directv-iptv-player.vercel.app/"
       }
     }
   ],
@@ -3448,6 +3457,15 @@
         "category": "Otros",
         "options": {
           "http-referrer": "https://zoomnews.info/"
+        }
+      },
+      {
+        "name": "Nickelodeon East HD (720p)",
+        "url": "",
+        "logo": "",
+        "category": "Otros",
+        "options": {
+          "http-referrer": "https://directv-iptv-player.vercel.app/"
         }
       }
     ]

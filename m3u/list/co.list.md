@@ -105,4 +105,4 @@
 | 99 | Vive TV Colombia (1080p) | IPv4 直链 | <http://192.144.113.132:1935/live/ViveTV/playlist.m3u8> |
 | 100 | Win Sports (1080p) | IPv4 直链 | <http://138.121.15.230:9002/WIN-SPORT/index.m3u8> |
 
-Updated at **Thu Aug 27 2026 21:59:40 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Aug 28 2026 10:20:46 GMT+0000 (Coordinated Universal Time)**

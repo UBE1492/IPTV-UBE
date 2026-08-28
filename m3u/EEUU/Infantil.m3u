@@ -3,3 +3,5 @@
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/canalinfantil/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalInfantil.us@SD",Canal Infantil
 http://177.234.218.66:8084/play/a01x/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.us@EastHD",Nickelodeon East HD (720p)
+#EXTVLCOPT:http-referrer=https://directv-iptv-player.vercel.app/

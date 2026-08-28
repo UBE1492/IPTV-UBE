@@ -1,6 +1,6 @@
 {
   "name": "py",
-  "updated_at": 1787867980693,
+  "updated_at": 1787912446692,
   "m3u": "https://ube1492.github.io/IPTV-UBE/py.m3u",
   "channels": [
     {
@@ -230,7 +230,7 @@
     },
     {
       "name": "Tigo Sports+ (1280p)",
-      "url": "",
+      "url": "#EXTINF:-1 tvg-id=\"ParaguayTV.py@SD\",Paraguay TV (1080p)",
       "logo": "",
       "category": "Otros",
       "options": {
@@ -467,7 +467,7 @@
       },
       {
         "name": "Tigo Sports+ (1280p)",
-        "url": "",
+        "url": "#EXTINF:-1 tvg-id=\"ParaguayTV.py@SD\",Paraguay TV (1080p)",
         "logo": "",
         "category": "Otros",
         "options": {

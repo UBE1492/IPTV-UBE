@@ -39,5 +39,6 @@
 | 33 | Trece | IPv4 直链 | <http://45.170.130.224:8000/play/a050/index.m3u8?hls> |
 | 34 | Unicanal | IPv4 直链 | <http://45.170.130.224:8000/play/a04y/index.m3u8?hls> |
 | 35 | Tigo Sports+ (1080p) [Not 24/7] | lbgo.bozztv.com | <https://lbgo.bozztv.com/ssh101/ssh101/events2py/playlist.m3u8> |
+| 36 | Paraguay TV (1080p) | stream.paraguaytv.gov.py | <https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8> |
 
-Updated at **Thu Aug 27 2026 21:59:40 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Aug 28 2026 10:20:46 GMT+0000 (Coordinated Universal Time)**

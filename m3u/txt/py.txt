@@ -40,3 +40,4 @@ Trece,http://45.170.130.224:8000/play/a050/index.m3u8?hls
 Unicanal,http://45.170.130.224:8000/play/a04y/index.m3u8?hls
 Tigo_Sports+_(1080p)_[Not_24/7],https://lbgo.bozztv.com/ssh101/ssh101/events2py/playlist.m3u8
 Tigo_Sports+_(1280p),#EXTVLCOPT:http-referrer=https://www.tigosports.com.py/
+Paraguay_TV_(1080p),https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
