@@ -287,4 +287,4 @@
 | 281 | Yu-Gi-Oh! (1080p) | amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv | <https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8> |
 | 282 | Zarin TV (1080p) | fl1002.bozztv.com | <https://fl1002.bozztv.com/gf-zarintv/index.m3u8> |
 
-Updated at **Fri Aug 28 2026 21:54:22 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Aug 29 2026 06:20:42 GMT+0000 (Coordinated Universal Time)**
