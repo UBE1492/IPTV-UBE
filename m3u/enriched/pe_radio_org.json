@@ -1,6 +1,6 @@
 {
   "name": "pe_radio_org",
-  "updated_at": 1788020794961,
+  "updated_at": 1788035997867,
   "m3u": "https://ube1492.github.io/IPTV-UBE/pe_radio_org.m3u",
   "channels": [
     {
@@ -28,8 +28,8 @@
       "category": "Música"
     },
     {
-      "name": "Radio Uno Tacna (720p)",
-      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/radiounotv/playlist.m3u8",
+      "name": "Radio San Borja TV (1080p)",
+      "url": "https://stream.mediacorp.pe/srt/3/playlist.m3u8",
       "logo": "",
       "category": "Música"
     },
@@ -40,8 +40,8 @@
       "category": "Música"
     },
     {
-      "name": "Radio San Borja TV (1080p)",
-      "url": "https://stream.mediacorp.pe/srt/3/playlist.m3u8",
+      "name": "Radio Uno Tacna (720p)",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/radiounotv/playlist.m3u8",
       "logo": "",
       "category": "Música"
     },
@@ -79,8 +79,8 @@
         "category": "Música"
       },
       {
-        "name": "Radio Uno Tacna (720p)",
-        "url": "https://live-evg7.tv360.bitel.com.pe/bitel/radiounotv/playlist.m3u8",
+        "name": "Radio San Borja TV (1080p)",
+        "url": "https://stream.mediacorp.pe/srt/3/playlist.m3u8",
         "logo": "",
         "category": "Música"
       },
@@ -91,8 +91,8 @@
         "category": "Música"
       },
       {
-        "name": "Radio San Borja TV (1080p)",
-        "url": "https://stream.mediacorp.pe/srt/3/playlist.m3u8",
+        "name": "Radio Uno Tacna (720p)",
+        "url": "https://live-evg7.tv360.bitel.com.pe/bitel/radiounotv/playlist.m3u8",
         "logo": "",
         "category": "Música"
       },
