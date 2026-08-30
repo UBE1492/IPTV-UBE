@@ -87,4 +87,4 @@
 | 81 | GikTVMX (720p) | pistream.ddns.net | <https://pistream.ddns.net/hls/stream.m3u8> |
 | 82 | Az Cinema (1080p) | cdn1tlinkgo.tlink.cl | <https://cdn1tlinkgo.tlink.cl/azcinema/index.m3u8> |
 
-Updated at **Sat Aug 29 2026 20:39:53 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Aug 30 2026 04:30:14 GMT+0000 (Coordinated Universal Time)**
