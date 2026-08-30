@@ -41,4 +41,4 @@
 | 35 | Tigo Sports+ (1080p) [Not 24/7] | lbgo.bozztv.com | <https://lbgo.bozztv.com/ssh101/ssh101/events2py/playlist.m3u8> |
 | 36 | Paraguay TV (1080p) | stream.paraguaytv.gov.py | <https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8> |
 
-Updated at **Sun Aug 30 2026 11:32:07 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Aug 30 2026 16:19:30 GMT+0000 (Coordinated Universal Time)**
