@@ -15,29 +15,25 @@ https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
 https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
 #EXTINF:-1 tvg-id="DelReyTV.py@SD",Del Rey TV (1080p)
 #EXTVLCOPT:http-referrer=https://tvonline.com.py/
-#EXTINF:-1 tvg-id="InvasivaTV.py@SD",Invasiva TV (720p)
-https://tv-omega-nine.vercel.app/hls/live.m3u8
-#EXTINF:-1 tvg-id="NandePortetepeTV.py@SD",Nande Portetepe TV
-https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8
-#EXTINF:-1 tvg-id="NandejaraNeeTV.py@SD",Nandejara Ne'e TV
-https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion
-#EXTINF:-1 tvg-id="OasisTV.py@SD",Oasis TV (720p)
-https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8
-#EXTINF:-1 tvg-id="OccidentalTV.py@SD",Occidental TV
-https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8
-#EXTINF:-1 tvg-id="OviedoTV.py@SD",Oviedo TV
-https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8
-#EXTINF:-1 tvg-id="TVAire.py@SD",TV Aire
-https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8
-#EXTINF:-1 tvg-id="TVCanindeyu.py@SD",TV Canindeyu (1080p)
-https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8
-#EXTINF:-1 tvg-id="UnionTV.py@SD",UnionTV
-https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
-#EXTINF:-1 tvg-id="UniRadioTV.py@SD",UniRadio TV (1080p)
-https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8
-#EXTINF:-1 tvg-id="SURTVItapua.py@SD",SUR TV Itapua
-http://45.170.130.224:8000/play/a036/index.m3u8?hls
-#EXTINF:-1 tvg-id="TVCamara.py@SD",TV Camara (1080p)
-http://45.170.130.224:8000/play/a03x/index.m3u8?hls
-#EXTINF:-1 tvg-id="ParaguayTV.py@SD",Paraguay TV (1080p)
-https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
+#EXTINF:-1 tvg-id="GOTV.py@SD",GO TV (720p)
+https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
+#EXTINF:-1 tvg-id="MegaTV.py@SD",Mega TV (1080p)
+https://www.desde-paraguay.com/mega.m3u8
+#EXTINF:-1 tvg-id="MiTV.py@SD",MiTV (720p)
+https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
+#EXTINF:-1 tvg-id="MonumentalTV.py@SD",Monumental TV (1080p)
+#EXTVLCOPT:http-referrer=https://www.monumental.com.py/
+#EXTINF:-1 tvg-id="ProductivaTV.py@SD",Productiva TV
+https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion
+#EXTINF:-1 tvg-id="RBTV.py@SD",RB TV (1080p)
+https://video.hostingcaaguazu.com:19360/rbtv/rbtv.m3u8
+#EXTINF:-1 tvg-id="RCCTV.py@SD",RCC TV (1080p) [Not 24/7]
+https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion
+#EXTINF:-1 tvg-id="RedInteriorTV.py@SD",Red Interior TV
+https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8
+#EXTINF:-1 tvg-id="RegionalTVYaguaron.py@SD",Regional TV Yaguaron (1080p)
+https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8
+#EXTINF:-1 tvg-id="RepublicaTV.py@SD",República TV (720p)
+https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8
+#EXTINF:-1 tvg-id="SucesoTV.py@SD",Suceso TV (720p) [Not 24/7]
+https://live.enhdtv.com:8081/8060/index.m3u8
