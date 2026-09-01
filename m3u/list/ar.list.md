@@ -100,4 +100,4 @@
 | 94 | El Siete (1080p) | edgectc.com | <https://edgectc.com/CANAL7_MZA/index.m3u8> |
 | 95 | El Trece (1080p) | IPv4 直链 | <http://15.204.246.24:8080/eltreceHD/index.m3u8> |
 
-Updated at **Tue Sep 01 2026 11:20:21 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Sep 01 2026 16:17:39 GMT+0000 (Coordinated Universal Time)**
