@@ -168,7 +168,7 @@
 | 162 | Spirit TV (720p) [Not 24/7] | cdnlive.myspirit.tv | <https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8> |
 | 163 | St Lucie Public Schools | reflect-stlucie-ps-fl.cablecast.tv | <https://reflect-stlucie-ps-fl.cablecast.tv/live-1/live/stream-1/WIFI-1896k-720p.m3u8> |
 | 164 | Star Channel Latin America (1080p) | IPv4 直链 | <http://15.204.246.24:8080/STARCHANNELHD/index.m3u8> |
-| 165 | The Q India (576p) | mumt05.tangotv.in | <https://mumt05.tangotv.in/87NeALx2THEQ/index.m3u8> |
+| 165 | Q TV (576p) | mumt05.tangotv.in | <https://mumt05.tangotv.in/87NeALx2THEQ/index.m3u8> |
 | 166 | The Shopping Channel (720p) | tscstreaming-lh.akamaihd.net | <https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8> |
 | 167 | The Word Network (1080p) | clouditize.piksel.tech | <https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8> |
 | 168 | theDove TV (720p) | thedovetv.bozztv.com | <https://thedovetv.bozztv.com/thedovetv/thedovetv/index.m3u8> |
@@ -287,4 +287,4 @@
 | 281 | Yu-Gi-Oh! (1080p) | amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv | <https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8> |
 | 282 | Zarin TV (1080p) | fl1002.bozztv.com | <https://fl1002.bozztv.com/gf-zarintv/index.m3u8> |
 
-Updated at **Wed Sep 02 2026 20:45:19 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Sep 03 2026 03:40:06 GMT+0000 (Coordinated Universal Time)**

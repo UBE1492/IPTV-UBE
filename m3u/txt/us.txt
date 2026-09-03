@@ -168,7 +168,7 @@ Spirit_TV_(720p)_[Not_24/7],https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u
 St_Lucie_Public_Schools,https://reflect-stlucie-ps-fl.cablecast.tv/live-1/live/stream-1/WIFI-1896k-720p.m3u8
 Star_Channel_Latin_America_(1080p),http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
 Star_Channel_Latin_America_(1080i),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
-The_Q_India_(576p),https://mumt05.tangotv.in/87NeALx2THEQ/index.m3u8
+Q_TV_(576p),https://mumt05.tangotv.in/87NeALx2THEQ/index.m3u8
 The_Shopping_Channel_(720p),https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 The_Word_Network_(1080p),https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
 theDove_TV_(720p),https://thedovetv.bozztv.com/thedovetv/thedovetv/index.m3u8
