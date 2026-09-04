@@ -8,4 +8,4 @@
 | 2 | L1 Max (1080p) | IPv4 直链 | <http://190.93.224.42/LIGA-1-MAX/index.m3u8> |
 | 3 | L1 Max | cablered.iptvperu.tv:1936 | <https://cablered.iptvperu.tv:1936/cablered/liga1max.stream/playlist.m3u8> |
 
-Updated at **Fri Sep 04 2026 15:59:45 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Sep 04 2026 20:30:02 GMT+0000 (Coordinated Universal Time)**
