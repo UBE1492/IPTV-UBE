@@ -193,3 +193,7 @@ http://201.77.61.226:8000/play/a0qd/index.m3u8
 #EXTINF:-1 tvg-id="Latina.pe@SD",Latina
 #EXTVLCOPT:http-referrer=https://latina.pe/
 https://cablered.iptvperu.tv:1936/cablered/latina_new/playlist.m3u8
+#EXTINF:-1 tvg-id="Chikitoonz.pe@SD",Chikitoonz (1080p)
+http://45.70.201.81:8000/play/a00p/index.m3u8
+#EXTINF:-1 tvg-id="L1Max.pe@SD",L1 Max
+https://cablered.iptvperu.tv:1936/cablered/liga1max.stream/playlist.m3u8

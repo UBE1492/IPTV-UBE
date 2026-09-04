@@ -1,6 +1,6 @@
 {
   "name": "es",
-  "updated_at": 1788468185883,
+  "updated_at": 1788493335115,
   "m3u": "https://ube1492.github.io/IPTV-UBE/es.m3u",
   "channels": [
     {
@@ -126,12 +126,6 @@
     {
       "name": "Antena 3 Internacional",
       "url": "http://177.10.184.193:8000/play/a06a/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Aqui No Hay Quien Viva [_Geo-blocked_]",
-      "url": "https://fast-channels.atresmedia.com/161689f1897ccaaef9a6039cc591f292b259b62e/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc/3.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -885,12 +879,6 @@
       {
         "name": "Antena 3 Internacional",
         "url": "http://177.10.184.193:8000/play/a06a/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Aqui No Hay Quien Viva [_Geo-blocked_]",
-        "url": "https://fast-channels.atresmedia.com/161689f1897ccaaef9a6039cc591f292b259b62e/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc/3.m3u8",
         "logo": "",
         "category": "Otros"
       },

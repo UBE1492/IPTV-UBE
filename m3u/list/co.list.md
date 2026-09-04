@@ -94,16 +94,9 @@
 | 88 | Soona TV | vs20.live.opencaster.com | <https://vs20.live.opencaster.com/soonatv_a1a564a9/index.m3u8> |
 | 89 | Supermúsica TV (720p) | backupmaxmedia.hvmultiplay.com | <https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8> |
 | 90 | Suram TV (720p) | us.streaminghd.cl | <https://us.streaminghd.cl/suramtv/index.m3u8> |
-| 91 | Teleislas (486p) [Not 24/7] | 5ab772334c39c.streamlock.net | <https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8> |
-| 92 | Tu Universo TV (720p) | 5bf8041cb3fed.streamlock.net | <https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8> |
-| 93 | TV3 La Plata (480p) | live.amelbatv.co:81 | <https://live.amelbatv.co:81/teleopita/index.fmp4.m3u8> |
-| 94 | TV Golfo Uraba | stmv7.voxtvhd.com.br | <https://stmv7.voxtvhd.com.br/golfo/golfo/playlist.m3u8> |
-| 95 | TV Rivera [Not 24/7] | movil.ejeserver.com | <https://movil.ejeserver.com/live/tvrivera.m3u8> |
-| 96 | TVGracia | vs20.live.opencaster.com | <https://vs20.live.opencaster.com/diego_57244803/index.m3u8> |
-| 97 | Ultra Casanare TV (1080p) [Not 24/7] | eu1.servers10.com:8081 | <https://eu1.servers10.com:8081/8072/index.m3u8> |
-| 98 | UMC TV (720p) | streaming5.globalhostla.com | <https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8> |
-| 99 | Vive TV Colombia (1080p) | IPv4 直链 | <http://192.144.113.132:1935/live/ViveTV/playlist.m3u8> |
-| 100 | Win Sports (1080p) | IPv4 直链 | <http://138.121.15.230:9002/WIN-SPORT/index.m3u8> |
-| 101 | StreamForce 360 (1080p) | sistemastr.tropicalmoonmedia.com:443 | <https://sistemastr.tropicalmoonmedia.com:443/live/9E495C5FDA503D7F71037F2D2C5D3FA3/16.m3u8> |
+| 91 | Telepacífico (1080p) [Geo-blocked] | play.cdn.enetres.net | <https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8> |
+| 92 | TeleQuindio (1080p) | live20.bozztv.com | <https://live20.bozztv.com/akamaissh101/ssh101/telequindio/playlist.m3u8> |
+| 93 | Telesangil (720p) | live20.bozztv.com | <https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8> |
+| 94 | TeveColombia (720p) [Not 24/7] | cloud6.livescast.com:3900 | <https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8> |
 
-Updated at **Thu Sep 03 2026 20:43:06 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Sep 04 2026 03:42:15 GMT+0000 (Coordinated Universal Time)**

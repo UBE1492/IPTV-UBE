@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1788468185967,
+  "updated_at": 1788493335046,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -948,12 +948,6 @@
     {
       "name": "CMT (720p)",
       "url": "http://23.237.104.106:8080/USA_CMT/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "CNBC Indonesia (720p)",
-      "url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -2673,12 +2667,6 @@
       {
         "name": "CMT (720p)",
         "url": "http://23.237.104.106:8080/USA_CMT/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "CNBC Indonesia (720p)",
-        "url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },

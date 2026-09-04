@@ -230,9 +230,6 @@ https://live-evg5.tv360.bitel.com.pe/bitel/mixtvSRT/playlist.m3u8
 https://livestream.perucast.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="SiscomTV.pe@SD",Siscom TV
 https://video2.lhdserver.es/siscomtv/live.m3u8
-#EXTINF:-1 tvg-id="SolTV.pe@SD",SolTV
-#EXTVLCOPT:http-referrer=https://soltvperu.com/
-https://live20.bozztv.com/giatv/giatv-soltvenvivo/soltvenvivo/chunks.m3u8
 #EXTINF:-1 tvg-id="SqalaTV.pe@SD",Sqala TV (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bitel.com.pe/
@@ -329,3 +326,9 @@ https://live-evg7.tv360.bitel.com.pe/bitel/yurimaguastvSRT/playlist.m3u8
 https://live-evg11.tv360.bitel.com.pe/bitel/zeleve/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeleveTV.pe@SD",Zeleve TV
 https://7.innovatestream.pe:19360/zelevetv/zelevetv.m3u8
+#EXTINF:-1 tvg-id="JuntosTV.pe@SD",Juntos TV (576p)
+http://45.70.201.81:8000/play/a019/index.m3u8
+#EXTINF:-1 tvg-id="RumboMineroTV.pe@SD",Rumbo Minero TV (1080p)
+http://45.70.201.81:8000/play/a018/index.m3u8
+#EXTINF:-1 tvg-id="SolTV.pe@SD",SolTV
+https://5790d294af2dc.streamlock.net:443/streamtv/streamtv/playlist.m3u8

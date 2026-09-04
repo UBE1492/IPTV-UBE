@@ -158,7 +158,6 @@ Clubbing_TV_France,https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c1
 CMC_California_Music_Channel_(1080p)_[Geo-blocked],https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
 CMC-USA_Country_Music_Channel_(720p),https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8
 CMT_(720p),http://23.237.104.106:8080/USA_CMT/index.m3u8
-CNBC_Indonesia_(720p),https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 Comedy_Central_(1080p),http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 Comedy_Central_Latin_America_(1080p),http://15.204.246.24:8080/ComedyCentralHD/index.m3u8
 Comedy_Central_Latin_America,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3

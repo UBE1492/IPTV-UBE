@@ -1,6 +1,6 @@
 {
   "name": "co",
-  "updated_at": 1788468186391,
+  "updated_at": 1788493335246,
   "m3u": "https://ube1492.github.io/IPTV-UBE/co.m3u",
   "channels": [
     {
@@ -548,7 +548,7 @@
     },
     {
       "name": "Tele Amiga (480p) [Not 24/7]",
-      "url": "#EXTINF:-1 tvg-id=\"Teleantioquia.co@SD\",Teleantioquia (720p)",
+      "url": "#EXTINF:-1 tvg-id=\"Telecafe.co@SD\",Telecafe (1080p)",
       "logo": "",
       "category": "Otros",
       "options": {
@@ -556,8 +556,8 @@
       }
     },
     {
-      "name": "Telecaribe (720p)",
-      "url": "#EXTINF:-1 tvg-id=\"Teleislas.co@SD\",Teleislas (486p) [Not 24/7]",
+      "name": "Telecaribe Plus (720p)",
+      "url": "#EXTINF:-1 tvg-id=\"Telepacifico.co@SD\",Telepacífico (1080p) [Geo-blocked]",
       "logo": "",
       "category": "Otros",
       "options": {
@@ -565,67 +565,31 @@
       }
     },
     {
-      "name": "Telemedellin (720p)",
-      "url": "#EXTINF:-1 tvg-id=\"TuUniversoTV.co@SD\",Tu Universo TV (720p)",
+      "name": "TeleQuindio (1080p)",
+      "url": "https://live20.bozztv.com/akamaissh101/ssh101/telequindio/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Telesangil (720p)",
+      "url": "https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "TeveColombia (720p) [Not 24/7]",
+      "url": "https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Trece (720p)",
+      "url": "",
       "logo": "",
       "category": "Otros",
       "options": {
         "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160"
       }
-    },
-    {
-      "name": "TV3 La Plata (480p)",
-      "url": "https://live.amelbatv.co:81/teleopita/index.fmp4.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "TV Golfo Uraba",
-      "url": "https://stmv7.voxtvhd.com.br/golfo/golfo/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "TV Rivera [Not 24/7]",
-      "url": "https://movil.ejeserver.com/live/tvrivera.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "TVGracia",
-      "url": "https://vs20.live.opencaster.com/diego_57244803/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Ultra Casanare TV (1080p) [Not 24/7]",
-      "url": "https://eu1.servers10.com:8081/8072/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "UMC TV (720p)",
-      "url": "https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Vive TV Colombia (1080p)",
-      "url": "http://192.144.113.132:1935/live/ViveTV/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Win Sports (1080p)",
-      "url": "http://138.121.15.230:9002/WIN-SPORT/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "StreamForce 360 (1080p)",
-      "url": "https://sistemastr.tropicalmoonmedia.com:443/live/9E495C5FDA503D7F71037F2D2C5D3FA3/16.m3u8",
-      "logo": "",
-      "category": "Otros"
     }
   ],
   "categories": {
@@ -1175,7 +1139,7 @@
       },
       {
         "name": "Tele Amiga (480p) [Not 24/7]",
-        "url": "#EXTINF:-1 tvg-id=\"Teleantioquia.co@SD\",Teleantioquia (720p)",
+        "url": "#EXTINF:-1 tvg-id=\"Telecafe.co@SD\",Telecafe (1080p)",
         "logo": "",
         "category": "Otros",
         "options": {
@@ -1183,8 +1147,8 @@
         }
       },
       {
-        "name": "Telecaribe (720p)",
-        "url": "#EXTINF:-1 tvg-id=\"Teleislas.co@SD\",Teleislas (486p) [Not 24/7]",
+        "name": "Telecaribe Plus (720p)",
+        "url": "#EXTINF:-1 tvg-id=\"Telepacifico.co@SD\",Telepacífico (1080p) [Geo-blocked]",
         "logo": "",
         "category": "Otros",
         "options": {
@@ -1192,67 +1156,31 @@
         }
       },
       {
-        "name": "Telemedellin (720p)",
-        "url": "#EXTINF:-1 tvg-id=\"TuUniversoTV.co@SD\",Tu Universo TV (720p)",
+        "name": "TeleQuindio (1080p)",
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/telequindio/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Telesangil (720p)",
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "TeveColombia (720p) [Not 24/7]",
+        "url": "https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Trece (720p)",
+        "url": "",
         "logo": "",
         "category": "Otros",
         "options": {
           "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160"
         }
-      },
-      {
-        "name": "TV3 La Plata (480p)",
-        "url": "https://live.amelbatv.co:81/teleopita/index.fmp4.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "TV Golfo Uraba",
-        "url": "https://stmv7.voxtvhd.com.br/golfo/golfo/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "TV Rivera [Not 24/7]",
-        "url": "https://movil.ejeserver.com/live/tvrivera.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "TVGracia",
-        "url": "https://vs20.live.opencaster.com/diego_57244803/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Ultra Casanare TV (1080p) [Not 24/7]",
-        "url": "https://eu1.servers10.com:8081/8072/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "UMC TV (720p)",
-        "url": "https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Vive TV Colombia (1080p)",
-        "url": "http://192.144.113.132:1935/live/ViveTV/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Win Sports (1080p)",
-        "url": "http://138.121.15.230:9002/WIN-SPORT/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "StreamForce 360 (1080p)",
-        "url": "https://sistemastr.tropicalmoonmedia.com:443/live/9E495C5FDA503D7F71037F2D2C5D3FA3/16.m3u8",
-        "logo": "",
-        "category": "Otros"
       }
     ]
   }

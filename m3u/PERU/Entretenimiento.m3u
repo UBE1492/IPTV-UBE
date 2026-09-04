@@ -133,15 +133,63 @@ https://amixtv.com:8081/rikutv/index.m3u8
 https://live-evg7.tv360.bitel.com.pe/bitel/riku/playlist.m3u8
 #EXTINF:-1 tvg-id="RPPTV.pe@SD",RPP TV (1080p)
 http://190.93.224.42/RPP/index.m3u8
-#EXTINF:-1 tvg-id="SqalaTV.pe@SD",Sqala TV (720p)
-https://live-evg8.tv360.bitel.com.pe/bitel/studiotvhuanta/playlist.m3u8
-#EXTINF:-1 tvg-id="StudioPascoTV.pe@SD",Studio Pasco TV (720p)
-https://live-evg7.tv360.bitel.com.pe/bitel/studiopasco/playlist.m3u8
+#EXTINF:-1 tvg-id="TelesystemTV.pe@SD",Telesystem TV (720p)
+https://live-evg5.tv360.bitel.com.pe/bitel/telesystemSRT/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBellaAsuncion.pe@SD",TV Bella Asuncion
+https://s2.tvdatta.com:3687/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="TVCosmos.pe@SD",TV Cosmos (720p)
+https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8
+#EXTINF:-1 tvg-id="TVKaliente.pe@SD",TV Kaliente (720p)
+https://lbgo.bozztv.com/ssh101/ssh101/kalientecusco/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMAR.pe@SD",TV MAR (720p)
+https://live-evg11.tv360.bitel.com.pe/bitel/tvmarSRT/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMAX.pe@SD",TV MAX (720p)
+https://live-evg8.tv360.bitel.com.pe/bitel/nexSRT_TRA/playlist.m3u8
+#EXTINF:-1 tvg-id="TVNorteChiclayo.pe@SD",TV Norte Chiclayo (720p)
+https://live-evg5.tv360.bitel.com.pe/bitel/tvnorte/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPeru.pe@SD",TV Peru (1080p)
-#EXTVLCOPT:http-referrer=http://tvperu.gob.pe/
-#EXTINF:-1 tvg-id="VisionSur.pe@SD",Visión Sur TV (1080p) [Not 24/7]
-https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
-#EXTINF:-1 tvg-id="VivaTVYurimaguas.pe@SD",Viva TV Yurimaguas (720p)
-https://live.obslivestream.com/vivatv/index.m3u8
-#EXTINF:-1 tvg-id="VivaTV.pe@SD",VivaTV (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://190.93.224.42/TV-PERU/index.m3u8
+#EXTINF:-1 tvg-id="TVPeru.pe@SD",TV Peru (720p)
+http://187.102.210.46/TVPERU/index.m3u8
+#EXTINF:-1 tvg-id="TVPeruanisima.pe@SD",TV Peruanisima (720p)
+https://k20.usastreams.com:8081/tvperuanisima/index.m3u8
+#EXTINF:-1 tvg-id="TVPlusChincha.pe@SD",TV+ Chincha (720p)
+https://live-evg11.tv360.bitel.com.pe/bitel/tvchincha/playlist.m3u8
+#EXTINF:-1 tvg-id="TVenLinea.pe@SD",TVenLinea (1080p)
+https://srt.tvdatta.com/tvenlinea/index.m3u8
+#EXTINF:-1 tvg-id="TVUNO.pe@SD",TVUNO (720p)
+https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
+#EXTINF:-1 tvg-id="UchuTV.pe@SD",Uchu TV (720p)
+https://live-evg11.tv360.bitel.com.pe/bitel/ucayalitvSRT/playlist.m3u8
+#EXTINF:-1 tvg-id="UnicentroTV.pe@SD",Unicentro TV (720p)
+https://live-evg11.tv360.bitel.com.pe/bitel/unicentroSRT/playlist.m3u8
+#EXTINF:-1 tvg-id="UniversitariaTV.pe@SD",Universitaria TV (720p)
+https://live-evg11.tv360.bitel.com.pe/bitel/uraniotv/playlist.m3u8
+#EXTINF:-1 tvg-id="UranioTV.pe@SD",Uranio TV (720p)
+https://live-evg8.tv360.bitel.com.pe/bitel/uranioyurimaguasSRT/playlist.m3u8
+#EXTINF:-1 tvg-id="UranioTV.pe@SD",Uranio TV (Yurimaguas) (720p) [Not 24/7]
+https://live.obslivestream.com/uraniotv/index.m3u8
+#EXTINF:-1 tvg-id="USMPTV.pe@SD",USMPTV (720p)
+http://187.102.210.46/USMP/index.m3u8
+#EXTINF:-1 tvg-id="USMPTV.pe@SD",USMPTV
+#EXTVLCOPT:http-referrer=https://usmptv.pe/
+#EXTINF:-1 tvg-id="WayraTV.pe@SD",Wayra TV (720p)
+https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/playlist.m3u8
+#EXTINF:-1 tvg-id="WillaxTV.pe@SD",Willax TV (1080p)
+http://190.93.224.42/WILLAX/index.m3u8
+#EXTINF:-1 tvg-id="WillaxTV.pe@SD",Willax TV (720p)
+http://187.102.210.46/WILLAX/index.m3u8
+#EXTINF:-1 tvg-id="Wtv.pe@SD",Wtv (720p)
+https://live-evg7.tv360.bitel.com.pe/bitel/ncanalSRT/playlist.m3u8
+#EXTINF:-1 tvg-id="YurimaguasTV.pe@SD",Yurimaguas TV (720p)
+https://live-evg7.tv360.bitel.com.pe/bitel/yurimaguastvSRT/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeleveTV.pe@SD",Zeleve TV (720p)
+https://live-evg11.tv360.bitel.com.pe/bitel/zeleve/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeleveTV.pe@SD",Zeleve TV
+https://7.innovatestream.pe:19360/zelevetv/zelevetv.m3u8
+#EXTINF:-1 tvg-id="JuntosTV.pe@SD",Juntos TV (576p)
+http://45.70.201.81:8000/play/a019/index.m3u8
+#EXTINF:-1 tvg-id="RumboMineroTV.pe@SD",Rumbo Minero TV (1080p)
+http://45.70.201.81:8000/play/a018/index.m3u8
+#EXTINF:-1 tvg-id="SolTV.pe@SD",SolTV
+https://5790d294af2dc.streamlock.net:443/streamtv/streamtv/playlist.m3u8
