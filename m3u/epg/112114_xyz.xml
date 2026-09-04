@@ -17745,6 +17745,15 @@
 	<programme channel="咪咕综合体育" start="20260904165500 +0800" stop="20260904185500 +0800">
 		<title lang="zh">网球世界-2026美国网球公开赛 精彩回顾4</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260904190000 +0800" stop="20260904203000 +0800">
+		<title lang="zh">绿茵狂想联赛季 第3期 直播</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260904203500 +0800" stop="20260904221500 +0800">
+		<title lang="zh">英超赛场-26/27赛季 英超 第2轮 曼联-伊普斯维奇</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260904222000 +0800" stop="20260904000000 +0800">
+		<title lang="zh">足球世界-26/27赛季 西甲 第1轮 巴塞罗那-毕尔巴鄂竞技</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -17822,6 +17831,18 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260904183500 +0800" stop="20260904185500 +0800">
 		<title lang="zh">赛事睛华</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260904190000 +0800" stop="20260904190500 +0800">
+		<title lang="zh">睛彩AI速报</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260904191500 +0800" stop="20260904215500 +0800">
+		<title lang="zh">2026FIBA女篮世界杯 D组第1轮 美国-中国 直播</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260904215500 +0800" stop="20260904221000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260904221000 +0800" stop="20260904235000 +0800">
+		<title lang="zh">NBL城燃之战-25/26赛季 季后赛1/4决赛G3 上海玄鸟-山东蜜獾</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -58533,6 +58554,18 @@
 	<programme channel="newtv超级综艺" start="20260904183300 +0800" stop="20260904195000 +0800">
 		<title lang="zh">越战越勇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260904195000 +0800" stop="20260904211400 +0800">
+		<title lang="zh">CMG夏日歌会</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260904211400 +0800" stop="20260904223100 +0800">
+		<title lang="zh">你好时光 第二季</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260904223100 +0800" stop="20260904233100 +0800">
+		<title lang="zh">新花路放</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260904233100 +0800" stop="20260904001600 +0800">
+		<title lang="zh">43_北上广不相信眼泪</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -58584,6 +58617,15 @@
 	<programme channel="newtv超级体育" start="20260904183500 +0800" stop="20260904193000 +0800">
 		<title lang="zh">篮球公园</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260904193000 +0800" stop="20260904221500 +0800">
+		<title lang="zh">2026年女篮世界杯-小组赛D组(美国-中国)</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260904221500 +0800" stop="20260904232000 +0800">
+		<title lang="zh">体育世界</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260904232000 +0800" stop="20260904012200 +0800">
+		<title lang="zh">2026年女篮世界杯-小组赛C组(比利时-土耳其)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -58619,6 +58661,15 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260904173000 +0800" stop="20260904190800 +0800">
 		<title lang="zh">过去，如今和之后</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260904190800 +0800" stop="20260904211800 +0800">
+		<title lang="zh">一代宗师</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260904211800 +0800" stop="20260904232200 +0800">
+		<title lang="zh">碟中谍III</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260904232200 +0800" stop="20260904011300 +0800">
+		<title lang="zh">偷天换日</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -58700,6 +58751,24 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260904182800 +0800" stop="20260904191400 +0800">
 		<title lang="zh">04_种墨园</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260904191400 +0800" stop="20260904195900 +0800">
+		<title lang="zh">05_种墨园</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260904195900 +0800" stop="20260904204400 +0800">
+		<title lang="zh">06_种墨园</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260904204400 +0800" stop="20260904213000 +0800">
+		<title lang="zh">07_种墨园</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260904213000 +0800" stop="20260904222000 +0800">
+		<title lang="zh">17_依然的喜事</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260904222000 +0800" stop="20260904230600 +0800">
+		<title lang="zh">18_依然的喜事</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260904230600 +0800" stop="20260904234900 +0800">
+		<title lang="zh">19_依然的喜事</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -59336,6 +59405,27 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260904182900 +0800" stop="20260904191300 +0800">
 		<title lang="zh">06_风暴舞</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260904191300 +0800" stop="20260904194300 +0800">
+		<title lang="zh">鲜农宗土蜂蜜好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260904194300 +0800" stop="20260904202500 +0800">
+		<title lang="zh">16_欢颜</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260904202500 +0800" stop="20260904205500 +0800">
+		<title lang="zh">鲜农宗土蜂蜜好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260904205500 +0800" stop="20260904213900 +0800">
+		<title lang="zh">17_欢颜</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260904213900 +0800" stop="20260904222700 +0800">
+		<title lang="zh">18_欢颜</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260904222700 +0800" stop="20260904225700 +0800">
+		<title lang="zh">杏花村好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260904225700 +0800" stop="20260904234300 +0800">
+		<title lang="zh">01_无间</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>

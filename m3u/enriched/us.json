@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1788519409102,
+  "updated_at": 1788537576616,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -1471,14 +1471,14 @@
       "category": "Otros"
     },
     {
-      "name": "WITI-DT1 (1080p)",
-      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-witi-lgus/playlist.m3u8",
+      "name": "WJAX-DT1 (1080p)",
+      "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wjaxbreaking-ono/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "WJAX-DT1 (1080p)",
-      "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wjaxbreaking-ono/playlist.m3u8",
+      "name": "WITI-DT1 (1080p)",
+      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-witi-lgus/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -1527,12 +1527,6 @@
     {
       "name": "World Channel (1080p)",
       "url": "https://world.lls.pbs.org/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "WPIX-HD (576p)",
-      "url": "https://tvsen6.aynaott.com/pix11/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -3190,14 +3184,14 @@
         "category": "Otros"
       },
       {
-        "name": "WITI-DT1 (1080p)",
-        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-witi-lgus/playlist.m3u8",
+        "name": "WJAX-DT1 (1080p)",
+        "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wjaxbreaking-ono/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "WJAX-DT1 (1080p)",
-        "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wjaxbreaking-ono/playlist.m3u8",
+        "name": "WITI-DT1 (1080p)",
+        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-witi-lgus/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -3246,12 +3240,6 @@
       {
         "name": "World Channel (1080p)",
         "url": "https://world.lls.pbs.org/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "WPIX-HD (576p)",
-        "url": "https://tvsen6.aynaott.com/pix11/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
