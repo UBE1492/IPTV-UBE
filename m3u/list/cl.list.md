@@ -200,4 +200,4 @@
 | 194 | TVU (1080p) | cdn1tlinkgo.tlink.cl | <http://cdn1tlinkgo.tlink.cl/tvu/mono.m3u8> |
 | 195 | Teletrak TV (1080p) | cdn1tlinkgo.tlink.cl | <https://cdn1tlinkgo.tlink.cl/teletrak/index.m3u8> |
 
-Updated at **Sat Sep 05 2026 14:50:32 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Sep 05 2026 20:05:43 GMT+0000 (Coordinated Universal Time)**

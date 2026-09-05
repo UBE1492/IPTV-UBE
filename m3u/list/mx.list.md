@@ -89,4 +89,4 @@
 | 83 | Canal 26 | 5fe2654d6127d.streamlock.net:443 | <https://5fe2654d6127d.streamlock.net:443/telemetrika3/_definst_/videotelemetrika3/playlist.m3u8> |
 | 84 | UAA TV (1080p) | 5fe2654d6127d.streamlock.net:443 | <https://5fe2654d6127d.streamlock.net:443/uaa2/videouaa2/playlist.m3u8> |
 
-Updated at **Sat Sep 05 2026 14:50:32 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Sep 05 2026 20:05:44 GMT+0000 (Coordinated Universal Time)**
