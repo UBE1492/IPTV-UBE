@@ -1,6 +1,6 @@
 {
   "name": "cl",
-  "updated_at": 1788553792998,
+  "updated_at": 1788579553026,
   "m3u": "https://ube1492.github.io/IPTV-UBE/cl.m3u",
   "channels": [
     {
@@ -1110,12 +1110,6 @@
     {
       "name": "13C (720p)",
       "url": "http://cdn1tlinkgo.tlink.cl/13c/mono.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "13Rec (720p)",
-      "url": "http://cdn1tlinkgo.tlink.cl/13rec/mono.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -2295,12 +2289,6 @@
       {
         "name": "13C (720p)",
         "url": "http://cdn1tlinkgo.tlink.cl/13c/mono.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "13Rec (720p)",
-        "url": "http://cdn1tlinkgo.tlink.cl/13rec/mono.m3u8",
         "logo": "",
         "category": "Otros"
       },

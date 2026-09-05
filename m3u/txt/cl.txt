@@ -185,7 +185,6 @@ NTV_(1080p),http://cdn1tlinkgo.tlink.cl/ntvhd/mono.m3u8
 TVN3_(1080p),http://cdn1tlinkgo.tlink.cl/tvn3/mono.m3u8
 24_Horas_(1080p),http://cdn1tlinkgo.tlink.cl/24horashd/mono.m3u8
 13C_(720p),http://cdn1tlinkgo.tlink.cl/13c/mono.m3u8
-13Rec_(720p),http://cdn1tlinkgo.tlink.cl/13rec/mono.m3u8
 Canal_CHV_Noticias_(1080p),http://cdn1tlinkgo.tlink.cl/chvnoticias/mono.m3u8
 UCV_TV_(1080p),http://cdn1tlinkgo.tlink.cl/ucvhd/mono.m3u8
 La_Red_(1080p),http://cdn1tlinkgo.tlink.cl/laredhd/mono.m3u8

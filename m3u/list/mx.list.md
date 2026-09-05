@@ -86,5 +86,7 @@
 | 80 | TUDN (720p) | streamer.metronethn.com | <https://streamer.metronethn.com/TUDN/index.m3u8> |
 | 81 | GikTVMX (720p) | pistream.ddns.net | <https://pistream.ddns.net/hls/stream.m3u8> |
 | 82 | Az Cinema (1080p) | cdn1tlinkgo.tlink.cl | <https://cdn1tlinkgo.tlink.cl/azcinema/index.m3u8> |
+| 83 | Canal 26 | 5fe2654d6127d.streamlock.net:443 | <https://5fe2654d6127d.streamlock.net:443/telemetrika3/_definst_/videotelemetrika3/playlist.m3u8> |
+| 84 | UAA TV (1080p) | 5fe2654d6127d.streamlock.net:443 | <https://5fe2654d6127d.streamlock.net:443/uaa2/videouaa2/playlist.m3u8> |
 
-Updated at **Fri Sep 04 2026 20:29:52 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Sep 05 2026 03:39:13 GMT+0000 (Coordinated Universal Time)**
