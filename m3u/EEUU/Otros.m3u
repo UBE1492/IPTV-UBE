@@ -247,3 +247,85 @@ https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="YuGiOh.us@SD",Yu-Gi-Oh! (1080p)
 https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8
+#EXTINF:-1 tvg-id="BabyFirst.us@Spanish",BabyFirst Spanish (720p)
+http://168.228.44.241:9997/play/a07u/index.m3u8
+#EXTINF:-1 tvg-id="Univision.us@EastHD",Univision East HD (1080p)
+http://45.190.13.8/UnivisionHD/index.m3u8
+#EXTINF:-1 tvg-id="TUDN.us@SD",TUDN (1080p)
+http://45.190.13.8/TUDNHD/index.m3u8
+#EXTINF:-1 tvg-id="FX.us@East",FX (720p)
+http://tvsen7.aynascope.net/fx/index.m3u8
+#EXTINF:-1 tvg-id="KartoonChannel.us@SD",Kartoon Channel! (1080p)
+https://hlspackager.akamaized.net/live/DB/KARTOON_CHANNEL/HLS/KARTOON_CHANNEL.m3u8
+#EXTINF:-1 tvg-id="ACCNetwork.us@SD",ACC Network (720p)
+http://23.239.31.26:8989/accnetwork/index.m3u8
+#EXTINF:-1 tvg-id="BabyFirst.us@US",BabyFirst (480p)
+http://181.78.106.127:5000/play/a0sa/index.m3u8
+#EXTINF:-1 tvg-id="SPremium.us@HD",S Premium! (360p)
+https://vodcdn.bamboo-cloud.com/livehls/68d0876e06304461862415b2/master.m3u8
+#EXTINF:-1 tvg-id="STomSings.us@HD",S Tom Sings (1080p)
+https://vodcdn.bamboo-cloud.com/livehls/6a8408ae0630440c2f39aec3/master.m3u8
+#EXTINF:-1 tvg-id="TheDoctors.us@HD",The Doctors (720p)
+https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Doctors/index.m3u8
+#EXTINF:-1 tvg-id="FunRoads.us@SD",Fun Roads (720p)
+https://www.funroads-hls1.com/funroads.m3u8
+#EXTINF:-1 tvg-id="USANetwork.us@East",USA Network (576p)
+https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8
+#EXTINF:-1 tvg-id="Bravo.us@East",Bravo (576p)
+https://tvsen3.aynaott.com/AXsdcQ8A/index.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.us@East",Comedy Central (576p)
+https://tvsen3.aynaott.com/5fUWDMxZ/index.m3u8
+#EXTINF:-1 tvg-id="FX.us@East",FX (576p)
+https://tvsen3.aynaott.com/jTqkTE8W/index.m3u8
+#EXTINF:-1 tvg-id="Laff.us@SD",Laff (576p)
+https://tvsen3.aynaott.com/UC6a8nsf/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.us@East",National Geographic (576p)
+https://tvsen3.aynaott.com/7mm4pwCy/index.m3u8
+#EXTINF:-1 tvg-id="GiggleMug.us@SD",Giggle Mug (576p)
+https://tvsen3.aynaott.com/uYpFg3RV/index.m3u8
+#EXTINF:-1 tvg-id="FXLatinAmerica.us@Panregional",FX Latin America (1080p)
+https://cdn1tlinkgo.tlink.cl/fxhd/index.m3u8
+#EXTINF:-1 tvg-id="PasionesLatinAmerica.us@SD",Pasiones Latin America (1080p)
+https://cdn1tlinkgo.tlink.cl/pasioneshd/index.m3u8
+#EXTINF:-1 tvg-id="AXNLatinAmerica.us@Chile",AXN Latin America Chile (1080p)
+https://cdn1tlinkgo.tlink.cl/axnhd/index.m3u8
+#EXTINF:-1 tvg-id="DHE.us@SD",DHE (1080p)
+https://cdn1tlinkgo.tlink.cl/dhehd/index.m3u8
+#EXTINF:-1 tvg-id="SonyChannelAndes.us@SD",Sony Channel Andes (1080p)
+https://cdn1tlinkgo.tlink.cl/sonyhd/index.m3u8
+#EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Panregional",Studio Universal Latin America (1080p)
+https://cdn1tlinkgo.tlink.cl/studiouniversalhd/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@Panregional",National Geographic Latin America (1080p)
+https://cdn1tlinkgo.tlink.cl/natgeohd/index.m3u8
+#EXTINF:-1 tvg-id="SECNetwork.us@SD",SEC Network (1080p)
+http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="Telemundo.us@WTMOCD",WTMO-CD 31.1 (720p)
+https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/adcee832-5511-4ed1-bcef-58616c0f530f/4.m3u8
+#EXTINF:-1 tvg-id="AXNBlack.us@Romania",AXN Black Romania
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+#EXTINF:-1 tvg-id="AXNWhite.us@SD",AXN White
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+#EXTINF:-1 tvg-id="GenesisScienceNetwork.us@SD",Genesis Science Network (720p)
+https://2-fss-1.streamhoster.com/pl_122/amlst:206018-2645902/playlist.m3u8
+#EXTINF:-1 tvg-id="DreamWorksChannelAsia.us@SD",DreamWorks Channel Asia (1080p)
+http://nmk.ioapk.com:5050/4gtv-live017/index.m3u8
+#EXTINF:-1 tvg-id="LaRosadeGuadalupe.us@SD",La Rosa de Guadalupe (360p)
+https://app.viloud.tv/hls/channel/9c88161fe675b59d4b008c776f033960.m3u8
+#EXTINF:-1 tvg-id="RTN.us@SD",RTN
+http://4.59.210.197:8815/udp/127.0.0.1:6002
+#EXTINF:-1 tvg-id="KIIOLD101.us@HD",KIIO-LD 10.1
+http://livestream.usatv.com/hls/master-iUSATVLIVENET.m3u8
+#EXTINF:-1 tvg-id="HallmarkChannel.us@East",Hallmark Channel (720p) [Geo-blocked]
+http://41.205.93.154/HALLMARK/index.m3u8
+#EXTINF:-1 tvg-id="AMC.us@EastHD",AMC (1080p) [Geo-blocked]
+http://41.205.93.154/AMC/index.m3u8
+#EXTINF:-1 tvg-id="MSNOW.us@SD",MS NOW (720p) [Geo-blocked]
+http://41.205.93.154/MSNBC/index.m3u8
+#EXTINF:-1 tvg-id="CNBC.us@SD",CNBC (720p) [Geo-blocked]
+http://41.205.93.154/CNBC/index.m3u8
+#EXTINF:-1 tvg-id="Gagsnetwork.us@SD",Gagsnetwork (576p)
+http://stream.mcquack.net/458/index.m3u8
+#EXTINF:-1 tvg-id="AVIRewind.us@SD",AVI Rewind (1080p)
+http://45.70.201.81:8000/play/a010/index.m3u8
+#EXTINF:-1 tvg-id="AMCenEspanol.us@SD",AMC en Espanol
+https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8

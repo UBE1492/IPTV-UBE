@@ -45,5 +45,19 @@ https://rpn.bozztv.com/gusa/gusa-tvsNostalgiaMovies/index.m3u8
 https://rpn.bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8
 #EXTINF:-1 tvg-id="WhiplashCinema.us@SD",Whiplash Cinema (480p)
 https://cdn.whiplash.cc/whiplash-cinema/index.m3u8
-#EXTINF:-1 tvg-id="CinemaxLatino.us@SD",Cinemax Latino (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="FXMovieChannel.us@HD",FX Movie Channel HD (1080p)
+https://sra72yz.s.gy/FX_MOVIE_CHANNEL_US.m3u8
+#EXTINF:-1 tvg-id="StarzEdge.us@East",Starz Edge (720p)
+http://168.228.44.241:9998/play/a0e0/index.m3u8
+#EXTINF:-1 tvg-id="StarzEncoreSpanish.us@East",Starz Encore Spanish (720p)
+http://168.228.44.241:9998/play/a0e1/index.m3u8
+#EXTINF:-1 tvg-id="FMHMovies.us@SD",FMH Movies (1080p)
+https://cdn1tlinkgo.tlink.cl/fmhmovies/index.m3u8
+#EXTINF:-1 tvg-id="FXMovieChannel.us@SD",FX Movie Channel (720p)
+http://misterich.megatv.fun/iptv/CVHTUN2FGZ4TTVYBXGA5MRPN/1106/index.m3u8
+#EXTINF:-1 tvg-id="HBOHits.us@East",HBO Hits (720p)
+http://tvsen7.aynascope.net/hbo2/index.m3u8
+#EXTINF:-1 tvg-id="HBOMovies.us@East",HBO Movies (720p)
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+#EXTINF:-1 tvg-id="CinemaxClassics.us@East",Cinemax Classics (1080p)
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8

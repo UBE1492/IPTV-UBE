@@ -205,3 +205,43 @@ https://yta.unitedteleports.tv/hls/YTA.m3u8
 https://fl1002.bozztv.com/gf-zarintv/index.m3u8
 #EXTINF:-1 tvg-id="ZoomNews.us@SD",Zoom TV Kurdish (720p)
 #EXTVLCOPT:http-referrer=https://zoomnews.info/
+#EXTINF:-1 tvg-id="Univision.us@WLTVDT",WLTV-DT 23.1 (720p)
+http://168.228.44.241:9997/play/a09d/index.m3u8
+#EXTINF:-1 tvg-id="STV.us@HD",STV (360p)
+https://vodcdn.bamboo-cloud.com/livehls/6a81edf1063044437202e65c/master.m3u8
+#EXTINF:-1 tvg-id="WGGSTV161.us@HD",WGGS-TV 16.1
+https://wggstv16.ddns.net:9953/hls/WGGS1.m3u8
+#EXTINF:-1 tvg-id="KMCTTV391.us@HD",KMCT-TV 39.1
+https://wggstv16.ddns.net:9953/hls/KMCT1.m3u8
+#EXTINF:-1 tvg-id="AlbanianTVAmerica.us@SD",Albanian TV America (1080p)
+http://5.254.89.106/8711/index.m3u8
+#EXTINF:-1 tvg-id="AXSTV.us@SD",AXS TV (576p)
+https://tvsen3.aynaott.com/P2fJzfsg/index.m3u8
+#EXTINF:-1 tvg-id="BATVPublicChannel.us@SD",BATV Public Channel
+https://livestream.telvue.com/billerica1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="BATVGovernmentChannel.us@SD",BATV Government Channel
+https://livestream.telvue.com/billerica3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="BestofBATVChannel.us@SD",Best of BATV Channel
+https://livestream.telvue.com/billerica4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="NTDTV.us@West",NTD TV West (720p)
+https://ntd02.akamaized.net/HD-LA/index.m3u8
+#EXTINF:-1 tvg-id="FaithTV.us@SD",Faith TV (1080p)
+https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TheWalkTV.us@SD",The Walk TV
+https://wggstv16.ddns.net:9953/hls/walk1.m3u8
+#EXTINF:-1 tvg-id="DiyaTV.us@SD",Diya TV (1080p)
+https://stream.diyatvinc.com/diya.m3u8
+#EXTINF:-1 tvg-id="ABHPTV.us@HD",ABHP TV (480p)
+https://vietprocast.app/hls/abhp/index.m3u8
+#EXTINF:-1 tvg-id="GreaterLoveTV.us@SD",Greater Love TV (720p)
+https://rpn.bozztv.com/dvrfl04/itv04019/index.m3u8
+#EXTINF:-1 tvg-id="VideoMixTV.us@SD",Video Mix TV
+https://2-fss-2.streamhoster.com/pl_118/206436-3189488-1/playlist.m3u8
+#EXTINF:-1 tvg-id="RadiantTV.us@SD",RadiantTV (1080p)
+https://rpn.bozztv.com/radiant/radiant/radiant/index.m3u8
+#EXTINF:-1 tvg-id="MeTV.us@SD",MeTV (720p)
+http://4.30.180.36:8420/metv/index.m3u8?token=test
+#EXTINF:-1 tvg-id="FierroaFondoTV.us@SD",Fierro a Fondo TV (1080p)
+http://45.70.201.81:8000/play/a00x/index.m3u8
+#EXTINF:-1 tvg-id="ZTV.us@SD",ZTV (1080p)
+http://45.70.201.81:8000/play/a00u/index.m3u8

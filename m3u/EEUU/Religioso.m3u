@@ -5,3 +5,11 @@ https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
 https://tgn.bozztv.com/betterlife/betterlife/betterlife/index.m3u8
 #EXTINF:-1 tvg-id="CanaldelaFe.us@SD",Canal de la Fe (720p)
 https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/dad6a736-9efb-40ce-89b6-81d1d54f92bd/master.m3u8
+#EXTINF:-1 tvg-id="Lifetime.us@East",Lifetime (576p)
+https://tvsen7.aynaott.com/lifetime/index.m3u8
+#EXTINF:-1 tvg-id="LifetimeLatinAmerica.us@Panregional",Lifetime Latin America (1080p)
+https://cdn1tlinkgo.tlink.cl/lifetime/index.m3u8
+#EXTINF:-1 tvg-id="Lifetime.us@East",Lifetime (720p) [Geo-blocked]
+http://41.205.93.154/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-id="AspireTVLife.us@SD",Aspire TV Life (1080p)
+https://uptv-aspiretvlife-klowdtv.amagi.tv/playlist.m3u8

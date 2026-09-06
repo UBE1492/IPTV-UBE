@@ -44,7 +44,6 @@ Canal_Latino_54_(360p),https://videostream.chileservidores.com:8081/latina/index
 Canal_Local_(720p),https://v2.tustreaming.cl/canallocalcl/index.m3u8
 Canal_Survision_Alerce_(720p),https://s1.tvdatta.com:3384/live/canal20tvlive.m3u8
 Caracola_TV,https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/chunks.m3u8
-CDTV_(720p)_[Not_24/7],http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8
 Central_TV_(720p),https://freya.mivideo.pro/centraltv/video.m3u8
 Chile_Channel_(720p),https://v2.tustreaming.cl/chilechannel/index.m3u8
 ChileVision_(1080p),http://15.204.246.24:8080/CHVHD/index.m3u8

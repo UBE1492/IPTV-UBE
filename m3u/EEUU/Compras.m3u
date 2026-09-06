@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TSC.ca@SD",The Shopping Channel (720p)
 https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+#EXTINF:-1 tvg-id="ShopLC.us@SD",Shop LC (576p)
+https://tvsen3.aynaott.com/zZ6EndAn/index.m3u8

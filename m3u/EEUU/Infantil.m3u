@@ -3,3 +3,17 @@
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/canalinfantil/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalInfantil.us@SD",Canal Infantil
 http://177.234.218.66:8084/play/a01x/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.us@East",Nickelodeon (1080p)
+https://sra72yz.s.gy/NICKELODEON_EAST_US.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.us@East",Nicktoons (1080p)
+https://sra72yz.s.gy/NICKTOONS_US.m3u8
+#EXTINF:-1 tvg-id="NickJr.us@East",Nick Jr. (1080p)
+https://sra72yz.s.gy/NICK_JR_US.m3u8
+#EXTINF:-1 tvg-id="NickJr.us@East",Nick Jr. (720p)
+http://tvsen7.aynascope.net/nickjr/index.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.us@East",Nicktoons (720p)
+http://tvsen7.aynascope.net/nicktoons/index.m3u8
+#EXTINF:-1 tvg-id="FMHKids.us@SD",FMH Kids (1080p)
+https://cdn1tlinkgo.tlink.cl/fmhkidshd/index.m3u8
+#EXTINF:-1 tvg-id="KidOO.us@SD",KidOO (1080p) [Geo-blocked]
+http://15.204.246.24:8080/KidooHD/index.m3u8
