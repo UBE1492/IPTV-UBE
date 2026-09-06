@@ -384,4 +384,4 @@
 | 378 | Cinemax Classics (1080p) | IPv4 直链 | <http://23.237.104.106:8080/USA_5STARMAX/index.m3u8> |
 | 379 | AMC en Espanol | amc-amcespanol-1-us.lg.wurl.tv | <https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8> |
 
-Updated at **Sun Sep 06 2026 10:33:48 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Sep 06 2026 15:09:56 GMT+0000 (Coordinated Universal Time)**
