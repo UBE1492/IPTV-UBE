@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="beINSportsUSA.us@SD",beIN Sports USA (1080p)
-https://messi.damitv.st/papi/ts/beinsports-usa/playlist.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD",beIN SPORTS XTRA (1080p)
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD",beIN SPORTS XTRA en Espanol (1080p)

@@ -78,7 +78,6 @@ Beach_TV_Florida_&_Alabama_(720p),http://media4.tripsmarter.com:1935/LiveTV/DTVH
 Beach_TV_Key_West_&_Florida_Keys_(720p),https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8
 Beach_TV_Myrtle_Beach_&_The_Grand_Strand_(720p),http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
 Beach_TV_Panama_City_(720p),http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
-beIN_Sports_USA_(1080p)_[Geo-blocked],https://messi.damitv.st/papi/ts/beinsports-usa/playlist.m3u8
 beIN_SPORTS_XTRA_(1080p),https://bein-xtra-bein.amagi.tv/playlist.m3u8
 beIN_SPORTS_XTRA_en_Espanol_(1080p),http://201.190.41.246:9060/play/a03y/index.m3u8
 Berks_Community_TV_(1080p),https://livestream.telvue.com/berkscmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
