@@ -9,9 +9,9 @@
 | 3 | Vision Musica TV  PE | videoserver.tmcreativos.com:19360 | <https://videoserver.tmcreativos.com:19360/visionmusica/visionmusica.m3u8?PlaylistM3UCL> |
 | 4 | Canal 8 Catacaos  PE | live.obslivestream.com | <https://live.obslivestream.com/canal8/index.m3u8?PlaylistM3UCL> |
 | 5 | CR TV  PE | live.obslivestream.com | <https://live.obslivestream.com/crtvmux/index.m3u8?PlaylistM3UCL> |
-| 6 | Mega TV Jaen  PE | 7.innovatestream.pe:19360 | <https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8?PlaylistM3UCL> |
-| 7 | OK TeVe  PE | live.obslivestream.com | <https://live.obslivestream.com/oktv/video.m3u8?token=Bk-DXAXulO1OV0&PlaylistM3UCL> |
-| 8 | Mundo de la Musica TV  CL | tv.arkeo.cl:1936 | <https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL> |
+| 6 | Mundo de la Musica TV  CL | tv.arkeo.cl:1936 | <https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL> |
+| 7 | Mega TV Jaen  PE | 7.innovatestream.pe:19360 | <https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8?PlaylistM3UCL> |
+| 8 | OK TeVe  PE | live.obslivestream.com | <https://live.obslivestream.com/oktv/video.m3u8?token=Bk-DXAXulO1OV0&PlaylistM3UCL> |
 | 9 | Nativa  PE | oneplay.iptvperu.tv:1936 | <https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8?PlaylistM3UCL> |
 | 10 | Controversia TV  PE | live.obslivestream.com | <https://live.obslivestream.com/controversiatv/index.m3u8?PlaylistM3UCL> |
 | 11 | Cultura 24 TV  PE | www.opencaster.com | <https://www.opencaster.com/resources/hls_stream/cultura24.m3u8?PlaylistM3UCL> |
@@ -24,4 +24,4 @@
 | 18 | Via Alto Mayo TV  PE | live.obslivestream.com | <https://live.obslivestream.com/viaaltomayomux/index.m3u8?PlaylistM3UCL> |
 | 19 | Via Television Tarapoto  PE | videoserver.tmcreativos.com:19360 | <https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8?PlaylistM3UCL> |
 
-Updated at **Mon Sep 07 2026 03:40:50 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Sep 07 2026 11:58:04 GMT+0000 (Coordinated Universal Time)**
