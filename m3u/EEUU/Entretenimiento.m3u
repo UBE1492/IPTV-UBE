@@ -245,3 +245,5 @@ http://4.30.180.36:8420/metv/index.m3u8?token=test
 http://45.70.201.81:8000/play/a00x/index.m3u8
 #EXTINF:-1 tvg-id="ZTV.us@SD",ZTV (1080p)
 http://45.70.201.81:8000/play/a00u/index.m3u8
+#EXTINF:-1 tvg-id="SmurfTV.us@SD",Smurf TV (480p)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4065

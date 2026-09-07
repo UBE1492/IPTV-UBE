@@ -35,3 +35,5 @@ http://138.121.113.175:8000/play/a0cj/index.m3u8
 http://138.121.113.175:8000/play/a0ca/index.m3u8
 #EXTINF:-1 tvg-id="FoxBusinessNetwork.us@SD",Fox Business Network (576p)
 https://tvsen6.aynaott.com/foxbusiness/index.m3u8
+#EXTINF:-1 tvg-id="NBATV.us@SD",NBA TV (720p)
+http://rezofoot.tv/NBATV/index.m3u8

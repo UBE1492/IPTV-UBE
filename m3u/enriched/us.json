@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1788725440689,
+  "updated_at": 1788752440638,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -2050,12 +2050,6 @@
       "category": "Otros"
     },
     {
-      "name": "FX Movie Channel (720p)",
-      "url": "http://misterich.megatv.fun/iptv/CVHTUN2FGZ4TTVYBXGA5MRPN/1106/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Faith TV (1080p)",
       "url": "https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithTV.smil/playlist.m3u8",
       "logo": "",
@@ -2287,6 +2281,12 @@
       "category": "Otros"
     },
     {
+      "name": "HBO Hits East HD (720p)",
+      "url": "http://4.30.180.36:8420/hbo2/index.m3u8?token=test",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
       "name": "HBO Movies (720p)",
       "url": "http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8",
       "logo": "",
@@ -2301,6 +2301,18 @@
     {
       "name": "AMC en Espanol",
       "url": "https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Smurf TV (480p)",
+      "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4065",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "NBA TV (720p)",
+      "url": "http://rezofoot.tv/NBATV/index.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -4354,12 +4366,6 @@
         "category": "Otros"
       },
       {
-        "name": "FX Movie Channel (720p)",
-        "url": "http://misterich.megatv.fun/iptv/CVHTUN2FGZ4TTVYBXGA5MRPN/1106/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "Faith TV (1080p)",
         "url": "https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithTV.smil/playlist.m3u8",
         "logo": "",
@@ -4591,6 +4597,12 @@
         "category": "Otros"
       },
       {
+        "name": "HBO Hits East HD (720p)",
+        "url": "http://4.30.180.36:8420/hbo2/index.m3u8?token=test",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
         "name": "HBO Movies (720p)",
         "url": "http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8",
         "logo": "",
@@ -4605,6 +4617,18 @@
       {
         "name": "AMC en Espanol",
         "url": "https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Smurf TV (480p)",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4065",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "NBA TV (720p)",
+        "url": "http://rezofoot.tv/NBATV/index.m3u8",
         "logo": "",
         "category": "Otros"
       }

@@ -343,7 +343,6 @@ Studio_Universal_Latin_America_(1080p),https://cdn1tlinkgo.tlink.cl/studiouniver
 National_Geographic_Latin_America_(1080p),https://cdn1tlinkgo.tlink.cl/natgeohd/index.m3u8
 FMH_Kids_(1080p),https://cdn1tlinkgo.tlink.cl/fmhkidshd/index.m3u8
 FMH_Movies_(1080p),https://cdn1tlinkgo.tlink.cl/fmhmovies/index.m3u8
-FX_Movie_Channel_(720p),http://misterich.megatv.fun/iptv/CVHTUN2FGZ4TTVYBXGA5MRPN/1106/index.m3u8
 Faith_TV_(1080p),https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithTV.smil/playlist.m3u8
 The_Walk_TV,https://wggstv16.ddns.net:9953/hls/walk1.m3u8
 ESPNews_(720p),http://41.205.93.154/ESPNNEWS/index.m3u8
@@ -383,6 +382,9 @@ ZTV_(1080p),http://45.70.201.81:8000/play/a00u/index.m3u8
 MTV_(1080p),http://23.237.104.106:8080/USA_MTV/index.m3u8
 Aspire_TV_Life_(1080p),https://uptv-aspiretvlife-klowdtv.amagi.tv/playlist.m3u8
 HBO_Hits_(720p),http://tvsen7.aynascope.net/hbo2/index.m3u8
+HBO_Hits_East_HD_(720p),http://4.30.180.36:8420/hbo2/index.m3u8?token=test
 HBO_Movies_(720p),http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 Cinemax_Classics_(1080p),http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 AMC_en_Espanol,https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8
+Smurf_TV_(480p),https://stream.ads.ottera.tv/playlist.m3u8?network_id=4065
+NBA_TV_(720p),http://rezofoot.tv/NBATV/index.m3u8

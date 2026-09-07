@@ -687,8 +687,6 @@ https://cdn1tlinkgo.tlink.cl/natgeohd/index.m3u8
 https://cdn1tlinkgo.tlink.cl/fmhkidshd/index.m3u8
 #EXTINF:-1 tvg-id="FMHMovies.us@SD",FMH Movies (1080p)
 https://cdn1tlinkgo.tlink.cl/fmhmovies/index.m3u8
-#EXTINF:-1 tvg-id="FXMovieChannel.us@SD",FX Movie Channel (720p)
-http://misterich.megatv.fun/iptv/CVHTUN2FGZ4TTVYBXGA5MRPN/1106/index.m3u8
 #EXTINF:-1 tvg-id="FaithTV.us@SD",Faith TV (1080p)
 https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TheWalkTV.us@SD",The Walk TV
@@ -767,9 +765,15 @@ http://23.237.104.106:8080/USA_MTV/index.m3u8
 https://uptv-aspiretvlife-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="HBOHits.us@East",HBO Hits (720p)
 http://tvsen7.aynascope.net/hbo2/index.m3u8
+#EXTINF:-1 tvg-id="HBOHits.us@EastHD",HBO Hits East HD (720p)
+http://4.30.180.36:8420/hbo2/index.m3u8?token=test
 #EXTINF:-1 tvg-id="HBOMovies.us@East",HBO Movies (720p)
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:-1 tvg-id="CinemaxClassics.us@East",Cinemax Classics (1080p)
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 #EXTINF:-1 tvg-id="AMCenEspanol.us@SD",AMC en Espanol
 https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SmurfTV.us@SD",Smurf TV (480p)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4065
+#EXTINF:-1 tvg-id="NBATV.us@SD",NBA TV (720p)
+http://rezofoot.tv/NBATV/index.m3u8
