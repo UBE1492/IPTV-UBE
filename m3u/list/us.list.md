@@ -385,4 +385,4 @@
 | 379 | Smurf TV (480p) | stream.ads.ottera.tv | <https://stream.ads.ottera.tv/playlist.m3u8?network_id=4065> |
 | 380 | NBA TV (720p) | rezofoot.tv | <http://rezofoot.tv/NBATV/index.m3u8> |
 
-Updated at **Mon Sep 07 2026 17:41:55 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Sep 07 2026 21:18:14 GMT+0000 (Coordinated Universal Time)**
