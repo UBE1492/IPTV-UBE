@@ -7,3 +7,5 @@ https://world.lls.pbs.org/index.m3u8
 http://168.228.44.241:9997/play/a07g/index.m3u8
 #EXTINF:-1 tvg-id="TelemundoAlDia.us@HD",Telemundo Al Dia (720p)
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814573/hls/master.m3u8?ads.xumo_channelId=88814573
+#EXTINF:-1 tvg-id="Telemundo.us@EastHD",Telemundo East HD (1080p)
+https://streamer1.nexgen.bz/TELEMUNDO/index.m3u8

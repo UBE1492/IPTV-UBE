@@ -384,5 +384,7 @@
 | 378 | AMC en Espanol | amc-amcespanol-1-us.lg.wurl.tv | <https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8> |
 | 379 | Smurf TV (480p) | stream.ads.ottera.tv | <https://stream.ads.ottera.tv/playlist.m3u8?network_id=4065> |
 | 380 | NBA TV (720p) | rezofoot.tv | <http://rezofoot.tv/NBATV/index.m3u8> |
+| 381 | Telemundo East HD (1080p) | streamer1.nexgen.bz | <https://streamer1.nexgen.bz/TELEMUNDO/index.m3u8> |
+| 382 | S Free! (360p) | vodcdn.bamboo-cloud.com | <https://vodcdn.bamboo-cloud.com/livehls/6a81c67306304414d27742d3/master.m3u8> |
 
-Updated at **Mon Sep 07 2026 21:18:14 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Sep 08 2026 03:45:33 GMT+0000 (Coordinated Universal Time)**

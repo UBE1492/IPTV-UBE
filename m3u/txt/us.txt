@@ -388,3 +388,5 @@ Cinemax_Classics_(1080p),http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 AMC_en_Espanol,https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8
 Smurf_TV_(480p),https://stream.ads.ottera.tv/playlist.m3u8?network_id=4065
 NBA_TV_(720p),http://rezofoot.tv/NBATV/index.m3u8
+Telemundo_East_HD_(1080p),https://streamer1.nexgen.bz/TELEMUNDO/index.m3u8
+S_Free!_(360p),https://vodcdn.bamboo-cloud.com/livehls/6a81c67306304414d27742d3/master.m3u8

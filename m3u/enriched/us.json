@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1788815894310,
+  "updated_at": 1788839133497,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -2313,6 +2313,18 @@
     {
       "name": "NBA TV (720p)",
       "url": "http://rezofoot.tv/NBATV/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Telemundo East HD (1080p)",
+      "url": "https://streamer1.nexgen.bz/TELEMUNDO/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "S Free! (360p)",
+      "url": "https://vodcdn.bamboo-cloud.com/livehls/6a81c67306304414d27742d3/master.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -4629,6 +4641,18 @@
       {
         "name": "NBA TV (720p)",
         "url": "http://rezofoot.tv/NBATV/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Telemundo East HD (1080p)",
+        "url": "https://streamer1.nexgen.bz/TELEMUNDO/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "S Free! (360p)",
+        "url": "https://vodcdn.bamboo-cloud.com/livehls/6a81c67306304414d27742d3/master.m3u8",
         "logo": "",
         "category": "Otros"
       }

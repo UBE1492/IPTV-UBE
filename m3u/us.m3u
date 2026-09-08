@@ -777,3 +777,7 @@ https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4065
 #EXTINF:-1 tvg-id="NBATV.us@SD",NBA TV (720p)
 http://rezofoot.tv/NBATV/index.m3u8
+#EXTINF:-1 tvg-id="Telemundo.us@EastHD",Telemundo East HD (1080p)
+https://streamer1.nexgen.bz/TELEMUNDO/index.m3u8
+#EXTINF:-1 tvg-id="SFree.us@HD",S Free! (360p)
+https://vodcdn.bamboo-cloud.com/livehls/6a81c67306304414d27742d3/master.m3u8
