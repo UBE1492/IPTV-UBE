@@ -387,4 +387,4 @@
 | 381 | Telemundo East HD (1080p) | streamer1.nexgen.bz | <https://streamer1.nexgen.bz/TELEMUNDO/index.m3u8> |
 | 382 | S Free! (360p) | vodcdn.bamboo-cloud.com | <https://vodcdn.bamboo-cloud.com/livehls/6a81c67306304414d27742d3/master.m3u8> |
 
-Updated at **Tue Sep 08 2026 10:53:15 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Sep 08 2026 16:17:34 GMT+0000 (Coordinated Universal Time)**

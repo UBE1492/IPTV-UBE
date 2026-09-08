@@ -99,4 +99,4 @@
 | 93 | Telesangil (720p) | live20.bozztv.com | <https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8> |
 | 94 | TeveColombia (720p) [Not 24/7] | cloud6.livescast.com:3900 | <https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8> |
 
-Updated at **Tue Sep 08 2026 10:53:15 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Sep 08 2026 16:17:35 GMT+0000 (Coordinated Universal Time)**
