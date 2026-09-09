@@ -58,4 +58,4 @@
 | 52 | Wuan+ | 7.innovatestream.pe:19360 | <https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8> |
 | 53 | Zaracay TV (1080p) [Not 24/7] | video2.makrodigital.com | <https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8> |
 
-Updated at **Tue Sep 08 2026 20:53:14 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Sep 09 2026 03:50:26 GMT+0000 (Coordinated Universal Time)**
