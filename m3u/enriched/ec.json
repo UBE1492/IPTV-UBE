@@ -1,6 +1,6 @@
 {
   "name": "ec",
-  "updated_at": 1788925826715,
+  "updated_at": 1788951487742,
   "m3u": "https://ube1492.github.io/IPTV-UBE/ec.m3u",
   "channels": [
     {
@@ -321,6 +321,12 @@
     {
       "name": "Zaracay TV (1080p) [Not 24/7]",
       "url": "https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Studio + TV (1080p)",
+      "url": "https://vd01.streaminghd.net.ar:3113/hybrid/play.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -645,6 +651,12 @@
       {
         "name": "Zaracay TV (1080p) [Not 24/7]",
         "url": "https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Studio + TV (1080p)",
+        "url": "https://vd01.streaminghd.net.ar:3113/hybrid/play.m3u8",
         "logo": "",
         "category": "Otros"
       }

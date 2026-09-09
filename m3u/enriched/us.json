@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1788925827327,
+  "updated_at": 1788951488174,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -2325,6 +2325,30 @@
     {
       "name": "S Free! (360p)",
       "url": "https://vodcdn.bamboo-cloud.com/livehls/6a81c67306304414d27742d3/master.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "UniMas WFUT-DT (1080p)",
+      "url": "http://4.30.180.36:8420/wfutdt/mono.m3u8?token=test",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Showtime (1080p)",
+      "url": "http://4.30.180.36:8420/showtime/mono.m3u8?token=test",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "AXN Black (576p)",
+      "url": "http://hls127.freeott.top:8080/BG_AXN_Black/video.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "AXN White Bulgaria (576p)",
+      "url": "http://hls127.freeott.top:8080/BG_AXN_White/video.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -4653,6 +4677,30 @@
       {
         "name": "S Free! (360p)",
         "url": "https://vodcdn.bamboo-cloud.com/livehls/6a81c67306304414d27742d3/master.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "UniMas WFUT-DT (1080p)",
+        "url": "http://4.30.180.36:8420/wfutdt/mono.m3u8?token=test",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Showtime (1080p)",
+        "url": "http://4.30.180.36:8420/showtime/mono.m3u8?token=test",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "AXN Black (576p)",
+        "url": "http://hls127.freeott.top:8080/BG_AXN_Black/video.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "AXN White Bulgaria (576p)",
+        "url": "http://hls127.freeott.top:8080/BG_AXN_White/video.m3u8",
         "logo": "",
         "category": "Otros"
       }

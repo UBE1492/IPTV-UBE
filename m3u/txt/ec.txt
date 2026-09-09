@@ -53,3 +53,4 @@ VitoTVO_(1080p),http://iptv.vitotvo.video.makrodigital.com:8081/vitotvo/iptv/pla
 Vos_y_TV_(720p)_[Not_24/7],https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
 Wuan+,https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8
 Zaracay_TV_(1080p)_[Not_24/7],https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
+Studio_+_TV_(1080p),https://vd01.streaminghd.net.ar:3113/hybrid/play.m3u8

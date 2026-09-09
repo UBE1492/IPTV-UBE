@@ -390,3 +390,7 @@ Smurf_TV_(480p),https://stream.ads.ottera.tv/playlist.m3u8?network_id=4065
 NBA_TV_(720p),http://rezofoot.tv/NBATV/index.m3u8
 Telemundo_East_HD_(1080p),https://streamer1.nexgen.bz/TELEMUNDO/index.m3u8
 S_Free!_(360p),https://vodcdn.bamboo-cloud.com/livehls/6a81c67306304414d27742d3/master.m3u8
+UniMas_WFUT-DT_(1080p),http://4.30.180.36:8420/wfutdt/mono.m3u8?token=test
+Showtime_(1080p),http://4.30.180.36:8420/showtime/mono.m3u8?token=test
+AXN_Black_(576p),http://hls127.freeott.top:8080/BG_AXN_Black/video.m3u8
+AXN_White_Bulgaria_(576p),http://hls127.freeott.top:8080/BG_AXN_White/video.m3u8
