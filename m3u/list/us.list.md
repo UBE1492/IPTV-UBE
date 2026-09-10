@@ -390,4 +390,4 @@
 | 384 | AXN Black (576p) | hls127.freeott.top:8080 | <http://hls127.freeott.top:8080/BG_AXN_Black/video.m3u8> |
 | 385 | AXN White Bulgaria (576p) | hls127.freeott.top:8080 | <http://hls127.freeott.top:8080/BG_AXN_White/video.m3u8> |
 
-Updated at **Thu Sep 10 2026 16:04:08 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Sep 10 2026 20:36:04 GMT+0000 (Coordinated Universal Time)**
