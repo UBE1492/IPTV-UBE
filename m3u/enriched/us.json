@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1788986468139,
+  "updated_at": 1789012153421,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -2139,12 +2139,6 @@
     {
       "name": "RadiantTV (1080p)",
       "url": "https://rpn.bozztv.com/radiant/radiant/radiant/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Fox News Channel (720p)",
-      "url": "http://4.30.180.36:8420/foxnews/index.m3u8?token=test",
       "logo": "",
       "category": "Otros"
     },
@@ -4491,12 +4485,6 @@
       {
         "name": "RadiantTV (1080p)",
         "url": "https://rpn.bozztv.com/radiant/radiant/radiant/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Fox News Channel (720p)",
-        "url": "http://4.30.180.36:8420/foxnews/index.m3u8?token=test",
         "logo": "",
         "category": "Otros"
       },

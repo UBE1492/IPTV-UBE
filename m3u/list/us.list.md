@@ -355,40 +355,39 @@
 | 349 | Genesis Science Network (720p) | 2-fss-1.streamhoster.com | <https://2-fss-1.streamhoster.com/pl_122/amlst:206018-2645902/playlist.m3u8> |
 | 350 | DreamWorks Channel Asia (1080p) | nmk.ioapk.com:5050 | <http://nmk.ioapk.com:5050/4gtv-live017/index.m3u8> |
 | 351 | RadiantTV (1080p) | rpn.bozztv.com | <https://rpn.bozztv.com/radiant/radiant/radiant/index.m3u8> |
-| 352 | Fox News Channel (720p) | IPv4 直链 | <http://4.30.180.36:8420/foxnews/index.m3u8?token=test> |
-| 353 | MeTV (720p) | IPv4 直链 | <http://4.30.180.36:8420/metv/index.m3u8?token=test> |
-| 354 | DSports | IPv4 直链 | <http://138.121.113.175:8000/play/a0cj/index.m3u8> |
-| 355 | DSports 2 | IPv4 直链 | <http://138.121.113.175:8000/play/a0ca/index.m3u8> |
-| 356 | La Rosa de Guadalupe (360p) | app.viloud.tv | <https://app.viloud.tv/hls/channel/9c88161fe675b59d4b008c776f033960.m3u8> |
-| 357 | RTN | IPv4 直链 | <http://4.59.210.197:8815/udp/127.0.0.1:6002> |
-| 358 | KIIO-LD 10.1 | livestream.usatv.com | <http://livestream.usatv.com/hls/master-iUSATVLIVENET.m3u8> |
-| 359 | Fox News Channel (576p) | tvsen6.aynaott.com | <https://tvsen6.aynaott.com/foxnews/index.m3u8> |
-| 360 | Fox Business Network (576p) | tvsen6.aynaott.com | <https://tvsen6.aynaott.com/foxbusiness/index.m3u8> |
-| 361 | KidOO (1080p) [Geo-blocked] | IPv4 直链 | <http://15.204.246.24:8080/KidooHD/index.m3u8> |
-| 362 | Hallmark Channel (720p) [Geo-blocked] | IPv4 直链 | <http://41.205.93.154/HALLMARK/index.m3u8> |
-| 363 | AMC (1080p) [Geo-blocked] | IPv4 直链 | <http://41.205.93.154/AMC/index.m3u8> |
-| 364 | MS NOW (720p) [Geo-blocked] | IPv4 直链 | <http://41.205.93.154/MSNBC/index.m3u8> |
-| 365 | CNBC (720p) [Geo-blocked] | IPv4 直链 | <http://41.205.93.154/CNBC/index.m3u8> |
-| 366 | Lifetime (720p) [Geo-blocked] | IPv4 直链 | <http://41.205.93.154/LIFETIME/index.m3u8> |
-| 367 | Gagsnetwork (576p) | stream.mcquack.net | <http://stream.mcquack.net/458/index.m3u8> |
-| 368 | AVI Rewind (1080p) | IPv4 直链 | <http://45.70.201.81:8000/play/a010/index.m3u8> |
-| 369 | Comercio TV (1080p) | IPv4 直链 | <http://45.70.201.81:8000/play/a014/index.m3u8> |
-| 370 | Fierro a Fondo TV (1080p) | IPv4 直链 | <http://45.70.201.81:8000/play/a00x/index.m3u8> |
-| 371 | ZTV (1080p) | IPv4 直链 | <http://45.70.201.81:8000/play/a00u/index.m3u8> |
-| 372 | MTV (1080p) | IPv4 直链 | <http://23.237.104.106:8080/USA_MTV/index.m3u8> |
-| 373 | Aspire TV Life (1080p) | uptv-aspiretvlife-klowdtv.amagi.tv | <https://uptv-aspiretvlife-klowdtv.amagi.tv/playlist.m3u8> |
-| 374 | HBO Hits (720p) | tvsen7.aynascope.net | <http://tvsen7.aynascope.net/hbo2/index.m3u8> |
-| 375 | HBO Hits East HD (720p) | IPv4 直链 | <http://4.30.180.36:8420/hbo2/index.m3u8?token=test> |
-| 376 | HBO Movies (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8> |
-| 377 | Cinemax Classics (1080p) | IPv4 直链 | <http://23.237.104.106:8080/USA_5STARMAX/index.m3u8> |
-| 378 | AMC en Espanol | amc-amcespanol-1-us.lg.wurl.tv | <https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8> |
-| 379 | Smurf TV (480p) | stream.ads.ottera.tv | <https://stream.ads.ottera.tv/playlist.m3u8?network_id=4065> |
-| 380 | NBA TV (720p) | rezofoot.tv | <http://rezofoot.tv/NBATV/index.m3u8> |
-| 381 | Telemundo East HD (1080p) | streamer1.nexgen.bz | <https://streamer1.nexgen.bz/TELEMUNDO/index.m3u8> |
-| 382 | S Free! (360p) | vodcdn.bamboo-cloud.com | <https://vodcdn.bamboo-cloud.com/livehls/6a81c67306304414d27742d3/master.m3u8> |
-| 383 | UniMas WFUT-DT (1080p) | IPv4 直链 | <http://4.30.180.36:8420/wfutdt/mono.m3u8?token=test> |
-| 384 | Showtime (1080p) | IPv4 直链 | <http://4.30.180.36:8420/showtime/mono.m3u8?token=test> |
-| 385 | AXN Black (576p) | hls127.freeott.top:8080 | <http://hls127.freeott.top:8080/BG_AXN_Black/video.m3u8> |
-| 386 | AXN White Bulgaria (576p) | hls127.freeott.top:8080 | <http://hls127.freeott.top:8080/BG_AXN_White/video.m3u8> |
+| 352 | MeTV (720p) | IPv4 直链 | <http://4.30.180.36:8420/metv/index.m3u8?token=test> |
+| 353 | DSports | IPv4 直链 | <http://138.121.113.175:8000/play/a0cj/index.m3u8> |
+| 354 | DSports 2 | IPv4 直链 | <http://138.121.113.175:8000/play/a0ca/index.m3u8> |
+| 355 | La Rosa de Guadalupe (360p) | app.viloud.tv | <https://app.viloud.tv/hls/channel/9c88161fe675b59d4b008c776f033960.m3u8> |
+| 356 | RTN | IPv4 直链 | <http://4.59.210.197:8815/udp/127.0.0.1:6002> |
+| 357 | KIIO-LD 10.1 | livestream.usatv.com | <http://livestream.usatv.com/hls/master-iUSATVLIVENET.m3u8> |
+| 358 | Fox News Channel (576p) | tvsen6.aynaott.com | <https://tvsen6.aynaott.com/foxnews/index.m3u8> |
+| 359 | Fox Business Network (576p) | tvsen6.aynaott.com | <https://tvsen6.aynaott.com/foxbusiness/index.m3u8> |
+| 360 | KidOO (1080p) [Geo-blocked] | IPv4 直链 | <http://15.204.246.24:8080/KidooHD/index.m3u8> |
+| 361 | Hallmark Channel (720p) [Geo-blocked] | IPv4 直链 | <http://41.205.93.154/HALLMARK/index.m3u8> |
+| 362 | AMC (1080p) [Geo-blocked] | IPv4 直链 | <http://41.205.93.154/AMC/index.m3u8> |
+| 363 | MS NOW (720p) [Geo-blocked] | IPv4 直链 | <http://41.205.93.154/MSNBC/index.m3u8> |
+| 364 | CNBC (720p) [Geo-blocked] | IPv4 直链 | <http://41.205.93.154/CNBC/index.m3u8> |
+| 365 | Lifetime (720p) [Geo-blocked] | IPv4 直链 | <http://41.205.93.154/LIFETIME/index.m3u8> |
+| 366 | Gagsnetwork (576p) | stream.mcquack.net | <http://stream.mcquack.net/458/index.m3u8> |
+| 367 | AVI Rewind (1080p) | IPv4 直链 | <http://45.70.201.81:8000/play/a010/index.m3u8> |
+| 368 | Comercio TV (1080p) | IPv4 直链 | <http://45.70.201.81:8000/play/a014/index.m3u8> |
+| 369 | Fierro a Fondo TV (1080p) | IPv4 直链 | <http://45.70.201.81:8000/play/a00x/index.m3u8> |
+| 370 | ZTV (1080p) | IPv4 直链 | <http://45.70.201.81:8000/play/a00u/index.m3u8> |
+| 371 | MTV (1080p) | IPv4 直链 | <http://23.237.104.106:8080/USA_MTV/index.m3u8> |
+| 372 | Aspire TV Life (1080p) | uptv-aspiretvlife-klowdtv.amagi.tv | <https://uptv-aspiretvlife-klowdtv.amagi.tv/playlist.m3u8> |
+| 373 | HBO Hits (720p) | tvsen7.aynascope.net | <http://tvsen7.aynascope.net/hbo2/index.m3u8> |
+| 374 | HBO Hits East HD (720p) | IPv4 直链 | <http://4.30.180.36:8420/hbo2/index.m3u8?token=test> |
+| 375 | HBO Movies (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8> |
+| 376 | Cinemax Classics (1080p) | IPv4 直链 | <http://23.237.104.106:8080/USA_5STARMAX/index.m3u8> |
+| 377 | AMC en Espanol | amc-amcespanol-1-us.lg.wurl.tv | <https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8> |
+| 378 | Smurf TV (480p) | stream.ads.ottera.tv | <https://stream.ads.ottera.tv/playlist.m3u8?network_id=4065> |
+| 379 | NBA TV (720p) | rezofoot.tv | <http://rezofoot.tv/NBATV/index.m3u8> |
+| 380 | Telemundo East HD (1080p) | streamer1.nexgen.bz | <https://streamer1.nexgen.bz/TELEMUNDO/index.m3u8> |
+| 381 | S Free! (360p) | vodcdn.bamboo-cloud.com | <https://vodcdn.bamboo-cloud.com/livehls/6a81c67306304414d27742d3/master.m3u8> |
+| 382 | UniMas WFUT-DT (1080p) | IPv4 直链 | <http://4.30.180.36:8420/wfutdt/mono.m3u8?token=test> |
+| 383 | Showtime (1080p) | IPv4 直链 | <http://4.30.180.36:8420/showtime/mono.m3u8?token=test> |
+| 384 | AXN Black (576p) | hls127.freeott.top:8080 | <http://hls127.freeott.top:8080/BG_AXN_Black/video.m3u8> |
+| 385 | AXN White Bulgaria (576p) | hls127.freeott.top:8080 | <http://hls127.freeott.top:8080/BG_AXN_White/video.m3u8> |
 
-Updated at **Wed Sep 09 2026 20:41:08 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Sep 10 2026 03:49:13 GMT+0000 (Coordinated Universal Time)**
