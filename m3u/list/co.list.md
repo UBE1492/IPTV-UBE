@@ -98,5 +98,8 @@
 | 92 | TeleQuindio (1080p) | live20.bozztv.com | <https://live20.bozztv.com/akamaissh101/ssh101/telequindio/playlist.m3u8> |
 | 93 | Telesangil (720p) | live20.bozztv.com | <https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8> |
 | 94 | TeveColombia (720p) [Not 24/7] | cloud6.livescast.com:3900 | <https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8> |
+| 95 | Bethel Colombia (720p) | IPv4 直链 | <http://138.121.15.230:9002/BETHEL/index.m3u8> |
+| 96 | Telecaribe (1080p) | IPv4 直链 | <http://138.121.15.230:9002/TELECARIBE/index.m3u8> |
+| 97 | Zoom (1080p) | IPv4 直链 | <http://138.121.15.230:9002/ZOOM/index.m3u8> |
 
-Updated at **Thu Sep 10 2026 20:36:05 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Sep 11 2026 03:46:07 GMT+0000 (Coordinated Universal Time)**

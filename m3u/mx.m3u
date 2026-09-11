@@ -169,3 +169,11 @@ https://cdn1tlinkgo.tlink.cl/azcinema/index.m3u8
 https://5fe2654d6127d.streamlock.net:443/telemetrika3/_definst_/videotelemetrika3/playlist.m3u8
 #EXTINF:-1 tvg-id="UAATV.mx@SD",UAA TV (1080p)
 https://5fe2654d6127d.streamlock.net:443/uaa2/videouaa2/playlist.m3u8
+#EXTINF:-1 tvg-id="Golden.mx@Panregional",Golden (720p)
+http://138.121.15.230:9002/GOLDEN/index.m3u8
+#EXTINF:-1 tvg-id="DistritoComedia.mx@SD",Distrito Comedia (1080p)
+http://138.121.15.230:9002/DISTRITO-COMEDIA/index.m3u8
+#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx@SD",Las Estrellas Latin America (1080p)
+http://138.121.15.230:9002/LAS-ESTRELLAS/index.m3u8
+#EXTINF:-1 tvg-id="GoldenEdge.mx@Panregional",Golden Edge (1080p)
+http://138.121.15.230:9002/GOLDEN-EDGE/index.m3u8

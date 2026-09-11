@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1789072564995,
+  "updated_at": 1789098367462,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -29,7 +29,7 @@
     },
     {
       "name": "A&E Latin America Brazil (720p)",
-      "url": "http://45.190.28.50/AE_HD/index.m3u8",
+      "url": "http://170.83.16.50/AeE/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -149,7 +149,7 @@
     },
     {
       "name": "Adult Swim Latin America Brazil (720p)",
-      "url": "http://45.190.28.50/TRUTV_HD/index.m3u8",
+      "url": "http://168.197.104.22/ADULT_SWIM/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -2345,6 +2345,12 @@
       "url": "http://hls127.freeott.top:8080/BG_AXN_White/video.m3u8",
       "logo": "",
       "category": "Otros"
+    },
+    {
+      "name": "Adult Swim Latin America (1080p) [Geo-blocked]",
+      "url": "http://138.121.15.230:9002/ADULT-SWIM/index.m3u8",
+      "logo": "",
+      "category": "Otros"
     }
   ],
   "categories": {
@@ -2375,7 +2381,7 @@
       },
       {
         "name": "A&E Latin America Brazil (720p)",
-        "url": "http://45.190.28.50/AE_HD/index.m3u8",
+        "url": "http://170.83.16.50/AeE/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -2495,7 +2501,7 @@
       },
       {
         "name": "Adult Swim Latin America Brazil (720p)",
-        "url": "http://45.190.28.50/TRUTV_HD/index.m3u8",
+        "url": "http://168.197.104.22/ADULT_SWIM/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -4689,6 +4695,12 @@
       {
         "name": "AXN White Bulgaria (576p)",
         "url": "http://hls127.freeott.top:8080/BG_AXN_White/video.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Adult Swim Latin America (1080p) [Geo-blocked]",
+        "url": "http://138.121.15.230:9002/ADULT-SWIM/index.m3u8",
         "logo": "",
         "category": "Otros"
       }

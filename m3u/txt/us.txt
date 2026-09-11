@@ -3,7 +3,7 @@ Undefined,#genre#
 48_Hours_(1080p),https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8
 A&E_(720p),http://23.239.31.26:8989/aande/index.m3u8
 A&E_Latin_America_(1080p),http://138.121.15.230:9002/A&E/index.m3u8
-A&E_Latin_America_Brazil_(720p),http://45.190.28.50/AE_HD/index.m3u8
+A&E_Latin_America_Brazil_(720p),http://170.83.16.50/AeE/index.m3u8
 ABC_(1080p),http://190.11.225.124:5000/live/abc_hd/playlist.m3u8
 ABC_West_(720p),http://stream.cammonitorplus.net/1797/index.m3u8
 ABN_Afghanistan_(540p),https://mediaserver.abnvideos.com/streams/abnafghanistan.m3u8
@@ -23,7 +23,7 @@ AccessVision_Channel_17_(720p),https://livestream.telvue.com/accvision2/f7b44cfa
 AccuWeather_NOW_(720p),http://23.239.31.26:8989/accuweather/index.m3u8
 Ace_TV_(480p),https://c.streamhoster.com/link/hls/W5s3fS/inLo5pcsHjo/iqg9wps0m1x_5/playlist.m3u8
 ACTV,https://castus-vod-dev.s3.amazonaws.com/vod_clients/athens/live/ch2/video.m3u8
-Adult_Swim_Latin_America_Brazil_(720p),http://45.190.28.50/TRUTV_HD/index.m3u8
+Adult_Swim_Latin_America_Brazil_(720p),http://168.197.104.22/ADULT_SWIM/index.m3u8
 AfroLandTV_(1080p),https://alt-al.otteravision.com/alt/al/al.m3u8
 AFTV_(1080p),https://livestream.telvue.com/accframingham1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 Akaku_53_(Hawaii)_(1080p),https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch1/video.m3u8
@@ -393,3 +393,4 @@ UniMas_WFUT-DT_(1080p),http://4.30.180.36:8420/wfutdt/mono.m3u8?token=test
 Showtime_(1080p),http://4.30.180.36:8420/showtime/mono.m3u8?token=test
 AXN_Black_(576p),http://hls127.freeott.top:8080/BG_AXN_Black/video.m3u8
 AXN_White_Bulgaria_(576p),http://hls127.freeott.top:8080/BG_AXN_White/video.m3u8
+Adult_Swim_Latin_America_(1080p)_[Geo-blocked],http://138.121.15.230:9002/ADULT-SWIM/index.m3u8

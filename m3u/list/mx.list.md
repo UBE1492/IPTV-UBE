@@ -88,5 +88,9 @@
 | 82 | Az Cinema (1080p) | cdn1tlinkgo.tlink.cl | <https://cdn1tlinkgo.tlink.cl/azcinema/index.m3u8> |
 | 83 | Canal 26 | 5fe2654d6127d.streamlock.net:443 | <https://5fe2654d6127d.streamlock.net:443/telemetrika3/_definst_/videotelemetrika3/playlist.m3u8> |
 | 84 | UAA TV (1080p) | 5fe2654d6127d.streamlock.net:443 | <https://5fe2654d6127d.streamlock.net:443/uaa2/videouaa2/playlist.m3u8> |
+| 85 | Golden (720p) | IPv4 直链 | <http://138.121.15.230:9002/GOLDEN/index.m3u8> |
+| 86 | Distrito Comedia (1080p) | IPv4 直链 | <http://138.121.15.230:9002/DISTRITO-COMEDIA/index.m3u8> |
+| 87 | Las Estrellas Latin America (1080p) | IPv4 直链 | <http://138.121.15.230:9002/LAS-ESTRELLAS/index.m3u8> |
+| 88 | Golden Edge (1080p) | IPv4 直链 | <http://138.121.15.230:9002/GOLDEN-EDGE/index.m3u8> |
 
-Updated at **Thu Sep 10 2026 20:36:05 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Sep 11 2026 03:46:07 GMT+0000 (Coordinated Universal Time)**

@@ -3,3 +3,7 @@
 http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
 #EXTINF:-1 tvg-id="AztecaDeportesNetwork.mx@SD",Azteca Deportes Network (720p)
 http://38.194.226.190:8000/play/a02r/index.m3u8
+#EXTINF:-1 tvg-id="Golden.mx@Panregional",Golden (720p)
+http://138.121.15.230:9002/GOLDEN/index.m3u8
+#EXTINF:-1 tvg-id="GoldenEdge.mx@Panregional",Golden Edge (1080p)
+http://138.121.15.230:9002/GOLDEN-EDGE/index.m3u8

@@ -8,7 +8,7 @@
 | 2 | 48 Hours (1080p) | dai.google.com | <https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8> |
 | 3 | A&E (720p) | IPv4 直链 | <http://23.239.31.26:8989/aande/index.m3u8> |
 | 4 | A&E Latin America (1080p) | IPv4 直链 | <http://138.121.15.230:9002/A&E/index.m3u8> |
-| 5 | A&E Latin America Brazil (720p) | IPv4 直链 | <http://45.190.28.50/AE_HD/index.m3u8> |
+| 5 | A&E Latin America Brazil (720p) | IPv4 直链 | <http://170.83.16.50/AeE/index.m3u8> |
 | 6 | ABC (1080p) | IPv4 直链 | <http://190.11.225.124:5000/live/abc_hd/playlist.m3u8> |
 | 7 | ABC West (720p) | stream.cammonitorplus.net | <http://stream.cammonitorplus.net/1797/index.m3u8> |
 | 8 | ABN Afghanistan (540p) | mediaserver.abnvideos.com | <https://mediaserver.abnvideos.com/streams/abnafghanistan.m3u8> |
@@ -28,7 +28,7 @@
 | 22 | AccuWeather NOW (720p) | IPv4 直链 | <http://23.239.31.26:8989/accuweather/index.m3u8> |
 | 23 | Ace TV (480p) | c.streamhoster.com | <https://c.streamhoster.com/link/hls/W5s3fS/inLo5pcsHjo/iqg9wps0m1x_5/playlist.m3u8> |
 | 24 | ACTV | 亚马逊AWS | <https://castus-vod-dev.s3.amazonaws.com/vod_clients/athens/live/ch2/video.m3u8> |
-| 25 | Adult Swim Latin America Brazil (720p) | IPv4 直链 | <http://45.190.28.50/TRUTV_HD/index.m3u8> |
+| 25 | Adult Swim Latin America Brazil (720p) | IPv4 直链 | <http://168.197.104.22/ADULT_SWIM/index.m3u8> |
 | 26 | AfroLandTV (1080p) | alt-al.otteravision.com | <https://alt-al.otteravision.com/alt/al/al.m3u8> |
 | 27 | AFTV (1080p) | livestream.telvue.com | <https://livestream.telvue.com/accframingham1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8> |
 | 28 | Akaku 53 (Hawaii) (1080p) | 亚马逊AWS | <https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch1/video.m3u8> |
@@ -389,5 +389,6 @@
 | 383 | Showtime (1080p) | IPv4 直链 | <http://4.30.180.36:8420/showtime/mono.m3u8?token=test> |
 | 384 | AXN Black (576p) | hls127.freeott.top:8080 | <http://hls127.freeott.top:8080/BG_AXN_Black/video.m3u8> |
 | 385 | AXN White Bulgaria (576p) | hls127.freeott.top:8080 | <http://hls127.freeott.top:8080/BG_AXN_White/video.m3u8> |
+| 386 | Adult Swim Latin America (1080p) [Geo-blocked] | IPv4 直链 | <http://138.121.15.230:9002/ADULT-SWIM/index.m3u8> |
 
-Updated at **Thu Sep 10 2026 20:36:04 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Sep 11 2026 03:46:07 GMT+0000 (Coordinated Universal Time)**

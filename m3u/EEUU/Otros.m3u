@@ -6,7 +6,7 @@ http://23.239.31.26:8989/aande/index.m3u8
 #EXTINF:-1 tvg-id="AELatinAmerica.us@Panregional",A&E Latin America (1080p)
 http://138.121.15.230:9002/A&E/index.m3u8
 #EXTINF:-1 tvg-id="AELatinAmerica.us@Brazil",A&E Latin America Brazil (720p)
-http://45.190.28.50/AE_HD/index.m3u8
+http://170.83.16.50/AeE/index.m3u8
 #EXTINF:-1 tvg-id="ABC.us@East",ABC (1080p)
 http://190.11.225.124:5000/live/abc_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="ABC.us@West",ABC West (720p)
@@ -36,7 +36,7 @@ https://livestream.telvue.com/accvision2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/pl
 #EXTINF:-1 tvg-id="AccuWeatherNOW.us@SD",AccuWeather NOW (720p)
 http://23.239.31.26:8989/accuweather/index.m3u8
 #EXTINF:-1 tvg-id="AdultSwimLatinAmerica.us@Brazil",Adult Swim Latin America Brazil (720p)
-http://45.190.28.50/TRUTV_HD/index.m3u8
+http://168.197.104.22/ADULT_SWIM/index.m3u8
 #EXTINF:-1 tvg-id="Akaku53.us@SD",Akaku 53 (Hawaii) (1080p)
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch1/video.m3u8
 #EXTINF:-1 tvg-id="Akaku54.us@SD",Akaku 54 (Hawaii) (1080p)
@@ -337,3 +337,5 @@ http://4.30.180.36:8420/wfutdt/mono.m3u8?token=test
 http://hls127.freeott.top:8080/BG_AXN_Black/video.m3u8
 #EXTINF:-1 tvg-id="AXNWhite.us@Bulgaria",AXN White Bulgaria (576p)
 http://hls127.freeott.top:8080/BG_AXN_White/video.m3u8
+#EXTINF:-1 tvg-id="AdultSwimLatinAmerica.us@Panregional",Adult Swim Latin America (1080p) [Geo-blocked]
+http://138.121.15.230:9002/ADULT-SWIM/index.m3u8

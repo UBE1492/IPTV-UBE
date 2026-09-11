@@ -38,4 +38,4 @@
 | 32 | SNT (480p) | d3epa8orr2qy3m.cloudfront.net | <https://d3epa8orr2qy3m.cloudfront.net/ts:abr.m3u8> |
 | 33 | Suceso TV (720p) [Not 24/7] | live.enhdtv.com:8081 | <https://live.enhdtv.com:8081/8060/index.m3u8> |
 
-Updated at **Thu Sep 10 2026 20:36:05 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Sep 11 2026 03:46:07 GMT+0000 (Coordinated Universal Time)**
