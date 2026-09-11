@@ -391,4 +391,4 @@
 | 385 | AXN White Bulgaria (576p) | hls127.freeott.top:8080 | <http://hls127.freeott.top:8080/BG_AXN_White/video.m3u8> |
 | 386 | Adult Swim Latin America (1080p) [Geo-blocked] | IPv4 直链 | <http://138.121.15.230:9002/ADULT-SWIM/index.m3u8> |
 
-Updated at **Fri Sep 11 2026 03:46:07 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Sep 11 2026 10:52:44 GMT+0000 (Coordinated Universal Time)**
