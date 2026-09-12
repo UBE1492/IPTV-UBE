@@ -1,6 +1,6 @@
 {
   "name": "cl",
-  "updated_at": 1789159284576,
+  "updated_at": 1789184991902,
   "m3u": "https://ube1492.github.io/IPTV-UBE/cl.m3u",
   "channels": [
     {
@@ -1170,6 +1170,18 @@
     {
       "name": "Teletrak TV (1080p)",
       "url": "https://cdn1tlinkgo.tlink.cl/teletrak/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "UTalca TV (1080p)",
+      "url": "https://unlimited1-us.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Agricultura TV (1080p)",
+      "url": "https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -2343,6 +2355,18 @@
       {
         "name": "Teletrak TV (1080p)",
         "url": "https://cdn1tlinkgo.tlink.cl/teletrak/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "UTalca TV (1080p)",
+        "url": "https://unlimited1-us.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Agricultura TV (1080p)",
+        "url": "https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       }

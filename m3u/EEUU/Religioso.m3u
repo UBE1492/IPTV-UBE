@@ -13,3 +13,5 @@ https://cdn1tlinkgo.tlink.cl/lifetime/index.m3u8
 http://41.205.93.154/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-id="AspireTVLife.us@SD",Aspire TV Life (1080p)
 https://uptv-aspiretvlife-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Lifetime.us@East",Lifetime (720p)
+http://4.30.180.36:8420/lifetime/index.m3u8?token=test

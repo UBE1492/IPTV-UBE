@@ -391,3 +391,7 @@ http://cdn1tlinkgo.tlink.cl/nuevotiempo/mono.m3u8
 http://cdn1tlinkgo.tlink.cl/tvu/mono.m3u8
 #EXTINF:-1 tvg-id="TeletrakTV.cl@SD",Teletrak TV (1080p)
 https://cdn1tlinkgo.tlink.cl/teletrak/index.m3u8
+#EXTINF:-1 tvg-id="UTalcaTV.cl@SD",UTalca TV (1080p)
+https://unlimited1-us.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8
+#EXTINF:-1 tvg-id="AgriculturaTV.cl@SD",Agricultura TV (1080p)
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8

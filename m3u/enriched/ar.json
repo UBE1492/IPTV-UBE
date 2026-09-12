@@ -1,6 +1,6 @@
 {
   "name": "ar",
-  "updated_at": 1789159284550,
+  "updated_at": 1789184991774,
   "m3u": "https://ube1492.github.io/IPTV-UBE/ar.m3u",
   "channels": [
     {
@@ -507,12 +507,6 @@
     {
       "name": "Disney Channel Latin America Panregional HD (1080p)",
       "url": "http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Disney Jr. Latin America (1080p)",
-      "url": "http://177.234.249.178:8888/DISNEY-JR/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -1092,12 +1086,6 @@
       {
         "name": "Disney Channel Latin America Panregional HD (1080p)",
         "url": "http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Disney Jr. Latin America (1080p)",
-        "url": "http://177.234.249.178:8888/DISNEY-JR/index.m3u8",
         "logo": "",
         "category": "Otros"
       },

@@ -101,5 +101,6 @@
 | 95 | Bethel Colombia (720p) | IPv4 直链 | <http://138.121.15.230:9002/BETHEL/index.m3u8> |
 | 96 | Telecaribe (1080p) | IPv4 直链 | <http://138.121.15.230:9002/TELECARIBE/index.m3u8> |
 | 97 | Zoom (1080p) | IPv4 直链 | <http://138.121.15.230:9002/ZOOM/index.m3u8> |
+| 98 | Teleantioquia (1080p) | IPv4 直链 | <http://138.121.15.230:9002/TELEANTIOQUIA/index.m3u8> |
 
-Updated at **Fri Sep 11 2026 20:41:24 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Sep 12 2026 03:49:52 GMT+0000 (Coordinated Universal Time)**

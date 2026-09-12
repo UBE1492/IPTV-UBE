@@ -88,16 +88,15 @@
 | 82 | Disney Channel Latin America Mexico (720p) | IPv4 直链 | <http://45.166.93.156:9999/play/a0f3/index.m3u8> |
 | 83 | Disney Channel Latin America North (576p) | IPv4 直链 | <http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8> |
 | 84 | Disney Channel Latin America Panregional HD (1080p) | IPv4 直链 | <http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8> |
-| 85 | Disney Jr. Latin America (1080p) | IPv4 直链 | <http://177.234.249.178:8888/DISNEY-JR/index.m3u8> |
-| 86 | Disney Jr. Latin America (576p) | IPv4 直链 | <http://190.93.224.42/DISNEY-JR/index.m3u8> |
-| 87 | Disney Jr. Latin America North HD (1080p) | IPv4 直链 | <http://181.78.14.26:4000/play/a073/index.m3u8> |
-| 88 | Disney Jr. Latin America South (1080p) | IPv4 直链 | <http://45.185.163.75:8000/play/a016/index.m3u8> |
-| 89 | Disney Jr. Latin America South | tr.live.clarovtrcdn.vtrplay.com | <http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD> |
-| 90 | Disney Jr. Latin America South HD (1080p) | IPv4 直链 | <http://45.134.141.161:2200/ARG/Disney_Junior/index.m3u8> |
-| 91 | Eco TV | stream.arcast.com.ar | <https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8> |
-| 92 | El Gourmet (1080p) | IPv4 直链 | <http://15.204.246.24:8080/ElGourmetHD/index.m3u8> |
-| 93 | El Nueve (1080p) | IPv4 直链 | <http://15.204.246.24:8080/elnueveHD/index.m3u8> |
-| 94 | El Siete (1080p) | edgectc.com | <https://edgectc.com/CANAL7_MZA/index.m3u8> |
-| 95 | El Trece (1080p) | IPv4 直链 | <http://15.204.246.24:8080/eltreceHD/index.m3u8> |
+| 85 | Disney Jr. Latin America (576p) | IPv4 直链 | <http://190.93.224.42/DISNEY-JR/index.m3u8> |
+| 86 | Disney Jr. Latin America North HD (1080p) | IPv4 直链 | <http://181.78.14.26:4000/play/a073/index.m3u8> |
+| 87 | Disney Jr. Latin America South (1080p) | IPv4 直链 | <http://45.185.163.75:8000/play/a016/index.m3u8> |
+| 88 | Disney Jr. Latin America South | tr.live.clarovtrcdn.vtrplay.com | <http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD> |
+| 89 | Disney Jr. Latin America South HD (1080p) | IPv4 直链 | <http://45.134.141.161:2200/ARG/Disney_Junior/index.m3u8> |
+| 90 | Eco TV | stream.arcast.com.ar | <https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8> |
+| 91 | El Gourmet (1080p) | IPv4 直链 | <http://15.204.246.24:8080/ElGourmetHD/index.m3u8> |
+| 92 | El Nueve (1080p) | IPv4 直链 | <http://15.204.246.24:8080/elnueveHD/index.m3u8> |
+| 93 | El Siete (1080p) | edgectc.com | <https://edgectc.com/CANAL7_MZA/index.m3u8> |
+| 94 | El Trece (1080p) | IPv4 直链 | <http://15.204.246.24:8080/eltreceHD/index.m3u8> |
 
-Updated at **Fri Sep 11 2026 20:41:24 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Sep 12 2026 03:49:51 GMT+0000 (Coordinated Universal Time)**

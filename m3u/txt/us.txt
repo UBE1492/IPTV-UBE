@@ -157,7 +157,6 @@ Clubbing_TV_France,https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c1
 CMC_California_Music_Channel_(1080p)_[Geo-blocked],https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
 CMC-USA_Country_Music_Channel_(720p),https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8
 CMT_(720p),http://23.237.104.106:8080/USA_CMT/index.m3u8
-Comedy_Central_(1080p),http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 Comedy_Central_Latin_America_(1080p),http://15.204.246.24:8080/ComedyCentralHD/index.m3u8
 Comedy_Central_Latin_America,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 Sony_KAL_Hindi_(1080p),https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
@@ -300,7 +299,7 @@ Nicktoons_(720p),http://tvsen7.aynascope.net/nicktoons/index.m3u8
 Kartoon_Channel!_(1080p),https://hlspackager.akamaized.net/live/DB/KARTOON_CHANNEL/HLS/KARTOON_CHANNEL.m3u8
 Fubo_Sports_Network_(720p),https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/5.m3u8
 ACC_Network_(720p),http://23.239.31.26:8989/accnetwork/index.m3u8
-BabyFirst_(480p),http://181.78.106.127:5000/play/a0sa/index.m3u8
+BabyFirst_Spanish_(480p),http://181.78.106.127:5000/play/a0sa/index.m3u8
 STV_(360p),https://vodcdn.bamboo-cloud.com/livehls/6a81edf1063044437202e65c/master.m3u8
 Fox_Sports_2_(720p),https://tvsen7.aynascope.net/foxsports2/index.m3u8
 Fox_Sports_1_(720p),https://tvsen7.aynascope.net/foxsports1/index.m3u8
@@ -394,3 +393,22 @@ Showtime_(1080p),http://4.30.180.36:8420/showtime/mono.m3u8?token=test
 AXN_Black_(576p),http://hls127.freeott.top:8080/BG_AXN_Black/video.m3u8
 AXN_White_Bulgaria_(576p),http://hls127.freeott.top:8080/BG_AXN_White/video.m3u8
 Adult_Swim_Latin_America_(1080p)_[Geo-blocked],http://138.121.15.230:9002/ADULT-SWIM/index.m3u8
+Laff_WJLP_(576p),http://4.30.180.36:8420/laff/index.m3u8?token=test
+PBS_WNET_(720p),http://4.30.180.36:8420/wnethd/index.m3u8?token=test
+History_(720p),http://4.30.180.36:8420/history/index.m3u8?token=test
+SYFY_(720p),http://4.30.180.36:8420/syfy/index.m3u8?token=test
+Paramount_Network_(720p),http://4.30.180.36:8420/paramount/index.m3u8?token=test
+Comedy_Central_(720p),http://4.30.180.36:8420/comedycentral/index.m3u8?token=test
+Hallmark_Channel_(720p),http://4.30.180.36:8420/hallmark/index.m3u8?token=test
+Lifetime_(720p),http://4.30.180.36:8420/lifetime/index.m3u8?token=test
+USA_Network_(720p),http://4.30.180.36:8420/usa/index.m3u8?token=test
+VH1_(720p),http://4.30.180.36:8420/vh1/index.m3u8?token=test
+Disney_Channel_HD_East_(720p),http://4.30.180.36:8420/disneychannel/index.m3u8?token=test
+Freeform_(720p),http://4.30.180.36:8420/freeform/index.m3u8?token=test
+CNBC_(720p),http://4.30.180.36:8420/cnbc/index.m3u8?token=test
+MS_NOW_(720p),http://4.30.180.36:8420/msnbc/index.m3u8?token=test
+Galavision_(1080p)_[Geo-blocked],https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast.m3u8
+Galavision_West_(1080p)_[Geo-blocked],https://streaming-live-fcdn.api.prd.univisionnow.com/galawest/galawest.isml/hls/galawest.m3u8
+Univision_(1080p)_[Geo-blocked],https://streaming-live-fcdn.api.prd.univisionnow.com/unieast/unieast.isml/hls/unieast.m3u8
+Univision_West_(1080p)_[Geo-blocked],https://streaming-live-fcdn.api.prd.univisionnow.com/uniwest/uniwest.isml/hls/uniwest.m3u8
+Outdoor_Channel_HD_(720p),http://107.167.16.138/OutdoorChannel/index.m3u8?token=test
