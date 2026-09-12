@@ -201,4 +201,4 @@
 | 195 | UTalca TV (1080p) | unlimited1-us.dps.live | <https://unlimited1-us.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8> |
 | 196 | Agricultura TV (1080p) | redirector.rudo.video | <https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8> |
 
-Updated at **Sat Sep 12 2026 03:49:51 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Sep 12 2026 10:20:10 GMT+0000 (Coordinated Universal Time)**
