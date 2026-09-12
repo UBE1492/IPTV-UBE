@@ -409,4 +409,4 @@
 | 403 | Univision West (1080p) [Geo-blocked] | streaming-live-fcdn.api.prd.univisionnow.com | <https://streaming-live-fcdn.api.prd.univisionnow.com/uniwest/uniwest.isml/hls/uniwest.m3u8> |
 | 404 | Outdoor Channel HD (720p) | IPv4 直链 | <http://107.167.16.138/OutdoorChannel/index.m3u8?token=test> |
 
-Updated at **Sat Sep 12 2026 10:20:10 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Sep 12 2026 15:15:12 GMT+0000 (Coordinated Universal Time)**
