@@ -287,10 +287,6 @@ Zoom_TV_Kurdish_(720p),#EXTVLCOPT:http-referrer=https://zoomnews.info/
 Telemundo_West_(2160p),http://168.228.44.241:9997/play/a07g/index.m3u8
 WLTV-DT_23.1_(720p),http://168.228.44.241:9997/play/a09d/index.m3u8
 BabyFirst_Spanish_(720p),http://168.228.44.241:9997/play/a07u/index.m3u8
-FX_Movie_Channel_HD_(1080p),https://sra72yz.s.gy/FX_MOVIE_CHANNEL_US.m3u8
-Nickelodeon_(1080p),https://sra72yz.s.gy/NICKELODEON_EAST_US.m3u8
-Nicktoons_(1080p),https://sra72yz.s.gy/NICKTOONS_US.m3u8
-Nick_Jr._(1080p),https://sra72yz.s.gy/NICK_JR_US.m3u8
 Univision_East_HD_(1080p),http://45.190.13.8/UnivisionHD/index.m3u8
 TUDN_(1080p),http://45.190.13.8/TUDNHD/index.m3u8
 FX_(720p),http://tvsen7.aynascope.net/fx/index.m3u8

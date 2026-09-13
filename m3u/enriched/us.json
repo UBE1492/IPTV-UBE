@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1789244412104,
+  "updated_at": 1789271851005,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -1710,30 +1710,6 @@
     {
       "name": "BabyFirst Spanish (720p)",
       "url": "http://168.228.44.241:9997/play/a07u/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "FX Movie Channel HD (1080p)",
-      "url": "https://sra72yz.s.gy/FX_MOVIE_CHANNEL_US.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Nickelodeon (1080p)",
-      "url": "https://sra72yz.s.gy/NICKELODEON_EAST_US.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Nicktoons (1080p)",
-      "url": "https://sra72yz.s.gy/NICKTOONS_US.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Nick Jr. (1080p)",
-      "url": "https://sra72yz.s.gy/NICK_JR_US.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -4170,30 +4146,6 @@
       {
         "name": "BabyFirst Spanish (720p)",
         "url": "http://168.228.44.241:9997/play/a07u/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "FX Movie Channel HD (1080p)",
-        "url": "https://sra72yz.s.gy/FX_MOVIE_CHANNEL_US.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Nickelodeon (1080p)",
-        "url": "https://sra72yz.s.gy/NICKELODEON_EAST_US.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Nicktoons (1080p)",
-        "url": "https://sra72yz.s.gy/NICKTOONS_US.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Nick Jr. (1080p)",
-        "url": "https://sra72yz.s.gy/NICK_JR_US.m3u8",
         "logo": "",
         "category": "Otros"
       },

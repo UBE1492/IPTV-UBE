@@ -575,14 +575,6 @@ http://168.228.44.241:9997/play/a07g/index.m3u8
 http://168.228.44.241:9997/play/a09d/index.m3u8
 #EXTINF:-1 tvg-id="BabyFirst.us@Spanish",BabyFirst Spanish (720p)
 http://168.228.44.241:9997/play/a07u/index.m3u8
-#EXTINF:-1 tvg-id="FXMovieChannel.us@HD",FX Movie Channel HD (1080p)
-https://sra72yz.s.gy/FX_MOVIE_CHANNEL_US.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.us@East",Nickelodeon (1080p)
-https://sra72yz.s.gy/NICKELODEON_EAST_US.m3u8
-#EXTINF:-1 tvg-id="Nicktoons.us@East",Nicktoons (1080p)
-https://sra72yz.s.gy/NICKTOONS_US.m3u8
-#EXTINF:-1 tvg-id="NickJr.us@East",Nick Jr. (1080p)
-https://sra72yz.s.gy/NICK_JR_US.m3u8
 #EXTINF:-1 tvg-id="Univision.us@EastHD",Univision East HD (1080p)
 http://45.190.13.8/UnivisionHD/index.m3u8
 #EXTINF:-1 tvg-id="TUDN.us@SD",TUDN (1080p)
