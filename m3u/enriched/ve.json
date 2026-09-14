@@ -1,6 +1,6 @@
 {
   "name": "ve",
-  "updated_at": 1789331436086,
+  "updated_at": 1789358717415,
   "m3u": "https://ube1492.github.io/IPTV-UBE/ve.m3u",
   "channels": [
     {
@@ -69,12 +69,6 @@
     {
       "name": "Vale TV (480p) [Not 24/7]",
       "url": "https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Venevision (720p)",
-      "url": "http://177.234.249.178:8888/VENEVISION/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -177,12 +171,6 @@
       {
         "name": "Vale TV (480p) [Not 24/7]",
         "url": "https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Venevision (720p)",
-        "url": "http://177.234.249.178:8888/VENEVISION/index.m3u8",
         "logo": "",
         "category": "Otros"
       },

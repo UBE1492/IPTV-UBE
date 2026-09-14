@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1789331435803,
+  "updated_at": 1789358717268,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -850,12 +850,6 @@
       "category": "Otros"
     },
     {
-      "name": "Cine Mexicano (1080p)",
-      "url": "http://177.234.249.178:8888/AMERICA/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Cine Premium (1080p)",
       "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinepremium.stream/playlist.m3u8",
       "logo": "",
@@ -864,12 +858,6 @@
     {
       "name": "Cine Premium",
       "url": "http://190.61.90.17:40000/play/a02i/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Cine Sony (1080p)",
-      "url": "http://177.234.249.178:8888/SONY-MOVIES/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -3286,12 +3274,6 @@
         "category": "Otros"
       },
       {
-        "name": "Cine Mexicano (1080p)",
-        "url": "http://177.234.249.178:8888/AMERICA/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "Cine Premium (1080p)",
         "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinepremium.stream/playlist.m3u8",
         "logo": "",
@@ -3300,12 +3282,6 @@
       {
         "name": "Cine Premium",
         "url": "http://190.61.90.17:40000/play/a02i/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Cine Sony (1080p)",
-        "url": "http://177.234.249.178:8888/SONY-MOVIES/index.m3u8",
         "logo": "",
         "category": "Otros"
       },

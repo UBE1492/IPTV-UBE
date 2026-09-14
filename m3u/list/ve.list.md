@@ -15,11 +15,10 @@
 | 9 | Canal 21 Táchira (360p) | stmv2.voxtvhd.com.br | <https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8> |
 | 10 | UniTV (720p) | vcp6.myplaytv.com | <https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8> |
 | 11 | Vale TV (480p) [Not 24/7] | 59d39900ebfb8.streamlock.net | <https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8> |
-| 12 | Venevision (720p) | IPv4 直链 | <http://177.234.249.178:8888/VENEVISION/index.m3u8> |
-| 13 | Venevision (576p) | IPv4 直链 | <http://181.78.8.199:8000/play/a0if/index.m3u8> |
-| 14 | Venevision (480p) | venevision-ioriver-cdn.encoders.immergo.tv | <https://venevision-ioriver-cdn.encoders.immergo.tv/3/streamPlaylist.m3u8> |
-| 15 | Venevisión Internacional (720p) | vod2live.univtec.com | <https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8> |
-| 16 | Vepaco TV (480p) | cloud.fastchannel.es | <https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8> |
-| 17 | Wata Vision | live20.bozztv.com | <https://live20.bozztv.com/giatv/giatv-watavision/watavision/chunks.m3u8> |
+| 12 | Venevision (576p) | IPv4 直链 | <http://181.78.8.199:8000/play/a0if/index.m3u8> |
+| 13 | Venevision (480p) | venevision-ioriver-cdn.encoders.immergo.tv | <https://venevision-ioriver-cdn.encoders.immergo.tv/3/streamPlaylist.m3u8> |
+| 14 | Venevisión Internacional (720p) | vod2live.univtec.com | <https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8> |
+| 15 | Vepaco TV (480p) | cloud.fastchannel.es | <https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8> |
+| 16 | Wata Vision | live20.bozztv.com | <https://live20.bozztv.com/giatv/giatv-watavision/watavision/chunks.m3u8> |
 
-Updated at **Sun Sep 13 2026 20:30:36 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Sep 14 2026 04:05:17 GMT+0000 (Coordinated Universal Time)**

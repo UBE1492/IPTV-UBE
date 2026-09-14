@@ -141,10 +141,8 @@ Christian_Youth_Channel_(CYC)_(1080p),http://media3.smc-host.com:1935/cycnow.com
 Cine_Familiar_(1080p),http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinefamiliar.stream/playlist.m3u8
 Cine_Familiar,http://177.234.218.66:8084/play/a001/index.m3u8
 Cine_Hispano_(1080p),http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinehispano.stream/playlist.m3u8
-Cine_Mexicano_(1080p),http://177.234.249.178:8888/AMERICA/index.m3u8
 Cine_Premium_(1080p),http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinepremium.stream/playlist.m3u8
 Cine_Premium,http://190.61.90.17:40000/play/a02i/index.m3u8
-Cine_Sony_(1080p),http://177.234.249.178:8888/SONY-MOVIES/index.m3u8
 Cinecanal_(1080p),http://15.204.246.24:8080/CinecanalHD/index.m3u8
 Cinecanal_Pacific_(1080p),http://138.121.15.230:9002/CINECANAL/index.m3u8
 Cinecanal_South_(1080p),http://45.162.193.35/CINECANAL/index.m3u8
