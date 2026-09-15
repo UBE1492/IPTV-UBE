@@ -73,10 +73,6 @@ http://15.204.246.24:8080/UnivisionHD/index.m3u8
 https://cloudvideo.servers10.com:8081/8016/index.m3u8
 #EXTINF:-1 tvg-id="ZAZ.mx@SD",ZAZ (1080p)
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
-#EXTINF:-1 tvg-id="UnivisionLatinAmerica.mx@Panregional",Univision Latin America (720p)
-https://streamer.metronethn.com/Univision/index.m3u8
-#EXTINF:-1 tvg-id="TUDN.mx@SD",TUDN (720p)
-https://streamer.metronethn.com/TUDN/index.m3u8
 #EXTINF:-1 tvg-id="Canal26.mx@SD",Canal 26
 https://5fe2654d6127d.streamlock.net:443/telemetrika3/_definst_/videotelemetrika3/playlist.m3u8
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx@SD",Las Estrellas Latin America (1080p)

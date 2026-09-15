@@ -1,6 +1,6 @@
 {
   "name": "cl",
-  "updated_at": 1789421915667,
+  "updated_at": 1789445051944,
   "m3u": "https://ube1492.github.io/IPTV-UBE/cl.m3u",
   "channels": [
     {
@@ -1182,6 +1182,12 @@
     {
       "name": "Agricultura TV (1080p)",
       "url": "https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "TV Chile",
+      "url": "https://xyktmobile00.s.gy/093_TV_CHILE",
       "logo": "",
       "category": "Otros"
     }
@@ -2367,6 +2373,12 @@
       {
         "name": "Agricultura TV (1080p)",
         "url": "https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "TV Chile",
+        "url": "https://xyktmobile00.s.gy/093_TV_CHILE",
         "logo": "",
         "category": "Otros"
       }

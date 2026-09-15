@@ -197,3 +197,4 @@ TVU_(1080p),http://cdn1tlinkgo.tlink.cl/tvu/mono.m3u8
 Teletrak_TV_(1080p),https://cdn1tlinkgo.tlink.cl/teletrak/index.m3u8
 UTalca_TV_(1080p),https://unlimited1-us.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8
 Agricultura_TV_(1080p),https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8
+TV_Chile,https://xyktmobile00.s.gy/093_TV_CHILE

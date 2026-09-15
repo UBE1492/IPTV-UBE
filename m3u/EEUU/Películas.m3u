@@ -41,17 +41,3 @@ https://rpn.bozztv.com/gusa/gusa-tvsNostalgiaMovies/index.m3u8
 https://rpn.bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8
 #EXTINF:-1 tvg-id="WhiplashCinema.us@SD",Whiplash Cinema (480p)
 https://cdn.whiplash.cc/whiplash-cinema/index.m3u8
-#EXTINF:-1 tvg-id="StarzEdge.us@East",Starz Edge (720p)
-http://168.228.44.241:9998/play/a0e0/index.m3u8
-#EXTINF:-1 tvg-id="StarzEncoreSpanish.us@East",Starz Encore Spanish (720p)
-http://168.228.44.241:9998/play/a0e1/index.m3u8
-#EXTINF:-1 tvg-id="FMHMovies.us@SD",FMH Movies (1080p)
-https://cdn1tlinkgo.tlink.cl/fmhmovies/index.m3u8
-#EXTINF:-1 tvg-id="HBOHits.us@East",HBO Hits (720p)
-http://tvsen7.aynascope.net/hbo2/index.m3u8
-#EXTINF:-1 tvg-id="HBOHits.us@EastHD",HBO Hits East HD (720p)
-http://4.30.180.36:8420/hbo2/index.m3u8?token=test
-#EXTINF:-1 tvg-id="HBOMovies.us@East",HBO Movies (720p)
-http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
-#EXTINF:-1 tvg-id="CinemaxClassics.us@East",Cinemax Classics (1080p)
-http://23.237.104.106:8080/USA_5STARMAX/index.m3u8

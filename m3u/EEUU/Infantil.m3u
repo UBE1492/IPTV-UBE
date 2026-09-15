@@ -3,13 +3,3 @@
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/canalinfantil/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalInfantil.us@SD",Canal Infantil
 http://177.234.218.66:8084/play/a01x/index.m3u8
-#EXTINF:-1 tvg-id="NickJr.us@East",Nick Jr. (720p)
-http://tvsen7.aynascope.net/nickjr/index.m3u8
-#EXTINF:-1 tvg-id="Nicktoons.us@East",Nicktoons (720p)
-http://tvsen7.aynascope.net/nicktoons/index.m3u8
-#EXTINF:-1 tvg-id="FMHKids.us@SD",FMH Kids (1080p)
-https://cdn1tlinkgo.tlink.cl/fmhkidshd/index.m3u8
-#EXTINF:-1 tvg-id="KidOO.us@SD",KidOO (1080p) [Geo-blocked]
-http://15.204.246.24:8080/KidooHD/index.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.us@HDEast",Disney Channel HD East (720p)
-http://4.30.180.36:8420/disneychannel/index.m3u8?token=test

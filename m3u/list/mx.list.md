@@ -82,15 +82,13 @@
 | 76 | VB Media TV (1080p) | capomo01-enitv.eninetworks.com | <https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8> |
 | 77 | Visión Televisión (720p) | cloudvideo.servers10.com:8081 | <https://cloudvideo.servers10.com:8081/8016/index.m3u8> |
 | 78 | ZAZ (1080p) | cloud.fastchannel.es | <https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8> |
-| 79 | Univision Latin America (720p) | streamer.metronethn.com | <https://streamer.metronethn.com/Univision/index.m3u8> |
-| 80 | TUDN (720p) | streamer.metronethn.com | <https://streamer.metronethn.com/TUDN/index.m3u8> |
-| 81 | GikTVMX (720p) | pistream.ddns.net | <https://pistream.ddns.net/hls/stream.m3u8> |
-| 82 | Az Cinema (1080p) | cdn1tlinkgo.tlink.cl | <https://cdn1tlinkgo.tlink.cl/azcinema/index.m3u8> |
-| 83 | Canal 26 | 5fe2654d6127d.streamlock.net:443 | <https://5fe2654d6127d.streamlock.net:443/telemetrika3/_definst_/videotelemetrika3/playlist.m3u8> |
-| 84 | UAA TV (1080p) | 5fe2654d6127d.streamlock.net:443 | <https://5fe2654d6127d.streamlock.net:443/uaa2/videouaa2/playlist.m3u8> |
-| 85 | Golden (720p) | IPv4 直链 | <http://138.121.15.230:9002/GOLDEN/index.m3u8> |
-| 86 | Distrito Comedia (1080p) | IPv4 直链 | <http://138.121.15.230:9002/DISTRITO-COMEDIA/index.m3u8> |
-| 87 | Las Estrellas Latin America (1080p) | IPv4 直链 | <http://138.121.15.230:9002/LAS-ESTRELLAS/index.m3u8> |
-| 88 | Golden Edge (1080p) | IPv4 直链 | <http://138.121.15.230:9002/GOLDEN-EDGE/index.m3u8> |
+| 79 | GikTVMX (720p) | pistream.ddns.net | <https://pistream.ddns.net/hls/stream.m3u8> |
+| 80 | Az Cinema (1080p) | cdn1tlinkgo.tlink.cl | <https://cdn1tlinkgo.tlink.cl/azcinema/index.m3u8> |
+| 81 | Canal 26 | 5fe2654d6127d.streamlock.net:443 | <https://5fe2654d6127d.streamlock.net:443/telemetrika3/_definst_/videotelemetrika3/playlist.m3u8> |
+| 82 | UAA TV (1080p) | 5fe2654d6127d.streamlock.net:443 | <https://5fe2654d6127d.streamlock.net:443/uaa2/videouaa2/playlist.m3u8> |
+| 83 | Golden (720p) | IPv4 直链 | <http://138.121.15.230:9002/GOLDEN/index.m3u8> |
+| 84 | Distrito Comedia (1080p) | IPv4 直链 | <http://138.121.15.230:9002/DISTRITO-COMEDIA/index.m3u8> |
+| 85 | Las Estrellas Latin America (1080p) | IPv4 直链 | <http://138.121.15.230:9002/LAS-ESTRELLAS/index.m3u8> |
+| 86 | Golden Edge (1080p) | IPv4 直链 | <http://138.121.15.230:9002/GOLDEN-EDGE/index.m3u8> |
 
-Updated at **Mon Sep 14 2026 21:38:36 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Sep 15 2026 04:04:12 GMT+0000 (Coordinated Universal Time)**

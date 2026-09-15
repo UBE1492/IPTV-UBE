@@ -1,6 +1,6 @@
 {
   "name": "es",
-  "updated_at": 1789421915898,
+  "updated_at": 1789445052215,
   "m3u": "https://ube1492.github.io/IPTV-UBE/es.m3u",
   "channels": [
     {
@@ -745,12 +745,30 @@
       "category": "Otros"
     },
     {
-      "name": "TVE Internacional America (720p)",
-      "url": "",
+      "name": "Television Canaria (1080p)",
+      "url": "https://rtvclive.flumotion.cloud/rtvc1live/smil:channel1PRG.smil/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "TVE Internacional America (1080p)",
+      "url": "https://cdn1tlinkgo.tlink.cl/tve/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Clan (1080p)",
+      "url": "https://lge-lgla2.otteravision.com/lge/lgcla/lgcla.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "AXN CEE Romania",
+      "url": "#EXTINF:-1 tvg-id=\"Tac12.es@SD\",Tac12",
       "logo": "",
       "category": "Otros",
       "options": {
-        "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        "http-referrer": "https://cool-tv.net/"
       }
     }
   ],
@@ -1498,12 +1516,30 @@
         "category": "Otros"
       },
       {
-        "name": "TVE Internacional America (720p)",
-        "url": "",
+        "name": "Television Canaria (1080p)",
+        "url": "https://rtvclive.flumotion.cloud/rtvc1live/smil:channel1PRG.smil/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "TVE Internacional America (1080p)",
+        "url": "https://cdn1tlinkgo.tlink.cl/tve/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Clan (1080p)",
+        "url": "https://lge-lgla2.otteravision.com/lge/lgcla/lgcla.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "AXN CEE Romania",
+        "url": "#EXTINF:-1 tvg-id=\"Tac12.es@SD\",Tac12",
         "logo": "",
         "category": "Otros",
         "options": {
-          "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+          "http-referrer": "https://cool-tv.net/"
         }
       }
     ]

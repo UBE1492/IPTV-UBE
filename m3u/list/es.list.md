@@ -117,5 +117,9 @@
 | 111 | XPTV1 (720p) | janus.xpbroadcasting.com:8443 | <https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8> |
 | 112 | XPTV2 (720p) | janus.xpbroadcasting.com:8443 | <https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8> |
 | 113 | XPTV US (720p) | janus.xpbroadcasting.com:8443 | <https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8> |
+| 114 | Television Canaria (1080p) | rtvclive.flumotion.cloud | <https://rtvclive.flumotion.cloud/rtvc1live/smil:channel1PRG.smil/playlist.m3u8> |
+| 115 | TVE Internacional America (1080p) | cdn1tlinkgo.tlink.cl | <https://cdn1tlinkgo.tlink.cl/tve/index.m3u8> |
+| 116 | Clan (1080p) | lge-lgla2.otteravision.com | <https://lge-lgla2.otteravision.com/lge/lgcla/lgcla.m3u8> |
+| 117 | Tac12 | ingest1-video.streaming-pro.com | <https://ingest1-video.streaming-pro.com/tac12_ABR/stream/tacdotze/srtweb_1080/chunks.m3u8> |
 
-Updated at **Mon Sep 14 2026 21:38:35 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Sep 15 2026 04:04:12 GMT+0000 (Coordinated Universal Time)**
