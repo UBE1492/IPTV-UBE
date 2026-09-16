@@ -283,4 +283,4 @@
 | 277 | KNino (1080p) | ats-edge-iqui-1.live.clarovtrcdn.vtrplay.com | <https://ats-edge-iqui-1.live.clarovtrcdn.vtrplay.com/kninohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD> |
 | 278 | History Asia (720p) | IPv4 直链 | <http://58.8.186.128:10005/bysid/2517> |
 
-Updated at **Wed Sep 16 2026 16:27:02 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Sep 16 2026 21:03:02 GMT+0000 (Coordinated Universal Time)**
