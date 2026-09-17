@@ -122,4 +122,4 @@
 | 116 | Clan (1080p) | lge-lgla2.otteravision.com | <https://lge-lgla2.otteravision.com/lge/lgcla/lgcla.m3u8> |
 | 117 | Tac12 | ingest1-video.streaming-pro.com | <https://ingest1-video.streaming-pro.com/tac12_ABR/stream/tacdotze/srtweb_1080/chunks.m3u8> |
 
-Updated at **Wed Sep 16 2026 21:03:01 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Sep 17 2026 04:08:05 GMT+0000 (Coordinated Universal Time)**

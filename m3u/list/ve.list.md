@@ -21,4 +21,4 @@
 | 15 | Vepaco TV (480p) | cloud.fastchannel.es | <https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8> |
 | 16 | Wata Vision | live20.bozztv.com | <https://live20.bozztv.com/giatv/giatv-watavision/watavision/chunks.m3u8> |
 
-Updated at **Wed Sep 16 2026 21:03:02 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Sep 17 2026 04:08:06 GMT+0000 (Coordinated Universal Time)**
