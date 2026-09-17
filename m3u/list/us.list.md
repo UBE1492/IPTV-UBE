@@ -295,4 +295,4 @@
 | 289 | Galavision (720p) | IPv4 直链 | <http://200.115.120.1:8000/play/ca128/index.m3u8> |
 | 290 | Kartoon Channel! (720p) | rarelivetv8080.neocities.org | <https://rarelivetv8080.neocities.org/USA_KARTOON_CHANNEL/index.m3u8> |
 
-Updated at **Thu Sep 17 2026 16:33:13 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Sep 17 2026 21:05:21 GMT+0000 (Coordinated Universal Time)**

@@ -103,4 +103,4 @@
 | 97 | Zoom (1080p) | IPv4 直链 | <http://138.121.15.230:9002/ZOOM/index.m3u8> |
 | 98 | Teleantioquia (1080p) | IPv4 直链 | <http://138.121.15.230:9002/TELEANTIOQUIA/index.m3u8> |
 
-Updated at **Thu Sep 17 2026 16:33:13 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Sep 17 2026 21:05:21 GMT+0000 (Coordinated Universal Time)**
