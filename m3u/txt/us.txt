@@ -5,7 +5,6 @@ A&E_(720p),http://23.239.31.26:8989/aande/index.m3u8
 A&E_Latin_America_(1080p),http://138.121.15.230:9002/A&E/index.m3u8
 A&E_Latin_America_Brazil_(720p),http://170.83.16.50/AeE/index.m3u8
 ABC_(1080p),http://190.11.225.124:5000/live/abc_hd/playlist.m3u8
-ABC_West_(720p),http://stream.cammonitorplus.net/1797/index.m3u8
 ABN_Afghanistan_(540p),https://mediaserver.abnvideos.com/streams/abnafghanistan.m3u8
 ABN_Africa_(480p),https://mediaserver.abnvideos.com/streams/abnafrica.m3u8
 ABN_Bible_Movies_(720p),https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
@@ -145,7 +144,6 @@ Cine_Premium_(1080p),http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinepremium.st
 Cine_Premium,http://190.61.90.17:40000/play/a02i/index.m3u8
 Cinecanal_(1080p),http://15.204.246.24:8080/CinecanalHD/index.m3u8
 Cinecanal_Pacific_(1080p),http://138.121.15.230:9002/CINECANAL/index.m3u8
-Cinecanal_South_(1080p),http://45.162.193.35/CINECANAL/index.m3u8
 CinePride_(720p),https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2223
 City_of_Monroe_Government_Channel,https://reflect-monroe-mi-ci.cablecast.tv/live-1/live/live.m3u8
 Classic_Arts_Showcase_(720p),https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
@@ -284,3 +282,17 @@ Zarin_TV_(1080p),https://fl1002.bozztv.com/gf-zarintv/index.m3u8
 Zoom_TV_Kurdish_(720p),#EXTVLCOPT:http-referrer=https://zoomnews.info/
 KNino_(1080p),https://ats-edge-iqui-1.live.clarovtrcdn.vtrplay.com/kninohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 History_Asia_(720p),http://58.8.186.128:10005/bysid/2517
+Lifetime_Asia_(720p),http://58.8.186.128:10006/bysid/2615
+FX_Latin_America,https://iptv2.intersurtv.cl/FX/index.m3u8
+National_Geographic_Latin_America_(1080p),https://iptv2.intersurtv.cl/NATGEO/index.m3u8
+Studio_Universal_Latin_America_(1080p),https://iptv2.intersurtv.cl/STUDIO-UNIVERSAL/index.m3u8
+HappyKids_(576p),https://mumbai-edge.smartplaytv.in/HappyKids/index.m3u8
+Shemaroo_Bollywood_(1080p),https://mumbai-edge.smartplaytv.in/ShemaroBollywood/index.m3u8
+People_Are_Awesome_(1080p),https://mumbai-edge.smartplaytv.in/PeopleAreAwesome/index.m3u8
+Tennis_Channel_2_(1080p),https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
+Bloomberg_TV_(720p),https://mumbai-edge.smartplaytv.in/Bloomberg/index.m3u8
+Bloomberg_TV_(576p),https://tvsen6.aynaott.com/bloombergtv/index.m3u8
+NFL_Network_(576p)_[Geo-blocked],https://tvsen6.aynaott.com/nfl/index.m3u8
+Willow_(720p)_[Geo-blocked],https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8
+Galavision_(720p),http://200.115.120.1:8000/play/ca128/index.m3u8
+Kartoon_Channel!_(720p),https://rarelivetv8080.neocities.org/USA_KARTOON_CHANNEL/index.m3u8

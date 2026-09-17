@@ -91,4 +91,4 @@
 | 85 | Las Estrellas Latin America (1080p) | IPv4 直链 | <http://138.121.15.230:9002/LAS-ESTRELLAS/index.m3u8> |
 | 86 | Golden Edge (1080p) | IPv4 直链 | <http://138.121.15.230:9002/GOLDEN-EDGE/index.m3u8> |
 
-Updated at **Thu Sep 17 2026 11:16:06 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Sep 17 2026 16:33:13 GMT+0000 (Coordinated Universal Time)**

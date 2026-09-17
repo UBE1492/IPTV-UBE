@@ -17,3 +17,5 @@ https://rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8
 https://amg01269-amg01269c1-firetv-us-5377.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="WillowSports.us@HD",Willow Sports (1080p)
 https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8
+#EXTINF:-1 tvg-id="NFLNetwork.us@SD",NFL Network (576p) [Geo-blocked]
+https://tvsen6.aynaott.com/nfl/index.m3u8
