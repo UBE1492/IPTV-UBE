@@ -1,17 +1,11 @@
 {
   "name": "cl",
-  "updated_at": 1789679120900,
+  "updated_at": 1789703623419,
   "m3u": "https://ube1492.github.io/IPTV-UBE/cl.m3u",
   "channels": [
     {
       "name": "13C (1080p)",
       "url": "https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "13C (576p)",
-      "url": "http://45.4.1.201:8000/play/a132/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -1102,12 +1096,6 @@
       "category": "Otros"
     },
     {
-      "name": "13C (720p)",
-      "url": "http://cdn1tlinkgo.tlink.cl/13c/mono.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Canal CHV Noticias (1080p)",
       "url": "http://cdn1tlinkgo.tlink.cl/chvnoticias/mono.m3u8",
       "logo": "",
@@ -1197,12 +1185,6 @@
       {
         "name": "13C (1080p)",
         "url": "https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "13C (576p)",
-        "url": "http://45.4.1.201:8000/play/a132/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -2289,12 +2271,6 @@
       {
         "name": "24 Horas (1080p)",
         "url": "http://cdn1tlinkgo.tlink.cl/24horashd/mono.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "13C (720p)",
-        "url": "http://cdn1tlinkgo.tlink.cl/13c/mono.m3u8",
         "logo": "",
         "category": "Otros"
       },
