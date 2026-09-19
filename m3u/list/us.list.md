@@ -296,4 +296,4 @@
 | 290 | Kartoon Channel! (720p) | rarelivetv8080.neocities.org | <https://rarelivetv8080.neocities.org/USA_KARTOON_CHANNEL/index.m3u8> |
 | 291 | 24Kitchen Bulgary (1080p) | hls127.freeott.top:8080 | <http://hls127.freeott.top:8080/BG_24_Kitchen/video.m3u8> |
 
-Updated at **Sat Sep 19 2026 15:37:21 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Sep 19 2026 20:16:15 GMT+0000 (Coordinated Universal Time)**
