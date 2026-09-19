@@ -218,7 +218,7 @@ TVSA_Government_Channel_(720p),https://edge-f.swagit.com/live/sanantoniotx/live-
 TVSA_Public_Channel_(720p),https://edge-f.swagit.com/live/sanantoniotx/live-2-a/playlist.m3u8
 TVSConsumerDirect_(720p),https://rpn.bozztv.com/gusa/gusa-ConsumerDirect/index.m3u8
 UN_Web_TV_(540p),https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
-Unbeaten_(1080p),https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/UnbeatenSports/playlist.m3u8
+Unbeaten_(1080p)_[Geo-blocked],https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/UnbeatenSports-v2/playlist.m3u8
 UniMas_Central_(720p),http://190.197.41.183/Unimas/mono.m3u8
 UniMas_Mountain_(1080p),http://168.228.44.241:9997/play/a09e/index.m3u8
 Universal_Comedy_(1080p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -294,6 +294,6 @@ Bloomberg_TV_(720p),https://mumbai-edge.smartplaytv.in/Bloomberg/index.m3u8
 Bloomberg_TV_(576p),https://tvsen6.aynaott.com/bloombergtv/index.m3u8
 NFL_Network_(576p)_[Geo-blocked],https://tvsen6.aynaott.com/nfl/index.m3u8
 Willow_(720p)_[Geo-blocked],https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8
-Galavision_(720p),http://200.115.120.1:8000/play/ca128/index.m3u8
+Galavision_West_(720p),http://200.115.120.1:8000/play/ca128/index.m3u8
 Kartoon_Channel!_(720p),https://rarelivetv8080.neocities.org/USA_KARTOON_CHANNEL/index.m3u8
 24Kitchen_Bulgary_(1080p),http://hls127.freeott.top:8080/BG_24_Kitchen/video.m3u8

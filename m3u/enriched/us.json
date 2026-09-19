@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1789763874037,
+  "updated_at": 1789789836310,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -1306,8 +1306,8 @@
       "category": "Otros"
     },
     {
-      "name": "Unbeaten (1080p)",
-      "url": "https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/UnbeatenSports/playlist.m3u8",
+      "name": "Unbeaten (1080p) [Geo-blocked]",
+      "url": "https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/UnbeatenSports-v2/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -1756,7 +1756,7 @@
       "category": "Otros"
     },
     {
-      "name": "Galavision (720p)",
+      "name": "Galavision West (720p)",
       "url": "http://200.115.120.1:8000/play/ca128/index.m3u8",
       "logo": "",
       "category": "Otros"
@@ -3079,8 +3079,8 @@
         "category": "Otros"
       },
       {
-        "name": "Unbeaten (1080p)",
-        "url": "https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/UnbeatenSports/playlist.m3u8",
+        "name": "Unbeaten (1080p) [Geo-blocked]",
+        "url": "https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/UnbeatenSports-v2/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -3529,7 +3529,7 @@
         "category": "Otros"
       },
       {
-        "name": "Galavision (720p)",
+        "name": "Galavision West (720p)",
         "url": "http://200.115.120.1:8000/play/ca128/index.m3u8",
         "logo": "",
         "category": "Otros"

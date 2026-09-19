@@ -161,8 +161,8 @@ http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 https://d1eg24xrsfr6kv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-b4b1bzxkt1uzo-prod/tg/tg/tg.m3u8
 #EXTINF:-1 tvg-id="TUDN.us@SD",TUDN (1080p) [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
-#EXTINF:-1 tvg-id="Unbeaten.us@SD",Unbeaten (1080p)
-https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/UnbeatenSports/playlist.m3u8
+#EXTINF:-1 tvg-id="Unbeaten.us@SD",Unbeaten (1080p) [Geo-blocked]
+https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/UnbeatenSports-v2/playlist.m3u8
 #EXTINF:-1 tvg-id="UniMas.us@Central",UniMas Central (720p)
 http://190.197.41.183/Unimas/mono.m3u8
 #EXTINF:-1 tvg-id="UniMas.us@Mountain",UniMas Mountain (1080p)
@@ -259,7 +259,7 @@ https://mumbai-edge.smartplaytv.in/PeopleAreAwesome/index.m3u8
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1 tvg-id="Willow.us@SD",Willow (720p) [Geo-blocked]
 https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8
-#EXTINF:-1 tvg-id="Galavision.us@East",Galavision (720p)
+#EXTINF:-1 tvg-id="Galavision.us@West",Galavision West (720p)
 http://200.115.120.1:8000/play/ca128/index.m3u8
 #EXTINF:-1 tvg-id="KartoonChannel.us@SD",Kartoon Channel! (720p)
 https://rarelivetv8080.neocities.org/USA_KARTOON_CHANNEL/index.m3u8

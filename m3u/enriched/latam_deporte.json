@@ -1,6 +1,6 @@
 {
   "name": "latam_deporte",
-  "updated_at": 1789763872200,
+  "updated_at": 1789789834833,
   "m3u": "https://ube1492.github.io/IPTV-UBE/latam_deporte.m3u",
   "channels": [
     {
@@ -30,12 +30,6 @@
     {
       "name": "Fox Sports 1 (720p)",
       "url": "http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Fox Sports 2 (720p)",
-      "url": "https://tvsen7.aynascope.net/foxsports2/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -81,12 +75,6 @@
       {
         "name": "Fox Sports 1 (720p)",
         "url": "http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Fox Sports 2 (720p)",
-        "url": "https://tvsen7.aynascope.net/foxsports2/index.m3u8",
         "logo": "",
         "category": "Otros"
       },

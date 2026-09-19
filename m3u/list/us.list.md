@@ -218,7 +218,7 @@
 | 212 | TVSA Public Channel (720p) | edge-f.swagit.com | <https://edge-f.swagit.com/live/sanantoniotx/live-2-a/playlist.m3u8> |
 | 213 | TVSConsumerDirect (720p) | rpn.bozztv.com | <https://rpn.bozztv.com/gusa/gusa-ConsumerDirect/index.m3u8> |
 | 214 | UN Web TV (540p) | cdnapi.kaltura.com | <https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8> |
-| 215 | Unbeaten (1080p) | lukentvlive.vgcdn.net | <https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/UnbeatenSports/playlist.m3u8> |
+| 215 | Unbeaten (1080p) [Geo-blocked] | lukentvlive.vgcdn.net | <https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/UnbeatenSports-v2/playlist.m3u8> |
 | 216 | UniMas Central (720p) | IPv4 直链 | <http://190.197.41.183/Unimas/mono.m3u8> |
 | 217 | UniMas Mountain (1080p) | IPv4 直链 | <http://168.228.44.241:9997/play/a09e/index.m3u8> |
 | 218 | Universal TV Latin America (1080p) | IPv4 直链 | <http://15.204.246.24:8080/UniversalHD/index.m3u8> |
@@ -292,8 +292,8 @@
 | 286 | Bloomberg TV (576p) | tvsen6.aynaott.com | <https://tvsen6.aynaott.com/bloombergtv/index.m3u8> |
 | 287 | NFL Network (576p) [Geo-blocked] | tvsen6.aynaott.com | <https://tvsen6.aynaott.com/nfl/index.m3u8> |
 | 288 | Willow (720p) [Geo-blocked] | tvsen7.aynaott.com | <https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8> |
-| 289 | Galavision (720p) | IPv4 直链 | <http://200.115.120.1:8000/play/ca128/index.m3u8> |
+| 289 | Galavision West (720p) | IPv4 直链 | <http://200.115.120.1:8000/play/ca128/index.m3u8> |
 | 290 | Kartoon Channel! (720p) | rarelivetv8080.neocities.org | <https://rarelivetv8080.neocities.org/USA_KARTOON_CHANNEL/index.m3u8> |
 | 291 | 24Kitchen Bulgary (1080p) | hls127.freeott.top:8080 | <http://hls127.freeott.top:8080/BG_24_Kitchen/video.m3u8> |
 
-Updated at **Fri Sep 18 2026 20:37:54 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Sep 19 2026 03:50:36 GMT+0000 (Coordinated Universal Time)**

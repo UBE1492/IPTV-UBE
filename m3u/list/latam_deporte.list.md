@@ -9,8 +9,7 @@
 | 3 | ESPNU (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_ESPNU/index.m3u8> |
 | 4 | ESPNU HD (720p) | IPv4 直链 | <http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8> |
 | 5 | Fox Sports 1 (720p) | IPv4 直链 | <http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8> |
-| 6 | Fox Sports 2 (720p) | tvsen7.aynascope.net | <https://tvsen7.aynascope.net/foxsports2/index.m3u8> |
-| 7 | ESPN Deportes HD (720p) | IPv4 直链 | <http://168.228.44.241:9998/play/a0dz/index.m3u8> |
-| 8 | ESPNews (720p) | IPv4 直链 | <http://41.205.93.154/ESPNNEWS/index.m3u8> |
+| 6 | ESPN Deportes HD (720p) | IPv4 直链 | <http://168.228.44.241:9998/play/a0dz/index.m3u8> |
+| 7 | ESPNews (720p) | IPv4 直链 | <http://41.205.93.154/ESPNNEWS/index.m3u8> |
 
-Updated at **Fri Sep 18 2026 20:37:52 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Sep 19 2026 03:50:34 GMT+0000 (Coordinated Universal Time)**

@@ -1,3 +1,3 @@
 Música,#genre#
-RPP_Noticias_Perú,https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/live.m3u8
 Radio_Oxígeno_Perú,https://mdstrm.com/audio/5fab0687bcd6c2389ee9480c/icecast.audio
+RPP_Noticias_Perú,https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/live.m3u8
