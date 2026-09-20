@@ -1,6 +1,6 @@
 {
   "name": "es",
-  "updated_at": 1789848974983,
+  "updated_at": 1789877254503,
   "m3u": "https://ube1492.github.io/IPTV-UBE/es.m3u",
   "channels": [
     {
@@ -770,6 +770,12 @@
       "options": {
         "http-referrer": "https://cool-tv.net/"
       }
+    },
+    {
+      "name": "Clan Internacional",
+      "url": "https://xyktmobile00.s.gy/PPV906_CLAN_INTE",
+      "logo": "",
+      "category": "Otros"
     }
   ],
   "categories": {
@@ -1541,6 +1547,12 @@
         "options": {
           "http-referrer": "https://cool-tv.net/"
         }
+      },
+      {
+        "name": "Clan Internacional",
+        "url": "https://xyktmobile00.s.gy/PPV906_CLAN_INTE",
+        "logo": "",
+        "category": "Otros"
       }
     ]
   }

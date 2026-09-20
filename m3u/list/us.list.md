@@ -295,5 +295,6 @@
 | 289 | Galavision West (720p) | IPv4 直链 | <http://200.115.120.1:8000/play/ca128/index.m3u8> |
 | 290 | Kartoon Channel! (720p) | rarelivetv8080.neocities.org | <https://rarelivetv8080.neocities.org/USA_KARTOON_CHANNEL/index.m3u8> |
 | 291 | 24Kitchen Bulgary (1080p) | hls127.freeott.top:8080 | <http://hls127.freeott.top:8080/BG_24_Kitchen/video.m3u8> |
+| 292 | Hola! TV Latin America | xyktmobile00.s.gy | <https://xyktmobile00.s.gy/PPV901_HOLA_TV> |
 
-Updated at **Sat Sep 19 2026 20:16:15 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Sep 20 2026 04:07:34 GMT+0000 (Coordinated Universal Time)**

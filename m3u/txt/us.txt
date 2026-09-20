@@ -297,3 +297,4 @@ Willow_(720p)_[Geo-blocked],https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8
 Galavision_West_(720p),http://200.115.120.1:8000/play/ca128/index.m3u8
 Kartoon_Channel!_(720p),https://rarelivetv8080.neocities.org/USA_KARTOON_CHANNEL/index.m3u8
 24Kitchen_Bulgary_(1080p),http://hls127.freeott.top:8080/BG_24_Kitchen/video.m3u8
+Hola!_TV_Latin_America,https://xyktmobile00.s.gy/PPV901_HOLA_TV

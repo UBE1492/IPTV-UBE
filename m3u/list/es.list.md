@@ -121,5 +121,6 @@
 | 115 | TVE Internacional America (1080p) | cdn1tlinkgo.tlink.cl | <https://cdn1tlinkgo.tlink.cl/tve/index.m3u8> |
 | 116 | Clan (1080p) | lge-lgla2.otteravision.com | <https://lge-lgla2.otteravision.com/lge/lgcla/lgcla.m3u8> |
 | 117 | Tac12 | ingest1-video.streaming-pro.com | <https://ingest1-video.streaming-pro.com/tac12_ABR/stream/tacdotze/srtweb_1080/chunks.m3u8> |
+| 118 | Clan Internacional | xyktmobile00.s.gy | <https://xyktmobile00.s.gy/PPV906_CLAN_INTE> |
 
-Updated at **Sat Sep 19 2026 20:16:14 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Sep 20 2026 04:07:34 GMT+0000 (Coordinated Universal Time)**

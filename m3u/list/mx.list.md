@@ -90,5 +90,8 @@
 | 84 | Distrito Comedia (1080p) | IPv4 直链 | <http://138.121.15.230:9002/DISTRITO-COMEDIA/index.m3u8> |
 | 85 | Las Estrellas Latin America (1080p) | IPv4 直链 | <http://138.121.15.230:9002/LAS-ESTRELLAS/index.m3u8> |
 | 86 | Golden Edge (1080p) | IPv4 直链 | <http://138.121.15.230:9002/GOLDEN-EDGE/index.m3u8> |
+| 87 | Canal 5 | xyktmobile00.s.gy | <https://xyktmobile00.s.gy/PPV903_CANAL_5> |
+| 88 | CineLatino | xyktmobile00.s.gy | <https://xyktmobile00.s.gy/PPV905_CINE_LATINO> |
+| 89 | Golden Premier | xyktmobile00.s.gy | <https://xyktmobile00.s.gy/PPV902_GOLDENP1_HD> |
 
-Updated at **Sat Sep 19 2026 20:16:14 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Sep 20 2026 04:07:34 GMT+0000 (Coordinated Universal Time)**

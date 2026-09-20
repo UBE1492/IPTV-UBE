@@ -7,3 +7,5 @@ http://38.194.226.190:8000/play/a02r/index.m3u8
 http://138.121.15.230:9002/GOLDEN/index.m3u8
 #EXTINF:-1 tvg-id="GoldenEdge.mx@Panregional",Golden Edge (1080p)
 http://138.121.15.230:9002/GOLDEN-EDGE/index.m3u8
+#EXTINF:-1 tvg-id="GoldenPremier.mx@SD",Golden Premier
+https://xyktmobile00.s.gy/PPV902_GOLDENP1_HD

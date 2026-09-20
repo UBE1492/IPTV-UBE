@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1789848975377,
+  "updated_at": 1789877254395,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -1770,6 +1770,12 @@
     {
       "name": "24Kitchen Bulgary (1080p)",
       "url": "http://hls127.freeott.top:8080/BG_24_Kitchen/video.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Hola! TV Latin America",
+      "url": "https://xyktmobile00.s.gy/PPV901_HOLA_TV",
       "logo": "",
       "category": "Otros"
     }
@@ -3543,6 +3549,12 @@
       {
         "name": "24Kitchen Bulgary (1080p)",
         "url": "http://hls127.freeott.top:8080/BG_24_Kitchen/video.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Hola! TV Latin America",
+        "url": "https://xyktmobile00.s.gy/PPV901_HOLA_TV",
         "logo": "",
         "category": "Otros"
       }
