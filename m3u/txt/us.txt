@@ -298,3 +298,6 @@ Galavision_West_(720p),http://200.115.120.1:8000/play/ca128/index.m3u8
 Kartoon_Channel!_(720p),https://rarelivetv8080.neocities.org/USA_KARTOON_CHANNEL/index.m3u8
 24Kitchen_Bulgary_(1080p),http://hls127.freeott.top:8080/BG_24_Kitchen/video.m3u8
 Hola!_TV_Latin_America,https://xyktmobile00.s.gy/PPV901_HOLA_TV
+S_Corby_TV_(480p),https://vodcdn.bamboo-cloud.com/livehls/6a9f89be0630445532152563/master.m3u8
+S_Metro_TV_(360p),https://vodcdn.bamboo-cloud.com/livehls/6a9f8b4606304461c50dfe93/master.m3u8
+S_KPop!_(480p),https://vodcdn.bamboo-cloud.com/livehls/6aac8803063044569e156563/master.m3u8

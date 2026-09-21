@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1789936297163,
+  "updated_at": 1789963485248,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -1776,6 +1776,24 @@
     {
       "name": "Hola! TV Latin America",
       "url": "https://xyktmobile00.s.gy/PPV901_HOLA_TV",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "S Corby TV (480p)",
+      "url": "https://vodcdn.bamboo-cloud.com/livehls/6a9f89be0630445532152563/master.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "S Metro TV (360p)",
+      "url": "https://vodcdn.bamboo-cloud.com/livehls/6a9f8b4606304461c50dfe93/master.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "S KPop! (480p)",
+      "url": "https://vodcdn.bamboo-cloud.com/livehls/6aac8803063044569e156563/master.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -3555,6 +3573,24 @@
       {
         "name": "Hola! TV Latin America",
         "url": "https://xyktmobile00.s.gy/PPV901_HOLA_TV",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "S Corby TV (480p)",
+        "url": "https://vodcdn.bamboo-cloud.com/livehls/6a9f89be0630445532152563/master.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "S Metro TV (360p)",
+        "url": "https://vodcdn.bamboo-cloud.com/livehls/6a9f8b4606304461c50dfe93/master.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "S KPop! (480p)",
+        "url": "https://vodcdn.bamboo-cloud.com/livehls/6aac8803063044569e156563/master.m3u8",
         "logo": "",
         "category": "Otros"
       }
