@@ -1,6 +1,6 @@
 {
   "name": "es",
-  "updated_at": 1790027353889,
+  "updated_at": 1790049705441,
   "m3u": "https://ube1492.github.io/IPTV-UBE/es.m3u",
   "channels": [
     {
@@ -73,10 +73,13 @@
       "category": "Otros"
     },
     {
-      "name": "101tv Cádiz (1080p)",
-      "url": "https://streaming101tv.es:19360/cadiz/cadiz.m3u8",
+      "name": "101tv Antequera [Geo-blocked]",
+      "url": "#EXTINF:-1 tvg-id=\"101tvCadiz.es@SD\",101tv Cádiz (1080p)",
       "logo": "",
-      "category": "Otros"
+      "category": "Otros",
+      "options": {
+        "http-referrer": "https://player.instantvideocloud.net/"
+      }
     },
     {
       "name": "101tv Malaga",
@@ -850,10 +853,13 @@
         "category": "Otros"
       },
       {
-        "name": "101tv Cádiz (1080p)",
-        "url": "https://streaming101tv.es:19360/cadiz/cadiz.m3u8",
+        "name": "101tv Antequera [Geo-blocked]",
+        "url": "#EXTINF:-1 tvg-id=\"101tvCadiz.es@SD\",101tv Cádiz (1080p)",
         "logo": "",
-        "category": "Otros"
+        "category": "Otros",
+        "options": {
+          "http-referrer": "https://player.instantvideocloud.net/"
+        }
       },
       {
         "name": "101tv Malaga",

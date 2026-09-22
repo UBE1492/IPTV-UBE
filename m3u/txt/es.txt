@@ -11,6 +11,7 @@ Undefined,#genre#
 12tv,#EXTVLCOPT:http-referrer=https://www.12tv.es/
 24_Horas_Canarias_(1080p),http://185.47.212.25:8080/24h_HD/index.m3u8
 28_kanala,https://streaming.28kanala.eus/hls/z.m3u8
+101tv_Antequera_[Geo-blocked],#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
 101tv_Cádiz_(1080p),https://streaming101tv.es:19360/cadiz/cadiz.m3u8
 101tv_Malaga,#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
 A_Punt_(720p),https://fastly.live.brightcove.com/1846756479408303045/eu-central-1/6057955885001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZWFxNWh4LmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTg4NTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1ODg1MDAxIl0sImp0aSI6IjE4NDY3NTY0Nzk0MDgzMDMwNDUifQ.o6wb_VA-TVxl3ERgr7FKLlaTjY7smErmsf73QAydySE/playlist-hls-dvr.m3u8

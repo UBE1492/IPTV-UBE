@@ -94,4 +94,4 @@
 | 88 | CineLatino | xyktmobile00.s.gy | <https://xyktmobile00.s.gy/PPV905_CINE_LATINO> |
 | 89 | Golden Premier | xyktmobile00.s.gy | <https://xyktmobile00.s.gy/PPV902_GOLDENP1_HD> |
 
-Updated at **Mon Sep 21 2026 21:49:13 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Sep 22 2026 04:01:45 GMT+0000 (Coordinated Universal Time)**
