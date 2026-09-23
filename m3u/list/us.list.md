@@ -300,4 +300,4 @@
 | 294 | S Metro TV (360p) | vodcdn.bamboo-cloud.com | <https://vodcdn.bamboo-cloud.com/livehls/6a9f8b4606304461c50dfe93/master.m3u8> |
 | 295 | S KPop! (480p) | vodcdn.bamboo-cloud.com | <https://vodcdn.bamboo-cloud.com/livehls/6aac8803063044569e156563/master.m3u8> |
 
-Updated at **Wed Sep 23 2026 03:58:48 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Sep 23 2026 11:04:22 GMT+0000 (Coordinated Universal Time)**
