@@ -93,5 +93,8 @@
 | 87 | Canal 5 | xyktmobile00.s.gy | <https://xyktmobile00.s.gy/PPV903_CANAL_5> |
 | 88 | CineLatino | xyktmobile00.s.gy | <https://xyktmobile00.s.gy/PPV905_CINE_LATINO> |
 | 89 | Golden Premier | xyktmobile00.s.gy | <https://xyktmobile00.s.gy/PPV902_GOLDENP1_HD> |
+| 90 | bitMe Latin America | xyktmobile00.s.gy | <https://xyktmobile00.s.gy/PPV913_BITM_JUE> |
+| 91 | CineLatino (720p) | IPv4 直链 | <http://206.135.11.174:8010/play/a0lq/index.m3u8> |
+| 92 | CineLatino (576p) | IPv4 直链 | <http://200.115.96.61:9090/play/a0i5/index.m3u8> |
 
-Updated at **Wed Sep 23 2026 21:16:54 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Sep 24 2026 03:52:52 GMT+0000 (Coordinated Universal Time)**

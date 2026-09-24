@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1790198214125,
+  "updated_at": 1790221972310,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -1794,6 +1794,12 @@
     {
       "name": "S KPop! (480p)",
       "url": "https://vodcdn.bamboo-cloud.com/livehls/6aac8803063044569e156563/master.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "We TV (1080p)",
+      "url": "http://23.237.104.106:8080/USA_WE_TV/index.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -3591,6 +3597,12 @@
       {
         "name": "S KPop! (480p)",
         "url": "https://vodcdn.bamboo-cloud.com/livehls/6aac8803063044569e156563/master.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "We TV (1080p)",
+        "url": "http://23.237.104.106:8080/USA_WE_TV/index.m3u8",
         "logo": "",
         "category": "Otros"
       }

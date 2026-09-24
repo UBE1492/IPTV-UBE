@@ -102,5 +102,9 @@
 | 96 | Telecaribe (1080p) | IPv4 直链 | <http://138.121.15.230:9002/TELECARIBE/index.m3u8> |
 | 97 | Zoom (1080p) | IPv4 直链 | <http://138.121.15.230:9002/ZOOM/index.m3u8> |
 | 98 | Teleantioquia (1080p) | IPv4 直链 | <http://138.121.15.230:9002/TELEANTIOQUIA/index.m3u8> |
+| 99 | Caracol TV | IPv4 直链 | <http://181.79.86.130:8000/play/a077/index.m3u8> |
+| 100 | Caracol TV (576p) | IPv4 直链 | <http://181.79.86.130:8000/play/a04w/index.m3u8> |
+| 101 | Telepacifico (1080p) | IPv4 直链 | <http://138.121.15.230:9002/TELEPACIFICO/index.m3u8> |
+| 102 | Caracol Internacional (576p) | IPv4 直链 | <http://138.59.177.78:9999/play/a0a8/index.m3u8> |
 
-Updated at **Wed Sep 23 2026 21:16:54 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Sep 24 2026 03:52:52 GMT+0000 (Coordinated Universal Time)**
