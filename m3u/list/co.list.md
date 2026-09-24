@@ -107,4 +107,4 @@
 | 101 | Telepacifico (1080p) | IPv4 直链 | <http://138.121.15.230:9002/TELEPACIFICO/index.m3u8> |
 | 102 | Caracol Internacional (576p) | IPv4 直链 | <http://138.59.177.78:9999/play/a0a8/index.m3u8> |
 
-Updated at **Thu Sep 24 2026 16:46:48 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Sep 24 2026 21:18:12 GMT+0000 (Coordinated Universal Time)**
