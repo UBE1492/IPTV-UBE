@@ -200,4 +200,4 @@
 | 194 | Agricultura TV (1080p) | redirector.rudo.video | <https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8> |
 | 195 | TV Chile | xyktmobile00.s.gy | <https://xyktmobile00.s.gy/093_TV_CHILE> |
 
-Updated at **Thu Sep 24 2026 03:52:51 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Sep 24 2026 11:21:46 GMT+0000 (Coordinated Universal Time)**

@@ -123,4 +123,4 @@
 | 117 | Tac12 | ingest1-video.streaming-pro.com | <https://ingest1-video.streaming-pro.com/tac12_ABR/stream/tacdotze/srtweb_1080/chunks.m3u8> |
 | 118 | Clan Internacional | xyktmobile00.s.gy | <https://xyktmobile00.s.gy/PPV906_CLAN_INTE> |
 
-Updated at **Thu Sep 24 2026 03:52:52 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Sep 24 2026 11:21:46 GMT+0000 (Coordinated Universal Time)**
