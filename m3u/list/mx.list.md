@@ -97,4 +97,4 @@
 | 91 | CineLatino (720p) | IPv4 直链 | <http://206.135.11.174:8010/play/a0lq/index.m3u8> |
 | 92 | CineLatino (576p) | IPv4 直链 | <http://200.115.96.61:9090/play/a0i5/index.m3u8> |
 
-Updated at **Thu Sep 24 2026 11:21:46 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Sep 24 2026 16:46:47 GMT+0000 (Coordinated Universal Time)**

@@ -4,12 +4,12 @@
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
-| 1 | ESPN 4 | IPv4 直链 | <http://179.1.87.75:8098/play/a0fu/index.m3u8> |
+| 1 | Fox Sports 3 | IPv4 直链 | <http://179.1.87.75:8098/play/a0fh/index.m3u8> |
 | 2 | Fox Sports 2 | IPv4 直链 | <http://179.1.87.75:8098/play/a0fg/index.m3u8> |
 | 3 | ESPN 2 | IPv4 直链 | <http://179.1.87.75:8098/play/a0ew/index.m3u8> |
 | 4 | ESPN 3 | IPv4 直链 | <http://179.1.87.75:8098/play/a0hn/index.m3u8> |
-| 5 | Fox Sports 3 | IPv4 直链 | <http://179.1.87.75:8098/play/a0fh/index.m3u8> |
+| 5 | ESPN 4 | IPv4 直链 | <http://179.1.87.75:8098/play/a0fu/index.m3u8> |
 | 6 | L1 Max (1080p) | IPv4 直链 | <http://190.93.224.42/LIGA-1-MAX/index.m3u8> |
 | 7 | L1 Max | cablered.iptvperu.tv:1936 | <https://cablered.iptvperu.tv:1936/cablered/liga1max.stream/playlist.m3u8> |
 
-Updated at **Thu Sep 24 2026 11:21:54 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Sep 24 2026 16:46:57 GMT+0000 (Coordinated Universal Time)**
