@@ -110,4 +110,4 @@
 | 104 | Win Sports (720p) | IPv4 直链 | <http://15.204.146.163:8002/play/a00h/index.m3u8> |
 | 105 | RCN Mas (1080p) | IPv4 直链 | <http://45.226.205.96:48000/play/a0af/index.m3u8> |
 
-Updated at **Fri Sep 25 2026 16:51:35 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Sep 25 2026 21:16:04 GMT+0000 (Coordinated Universal Time)**
