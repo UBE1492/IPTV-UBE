@@ -300,5 +300,6 @@
 | 294 | S Metro TV (360p) | vodcdn.bamboo-cloud.com | <https://vodcdn.bamboo-cloud.com/livehls/6a9f8b4606304461c50dfe93/master.m3u8> |
 | 295 | S KPop! (480p) | vodcdn.bamboo-cloud.com | <https://vodcdn.bamboo-cloud.com/livehls/6aac8803063044569e156563/master.m3u8> |
 | 296 | We TV (1080p) | IPv4 直链 | <http://23.237.104.106:8080/USA_WE_TV/index.m3u8> |
+| 297 | DSports (720p) | IPv4 直链 | <http://15.204.146.163:8002/play/a00g/index.m3u8> |
 
-Updated at **Thu Sep 24 2026 21:18:12 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Sep 25 2026 04:07:56 GMT+0000 (Coordinated Universal Time)**

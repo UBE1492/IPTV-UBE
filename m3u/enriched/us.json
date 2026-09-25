@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1790284692372,
+  "updated_at": 1790309276787,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -1800,6 +1800,12 @@
     {
       "name": "We TV (1080p)",
       "url": "http://23.237.104.106:8080/USA_WE_TV/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "DSports (720p)",
+      "url": "http://15.204.146.163:8002/play/a00g/index.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -3603,6 +3609,12 @@
       {
         "name": "We TV (1080p)",
         "url": "http://23.237.104.106:8080/USA_WE_TV/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "DSports (720p)",
+        "url": "http://15.204.146.163:8002/play/a00g/index.m3u8",
         "logo": "",
         "category": "Otros"
       }

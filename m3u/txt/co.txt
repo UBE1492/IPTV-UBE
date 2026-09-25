@@ -106,3 +106,6 @@ Caracol_TV,http://181.79.86.130:8000/play/a077/index.m3u8
 Caracol_TV_(576p),http://181.79.86.130:8000/play/a04w/index.m3u8
 Telepacifico_(1080p),http://138.121.15.230:9002/TELEPACIFICO/index.m3u8
 Caracol_Internacional_(576p),http://138.59.177.78:9999/play/a0a8/index.m3u8
+Cablenoticias_(1080p),http://181.78.211.244:8005/play/a09u/index.m3u8
+Win_Sports_(720p),http://15.204.146.163:8002/play/a00h/index.m3u8
+RCN_Mas_(1080p),http://45.226.205.96:48000/play/a0af/index.m3u8

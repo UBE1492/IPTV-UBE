@@ -1,6 +1,6 @@
 {
   "name": "mx",
-  "updated_at": 1790284692330,
+  "updated_at": 1790309276614,
   "m3u": "https://ube1492.github.io/IPTV-UBE/mx.m3u",
   "channels": [
     {
@@ -555,6 +555,36 @@
     {
       "name": "CineLatino (576p)",
       "url": "http://200.115.96.61:9090/play/a0i5/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Golden Premier (1080p)",
+      "url": "http://200.229.147.210:9999/play/a00k/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Golden Premier 2 (1080p)",
+      "url": "http://200.229.147.210:9999/play/a00l/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "bitMe (720p)",
+      "url": "http://181.119.66.28:8081/BITME/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "bitMe (576p)",
+      "url": "http://200.229.147.210:9999/play/a01y/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "TeleHit (576p)",
+      "url": "http://200.115.120.1:8000/play/ca048/index.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -1113,6 +1143,36 @@
       {
         "name": "CineLatino (576p)",
         "url": "http://200.115.96.61:9090/play/a0i5/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Golden Premier (1080p)",
+        "url": "http://200.229.147.210:9999/play/a00k/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Golden Premier 2 (1080p)",
+        "url": "http://200.229.147.210:9999/play/a00l/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "bitMe (720p)",
+        "url": "http://181.119.66.28:8081/BITME/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "bitMe (576p)",
+        "url": "http://200.229.147.210:9999/play/a01y/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "TeleHit (576p)",
+        "url": "http://200.115.120.1:8000/play/ca048/index.m3u8",
         "logo": "",
         "category": "Otros"
       }

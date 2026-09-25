@@ -96,5 +96,10 @@
 | 90 | bitMe Latin America | xyktmobile00.s.gy | <https://xyktmobile00.s.gy/PPV913_BITM_JUE> |
 | 91 | CineLatino (720p) | IPv4 直链 | <http://206.135.11.174:8010/play/a0lq/index.m3u8> |
 | 92 | CineLatino (576p) | IPv4 直链 | <http://200.115.96.61:9090/play/a0i5/index.m3u8> |
+| 93 | Golden Premier (1080p) | IPv4 直链 | <http://200.229.147.210:9999/play/a00k/index.m3u8> |
+| 94 | Golden Premier 2 (1080p) | IPv4 直链 | <http://200.229.147.210:9999/play/a00l/index.m3u8> |
+| 95 | bitMe (720p) | IPv4 直链 | <http://181.119.66.28:8081/BITME/index.m3u8> |
+| 96 | bitMe (576p) | IPv4 直链 | <http://200.229.147.210:9999/play/a01y/index.m3u8> |
+| 97 | TeleHit (576p) | IPv4 直链 | <http://200.115.120.1:8000/play/ca048/index.m3u8> |
 
-Updated at **Thu Sep 24 2026 21:18:12 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Sep 25 2026 04:07:56 GMT+0000 (Coordinated Universal Time)**

@@ -106,5 +106,8 @@
 | 100 | Caracol TV (576p) | IPv4 直链 | <http://181.79.86.130:8000/play/a04w/index.m3u8> |
 | 101 | Telepacifico (1080p) | IPv4 直链 | <http://138.121.15.230:9002/TELEPACIFICO/index.m3u8> |
 | 102 | Caracol Internacional (576p) | IPv4 直链 | <http://138.59.177.78:9999/play/a0a8/index.m3u8> |
+| 103 | Cablenoticias (1080p) | IPv4 直链 | <http://181.78.211.244:8005/play/a09u/index.m3u8> |
+| 104 | Win Sports (720p) | IPv4 直链 | <http://15.204.146.163:8002/play/a00h/index.m3u8> |
+| 105 | RCN Mas (1080p) | IPv4 直链 | <http://45.226.205.96:48000/play/a0af/index.m3u8> |
 
-Updated at **Thu Sep 24 2026 21:18:12 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Sep 25 2026 04:07:56 GMT+0000 (Coordinated Universal Time)**

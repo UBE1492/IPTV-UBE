@@ -92,3 +92,8 @@ Golden_Premier,https://xyktmobile00.s.gy/PPV902_GOLDENP1_HD
 bitMe_Latin_America,https://xyktmobile00.s.gy/PPV913_BITM_JUE
 CineLatino_(720p),http://206.135.11.174:8010/play/a0lq/index.m3u8
 CineLatino_(576p),http://200.115.96.61:9090/play/a0i5/index.m3u8
+Golden_Premier_(1080p),http://200.229.147.210:9999/play/a00k/index.m3u8
+Golden_Premier_2_(1080p),http://200.229.147.210:9999/play/a00l/index.m3u8
+bitMe_(720p),http://181.119.66.28:8081/BITME/index.m3u8
+bitMe_(576p),http://200.229.147.210:9999/play/a01y/index.m3u8
+TeleHit_(576p),http://200.115.120.1:8000/play/ca048/index.m3u8
