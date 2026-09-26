@@ -113,4 +113,4 @@
 | 107 | Win Sports (1080p) | IPv4 直链 | <http://181.78.12.119:16123/play/ch18/index.m3u8> |
 | 108 | Win+ Futbol (1080p) | IPv4 直链 | <http://181.78.12.119:16123/play/ch19/index.m3u8> |
 
-Updated at **Sat Sep 26 2026 16:02:26 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Sep 26 2026 20:48:49 GMT+0000 (Coordinated Universal Time)**
