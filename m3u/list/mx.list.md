@@ -103,4 +103,4 @@
 | 97 | TeleHit (576p) | IPv4 直链 | <http://200.115.120.1:8000/play/ca048/index.m3u8> |
 | 98 | Bandamax (1080p) | IPv4 直链 | <http://181.78.106.127:5000/play/ca064/index.m3u8> |
 
-Updated at **Sat Sep 26 2026 11:02:26 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Sep 26 2026 16:02:26 GMT+0000 (Coordinated Universal Time)**

@@ -307,4 +307,4 @@
 | 301 | Cinemax Action East HD (1080p) | sra72yz.s.gy | <https://sra72yz.s.gy/CINEMAX_ACTION_HD.m3u8> |
 | 302 | AXN Latin America South (1080p) | IPv4 直链 | <http://181.78.12.119:16123/play/ch46/index.m3u8> |
 
-Updated at **Sat Sep 26 2026 11:02:26 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Sep 26 2026 16:02:26 GMT+0000 (Coordinated Universal Time)**
