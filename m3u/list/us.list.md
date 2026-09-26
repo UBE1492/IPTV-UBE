@@ -301,5 +301,10 @@
 | 295 | S KPop! (480p) | vodcdn.bamboo-cloud.com | <https://vodcdn.bamboo-cloud.com/livehls/6aac8803063044569e156563/master.m3u8> |
 | 296 | We TV (1080p) | IPv4 直链 | <http://23.237.104.106:8080/USA_WE_TV/index.m3u8> |
 | 297 | DSports (720p) | IPv4 直链 | <http://15.204.146.163:8002/play/a00g/index.m3u8> |
+| 298 | Nicktoons (1080p) | sra72yz.s.gy | <https://sra72yz.s.gy/NICKTOONS_HD.m3u8> |
+| 299 | Nick Jr. East HD (1080p) | sra72yz.s.gy | <https://sra72yz.s.gy/NICK_JR_HD.m3u8> |
+| 300 | HBO Drama (1080p) | sra72yz.s.gy | <https://sra72yz.s.gy/HBO_DRAMA_HD.m3u8> |
+| 301 | Cinemax Action East HD (1080p) | sra72yz.s.gy | <https://sra72yz.s.gy/CINEMAX_ACTION_HD.m3u8> |
+| 302 | AXN Latin America South (1080p) | IPv4 直链 | <http://181.78.12.119:16123/play/ch46/index.m3u8> |
 
-Updated at **Fri Sep 25 2026 21:16:04 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Sep 26 2026 04:12:43 GMT+0000 (Coordinated Universal Time)**

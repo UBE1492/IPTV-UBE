@@ -1,6 +1,6 @@
 {
   "name": "co",
-  "updated_at": 1790370964863,
+  "updated_at": 1790395963893,
   "m3u": "https://ube1492.github.io/IPTV-UBE/co.m3u",
   "channels": [
     {
@@ -648,6 +648,24 @@
     {
       "name": "RCN Mas (1080p)",
       "url": "http://45.226.205.96:48000/play/a0af/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "NTN24 (720p)",
+      "url": "http://181.78.12.119:16123/play/ch80/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Win Sports (1080p)",
+      "url": "http://181.78.12.119:16123/play/ch18/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Win+ Futbol (1080p)",
+      "url": "http://181.78.12.119:16123/play/ch19/index.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -1299,6 +1317,24 @@
       {
         "name": "RCN Mas (1080p)",
         "url": "http://45.226.205.96:48000/play/a0af/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "NTN24 (720p)",
+        "url": "http://181.78.12.119:16123/play/ch80/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Win Sports (1080p)",
+        "url": "http://181.78.12.119:16123/play/ch18/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Win+ Futbol (1080p)",
+        "url": "http://181.78.12.119:16123/play/ch19/index.m3u8",
         "logo": "",
         "category": "Otros"
       }

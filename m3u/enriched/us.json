@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1790370964617,
+  "updated_at": 1790395963568,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -1806,6 +1806,36 @@
     {
       "name": "DSports (720p)",
       "url": "http://15.204.146.163:8002/play/a00g/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Nicktoons (1080p)",
+      "url": "https://sra72yz.s.gy/NICKTOONS_HD.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Nick Jr. East HD (1080p)",
+      "url": "https://sra72yz.s.gy/NICK_JR_HD.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "HBO Drama (1080p)",
+      "url": "https://sra72yz.s.gy/HBO_DRAMA_HD.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Cinemax Action East HD (1080p)",
+      "url": "https://sra72yz.s.gy/CINEMAX_ACTION_HD.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "AXN Latin America South (1080p)",
+      "url": "http://181.78.12.119:16123/play/ch46/index.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -3615,6 +3645,36 @@
       {
         "name": "DSports (720p)",
         "url": "http://15.204.146.163:8002/play/a00g/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Nicktoons (1080p)",
+        "url": "https://sra72yz.s.gy/NICKTOONS_HD.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Nick Jr. East HD (1080p)",
+        "url": "https://sra72yz.s.gy/NICK_JR_HD.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "HBO Drama (1080p)",
+        "url": "https://sra72yz.s.gy/HBO_DRAMA_HD.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Cinemax Action East HD (1080p)",
+        "url": "https://sra72yz.s.gy/CINEMAX_ACTION_HD.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "AXN Latin America South (1080p)",
+        "url": "http://181.78.12.119:16123/play/ch46/index.m3u8",
         "logo": "",
         "category": "Otros"
       }

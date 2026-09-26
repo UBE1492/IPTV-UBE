@@ -303,3 +303,8 @@ S_Metro_TV_(360p),https://vodcdn.bamboo-cloud.com/livehls/6a9f8b4606304461c50dfe
 S_KPop!_(480p),https://vodcdn.bamboo-cloud.com/livehls/6aac8803063044569e156563/master.m3u8
 We_TV_(1080p),http://23.237.104.106:8080/USA_WE_TV/index.m3u8
 DSports_(720p),http://15.204.146.163:8002/play/a00g/index.m3u8
+Nicktoons_(1080p),https://sra72yz.s.gy/NICKTOONS_HD.m3u8
+Nick_Jr._East_HD_(1080p),https://sra72yz.s.gy/NICK_JR_HD.m3u8
+HBO_Drama_(1080p),https://sra72yz.s.gy/HBO_DRAMA_HD.m3u8
+Cinemax_Action_East_HD_(1080p),https://sra72yz.s.gy/CINEMAX_ACTION_HD.m3u8
+AXN_Latin_America_South_(1080p),http://181.78.12.119:16123/play/ch46/index.m3u8

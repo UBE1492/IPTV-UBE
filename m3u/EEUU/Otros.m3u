@@ -265,3 +265,5 @@ http://200.115.120.1:8000/play/ca128/index.m3u8
 https://rarelivetv8080.neocities.org/USA_KARTOON_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="24Kitchen.us@Bulgary",24Kitchen Bulgary (1080p)
 http://hls127.freeott.top:8080/BG_24_Kitchen/video.m3u8
+#EXTINF:-1 tvg-id="AXNLatinAmerica.us@South",AXN Latin America South (1080p)
+http://181.78.12.119:16123/play/ch46/index.m3u8

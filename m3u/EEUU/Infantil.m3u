@@ -5,3 +5,7 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/canalinfantil/playlist.m3u8
 http://177.234.218.66:8084/play/a01x/index.m3u8
 #EXTINF:-1 tvg-id="HappyKids.us@SD",HappyKids (576p)
 https://mumbai-edge.smartplaytv.in/HappyKids/index.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.us@East",Nicktoons (1080p)
+https://sra72yz.s.gy/NICKTOONS_HD.m3u8
+#EXTINF:-1 tvg-id="NickJr.us@EastHD",Nick Jr. East HD (1080p)
+https://sra72yz.s.gy/NICK_JR_HD.m3u8
