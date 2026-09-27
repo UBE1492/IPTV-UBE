@@ -115,4 +115,4 @@
 | 109 | NTN24 | xyktmobile00.s.gy | <https://xyktmobile00.s.gy/PPV933_NTNCO> |
 | 110 | RCN Novelas (480p) | IPv4 直链 | <http://181.65.191.173:8069/play/a061> |
 
-Updated at **Sun Sep 27 2026 04:27:55 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Sep 27 2026 11:41:38 GMT+0000 (Coordinated Universal Time)**
