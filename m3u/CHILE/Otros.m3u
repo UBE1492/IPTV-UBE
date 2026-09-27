@@ -157,3 +157,5 @@ http://cdn1tlinkgo.tlink.cl/laredhd/mono.m3u8
 http://cdn1tlinkgo.tlink.cl/viax/mono.m3u8
 #EXTINF:-1 tvg-id="CDO.cl@SD",CDO (1080p)
 http://cdn1tlinkgo.tlink.cl/cdo/mono.m3u8
+#EXTINF:-1 tvg-id="Canal13.cl@SD",Canal 13
+https://xyktmobile00.s.gy/PPV908_TRECE_CHILE

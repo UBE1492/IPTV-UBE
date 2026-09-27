@@ -102,5 +102,12 @@
 | 96 | bitMe (576p) | IPv4 直链 | <http://200.229.147.210:9999/play/a01y/index.m3u8> |
 | 97 | TeleHit (576p) | IPv4 直链 | <http://200.115.120.1:8000/play/ca048/index.m3u8> |
 | 98 | Bandamax (1080p) | IPv4 直链 | <http://181.78.106.127:5000/play/ca064/index.m3u8> |
+| 99 | De Pelicula Latin America | xyktmobile00.s.gy | <https://xyktmobile00.s.gy/PPV934_DEPELICU> |
+| 100 | De Pelicula Latin America (720p) | IPv4 直链 | <http://181.224.200.5:2277/play/a0d1/index.m3u8> |
+| 101 | Azteca 7 (1080p) | IPv4 直链 | <http://187.245.231.226:8000/play/a0uz/index.m3u8> |
+| 102 | Las Estrellas (1080p) | IPv4 直链 | <http://45.189.151.7:8000/play/a07s> |
+| 103 | Canal 5 (576p) | IPv4 直链 | <http://206.135.11.174:8010/play/a0fl/index.m3u8> |
+| 104 | Azteca 7 (720p) | IPv4 直链 | <http://200.35.176.154:8000/play/a064/index.m3u8> |
+| 105 | Golden (1080p) | IPv4 直链 | <http://181.224.200.5:2277/play/a0do/index.m3u8> |
 
-Updated at **Sat Sep 26 2026 20:48:48 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Sep 27 2026 04:27:54 GMT+0000 (Coordinated Universal Time)**

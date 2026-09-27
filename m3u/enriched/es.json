@@ -1,6 +1,6 @@
 {
   "name": "es",
-  "updated_at": 1790455729112,
+  "updated_at": 1790483274861,
   "m3u": "https://ube1492.github.io/IPTV-UBE/es.m3u",
   "channels": [
     {
@@ -779,6 +779,15 @@
       "url": "https://xyktmobile00.s.gy/PPV906_CLAN_INTE",
       "logo": "",
       "category": "Otros"
+    },
+    {
+      "name": "TVE Internacional Asia-Oceania",
+      "url": "",
+      "logo": "",
+      "category": "Otros",
+      "options": {
+        "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+      }
     }
   ],
   "categories": {
@@ -1559,6 +1568,15 @@
         "url": "https://xyktmobile00.s.gy/PPV906_CLAN_INTE",
         "logo": "",
         "category": "Otros"
+      },
+      {
+        "name": "TVE Internacional Asia-Oceania",
+        "url": "",
+        "logo": "",
+        "category": "Otros",
+        "options": {
+          "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+        }
       }
     ]
   }

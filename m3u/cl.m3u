@@ -393,3 +393,9 @@ https://unlimited1-us.dps.live/campustv/campustv.smil/campustv/livestream1/chunk
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVChile.cl@SD",TV Chile
 https://xyktmobile00.s.gy/093_TV_CHILE
+#EXTINF:-1 tvg-id="Canal13.cl@SD",Canal 13
+https://xyktmobile00.s.gy/PPV908_TRECE_CHILE
+#EXTINF:-1 tvg-id="CanalCHVNoticias.cl@SD",Canal CHV Noticias
+https://xyktmobile00.s.gy/PPV929_CIV_NOTICIAS
+#EXTINF:-1 tvg-id="TVPlus.cl@SD",TV+ (720p)
+http://190.234.82.52:8000/play/a0lz/index.m3u8

@@ -5,3 +5,5 @@ https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8
 http://170.238.200.199/rcn-novelas/index.m3u8
 #EXTINF:-1 tvg-id="RCNNovelas.co@SD",RCN Novelas (576p)
 http://181.78.8.199:8000/play/a0a7/index.m3u8
+#EXTINF:-1 tvg-id="RCNNovelas.co@SD",RCN Novelas (480p)
+http://181.65.191.173:8069/play/a061

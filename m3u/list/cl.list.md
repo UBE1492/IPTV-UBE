@@ -199,5 +199,8 @@
 | 193 | UTalca TV (1080p) | unlimited1-us.dps.live | <https://unlimited1-us.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8> |
 | 194 | Agricultura TV (1080p) | redirector.rudo.video | <https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8> |
 | 195 | TV Chile | xyktmobile00.s.gy | <https://xyktmobile00.s.gy/093_TV_CHILE> |
+| 196 | Canal 13 | xyktmobile00.s.gy | <https://xyktmobile00.s.gy/PPV908_TRECE_CHILE> |
+| 197 | Canal CHV Noticias | xyktmobile00.s.gy | <https://xyktmobile00.s.gy/PPV929_CIV_NOTICIAS> |
+| 198 | TV+ (720p) | IPv4 直链 | <http://190.234.82.52:8000/play/a0lz/index.m3u8> |
 
-Updated at **Sat Sep 26 2026 20:48:48 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Sep 27 2026 04:27:54 GMT+0000 (Coordinated Universal Time)**

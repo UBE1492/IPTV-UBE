@@ -112,5 +112,7 @@
 | 106 | NTN24 (720p) | IPv4 直链 | <http://181.78.12.119:16123/play/ch80/index.m3u8> |
 | 107 | Win Sports (1080p) | IPv4 直链 | <http://181.78.12.119:16123/play/ch18/index.m3u8> |
 | 108 | Win+ Futbol (1080p) | IPv4 直链 | <http://181.78.12.119:16123/play/ch19/index.m3u8> |
+| 109 | NTN24 | xyktmobile00.s.gy | <https://xyktmobile00.s.gy/PPV933_NTNCO> |
+| 110 | RCN Novelas (480p) | IPv4 直链 | <http://181.65.191.173:8069/play/a061> |
 
-Updated at **Sat Sep 26 2026 20:48:49 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Sep 27 2026 04:27:55 GMT+0000 (Coordinated Universal Time)**
