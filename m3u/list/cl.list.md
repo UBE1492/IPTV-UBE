@@ -203,4 +203,4 @@
 | 197 | Canal CHV Noticias | xyktmobile00.s.gy | <https://xyktmobile00.s.gy/PPV929_CIV_NOTICIAS> |
 | 198 | TV+ (720p) | IPv4 直链 | <http://190.234.82.52:8000/play/a0lz/index.m3u8> |
 
-Updated at **Sun Sep 27 2026 11:41:38 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Sep 27 2026 16:39:29 GMT+0000 (Coordinated Universal Time)**

@@ -110,4 +110,4 @@
 | 104 | Azteca 7 (720p) | IPv4 直链 | <http://200.35.176.154:8000/play/a064/index.m3u8> |
 | 105 | Golden (1080p) | IPv4 直链 | <http://181.224.200.5:2277/play/a0do/index.m3u8> |
 
-Updated at **Sun Sep 27 2026 11:41:38 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Sep 27 2026 16:39:29 GMT+0000 (Coordinated Universal Time)**
