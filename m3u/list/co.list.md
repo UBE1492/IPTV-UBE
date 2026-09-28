@@ -123,4 +123,4 @@
 | 117 | Caracol Internacional (1080p) | IPv4 直链 | <http://167.249.23.102:8000/play/a0ax/index.m3u8> |
 | 118 | Noticias RCN | xyktmobile00.s.gy | <https://xyktmobile00.s.gy/PPV937_NUESTRA_TELE> |
 
-Updated at **Mon Sep 28 2026 04:29:09 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Sep 28 2026 13:17:56 GMT+0000 (Coordinated Universal Time)**
