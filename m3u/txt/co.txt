@@ -114,3 +114,11 @@ Win_Sports_(1080p),http://181.78.12.119:16123/play/ch18/index.m3u8
 Win+_Futbol_(1080p),http://181.78.12.119:16123/play/ch19/index.m3u8
 NTN24,https://xyktmobile00.s.gy/PPV933_NTNCO
 RCN_Novelas_(480p),http://181.65.191.173:8069/play/a061
+TVAgro_(720p),http://168.228.44.241:9999/play/a04n/index.m3u8
+Win_Sports_(576p),http://168.228.44.241:9999/play/a050/index.m3u8
+Teleantioquia_(720p),http://38.134.250.110:8000/play/a012/index.m3u8
+Telecaribe_(720p),http://38.134.250.110:8000/play/a013/index.m3u8
+TeleNostalgia_(1080p),http://38.134.250.110:8000/play/a01q/index.m3u8
+Canal_Institucional_(1080p),http://190.61.47.54:8000/play/a00v/index.m3u8
+Caracol_Internacional_(1080p),http://167.249.23.102:8000/play/a0ax/index.m3u8
+Noticias_RCN,https://xyktmobile00.s.gy/PPV937_NUESTRA_TELE

@@ -84,7 +84,6 @@ Canal_26,https://5fe2654d6127d.streamlock.net:443/telemetrika3/_definst_/videote
 UAA_TV_(1080p),https://5fe2654d6127d.streamlock.net:443/uaa2/videouaa2/playlist.m3u8
 Golden_(720p),http://138.121.15.230:9002/GOLDEN/index.m3u8
 Distrito_Comedia_(1080p),http://138.121.15.230:9002/DISTRITO-COMEDIA/index.m3u8
-Las_Estrellas_Latin_America_(1080p),http://138.121.15.230:9002/LAS-ESTRELLAS/index.m3u8
 Golden_Edge_(1080p),http://138.121.15.230:9002/GOLDEN-EDGE/index.m3u8
 Canal_5,https://xyktmobile00.s.gy/PPV903_CANAL_5
 CineLatino,https://xyktmobile00.s.gy/PPV905_CINE_LATINO
@@ -105,3 +104,6 @@ Las_Estrellas_(1080p),http://45.189.151.7:8000/play/a07s
 Canal_5_(576p),http://206.135.11.174:8010/play/a0fl/index.m3u8
 Azteca_7_(720p),http://200.35.176.154:8000/play/a064/index.m3u8
 Golden_(1080p),http://181.224.200.5:2277/play/a0do/index.m3u8
+Claro_Sports_(1080p),http://168.196.127.137:6001/play/a08r/index.m3u8
+MultiPremier_(1080p),http://168.196.127.137:6001/play/a08n/index.m3u8
+De_Pelicula_Plus_(1080p),http://200.115.120.1:8000/play/ca030/index.m3u8

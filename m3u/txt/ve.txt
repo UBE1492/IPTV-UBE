@@ -16,3 +16,6 @@ Venevision_(480p),https://venevision-ioriver-cdn.encoders.immergo.tv/3/streamPla
 Venevisión_Internacional_(720p),https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 Vepaco_TV_(480p),https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
 Wata_Vision,https://live20.bozztv.com/giatv/giatv-watavision/watavision/chunks.m3u8
+Ve_Plus_Panregional_(1080p),http://190.61.114.186:8000/play/a03i/index.m3u8
+ANTV_(720p),http://181.78.8.199:8000/play/a0fo/index.m3u8
+Sun_Channel_(720p),http://168.196.127.137:6001/play/a06p/index.m3u8

@@ -10,7 +10,6 @@ ATB_La_Paz,https://stream.atb.com.bo/live/daniel/index.m3u8
 Audiokiss_(1080p),https://master.tucableip.com/audiokisstv/index.m3u8
 AYNI_TV_(1080p),http://15.204.246.24:8080/AyniTVHD/index.m3u8
 AYNI_TV,https://59d39900ebfb8.streamlock.net/Aynitv/Aynitv/playlist.m3u8
-Bolivia_TV_(1080p),http://15.204.246.24:8080/BoliviaTvHD/index.m3u8
 Bolivision_(1080p),http://15.204.246.24:8080/BolivisionHD/index.m3u8
 Bolivision_Santa_Cruz_(720p),https://d1mws3umreue1g.cloudfront.net/index.m3u8
 Cadena_A_(720p)_[Not_24/7],https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8

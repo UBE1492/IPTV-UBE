@@ -88,26 +88,28 @@
 | 82 | UAA TV (1080p) | 5fe2654d6127d.streamlock.net:443 | <https://5fe2654d6127d.streamlock.net:443/uaa2/videouaa2/playlist.m3u8> |
 | 83 | Golden (720p) | IPv4 直链 | <http://138.121.15.230:9002/GOLDEN/index.m3u8> |
 | 84 | Distrito Comedia (1080p) | IPv4 直链 | <http://138.121.15.230:9002/DISTRITO-COMEDIA/index.m3u8> |
-| 85 | Las Estrellas Latin America (1080p) | IPv4 直链 | <http://138.121.15.230:9002/LAS-ESTRELLAS/index.m3u8> |
-| 86 | Golden Edge (1080p) | IPv4 直链 | <http://138.121.15.230:9002/GOLDEN-EDGE/index.m3u8> |
-| 87 | Canal 5 | xyktmobile00.s.gy | <https://xyktmobile00.s.gy/PPV903_CANAL_5> |
-| 88 | CineLatino | xyktmobile00.s.gy | <https://xyktmobile00.s.gy/PPV905_CINE_LATINO> |
-| 89 | Golden Premier | xyktmobile00.s.gy | <https://xyktmobile00.s.gy/PPV902_GOLDENP1_HD> |
-| 90 | bitMe Latin America | xyktmobile00.s.gy | <https://xyktmobile00.s.gy/PPV913_BITM_JUE> |
-| 91 | CineLatino (720p) | IPv4 直链 | <http://206.135.11.174:8010/play/a0lq/index.m3u8> |
-| 92 | CineLatino (576p) | IPv4 直链 | <http://200.115.96.61:9090/play/a0i5/index.m3u8> |
-| 93 | Golden Premier (1080p) | IPv4 直链 | <http://200.229.147.210:9999/play/a00k/index.m3u8> |
-| 94 | Golden Premier 2 (1080p) | IPv4 直链 | <http://200.229.147.210:9999/play/a00l/index.m3u8> |
-| 95 | bitMe (720p) | IPv4 直链 | <http://181.119.66.28:8081/BITME/index.m3u8> |
-| 96 | bitMe (576p) | IPv4 直链 | <http://200.229.147.210:9999/play/a01y/index.m3u8> |
-| 97 | TeleHit (576p) | IPv4 直链 | <http://200.115.120.1:8000/play/ca048/index.m3u8> |
-| 98 | Bandamax (1080p) | IPv4 直链 | <http://181.78.106.127:5000/play/ca064/index.m3u8> |
-| 99 | De Pelicula Latin America | xyktmobile00.s.gy | <https://xyktmobile00.s.gy/PPV934_DEPELICU> |
-| 100 | De Pelicula Latin America (720p) | IPv4 直链 | <http://181.224.200.5:2277/play/a0d1/index.m3u8> |
-| 101 | Azteca 7 (1080p) | IPv4 直链 | <http://187.245.231.226:8000/play/a0uz/index.m3u8> |
-| 102 | Las Estrellas (1080p) | IPv4 直链 | <http://45.189.151.7:8000/play/a07s> |
-| 103 | Canal 5 (576p) | IPv4 直链 | <http://206.135.11.174:8010/play/a0fl/index.m3u8> |
-| 104 | Azteca 7 (720p) | IPv4 直链 | <http://200.35.176.154:8000/play/a064/index.m3u8> |
-| 105 | Golden (1080p) | IPv4 直链 | <http://181.224.200.5:2277/play/a0do/index.m3u8> |
+| 85 | Golden Edge (1080p) | IPv4 直链 | <http://138.121.15.230:9002/GOLDEN-EDGE/index.m3u8> |
+| 86 | Canal 5 | xyktmobile00.s.gy | <https://xyktmobile00.s.gy/PPV903_CANAL_5> |
+| 87 | CineLatino | xyktmobile00.s.gy | <https://xyktmobile00.s.gy/PPV905_CINE_LATINO> |
+| 88 | Golden Premier | xyktmobile00.s.gy | <https://xyktmobile00.s.gy/PPV902_GOLDENP1_HD> |
+| 89 | bitMe Latin America | xyktmobile00.s.gy | <https://xyktmobile00.s.gy/PPV913_BITM_JUE> |
+| 90 | CineLatino (720p) | IPv4 直链 | <http://206.135.11.174:8010/play/a0lq/index.m3u8> |
+| 91 | CineLatino (576p) | IPv4 直链 | <http://200.115.96.61:9090/play/a0i5/index.m3u8> |
+| 92 | Golden Premier (1080p) | IPv4 直链 | <http://200.229.147.210:9999/play/a00k/index.m3u8> |
+| 93 | Golden Premier 2 (1080p) | IPv4 直链 | <http://200.229.147.210:9999/play/a00l/index.m3u8> |
+| 94 | bitMe (720p) | IPv4 直链 | <http://181.119.66.28:8081/BITME/index.m3u8> |
+| 95 | bitMe (576p) | IPv4 直链 | <http://200.229.147.210:9999/play/a01y/index.m3u8> |
+| 96 | TeleHit (576p) | IPv4 直链 | <http://200.115.120.1:8000/play/ca048/index.m3u8> |
+| 97 | Bandamax (1080p) | IPv4 直链 | <http://181.78.106.127:5000/play/ca064/index.m3u8> |
+| 98 | De Pelicula Latin America | xyktmobile00.s.gy | <https://xyktmobile00.s.gy/PPV934_DEPELICU> |
+| 99 | De Pelicula Latin America (720p) | IPv4 直链 | <http://181.224.200.5:2277/play/a0d1/index.m3u8> |
+| 100 | Azteca 7 (1080p) | IPv4 直链 | <http://187.245.231.226:8000/play/a0uz/index.m3u8> |
+| 101 | Las Estrellas (1080p) | IPv4 直链 | <http://45.189.151.7:8000/play/a07s> |
+| 102 | Canal 5 (576p) | IPv4 直链 | <http://206.135.11.174:8010/play/a0fl/index.m3u8> |
+| 103 | Azteca 7 (720p) | IPv4 直链 | <http://200.35.176.154:8000/play/a064/index.m3u8> |
+| 104 | Golden (1080p) | IPv4 直链 | <http://181.224.200.5:2277/play/a0do/index.m3u8> |
+| 105 | Claro Sports (1080p) | IPv4 直链 | <http://168.196.127.137:6001/play/a08r/index.m3u8> |
+| 106 | MultiPremier (1080p) | IPv4 直链 | <http://168.196.127.137:6001/play/a08n/index.m3u8> |
+| 107 | De Pelicula Plus (1080p) | IPv4 直链 | <http://200.115.120.1:8000/play/ca030/index.m3u8> |
 
-Updated at **Sun Sep 27 2026 21:05:17 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Sep 28 2026 04:29:09 GMT+0000 (Coordinated Universal Time)**

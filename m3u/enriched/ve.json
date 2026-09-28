@@ -1,6 +1,6 @@
 {
   "name": "ve",
-  "updated_at": 1790543118096,
+  "updated_at": 1790569750093,
   "m3u": "https://ube1492.github.io/IPTV-UBE/ve.m3u",
   "channels": [
     {
@@ -99,6 +99,24 @@
     {
       "name": "Wata Vision",
       "url": "https://live20.bozztv.com/giatv/giatv-watavision/watavision/chunks.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Ve Plus Panregional (1080p)",
+      "url": "http://190.61.114.186:8000/play/a03i/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "ANTV (720p)",
+      "url": "http://181.78.8.199:8000/play/a0fo/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Sun Channel (720p)",
+      "url": "http://168.196.127.137:6001/play/a06p/index.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -201,6 +219,24 @@
       {
         "name": "Wata Vision",
         "url": "https://live20.bozztv.com/giatv/giatv-watavision/watavision/chunks.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Ve Plus Panregional (1080p)",
+        "url": "http://190.61.114.186:8000/play/a03i/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "ANTV (720p)",
+        "url": "http://181.78.8.199:8000/play/a0fo/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Sun Channel (720p)",
+        "url": "http://168.196.127.137:6001/play/a06p/index.m3u8",
         "logo": "",
         "category": "Otros"
       }

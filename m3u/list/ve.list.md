@@ -20,5 +20,8 @@
 | 14 | Venevisión Internacional (720p) | vod2live.univtec.com | <https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8> |
 | 15 | Vepaco TV (480p) | cloud.fastchannel.es | <https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8> |
 | 16 | Wata Vision | live20.bozztv.com | <https://live20.bozztv.com/giatv/giatv-watavision/watavision/chunks.m3u8> |
+| 17 | Ve Plus Panregional (1080p) | IPv4 直链 | <http://190.61.114.186:8000/play/a03i/index.m3u8> |
+| 18 | ANTV (720p) | IPv4 直链 | <http://181.78.8.199:8000/play/a0fo/index.m3u8> |
+| 19 | Sun Channel (720p) | IPv4 直链 | <http://168.196.127.137:6001/play/a06p/index.m3u8> |
 
-Updated at **Sun Sep 27 2026 21:05:18 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Sep 28 2026 04:29:10 GMT+0000 (Coordinated Universal Time)**

@@ -159,3 +159,5 @@ http://cdn1tlinkgo.tlink.cl/viax/mono.m3u8
 http://cdn1tlinkgo.tlink.cl/cdo/mono.m3u8
 #EXTINF:-1 tvg-id="Canal13.cl@SD",Canal 13
 https://xyktmobile00.s.gy/PPV908_TRECE_CHILE
+#EXTINF:-1 tvg-id="CanalClaro.cl@SD",Canal Claro (720p)
+http://168.196.127.137:6001/play/a04l/index.m3u8

@@ -1,6 +1,6 @@
 {
   "name": "co",
-  "updated_at": 1790543118376,
+  "updated_at": 1790569749776,
   "m3u": "https://ube1492.github.io/IPTV-UBE/co.m3u",
   "channels": [
     {
@@ -678,6 +678,54 @@
     {
       "name": "RCN Novelas (480p)",
       "url": "http://181.65.191.173:8069/play/a061",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "TVAgro (720p)",
+      "url": "http://168.228.44.241:9999/play/a04n/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Win Sports (576p)",
+      "url": "http://168.228.44.241:9999/play/a050/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Teleantioquia (720p)",
+      "url": "http://38.134.250.110:8000/play/a012/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Telecaribe (720p)",
+      "url": "http://38.134.250.110:8000/play/a013/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "TeleNostalgia (1080p)",
+      "url": "http://38.134.250.110:8000/play/a01q/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Canal Institucional (1080p)",
+      "url": "http://190.61.47.54:8000/play/a00v/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Caracol Internacional (1080p)",
+      "url": "http://167.249.23.102:8000/play/a0ax/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Noticias RCN",
+      "url": "https://xyktmobile00.s.gy/PPV937_NUESTRA_TELE",
       "logo": "",
       "category": "Otros"
     }
@@ -1359,6 +1407,54 @@
       {
         "name": "RCN Novelas (480p)",
         "url": "http://181.65.191.173:8069/play/a061",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "TVAgro (720p)",
+        "url": "http://168.228.44.241:9999/play/a04n/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Win Sports (576p)",
+        "url": "http://168.228.44.241:9999/play/a050/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Teleantioquia (720p)",
+        "url": "http://38.134.250.110:8000/play/a012/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Telecaribe (720p)",
+        "url": "http://38.134.250.110:8000/play/a013/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "TeleNostalgia (1080p)",
+        "url": "http://38.134.250.110:8000/play/a01q/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Canal Institucional (1080p)",
+        "url": "http://190.61.47.54:8000/play/a00v/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Caracol Internacional (1080p)",
+        "url": "http://167.249.23.102:8000/play/a0ax/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Noticias RCN",
+        "url": "https://xyktmobile00.s.gy/PPV937_NUESTRA_TELE",
         "logo": "",
         "category": "Otros"
       }

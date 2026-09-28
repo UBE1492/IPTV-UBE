@@ -1,6 +1,6 @@
 {
   "name": "mx",
-  "updated_at": 1790543117849,
+  "updated_at": 1790569749565,
   "m3u": "https://ube1492.github.io/IPTV-UBE/mx.m3u",
   "channels": [
     {
@@ -511,12 +511,6 @@
       "category": "Otros"
     },
     {
-      "name": "Las Estrellas Latin America (1080p)",
-      "url": "http://138.121.15.230:9002/LAS-ESTRELLAS/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Golden Edge (1080p)",
       "url": "http://138.121.15.230:9002/GOLDEN-EDGE/index.m3u8",
       "logo": "",
@@ -633,6 +627,24 @@
     {
       "name": "Golden (1080p)",
       "url": "http://181.224.200.5:2277/play/a0do/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Claro Sports (1080p)",
+      "url": "http://168.196.127.137:6001/play/a08r/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "MultiPremier (1080p)",
+      "url": "http://168.196.127.137:6001/play/a08n/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "De Pelicula Plus (1080p)",
+      "url": "http://200.115.120.1:8000/play/ca030/index.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -1147,12 +1159,6 @@
         "category": "Otros"
       },
       {
-        "name": "Las Estrellas Latin America (1080p)",
-        "url": "http://138.121.15.230:9002/LAS-ESTRELLAS/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "Golden Edge (1080p)",
         "url": "http://138.121.15.230:9002/GOLDEN-EDGE/index.m3u8",
         "logo": "",
@@ -1269,6 +1275,24 @@
       {
         "name": "Golden (1080p)",
         "url": "http://181.224.200.5:2277/play/a0do/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Claro Sports (1080p)",
+        "url": "http://168.196.127.137:6001/play/a08r/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "MultiPremier (1080p)",
+        "url": "http://168.196.127.137:6001/play/a08n/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "De Pelicula Plus (1080p)",
+        "url": "http://200.115.120.1:8000/play/ca030/index.m3u8",
         "logo": "",
         "category": "Otros"
       }

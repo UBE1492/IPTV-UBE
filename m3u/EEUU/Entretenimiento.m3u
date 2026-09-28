@@ -91,8 +91,6 @@ https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 https://reflect-batv.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1 tvg-id="BATV.us@SD",Bloomfield Access TV Channel 5 (480p)
 https://reflect-batv.cablecast.tv/live-5/live/live.m3u8
-#EXTINF:-1 tvg-id="MeTVToons.us@KMBYLD",Blues TV
-https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
 #EXTINF:-1 tvg-id="BMCHDTV.us@SD",BMC-HD TV (720p)
 https://livestream.telvue.com/belmontmedia4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="BratTV.us@SD",Brat TV (1080p)
@@ -205,15 +203,5 @@ https://yta.unitedteleports.tv/hls/YTA.m3u8
 https://fl1002.bozztv.com/gf-zarintv/index.m3u8
 #EXTINF:-1 tvg-id="ZoomNews.us@SD",Zoom TV Kurdish (720p)
 #EXTVLCOPT:http-referrer=https://zoomnews.info/
-#EXTINF:-1 tvg-id="BloombergTV.us@US",Bloomberg TV (720p)
-https://mumbai-edge.smartplaytv.in/Bloomberg/index.m3u8
-#EXTINF:-1 tvg-id="BloombergTV.us@US",Bloomberg TV (576p)
-https://tvsen6.aynaott.com/bloombergtv/index.m3u8
-#EXTINF:-1 tvg-id="HolaTVLatinAmerica.us@SD",Hola! TV Latin America
-https://xyktmobile00.s.gy/PPV901_HOLA_TV
-#EXTINF:-1 tvg-id="SCorbyTV.us@HD",S Corby TV (480p)
-https://vodcdn.bamboo-cloud.com/livehls/6a9f89be0630445532152563/master.m3u8
-#EXTINF:-1 tvg-id="SMetroTV.us@HD",S Metro TV (360p)
-https://vodcdn.bamboo-cloud.com/livehls/6a9f8b4606304461c50dfe93/master.m3u8
-#EXTINF:-1 tvg-id="WeTV.us@East",We TV (1080p)
-http://23.237.104.106:8080/USA_WE_TV/index.m3u8
+#EXTINF:-1 tvg-id="SemillitasTV.us@SD",Semillitas TV (1080p)
+http://168.196.127.137:6001/play/a04y/index.m3u8

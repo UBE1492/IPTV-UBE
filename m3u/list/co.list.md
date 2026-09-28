@@ -114,5 +114,13 @@
 | 108 | Win+ Futbol (1080p) | IPv4 直链 | <http://181.78.12.119:16123/play/ch19/index.m3u8> |
 | 109 | NTN24 | xyktmobile00.s.gy | <https://xyktmobile00.s.gy/PPV933_NTNCO> |
 | 110 | RCN Novelas (480p) | IPv4 直链 | <http://181.65.191.173:8069/play/a061> |
+| 111 | TVAgro (720p) | IPv4 直链 | <http://168.228.44.241:9999/play/a04n/index.m3u8> |
+| 112 | Win Sports (576p) | IPv4 直链 | <http://168.228.44.241:9999/play/a050/index.m3u8> |
+| 113 | Teleantioquia (720p) | IPv4 直链 | <http://38.134.250.110:8000/play/a012/index.m3u8> |
+| 114 | Telecaribe (720p) | IPv4 直链 | <http://38.134.250.110:8000/play/a013/index.m3u8> |
+| 115 | TeleNostalgia (1080p) | IPv4 直链 | <http://38.134.250.110:8000/play/a01q/index.m3u8> |
+| 116 | Canal Institucional (1080p) | IPv4 直链 | <http://190.61.47.54:8000/play/a00v/index.m3u8> |
+| 117 | Caracol Internacional (1080p) | IPv4 直链 | <http://167.249.23.102:8000/play/a0ax/index.m3u8> |
+| 118 | Noticias RCN | xyktmobile00.s.gy | <https://xyktmobile00.s.gy/PPV937_NUESTRA_TELE> |
 
-Updated at **Sun Sep 27 2026 21:05:18 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Sep 28 2026 04:29:09 GMT+0000 (Coordinated Universal Time)**
