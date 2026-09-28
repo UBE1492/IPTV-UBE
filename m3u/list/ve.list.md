@@ -24,4 +24,4 @@
 | 18 | ANTV (720p) | IPv4 直链 | <http://181.78.8.199:8000/play/a0fo/index.m3u8> |
 | 19 | Sun Channel (720p) | IPv4 直链 | <http://168.196.127.137:6001/play/a06p/index.m3u8> |
 
-Updated at **Mon Sep 28 2026 13:17:57 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Sep 28 2026 23:02:54 GMT+0000 (Coordinated Universal Time)**

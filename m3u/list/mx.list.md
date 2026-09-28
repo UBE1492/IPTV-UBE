@@ -112,4 +112,4 @@
 | 106 | MultiPremier (1080p) | IPv4 直链 | <http://168.196.127.137:6001/play/a08n/index.m3u8> |
 | 107 | De Pelicula Plus (1080p) | IPv4 直链 | <http://200.115.120.1:8000/play/ca030/index.m3u8> |
 
-Updated at **Mon Sep 28 2026 13:17:56 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Sep 28 2026 23:02:54 GMT+0000 (Coordinated Universal Time)**
