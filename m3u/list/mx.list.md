@@ -122,4 +122,4 @@
 | 116 | MC (720p) | IPv4 直链 | <http://45.5.118.152:8000/play/a03r/index.m3u8> |
 | 117 | De Pelicula Latin America (1080p) | IPv4 直链 | <http://190.60.55.141:9083/play/a0nf/index.m3u8> |
 
-Updated at **Tue Sep 29 2026 12:24:40 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Sep 29 2026 22:01:36 GMT+0000 (Coordinated Universal Time)**

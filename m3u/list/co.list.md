@@ -129,4 +129,4 @@
 | 123 | Canal 1 (720p) | IPv4 直链 | <http://38.134.250.110:8000/play/a014/index.m3u8> |
 | 124 | Canal Capital (720p) | IPv4 直链 | <http://190.61.47.54:8000/play/a00x/index.m3u8> |
 
-Updated at **Tue Sep 29 2026 12:24:40 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Sep 29 2026 22:01:36 GMT+0000 (Coordinated Universal Time)**
