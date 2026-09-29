@@ -301,4 +301,4 @@
 | 295 | Lifetime Latin America (1080p) | IPv4 直链 | <http://187.102.208.209:8000/play/a0ad/index.m3u8> |
 | 296 | Pasiones Latin America (1080p) | IPv4 直链 | <http://190.60.55.141:9083/play/a0ni/index.m3u8> |
 
-Updated at **Tue Sep 29 2026 04:58:23 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Sep 29 2026 12:24:40 GMT+0000 (Coordinated Universal Time)**

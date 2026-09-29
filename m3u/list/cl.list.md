@@ -206,4 +206,4 @@
 | 200 | Canal Claro (720p) | IPv4 直链 | <http://168.196.127.137:6001/play/a04l/index.m3u8> |
 | 201 | TV Chile (576p) | IPv4 直链 | <http://38.252.238.18:8000/play/a04b/index.m3u8> |
 
-Updated at **Tue Sep 29 2026 04:58:22 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Sep 29 2026 12:24:39 GMT+0000 (Coordinated Universal Time)**
