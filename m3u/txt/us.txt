@@ -219,7 +219,6 @@ Universal_Comedy_(1080p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0
 Universal_TV_Latin_America_(1080p),http://15.204.246.24:8080/UniversalHD/index.m3u8
 Univision_(1080p),http://190.197.41.183/Univision/index.m3u8
 Univision_Tlnovelas_(1080p),http://45.6.4.35/TELENOVELAS/index.m3u8
-USA_Network_(1080p),http://190.11.225.124:5000/live/usa_hd/playlist.m3u8
 USA_Network_Latin_America_(1080p),http://138.121.15.230:9002/USA/index.m3u8
 WGN-DT1_(720p),http://23.237.104.106:8080/USA_WGN/index.m3u8
 WGTV-DT3_(1080p),https://wgtvdt3.lls.pbs.org/wgtvdt3-cmaf-hls.m3u8
@@ -289,3 +288,17 @@ Telemundo_Internacional_(1080p),http://168.196.127.137:6001/play/a05t/index.m3u8
 Telemundo_WKAQ-TV_(1080p),https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
 Semillitas_TV_(1080p),http://168.196.127.137:6001/play/a04y/index.m3u8
 BabyFirst_Spanish_(1080p),http://168.196.127.137:6001/play/a06j/index.m3u8
+DHE_(1080p),http://38.252.238.18:8000/play/a01f/index.m3u8
+DSports_(1080p),http://38.187.7.252:8000/play/a03d/index.m3u8
+ESNE_TV_(720p),http://168.196.127.137:6001/play/a071/index.m3u8
+Hola!_TV_Latin_America_(1080p),http://168.196.127.137:6001/play/a03q/index.m3u8
+AXN_Latin_America_Andes_(1080p),http://181.78.8.199:8000/play/a0cu/index.m3u8
+Sony_Movies_Latin_America_(1080p),http://38.252.238.18:8000/play/a01e/index.m3u8
+FX_Latin_America_(1080p),http://38.252.238.18:8000/play/a01c/index.m3u8
+Golf_Channel_Latin_America_(1080p),http://38.252.238.18:8000/play/a01i/index.m3u8
+Smithsonian_Channel_Asia_[Geo-blocked],https://xyktmobile00.s.gy/PPV940_SMITHSONIAN
+Telemundo_West,https://xyktmobile00.s.gy/PPV943_CANAL27_ESAL
+NBA_TV_(720p),http://rezofoot.tv/NBATV/index.m3u8
+EWTN_Spain_&_Latin_America_(576p),http://187.102.208.209:8000/play/a0ac/index.m3u8
+Lifetime_Latin_America_(1080p),http://187.102.208.209:8000/play/a0ad/index.m3u8
+Pasiones_Latin_America_(1080p),http://190.60.55.141:9083/play/a0ni/index.m3u8

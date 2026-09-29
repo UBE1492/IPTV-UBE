@@ -41,3 +41,5 @@ https://rpn.bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8
 https://cdn.whiplash.cc/whiplash-cinema/index.m3u8
 #EXTINF:-1 tvg-id="UniversalCinema.us@SD",Universal Cinema (1080p)
 http://45.167.1.138:8000/play/a06m
+#EXTINF:-1 tvg-id="SonyMoviesLatinAmerica.us@SD",Sony Movies Latin America (1080p)
+http://38.252.238.18:8000/play/a01e/index.m3u8

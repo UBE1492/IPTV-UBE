@@ -23,5 +23,8 @@
 | 17 | Ve Plus Panregional (1080p) | IPv4 直链 | <http://190.61.114.186:8000/play/a03i/index.m3u8> |
 | 18 | ANTV (720p) | IPv4 直链 | <http://181.78.8.199:8000/play/a0fo/index.m3u8> |
 | 19 | Sun Channel (720p) | IPv4 直链 | <http://168.196.127.137:6001/play/a06p/index.m3u8> |
+| 20 | Televen (1080p) | IPv4 直链 | <http://38.134.250.110:8000/play/a02i/index.m3u8> |
+| 21 | Ve Plus (720p) | IPv4 直链 | <http://186.148.196.100:8000/play/a01d> |
+| 22 | Telesur (1080p) | IPv4 直链 | <http://181.78.211.244:8005/play/a0cc/index.m3u8> |
 
-Updated at **Mon Sep 28 2026 23:02:54 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Sep 29 2026 04:58:23 GMT+0000 (Coordinated Universal Time)**

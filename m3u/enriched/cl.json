@@ -1,6 +1,6 @@
 {
   "name": "cl",
-  "updated_at": 1790636573875,
+  "updated_at": 1790657902910,
   "m3u": "https://ube1492.github.io/IPTV-UBE/cl.m3u",
   "channels": [
     {
@@ -1206,6 +1206,12 @@
     {
       "name": "Canal Claro (720p)",
       "url": "http://168.196.127.137:6001/play/a04l/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "TV Chile (576p)",
+      "url": "http://38.252.238.18:8000/play/a04b/index.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -2415,6 +2421,12 @@
       {
         "name": "Canal Claro (720p)",
         "url": "http://168.196.127.137:6001/play/a04l/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "TV Chile (576p)",
+        "url": "http://38.252.238.18:8000/play/a04b/index.m3u8",
         "logo": "",
         "category": "Otros"
       }

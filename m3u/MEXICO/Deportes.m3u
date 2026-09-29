@@ -17,3 +17,9 @@ http://200.229.147.210:9999/play/a00l/index.m3u8
 http://181.224.200.5:2277/play/a0do/index.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx@SD",Claro Sports (1080p)
 http://168.196.127.137:6001/play/a08r/index.m3u8
+#EXTINF:-1 tvg-id="AyMSports.mx@SD",AyM Sports (1080p)
+http://168.196.127.137:6001/play/a06v/index.m3u8
+#EXTINF:-1 tvg-id="PXSports.mx@SD",PX Sports (1080p)
+http://38.252.238.18:8000/play/a02f/index.m3u8
+#EXTINF:-1 tvg-id="GoldenPlus.mx@SD",Golden Plus (1080p)
+http://45.5.118.152:8000/play/a03p/index.m3u8

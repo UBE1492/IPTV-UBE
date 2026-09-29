@@ -122,5 +122,7 @@
 | 116 | Clan (1080p) | lge-lgla2.otteravision.com | <https://lge-lgla2.otteravision.com/lge/lgcla/lgcla.m3u8> |
 | 117 | Tac12 | ingest1-video.streaming-pro.com | <https://ingest1-video.streaming-pro.com/tac12_ABR/stream/tacdotze/srtweb_1080/chunks.m3u8> |
 | 118 | Clan Internacional | xyktmobile00.s.gy | <https://xyktmobile00.s.gy/PPV906_CLAN_INTE> |
+| 119 | TVE Star HD (1080p) | IPv4 直链 | <http://38.252.238.18:8000/play/a01h/index.m3u8> |
+| 120 | Antena 3 Internacional (1080p) | IPv4 直链 | <http://38.252.238.18:8000/play/a04a/index.m3u8> |
 
-Updated at **Mon Sep 28 2026 23:02:54 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Sep 29 2026 04:58:23 GMT+0000 (Coordinated Universal Time)**

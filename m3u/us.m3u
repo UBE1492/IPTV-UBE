@@ -439,8 +439,6 @@ http://15.204.246.24:8080/UniversalHD/index.m3u8
 http://190.197.41.183/Univision/index.m3u8
 #EXTINF:-1 tvg-id="UnivisionTlnovelas.us@SD",Univision Tlnovelas (1080p)
 http://45.6.4.35/TELENOVELAS/index.m3u8
-#EXTINF:-1 tvg-id="USANetwork.us@East",USA Network (1080p)
-http://190.11.225.124:5000/live/usa_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="USANetworkLatinAmerica.us@Panregional",USA Network Latin America (1080p)
 http://138.121.15.230:9002/USA/index.m3u8
 #EXTINF:-1 tvg-id="WGNDT1.us@SD",WGN-DT1 (720p)
@@ -579,3 +577,31 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1
 http://168.196.127.137:6001/play/a04y/index.m3u8
 #EXTINF:-1 tvg-id="BabyFirst.us@Spanish",BabyFirst Spanish (1080p)
 http://168.196.127.137:6001/play/a06j/index.m3u8
+#EXTINF:-1 tvg-id="DHE.us@SD",DHE (1080p)
+http://38.252.238.18:8000/play/a01f/index.m3u8
+#EXTINF:-1 tvg-id="DSports.us@Panregional",DSports (1080p)
+http://38.187.7.252:8000/play/a03d/index.m3u8
+#EXTINF:-1 tvg-id="ESNETV.us@SD",ESNE TV (720p)
+http://168.196.127.137:6001/play/a071/index.m3u8
+#EXTINF:-1 tvg-id="HolaTVLatinAmerica.us@SD",Hola! TV Latin America (1080p)
+http://168.196.127.137:6001/play/a03q/index.m3u8
+#EXTINF:-1 tvg-id="AXNLatinAmerica.us@Andes",AXN Latin America Andes (1080p)
+http://181.78.8.199:8000/play/a0cu/index.m3u8
+#EXTINF:-1 tvg-id="SonyMoviesLatinAmerica.us@SD",Sony Movies Latin America (1080p)
+http://38.252.238.18:8000/play/a01e/index.m3u8
+#EXTINF:-1 tvg-id="FXLatinAmerica.us@Panregional",FX Latin America (1080p)
+http://38.252.238.18:8000/play/a01c/index.m3u8
+#EXTINF:-1 tvg-id="GolfChannelLatinAmerica.us@SD",Golf Channel Latin America (1080p)
+http://38.252.238.18:8000/play/a01i/index.m3u8
+#EXTINF:-1 tvg-id="SmithsonianChannelAsia.us@SD",Smithsonian Channel Asia [Geo-blocked]
+https://xyktmobile00.s.gy/PPV940_SMITHSONIAN
+#EXTINF:-1 tvg-id="Telemundo.us@West",Telemundo West
+https://xyktmobile00.s.gy/PPV943_CANAL27_ESAL
+#EXTINF:-1 tvg-id="NBATV.us@SD",NBA TV (720p)
+http://rezofoot.tv/NBATV/index.m3u8
+#EXTINF:-1 tvg-id="EWTN.us@SpainLatinAmerica",EWTN Spain & Latin America (576p)
+http://187.102.208.209:8000/play/a0ac/index.m3u8
+#EXTINF:-1 tvg-id="LifetimeLatinAmerica.us@Panregional",Lifetime Latin America (1080p)
+http://187.102.208.209:8000/play/a0ad/index.m3u8
+#EXTINF:-1 tvg-id="PasionesLatinAmerica.us@SD",Pasiones Latin America (1080p)
+http://190.60.55.141:9083/play/a0ni/index.m3u8

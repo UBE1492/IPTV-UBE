@@ -40,7 +40,7 @@
 | 34 | Canal Womtv (720p) | live.amelbatv.co:81 | <https://live.amelbatv.co:81/womtvlive/index.m3u8> |
 | 35 | Canica TV (240p) | stmv4.voxtvhd.com.br | <https://stmv4.voxtvhd.com.br/canicatv/canicatv/playlist.m3u8> |
 | 36 | Caracol HD2 (1080p) | IPv4 直链 | <http://181.78.14.26:4000/play/a00d/index.m3u8> |
-| 37 | Caracol TV (1080p) | IPv4 直链 | <http://45.171.108.253:8888/CARACOL/index.m3u8> |
+| 37 | Caracol TV (1080p) | IPv4 直链 | <http://138.121.15.230:9002/CARACOL/index.m3u8> |
 | 38 | Citytv Bogota (1080p) | IPv4 直链 | <http://138.121.15.230:9002/CITY-TV/index.m3u8> |
 | 39 | CMB Television (1080p) | cdn1.cmbcolombia.tv | <https://cdn1.cmbcolombia.tv/bethesda/video.m3u8> |
 | 40 | CNC Bugavisión (720p) | movil.ejeserver.com | <https://movil.ejeserver.com/live/cncbuga.m3u8> |
@@ -122,5 +122,11 @@
 | 116 | Canal Institucional (1080p) | IPv4 直链 | <http://190.61.47.54:8000/play/a00v/index.m3u8> |
 | 117 | Caracol Internacional (1080p) | IPv4 直链 | <http://167.249.23.102:8000/play/a0ax/index.m3u8> |
 | 118 | Noticias RCN | xyktmobile00.s.gy | <https://xyktmobile00.s.gy/PPV937_NUESTRA_TELE> |
+| 119 | Trece (1080p) | IPv4 直链 | <http://190.60.46.228:8888/play/a030/index.m3u8> |
+| 120 | Star Channel (1080p) | IPv4 直链 | <http://190.61.47.54:8000/play/a035/index.m3u8> |
+| 121 | Teleislas (720p) | IPv4 直链 | <http://190.61.47.54:8000/play/a015/index.m3u8> |
+| 122 | Teleislas (576p) | IPv4 直链 | <http://181.78.211.244:8005/play/a08d/index.m3u8> |
+| 123 | Canal 1 (720p) | IPv4 直链 | <http://38.134.250.110:8000/play/a014/index.m3u8> |
+| 124 | Canal Capital (720p) | IPv4 直链 | <http://190.61.47.54:8000/play/a00x/index.m3u8> |
 
-Updated at **Mon Sep 28 2026 23:02:54 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Sep 29 2026 04:58:23 GMT+0000 (Coordinated Universal Time)**

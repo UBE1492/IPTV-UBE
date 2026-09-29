@@ -1,6 +1,6 @@
 {
   "name": "ec",
-  "updated_at": 1790636573737,
+  "updated_at": 1790657903052,
   "m3u": "https://ube1492.github.io/IPTV-UBE/ec.m3u",
   "channels": [
     {
@@ -327,6 +327,12 @@
     {
       "name": "Studio + TV (1080p)",
       "url": "https://vd01.streaminghd.net.ar:3113/hybrid/play.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Ecuador TV (720p)",
+      "url": "http://38.44.109.41:8003/play/a0e9/index.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -657,6 +663,12 @@
       {
         "name": "Studio + TV (1080p)",
         "url": "https://vd01.streaminghd.net.ar:3113/hybrid/play.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Ecuador TV (720p)",
+        "url": "http://38.44.109.41:8003/play/a0e9/index.m3u8",
         "logo": "",
         "category": "Otros"
       }

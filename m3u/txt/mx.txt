@@ -107,3 +107,13 @@ Golden_(1080p),http://181.224.200.5:2277/play/a0do/index.m3u8
 Claro_Sports_(1080p),http://168.196.127.137:6001/play/a08r/index.m3u8
 MultiPremier_(1080p),http://168.196.127.137:6001/play/a08n/index.m3u8
 De_Pelicula_Plus_(1080p),http://200.115.120.1:8000/play/ca030/index.m3u8
+AyM_Sports_(1080p),http://168.196.127.137:6001/play/a06v/index.m3u8
+MC_(1080p),http://168.196.127.137:6001/play/a070/index.m3u8
+Az_Clic_(1080p),http://38.252.238.18:8000/play/a01g/index.m3u8
+PX_Sports_(1080p),http://38.252.238.18:8000/play/a02f/index.m3u8
+Las_Estrellas_Latin_America_(1080p),http://38.44.109.41:8003/play/a0he
+TUDN_(576p),http://45.5.118.152:8000/play/a08n/index.m3u8
+Canal_5_XET-TDT_(1080p),http://45.5.118.152:8000/play/a03i/index.m3u8
+Golden_Plus_(1080p),http://45.5.118.152:8000/play/a03p/index.m3u8
+MC_(720p),http://45.5.118.152:8000/play/a03r/index.m3u8
+De_Pelicula_Latin_America_(1080p),http://190.60.55.141:9083/play/a0nf/index.m3u8

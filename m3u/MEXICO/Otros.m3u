@@ -97,3 +97,15 @@ http://206.135.11.174:8010/play/a0fl/index.m3u8
 http://200.35.176.154:8000/play/a064/index.m3u8
 #EXTINF:-1 tvg-id="MultiPremier.mx@SD",MultiPremier (1080p)
 http://168.196.127.137:6001/play/a08n/index.m3u8
+#EXTINF:-1 tvg-id="MC.mx@SD",MC (1080p)
+http://168.196.127.137:6001/play/a070/index.m3u8
+#EXTINF:-1 tvg-id="AzClic.mx@SD",Az Clic (1080p)
+http://38.252.238.18:8000/play/a01g/index.m3u8
+#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx@SD",Las Estrellas Latin America (1080p)
+http://38.44.109.41:8003/play/a0he
+#EXTINF:-1 tvg-id="TUDN.mx@SD",TUDN (576p)
+http://45.5.118.152:8000/play/a08n/index.m3u8
+#EXTINF:-1 tvg-id="Canal5.mx@XETTDT",Canal 5 XET-TDT (1080p)
+http://45.5.118.152:8000/play/a03i/index.m3u8
+#EXTINF:-1 tvg-id="MC.mx@SD",MC (720p)
+http://45.5.118.152:8000/play/a03r/index.m3u8

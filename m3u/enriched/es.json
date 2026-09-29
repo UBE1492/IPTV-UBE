@@ -1,6 +1,6 @@
 {
   "name": "es",
-  "updated_at": 1790636574497,
+  "updated_at": 1790657903150,
   "m3u": "https://ube1492.github.io/IPTV-UBE/es.m3u",
   "channels": [
     {
@@ -782,12 +782,18 @@
     },
     {
       "name": "TVE Internacional Asia-Oceania",
-      "url": "",
+      "url": "#EXTINF:-1 tvg-id=\"TVEStar.es@HD\",TVE Star HD (1080p)",
       "logo": "",
       "category": "Otros",
       "options": {
         "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
       }
+    },
+    {
+      "name": "Antena 3 Internacional (1080p)",
+      "url": "http://38.252.238.18:8000/play/a04a/index.m3u8",
+      "logo": "",
+      "category": "Otros"
     }
   ],
   "categories": {
@@ -1571,12 +1577,18 @@
       },
       {
         "name": "TVE Internacional Asia-Oceania",
-        "url": "",
+        "url": "#EXTINF:-1 tvg-id=\"TVEStar.es@HD\",TVE Star HD (1080p)",
         "logo": "",
         "category": "Otros",
         "options": {
           "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "Antena 3 Internacional (1080p)",
+        "url": "http://38.252.238.18:8000/play/a04a/index.m3u8",
+        "logo": "",
+        "category": "Otros"
       }
     ]
   }

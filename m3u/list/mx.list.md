@@ -111,5 +111,15 @@
 | 105 | Claro Sports (1080p) | IPv4 直链 | <http://168.196.127.137:6001/play/a08r/index.m3u8> |
 | 106 | MultiPremier (1080p) | IPv4 直链 | <http://168.196.127.137:6001/play/a08n/index.m3u8> |
 | 107 | De Pelicula Plus (1080p) | IPv4 直链 | <http://200.115.120.1:8000/play/ca030/index.m3u8> |
+| 108 | AyM Sports (1080p) | IPv4 直链 | <http://168.196.127.137:6001/play/a06v/index.m3u8> |
+| 109 | MC (1080p) | IPv4 直链 | <http://168.196.127.137:6001/play/a070/index.m3u8> |
+| 110 | Az Clic (1080p) | IPv4 直链 | <http://38.252.238.18:8000/play/a01g/index.m3u8> |
+| 111 | PX Sports (1080p) | IPv4 直链 | <http://38.252.238.18:8000/play/a02f/index.m3u8> |
+| 112 | Las Estrellas Latin America (1080p) | IPv4 直链 | <http://38.44.109.41:8003/play/a0he> |
+| 113 | TUDN (576p) | IPv4 直链 | <http://45.5.118.152:8000/play/a08n/index.m3u8> |
+| 114 | Canal 5 XET-TDT (1080p) | IPv4 直链 | <http://45.5.118.152:8000/play/a03i/index.m3u8> |
+| 115 | Golden Plus (1080p) | IPv4 直链 | <http://45.5.118.152:8000/play/a03p/index.m3u8> |
+| 116 | MC (720p) | IPv4 直链 | <http://45.5.118.152:8000/play/a03r/index.m3u8> |
+| 117 | De Pelicula Latin America (1080p) | IPv4 直链 | <http://190.60.55.141:9083/play/a0nf/index.m3u8> |
 
-Updated at **Mon Sep 28 2026 23:02:54 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Sep 29 2026 04:58:22 GMT+0000 (Coordinated Universal Time)**

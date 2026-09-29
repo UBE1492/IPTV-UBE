@@ -1,6 +1,6 @@
 {
   "name": "co",
-  "updated_at": 1790636574310,
+  "updated_at": 1790657903317,
   "m3u": "https://ube1492.github.io/IPTV-UBE/co.m3u",
   "channels": [
     {
@@ -224,7 +224,7 @@
     },
     {
       "name": "Caracol TV (1080p)",
-      "url": "http://45.171.108.253:8888/CARACOL/index.m3u8",
+      "url": "http://138.121.15.230:9002/CARACOL/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -728,6 +728,42 @@
       "url": "https://xyktmobile00.s.gy/PPV937_NUESTRA_TELE",
       "logo": "",
       "category": "Otros"
+    },
+    {
+      "name": "Trece (1080p)",
+      "url": "http://190.60.46.228:8888/play/a030/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Star Channel (1080p)",
+      "url": "http://190.61.47.54:8000/play/a035/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Teleislas (720p)",
+      "url": "http://190.61.47.54:8000/play/a015/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Teleislas (576p)",
+      "url": "http://181.78.211.244:8005/play/a08d/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Canal 1 (720p)",
+      "url": "http://38.134.250.110:8000/play/a014/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Canal Capital (720p)",
+      "url": "http://190.61.47.54:8000/play/a00x/index.m3u8",
+      "logo": "",
+      "category": "Otros"
     }
   ],
   "categories": {
@@ -953,7 +989,7 @@
       },
       {
         "name": "Caracol TV (1080p)",
-        "url": "http://45.171.108.253:8888/CARACOL/index.m3u8",
+        "url": "http://138.121.15.230:9002/CARACOL/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -1455,6 +1491,42 @@
       {
         "name": "Noticias RCN",
         "url": "https://xyktmobile00.s.gy/PPV937_NUESTRA_TELE",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Trece (1080p)",
+        "url": "http://190.60.46.228:8888/play/a030/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Star Channel (1080p)",
+        "url": "http://190.61.47.54:8000/play/a035/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Teleislas (720p)",
+        "url": "http://190.61.47.54:8000/play/a015/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Teleislas (576p)",
+        "url": "http://181.78.211.244:8005/play/a08d/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Canal 1 (720p)",
+        "url": "http://38.134.250.110:8000/play/a014/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Canal Capital (720p)",
+        "url": "http://190.61.47.54:8000/play/a00x/index.m3u8",
         "logo": "",
         "category": "Otros"
       }
