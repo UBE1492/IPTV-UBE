@@ -27,4 +27,4 @@
 | 21 | Ve Plus (720p) | IPv4 直链 | <http://186.148.196.100:8000/play/a01d> |
 | 22 | Telesur (1080p) | IPv4 直链 | <http://181.78.211.244:8005/play/a0cc/index.m3u8> |
 
-Updated at **Wed Sep 30 2026 04:45:04 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Sep 30 2026 12:09:46 GMT+0000 (Coordinated Universal Time)**

@@ -123,4 +123,4 @@
 | 117 | De Pelicula Latin America (1080p) | IPv4 直链 | <http://190.60.55.141:9083/play/a0nf/index.m3u8> |
 | 118 | Tlnovelas Mexico (1080p) | IPv4 直链 | <http://167.249.23.102:8000/play/a0g8/index.m3u8> |
 
-Updated at **Wed Sep 30 2026 04:45:03 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Sep 30 2026 12:09:45 GMT+0000 (Coordinated Universal Time)**

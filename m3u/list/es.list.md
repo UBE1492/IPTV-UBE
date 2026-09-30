@@ -125,4 +125,4 @@
 | 119 | TVE Star HD (1080p) | IPv4 直链 | <http://38.252.238.18:8000/play/a01h/index.m3u8> |
 | 120 | Antena 3 Internacional (1080p) | IPv4 直链 | <http://38.252.238.18:8000/play/a04a/index.m3u8> |
 
-Updated at **Wed Sep 30 2026 04:45:03 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Sep 30 2026 12:09:45 GMT+0000 (Coordinated Universal Time)**

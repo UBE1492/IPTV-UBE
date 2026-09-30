@@ -307,4 +307,4 @@
 | 301 | DSports 2 (1080p) | IPv4 直链 | <http://187.102.208.209:8000/play/a0bq/index.m3u8> |
 | 302 | UniMas WAMI-DT (1080p) | IPv4 直链 | <http://190.197.41.183/Unimas/index.m3u8> |
 
-Updated at **Wed Sep 30 2026 04:45:03 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Sep 30 2026 12:09:45 GMT+0000 (Coordinated Universal Time)**
