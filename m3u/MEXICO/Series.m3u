@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TlnovelasLatinAmerica.mx@SD",Tlnovelas Latin America (1080p)
 http://209.14.115.253:8081/TELENOVELAS/index.m3u8
+#EXTINF:-1 tvg-id="TlnovelasMexico.mx@SD",Tlnovelas Mexico (1080p)
+http://167.249.23.102:8000/play/a0g8/index.m3u8

@@ -43,3 +43,9 @@ https://cdn.whiplash.cc/whiplash-cinema/index.m3u8
 http://45.167.1.138:8000/play/a06m
 #EXTINF:-1 tvg-id="SonyMoviesLatinAmerica.us@SD",Sony Movies Latin America (1080p)
 http://38.252.238.18:8000/play/a01e/index.m3u8
+#EXTINF:-1 tvg-id="CinemaxAction.us@EastHD",Cinemax Action East HD (1080p)
+https://sra72yz.s.gy/CINEMAX_ACTION_EAST_HD.m3u8
+#EXTINF:-1 tvg-id="HBODrama.us@West",HBO Drama West (1080p)
+https://sra72yz.s.gy/HBO_DRAMA_WEST_HD.m3u8
+#EXTINF:-1 tvg-id="HBOHits.us@WestHD",HBO Hits West HD (1080p)
+https://sra72yz.s.gy/HBO_HITS_WEST_HD.m3u8

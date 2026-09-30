@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1790719296759,
+  "updated_at": 1790743503953,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -1800,6 +1800,42 @@
     {
       "name": "Pasiones Latin America (1080p)",
       "url": "http://190.60.55.141:9083/play/a0ni/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Cinemax Action East HD (1080p)",
+      "url": "https://sra72yz.s.gy/CINEMAX_ACTION_EAST_HD.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "HBO Drama West (1080p)",
+      "url": "https://sra72yz.s.gy/HBO_DRAMA_WEST_HD.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "HBO Hits West HD (1080p)",
+      "url": "https://sra72yz.s.gy/HBO_HITS_WEST_HD.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Discovery Turbo (1080p)",
+      "url": "https://sra72yz.s.gy/DISCOVERY_TURBO.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "DSports 2 (1080p)",
+      "url": "http://187.102.208.209:8000/play/a0bq/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "UniMas WAMI-DT (1080p)",
+      "url": "http://190.197.41.183/Unimas/index.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -3603,6 +3639,42 @@
       {
         "name": "Pasiones Latin America (1080p)",
         "url": "http://190.60.55.141:9083/play/a0ni/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Cinemax Action East HD (1080p)",
+        "url": "https://sra72yz.s.gy/CINEMAX_ACTION_EAST_HD.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "HBO Drama West (1080p)",
+        "url": "https://sra72yz.s.gy/HBO_DRAMA_WEST_HD.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "HBO Hits West HD (1080p)",
+        "url": "https://sra72yz.s.gy/HBO_HITS_WEST_HD.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Discovery Turbo (1080p)",
+        "url": "https://sra72yz.s.gy/DISCOVERY_TURBO.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "DSports 2 (1080p)",
+        "url": "http://187.102.208.209:8000/play/a0bq/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "UniMas WAMI-DT (1080p)",
+        "url": "http://190.197.41.183/Unimas/index.m3u8",
         "logo": "",
         "category": "Otros"
       }

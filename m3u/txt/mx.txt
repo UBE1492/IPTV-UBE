@@ -117,3 +117,4 @@ Canal_5_XET-TDT_(1080p),http://45.5.118.152:8000/play/a03i/index.m3u8
 Golden_Plus_(1080p),http://45.5.118.152:8000/play/a03p/index.m3u8
 MC_(720p),http://45.5.118.152:8000/play/a03r/index.m3u8
 De_Pelicula_Latin_America_(1080p),http://190.60.55.141:9083/play/a0nf/index.m3u8
+Tlnovelas_Mexico_(1080p),http://167.249.23.102:8000/play/a0g8/index.m3u8

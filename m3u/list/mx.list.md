@@ -121,5 +121,6 @@
 | 115 | Golden Plus (1080p) | IPv4 直链 | <http://45.5.118.152:8000/play/a03p/index.m3u8> |
 | 116 | MC (720p) | IPv4 直链 | <http://45.5.118.152:8000/play/a03r/index.m3u8> |
 | 117 | De Pelicula Latin America (1080p) | IPv4 直链 | <http://190.60.55.141:9083/play/a0nf/index.m3u8> |
+| 118 | Tlnovelas Mexico (1080p) | IPv4 直链 | <http://167.249.23.102:8000/play/a0g8/index.m3u8> |
 
-Updated at **Tue Sep 29 2026 22:01:36 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Sep 30 2026 04:45:03 GMT+0000 (Coordinated Universal Time)**

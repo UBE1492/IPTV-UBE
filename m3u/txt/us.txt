@@ -302,3 +302,9 @@ NBA_TV_(720p),http://rezofoot.tv/NBATV/index.m3u8
 EWTN_Spain_&_Latin_America_(576p),http://187.102.208.209:8000/play/a0ac/index.m3u8
 Lifetime_Latin_America_(1080p),http://187.102.208.209:8000/play/a0ad/index.m3u8
 Pasiones_Latin_America_(1080p),http://190.60.55.141:9083/play/a0ni/index.m3u8
+Cinemax_Action_East_HD_(1080p),https://sra72yz.s.gy/CINEMAX_ACTION_EAST_HD.m3u8
+HBO_Drama_West_(1080p),https://sra72yz.s.gy/HBO_DRAMA_WEST_HD.m3u8
+HBO_Hits_West_HD_(1080p),https://sra72yz.s.gy/HBO_HITS_WEST_HD.m3u8
+Discovery_Turbo_(1080p),https://sra72yz.s.gy/DISCOVERY_TURBO.m3u8
+DSports_2_(1080p),http://187.102.208.209:8000/play/a0bq/index.m3u8
+UniMas_WAMI-DT_(1080p),http://190.197.41.183/Unimas/index.m3u8

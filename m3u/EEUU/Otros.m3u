@@ -253,3 +253,5 @@ http://38.252.238.18:8000/play/a01c/index.m3u8
 https://xyktmobile00.s.gy/PPV940_SMITHSONIAN
 #EXTINF:-1 tvg-id="PasionesLatinAmerica.us@SD",Pasiones Latin America (1080p)
 http://190.60.55.141:9083/play/a0ni/index.m3u8
+#EXTINF:-1 tvg-id="UniMas.us@WAMIDT",UniMas WAMI-DT (1080p)
+http://190.197.41.183/Unimas/index.m3u8

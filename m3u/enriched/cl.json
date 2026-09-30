@@ -1,6 +1,6 @@
 {
   "name": "cl",
-  "updated_at": 1790719296418,
+  "updated_at": 1790743503628,
   "m3u": "https://ube1492.github.io/IPTV-UBE/cl.m3u",
   "channels": [
     {
@@ -1212,6 +1212,12 @@
     {
       "name": "TV Chile (576p)",
       "url": "http://38.252.238.18:8000/play/a04b/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Zona Sur TV (1080p)",
+      "url": "http://170.79.235.133:8002/play/a063/index.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -2427,6 +2433,12 @@
       {
         "name": "TV Chile (576p)",
         "url": "http://38.252.238.18:8000/play/a04b/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Zona Sur TV (1080p)",
+        "url": "http://170.79.235.133:8002/play/a063/index.m3u8",
         "logo": "",
         "category": "Otros"
       }

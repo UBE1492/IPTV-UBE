@@ -300,5 +300,11 @@
 | 294 | EWTN Spain & Latin America (576p) | IPv4 直链 | <http://187.102.208.209:8000/play/a0ac/index.m3u8> |
 | 295 | Lifetime Latin America (1080p) | IPv4 直链 | <http://187.102.208.209:8000/play/a0ad/index.m3u8> |
 | 296 | Pasiones Latin America (1080p) | IPv4 直链 | <http://190.60.55.141:9083/play/a0ni/index.m3u8> |
+| 297 | Cinemax Action East HD (1080p) | sra72yz.s.gy | <https://sra72yz.s.gy/CINEMAX_ACTION_EAST_HD.m3u8> |
+| 298 | HBO Drama West (1080p) | sra72yz.s.gy | <https://sra72yz.s.gy/HBO_DRAMA_WEST_HD.m3u8> |
+| 299 | HBO Hits West HD (1080p) | sra72yz.s.gy | <https://sra72yz.s.gy/HBO_HITS_WEST_HD.m3u8> |
+| 300 | Discovery Turbo (1080p) | sra72yz.s.gy | <https://sra72yz.s.gy/DISCOVERY_TURBO.m3u8> |
+| 301 | DSports 2 (1080p) | IPv4 直链 | <http://187.102.208.209:8000/play/a0bq/index.m3u8> |
+| 302 | UniMas WAMI-DT (1080p) | IPv4 直链 | <http://190.197.41.183/Unimas/index.m3u8> |
 
-Updated at **Tue Sep 29 2026 22:01:36 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Sep 30 2026 04:45:03 GMT+0000 (Coordinated Universal Time)**
