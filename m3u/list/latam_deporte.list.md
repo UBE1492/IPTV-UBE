@@ -12,4 +12,4 @@
 | 6 | ESPN Deportes HD (720p) | IPv4 直链 | <http://168.228.44.241:9998/play/a0dz/index.m3u8> |
 | 7 | ESPNews (720p) | IPv4 直链 | <http://41.205.93.154/ESPNNEWS/index.m3u8> |
 
-Updated at **Wed Sep 30 2026 22:00:15 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Oct 01 2026 04:57:18 GMT+0000 (Coordinated Universal Time)**

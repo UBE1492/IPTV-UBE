@@ -1,6 +1,6 @@
 {
   "name": "co",
-  "updated_at": 1790805616326,
+  "updated_at": 1790830639615,
   "m3u": "https://ube1492.github.io/IPTV-UBE/co.m3u",
   "channels": [
     {
@@ -762,6 +762,30 @@
     {
       "name": "Canal Capital (720p)",
       "url": "http://190.61.47.54:8000/play/a00x/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Caracol Internacional (720p)",
+      "url": "http://200.115.120.1:8000/play/ca067/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Nuestra Tele Internacional (1080p)",
+      "url": "http://45.173.231.22:8000/play/a0cr/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "CNC Medellin (1080p)",
+      "url": "http://138.94.3.106:8000/play/a02o/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Canal Telesantiago (1080p)",
+      "url": "https://stream.canaltelesantiago.com:8000/play/TELESANTIAGO/index.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -1527,6 +1551,30 @@
       {
         "name": "Canal Capital (720p)",
         "url": "http://190.61.47.54:8000/play/a00x/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Caracol Internacional (720p)",
+        "url": "http://200.115.120.1:8000/play/ca067/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Nuestra Tele Internacional (1080p)",
+        "url": "http://45.173.231.22:8000/play/a0cr/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "CNC Medellin (1080p)",
+        "url": "http://138.94.3.106:8000/play/a02o/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Canal Telesantiago (1080p)",
+        "url": "https://stream.canaltelesantiago.com:8000/play/TELESANTIAGO/index.m3u8",
         "logo": "",
         "category": "Otros"
       }

@@ -122,5 +122,6 @@
 | 116 | MC (720p) | IPv4 直链 | <http://45.5.118.152:8000/play/a03r/index.m3u8> |
 | 117 | De Pelicula Latin America (1080p) | IPv4 直链 | <http://190.60.55.141:9083/play/a0nf/index.m3u8> |
 | 118 | Tlnovelas Mexico (1080p) | IPv4 直链 | <http://167.249.23.102:8000/play/a0g8/index.m3u8> |
+| 119 | Canal Once (1080p) | vivo.canaloncelive.tv | <https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8> |
 
-Updated at **Wed Sep 30 2026 22:00:16 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Oct 01 2026 04:57:19 GMT+0000 (Coordinated Universal Time)**

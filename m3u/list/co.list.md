@@ -128,5 +128,9 @@
 | 122 | Teleislas (576p) | IPv4 直链 | <http://181.78.211.244:8005/play/a08d/index.m3u8> |
 | 123 | Canal 1 (720p) | IPv4 直链 | <http://38.134.250.110:8000/play/a014/index.m3u8> |
 | 124 | Canal Capital (720p) | IPv4 直链 | <http://190.61.47.54:8000/play/a00x/index.m3u8> |
+| 125 | Caracol Internacional (720p) | IPv4 直链 | <http://200.115.120.1:8000/play/ca067/index.m3u8> |
+| 126 | Nuestra Tele Internacional (1080p) | IPv4 直链 | <http://45.173.231.22:8000/play/a0cr/index.m3u8> |
+| 127 | CNC Medellin (1080p) | IPv4 直链 | <http://138.94.3.106:8000/play/a02o/index.m3u8> |
+| 128 | Canal Telesantiago (1080p) | stream.canaltelesantiago.com:8000 | <https://stream.canaltelesantiago.com:8000/play/TELESANTIAGO/index.m3u8> |
 
-Updated at **Wed Sep 30 2026 22:00:16 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Oct 01 2026 04:57:19 GMT+0000 (Coordinated Universal Time)**

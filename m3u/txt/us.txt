@@ -169,6 +169,7 @@ TNT_Novelas_(1080p),http://190.93.224.42/TNT-NOVELAS/index.m3u8
 TNT_Novelas_Brazil_(720p),http://45.162.64.114/TNT_NOVELAS/index.m3u8
 Toon_Goggles_(720p),https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37
 Toonami_Aftermath_East_(480p),http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+Toonami_Aftermath_West_(480p),http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
 Toonami_Aftermath_Movies_(540p),http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 Toonami_Aftermath_Radio_(480p),http://api.toonamiaftermath.com:3000/radio/playlist.m3u8
 ToonGoggles_(720p),https://d1eg24xrsfr6kv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-b4b1bzxkt1uzo-prod/tg/tg/tg.m3u8
@@ -302,9 +303,11 @@ NBA_TV_(720p),http://rezofoot.tv/NBATV/index.m3u8
 EWTN_Spain_&_Latin_America_(576p),http://187.102.208.209:8000/play/a0ac/index.m3u8
 Lifetime_Latin_America_(1080p),http://187.102.208.209:8000/play/a0ad/index.m3u8
 Pasiones_Latin_America_(1080p),http://190.60.55.141:9083/play/a0ni/index.m3u8
-Cinemax_Action_East_HD_(1080p),https://sra72yz.s.gy/CINEMAX_ACTION_EAST_HD.m3u8
-HBO_Drama_West_(1080p),https://sra72yz.s.gy/HBO_DRAMA_WEST_HD.m3u8
 HBO_Hits_West_HD_(1080p),https://sra72yz.s.gy/HBO_HITS_WEST_HD.m3u8
-Discovery_Turbo_(1080p),https://sra72yz.s.gy/DISCOVERY_TURBO.m3u8
 DSports_2_(1080p),http://187.102.208.209:8000/play/a0bq/index.m3u8
 UniMas_WAMI-DT_(1080p),http://190.197.41.183/Unimas/index.m3u8
+NBC_WTLV_(1080p),http://190.197.41.183/NBC/index.m3u8
+Fox_WSVN_(1080p),http://190.197.41.183/Fox/index.m3u8
+TeleXitos_(1080p),http://190.197.41.183/TELEXITOS/index.m3u8
+National_Geographic_Latin_America_(1080p),http://45.173.231.22:8000/play/a05z/index.m3u8
+Daystar_TV_Espanol_(1080p),http://167.249.23.102:8000/play/a0ev/index.m3u8

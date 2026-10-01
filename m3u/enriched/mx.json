@@ -1,6 +1,6 @@
 {
   "name": "mx",
-  "updated_at": 1790805616070,
+  "updated_at": 1790830639468,
   "m3u": "https://ube1492.github.io/IPTV-UBE/mx.m3u",
   "channels": [
     {
@@ -711,6 +711,12 @@
     {
       "name": "Tlnovelas Mexico (1080p)",
       "url": "http://167.249.23.102:8000/play/a0g8/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Canal Once (1080p)",
+      "url": "https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -1425,6 +1431,12 @@
       {
         "name": "Tlnovelas Mexico (1080p)",
         "url": "http://167.249.23.102:8000/play/a0g8/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Canal Once (1080p)",
+        "url": "https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       }

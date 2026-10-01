@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1790805616576,
+  "updated_at": 1790830639678,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -1012,6 +1012,12 @@
       "category": "Otros"
     },
     {
+      "name": "Toonami Aftermath West (480p)",
+      "url": "http://api.toonamiaftermath.com:3000/pst/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
       "name": "Toonami Aftermath Movies (540p)",
       "url": "http://api.toonamiaftermath.com:3000/movies/playlist.m3u8",
       "logo": "",
@@ -1804,26 +1810,8 @@
       "category": "Otros"
     },
     {
-      "name": "Cinemax Action East HD (1080p)",
-      "url": "https://sra72yz.s.gy/CINEMAX_ACTION_EAST_HD.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "HBO Drama West (1080p)",
-      "url": "https://sra72yz.s.gy/HBO_DRAMA_WEST_HD.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "HBO Hits West HD (1080p)",
       "url": "https://sra72yz.s.gy/HBO_HITS_WEST_HD.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Discovery Turbo (1080p)",
-      "url": "https://sra72yz.s.gy/DISCOVERY_TURBO.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -1836,6 +1824,36 @@
     {
       "name": "UniMas WAMI-DT (1080p)",
       "url": "http://190.197.41.183/Unimas/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "NBC WTLV (1080p)",
+      "url": "http://190.197.41.183/NBC/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Fox WSVN (1080p)",
+      "url": "http://190.197.41.183/Fox/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "TeleXitos (1080p)",
+      "url": "http://190.197.41.183/TELEXITOS/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "National Geographic Latin America (1080p)",
+      "url": "http://45.173.231.22:8000/play/a05z/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Daystar TV Espanol (1080p)",
+      "url": "http://167.249.23.102:8000/play/a0ev/index.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -2851,6 +2869,12 @@
         "category": "Otros"
       },
       {
+        "name": "Toonami Aftermath West (480p)",
+        "url": "http://api.toonamiaftermath.com:3000/pst/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
         "name": "Toonami Aftermath Movies (540p)",
         "url": "http://api.toonamiaftermath.com:3000/movies/playlist.m3u8",
         "logo": "",
@@ -3643,26 +3667,8 @@
         "category": "Otros"
       },
       {
-        "name": "Cinemax Action East HD (1080p)",
-        "url": "https://sra72yz.s.gy/CINEMAX_ACTION_EAST_HD.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "HBO Drama West (1080p)",
-        "url": "https://sra72yz.s.gy/HBO_DRAMA_WEST_HD.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "HBO Hits West HD (1080p)",
         "url": "https://sra72yz.s.gy/HBO_HITS_WEST_HD.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Discovery Turbo (1080p)",
-        "url": "https://sra72yz.s.gy/DISCOVERY_TURBO.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -3675,6 +3681,36 @@
       {
         "name": "UniMas WAMI-DT (1080p)",
         "url": "http://190.197.41.183/Unimas/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "NBC WTLV (1080p)",
+        "url": "http://190.197.41.183/NBC/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Fox WSVN (1080p)",
+        "url": "http://190.197.41.183/Fox/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "TeleXitos (1080p)",
+        "url": "http://190.197.41.183/TELEXITOS/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "National Geographic Latin America (1080p)",
+        "url": "http://45.173.231.22:8000/play/a05z/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Daystar TV Espanol (1080p)",
+        "url": "http://167.249.23.102:8000/play/a0ev/index.m3u8",
         "logo": "",
         "category": "Otros"
       }
