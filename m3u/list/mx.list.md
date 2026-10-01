@@ -124,4 +124,4 @@
 | 118 | Tlnovelas Mexico (1080p) | IPv4 直链 | <http://167.249.23.102:8000/play/a0g8/index.m3u8> |
 | 119 | Canal Once (1080p) | vivo.canaloncelive.tv | <https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8> |
 
-Updated at **Thu Oct 01 2026 04:57:19 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Oct 01 2026 12:43:45 GMT+0000 (Coordinated Universal Time)**

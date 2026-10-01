@@ -133,4 +133,4 @@
 | 127 | CNC Medellin (1080p) | IPv4 直链 | <http://138.94.3.106:8000/play/a02o/index.m3u8> |
 | 128 | Canal Telesantiago (1080p) | stream.canaltelesantiago.com:8000 | <https://stream.canaltelesantiago.com:8000/play/TELESANTIAGO/index.m3u8> |
 
-Updated at **Thu Oct 01 2026 04:57:19 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Oct 01 2026 12:43:44 GMT+0000 (Coordinated Universal Time)**
