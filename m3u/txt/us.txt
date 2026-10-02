@@ -311,3 +311,7 @@ Fox_WSVN_(1080p),http://190.197.41.183/Fox/index.m3u8
 TeleXitos_(1080p),http://190.197.41.183/TELEXITOS/index.m3u8
 National_Geographic_Latin_America_(1080p),http://45.173.231.22:8000/play/a05z/index.m3u8
 Daystar_TV_Espanol_(1080p),http://167.249.23.102:8000/play/a0ev/index.m3u8
+ESNE_TV_(1080p),http://190.217.66.92:8000/play/a0fp/index.m3u8
+VH1_(432p),http://193.254.245.162/VH1/index.m3u8
+Paramount_Network_(432p),http://193.254.245.162/PARAMOUNT-CHANNEL/index.m3u8
+Fox_Sports_1_(720p),http://193.254.245.162/Fox_Sports_1/index.m3u8

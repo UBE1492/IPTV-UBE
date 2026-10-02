@@ -124,5 +124,8 @@
 | 118 | Clan Internacional | xyktmobile00.s.gy | <https://xyktmobile00.s.gy/PPV906_CLAN_INTE> |
 | 119 | TVE Star HD (1080p) | IPv4 直链 | <http://38.252.238.18:8000/play/a01h/index.m3u8> |
 | 120 | Antena 3 Internacional (1080p) | IPv4 直链 | <http://38.252.238.18:8000/play/a04a/index.m3u8> |
+| 121 | AXN (1080p) | IPv4 直链 | <http://193.254.245.162/AXN/index.m3u8> |
+| 122 | AXN Movies | cdn.stmify.com | <https://cdn.stmify.com/zapitv/stream/AXN_MOVIES/axn_white.mpd> |
+| 123 | Antena 3 | cdn.stmify.com | <https://cdn.stmify.com/zapitv/stream/ANTENA_3/test.mpd> |
 
-Updated at **Thu Oct 01 2026 22:28:30 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Oct 02 2026 04:47:40 GMT+0000 (Coordinated Universal Time)**

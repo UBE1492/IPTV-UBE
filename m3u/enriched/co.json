@@ -1,6 +1,6 @@
 {
   "name": "co",
-  "updated_at": 1790893710731,
+  "updated_at": 1790916460772,
   "m3u": "https://ube1492.github.io/IPTV-UBE/co.m3u",
   "channels": [
     {
@@ -786,6 +786,12 @@
     {
       "name": "Canal Telesantiago (1080p)",
       "url": "https://stream.canaltelesantiago.com:8000/play/TELESANTIAGO/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Claro Musica TV (1080p)",
+      "url": "http://45.171.64.30:6060/play/a010",
       "logo": "",
       "category": "Otros"
     }
@@ -1575,6 +1581,12 @@
       {
         "name": "Canal Telesantiago (1080p)",
         "url": "https://stream.canaltelesantiago.com:8000/play/TELESANTIAGO/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Claro Musica TV (1080p)",
+        "url": "http://45.171.64.30:6060/play/a010",
         "logo": "",
         "category": "Otros"
       }

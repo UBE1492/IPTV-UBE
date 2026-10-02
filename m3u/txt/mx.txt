@@ -119,3 +119,5 @@ MC_(720p),http://45.5.118.152:8000/play/a03r/index.m3u8
 De_Pelicula_Latin_America_(1080p),http://190.60.55.141:9083/play/a0nf/index.m3u8
 Tlnovelas_Mexico_(1080p),http://167.249.23.102:8000/play/a0g8/index.m3u8
 Canal_Once_(1080p),https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
+Claro_Cinema_(1080p),http://158.172.217.18:8000/play/a00d/index.m3u8
+Az_Corazon_(720p),http://200.115.120.1:8000/play/ca020/index.m3u8

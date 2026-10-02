@@ -623,3 +623,11 @@ http://190.197.41.183/TELEXITOS/index.m3u8
 http://45.173.231.22:8000/play/a05z/index.m3u8
 #EXTINF:-1 tvg-id="DaystarTVEspanol.us@SD",Daystar TV Espanol (1080p)
 http://167.249.23.102:8000/play/a0ev/index.m3u8
+#EXTINF:-1 tvg-id="ESNETV.us@SD",ESNE TV (1080p)
+http://190.217.66.92:8000/play/a0fp/index.m3u8
+#EXTINF:-1 tvg-id="VH1.us@East",VH1 (432p)
+http://193.254.245.162/VH1/index.m3u8
+#EXTINF:-1 tvg-id="ParamountNetwork.us@East",Paramount Network (432p)
+http://193.254.245.162/PARAMOUNT-CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports1.us@HD",Fox Sports 1 (720p)
+http://193.254.245.162/Fox_Sports_1/index.m3u8

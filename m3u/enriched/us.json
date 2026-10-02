@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1790893710820,
+  "updated_at": 1790916460677,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -1854,6 +1854,30 @@
     {
       "name": "Daystar TV Espanol (1080p)",
       "url": "http://167.249.23.102:8000/play/a0ev/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "ESNE TV (1080p)",
+      "url": "http://190.217.66.92:8000/play/a0fp/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "VH1 (432p)",
+      "url": "http://193.254.245.162/VH1/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Paramount Network (432p)",
+      "url": "http://193.254.245.162/PARAMOUNT-CHANNEL/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Fox Sports 1 (720p)",
+      "url": "http://193.254.245.162/Fox_Sports_1/index.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -3711,6 +3735,30 @@
       {
         "name": "Daystar TV Espanol (1080p)",
         "url": "http://167.249.23.102:8000/play/a0ev/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "ESNE TV (1080p)",
+        "url": "http://190.217.66.92:8000/play/a0fp/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "VH1 (432p)",
+        "url": "http://193.254.245.162/VH1/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Paramount Network (432p)",
+        "url": "http://193.254.245.162/PARAMOUNT-CHANNEL/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Fox Sports 1 (720p)",
+        "url": "http://193.254.245.162/Fox_Sports_1/index.m3u8",
         "logo": "",
         "category": "Otros"
       }

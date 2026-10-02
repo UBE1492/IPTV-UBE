@@ -27,3 +27,5 @@ http://rezofoot.tv/NBATV/index.m3u8
 http://187.102.208.209:8000/play/a0bq/index.m3u8
 #EXTINF:-1 tvg-id="Fox.us@WSVN",Fox WSVN (1080p)
 http://190.197.41.183/Fox/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports1.us@HD",Fox Sports 1 (720p)
+http://193.254.245.162/Fox_Sports_1/index.m3u8

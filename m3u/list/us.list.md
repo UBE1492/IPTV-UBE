@@ -309,5 +309,9 @@
 | 303 | TeleXitos (1080p) | IPv4 直链 | <http://190.197.41.183/TELEXITOS/index.m3u8> |
 | 304 | National Geographic Latin America (1080p) | IPv4 直链 | <http://45.173.231.22:8000/play/a05z/index.m3u8> |
 | 305 | Daystar TV Espanol (1080p) | IPv4 直链 | <http://167.249.23.102:8000/play/a0ev/index.m3u8> |
+| 306 | ESNE TV (1080p) | IPv4 直链 | <http://190.217.66.92:8000/play/a0fp/index.m3u8> |
+| 307 | VH1 (432p) | IPv4 直链 | <http://193.254.245.162/VH1/index.m3u8> |
+| 308 | Paramount Network (432p) | IPv4 直链 | <http://193.254.245.162/PARAMOUNT-CHANNEL/index.m3u8> |
+| 309 | Fox Sports 1 (720p) | IPv4 直链 | <http://193.254.245.162/Fox_Sports_1/index.m3u8> |
 
-Updated at **Thu Oct 01 2026 22:28:30 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Oct 02 2026 04:47:40 GMT+0000 (Coordinated Universal Time)**

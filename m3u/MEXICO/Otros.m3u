@@ -111,3 +111,5 @@ http://45.5.118.152:8000/play/a03i/index.m3u8
 http://45.5.118.152:8000/play/a03r/index.m3u8
 #EXTINF:-1 tvg-id="CanalOnce.mx@HD",Canal Once (1080p)
 https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
+#EXTINF:-1 tvg-id="AzCorazon.mx@SD",Az Corazon (720p)
+http://200.115.120.1:8000/play/ca020/index.m3u8

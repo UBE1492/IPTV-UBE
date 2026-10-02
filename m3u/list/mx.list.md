@@ -123,5 +123,7 @@
 | 117 | De Pelicula Latin America (1080p) | IPv4 直链 | <http://190.60.55.141:9083/play/a0nf/index.m3u8> |
 | 118 | Tlnovelas Mexico (1080p) | IPv4 直链 | <http://167.249.23.102:8000/play/a0g8/index.m3u8> |
 | 119 | Canal Once (1080p) | vivo.canaloncelive.tv | <https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8> |
+| 120 | Claro Cinema (1080p) | IPv4 直链 | <http://158.172.217.18:8000/play/a00d/index.m3u8> |
+| 121 | Az Corazon (720p) | IPv4 直链 | <http://200.115.120.1:8000/play/ca020/index.m3u8> |
 
-Updated at **Thu Oct 01 2026 22:28:30 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Oct 02 2026 04:47:40 GMT+0000 (Coordinated Universal Time)**
