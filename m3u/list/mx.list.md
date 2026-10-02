@@ -126,4 +126,4 @@
 | 120 | Claro Cinema (1080p) | IPv4 直链 | <http://158.172.217.18:8000/play/a00d/index.m3u8> |
 | 121 | Az Corazon (720p) | IPv4 直链 | <http://200.115.120.1:8000/play/ca020/index.m3u8> |
 
-Updated at **Fri Oct 02 2026 04:47:40 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Oct 02 2026 12:07:57 GMT+0000 (Coordinated Universal Time)**

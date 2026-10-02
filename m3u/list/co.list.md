@@ -134,4 +134,4 @@
 | 128 | Canal Telesantiago (1080p) | stream.canaltelesantiago.com:8000 | <https://stream.canaltelesantiago.com:8000/play/TELESANTIAGO/index.m3u8> |
 | 129 | Claro Musica TV (1080p) | IPv4 直链 | <http://45.171.64.30:6060/play/a010> |
 
-Updated at **Fri Oct 02 2026 04:47:40 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Oct 02 2026 12:07:57 GMT+0000 (Coordinated Universal Time)**
