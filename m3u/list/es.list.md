@@ -128,4 +128,4 @@
 | 122 | AXN Movies | cdn.stmify.com | <https://cdn.stmify.com/zapitv/stream/AXN_MOVIES/axn_white.mpd> |
 | 123 | Antena 3 | cdn.stmify.com | <https://cdn.stmify.com/zapitv/stream/ANTENA_3/test.mpd> |
 
-Updated at **Fri Oct 02 2026 12:07:57 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Oct 02 2026 21:58:12 GMT+0000 (Coordinated Universal Time)**
