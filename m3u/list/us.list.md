@@ -314,4 +314,4 @@
 | 308 | Paramount Network (432p) | IPv4 直链 | <http://193.254.245.162/PARAMOUNT-CHANNEL/index.m3u8> |
 | 309 | Fox Sports 1 (720p) | IPv4 直链 | <http://193.254.245.162/Fox_Sports_1/index.m3u8> |
 
-Updated at **Sat Oct 03 2026 15:57:46 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Oct 03 2026 20:46:21 GMT+0000 (Coordinated Universal Time)**

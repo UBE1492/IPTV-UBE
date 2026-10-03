@@ -96,4 +96,4 @@
 | 90 | Vos TV | 59d39900ebfb8.streamlock.net | <https://59d39900ebfb8.streamlock.net/vostv/vostv/playlist.m3u8> |
 | 91 | VTV Canal 17 (720p) [Not 24/7] | solo.disfrutaenlared.com:1936 | <https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/playlist.m3u8> |
 
-Updated at **Sat Oct 03 2026 15:57:46 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Oct 03 2026 20:46:21 GMT+0000 (Coordinated Universal Time)**
