@@ -207,4 +207,4 @@
 | 201 | TV Chile (576p) | IPv4 直链 | <http://38.252.238.18:8000/play/a04b/index.m3u8> |
 | 202 | Zona Sur TV (1080p) | IPv4 直链 | <http://170.79.235.133:8002/play/a063/index.m3u8> |
 
-Updated at **Sat Oct 03 2026 04:30:08 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Oct 03 2026 11:18:57 GMT+0000 (Coordinated Universal Time)**
