@@ -7,4 +7,4 @@
 | 1 | Canal 5 (720p) | tinyurl.com | <https://tinyurl.com/canal5uy> |
 | 2 | UCL (720p) | livedelta.cdn.antel.net.uy | <https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8> |
 
-Updated at **Fri Oct 02 2026 21:58:13 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Oct 03 2026 04:30:08 GMT+0000 (Coordinated Universal Time)**
