@@ -316,4 +316,4 @@
 | 310 | USA Network (720p) | IPv4 直链 | <http://190.197.41.183/USA_NETWORK/index.m3u8> |
 | 311 | AXN White Portugal (576p) | IPv4 直链 | <http://188.115.15.121:8000/play/a01u> |
 
-Updated at **Sun Oct 04 2026 11:59:20 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Oct 04 2026 16:48:03 GMT+0000 (Coordinated Universal Time)**
