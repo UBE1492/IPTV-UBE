@@ -100,4 +100,4 @@
 | 94 | El Trece (1080p) | IPv4 直链 | <http://15.204.246.24:8080/eltreceHD/index.m3u8> |
 | 95 | Canal 12 Venado Tuerto (1080i) | nd106.republicaservers.com:4433 | <https://nd106.republicaservers.com:4433/hls/diegologonitv/index.m3u8> |
 
-Updated at **Sun Oct 04 2026 16:48:03 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Oct 04 2026 21:02:00 GMT+0000 (Coordinated Universal Time)**

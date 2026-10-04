@@ -60,4 +60,4 @@
 | 54 | Studio + TV (1080p) | vd01.streaminghd.net.ar:3113 | <https://vd01.streaminghd.net.ar:3113/hybrid/play.m3u8> |
 | 55 | Ecuador TV (720p) | IPv4 直链 | <http://38.44.109.41:8003/play/a0e9/index.m3u8> |
 
-Updated at **Sun Oct 04 2026 16:48:03 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Oct 04 2026 21:02:01 GMT+0000 (Coordinated Universal Time)**
