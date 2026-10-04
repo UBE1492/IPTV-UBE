@@ -135,4 +135,4 @@
 | 129 | NTN24 (1080p) | stream1.bitred.cl | <https://stream1.bitred.cl/ntn24/index.m3u8> |
 | 130 | Canal 1 (1080p) | IPv4 直链 | <http://190.109.2.92:8000/play/a010/index.m3u8> |
 
-Updated at **Sun Oct 04 2026 05:00:53 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Oct 04 2026 11:59:21 GMT+0000 (Coordinated Universal Time)**
