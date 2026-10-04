@@ -1,6 +1,6 @@
 {
   "name": "cl",
-  "updated_at": 1791060381499,
+  "updated_at": 1791090053289,
   "m3u": "https://ube1492.github.io/IPTV-UBE/cl.m3u",
   "channels": [
     {
@@ -108,12 +108,6 @@
     {
       "name": "Arica TV",
       "url": "https://envivo.arica.tv/hls/Live2025AricaTV.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "ARTV (720p)",
-      "url": "http://45.162.193.35/ARTV/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -390,12 +384,6 @@
     {
       "name": "Docevision (720p)",
       "url": "https://live20.bozztv.com/giatvplayout7/giatv-208729/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Docu. (1080p)",
-      "url": "http://45.162.193.35/DOCU/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -1018,12 +1006,6 @@
       "category": "Otros"
     },
     {
-      "name": "Zona Latina (720p)",
-      "url": "http://45.162.193.35/ZONALATINA/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Zona Latina (576p)",
       "url": "http://45.170.130.224:8000/play/a00x/index.m3u8",
       "logo": "",
@@ -1333,12 +1315,6 @@
         "category": "Otros"
       },
       {
-        "name": "ARTV (720p)",
-        "url": "http://45.162.193.35/ARTV/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "Atacama Noticias (720p) [Not 24/7]",
         "url": "https://v2.tustreaming.cl/atacamanoticias/index.m3u8",
         "logo": "",
@@ -1611,12 +1587,6 @@
       {
         "name": "Docevision (720p)",
         "url": "https://live20.bozztv.com/giatvplayout7/giatv-208729/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Docu. (1080p)",
-        "url": "http://45.162.193.35/DOCU/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -2235,12 +2205,6 @@
       {
         "name": "Wapp (720p)",
         "url": "https://stream.wapptv.cl/video/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Zona Latina (720p)",
-        "url": "http://45.162.193.35/ZONALATINA/index.m3u8",
         "logo": "",
         "category": "Otros"
       },

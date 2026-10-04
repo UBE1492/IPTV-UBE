@@ -313,5 +313,7 @@
 | 307 | VH1 (432p) | IPv4 直链 | <http://193.254.245.162/VH1/index.m3u8> |
 | 308 | Paramount Network (432p) | IPv4 直链 | <http://193.254.245.162/PARAMOUNT-CHANNEL/index.m3u8> |
 | 309 | Fox Sports 1 (720p) | IPv4 直链 | <http://193.254.245.162/Fox_Sports_1/index.m3u8> |
+| 310 | USA Network (720p) | IPv4 直链 | <http://190.197.41.183/USA_NETWORK/index.m3u8> |
+| 311 | AXN White Portugal (576p) | IPv4 直链 | <http://188.115.15.121:8000/play/a01u> |
 
-Updated at **Sat Oct 03 2026 20:46:21 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Oct 04 2026 05:00:53 GMT+0000 (Coordinated Universal Time)**

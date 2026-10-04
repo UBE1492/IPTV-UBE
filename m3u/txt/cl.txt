@@ -17,7 +17,6 @@ AM_Canal,https://streaming.bitsur.cl:3534/live/vdo1102live.m3u8
 Antofagasta_TV_(ATV)_(1080p),https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8
 Arica_TV_(480p)_[Not_24/7],https://5eff35271151c.streamlock.net:1936/8002/8002/playlist.m3u8
 Arica_TV,https://envivo.arica.tv/hls/Live2025AricaTV.m3u8
-ARTV_(720p),http://45.162.193.35/ARTV/index.m3u8
 Atacama_Noticias_(720p)_[Not_24/7],https://v2.tustreaming.cl/atacamanoticias/index.m3u8
 Atacama_TV,https://v2.tustreaming.cl/atacamatv/tracks-v1a1/mono.ts.m3u8
 Atacama_TV_(Copiapó)_(720p)_[Not_24/7],https://v2.tustreaming.cl/atacamatv/index.m3u8
@@ -64,7 +63,6 @@ DCH_TV_(1080p),https://v2.tustreaming.cl/dchtv/index.m3u8
 Décima_TV_(Ancud)_(720p),https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8
 Diferencia_Radio_TV,https://s1.radiumcast.top/memfs/674b2d4f-7d6e-49be-9c6c-3094868259d9.m3u8
 Docevision_(720p),https://live20.bozztv.com/giatvplayout7/giatv-208729/playlist.m3u8
-Docu._(1080p),http://45.162.193.35/DOCU/index.m3u8
 EGM_Channel_(480p),https://paneltv.online:1936/8186/8186/playlist.m3u8
 El_3_de_Conce,https://5ff3d9babae13.streamlock.net/xedkektnqj/xedkektnqj/playlist.m3u8
 El_Canal_Feliz_(720p),http://streaming.multicontenidos.cl:8081/live/canalfeliz/playlist.m3u8
@@ -169,7 +167,6 @@ Vision_TV,https://tv.arkeo.cl:1936/8044/8044/playlist.m3u8
 Vivo_TV,https://5eaccbab48461.streamlock.net:1936/8264/8264/playlist.m3u8
 VTV_Valle_de_Aconcagua_(720p)_[Not_24/7],https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
 Wapp_(720p),https://stream.wapptv.cl/video/index.m3u8
-Zona_Latina_(720p),http://45.162.193.35/ZONALATINA/index.m3u8
 Zona_Latina_(576p),http://45.170.130.224:8000/play/a00x/index.m3u8
 Zona_Play_TV_(720p),https://tv1.mediacp.eu:3131/live/dilxbgxylive.m3u8
 Zoom_Tecnologico_Plus_(720p),https://5f700d5b2c46f.streamlock.net/zoomtec/zoomtec/playlist.m3u8

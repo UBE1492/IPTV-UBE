@@ -167,3 +167,7 @@ http://45.173.231.22:8000/play/a0cr/index.m3u8
 http://138.94.3.106:8000/play/a02o/index.m3u8
 #EXTINF:-1 tvg-id="CanalTelesantiago.co@SD",Canal Telesantiago (1080p)
 https://stream.canaltelesantiago.com:8000/play/TELESANTIAGO/index.m3u8
+#EXTINF:-1 tvg-id="NTN24.co@SD",NTN24 (1080p)
+https://stream1.bitred.cl/ntn24/index.m3u8
+#EXTINF:-1 tvg-id="Canal1.co@SD",Canal 1 (1080p)
+http://190.109.2.92:8000/play/a010/index.m3u8

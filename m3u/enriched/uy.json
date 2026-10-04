@@ -1,6 +1,6 @@
 {
   "name": "uy",
-  "updated_at": 1791060382058,
+  "updated_at": 1791090053799,
   "m3u": "https://ube1492.github.io/IPTV-UBE/uy.m3u",
   "channels": [
     {
@@ -12,6 +12,12 @@
     {
       "name": "UCL (720p)",
       "url": "https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "UCL (1080p)",
+      "url": "https://livedelta.cdn.antel.net.uy/out/u/url_canalu_2.m3u8?m=1670250741",
       "logo": "",
       "category": "Otros"
     }
@@ -27,6 +33,12 @@
       {
         "name": "UCL (720p)",
         "url": "https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "UCL (1080p)",
+        "url": "https://livedelta.cdn.antel.net.uy/out/u/url_canalu_2.m3u8?m=1670250741",
         "logo": "",
         "category": "Otros"
       }

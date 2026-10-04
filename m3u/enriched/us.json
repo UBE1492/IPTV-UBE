@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1791060381841,
+  "updated_at": 1791090053519,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -1878,6 +1878,18 @@
     {
       "name": "Fox Sports 1 (720p)",
       "url": "http://193.254.245.162/Fox_Sports_1/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "USA Network (720p)",
+      "url": "http://190.197.41.183/USA_NETWORK/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "AXN White Portugal (576p)",
+      "url": "http://188.115.15.121:8000/play/a01u",
       "logo": "",
       "category": "Otros"
     }
@@ -3759,6 +3771,18 @@
       {
         "name": "Fox Sports 1 (720p)",
         "url": "http://193.254.245.162/Fox_Sports_1/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "USA Network (720p)",
+        "url": "http://190.197.41.183/USA_NETWORK/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "AXN White Portugal (576p)",
+        "url": "http://188.115.15.121:8000/play/a01u",
         "logo": "",
         "category": "Otros"
       }

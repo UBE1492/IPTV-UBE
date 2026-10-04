@@ -81,7 +81,6 @@ RCN_Novelas_(720p),http://170.238.200.199/rcn-novelas/index.m3u8
 RCN_Novelas_(576p),http://181.78.8.199:8000/play/a0a7/index.m3u8
 Red+_(1080p),https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
 Reyali_(614p),https://eu1.servers10.com:8081/8090/index.m3u8
-Rumba_TV_(1080p),http://45.162.193.35/RUMBATV/index.m3u8
 Rumba_TV,http://186.148.196.100:8000/play/a02h
 Salsa_Gorda_Television_(1080p)_[Not_24/7],https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8
 Santel_TV,https://tv3.bitstreaming.net:3540/live/santeltvlive.m3u8
@@ -133,3 +132,5 @@ Nuestra_Tele_Internacional_(1080p),http://45.173.231.22:8000/play/a0cr/index.m3u
 CNC_Medellin_(1080p),http://138.94.3.106:8000/play/a02o/index.m3u8
 Canal_Telesantiago_(1080p),https://stream.canaltelesantiago.com:8000/play/TELESANTIAGO/index.m3u8
 Claro_Musica_TV_(1080p),http://45.171.64.30:6060/play/a010
+NTN24_(1080p),https://stream1.bitred.cl/ntn24/index.m3u8
+Canal_1_(1080p),http://190.109.2.92:8000/play/a010/index.m3u8

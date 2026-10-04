@@ -1,3 +1,4 @@
 Undefined,#genre#
 Canal_5_(720p),https://tinyurl.com/canal5uy
 UCL_(720p),https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
+UCL_(1080p),https://livedelta.cdn.antel.net.uy/out/u/url_canalu_2.m3u8?m=1670250741

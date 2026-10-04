@@ -125,5 +125,6 @@
 | 119 | Canal Once (1080p) | vivo.canaloncelive.tv | <https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8> |
 | 120 | Claro Cinema (1080p) | IPv4 直链 | <http://158.172.217.18:8000/play/a00d/index.m3u8> |
 | 121 | Az Corazon (720p) | IPv4 直链 | <http://200.115.120.1:8000/play/ca020/index.m3u8> |
+| 122 | TeleHit (1080p) | IPv4 直链 | <http://190.61.47.54:8000/play/a029/index.m3u8> |
 
-Updated at **Sat Oct 03 2026 20:46:21 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Oct 04 2026 05:00:53 GMT+0000 (Coordinated Universal Time)**

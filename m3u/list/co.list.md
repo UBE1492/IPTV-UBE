@@ -85,53 +85,54 @@
 | 79 | RCN Novelas (576p) | IPv4 直链 | <http://181.78.8.199:8000/play/a0a7/index.m3u8> |
 | 80 | Red+ (1080p) | inforedvos.lcdn.claro.net.co | <https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8> |
 | 81 | Reyali (614p) | eu1.servers10.com:8081 | <https://eu1.servers10.com:8081/8090/index.m3u8> |
-| 82 | Rumba TV (1080p) | IPv4 直链 | <http://45.162.193.35/RUMBATV/index.m3u8> |
-| 83 | Rumba TV | IPv4 直链 | <http://186.148.196.100:8000/play/a02h> |
-| 84 | Salsa Gorda Television (1080p) [Not 24/7] | live20.bozztv.com | <https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8> |
-| 85 | Santel TV | tv3.bitstreaming.net:3540 | <https://tv3.bitstreaming.net:3540/live/santeltvlive.m3u8> |
-| 86 | Senal Colombia (1080p) | IPv4 直链 | <http://209.14.115.253:8081/SENALCOLOMBIA/index.m3u8> |
-| 87 | Senal Colombia (720p) | streaming.rtvc.gov.co | <https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8> |
-| 88 | Soona TV | vs20.live.opencaster.com | <https://vs20.live.opencaster.com/soonatv_a1a564a9/index.m3u8> |
-| 89 | Supermúsica TV (720p) | backupmaxmedia.hvmultiplay.com | <https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8> |
-| 90 | Suram TV (720p) | us.streaminghd.cl | <https://us.streaminghd.cl/suramtv/index.m3u8> |
-| 91 | Telepacífico (1080p) [Geo-blocked] | play.cdn.enetres.net | <https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8> |
-| 92 | TeleQuindio (1080p) | live20.bozztv.com | <https://live20.bozztv.com/akamaissh101/ssh101/telequindio/playlist.m3u8> |
-| 93 | Telesangil (720p) | live20.bozztv.com | <https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8> |
-| 94 | TeveColombia (720p) [Not 24/7] | cloud6.livescast.com:3900 | <https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8> |
-| 95 | Bethel Colombia (720p) | IPv4 直链 | <http://138.121.15.230:9002/BETHEL/index.m3u8> |
-| 96 | Telecaribe (1080p) | IPv4 直链 | <http://138.121.15.230:9002/TELECARIBE/index.m3u8> |
-| 97 | Zoom (1080p) | IPv4 直链 | <http://138.121.15.230:9002/ZOOM/index.m3u8> |
-| 98 | Teleantioquia (1080p) | IPv4 直链 | <http://138.121.15.230:9002/TELEANTIOQUIA/index.m3u8> |
-| 99 | Caracol TV | IPv4 直链 | <http://181.79.86.130:8000/play/a077/index.m3u8> |
-| 100 | Caracol TV (576p) | IPv4 直链 | <http://181.79.86.130:8000/play/a04w/index.m3u8> |
-| 101 | Telepacifico (1080p) | IPv4 直链 | <http://138.121.15.230:9002/TELEPACIFICO/index.m3u8> |
-| 102 | Caracol Internacional (576p) | IPv4 直链 | <http://138.59.177.78:9999/play/a0a8/index.m3u8> |
-| 103 | Cablenoticias (1080p) | IPv4 直链 | <http://181.78.211.244:8005/play/a09u/index.m3u8> |
-| 104 | Win Sports (720p) | IPv4 直链 | <http://15.204.146.163:8002/play/a00h/index.m3u8> |
-| 105 | RCN Mas (1080p) | IPv4 直链 | <http://45.226.205.96:48000/play/a0af/index.m3u8> |
-| 106 | NTN24 (720p) | IPv4 直链 | <http://181.78.12.119:16123/play/ch80/index.m3u8> |
-| 107 | Win Sports (1080p) | IPv4 直链 | <http://181.78.12.119:16123/play/ch18/index.m3u8> |
-| 108 | Win+ Futbol (1080p) | IPv4 直链 | <http://181.78.12.119:16123/play/ch19/index.m3u8> |
-| 109 | NTN24 | xyktmobile00.s.gy | <https://xyktmobile00.s.gy/PPV933_NTNCO> |
-| 110 | RCN Novelas (480p) | IPv4 直链 | <http://181.65.191.173:8069/play/a061> |
-| 111 | TVAgro (720p) | IPv4 直链 | <http://168.228.44.241:9999/play/a04n/index.m3u8> |
-| 112 | Win Sports (576p) | IPv4 直链 | <http://168.228.44.241:9999/play/a050/index.m3u8> |
-| 113 | Teleantioquia (720p) | IPv4 直链 | <http://38.134.250.110:8000/play/a012/index.m3u8> |
-| 114 | Telecaribe (720p) | IPv4 直链 | <http://38.134.250.110:8000/play/a013/index.m3u8> |
-| 115 | TeleNostalgia (1080p) | IPv4 直链 | <http://38.134.250.110:8000/play/a01q/index.m3u8> |
-| 116 | Canal Institucional (1080p) | IPv4 直链 | <http://190.61.47.54:8000/play/a00v/index.m3u8> |
-| 117 | Caracol Internacional (1080p) | IPv4 直链 | <http://167.249.23.102:8000/play/a0ax/index.m3u8> |
-| 118 | Noticias RCN | xyktmobile00.s.gy | <https://xyktmobile00.s.gy/PPV937_NUESTRA_TELE> |
-| 119 | Trece (1080p) | IPv4 直链 | <http://190.60.46.228:8888/play/a030/index.m3u8> |
-| 120 | Star Channel (1080p) | IPv4 直链 | <http://190.61.47.54:8000/play/a035/index.m3u8> |
-| 121 | Teleislas (720p) | IPv4 直链 | <http://190.61.47.54:8000/play/a015/index.m3u8> |
-| 122 | Teleislas (576p) | IPv4 直链 | <http://181.78.211.244:8005/play/a08d/index.m3u8> |
-| 123 | Canal 1 (720p) | IPv4 直链 | <http://38.134.250.110:8000/play/a014/index.m3u8> |
-| 124 | Canal Capital (720p) | IPv4 直链 | <http://190.61.47.54:8000/play/a00x/index.m3u8> |
-| 125 | Caracol Internacional (720p) | IPv4 直链 | <http://200.115.120.1:8000/play/ca067/index.m3u8> |
-| 126 | Nuestra Tele Internacional (1080p) | IPv4 直链 | <http://45.173.231.22:8000/play/a0cr/index.m3u8> |
-| 127 | CNC Medellin (1080p) | IPv4 直链 | <http://138.94.3.106:8000/play/a02o/index.m3u8> |
-| 128 | Canal Telesantiago (1080p) | stream.canaltelesantiago.com:8000 | <https://stream.canaltelesantiago.com:8000/play/TELESANTIAGO/index.m3u8> |
-| 129 | Claro Musica TV (1080p) | IPv4 直链 | <http://45.171.64.30:6060/play/a010> |
+| 82 | Rumba TV | IPv4 直链 | <http://186.148.196.100:8000/play/a02h> |
+| 83 | Salsa Gorda Television (1080p) [Not 24/7] | live20.bozztv.com | <https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8> |
+| 84 | Santel TV | tv3.bitstreaming.net:3540 | <https://tv3.bitstreaming.net:3540/live/santeltvlive.m3u8> |
+| 85 | Senal Colombia (1080p) | IPv4 直链 | <http://209.14.115.253:8081/SENALCOLOMBIA/index.m3u8> |
+| 86 | Senal Colombia (720p) | streaming.rtvc.gov.co | <https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8> |
+| 87 | Soona TV | vs20.live.opencaster.com | <https://vs20.live.opencaster.com/soonatv_a1a564a9/index.m3u8> |
+| 88 | Supermúsica TV (720p) | backupmaxmedia.hvmultiplay.com | <https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8> |
+| 89 | Suram TV (720p) | us.streaminghd.cl | <https://us.streaminghd.cl/suramtv/index.m3u8> |
+| 90 | Telepacífico (1080p) [Geo-blocked] | play.cdn.enetres.net | <https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8> |
+| 91 | TeleQuindio (1080p) | live20.bozztv.com | <https://live20.bozztv.com/akamaissh101/ssh101/telequindio/playlist.m3u8> |
+| 92 | Telesangil (720p) | live20.bozztv.com | <https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8> |
+| 93 | TeveColombia (720p) [Not 24/7] | cloud6.livescast.com:3900 | <https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8> |
+| 94 | Bethel Colombia (720p) | IPv4 直链 | <http://138.121.15.230:9002/BETHEL/index.m3u8> |
+| 95 | Telecaribe (1080p) | IPv4 直链 | <http://138.121.15.230:9002/TELECARIBE/index.m3u8> |
+| 96 | Zoom (1080p) | IPv4 直链 | <http://138.121.15.230:9002/ZOOM/index.m3u8> |
+| 97 | Teleantioquia (1080p) | IPv4 直链 | <http://138.121.15.230:9002/TELEANTIOQUIA/index.m3u8> |
+| 98 | Caracol TV | IPv4 直链 | <http://181.79.86.130:8000/play/a077/index.m3u8> |
+| 99 | Caracol TV (576p) | IPv4 直链 | <http://181.79.86.130:8000/play/a04w/index.m3u8> |
+| 100 | Telepacifico (1080p) | IPv4 直链 | <http://138.121.15.230:9002/TELEPACIFICO/index.m3u8> |
+| 101 | Caracol Internacional (576p) | IPv4 直链 | <http://138.59.177.78:9999/play/a0a8/index.m3u8> |
+| 102 | Cablenoticias (1080p) | IPv4 直链 | <http://181.78.211.244:8005/play/a09u/index.m3u8> |
+| 103 | Win Sports (720p) | IPv4 直链 | <http://15.204.146.163:8002/play/a00h/index.m3u8> |
+| 104 | RCN Mas (1080p) | IPv4 直链 | <http://45.226.205.96:48000/play/a0af/index.m3u8> |
+| 105 | NTN24 (720p) | IPv4 直链 | <http://181.78.12.119:16123/play/ch80/index.m3u8> |
+| 106 | Win Sports (1080p) | IPv4 直链 | <http://181.78.12.119:16123/play/ch18/index.m3u8> |
+| 107 | Win+ Futbol (1080p) | IPv4 直链 | <http://181.78.12.119:16123/play/ch19/index.m3u8> |
+| 108 | NTN24 | xyktmobile00.s.gy | <https://xyktmobile00.s.gy/PPV933_NTNCO> |
+| 109 | RCN Novelas (480p) | IPv4 直链 | <http://181.65.191.173:8069/play/a061> |
+| 110 | TVAgro (720p) | IPv4 直链 | <http://168.228.44.241:9999/play/a04n/index.m3u8> |
+| 111 | Win Sports (576p) | IPv4 直链 | <http://168.228.44.241:9999/play/a050/index.m3u8> |
+| 112 | Teleantioquia (720p) | IPv4 直链 | <http://38.134.250.110:8000/play/a012/index.m3u8> |
+| 113 | Telecaribe (720p) | IPv4 直链 | <http://38.134.250.110:8000/play/a013/index.m3u8> |
+| 114 | TeleNostalgia (1080p) | IPv4 直链 | <http://38.134.250.110:8000/play/a01q/index.m3u8> |
+| 115 | Canal Institucional (1080p) | IPv4 直链 | <http://190.61.47.54:8000/play/a00v/index.m3u8> |
+| 116 | Caracol Internacional (1080p) | IPv4 直链 | <http://167.249.23.102:8000/play/a0ax/index.m3u8> |
+| 117 | Noticias RCN | xyktmobile00.s.gy | <https://xyktmobile00.s.gy/PPV937_NUESTRA_TELE> |
+| 118 | Trece (1080p) | IPv4 直链 | <http://190.60.46.228:8888/play/a030/index.m3u8> |
+| 119 | Star Channel (1080p) | IPv4 直链 | <http://190.61.47.54:8000/play/a035/index.m3u8> |
+| 120 | Teleislas (720p) | IPv4 直链 | <http://190.61.47.54:8000/play/a015/index.m3u8> |
+| 121 | Teleislas (576p) | IPv4 直链 | <http://181.78.211.244:8005/play/a08d/index.m3u8> |
+| 122 | Canal 1 (720p) | IPv4 直链 | <http://38.134.250.110:8000/play/a014/index.m3u8> |
+| 123 | Canal Capital (720p) | IPv4 直链 | <http://190.61.47.54:8000/play/a00x/index.m3u8> |
+| 124 | Caracol Internacional (720p) | IPv4 直链 | <http://200.115.120.1:8000/play/ca067/index.m3u8> |
+| 125 | Nuestra Tele Internacional (1080p) | IPv4 直链 | <http://45.173.231.22:8000/play/a0cr/index.m3u8> |
+| 126 | CNC Medellin (1080p) | IPv4 直链 | <http://138.94.3.106:8000/play/a02o/index.m3u8> |
+| 127 | Canal Telesantiago (1080p) | stream.canaltelesantiago.com:8000 | <https://stream.canaltelesantiago.com:8000/play/TELESANTIAGO/index.m3u8> |
+| 128 | Claro Musica TV (1080p) | IPv4 直链 | <http://45.171.64.30:6060/play/a010> |
+| 129 | NTN24 (1080p) | stream1.bitred.cl | <https://stream1.bitred.cl/ntn24/index.m3u8> |
+| 130 | Canal 1 (1080p) | IPv4 直链 | <http://190.109.2.92:8000/play/a010/index.m3u8> |
 
-Updated at **Sat Oct 03 2026 20:46:21 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Oct 04 2026 05:00:53 GMT+0000 (Coordinated Universal Time)**
