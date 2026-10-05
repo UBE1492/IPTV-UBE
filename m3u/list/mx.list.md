@@ -127,4 +127,4 @@
 | 121 | Az Corazon (720p) | IPv4 直链 | <http://200.115.120.1:8000/play/ca020/index.m3u8> |
 | 122 | TeleHit (1080p) | IPv4 直链 | <http://190.61.47.54:8000/play/a029/index.m3u8> |
 
-Updated at **Sun Oct 04 2026 21:02:01 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Oct 05 2026 04:47:37 GMT+0000 (Coordinated Universal Time)**
