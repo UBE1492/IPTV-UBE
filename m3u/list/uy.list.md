@@ -8,4 +8,4 @@
 | 2 | UCL (720p) | livedelta.cdn.antel.net.uy | <https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8> |
 | 3 | UCL (1080p) | livedelta.cdn.antel.net.uy | <https://livedelta.cdn.antel.net.uy/out/u/url_canalu_2.m3u8?m=1670250741> |
 
-Updated at **Mon Oct 05 2026 14:00:55 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Oct 05 2026 23:53:06 GMT+0000 (Coordinated Universal Time)**
