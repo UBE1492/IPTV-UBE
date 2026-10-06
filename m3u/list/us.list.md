@@ -321,4 +321,4 @@
 | 315 | Tennis Channel (1080p) | IPv4 直链 | <http://138.59.177.78:9999/play/a0gl/index.m3u8> |
 | 316 | 3ABN Latino (1080p) | IPv4 直链 | <http://138.59.177.78:9999/play/a0a3/index.m3u8> |
 
-Updated at **Tue Oct 06 2026 13:00:48 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Oct 06 2026 22:29:33 GMT+0000 (Coordinated Universal Time)**
