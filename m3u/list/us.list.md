@@ -315,5 +315,10 @@
 | 309 | Fox Sports 1 (720p) | IPv4 直链 | <http://193.254.245.162/Fox_Sports_1/index.m3u8> |
 | 310 | USA Network (720p) | IPv4 直链 | <http://190.197.41.183/USA_NETWORK/index.m3u8> |
 | 311 | AXN White Portugal (576p) | IPv4 直链 | <http://188.115.15.121:8000/play/a01u> |
+| 312 | WWE Network (1080p) | IPv4 直链 | <http://103.151.60.162:2122/play/a00p/index.m3u8?hls> |
+| 313 | AXN Black Hungary (576p) | IPv4 直链 | <http://141.94.193.53:80/axn_black/index.m3u8> |
+| 314 | Novelisima (1080p) | IPv4 直链 | <http://138.59.177.78:9999/play/a0gg/index.m3u8> |
+| 315 | Tennis Channel (1080p) | IPv4 直链 | <http://138.59.177.78:9999/play/a0gl/index.m3u8> |
+| 316 | 3ABN Latino (1080p) | IPv4 直链 | <http://138.59.177.78:9999/play/a0a3/index.m3u8> |
 
-Updated at **Mon Oct 05 2026 23:53:05 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Oct 06 2026 05:34:26 GMT+0000 (Coordinated Universal Time)**

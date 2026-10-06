@@ -1,6 +1,6 @@
 {
   "name": "es",
-  "updated_at": 1791244386025,
+  "updated_at": 1791264866366,
   "m3u": "https://ube1492.github.io/IPTV-UBE/es.m3u",
   "channels": [
     {
@@ -123,12 +123,6 @@
     {
       "name": "Anime Vision Classics (1080p)",
       "url": "https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Antena 3 Internacional",
-      "url": "http://177.10.184.193:8000/play/a06a/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -754,12 +748,6 @@
       "category": "Otros"
     },
     {
-      "name": "TVE Internacional America (1080p)",
-      "url": "https://cdn1tlinkgo.tlink.cl/tve/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Clan (1080p)",
       "url": "https://lge-lgla2.otteravision.com/lge/lgcla/lgcla.m3u8",
       "logo": "",
@@ -773,6 +761,12 @@
       "options": {
         "http-referrer": "https://cool-tv.net/"
       }
+    },
+    {
+      "name": "Antena 3 Internacional",
+      "url": "https://xyktmobile00.s.gy/091_ANTENA3_INT",
+      "logo": "",
+      "category": "Otros"
     },
     {
       "name": "Clan Internacional",
@@ -936,12 +930,6 @@
       {
         "name": "Anime Vision Classics (1080p)",
         "url": "https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Antena 3 Internacional",
-        "url": "http://177.10.184.193:8000/play/a06a/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -1567,12 +1555,6 @@
         "category": "Otros"
       },
       {
-        "name": "TVE Internacional America (1080p)",
-        "url": "https://cdn1tlinkgo.tlink.cl/tve/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "Clan (1080p)",
         "url": "https://lge-lgla2.otteravision.com/lge/lgcla/lgcla.m3u8",
         "logo": "",
@@ -1586,6 +1568,12 @@
         "options": {
           "http-referrer": "https://cool-tv.net/"
         }
+      },
+      {
+        "name": "Antena 3 Internacional",
+        "url": "https://xyktmobile00.s.gy/091_ANTENA3_INT",
+        "logo": "",
+        "category": "Otros"
       },
       {
         "name": "Clan Internacional",

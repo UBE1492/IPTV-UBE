@@ -115,7 +115,7 @@
 | 109 | Maqui TV | streamyes.alsolnet.com | <https://streamyes.alsolnet.com/maquiradio/live/playlist.m3u8> |
 | 110 | Maray TV | 5eaccbab48461.streamlock.net:1936 | <https://5eaccbab48461.streamlock.net:1936/8242/ngrp:8242_all/playlist.m3u8> |
 | 111 | Marga Marga TV (720p) | v1.tustreaming.cl | <https://v1.tustreaming.cl/margamargatv/index.m3u8> |
-| 112 | Mega (1080p) | IPv4 直链 | <http://15.204.246.24:8080/MEGAHD/index.m3u8> |
+| 112 | Mega (1080p) | tr.live.clarovtrcdn.vtrplay.com | <http://tr.live.clarovtrcdn.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD> |
 | 113 | Mega (720p) | pantera1-100gb-cl-movistar.dps.live | <https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8> |
 | 114 | Mega 2 (1080p) | IPv4 直链 | <http://15.204.246.24:8080/Mega2HD/index.m3u8> |
 | 115 | Retromusica Television (720p) | vdochile.com:3864 | <https://vdochile.com:3864/stream/play.m3u8> |
@@ -175,33 +175,18 @@
 | 169 | Zoom Tecnologico Plus (720p) | 5f700d5b2c46f.streamlock.net | <https://5f700d5b2c46f.streamlock.net/zoomtec/zoomtec/playlist.m3u8> |
 | 170 | El Pinguino TV (720p) | redirector.dps.live | <https://redirector.dps.live/hls/pinguinotv/playlist.m3u8> |
 | 171 | El Pinguino TV | streaming.elpinguino.com:5391 | <https://streaming.elpinguino.com:5391/live/EP.smil/playlist.m3u8> |
-| 172 | ETC TV (1080p) | cdn1tlinkgo.tlink.cl | <http://cdn1tlinkgo.tlink.cl/etc/mono.m3u8> |
-| 173 | Mega Ficcion (1080p) | cdn1tlinkgo.tlink.cl | <http://cdn1tlinkgo.tlink.cl/megaficcion/mono.m3u8> |
-| 174 | Meganoticias Ahora (1080p) | cdn1tlinkgo.tlink.cl | <http://cdn1tlinkgo.tlink.cl/meganoticias/mono.m3u8> |
-| 175 | Megatiempo (1080p) | cdn1tlinkgo.tlink.cl | <http://cdn1tlinkgo.tlink.cl/megatiempo/mono.m3u8> |
-| 176 | NTV (1080p) | cdn1tlinkgo.tlink.cl | <http://cdn1tlinkgo.tlink.cl/ntvhd/mono.m3u8> |
-| 177 | TVN3 (1080p) | cdn1tlinkgo.tlink.cl | <http://cdn1tlinkgo.tlink.cl/tvn3/mono.m3u8> |
-| 178 | 24 Horas (1080p) | cdn1tlinkgo.tlink.cl | <http://cdn1tlinkgo.tlink.cl/24horashd/mono.m3u8> |
-| 179 | Canal CHV Noticias (1080p) | cdn1tlinkgo.tlink.cl | <http://cdn1tlinkgo.tlink.cl/chvnoticias/mono.m3u8> |
-| 180 | UCV TV (1080p) | cdn1tlinkgo.tlink.cl | <http://cdn1tlinkgo.tlink.cl/ucvhd/mono.m3u8> |
-| 181 | La Red (1080p) | cdn1tlinkgo.tlink.cl | <http://cdn1tlinkgo.tlink.cl/laredhd/mono.m3u8> |
-| 182 | Via X (1080p) | cdn1tlinkgo.tlink.cl | <http://cdn1tlinkgo.tlink.cl/viax/mono.m3u8> |
-| 183 | TVR (1080p) | cdn1tlinkgo.tlink.cl | <http://cdn1tlinkgo.tlink.cl/tvr/mono.m3u8> |
-| 184 | CDO (1080p) | cdn1tlinkgo.tlink.cl | <http://cdn1tlinkgo.tlink.cl/cdo/mono.m3u8> |
-| 185 | TV Senado (720p) | cdn1tlinkgo.tlink.cl | <http://cdn1tlinkgo.tlink.cl/tvsenado/mono.m3u8> |
-| 186 | Bio Bio TV (1080p) | cdn1tlinkgo.tlink.cl | <http://cdn1tlinkgo.tlink.cl/biobiotv/mono.m3u8> |
-| 187 | Nuevo Tiempo TV (1080p) | cdn1tlinkgo.tlink.cl | <http://cdn1tlinkgo.tlink.cl/nuevotiempo/mono.m3u8> |
-| 188 | TVU (1080p) | cdn1tlinkgo.tlink.cl | <http://cdn1tlinkgo.tlink.cl/tvu/mono.m3u8> |
-| 189 | Teletrak TV (1080p) | cdn1tlinkgo.tlink.cl | <https://cdn1tlinkgo.tlink.cl/teletrak/index.m3u8> |
-| 190 | UTalca TV (1080p) | unlimited1-us.dps.live | <https://unlimited1-us.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8> |
-| 191 | Agricultura TV (1080p) | redirector.rudo.video | <https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8> |
-| 192 | TV Chile | xyktmobile00.s.gy | <https://xyktmobile00.s.gy/093_TV_CHILE> |
-| 193 | Canal 13 | xyktmobile00.s.gy | <https://xyktmobile00.s.gy/PPV908_TRECE_CHILE> |
-| 194 | Canal CHV Noticias | xyktmobile00.s.gy | <https://xyktmobile00.s.gy/PPV929_CIV_NOTICIAS> |
-| 195 | TV+ (720p) | IPv4 直链 | <http://190.234.82.52:8000/play/a0lz/index.m3u8> |
-| 196 | TV Chile (720p) | IPv4 直链 | <http://168.196.127.137:6001/play/a03n/index.m3u8> |
-| 197 | Canal Claro (720p) | IPv4 直链 | <http://168.196.127.137:6001/play/a04l/index.m3u8> |
-| 198 | TV Chile (576p) | IPv4 直链 | <http://38.252.238.18:8000/play/a04b/index.m3u8> |
-| 199 | Zona Sur TV (1080p) | IPv4 直链 | <http://170.79.235.133:8002/play/a063/index.m3u8> |
+| 172 | UTalca TV (1080p) | unlimited1-us.dps.live | <https://unlimited1-us.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8> |
+| 173 | Bio Bio TV (1080p) | redirector.rudo.video | <https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8> |
+| 174 | Agricultura TV (1080p) | redirector.rudo.video | <https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8> |
+| 175 | TV Chile | xyktmobile00.s.gy | <https://xyktmobile00.s.gy/093_TV_CHILE> |
+| 176 | Canal 13 | xyktmobile00.s.gy | <https://xyktmobile00.s.gy/PPV908_TRECE_CHILE> |
+| 177 | Canal CHV Noticias | xyktmobile00.s.gy | <https://xyktmobile00.s.gy/PPV929_CIV_NOTICIAS> |
+| 178 | TV+ (720p) | IPv4 直链 | <http://190.234.82.52:8000/play/a0lz/index.m3u8> |
+| 179 | TV Chile (720p) | IPv4 直链 | <http://168.196.127.137:6001/play/a03n/index.m3u8> |
+| 180 | Canal Claro (720p) | IPv4 直链 | <http://168.196.127.137:6001/play/a04l/index.m3u8> |
+| 181 | TV Chile (576p) | IPv4 直链 | <http://38.252.238.18:8000/play/a04b/index.m3u8> |
+| 182 | 24 Horas (1080p) | IPv4 直链 | <http://187.102.208.209:8000/play/a0a1/index.m3u8> |
+| 183 | Zona Sur TV (1080p) | IPv4 直链 | <http://170.79.235.133:8002/play/a063/index.m3u8> |
+| 184 | Meganoticias Ahora (1080p) | IPv4 直链 | <http://15.204.196.147:22880/MEGANOTICIA-MEGAMEDIA-EE.UU-PROVEEDOR/video.m3u8> |
 
-Updated at **Mon Oct 05 2026 23:53:05 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Oct 06 2026 05:34:26 GMT+0000 (Coordinated Universal Time)**

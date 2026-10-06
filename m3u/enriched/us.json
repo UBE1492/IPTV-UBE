@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1791244385921,
+  "updated_at": 1791264866451,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -1892,6 +1892,45 @@
       "url": "http://188.115.15.121:8000/play/a01u",
       "logo": "",
       "category": "Otros"
+    },
+    {
+      "name": "WWE Network (1080p)",
+      "url": "http://103.151.60.162:2122/play/a00p/index.m3u8?hls",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "AXN Black Hungary (576p)",
+      "url": "http://141.94.193.53:80/axn_black/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Novelisima (1080p)",
+      "url": "http://138.59.177.78:9999/play/a0gg/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Tennis Channel (1080p)",
+      "url": "http://138.59.177.78:9999/play/a0gl/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "3ABN Latino (1080p)",
+      "url": "http://138.59.177.78:9999/play/a0a3/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "MBC 1 USA",
+      "url": "",
+      "logo": "",
+      "category": "Otros",
+      "options": {
+        "http-referrer": "https://cdn.stmify.com/"
+      }
     }
   ],
   "categories": {
@@ -3785,6 +3824,45 @@
         "url": "http://188.115.15.121:8000/play/a01u",
         "logo": "",
         "category": "Otros"
+      },
+      {
+        "name": "WWE Network (1080p)",
+        "url": "http://103.151.60.162:2122/play/a00p/index.m3u8?hls",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "AXN Black Hungary (576p)",
+        "url": "http://141.94.193.53:80/axn_black/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Novelisima (1080p)",
+        "url": "http://138.59.177.78:9999/play/a0gg/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Tennis Channel (1080p)",
+        "url": "http://138.59.177.78:9999/play/a0gl/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "3ABN Latino (1080p)",
+        "url": "http://138.59.177.78:9999/play/a0a3/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "MBC 1 USA",
+        "url": "",
+        "logo": "",
+        "category": "Otros",
+        "options": {
+          "http-referrer": "https://cdn.stmify.com/"
+        }
       }
     ]
   }

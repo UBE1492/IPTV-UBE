@@ -1,6 +1,6 @@
 {
   "name": "uy",
-  "updated_at": 1791244386442,
+  "updated_at": 1791264866832,
   "m3u": "https://ube1492.github.io/IPTV-UBE/uy.m3u",
   "channels": [
     {
@@ -18,6 +18,12 @@
     {
       "name": "UCL (1080p)",
       "url": "https://livedelta.cdn.antel.net.uy/out/u/url_canalu_2.m3u8?m=1670250741",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Canal Mas (720p)",
+      "url": "https://canalmasuruguay.com/hls/master-abr.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -39,6 +45,12 @@
       {
         "name": "UCL (1080p)",
         "url": "https://livedelta.cdn.antel.net.uy/out/u/url_canalu_2.m3u8?m=1670250741",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Canal Mas (720p)",
+        "url": "https://canalmasuruguay.com/hls/master-abr.m3u8",
         "logo": "",
         "category": "Otros"
       }

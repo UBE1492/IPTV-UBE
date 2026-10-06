@@ -99,5 +99,9 @@
 | 93 | El Siete (1080p) | edgectc.com | <https://edgectc.com/CANAL7_MZA/index.m3u8> |
 | 94 | El Trece (1080p) | IPv4 直链 | <http://15.204.246.24:8080/eltreceHD/index.m3u8> |
 | 95 | Canal 12 Venado Tuerto (1080i) | nd106.republicaservers.com:4433 | <https://nd106.republicaservers.com:4433/hls/diegologonitv/index.m3u8> |
+| 96 | Pakapaka (1080p) | IPv4 直链 | <http://190.128.214.97:64333/play/a02r/index.m3u8> |
+| 97 | Encuentro (720p) | IPv4 直链 | <http://190.128.214.97:64333/play/a014/index.m3u8> |
+| 98 | Cronica TV (1080p) | IPv4 直链 | <http://190.128.214.97:64333/play/a010/index.m3u8> |
+| 99 | MusicTop (1080p) | IPv4 直链 | <http://190.128.214.97:64333/play/a06o/index.m3u8> |
 
-Updated at **Mon Oct 05 2026 23:53:05 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Oct 06 2026 05:34:26 GMT+0000 (Coordinated Universal Time)**

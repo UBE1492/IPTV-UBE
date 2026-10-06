@@ -15,3 +15,5 @@ http://181.78.12.119:16123/play/ch53/index.m3u8
 http://181.78.12.119:16123/play/ch54/index.m3u8
 #EXTINF:-1 tvg-id="MiMusicaSalsa.us@SD",Mi Musica Salsa (1080p)
 http://181.78.12.119:16123/play/ch55/index.m3u8
+#EXTINF:-1 tvg-id="3ABNLatino.us@SD",3ABN Latino (1080p)
+http://138.59.177.78:9999/play/a0a3/index.m3u8

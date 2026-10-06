@@ -21,7 +21,6 @@ Alacantí_TV_(576p)_[Not_24/7],https://streaming01.gestec-video.com/hls/artequat
 Alcarria_TV_(576p)_[Not_24/7],http://217.182.77.27/live/alcarriatv-livestream.m3u8
 Anime_Vision_(1080p),https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
 Anime_Vision_Classics_(1080p),https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
-Antena_3_Internacional,http://177.10.184.193:8000/play/a06a/index.m3u8
 Arabí_TV_(1080p),https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8
 Aragon_TV_Internacional_(720p)_[Not_24/7],https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 AXN_CEE,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -133,10 +132,10 @@ XPTV1_(720p),https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
 XPTV2_(720p),https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8
 XPTV_US_(720p),https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8
 Television_Canaria_(1080p),https://rtvclive.flumotion.cloud/rtvc1live/smil:channel1PRG.smil/playlist.m3u8
-TVE_Internacional_America_(1080p),https://cdn1tlinkgo.tlink.cl/tve/index.m3u8
 Clan_(1080p),https://lge-lgla2.otteravision.com/lge/lgcla/lgcla.m3u8
 AXN_CEE_Romania,#EXTVLCOPT:http-referrer=https://cool-tv.net/
 Tac12,https://ingest1-video.streaming-pro.com/tac12_ABR/stream/tacdotze/srtweb_1080/chunks.m3u8
+Antena_3_Internacional,https://xyktmobile00.s.gy/091_ANTENA3_INT
 Clan_Internacional,https://xyktmobile00.s.gy/PPV906_CLAN_INTE
 TVE_Internacional_Asia-Oceania,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 TVE_Star_HD_(1080p),http://38.252.238.18:8000/play/a01h/index.m3u8

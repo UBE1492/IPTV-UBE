@@ -1,6 +1,6 @@
 {
   "name": "mx",
-  "updated_at": 1791244385813,
+  "updated_at": 1791264866371,
   "m3u": "https://ube1492.github.io/IPTV-UBE/mx.m3u",
   "channels": [
     {
@@ -477,12 +477,6 @@
     {
       "name": "GikTVMX (720p)",
       "url": "https://pistream.ddns.net/hls/stream.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Az Cinema (1080p)",
-      "url": "https://cdn1tlinkgo.tlink.cl/azcinema/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -1215,12 +1209,6 @@
       {
         "name": "GikTVMX (720p)",
         "url": "https://pistream.ddns.net/hls/stream.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Az Cinema (1080p)",
-        "url": "https://cdn1tlinkgo.tlink.cl/azcinema/index.m3u8",
         "logo": "",
         "category": "Otros"
       },

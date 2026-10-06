@@ -269,3 +269,5 @@ http://45.171.64.30:6060/play/a010
 https://stream1.bitred.cl/ntn24/index.m3u8
 #EXTINF:-1 tvg-id="Canal1.co@SD",Canal 1 (1080p)
 http://190.109.2.92:8000/play/a010/index.m3u8
+#EXTINF:-1 tvg-id="RadiolaTV.co@SD",Radiola TV (1080p)
+http://158.172.217.18:8000/play/a01k/index.m3u8

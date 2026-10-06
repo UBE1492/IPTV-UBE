@@ -134,3 +134,4 @@ Canal_Telesantiago_(1080p),https://stream.canaltelesantiago.com:8000/play/TELESA
 Claro_Musica_TV_(1080p),http://45.171.64.30:6060/play/a010
 NTN24_(1080p),https://stream1.bitred.cl/ntn24/index.m3u8
 Canal_1_(1080p),http://190.109.2.92:8000/play/a010/index.m3u8
+Radiola_TV_(1080p),http://158.172.217.18:8000/play/a01k/index.m3u8

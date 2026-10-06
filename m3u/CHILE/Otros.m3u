@@ -88,7 +88,7 @@ https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="LaRed.cl@SD",La Red [Geo-blocked]
 https://tv-mgmt.gtd.cl/bpk-tv/LARED/default/index.m3u8
 #EXTINF:-1 tvg-id="Mega.cl@SD",Mega (1080p)
-http://15.204.246.24:8080/MEGAHD/index.m3u8
+http://tr.live.clarovtrcdn.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF:-1 tvg-id="Mega.cl@SD",Mega (720p)
 https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Mega2.cl@SD",Mega 2 (1080p)
@@ -141,19 +141,9 @@ https://stream.wapptv.cl/video/index.m3u8
 http://45.170.130.224:8000/play/a00x/index.m3u8
 #EXTINF:-1 tvg-id="ZoomTecnologicoPlus.cl@SD",Zoom Tecnologico Plus (720p)
 https://5f700d5b2c46f.streamlock.net/zoomtec/zoomtec/playlist.m3u8
-#EXTINF:-1 tvg-id="MegaFiccion.cl@SD",Mega Ficcion (1080p)
-http://cdn1tlinkgo.tlink.cl/megaficcion/mono.m3u8
-#EXTINF:-1 tvg-id="Megatiempo.cl@SD",Megatiempo (1080p)
-http://cdn1tlinkgo.tlink.cl/megatiempo/mono.m3u8
-#EXTINF:-1 tvg-id="24Horas.cl@SD",24 Horas (1080p)
-http://cdn1tlinkgo.tlink.cl/24horashd/mono.m3u8
-#EXTINF:-1 tvg-id="LaRed.cl@SD",La Red (1080p)
-http://cdn1tlinkgo.tlink.cl/laredhd/mono.m3u8
-#EXTINF:-1 tvg-id="ViaX.cl@SD",Via X (1080p)
-http://cdn1tlinkgo.tlink.cl/viax/mono.m3u8
-#EXTINF:-1 tvg-id="CDO.cl@SD",CDO (1080p)
-http://cdn1tlinkgo.tlink.cl/cdo/mono.m3u8
 #EXTINF:-1 tvg-id="Canal13.cl@SD",Canal 13
 https://xyktmobile00.s.gy/PPV908_TRECE_CHILE
 #EXTINF:-1 tvg-id="CanalClaro.cl@SD",Canal Claro (720p)
 http://168.196.127.137:6001/play/a04l/index.m3u8
+#EXTINF:-1 tvg-id="24Horas.cl@SD",24 Horas (1080p)
+http://187.102.208.209:8000/play/a0a1/index.m3u8

@@ -159,8 +159,6 @@ https://cloudvideo.servers10.com:8081/8016/index.m3u8
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 #EXTINF:-1 tvg-id="GikTVMX.mx@SD",GikTVMX (720p)
 https://pistream.ddns.net/hls/stream.m3u8
-#EXTINF:-1 tvg-id="AzCinema.mx@SD",Az Cinema (1080p)
-https://cdn1tlinkgo.tlink.cl/azcinema/index.m3u8
 #EXTINF:-1 tvg-id="Canal26.mx@SD",Canal 26
 https://5fe2654d6127d.streamlock.net:443/telemetrika3/_definst_/videotelemetrika3/playlist.m3u8
 #EXTINF:-1 tvg-id="UAATV.mx@SD",UAA TV (1080p)

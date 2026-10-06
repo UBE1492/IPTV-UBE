@@ -134,5 +134,6 @@
 | 128 | Claro Musica TV (1080p) | IPv4 直链 | <http://45.171.64.30:6060/play/a010> |
 | 129 | NTN24 (1080p) | stream1.bitred.cl | <https://stream1.bitred.cl/ntn24/index.m3u8> |
 | 130 | Canal 1 (1080p) | IPv4 直链 | <http://190.109.2.92:8000/play/a010/index.m3u8> |
+| 131 | Radiola TV (1080p) | IPv4 直链 | <http://158.172.217.18:8000/play/a01k/index.m3u8> |
 
-Updated at **Mon Oct 05 2026 23:53:06 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Oct 06 2026 05:34:26 GMT+0000 (Coordinated Universal Time)**

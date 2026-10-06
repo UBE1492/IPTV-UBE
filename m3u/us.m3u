@@ -635,3 +635,15 @@ http://193.254.245.162/Fox_Sports_1/index.m3u8
 http://190.197.41.183/USA_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="AXNWhite.us@Portugal",AXN White Portugal (576p)
 http://188.115.15.121:8000/play/a01u
+#EXTINF:-1 tvg-id="WWENetwork.us@SD",WWE Network (1080p)
+http://103.151.60.162:2122/play/a00p/index.m3u8?hls
+#EXTINF:-1 tvg-id="AXNBlack.us@Hungary",AXN Black Hungary (576p)
+http://141.94.193.53:80/axn_black/index.m3u8
+#EXTINF:-1 tvg-id="Novelisima.us@SD",Novelisima (1080p)
+http://138.59.177.78:9999/play/a0gg/index.m3u8
+#EXTINF:-1 tvg-id="TennisChannel.us@SD",Tennis Channel (1080p)
+http://138.59.177.78:9999/play/a0gl/index.m3u8
+#EXTINF:-1 tvg-id="3ABNLatino.us@SD",3ABN Latino (1080p)
+http://138.59.177.78:9999/play/a0a3/index.m3u8
+#EXTINF:-1 tvg-id="MBC1USA.us@SD",MBC 1 USA
+#EXTVLCOPT:http-referrer=https://cdn.stmify.com/
