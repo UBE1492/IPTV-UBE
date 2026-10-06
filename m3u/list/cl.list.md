@@ -189,4 +189,4 @@
 | 183 | Zona Sur TV (1080p) | IPv4 直链 | <http://170.79.235.133:8002/play/a063/index.m3u8> |
 | 184 | Meganoticias Ahora (1080p) | IPv4 直链 | <http://15.204.196.147:22880/MEGANOTICIA-MEGAMEDIA-EE.UU-PROVEEDOR/video.m3u8> |
 
-Updated at **Tue Oct 06 2026 05:34:26 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Oct 06 2026 13:00:47 GMT+0000 (Coordinated Universal Time)**
