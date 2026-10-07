@@ -1,6 +1,6 @@
 {
   "name": "ar",
-  "updated_at": 1791325773238,
+  "updated_at": 1791349482723,
   "m3u": "https://ube1492.github.io/IPTV-UBE/ar.m3u",
   "channels": [
     {
@@ -580,32 +580,20 @@
       }
     },
     {
-      "name": "Canal 12 Venado Tuerto (1080i)",
-      "url": "https://nd106.republicaservers.com:4433/hls/diegologonitv/index.m3u8",
+      "name": "Aunar (1080p)",
+      "url": "http://190.128.214.97:64333/play/a057/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "Pakapaka (1080p)",
-      "url": "http://190.128.214.97:64333/play/a02r/index.m3u8",
+      "name": "Canal 4 Posadas (1080p)",
+      "url": "http://190.128.214.97:64333/play/a06l/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "Encuentro (720p)",
-      "url": "http://190.128.214.97:64333/play/a014/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Cronica TV (1080p)",
-      "url": "http://190.128.214.97:64333/play/a010/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "MusicTop (1080p)",
-      "url": "http://190.128.214.97:64333/play/a06o/index.m3u8",
+      "name": "Canal 7 TV (576p) [Not 24/7]",
+      "url": "https://k-fra32.x10.network/Clrs/test/hls/1158394/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -1189,32 +1177,20 @@
         }
       },
       {
-        "name": "Canal 12 Venado Tuerto (1080i)",
-        "url": "https://nd106.republicaservers.com:4433/hls/diegologonitv/index.m3u8",
+        "name": "Aunar (1080p)",
+        "url": "http://190.128.214.97:64333/play/a057/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "Pakapaka (1080p)",
-        "url": "http://190.128.214.97:64333/play/a02r/index.m3u8",
+        "name": "Canal 4 Posadas (1080p)",
+        "url": "http://190.128.214.97:64333/play/a06l/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "Encuentro (720p)",
-        "url": "http://190.128.214.97:64333/play/a014/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Cronica TV (1080p)",
-        "url": "http://190.128.214.97:64333/play/a010/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "MusicTop (1080p)",
-        "url": "http://190.128.214.97:64333/play/a06o/index.m3u8",
+        "name": "Canal 7 TV (576p) [Not 24/7]",
+        "url": "https://k-fra32.x10.network/Clrs/test/hls/1158394/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       }

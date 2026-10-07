@@ -135,11 +135,8 @@ Television_Canaria_(1080p),https://rtvclive.flumotion.cloud/rtvc1live/smil:chann
 Clan_(1080p),https://lge-lgla2.otteravision.com/lge/lgcla/lgcla.m3u8
 AXN_CEE_Romania,#EXTVLCOPT:http-referrer=https://cool-tv.net/
 Tac12,https://ingest1-video.streaming-pro.com/tac12_ABR/stream/tacdotze/srtweb_1080/chunks.m3u8
-Antena_3_Internacional,https://xyktmobile00.s.gy/091_ANTENA3_INT
-Clan_Internacional,https://xyktmobile00.s.gy/PPV906_CLAN_INTE
-TVE_Internacional_Asia-Oceania,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-TVE_Star_HD_(1080p),http://38.252.238.18:8000/play/a01h/index.m3u8
-Antena_3_Internacional_(1080p),http://38.252.238.18:8000/play/a04a/index.m3u8
-AXN_(1080p),http://193.254.245.162/AXN/index.m3u8
-AXN_Movies,https://cdn.stmify.com/zapitv/stream/AXN_MOVIES/axn_white.mpd
-Antena_3,https://cdn.stmify.com/zapitv/stream/ANTENA_3/test.mpd
+La_1_(1086p),https://cdn.stmify.com/zapitv/stream/LA_1/la1_4k.mpd
+Sundance_TV,https://cdn.stmify.com/zapitv/stream/SUNDANCE_TV/sundance_hd.mpd
+Canal_Sur,https://cdn.stmify.com/zapitv/stream/CANAL_SUR/canal_sur_hd.mpd
+Clan_Internacional_(1080p),http://168.228.44.241:9999/play/a04j/index.m3u8
+TVE_Internacional_Europe,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36

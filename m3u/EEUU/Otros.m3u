@@ -235,14 +235,6 @@ http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
 https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8
 #EXTINF:-1 tvg-id="ConcertChannel.us@SD",Concert Channel (720p)
 http://45.167.1.138:8000/play/a04i
-#EXTINF:-1 tvg-id="DreamWorksChannelLatinAmerica.us@Panregional",DreamWorks Channel Latin America
-https://xyktmobile00.s.gy/PPV913_DREAMWO
-#EXTINF:-1 tvg-id="Galavision.us@West",Galavision West
-https://xyktmobile00.s.gy/PPV914_GALAVISION
-#EXTINF:-1 tvg-id="BabyFirst.us@Spanish",BabyFirst Spanish
-https://xyktmobile00.s.gy/PPV915_BABYFIR
-#EXTINF:-1 tvg-id="KBSAmerica.us@SD",KBS America
-https://xyktmobile00.s.gy/PPV918_KBSAMERI
 #EXTINF:-1 tvg-id="BabyFirst.us@Spanish",BabyFirst Spanish (1080p)
 http://168.196.127.137:6001/play/a06j/index.m3u8
 #EXTINF:-1 tvg-id="DHE.us@SD",DHE (1080p)
@@ -251,8 +243,6 @@ http://38.252.238.18:8000/play/a01f/index.m3u8
 http://181.78.8.199:8000/play/a0cu/index.m3u8
 #EXTINF:-1 tvg-id="FXLatinAmerica.us@Panregional",FX Latin America (1080p)
 http://38.252.238.18:8000/play/a01c/index.m3u8
-#EXTINF:-1 tvg-id="SmithsonianChannelAsia.us@SD",Smithsonian Channel Asia [Geo-blocked]
-https://xyktmobile00.s.gy/PPV940_SMITHSONIAN
 #EXTINF:-1 tvg-id="PasionesLatinAmerica.us@SD",Pasiones Latin America (1080p)
 http://190.60.55.141:9083/play/a0ni/index.m3u8
 #EXTINF:-1 tvg-id="UniMas.us@WAMIDT",UniMas WAMI-DT (1080p)
@@ -280,4 +270,6 @@ http://138.59.177.78:9999/play/a0gg/index.m3u8
 #EXTINF:-1 tvg-id="TennisChannel.us@SD",Tennis Channel (1080p)
 http://138.59.177.78:9999/play/a0gl/index.m3u8
 #EXTINF:-1 tvg-id="MBC1USA.us@SD",MBC 1 USA
+#EXTVLCOPT:http-referrer=https://cdn.stmify.com/
+#EXTINF:-1 tvg-id="MBC3USA.us@SD",MBC 3 USA (1080p)
 #EXTVLCOPT:http-referrer=https://cdn.stmify.com/

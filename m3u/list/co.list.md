@@ -111,29 +111,27 @@
 | 105 | NTN24 (720p) | IPv4 直链 | <http://181.78.12.119:16123/play/ch80/index.m3u8> |
 | 106 | Win Sports (1080p) | IPv4 直链 | <http://181.78.12.119:16123/play/ch18/index.m3u8> |
 | 107 | Win+ Futbol (1080p) | IPv4 直链 | <http://181.78.12.119:16123/play/ch19/index.m3u8> |
-| 108 | NTN24 | xyktmobile00.s.gy | <https://xyktmobile00.s.gy/PPV933_NTNCO> |
-| 109 | RCN Novelas (480p) | IPv4 直链 | <http://181.65.191.173:8069/play/a061> |
-| 110 | TVAgro (720p) | IPv4 直链 | <http://168.228.44.241:9999/play/a04n/index.m3u8> |
-| 111 | Win Sports (576p) | IPv4 直链 | <http://168.228.44.241:9999/play/a050/index.m3u8> |
-| 112 | Teleantioquia (720p) | IPv4 直链 | <http://38.134.250.110:8000/play/a012/index.m3u8> |
-| 113 | Telecaribe (720p) | IPv4 直链 | <http://38.134.250.110:8000/play/a013/index.m3u8> |
-| 114 | TeleNostalgia (1080p) | IPv4 直链 | <http://38.134.250.110:8000/play/a01q/index.m3u8> |
-| 115 | Canal Institucional (1080p) | IPv4 直链 | <http://190.61.47.54:8000/play/a00v/index.m3u8> |
-| 116 | Caracol Internacional (1080p) | IPv4 直链 | <http://167.249.23.102:8000/play/a0ax/index.m3u8> |
-| 117 | Noticias RCN | xyktmobile00.s.gy | <https://xyktmobile00.s.gy/PPV937_NUESTRA_TELE> |
-| 118 | Trece (1080p) | IPv4 直链 | <http://190.60.46.228:8888/play/a030/index.m3u8> |
-| 119 | Star Channel (1080p) | IPv4 直链 | <http://190.61.47.54:8000/play/a035/index.m3u8> |
-| 120 | Teleislas (720p) | IPv4 直链 | <http://190.61.47.54:8000/play/a015/index.m3u8> |
-| 121 | Teleislas (576p) | IPv4 直链 | <http://181.78.211.244:8005/play/a08d/index.m3u8> |
-| 122 | Canal 1 (720p) | IPv4 直链 | <http://38.134.250.110:8000/play/a014/index.m3u8> |
-| 123 | Canal Capital (720p) | IPv4 直链 | <http://190.61.47.54:8000/play/a00x/index.m3u8> |
-| 124 | Caracol Internacional (720p) | IPv4 直链 | <http://200.115.120.1:8000/play/ca067/index.m3u8> |
-| 125 | Nuestra Tele Internacional (1080p) | IPv4 直链 | <http://45.173.231.22:8000/play/a0cr/index.m3u8> |
-| 126 | CNC Medellin (1080p) | IPv4 直链 | <http://138.94.3.106:8000/play/a02o/index.m3u8> |
-| 127 | Canal Telesantiago (1080p) | stream.canaltelesantiago.com:8000 | <https://stream.canaltelesantiago.com:8000/play/TELESANTIAGO/index.m3u8> |
-| 128 | Claro Musica TV (1080p) | IPv4 直链 | <http://45.171.64.30:6060/play/a010> |
-| 129 | NTN24 (1080p) | stream1.bitred.cl | <https://stream1.bitred.cl/ntn24/index.m3u8> |
-| 130 | Canal 1 (1080p) | IPv4 直链 | <http://190.109.2.92:8000/play/a010/index.m3u8> |
-| 131 | Radiola TV (1080p) | IPv4 直链 | <http://158.172.217.18:8000/play/a01k/index.m3u8> |
+| 108 | RCN Novelas (480p) | IPv4 直链 | <http://181.65.191.173:8069/play/a061> |
+| 109 | TVAgro (720p) | IPv4 直链 | <http://168.228.44.241:9999/play/a04n/index.m3u8> |
+| 110 | Win Sports (576p) | IPv4 直链 | <http://168.228.44.241:9999/play/a050/index.m3u8> |
+| 111 | Teleantioquia (720p) | IPv4 直链 | <http://38.134.250.110:8000/play/a012/index.m3u8> |
+| 112 | Telecaribe (720p) | IPv4 直链 | <http://38.134.250.110:8000/play/a013/index.m3u8> |
+| 113 | TeleNostalgia (1080p) | IPv4 直链 | <http://38.134.250.110:8000/play/a01q/index.m3u8> |
+| 114 | Canal Institucional (1080p) | IPv4 直链 | <http://190.61.47.54:8000/play/a00v/index.m3u8> |
+| 115 | Caracol Internacional (1080p) | IPv4 直链 | <http://167.249.23.102:8000/play/a0ax/index.m3u8> |
+| 116 | Trece (1080p) | IPv4 直链 | <http://190.60.46.228:8888/play/a030/index.m3u8> |
+| 117 | Star Channel (1080p) | IPv4 直链 | <http://190.61.47.54:8000/play/a035/index.m3u8> |
+| 118 | Teleislas (720p) | IPv4 直链 | <http://190.61.47.54:8000/play/a015/index.m3u8> |
+| 119 | Teleislas (576p) | IPv4 直链 | <http://181.78.211.244:8005/play/a08d/index.m3u8> |
+| 120 | Canal 1 (720p) | IPv4 直链 | <http://38.134.250.110:8000/play/a014/index.m3u8> |
+| 121 | Canal Capital (720p) | IPv4 直链 | <http://190.61.47.54:8000/play/a00x/index.m3u8> |
+| 122 | Caracol Internacional (720p) | IPv4 直链 | <http://200.115.120.1:8000/play/ca067/index.m3u8> |
+| 123 | Nuestra Tele Internacional (1080p) | IPv4 直链 | <http://45.173.231.22:8000/play/a0cr/index.m3u8> |
+| 124 | CNC Medellin (1080p) | IPv4 直链 | <http://138.94.3.106:8000/play/a02o/index.m3u8> |
+| 125 | Canal Telesantiago (1080p) | stream.canaltelesantiago.com:8000 | <https://stream.canaltelesantiago.com:8000/play/TELESANTIAGO/index.m3u8> |
+| 126 | Claro Musica TV (1080p) | IPv4 直链 | <http://45.171.64.30:6060/play/a010> |
+| 127 | NTN24 (1080p) | stream1.bitred.cl | <https://stream1.bitred.cl/ntn24/index.m3u8> |
+| 128 | Canal 1 (1080p) | IPv4 直链 | <http://190.109.2.92:8000/play/a010/index.m3u8> |
+| 129 | Radiola TV (1080p) | IPv4 直链 | <http://158.172.217.18:8000/play/a01k/index.m3u8> |
 
-Updated at **Tue Oct 06 2026 22:29:33 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Oct 07 2026 05:04:43 GMT+0000 (Coordinated Universal Time)**

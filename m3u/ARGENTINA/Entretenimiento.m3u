@@ -41,5 +41,5 @@ https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8
 https://canaletaplus.com:3922/live/cosmoslive.m3u8
 #EXTINF:-1 tvg-id="EcoTV.ar@SD",Eco TV
 https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
-#EXTINF:-1 tvg-id="CronicaTV.ar@SD",Cronica TV (1080p)
-http://190.128.214.97:64333/play/a010/index.m3u8
+#EXTINF:-1 tvg-id="Canal7TV.ar@SD",Canal 7 TV (576p) [Not 24/7]
+https://k-fra32.x10.network/Clrs/test/hls/1158394/playlist.m3u8

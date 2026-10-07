@@ -1,6 +1,6 @@
 {
   "name": "co",
-  "updated_at": 1791325773466,
+  "updated_at": 1791349483415,
   "m3u": "https://ube1492.github.io/IPTV-UBE/co.m3u",
   "channels": [
     {
@@ -664,12 +664,6 @@
       "category": "Otros"
     },
     {
-      "name": "NTN24",
-      "url": "https://xyktmobile00.s.gy/PPV933_NTNCO",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "RCN Novelas (480p)",
       "url": "http://181.65.191.173:8069/play/a061",
       "logo": "",
@@ -714,12 +708,6 @@
     {
       "name": "Caracol Internacional (1080p)",
       "url": "http://167.249.23.102:8000/play/a0ax/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Noticias RCN",
-      "url": "https://xyktmobile00.s.gy/PPV937_NUESTRA_TELE",
       "logo": "",
       "category": "Otros"
     },
@@ -1471,12 +1459,6 @@
         "category": "Otros"
       },
       {
-        "name": "NTN24",
-        "url": "https://xyktmobile00.s.gy/PPV933_NTNCO",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "RCN Novelas (480p)",
         "url": "http://181.65.191.173:8069/play/a061",
         "logo": "",
@@ -1521,12 +1503,6 @@
       {
         "name": "Caracol Internacional (1080p)",
         "url": "http://167.249.23.102:8000/play/a0ax/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Noticias RCN",
-        "url": "https://xyktmobile00.s.gy/PPV937_NUESTRA_TELE",
         "logo": "",
         "category": "Otros"
       },

@@ -96,8 +96,6 @@ El_Siete_(1080p),https://edgectc.com/CANAL7_MZA/index.m3u8
 El_Trece_(1080p),http://15.204.246.24:8080/eltreceHD/index.m3u8
 Xtrema_Cartoons,#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1390
 Xtrema_Terror,#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1456
-Canal_12_Venado_Tuerto_(1080i),https://nd106.republicaservers.com:4433/hls/diegologonitv/index.m3u8
-Pakapaka_(1080p),http://190.128.214.97:64333/play/a02r/index.m3u8
-Encuentro_(720p),http://190.128.214.97:64333/play/a014/index.m3u8
-Cronica_TV_(1080p),http://190.128.214.97:64333/play/a010/index.m3u8
-MusicTop_(1080p),http://190.128.214.97:64333/play/a06o/index.m3u8
+Aunar_(1080p),http://190.128.214.97:64333/play/a057/index.m3u8
+Canal_4_Posadas_(1080p),http://190.128.214.97:64333/play/a06l/index.m3u8
+Canal_7_TV_(576p)_[Not_24/7],https://k-fra32.x10.network/Clrs/test/hls/1158394/playlist.m3u8

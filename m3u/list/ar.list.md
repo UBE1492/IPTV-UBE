@@ -98,10 +98,8 @@
 | 92 | El Nueve (1080p) | IPv4 直链 | <http://15.204.246.24:8080/elnueveHD/index.m3u8> |
 | 93 | El Siete (1080p) | edgectc.com | <https://edgectc.com/CANAL7_MZA/index.m3u8> |
 | 94 | El Trece (1080p) | IPv4 直链 | <http://15.204.246.24:8080/eltreceHD/index.m3u8> |
-| 95 | Canal 12 Venado Tuerto (1080i) | nd106.republicaservers.com:4433 | <https://nd106.republicaservers.com:4433/hls/diegologonitv/index.m3u8> |
-| 96 | Pakapaka (1080p) | IPv4 直链 | <http://190.128.214.97:64333/play/a02r/index.m3u8> |
-| 97 | Encuentro (720p) | IPv4 直链 | <http://190.128.214.97:64333/play/a014/index.m3u8> |
-| 98 | Cronica TV (1080p) | IPv4 直链 | <http://190.128.214.97:64333/play/a010/index.m3u8> |
-| 99 | MusicTop (1080p) | IPv4 直链 | <http://190.128.214.97:64333/play/a06o/index.m3u8> |
+| 95 | Aunar (1080p) | IPv4 直链 | <http://190.128.214.97:64333/play/a057/index.m3u8> |
+| 96 | Canal 4 Posadas (1080p) | IPv4 直链 | <http://190.128.214.97:64333/play/a06l/index.m3u8> |
+| 97 | Canal 7 TV (576p) [Not 24/7] | k-fra32.x10.network | <https://k-fra32.x10.network/Clrs/test/hls/1158394/playlist.m3u8> |
 
-Updated at **Tue Oct 06 2026 22:29:33 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Oct 07 2026 05:04:42 GMT+0000 (Coordinated Universal Time)**

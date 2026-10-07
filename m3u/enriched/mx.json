@@ -1,6 +1,6 @@
 {
   "name": "mx",
-  "updated_at": 1791325773124,
+  "updated_at": 1791349483074,
   "m3u": "https://ube1492.github.io/IPTV-UBE/mx.m3u",
   "channels": [
     {
@@ -511,30 +511,6 @@
       "category": "Otros"
     },
     {
-      "name": "Canal 5",
-      "url": "https://xyktmobile00.s.gy/PPV903_CANAL_5",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "CineLatino",
-      "url": "https://xyktmobile00.s.gy/PPV905_CINE_LATINO",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Golden Premier",
-      "url": "https://xyktmobile00.s.gy/PPV902_GOLDENP1_HD",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "bitMe Latin America",
-      "url": "https://xyktmobile00.s.gy/PPV913_BITM_JUE",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "CineLatino (720p)",
       "url": "http://206.135.11.174:8010/play/a0lq/index.m3u8",
       "logo": "",
@@ -579,12 +555,6 @@
     {
       "name": "Bandamax (1080p)",
       "url": "http://181.78.106.127:5000/play/ca064/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "De Pelicula Latin America",
-      "url": "https://xyktmobile00.s.gy/PPV934_DEPELICU",
       "logo": "",
       "category": "Otros"
     },
@@ -1243,30 +1213,6 @@
         "category": "Otros"
       },
       {
-        "name": "Canal 5",
-        "url": "https://xyktmobile00.s.gy/PPV903_CANAL_5",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "CineLatino",
-        "url": "https://xyktmobile00.s.gy/PPV905_CINE_LATINO",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Golden Premier",
-        "url": "https://xyktmobile00.s.gy/PPV902_GOLDENP1_HD",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "bitMe Latin America",
-        "url": "https://xyktmobile00.s.gy/PPV913_BITM_JUE",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "CineLatino (720p)",
         "url": "http://206.135.11.174:8010/play/a0lq/index.m3u8",
         "logo": "",
@@ -1311,12 +1257,6 @@
       {
         "name": "Bandamax (1080p)",
         "url": "http://181.78.106.127:5000/play/ca064/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "De Pelicula Latin America",
-        "url": "https://xyktmobile00.s.gy/PPV934_DEPELICU",
         "logo": "",
         "category": "Otros"
       },

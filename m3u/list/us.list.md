@@ -279,46 +279,45 @@
 | 273 | Mi Musica Romantica (1080p) | IPv4 直链 | <http://181.78.12.119:16123/play/ch54/index.m3u8> |
 | 274 | Mi Musica Salsa (1080p) | IPv4 直链 | <http://181.78.12.119:16123/play/ch55/index.m3u8> |
 | 275 | News12+ Long Island (1080p) [Geo-blocked] | mdc4.ott.alticeusa.net | <https://mdc4.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8> |
-| 276 | DreamWorks Channel Latin America | xyktmobile00.s.gy | <https://xyktmobile00.s.gy/PPV913_DREAMWO> |
-| 277 | Galavision West | xyktmobile00.s.gy | <https://xyktmobile00.s.gy/PPV914_GALAVISION> |
-| 278 | BabyFirst Spanish | xyktmobile00.s.gy | <https://xyktmobile00.s.gy/PPV915_BABYFIR> |
-| 279 | KBS America | xyktmobile00.s.gy | <https://xyktmobile00.s.gy/PPV918_KBSAMERI> |
-| 280 | Telemundo Internacional (1080p) | IPv4 直链 | <http://168.196.127.137:6001/play/a05t/index.m3u8> |
-| 281 | Telemundo WKAQ-TV (1080p) | nbculocallive.akamaized.net | <https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8> |
-| 282 | Semillitas TV (1080p) | IPv4 直链 | <http://168.196.127.137:6001/play/a04y/index.m3u8> |
-| 283 | BabyFirst Spanish (1080p) | IPv4 直链 | <http://168.196.127.137:6001/play/a06j/index.m3u8> |
-| 284 | DHE (1080p) | IPv4 直链 | <http://38.252.238.18:8000/play/a01f/index.m3u8> |
-| 285 | DSports (1080p) | IPv4 直链 | <http://38.187.7.252:8000/play/a03d/index.m3u8> |
-| 286 | ESNE TV (720p) | IPv4 直链 | <http://168.196.127.137:6001/play/a071/index.m3u8> |
-| 287 | Hola! TV Latin America (1080p) | IPv4 直链 | <http://168.196.127.137:6001/play/a03q/index.m3u8> |
-| 288 | AXN Latin America Andes (1080p) | IPv4 直链 | <http://181.78.8.199:8000/play/a0cu/index.m3u8> |
-| 289 | Sony Movies Latin America (1080p) | IPv4 直链 | <http://38.252.238.18:8000/play/a01e/index.m3u8> |
-| 290 | FX Latin America (1080p) | IPv4 直链 | <http://38.252.238.18:8000/play/a01c/index.m3u8> |
-| 291 | Golf Channel Latin America (1080p) | IPv4 直链 | <http://38.252.238.18:8000/play/a01i/index.m3u8> |
-| 292 | Smithsonian Channel Asia [Geo-blocked] | xyktmobile00.s.gy | <https://xyktmobile00.s.gy/PPV940_SMITHSONIAN> |
-| 293 | Telemundo West | xyktmobile00.s.gy | <https://xyktmobile00.s.gy/PPV943_CANAL27_ESAL> |
-| 294 | NBA TV (720p) | rezofoot.tv | <http://rezofoot.tv/NBATV/index.m3u8> |
-| 295 | EWTN Spain & Latin America (576p) | IPv4 直链 | <http://187.102.208.209:8000/play/a0ac/index.m3u8> |
-| 296 | Lifetime Latin America (1080p) | IPv4 直链 | <http://187.102.208.209:8000/play/a0ad/index.m3u8> |
-| 297 | Pasiones Latin America (1080p) | IPv4 直链 | <http://190.60.55.141:9083/play/a0ni/index.m3u8> |
-| 298 | HBO Hits West HD (1080p) | sra72yz.s.gy | <https://sra72yz.s.gy/HBO_HITS_WEST_HD.m3u8> |
-| 299 | DSports 2 (1080p) | IPv4 直链 | <http://187.102.208.209:8000/play/a0bq/index.m3u8> |
-| 300 | UniMas WAMI-DT (1080p) | IPv4 直链 | <http://190.197.41.183/Unimas/index.m3u8> |
-| 301 | NBC WTLV (1080p) | IPv4 直链 | <http://190.197.41.183/NBC/index.m3u8> |
-| 302 | Fox WSVN (1080p) | IPv4 直链 | <http://190.197.41.183/Fox/index.m3u8> |
-| 303 | TeleXitos (1080p) | IPv4 直链 | <http://190.197.41.183/TELEXITOS/index.m3u8> |
-| 304 | National Geographic Latin America (1080p) | IPv4 直链 | <http://45.173.231.22:8000/play/a05z/index.m3u8> |
-| 305 | Daystar TV Espanol (1080p) | IPv4 直链 | <http://167.249.23.102:8000/play/a0ev/index.m3u8> |
-| 306 | ESNE TV (1080p) | IPv4 直链 | <http://190.217.66.92:8000/play/a0fp/index.m3u8> |
-| 307 | VH1 (432p) | IPv4 直链 | <http://193.254.245.162/VH1/index.m3u8> |
-| 308 | Paramount Network (432p) | IPv4 直链 | <http://193.254.245.162/PARAMOUNT-CHANNEL/index.m3u8> |
-| 309 | Fox Sports 1 (720p) | IPv4 直链 | <http://193.254.245.162/Fox_Sports_1/index.m3u8> |
-| 310 | USA Network (720p) | IPv4 直链 | <http://190.197.41.183/USA_NETWORK/index.m3u8> |
-| 311 | AXN White Portugal (576p) | IPv4 直链 | <http://188.115.15.121:8000/play/a01u> |
-| 312 | WWE Network (1080p) | IPv4 直链 | <http://103.151.60.162:2122/play/a00p/index.m3u8?hls> |
-| 313 | AXN Black Hungary (576p) | IPv4 直链 | <http://141.94.193.53:80/axn_black/index.m3u8> |
-| 314 | Novelisima (1080p) | IPv4 直链 | <http://138.59.177.78:9999/play/a0gg/index.m3u8> |
-| 315 | Tennis Channel (1080p) | IPv4 直链 | <http://138.59.177.78:9999/play/a0gl/index.m3u8> |
-| 316 | 3ABN Latino (1080p) | IPv4 直链 | <http://138.59.177.78:9999/play/a0a3/index.m3u8> |
+| 276 | Telemundo Internacional (1080p) | IPv4 直链 | <http://168.196.127.137:6001/play/a05t/index.m3u8> |
+| 277 | Telemundo WKAQ-TV (1080p) | nbculocallive.akamaized.net | <https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8> |
+| 278 | Semillitas TV (1080p) | IPv4 直链 | <http://168.196.127.137:6001/play/a04y/index.m3u8> |
+| 279 | BabyFirst Spanish (1080p) | IPv4 直链 | <http://168.196.127.137:6001/play/a06j/index.m3u8> |
+| 280 | DHE (1080p) | IPv4 直链 | <http://38.252.238.18:8000/play/a01f/index.m3u8> |
+| 281 | DSports (1080p) | IPv4 直链 | <http://38.187.7.252:8000/play/a03d/index.m3u8> |
+| 282 | ESNE TV (720p) | IPv4 直链 | <http://168.196.127.137:6001/play/a071/index.m3u8> |
+| 283 | Hola! TV Latin America (1080p) | IPv4 直链 | <http://168.196.127.137:6001/play/a03q/index.m3u8> |
+| 284 | AXN Latin America Andes (1080p) | IPv4 直链 | <http://181.78.8.199:8000/play/a0cu/index.m3u8> |
+| 285 | Sony Movies Latin America (1080p) | IPv4 直链 | <http://38.252.238.18:8000/play/a01e/index.m3u8> |
+| 286 | FX Latin America (1080p) | IPv4 直链 | <http://38.252.238.18:8000/play/a01c/index.m3u8> |
+| 287 | Golf Channel Latin America (1080p) | IPv4 直链 | <http://38.252.238.18:8000/play/a01i/index.m3u8> |
+| 288 | NBA TV (720p) | rezofoot.tv | <http://rezofoot.tv/NBATV/index.m3u8> |
+| 289 | EWTN Spain & Latin America (576p) | IPv4 直链 | <http://187.102.208.209:8000/play/a0ac/index.m3u8> |
+| 290 | Lifetime Latin America (1080p) | IPv4 直链 | <http://187.102.208.209:8000/play/a0ad/index.m3u8> |
+| 291 | Pasiones Latin America (1080p) | IPv4 直链 | <http://190.60.55.141:9083/play/a0ni/index.m3u8> |
+| 292 | DSports 2 (1080p) | IPv4 直链 | <http://187.102.208.209:8000/play/a0bq/index.m3u8> |
+| 293 | UniMas WAMI-DT (1080p) | IPv4 直链 | <http://190.197.41.183/Unimas/index.m3u8> |
+| 294 | NBC WTLV (1080p) | IPv4 直链 | <http://190.197.41.183/NBC/index.m3u8> |
+| 295 | Fox WSVN (1080p) | IPv4 直链 | <http://190.197.41.183/Fox/index.m3u8> |
+| 296 | TeleXitos (1080p) | IPv4 直链 | <http://190.197.41.183/TELEXITOS/index.m3u8> |
+| 297 | National Geographic Latin America (1080p) | IPv4 直链 | <http://45.173.231.22:8000/play/a05z/index.m3u8> |
+| 298 | Daystar TV Espanol (1080p) | IPv4 直链 | <http://167.249.23.102:8000/play/a0ev/index.m3u8> |
+| 299 | ESNE TV (1080p) | IPv4 直链 | <http://190.217.66.92:8000/play/a0fp/index.m3u8> |
+| 300 | VH1 (432p) | IPv4 直链 | <http://193.254.245.162/VH1/index.m3u8> |
+| 301 | Paramount Network (432p) | IPv4 直链 | <http://193.254.245.162/PARAMOUNT-CHANNEL/index.m3u8> |
+| 302 | Fox Sports 1 (720p) | IPv4 直链 | <http://193.254.245.162/Fox_Sports_1/index.m3u8> |
+| 303 | USA Network (720p) | IPv4 直链 | <http://190.197.41.183/USA_NETWORK/index.m3u8> |
+| 304 | AXN White Portugal (576p) | IPv4 直链 | <http://188.115.15.121:8000/play/a01u> |
+| 305 | WWE Network (1080p) | IPv4 直链 | <http://103.151.60.162:2122/play/a00p/index.m3u8?hls> |
+| 306 | AXN Black Hungary (576p) | IPv4 直链 | <http://141.94.193.53:80/axn_black/index.m3u8> |
+| 307 | Novelisima (1080p) | IPv4 直链 | <http://138.59.177.78:9999/play/a0gg/index.m3u8> |
+| 308 | Tennis Channel (1080p) | IPv4 直链 | <http://138.59.177.78:9999/play/a0gl/index.m3u8> |
+| 309 | 3ABN Latino (1080p) | IPv4 直链 | <http://138.59.177.78:9999/play/a0a3/index.m3u8> |
+| 310 | AMC Series Latin America (1080p) | IPv4 直链 | <http://45.171.64.30:6060/play/a005/index.m3u8> |
+| 311 | Maxcine (720p) | live20.bozztv.com | <https://live20.bozztv.com/giatvplayout7/giatv-208138/playlist.m3u8> |
+| 312 | Maxcine Comedy (720p) | live20.bozztv.com | <https://live20.bozztv.com/giatvplayout7/giatv-208730/playlist.m3u8> |
+| 313 | Maxcine Family (720p) | live20.bozztv.com | <https://live20.bozztv.com/giatvplayout7/giatv-208817/playlist.m3u8> |
+| 314 | Maxcine Kids (720p) | live20.bozztv.com | <https://live20.bozztv.com/giatvplayout7/giatv-209909/playlist.m3u8> |
+| 315 | Maxcine 2 (720p) | live20.bozztv.com | <https://live20.bozztv.com/giatvplayout7/giatv-209163/playlist.m3u8> |
 
-Updated at **Tue Oct 06 2026 22:29:33 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Oct 07 2026 05:04:43 GMT+0000 (Coordinated Universal Time)**

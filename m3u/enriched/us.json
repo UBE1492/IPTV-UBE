@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1791325773413,
+  "updated_at": 1791349483121,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -1678,30 +1678,6 @@
       "category": "Otros"
     },
     {
-      "name": "DreamWorks Channel Latin America",
-      "url": "https://xyktmobile00.s.gy/PPV913_DREAMWO",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Galavision West",
-      "url": "https://xyktmobile00.s.gy/PPV914_GALAVISION",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "BabyFirst Spanish",
-      "url": "https://xyktmobile00.s.gy/PPV915_BABYFIR",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "KBS America",
-      "url": "https://xyktmobile00.s.gy/PPV918_KBSAMERI",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Telemundo Internacional (1080p)",
       "url": "http://168.196.127.137:6001/play/a05t/index.m3u8",
       "logo": "",
@@ -1774,18 +1750,6 @@
       "category": "Otros"
     },
     {
-      "name": "Smithsonian Channel Asia [Geo-blocked]",
-      "url": "https://xyktmobile00.s.gy/PPV940_SMITHSONIAN",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Telemundo West",
-      "url": "https://xyktmobile00.s.gy/PPV943_CANAL27_ESAL",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "NBA TV (720p)",
       "url": "http://rezofoot.tv/NBATV/index.m3u8",
       "logo": "",
@@ -1806,12 +1770,6 @@
     {
       "name": "Pasiones Latin America (1080p)",
       "url": "http://190.60.55.141:9083/play/a0ni/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "HBO Hits West HD (1080p)",
-      "url": "https://sra72yz.s.gy/HBO_HITS_WEST_HD.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -1925,12 +1883,48 @@
     },
     {
       "name": "MBC 1 USA",
-      "url": "",
+      "url": "#EXTINF:-1 tvg-id=\"MBC3USA.us@SD\",MBC 3 USA (1080p)",
       "logo": "",
       "category": "Otros",
       "options": {
         "http-referrer": "https://cdn.stmify.com/"
       }
+    },
+    {
+      "name": "AMC Series Latin America (1080p)",
+      "url": "http://45.171.64.30:6060/play/a005/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Maxcine (720p)",
+      "url": "https://live20.bozztv.com/giatvplayout7/giatv-208138/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Maxcine Comedy (720p)",
+      "url": "https://live20.bozztv.com/giatvplayout7/giatv-208730/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Maxcine Family (720p)",
+      "url": "https://live20.bozztv.com/giatvplayout7/giatv-208817/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Maxcine Kids (720p)",
+      "url": "https://live20.bozztv.com/giatvplayout7/giatv-209909/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Maxcine 2 (720p)",
+      "url": "https://live20.bozztv.com/giatvplayout7/giatv-209163/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
     }
   ],
   "categories": {
@@ -3610,30 +3604,6 @@
         "category": "Otros"
       },
       {
-        "name": "DreamWorks Channel Latin America",
-        "url": "https://xyktmobile00.s.gy/PPV913_DREAMWO",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Galavision West",
-        "url": "https://xyktmobile00.s.gy/PPV914_GALAVISION",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "BabyFirst Spanish",
-        "url": "https://xyktmobile00.s.gy/PPV915_BABYFIR",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "KBS America",
-        "url": "https://xyktmobile00.s.gy/PPV918_KBSAMERI",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "Telemundo Internacional (1080p)",
         "url": "http://168.196.127.137:6001/play/a05t/index.m3u8",
         "logo": "",
@@ -3706,18 +3676,6 @@
         "category": "Otros"
       },
       {
-        "name": "Smithsonian Channel Asia [Geo-blocked]",
-        "url": "https://xyktmobile00.s.gy/PPV940_SMITHSONIAN",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Telemundo West",
-        "url": "https://xyktmobile00.s.gy/PPV943_CANAL27_ESAL",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "NBA TV (720p)",
         "url": "http://rezofoot.tv/NBATV/index.m3u8",
         "logo": "",
@@ -3738,12 +3696,6 @@
       {
         "name": "Pasiones Latin America (1080p)",
         "url": "http://190.60.55.141:9083/play/a0ni/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "HBO Hits West HD (1080p)",
-        "url": "https://sra72yz.s.gy/HBO_HITS_WEST_HD.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -3857,12 +3809,48 @@
       },
       {
         "name": "MBC 1 USA",
-        "url": "",
+        "url": "#EXTINF:-1 tvg-id=\"MBC3USA.us@SD\",MBC 3 USA (1080p)",
         "logo": "",
         "category": "Otros",
         "options": {
           "http-referrer": "https://cdn.stmify.com/"
         }
+      },
+      {
+        "name": "AMC Series Latin America (1080p)",
+        "url": "http://45.171.64.30:6060/play/a005/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Maxcine (720p)",
+        "url": "https://live20.bozztv.com/giatvplayout7/giatv-208138/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Maxcine Comedy (720p)",
+        "url": "https://live20.bozztv.com/giatvplayout7/giatv-208730/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Maxcine Family (720p)",
+        "url": "https://live20.bozztv.com/giatvplayout7/giatv-208817/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Maxcine Kids (720p)",
+        "url": "https://live20.bozztv.com/giatvplayout7/giatv-209909/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Maxcine 2 (720p)",
+        "url": "https://live20.bozztv.com/giatvplayout7/giatv-209163/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
       }
     ]
   }

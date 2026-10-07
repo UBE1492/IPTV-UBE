@@ -178,15 +178,13 @@
 | 172 | UTalca TV (1080p) | unlimited1-us.dps.live | <https://unlimited1-us.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8> |
 | 173 | Bio Bio TV (1080p) | redirector.rudo.video | <https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8> |
 | 174 | Agricultura TV (1080p) | redirector.rudo.video | <https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8> |
-| 175 | TV Chile | xyktmobile00.s.gy | <https://xyktmobile00.s.gy/093_TV_CHILE> |
-| 176 | Canal 13 | xyktmobile00.s.gy | <https://xyktmobile00.s.gy/PPV908_TRECE_CHILE> |
-| 177 | Canal CHV Noticias | xyktmobile00.s.gy | <https://xyktmobile00.s.gy/PPV929_CIV_NOTICIAS> |
-| 178 | TV+ (720p) | IPv4 直链 | <http://190.234.82.52:8000/play/a0lz/index.m3u8> |
-| 179 | TV Chile (720p) | IPv4 直链 | <http://168.196.127.137:6001/play/a03n/index.m3u8> |
-| 180 | Canal Claro (720p) | IPv4 直链 | <http://168.196.127.137:6001/play/a04l/index.m3u8> |
-| 181 | TV Chile (576p) | IPv4 直链 | <http://38.252.238.18:8000/play/a04b/index.m3u8> |
-| 182 | 24 Horas (1080p) | IPv4 直链 | <http://187.102.208.209:8000/play/a0a1/index.m3u8> |
-| 183 | Zona Sur TV (1080p) | IPv4 直链 | <http://170.79.235.133:8002/play/a063/index.m3u8> |
-| 184 | Meganoticias Ahora (1080p) | IPv4 直链 | <http://15.204.196.147:22880/MEGANOTICIA-MEGAMEDIA-EE.UU-PROVEEDOR/video.m3u8> |
+| 175 | TV+ (720p) | IPv4 直链 | <http://190.234.82.52:8000/play/a0lz/index.m3u8> |
+| 176 | TV Chile (720p) | IPv4 直链 | <http://168.196.127.137:6001/play/a03n/index.m3u8> |
+| 177 | Canal Claro (720p) | IPv4 直链 | <http://168.196.127.137:6001/play/a04l/index.m3u8> |
+| 178 | TV Chile (576p) | IPv4 直链 | <http://38.252.238.18:8000/play/a04b/index.m3u8> |
+| 179 | 24 Horas (1080p) | IPv4 直链 | <http://187.102.208.209:8000/play/a0a1/index.m3u8> |
+| 180 | Zona Sur TV (1080p) | IPv4 直链 | <http://170.79.235.133:8002/play/a063/index.m3u8> |
+| 181 | Meganoticias Ahora (1080p) | IPv4 直链 | <http://15.204.196.147:22880/MEGANOTICIA-MEGAMEDIA-EE.UU-PROVEEDOR/video.m3u8> |
+| 182 | Mega Ficcion (1080p) | IPv4 直链 | <http://15.204.196.147:22880/MEGAFICCION-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8> |
 
-Updated at **Tue Oct 06 2026 22:29:33 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Oct 07 2026 05:04:43 GMT+0000 (Coordinated Universal Time)**

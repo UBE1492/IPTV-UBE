@@ -271,19 +271,13 @@ https://lge-lgla2.otteravision.com/lge/lgcla/lgcla.m3u8
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 #EXTINF:-1 tvg-id="Tac12.es@SD",Tac12
 https://ingest1-video.streaming-pro.com/tac12_ABR/stream/tacdotze/srtweb_1080/chunks.m3u8
-#EXTINF:-1 tvg-id="Antena3Internacional.es@SD",Antena 3 Internacional
-https://xyktmobile00.s.gy/091_ANTENA3_INT
-#EXTINF:-1 tvg-id="ClanInternacional.es@SD",Clan Internacional
-https://xyktmobile00.s.gy/PPV906_CLAN_INTE
-#EXTINF:-1 tvg-id="TVEInternacionalAsiaOceania.es@SD",TVE Internacional Asia-Oceania
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="TVEStar.es@HD",TVE Star HD (1080p)
-http://38.252.238.18:8000/play/a01h/index.m3u8
-#EXTINF:-1 tvg-id="Antena3Internacional.es@SD",Antena 3 Internacional (1080p)
-http://38.252.238.18:8000/play/a04a/index.m3u8
-#EXTINF:-1 tvg-id="AXN.es@SD",AXN (1080p)
-http://193.254.245.162/AXN/index.m3u8
-#EXTINF:-1 tvg-id="AXNMovies.es@SD",AXN Movies
-https://cdn.stmify.com/zapitv/stream/AXN_MOVIES/axn_white.mpd
-#EXTINF:-1 tvg-id="Antena3.es@National",Antena 3
-https://cdn.stmify.com/zapitv/stream/ANTENA_3/test.mpd
+#EXTINF:-1 tvg-id="La1.es@SD",La 1 (1086p)
+https://cdn.stmify.com/zapitv/stream/LA_1/la1_4k.mpd
+#EXTINF:-1 tvg-id="SundanceTV.es@SD",Sundance TV
+https://cdn.stmify.com/zapitv/stream/SUNDANCE_TV/sundance_hd.mpd
+#EXTINF:-1 tvg-id="CanalSur.es@SD",Canal Sur
+https://cdn.stmify.com/zapitv/stream/CANAL_SUR/canal_sur_hd.mpd
+#EXTINF:-1 tvg-id="ClanInternacional.es@SD",Clan Internacional (1080p)
+http://168.228.44.241:9999/play/a04j/index.m3u8
+#EXTINF:-1 tvg-id="TVEInternacionalEurope.es@SD",TVE Internacional Europe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36

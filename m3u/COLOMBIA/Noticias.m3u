@@ -1,5 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Cablenoticias.co@SD",Cablenoticias (1080p)
 http://181.78.211.244:8005/play/a09u/index.m3u8
-#EXTINF:-1 tvg-id="NoticiasRCN.co@SD",Noticias RCN
-https://xyktmobile00.s.gy/PPV937_NUESTRA_TELE

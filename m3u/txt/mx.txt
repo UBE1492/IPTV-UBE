@@ -84,10 +84,6 @@ UAA_TV_(1080p),https://5fe2654d6127d.streamlock.net:443/uaa2/videouaa2/playlist.
 Golden_(720p),http://138.121.15.230:9002/GOLDEN/index.m3u8
 Distrito_Comedia_(1080p),http://138.121.15.230:9002/DISTRITO-COMEDIA/index.m3u8
 Golden_Edge_(1080p),http://138.121.15.230:9002/GOLDEN-EDGE/index.m3u8
-Canal_5,https://xyktmobile00.s.gy/PPV903_CANAL_5
-CineLatino,https://xyktmobile00.s.gy/PPV905_CINE_LATINO
-Golden_Premier,https://xyktmobile00.s.gy/PPV902_GOLDENP1_HD
-bitMe_Latin_America,https://xyktmobile00.s.gy/PPV913_BITM_JUE
 CineLatino_(720p),http://206.135.11.174:8010/play/a0lq/index.m3u8
 CineLatino_(576p),http://200.115.96.61:9090/play/a0i5/index.m3u8
 Golden_Premier_(1080p),http://200.229.147.210:9999/play/a00k/index.m3u8
@@ -96,7 +92,6 @@ bitMe_(720p),http://181.119.66.28:8081/BITME/index.m3u8
 bitMe_(576p),http://200.229.147.210:9999/play/a01y/index.m3u8
 TeleHit_(576p),http://200.115.120.1:8000/play/ca048/index.m3u8
 Bandamax_(1080p),http://181.78.106.127:5000/play/ca064/index.m3u8
-De_Pelicula_Latin_America,https://xyktmobile00.s.gy/PPV934_DEPELICU
 De_Pelicula_Latin_America_(720p),http://181.224.200.5:2277/play/a0d1/index.m3u8
 Azteca_7_(1080p),http://187.245.231.226:8000/play/a0uz/index.m3u8
 Las_Estrellas_(1080p),http://45.189.151.7:8000/play/a07s

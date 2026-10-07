@@ -119,12 +119,9 @@
 | 113 | Television Canaria (1080p) | rtvclive.flumotion.cloud | <https://rtvclive.flumotion.cloud/rtvc1live/smil:channel1PRG.smil/playlist.m3u8> |
 | 114 | Clan (1080p) | lge-lgla2.otteravision.com | <https://lge-lgla2.otteravision.com/lge/lgcla/lgcla.m3u8> |
 | 115 | Tac12 | ingest1-video.streaming-pro.com | <https://ingest1-video.streaming-pro.com/tac12_ABR/stream/tacdotze/srtweb_1080/chunks.m3u8> |
-| 116 | Antena 3 Internacional | xyktmobile00.s.gy | <https://xyktmobile00.s.gy/091_ANTENA3_INT> |
-| 117 | Clan Internacional | xyktmobile00.s.gy | <https://xyktmobile00.s.gy/PPV906_CLAN_INTE> |
-| 118 | TVE Star HD (1080p) | IPv4 直链 | <http://38.252.238.18:8000/play/a01h/index.m3u8> |
-| 119 | Antena 3 Internacional (1080p) | IPv4 直链 | <http://38.252.238.18:8000/play/a04a/index.m3u8> |
-| 120 | AXN (1080p) | IPv4 直链 | <http://193.254.245.162/AXN/index.m3u8> |
-| 121 | AXN Movies | cdn.stmify.com | <https://cdn.stmify.com/zapitv/stream/AXN_MOVIES/axn_white.mpd> |
-| 122 | Antena 3 | cdn.stmify.com | <https://cdn.stmify.com/zapitv/stream/ANTENA_3/test.mpd> |
+| 116 | La 1 (1086p) | cdn.stmify.com | <https://cdn.stmify.com/zapitv/stream/LA_1/la1_4k.mpd> |
+| 117 | Sundance TV | cdn.stmify.com | <https://cdn.stmify.com/zapitv/stream/SUNDANCE_TV/sundance_hd.mpd> |
+| 118 | Canal Sur | cdn.stmify.com | <https://cdn.stmify.com/zapitv/stream/CANAL_SUR/canal_sur_hd.mpd> |
+| 119 | Clan Internacional (1080p) | IPv4 直链 | <http://168.228.44.241:9999/play/a04j/index.m3u8> |
 
-Updated at **Tue Oct 06 2026 22:29:33 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Oct 07 2026 05:04:43 GMT+0000 (Coordinated Universal Time)**

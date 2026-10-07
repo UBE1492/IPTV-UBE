@@ -1,6 +1,6 @@
 {
   "name": "es",
-  "updated_at": 1791325773377,
+  "updated_at": 1791349483156,
   "m3u": "https://ube1492.github.io/IPTV-UBE/es.m3u",
   "channels": [
     {
@@ -763,49 +763,37 @@
       }
     },
     {
-      "name": "Antena 3 Internacional",
-      "url": "https://xyktmobile00.s.gy/091_ANTENA3_INT",
+      "name": "La 1 (1086p)",
+      "url": "https://cdn.stmify.com/zapitv/stream/LA_1/la1_4k.mpd",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "Clan Internacional",
-      "url": "https://xyktmobile00.s.gy/PPV906_CLAN_INTE",
+      "name": "Sundance TV",
+      "url": "https://cdn.stmify.com/zapitv/stream/SUNDANCE_TV/sundance_hd.mpd",
       "logo": "",
       "category": "Otros"
     },
     {
-      "name": "TVE Internacional Asia-Oceania",
-      "url": "#EXTINF:-1 tvg-id=\"TVEStar.es@HD\",TVE Star HD (1080p)",
+      "name": "Canal Sur",
+      "url": "https://cdn.stmify.com/zapitv/stream/CANAL_SUR/canal_sur_hd.mpd",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Clan Internacional (1080p)",
+      "url": "http://168.228.44.241:9999/play/a04j/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "TVE Internacional Europe",
+      "url": "",
       "logo": "",
       "category": "Otros",
       "options": {
-        "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+        "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
       }
-    },
-    {
-      "name": "Antena 3 Internacional (1080p)",
-      "url": "http://38.252.238.18:8000/play/a04a/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "AXN (1080p)",
-      "url": "http://193.254.245.162/AXN/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "AXN Movies",
-      "url": "https://cdn.stmify.com/zapitv/stream/AXN_MOVIES/axn_white.mpd",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Antena 3",
-      "url": "https://cdn.stmify.com/zapitv/stream/ANTENA_3/test.mpd",
-      "logo": "",
-      "category": "Otros"
     }
   ],
   "categories": {
@@ -1570,49 +1558,37 @@
         }
       },
       {
-        "name": "Antena 3 Internacional",
-        "url": "https://xyktmobile00.s.gy/091_ANTENA3_INT",
+        "name": "La 1 (1086p)",
+        "url": "https://cdn.stmify.com/zapitv/stream/LA_1/la1_4k.mpd",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "Clan Internacional",
-        "url": "https://xyktmobile00.s.gy/PPV906_CLAN_INTE",
+        "name": "Sundance TV",
+        "url": "https://cdn.stmify.com/zapitv/stream/SUNDANCE_TV/sundance_hd.mpd",
         "logo": "",
         "category": "Otros"
       },
       {
-        "name": "TVE Internacional Asia-Oceania",
-        "url": "#EXTINF:-1 tvg-id=\"TVEStar.es@HD\",TVE Star HD (1080p)",
+        "name": "Canal Sur",
+        "url": "https://cdn.stmify.com/zapitv/stream/CANAL_SUR/canal_sur_hd.mpd",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Clan Internacional (1080p)",
+        "url": "http://168.228.44.241:9999/play/a04j/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "TVE Internacional Europe",
+        "url": "",
         "logo": "",
         "category": "Otros",
         "options": {
-          "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
-      },
-      {
-        "name": "Antena 3 Internacional (1080p)",
-        "url": "http://38.252.238.18:8000/play/a04a/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "AXN (1080p)",
-        "url": "http://193.254.245.162/AXN/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "AXN Movies",
-        "url": "https://cdn.stmify.com/zapitv/stream/AXN_MOVIES/axn_white.mpd",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Antena 3",
-        "url": "https://cdn.stmify.com/zapitv/stream/ANTENA_3/test.mpd",
-        "logo": "",
-        "category": "Otros"
       }
     ]
   }

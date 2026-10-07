@@ -75,10 +75,6 @@ https://cloudvideo.servers10.com:8081/8016/index.m3u8
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 #EXTINF:-1 tvg-id="Canal26.mx@SD",Canal 26
 https://5fe2654d6127d.streamlock.net:443/telemetrika3/_definst_/videotelemetrika3/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal5.mx@SD",Canal 5
-https://xyktmobile00.s.gy/PPV903_CANAL_5
-#EXTINF:-1 tvg-id="bitMeLatinAmerica.mx@SD",bitMe Latin America
-https://xyktmobile00.s.gy/PPV913_BITM_JUE
 #EXTINF:-1 tvg-id="bitMe.mx@SD",bitMe (720p)
 http://181.119.66.28:8081/BITME/index.m3u8
 #EXTINF:-1 tvg-id="bitMe.mx@SD",bitMe (576p)

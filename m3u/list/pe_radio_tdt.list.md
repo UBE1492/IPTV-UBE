@@ -5,5 +5,6 @@
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
 | 1 | RPP Noticias Perú | mdstrm.com | <https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/live.m3u8> |
+| 2 | Radio Oxígeno Perú | mdstrm.com | <https://mdstrm.com/audio/5fab0687bcd6c2389ee9480c/icecast.audio> |
 
-Updated at **Tue Oct 06 2026 22:29:42 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Oct 07 2026 05:04:50 GMT+0000 (Coordinated Universal Time)**

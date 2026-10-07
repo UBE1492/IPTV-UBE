@@ -281,10 +281,6 @@ Mi_Musica_Reggaeton_(1080p),http://181.78.12.119:16123/play/ch53/index.m3u8
 Mi_Musica_Romantica_(1080p),http://181.78.12.119:16123/play/ch54/index.m3u8
 Mi_Musica_Salsa_(1080p),http://181.78.12.119:16123/play/ch55/index.m3u8
 News12+_Long_Island_(1080p)_[Geo-blocked],https://mdc4.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8
-DreamWorks_Channel_Latin_America,https://xyktmobile00.s.gy/PPV913_DREAMWO
-Galavision_West,https://xyktmobile00.s.gy/PPV914_GALAVISION
-BabyFirst_Spanish,https://xyktmobile00.s.gy/PPV915_BABYFIR
-KBS_America,https://xyktmobile00.s.gy/PPV918_KBSAMERI
 Telemundo_Internacional_(1080p),http://168.196.127.137:6001/play/a05t/index.m3u8
 Telemundo_WKAQ-TV_(1080p),https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
 Semillitas_TV_(1080p),http://168.196.127.137:6001/play/a04y/index.m3u8
@@ -297,13 +293,10 @@ AXN_Latin_America_Andes_(1080p),http://181.78.8.199:8000/play/a0cu/index.m3u8
 Sony_Movies_Latin_America_(1080p),http://38.252.238.18:8000/play/a01e/index.m3u8
 FX_Latin_America_(1080p),http://38.252.238.18:8000/play/a01c/index.m3u8
 Golf_Channel_Latin_America_(1080p),http://38.252.238.18:8000/play/a01i/index.m3u8
-Smithsonian_Channel_Asia_[Geo-blocked],https://xyktmobile00.s.gy/PPV940_SMITHSONIAN
-Telemundo_West,https://xyktmobile00.s.gy/PPV943_CANAL27_ESAL
 NBA_TV_(720p),http://rezofoot.tv/NBATV/index.m3u8
 EWTN_Spain_&_Latin_America_(576p),http://187.102.208.209:8000/play/a0ac/index.m3u8
 Lifetime_Latin_America_(1080p),http://187.102.208.209:8000/play/a0ad/index.m3u8
 Pasiones_Latin_America_(1080p),http://190.60.55.141:9083/play/a0ni/index.m3u8
-HBO_Hits_West_HD_(1080p),https://sra72yz.s.gy/HBO_HITS_WEST_HD.m3u8
 DSports_2_(1080p),http://187.102.208.209:8000/play/a0bq/index.m3u8
 UniMas_WAMI-DT_(1080p),http://190.197.41.183/Unimas/index.m3u8
 NBC_WTLV_(1080p),http://190.197.41.183/NBC/index.m3u8
@@ -323,3 +316,10 @@ Novelisima_(1080p),http://138.59.177.78:9999/play/a0gg/index.m3u8
 Tennis_Channel_(1080p),http://138.59.177.78:9999/play/a0gl/index.m3u8
 3ABN_Latino_(1080p),http://138.59.177.78:9999/play/a0a3/index.m3u8
 MBC_1_USA,#EXTVLCOPT:http-referrer=https://cdn.stmify.com/
+MBC_3_USA_(1080p),#EXTVLCOPT:http-referrer=https://cdn.stmify.com/
+AMC_Series_Latin_America_(1080p),http://45.171.64.30:6060/play/a005/index.m3u8
+Maxcine_(720p),https://live20.bozztv.com/giatvplayout7/giatv-208138/playlist.m3u8
+Maxcine_Comedy_(720p),https://live20.bozztv.com/giatvplayout7/giatv-208730/playlist.m3u8
+Maxcine_Family_(720p),https://live20.bozztv.com/giatvplayout7/giatv-208817/playlist.m3u8
+Maxcine_Kids_(720p),https://live20.bozztv.com/giatvplayout7/giatv-209909/playlist.m3u8
+Maxcine_2_(720p),https://live20.bozztv.com/giatvplayout7/giatv-209163/playlist.m3u8
