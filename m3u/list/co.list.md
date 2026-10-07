@@ -134,4 +134,4 @@
 | 128 | Canal 1 (1080p) | IPv4 直链 | <http://190.109.2.92:8000/play/a010/index.m3u8> |
 | 129 | Radiola TV (1080p) | IPv4 直链 | <http://158.172.217.18:8000/play/a01k/index.m3u8> |
 
-Updated at **Wed Oct 07 2026 05:04:43 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Oct 07 2026 12:55:12 GMT+0000 (Coordinated Universal Time)**
