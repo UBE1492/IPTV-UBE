@@ -102,4 +102,4 @@
 | 96 | Canal 4 Posadas (1080p) | IPv4 直链 | <http://190.128.214.97:64333/play/a06l/index.m3u8> |
 | 97 | Canal 7 TV (576p) [Not 24/7] | k-fra32.x10.network | <https://k-fra32.x10.network/Clrs/test/hls/1158394/playlist.m3u8> |
 
-Updated at **Wed Oct 07 2026 12:55:12 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Oct 07 2026 22:53:30 GMT+0000 (Coordinated Universal Time)**
