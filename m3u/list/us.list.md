@@ -319,5 +319,21 @@
 | 313 | Maxcine Family (720p) | live20.bozztv.com | <https://live20.bozztv.com/giatvplayout7/giatv-208817/playlist.m3u8> |
 | 314 | Maxcine Kids (720p) | live20.bozztv.com | <https://live20.bozztv.com/giatvplayout7/giatv-209909/playlist.m3u8> |
 | 315 | Maxcine 2 (720p) | live20.bozztv.com | <https://live20.bozztv.com/giatvplayout7/giatv-209163/playlist.m3u8> |
+| 316 | TNT (720p) | IPv4 直链 | <http://193.254.245.162/TNT-HD/index.m3u8> |
+| 317 | TBS (720p) | IPv4 直链 | <http://193.254.245.162/TBS/index.m3u8> |
+| 318 | truTV (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_TRUTV/index.m3u8> |
+| 319 | TNT (720p) [Geo-blocked] | IPv4 直链 | <http://212.5.144.156/tnt/index.m3u8> |
+| 320 | Cinemax West (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8> |
+| 321 | Destination America (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8> |
+| 322 | Tooncast (1080p) | IPv4 直链 | <http://38.134.250.110:8000/play/a01t/index.m3u8> |
+| 323 | TCM Latin America South (1080p) | IPv4 直链 | <http://45.171.64.30:6060/play/a014/index.m3u8> |
+| 324 | Cinemax Latin America HD (1080p) | IPv4 直链 | <http://38.65.175.84:8000/play/a093/index.m3u8> |
+| 325 | TNT Latin America (1080p) | IPv4 直链 | <http://45.171.64.30:6060/play/a03i/index.m3u8> |
+| 326 | TNT Series Latin America (1080p) | IPv4 直链 | <http://168.196.127.137:6001/play/a095/index.m3u8> |
+| 327 | Discovery Channel Latin America (1080p) | IPv4 直链 | <http://45.171.64.30:6060/play/a032/index.m3u8> |
+| 328 | Cartoon Network Latin America South Atlantic (1080p) | IPv4 直链 | <http://158.172.217.18:8000/play/a03a/index.m3u8> |
+| 329 | Cartoon Network Latin America North Atlantic (1080p) | IPv4 直链 | <http://38.252.238.18:8000/play/a053/index.m3u8> |
+| 330 | Discovery Kids Latin America Mexico (1080p) | IPv4 直链 | <http://38.65.175.84:8000/play/a0an/index.m3u8> |
+| 331 | Investigation Discovery Latin America South (1080p) | IPv4 直链 | <http://38.65.175.84:8000/play/a0ch/index.m3u8> |
 
-Updated at **Wed Oct 07 2026 22:53:30 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Oct 08 2026 05:15:07 GMT+0000 (Coordinated Universal Time)**

@@ -21,3 +21,5 @@ https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8
 https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
 #EXTINF:-1 tvg-id="ANTV.ve@SD",ANTV (720p)
 http://181.78.8.199:8000/play/a0fo/index.m3u8
+#EXTINF:-1 tvg-id="TVes.ve@SD",TVes (1080p)
+https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8

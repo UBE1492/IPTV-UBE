@@ -273,3 +273,17 @@ http://138.59.177.78:9999/play/a0gl/index.m3u8
 #EXTVLCOPT:http-referrer=https://cdn.stmify.com/
 #EXTINF:-1 tvg-id="MBC3USA.us@SD",MBC 3 USA (1080p)
 #EXTVLCOPT:http-referrer=https://cdn.stmify.com/
+#EXTINF:-1 tvg-id="TNT.us@East",TNT (720p)
+http://193.254.245.162/TNT-HD/index.m3u8
+#EXTINF:-1 tvg-id="TBS.us@East",TBS (720p)
+http://193.254.245.162/TBS/index.m3u8
+#EXTINF:-1 tvg-id="TNT.us@East",TNT (720p) [Geo-blocked]
+http://212.5.144.156/tnt/index.m3u8
+#EXTINF:-1 tvg-id="DestinationAmerica.us@SD",Destination America (720p)
+http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
+#EXTINF:-1 tvg-id="Tooncast.us@SD",Tooncast (1080p)
+http://38.134.250.110:8000/play/a01t/index.m3u8
+#EXTINF:-1 tvg-id="TCMLatinAmerica.us@South",TCM Latin America South (1080p)
+http://45.171.64.30:6060/play/a014/index.m3u8
+#EXTINF:-1 tvg-id="TNTLatinAmerica.us@Center",TNT Latin America (1080p)
+http://45.171.64.30:6060/play/a03i/index.m3u8

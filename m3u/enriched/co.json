@@ -1,6 +1,6 @@
 {
   "name": "co",
-  "updated_at": 1791413611077,
+  "updated_at": 1791436507988,
   "m3u": "https://ube1492.github.io/IPTV-UBE/co.m3u",
   "channels": [
     {
@@ -792,6 +792,36 @@
     {
       "name": "Radiola TV (1080p)",
       "url": "http://158.172.217.18:8000/play/a01k/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Raizal TV (1080p)",
+      "url": "http://200.122.223.13:55000/play/raizal-tv-ses-6/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Tele Amiga (720p)",
+      "url": "http://200.122.223.13:55000/play/tele-amiga-ses-6/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "La Kalle (1080p)",
+      "url": "http://200.122.223.13:55000/play/la-kalle-tdt/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Tele Vid (1080p)",
+      "url": "http://200.122.223.13:55000/play/a01n/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Cristovision (576i)",
+      "url": "http://200.122.223.13:55000/play/cristovision-ses-6/index.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -1587,6 +1617,36 @@
       {
         "name": "Radiola TV (1080p)",
         "url": "http://158.172.217.18:8000/play/a01k/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Raizal TV (1080p)",
+        "url": "http://200.122.223.13:55000/play/raizal-tv-ses-6/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Tele Amiga (720p)",
+        "url": "http://200.122.223.13:55000/play/tele-amiga-ses-6/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "La Kalle (1080p)",
+        "url": "http://200.122.223.13:55000/play/la-kalle-tdt/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Tele Vid (1080p)",
+        "url": "http://200.122.223.13:55000/play/a01n/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Cristovision (576i)",
+        "url": "http://200.122.223.13:55000/play/cristovision-ses-6/index.m3u8",
         "logo": "",
         "category": "Otros"
       }

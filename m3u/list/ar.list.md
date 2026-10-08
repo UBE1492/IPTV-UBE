@@ -101,5 +101,6 @@
 | 95 | Aunar (1080p) | IPv4 直链 | <http://190.128.214.97:64333/play/a057/index.m3u8> |
 | 96 | Canal 4 Posadas (1080p) | IPv4 直链 | <http://190.128.214.97:64333/play/a06l/index.m3u8> |
 | 97 | Canal 7 TV (576p) [Not 24/7] | k-fra32.x10.network | <https://k-fra32.x10.network/Clrs/test/hls/1158394/playlist.m3u8> |
+| 98 | Film & Arts (1080p) | IPv4 直链 | <http://200.115.120.1:8000/play/ca131/index.m3u8> |
 
-Updated at **Wed Oct 07 2026 22:53:30 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Oct 08 2026 05:15:06 GMT+0000 (Coordinated Universal Time)**

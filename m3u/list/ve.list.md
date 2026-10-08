@@ -26,5 +26,6 @@
 | 20 | Televen (1080p) | IPv4 直链 | <http://38.134.250.110:8000/play/a02i/index.m3u8> |
 | 21 | Ve Plus (720p) | IPv4 直链 | <http://186.148.196.100:8000/play/a01d> |
 | 22 | Telesur (1080p) | IPv4 直链 | <http://181.78.211.244:8005/play/a0cc/index.m3u8> |
+| 23 | TVes (1080p) | vs20.live.opencaster.com | <https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8> |
 
-Updated at **Wed Oct 07 2026 22:53:30 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Oct 08 2026 05:15:07 GMT+0000 (Coordinated Universal Time)**

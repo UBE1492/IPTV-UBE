@@ -116,3 +116,5 @@ Canal_Once_(1080p),https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist
 Claro_Cinema_(1080p),http://158.172.217.18:8000/play/a00d/index.m3u8
 Az_Corazon_(720p),http://200.115.120.1:8000/play/ca020/index.m3u8
 TeleHit_(1080p),http://190.61.47.54:8000/play/a029/index.m3u8
+Azteca_Uno_(1080p),http://38.44.109.41:8003/play/a033/index.m3u8
+Maria_Vision_(1080p),http://200.122.223.13:55000/play/a022/index.m3u8

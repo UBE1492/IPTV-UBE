@@ -133,3 +133,8 @@ Claro_Musica_TV_(1080p),http://45.171.64.30:6060/play/a010
 NTN24_(1080p),https://stream1.bitred.cl/ntn24/index.m3u8
 Canal_1_(1080p),http://190.109.2.92:8000/play/a010/index.m3u8
 Radiola_TV_(1080p),http://158.172.217.18:8000/play/a01k/index.m3u8
+Raizal_TV_(1080p),http://200.122.223.13:55000/play/raizal-tv-ses-6/index.m3u8
+Tele_Amiga_(720p),http://200.122.223.13:55000/play/tele-amiga-ses-6/index.m3u8
+La_Kalle_(1080p),http://200.122.223.13:55000/play/la-kalle-tdt/index.m3u8
+Tele_Vid_(1080p),http://200.122.223.13:55000/play/a01n/index.m3u8
+Cristovision_(576i),http://200.122.223.13:55000/play/cristovision-ses-6/index.m3u8

@@ -133,5 +133,10 @@
 | 127 | NTN24 (1080p) | stream1.bitred.cl | <https://stream1.bitred.cl/ntn24/index.m3u8> |
 | 128 | Canal 1 (1080p) | IPv4 直链 | <http://190.109.2.92:8000/play/a010/index.m3u8> |
 | 129 | Radiola TV (1080p) | IPv4 直链 | <http://158.172.217.18:8000/play/a01k/index.m3u8> |
+| 130 | Raizal TV (1080p) | IPv4 直链 | <http://200.122.223.13:55000/play/raizal-tv-ses-6/index.m3u8> |
+| 131 | Tele Amiga (720p) | IPv4 直链 | <http://200.122.223.13:55000/play/tele-amiga-ses-6/index.m3u8> |
+| 132 | La Kalle (1080p) | IPv4 直链 | <http://200.122.223.13:55000/play/la-kalle-tdt/index.m3u8> |
+| 133 | Tele Vid (1080p) | IPv4 直链 | <http://200.122.223.13:55000/play/a01n/index.m3u8> |
+| 134 | Cristovision (576i) | IPv4 直链 | <http://200.122.223.13:55000/play/cristovision-ses-6/index.m3u8> |
 
-Updated at **Wed Oct 07 2026 22:53:31 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Oct 08 2026 05:15:07 GMT+0000 (Coordinated Universal Time)**

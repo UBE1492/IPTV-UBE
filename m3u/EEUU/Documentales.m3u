@@ -1,3 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TVSHollywoodHistory.us@SD",TVS Hollywood History (582p)
 https://rpn.bozztv.com/gusa/gusa-tvshollywoohistory/index.m3u8
+#EXTINF:-1 tvg-id="MilitaryHistory.us@SD",Military History (720p)
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#EXTINF:-1 tvg-id="DiscoveryChannelLatinAmerica.us@Panregional",Discovery Channel Latin America (1080p)
+http://45.171.64.30:6060/play/a032/index.m3u8
+#EXTINF:-1 tvg-id="InvestigationDiscoveryLatinAmerica.us@South",Investigation Discovery Latin America South (1080p)
+http://38.65.175.84:8000/play/a0ch/index.m3u8

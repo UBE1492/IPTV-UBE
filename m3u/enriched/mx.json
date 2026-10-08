@@ -1,6 +1,6 @@
 {
   "name": "mx",
-  "updated_at": 1791413610838,
+  "updated_at": 1791436507522,
   "m3u": "https://ube1492.github.io/IPTV-UBE/mx.m3u",
   "channels": [
     {
@@ -699,6 +699,18 @@
     {
       "name": "TeleHit (1080p)",
       "url": "http://190.61.47.54:8000/play/a029/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Azteca Uno (1080p)",
+      "url": "http://38.44.109.41:8003/play/a033/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Maria Vision (1080p)",
+      "url": "http://200.122.223.13:55000/play/a022/index.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -1401,6 +1413,18 @@
       {
         "name": "TeleHit (1080p)",
         "url": "http://190.61.47.54:8000/play/a029/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Azteca Uno (1080p)",
+        "url": "http://38.44.109.41:8003/play/a033/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Maria Vision (1080p)",
+        "url": "http://200.122.223.13:55000/play/a022/index.m3u8",
         "logo": "",
         "category": "Otros"
       }

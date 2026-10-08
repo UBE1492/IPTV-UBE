@@ -120,5 +120,7 @@
 | 114 | Claro Cinema (1080p) | IPv4 直链 | <http://158.172.217.18:8000/play/a00d/index.m3u8> |
 | 115 | Az Corazon (720p) | IPv4 直链 | <http://200.115.120.1:8000/play/ca020/index.m3u8> |
 | 116 | TeleHit (1080p) | IPv4 直链 | <http://190.61.47.54:8000/play/a029/index.m3u8> |
+| 117 | Azteca Uno (1080p) | IPv4 直链 | <http://38.44.109.41:8003/play/a033/index.m3u8> |
+| 118 | Maria Vision (1080p) | IPv4 直链 | <http://200.122.223.13:55000/play/a022/index.m3u8> |
 
-Updated at **Wed Oct 07 2026 22:53:30 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Oct 08 2026 05:15:07 GMT+0000 (Coordinated Universal Time)**
