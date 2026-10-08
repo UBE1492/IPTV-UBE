@@ -103,4 +103,4 @@
 | 97 | Canal 7 TV (576p) [Not 24/7] | k-fra32.x10.network | <https://k-fra32.x10.network/Clrs/test/hls/1158394/playlist.m3u8> |
 | 98 | Film & Arts (1080p) | IPv4 直链 | <http://200.115.120.1:8000/play/ca131/index.m3u8> |
 
-Updated at **Thu Oct 08 2026 05:15:06 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Oct 08 2026 13:03:41 GMT+0000 (Coordinated Universal Time)**
