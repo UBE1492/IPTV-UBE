@@ -336,4 +336,4 @@
 | 330 | Discovery Kids Latin America Mexico (1080p) | IPv4 直链 | <http://38.65.175.84:8000/play/a0an/index.m3u8> |
 | 331 | Investigation Discovery Latin America South (1080p) | IPv4 直链 | <http://38.65.175.84:8000/play/a0ch/index.m3u8> |
 
-Updated at **Thu Oct 08 2026 13:03:41 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Oct 08 2026 23:05:27 GMT+0000 (Coordinated Universal Time)**

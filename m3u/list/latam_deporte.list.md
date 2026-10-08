@@ -11,4 +11,4 @@
 | 5 | Fox Sports 1 (720p) | IPv4 直链 | <http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8> |
 | 6 | ESPN Deportes HD (720p) | IPv4 直链 | <http://168.228.44.241:9998/play/a0dz/index.m3u8> |
 
-Updated at **Thu Oct 08 2026 13:03:40 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Oct 08 2026 23:05:27 GMT+0000 (Coordinated Universal Time)**
