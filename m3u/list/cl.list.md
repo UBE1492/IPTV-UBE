@@ -188,4 +188,4 @@
 | 182 | Mega Ficcion (1080p) | IPv4 直链 | <http://15.204.196.147:22880/MEGAFICCION-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8> |
 | 183 | CNN Chile (1080p) | IPv4 直链 | <http://190.110.96.238:8000/play/a0f5/index.m3u8> |
 
-Updated at **Fri Oct 09 2026 05:18:08 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Oct 09 2026 12:49:57 GMT+0000 (Coordinated Universal Time)**

@@ -360,4 +360,4 @@
 | 354 | HLN (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_HLN/index.m3u8> |
 | 355 | OWN (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_OWN/index.m3u8> |
 
-Updated at **Fri Oct 09 2026 05:18:08 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Oct 09 2026 12:49:57 GMT+0000 (Coordinated Universal Time)**

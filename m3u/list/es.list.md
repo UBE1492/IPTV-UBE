@@ -124,4 +124,4 @@
 | 118 | Canal Sur | cdn.stmify.com | <https://cdn.stmify.com/zapitv/stream/CANAL_SUR/canal_sur_hd.mpd> |
 | 119 | Clan Internacional (1080p) | IPv4 直链 | <http://168.228.44.241:9999/play/a04j/index.m3u8> |
 
-Updated at **Fri Oct 09 2026 05:18:08 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Oct 09 2026 12:49:57 GMT+0000 (Coordinated Universal Time)**
