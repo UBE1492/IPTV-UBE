@@ -102,5 +102,8 @@
 | 96 | Canal 4 Posadas (1080p) | IPv4 直链 | <http://190.128.214.97:64333/play/a06l/index.m3u8> |
 | 97 | Canal 7 TV (576p) [Not 24/7] | k-fra32.x10.network | <https://k-fra32.x10.network/Clrs/test/hls/1158394/playlist.m3u8> |
 | 98 | Film & Arts (1080p) | IPv4 直链 | <http://200.115.120.1:8000/play/ca131/index.m3u8> |
+| 99 | Space (1080p) | IPv4 直链 | <http://45.171.64.30:6060/play/a04n/index.m3u8> |
+| 100 | Fox Sports (1080p) | IPv4 直链 | <http://138.59.227.20:8000/play/a085/index.m3u8> |
+| 101 | Television Publica (1080p) | IPv4 直链 | <http://190.128.214.97:64333/play/a008/index.m3u8> |
 
-Updated at **Thu Oct 08 2026 23:05:27 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Oct 09 2026 05:18:08 GMT+0000 (Coordinated Universal Time)**

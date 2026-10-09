@@ -213,3 +213,5 @@ http://168.196.127.137:6001/play/a03q/index.m3u8
 http://190.217.66.92:8000/play/a0fp/index.m3u8
 #EXTINF:-1 tvg-id="truTV.us@East",truTV (720p)
 http://23.237.104.106:8080/USA_TRUTV/index.m3u8
+#EXTINF:-1 tvg-id="UniversalTVLatinAmerica.us@Colombia",Universal TV Latin America Colombia (1080p)
+http://38.134.250.110:8000/play/a006/index.m3u8

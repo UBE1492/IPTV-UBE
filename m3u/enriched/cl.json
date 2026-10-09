@@ -1,6 +1,6 @@
 {
   "name": "cl",
-  "updated_at": 1791500727725,
+  "updated_at": 1791523088120,
   "m3u": "https://ube1492.github.io/IPTV-UBE/cl.m3u",
   "channels": [
     {
@@ -1098,6 +1098,12 @@
     {
       "name": "Mega Ficcion (1080p)",
       "url": "http://15.204.196.147:22880/MEGAFICCION-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "CNN Chile (1080p)",
+      "url": "http://190.110.96.238:8000/play/a0f5/index.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -2199,6 +2205,12 @@
       {
         "name": "Mega Ficcion (1080p)",
         "url": "http://15.204.196.147:22880/MEGAFICCION-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "CNN Chile (1080p)",
+        "url": "http://190.110.96.238:8000/play/a0f5/index.m3u8",
         "logo": "",
         "category": "Otros"
       }

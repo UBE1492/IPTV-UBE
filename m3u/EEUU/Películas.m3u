@@ -59,3 +59,5 @@ https://live20.bozztv.com/giatvplayout7/giatv-209163/playlist.m3u8
 http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8
 #EXTINF:-1 tvg-id="CinemaxLatinAmerica.us@HD",Cinemax Latin America HD (1080p)
 http://38.65.175.84:8000/play/a093/index.m3u8
+#EXTINF:-1 tvg-id="HBOLatinAmerica.us@SD",HBO Latin America (720p) [Geo-blocked]
+http://15.204.246.24:8080/HBOHD/index.m3u8

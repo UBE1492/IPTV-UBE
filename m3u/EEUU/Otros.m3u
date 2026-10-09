@@ -42,9 +42,7 @@ https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8
 #EXTINF:-1 tvg-id="AlabamaWeatherNetwork.us@SD",Alabama Weather Network (720p)
 https://alwxnet-ott-proxy.cloud9streaming.com/alwxnet/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Alhurra.us@SD",Alhurra (720p)
-https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
-#EXTINF:-1 tvg-id="AlhurraIraq.us@SD",Alhurra Iraq (720p)
-https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8
+https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/merge.m3u8
 #EXTINF:-1 tvg-id="AlientoVision.us@SD",Aliento Vision (720p) [Not 24/7]
 https://627bb251f23c7.streamlock.net:444/Alientoenvivo/Alientoenvivo/playlist.m3u8
 #EXTINF:-1 tvg-id="AMC.us@EastHD",AMC (720p)
@@ -269,10 +267,6 @@ http://141.94.193.53:80/axn_black/index.m3u8
 http://138.59.177.78:9999/play/a0gg/index.m3u8
 #EXTINF:-1 tvg-id="TennisChannel.us@SD",Tennis Channel (1080p)
 http://138.59.177.78:9999/play/a0gl/index.m3u8
-#EXTINF:-1 tvg-id="MBC1USA.us@SD",MBC 1 USA
-#EXTVLCOPT:http-referrer=https://cdn.stmify.com/
-#EXTINF:-1 tvg-id="MBC3USA.us@SD",MBC 3 USA (1080p)
-#EXTVLCOPT:http-referrer=https://cdn.stmify.com/
 #EXTINF:-1 tvg-id="TNT.us@East",TNT (720p)
 http://193.254.245.162/TNT-HD/index.m3u8
 #EXTINF:-1 tvg-id="TBS.us@East",TBS (720p)
@@ -287,3 +281,29 @@ http://38.134.250.110:8000/play/a01t/index.m3u8
 http://45.171.64.30:6060/play/a014/index.m3u8
 #EXTINF:-1 tvg-id="TNTLatinAmerica.us@Center",TNT Latin America (1080p)
 http://45.171.64.30:6060/play/a03i/index.m3u8
+#EXTINF:-1 tvg-id="TNTLatinAmerica.us@Colombia",TNT Latin America Colombia (1080p)
+http://181.78.211.244:8005/play/a09g/index.m3u8
+#EXTINF:-1 tvg-id="WarnerChannel.us@Colombia",Warner Channel Colombia (1080p)
+http://38.134.250.110:8000/play/a029/index.m3u8
+#EXTINF:-1 tvg-id="TNTLatinAmerica.us@Brazil",TNT Latin America Brazil (720p) [Geo-blocked]
+http://15.204.246.24:8080/TNTHD/index.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us@HD",Animal Planet Latin America HD (720p) [Geo-blocked]
+http://15.204.246.24:8080/AnimalPlanetHD/index.m3u8
+#EXTINF:-1 tvg-id="MagnoliaNetwork.us@East",Magnolia Network (720p)
+http://190.197.41.183/MAGNOLIA_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.us@East",Animal Planet (720p)
+http://23.239.31.26:8989/animalplanet/index.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.us@EastHD",Animal Planet East HD (720p)
+http://193.254.245.162/ANIMAL-PLANET/index.m3u8
+#EXTINF:-1 tvg-id="AmericanHeroesChannel.us@SD",American Heroes Channel (720p)
+http://23.237.104.106:8080/USA_AMERICAN_HEROES/index.m3u8
+#EXTINF:-1 tvg-id="CookingChannel.us@SD",Cooking Channel (720p)
+http://23.237.104.106:8080/USA_COOKING/index.m3u8
+#EXTINF:-1 tvg-id="TLCLatinAmerica.us@Panregional",TLC Latin America (1080p)
+http://38.134.250.110:8000/play/a00n/index.m3u8
+#EXTINF:-1 tvg-id="RTNChicago.us@SD",RTN Chicago (480p)
+https://651c69fa2ff4e.streamlock.net/3707/live1/chunklist.m3u8
+#EXTINF:-1 tvg-id="HLN.us@SD",HLN (720p)
+http://23.237.104.106:8080/USA_HLN/index.m3u8
+#EXTINF:-1 tvg-id="OWN.us@East",OWN (720p)
+http://23.237.104.106:8080/USA_OWN/index.m3u8

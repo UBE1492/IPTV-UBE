@@ -183,3 +183,4 @@ TV_Chile_(576p),http://38.252.238.18:8000/play/a04b/index.m3u8
 Zona_Sur_TV_(1080p),http://170.79.235.133:8002/play/a063/index.m3u8
 Meganoticias_Ahora_(1080p),http://15.204.196.147:22880/MEGANOTICIA-MEGAMEDIA-EE.UU-PROVEEDOR/video.m3u8
 Mega_Ficcion_(1080p),http://15.204.196.147:22880/MEGAFICCION-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8
+CNN_Chile_(1080p),http://190.110.96.238:8000/play/a0f5/index.m3u8

@@ -1,6 +1,6 @@
 {
   "name": "ar",
-  "updated_at": 1791500727693,
+  "updated_at": 1791523088163,
   "m3u": "https://ube1492.github.io/IPTV-UBE/ar.m3u",
   "channels": [
     {
@@ -600,6 +600,24 @@
     {
       "name": "Film & Arts (1080p)",
       "url": "http://200.115.120.1:8000/play/ca131/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Space (1080p)",
+      "url": "http://45.171.64.30:6060/play/a04n/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Fox Sports (1080p)",
+      "url": "http://138.59.227.20:8000/play/a085/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Television Publica (1080p)",
+      "url": "http://190.128.214.97:64333/play/a008/index.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -1203,6 +1221,24 @@
       {
         "name": "Film & Arts (1080p)",
         "url": "http://200.115.120.1:8000/play/ca131/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Space (1080p)",
+        "url": "http://45.171.64.30:6060/play/a04n/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Fox Sports (1080p)",
+        "url": "http://138.59.227.20:8000/play/a085/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Television Publica (1080p)",
+        "url": "http://190.128.214.97:64333/play/a008/index.m3u8",
         "logo": "",
         "category": "Otros"
       }
