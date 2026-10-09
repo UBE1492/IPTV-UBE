@@ -28,4 +28,4 @@
 | 22 | Telesur (1080p) | IPv4 直链 | <http://181.78.211.244:8005/play/a0cc/index.m3u8> |
 | 23 | TVes (1080p) | vs20.live.opencaster.com | <https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8> |
 
-Updated at **Fri Oct 09 2026 12:49:57 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Oct 09 2026 22:25:43 GMT+0000 (Coordinated Universal Time)**

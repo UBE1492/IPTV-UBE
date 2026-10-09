@@ -139,4 +139,4 @@
 | 133 | Tele Vid (1080p) | IPv4 直链 | <http://200.122.223.13:55000/play/a01n/index.m3u8> |
 | 134 | Cristovision (576i) | IPv4 直链 | <http://200.122.223.13:55000/play/cristovision-ses-6/index.m3u8> |
 
-Updated at **Fri Oct 09 2026 12:49:57 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Oct 09 2026 22:25:43 GMT+0000 (Coordinated Universal Time)**

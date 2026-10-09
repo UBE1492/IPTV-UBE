@@ -123,4 +123,4 @@
 | 117 | Azteca Uno (1080p) | IPv4 直链 | <http://38.44.109.41:8003/play/a033/index.m3u8> |
 | 118 | Maria Vision (1080p) | IPv4 直链 | <http://200.122.223.13:55000/play/a022/index.m3u8> |
 
-Updated at **Fri Oct 09 2026 12:49:57 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Oct 09 2026 22:25:42 GMT+0000 (Coordinated Universal Time)**
