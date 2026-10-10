@@ -1,2 +1,0 @@
-Undefined,#genre#
-BHTV|SD|,http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8

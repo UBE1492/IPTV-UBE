@@ -106,4 +106,4 @@
 | 100 | Fox Sports (1080p) | IPv4 直链 | <http://138.59.227.20:8000/play/a085/index.m3u8> |
 | 101 | Television Publica (1080p) | IPv4 直链 | <http://190.128.214.97:64333/play/a008/index.m3u8> |
 
-Updated at **Fri Oct 09 2026 22:25:42 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Oct 10 2026 05:02:23 GMT+0000 (Coordinated Universal Time)**

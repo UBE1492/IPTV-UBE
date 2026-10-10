@@ -207,3 +207,5 @@ http://45.171.64.30:6060/play/a04n/index.m3u8
 http://138.59.227.20:8000/play/a085/index.m3u8
 #EXTINF:-1 tvg-id="TelevisionPublica.ar@SD",Television Publica (1080p)
 http://190.128.214.97:64333/play/a008/index.m3u8
+#EXTINF:-1 tvg-id="TyCSports.ar@SD",TyC Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36

@@ -73,8 +73,6 @@ https://5d658d7e9f562.streamlock.net/alfadytv.tv/alfadytv.smil/playlist.m3u8
 https://iptv.almahditv.com/almahditv/playlist.m3u8
 #EXTINF:-1 tvg-id="AlabamaWeatherNetwork.us@SD",Alabama Weather Network (720p)
 https://alwxnet-ott-proxy.cloud9streaming.com/alwxnet/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Alhurra.us@SD",Alhurra (720p)
-https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/merge.m3u8
 #EXTINF:-1 tvg-id="AlientoVision.us@SD",Aliento Vision (720p) [Not 24/7]
 https://627bb251f23c7.streamlock.net:444/Alientoenvivo/Alientoenvivo/playlist.m3u8
 #EXTINF:-1 tvg-id="AlkarmaTVAustralia.us@SD",Alkarma TV Australia (1080p) [Not 24/7]
@@ -725,3 +723,17 @@ http://212.5.144.156:8080/foodnetwork/index.m3u8
 http://23.237.104.106:8080/USA_HLN/index.m3u8
 #EXTINF:-1 tvg-id="OWN.us@East",OWN (720p)
 http://23.237.104.106:8080/USA_OWN/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScienceLatinAmerica.us@SD",Discovery Science Latin America (720p)
+http://45.171.64.30:6060/play/a007/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryWorld.us@LatinAmerica",Discovery World (1080p)
+http://168.196.127.137:6001/play/a097/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTurboLatinAmerica.us@Panregional",Discovery Turbo Latin America (1080p)
+http://38.134.250.110:8000/play/a01y/index.m3u8
+#EXTINF:-1 tvg-id="Starz.us@West",Starz West (720p)
+http://23.237.104.106:8080/USA_STARZ_WEST/index.m3u8
+#EXTINF:-1 tvg-id="CNN.us@SD",CNN (1080p)
+https://amg01918-cnnus-amg01918c2-vizio-us-9192.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnoriginals-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="TeenNick.us@East",TeenNick (432p)
+http://tvsen7.aynascope.net/teennick/index.m3u8
+#EXTINF:-1 tvg-id="ESPNExtraLatinAmerica.us@Argentine",ESPN Extra Latin America (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36

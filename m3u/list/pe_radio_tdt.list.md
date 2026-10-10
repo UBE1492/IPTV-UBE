@@ -6,4 +6,4 @@
 | --- | ------------ | ---- | ------ |
 | 1 | RPP Noticias Perú | mdstrm.com | <https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/live.m3u8> |
 
-Updated at **Fri Oct 09 2026 22:25:51 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Oct 10 2026 05:02:33 GMT+0000 (Coordinated Universal Time)**

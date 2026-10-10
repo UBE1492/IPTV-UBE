@@ -41,8 +41,6 @@ https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8
 #EXTINF:-1 tvg-id="AlabamaWeatherNetwork.us@SD",Alabama Weather Network (720p)
 https://alwxnet-ott-proxy.cloud9streaming.com/alwxnet/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Alhurra.us@SD",Alhurra (720p)
-https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/merge.m3u8
 #EXTINF:-1 tvg-id="AlientoVision.us@SD",Aliento Vision (720p) [Not 24/7]
 https://627bb251f23c7.streamlock.net:444/Alientoenvivo/Alientoenvivo/playlist.m3u8
 #EXTINF:-1 tvg-id="AMC.us@EastHD",AMC (720p)
@@ -307,3 +305,5 @@ https://651c69fa2ff4e.streamlock.net/3707/live1/chunklist.m3u8
 http://23.237.104.106:8080/USA_HLN/index.m3u8
 #EXTINF:-1 tvg-id="OWN.us@East",OWN (720p)
 http://23.237.104.106:8080/USA_OWN/index.m3u8
+#EXTINF:-1 tvg-id="CNN.us@SD",CNN (1080p)
+https://amg01918-cnnus-amg01918c2-vizio-us-9192.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnoriginals-vizious/playlist.m3u8

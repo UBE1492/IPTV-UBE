@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1791584743035,
+  "updated_at": 1791608544911,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -222,12 +222,6 @@
     {
       "name": "Alabama Weather Network (720p)",
       "url": "https://alwxnet-ott-proxy.cloud9streaming.com/alwxnet/live/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Alhurra (720p)",
-      "url": "https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/merge.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -2159,6 +2153,51 @@
       "url": "http://23.237.104.106:8080/USA_OWN/index.m3u8",
       "logo": "",
       "category": "Otros"
+    },
+    {
+      "name": "Discovery Science Latin America (720p)",
+      "url": "http://45.171.64.30:6060/play/a007/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Discovery World (1080p)",
+      "url": "http://168.196.127.137:6001/play/a097/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Discovery Turbo Latin America (1080p)",
+      "url": "http://38.134.250.110:8000/play/a01y/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Starz West (720p)",
+      "url": "http://23.237.104.106:8080/USA_STARZ_WEST/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "CNN (1080p)",
+      "url": "https://amg01918-cnnus-amg01918c2-vizio-us-9192.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnoriginals-vizious/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "TeenNick (432p)",
+      "url": "http://tvsen7.aynascope.net/teennick/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "ESPN Extra Latin America (1080p)",
+      "url": "",
+      "logo": "",
+      "category": "Otros",
+      "options": {
+        "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+      }
     }
   ],
   "categories": {
@@ -2382,12 +2421,6 @@
       {
         "name": "Alabama Weather Network (720p)",
         "url": "https://alwxnet-ott-proxy.cloud9streaming.com/alwxnet/live/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Alhurra (720p)",
-        "url": "https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/merge.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -4319,6 +4352,51 @@
         "url": "http://23.237.104.106:8080/USA_OWN/index.m3u8",
         "logo": "",
         "category": "Otros"
+      },
+      {
+        "name": "Discovery Science Latin America (720p)",
+        "url": "http://45.171.64.30:6060/play/a007/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Discovery World (1080p)",
+        "url": "http://168.196.127.137:6001/play/a097/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Discovery Turbo Latin America (1080p)",
+        "url": "http://38.134.250.110:8000/play/a01y/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Starz West (720p)",
+        "url": "http://23.237.104.106:8080/USA_STARZ_WEST/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "CNN (1080p)",
+        "url": "https://amg01918-cnnus-amg01918c2-vizio-us-9192.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnoriginals-vizious/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "TeenNick (432p)",
+        "url": "http://tvsen7.aynascope.net/teennick/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "ESPN Extra Latin America (1080p)",
+        "url": "",
+        "logo": "",
+        "category": "Otros",
+        "options": {
+          "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
       }
     ]
   }

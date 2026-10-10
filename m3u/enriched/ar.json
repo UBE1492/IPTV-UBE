@@ -1,6 +1,6 @@
 {
   "name": "ar",
-  "updated_at": 1791584742798,
+  "updated_at": 1791608543740,
   "m3u": "https://ube1492.github.io/IPTV-UBE/ar.m3u",
   "channels": [
     {
@@ -620,6 +620,15 @@
       "url": "http://190.128.214.97:64333/play/a008/index.m3u8",
       "logo": "",
       "category": "Otros"
+    },
+    {
+      "name": "TyC Sports",
+      "url": "",
+      "logo": "",
+      "category": "Otros",
+      "options": {
+        "http-user-agent": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36"
+      }
     }
   ],
   "categories": {
@@ -1241,6 +1250,15 @@
         "url": "http://190.128.214.97:64333/play/a008/index.m3u8",
         "logo": "",
         "category": "Otros"
+      },
+      {
+        "name": "TyC Sports",
+        "url": "",
+        "logo": "",
+        "category": "Otros",
+        "options": {
+          "http-user-agent": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36"
+        }
       }
     ]
   }

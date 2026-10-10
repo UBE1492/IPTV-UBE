@@ -36,7 +36,6 @@ Al_Horreya_TV_(720p),http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/
 Al-Fady_TV_(1080p)_[Not_24/7],https://5d658d7e9f562.streamlock.net/alfadytv.tv/alfadytv.smil/playlist.m3u8
 Al-MahdiTV_(1080p),https://iptv.almahditv.com/almahditv/playlist.m3u8
 Alabama_Weather_Network_(720p),https://alwxnet-ott-proxy.cloud9streaming.com/alwxnet/live/playlist.m3u8
-Alhurra_(720p),https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/merge.m3u8
 Aliento_Vision_(720p)_[Not_24/7],https://627bb251f23c7.streamlock.net:444/Alientoenvivo/Alientoenvivo/playlist.m3u8
 Alkarma_TV_Australia_(1080p)_[Not_24/7],https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8
 Alkarma_TV_Australia_(1080p),https://5a8308add0b31.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8
@@ -362,3 +361,10 @@ Food_Network_(720p),http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 Food_Network_(720p)_[Geo-blocked],http://212.5.144.156:8080/foodnetwork/index.m3u8
 HLN_(720p),http://23.237.104.106:8080/USA_HLN/index.m3u8
 OWN_(720p),http://23.237.104.106:8080/USA_OWN/index.m3u8
+Discovery_Science_Latin_America_(720p),http://45.171.64.30:6060/play/a007/index.m3u8
+Discovery_World_(1080p),http://168.196.127.137:6001/play/a097/index.m3u8
+Discovery_Turbo_Latin_America_(1080p),http://38.134.250.110:8000/play/a01y/index.m3u8
+Starz_West_(720p),http://23.237.104.106:8080/USA_STARZ_WEST/index.m3u8
+CNN_(1080p),https://amg01918-cnnus-amg01918c2-vizio-us-9192.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnoriginals-vizious/playlist.m3u8
+TeenNick_(432p),http://tvsen7.aynascope.net/teennick/index.m3u8
+ESPN_Extra_Latin_America_(1080p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
