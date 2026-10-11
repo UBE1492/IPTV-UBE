@@ -108,4 +108,4 @@
 | 102 | Antena 3 | cdn.stmify.com | <https://cdn.stmify.com/zapitv/stream/ANTENA_3/test.mpd> |
 | 103 | La 1 (1080p) [Geo-blocked] | rtvelivestream.rtve.es | <https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8> |
 
-Updated at **Sun Oct 11 2026 12:21:58 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Oct 11 2026 21:39:18 GMT+0000 (Coordinated Universal Time)**

@@ -372,4 +372,4 @@
 | 366 | ESPN 6 Latin America (1080p) | barinaslive1.boldmss.com | <https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8> |
 | 367 | ESPN 7 Latin America (1080p) | barinaslive1.boldmss.com | <https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8> |
 
-Updated at **Sun Oct 11 2026 12:21:58 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Oct 11 2026 21:39:19 GMT+0000 (Coordinated Universal Time)**
