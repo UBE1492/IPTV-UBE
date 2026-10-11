@@ -265,10 +265,6 @@ http://141.94.193.53:80/axn_black/index.m3u8
 http://138.59.177.78:9999/play/a0gg/index.m3u8
 #EXTINF:-1 tvg-id="TennisChannel.us@SD",Tennis Channel (1080p)
 http://138.59.177.78:9999/play/a0gl/index.m3u8
-#EXTINF:-1 tvg-id="TNT.us@East",TNT (720p)
-http://193.254.245.162/TNT-HD/index.m3u8
-#EXTINF:-1 tvg-id="TBS.us@East",TBS (720p)
-http://193.254.245.162/TBS/index.m3u8
 #EXTINF:-1 tvg-id="TNT.us@East",TNT (720p) [Geo-blocked]
 http://212.5.144.156/tnt/index.m3u8
 #EXTINF:-1 tvg-id="DestinationAmerica.us@SD",Destination America (720p)
@@ -307,3 +303,7 @@ http://23.237.104.106:8080/USA_HLN/index.m3u8
 http://23.237.104.106:8080/USA_OWN/index.m3u8
 #EXTINF:-1 tvg-id="CNN.us@SD",CNN (1080p)
 https://amg01918-cnnus-amg01918c2-vizio-us-9192.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnoriginals-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNInternational.us@Europe",CNN International
+http://88.212.15.17/live/test_cnn_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="TLCLatinAmerica.us@Brazil",TLC Latin America Brazil (720p)
+http://79.127.238.228:14433

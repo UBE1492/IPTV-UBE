@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1791667222961,
+  "updated_at": 1791694296948,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -1906,18 +1906,6 @@
       "category": "Otros"
     },
     {
-      "name": "TNT (720p)",
-      "url": "http://193.254.245.162/TNT-HD/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "TBS (720p)",
-      "url": "http://193.254.245.162/TBS/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "truTV (720p)",
       "url": "http://23.237.104.106:8080/USA_TRUTV/index.m3u8",
       "logo": "",
@@ -2192,11 +2180,77 @@
     },
     {
       "name": "ESPN Extra Latin America (1080p)",
-      "url": "",
+      "url": "#EXTINF:-1 tvg-id=\"CNNInternational.us@Europe\",CNN International",
       "logo": "",
       "category": "Otros",
       "options": {
         "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+      }
+    },
+    {
+      "name": "TLC Latin America Brazil (720p)",
+      "url": "http://79.127.238.228:14433",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "ESPN Latin America (1080p)",
+      "url": "https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "ESPN 2 Latin America (1080p)",
+      "url": "https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "ESPN 3 Latin America (1080p)",
+      "url": "https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "ESPN 4 Latin America (1080p)",
+      "url": "https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "ESPN 5 Latin America (1080p)",
+      "url": "https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "ESPN 6 Latin America (1080p)",
+      "url": "https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "ESPN 7 Latin America (1080p)",
+      "url": "https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "ESPN Latin America Argentina",
+      "url": "#EXTINF:-1 tvg-id=\"ESPN3LatinAmerica.us@Argentina\",ESPN 3 Latin America Argentina",
+      "logo": "",
+      "category": "Otros",
+      "options": {
+        "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18"
+      }
+    },
+    {
+      "name": "ESPN 6 Latin America (720p)",
+      "url": "",
+      "logo": "",
+      "category": "Otros",
+      "options": {
+        "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18"
       }
     }
   ],
@@ -4105,18 +4159,6 @@
         "category": "Otros"
       },
       {
-        "name": "TNT (720p)",
-        "url": "http://193.254.245.162/TNT-HD/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "TBS (720p)",
-        "url": "http://193.254.245.162/TBS/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "truTV (720p)",
         "url": "http://23.237.104.106:8080/USA_TRUTV/index.m3u8",
         "logo": "",
@@ -4391,11 +4433,77 @@
       },
       {
         "name": "ESPN Extra Latin America (1080p)",
-        "url": "",
+        "url": "#EXTINF:-1 tvg-id=\"CNNInternational.us@Europe\",CNN International",
         "logo": "",
         "category": "Otros",
         "options": {
           "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "TLC Latin America Brazil (720p)",
+        "url": "http://79.127.238.228:14433",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "ESPN Latin America (1080p)",
+        "url": "https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "ESPN 2 Latin America (1080p)",
+        "url": "https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "ESPN 3 Latin America (1080p)",
+        "url": "https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "ESPN 4 Latin America (1080p)",
+        "url": "https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "ESPN 5 Latin America (1080p)",
+        "url": "https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "ESPN 6 Latin America (1080p)",
+        "url": "https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "ESPN 7 Latin America (1080p)",
+        "url": "https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "ESPN Latin America Argentina",
+        "url": "#EXTINF:-1 tvg-id=\"ESPN3LatinAmerica.us@Argentina\",ESPN 3 Latin America Argentina",
+        "logo": "",
+        "category": "Otros",
+        "options": {
+          "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18"
+        }
+      },
+      {
+        "name": "ESPN 6 Latin America (720p)",
+        "url": "",
+        "logo": "",
+        "category": "Otros",
+        "options": {
+          "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18"
         }
       }
     ]

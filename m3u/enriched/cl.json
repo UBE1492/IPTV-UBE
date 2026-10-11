@@ -1,6 +1,6 @@
 {
   "name": "cl",
-  "updated_at": 1791667222607,
+  "updated_at": 1791694296641,
   "m3u": "https://ube1492.github.io/IPTV-UBE/cl.m3u",
   "channels": [
     {
@@ -1106,6 +1106,15 @@
       "url": "http://190.110.96.238:8000/play/a0f5/index.m3u8",
       "logo": "",
       "category": "Otros"
+    },
+    {
+      "name": "ESPN Premium",
+      "url": "",
+      "logo": "",
+      "category": "Otros",
+      "options": {
+        "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18"
+      }
     }
   ],
   "categories": {
@@ -2213,6 +2222,15 @@
         "url": "http://190.110.96.238:8000/play/a0f5/index.m3u8",
         "logo": "",
         "category": "Otros"
+      },
+      {
+        "name": "ESPN Premium",
+        "url": "",
+        "logo": "",
+        "category": "Otros",
+        "options": {
+          "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18"
+        }
       }
     ]
   }

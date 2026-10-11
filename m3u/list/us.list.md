@@ -317,52 +317,59 @@
 | 311 | Maxcine Family (720p) | live20.bozztv.com | <https://live20.bozztv.com/giatvplayout7/giatv-208817/playlist.m3u8> |
 | 312 | Maxcine Kids (720p) | live20.bozztv.com | <https://live20.bozztv.com/giatvplayout7/giatv-209909/playlist.m3u8> |
 | 313 | Maxcine 2 (720p) | live20.bozztv.com | <https://live20.bozztv.com/giatvplayout7/giatv-209163/playlist.m3u8> |
-| 314 | TNT (720p) | IPv4 直链 | <http://193.254.245.162/TNT-HD/index.m3u8> |
-| 315 | TBS (720p) | IPv4 直链 | <http://193.254.245.162/TBS/index.m3u8> |
-| 316 | truTV (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_TRUTV/index.m3u8> |
-| 317 | TNT (720p) [Geo-blocked] | IPv4 直链 | <http://212.5.144.156/tnt/index.m3u8> |
-| 318 | Cinemax West (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8> |
-| 319 | Destination America (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8> |
-| 320 | Tooncast (1080p) | IPv4 直链 | <http://38.134.250.110:8000/play/a01t/index.m3u8> |
-| 321 | TCM Latin America South (1080p) | IPv4 直链 | <http://45.171.64.30:6060/play/a014/index.m3u8> |
-| 322 | Cinemax Latin America HD (1080p) | IPv4 直链 | <http://38.65.175.84:8000/play/a093/index.m3u8> |
-| 323 | TNT Latin America (1080p) | IPv4 直链 | <http://45.171.64.30:6060/play/a03i/index.m3u8> |
-| 324 | TNT Series Latin America (1080p) | IPv4 直链 | <http://168.196.127.137:6001/play/a095/index.m3u8> |
-| 325 | Discovery Channel Latin America (1080p) | IPv4 直链 | <http://45.171.64.30:6060/play/a032/index.m3u8> |
-| 326 | Cartoon Network Latin America South Atlantic (1080p) | IPv4 直链 | <http://158.172.217.18:8000/play/a03a/index.m3u8> |
-| 327 | Cartoon Network Latin America North Atlantic (1080p) | IPv4 直链 | <http://38.252.238.18:8000/play/a053/index.m3u8> |
-| 328 | Discovery Kids Latin America Mexico (1080p) | IPv4 直链 | <http://38.65.175.84:8000/play/a0an/index.m3u8> |
-| 329 | Investigation Discovery Latin America South (1080p) | IPv4 直链 | <http://38.65.175.84:8000/play/a0ch/index.m3u8> |
-| 330 | Disney Junior (480p) | directv-iptv-player.vercel.app | <https://directv-iptv-player.vercel.app/api/stream?url=http%3A%2F%2F212.5.144.156%3A8080%2Fdisneyjr%2Ftracks-v1a1%2Fmono.m3u8> |
-| 331 | TNT Latin America Colombia (1080p) | IPv4 直链 | <http://181.78.211.244:8005/play/a09g/index.m3u8> |
-| 332 | Warner Channel Colombia (1080p) | IPv4 直链 | <http://38.134.250.110:8000/play/a029/index.m3u8> |
-| 333 | Universal TV Latin America Colombia (1080p) | IPv4 直链 | <http://38.134.250.110:8000/play/a006/index.m3u8> |
-| 334 | Discovery Kids Latin America Colombia (1080p) | IPv4 直链 | <http://38.134.250.110:8000/play/a003/index.m3u8> |
-| 335 | HBO Latin America (720p) [Geo-blocked] | IPv4 直链 | <http://15.204.246.24:8080/HBOHD/index.m3u8> |
-| 336 | TNT Latin America Brazil (720p) [Geo-blocked] | IPv4 直链 | <http://15.204.246.24:8080/TNTHD/index.m3u8> |
-| 337 | Discovery World Brazil (720p) [Geo-blocked] | IPv4 直链 | <http://15.204.246.24:8080/DiscoveryWorldHD/index.m3u8> |
-| 338 | Discovery Kids Latin America Brazil (720p) [Geo-blocked] | IPv4 直链 | <http://15.204.246.24:8080/DiscoveryKidsHD/index.m3u8> |
-| 339 | Cartoon Network Latin America Brazil (720p) [Geo-blocked] | IPv4 直链 | <http://15.204.246.24:8080/CartoonNetworkHD/index.m3u8> |
-| 340 | Animal Planet Latin America HD (720p) [Geo-blocked] | IPv4 直链 | <http://15.204.246.24:8080/AnimalPlanetHD/index.m3u8> |
-| 341 | Magnolia Network (720p) | IPv4 直链 | <http://190.197.41.183/MAGNOLIA_NETWORK/index.m3u8> |
-| 342 | Animal Planet (720p) | IPv4 直链 | <http://23.239.31.26:8989/animalplanet/index.m3u8> |
-| 343 | Animal Planet East HD (720p) | IPv4 直链 | <http://193.254.245.162/ANIMAL-PLANET/index.m3u8> |
-| 344 | American Heroes Channel (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_AMERICAN_HEROES/index.m3u8> |
-| 345 | Cooking Channel (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_COOKING/index.m3u8> |
-| 346 | TLC Latin America (1080p) | IPv4 直链 | <http://38.134.250.110:8000/play/a00n/index.m3u8> |
-| 347 | Discovery Channel (1080p) [Geo-blocked] | IPv4 直链 | <http://212.5.144.156:8080/discovery/index.m3u8> |
-| 348 | Investigation Discovery (1080p) [Geo-blocked] | IPv4 直链 | <http://212.5.144.156:8080/id/index.m3u8> |
-| 349 | RTN Chicago (480p) | 651c69fa2ff4e.streamlock.net | <https://651c69fa2ff4e.streamlock.net/3707/live1/chunklist.m3u8> |
-| 350 | Cartoon Network Latin America South Pacific (576p) | IPv4 直链 | <http://45.167.1.138:8000/play/a00w> |
-| 351 | Food Network (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8> |
-| 352 | Food Network (720p) [Geo-blocked] | IPv4 直链 | <http://212.5.144.156:8080/foodnetwork/index.m3u8> |
-| 353 | HLN (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_HLN/index.m3u8> |
-| 354 | OWN (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_OWN/index.m3u8> |
-| 355 | Discovery Science Latin America (720p) | IPv4 直链 | <http://45.171.64.30:6060/play/a007/index.m3u8> |
-| 356 | Discovery World (1080p) | IPv4 直链 | <http://168.196.127.137:6001/play/a097/index.m3u8> |
-| 357 | Discovery Turbo Latin America (1080p) | IPv4 直链 | <http://38.134.250.110:8000/play/a01y/index.m3u8> |
-| 358 | Starz West (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_STARZ_WEST/index.m3u8> |
-| 359 | CNN (1080p) | amg01918-cnnus-amg01918c2-vizio-us-9192.playouts.now.amagi.tv | <https://amg01918-cnnus-amg01918c2-vizio-us-9192.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnoriginals-vizious/playlist.m3u8> |
-| 360 | TeenNick (432p) | tvsen7.aynascope.net | <http://tvsen7.aynascope.net/teennick/index.m3u8> |
+| 314 | truTV (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_TRUTV/index.m3u8> |
+| 315 | TNT (720p) [Geo-blocked] | IPv4 直链 | <http://212.5.144.156/tnt/index.m3u8> |
+| 316 | Cinemax West (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8> |
+| 317 | Destination America (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8> |
+| 318 | Tooncast (1080p) | IPv4 直链 | <http://38.134.250.110:8000/play/a01t/index.m3u8> |
+| 319 | TCM Latin America South (1080p) | IPv4 直链 | <http://45.171.64.30:6060/play/a014/index.m3u8> |
+| 320 | Cinemax Latin America HD (1080p) | IPv4 直链 | <http://38.65.175.84:8000/play/a093/index.m3u8> |
+| 321 | TNT Latin America (1080p) | IPv4 直链 | <http://45.171.64.30:6060/play/a03i/index.m3u8> |
+| 322 | TNT Series Latin America (1080p) | IPv4 直链 | <http://168.196.127.137:6001/play/a095/index.m3u8> |
+| 323 | Discovery Channel Latin America (1080p) | IPv4 直链 | <http://45.171.64.30:6060/play/a032/index.m3u8> |
+| 324 | Cartoon Network Latin America South Atlantic (1080p) | IPv4 直链 | <http://158.172.217.18:8000/play/a03a/index.m3u8> |
+| 325 | Cartoon Network Latin America North Atlantic (1080p) | IPv4 直链 | <http://38.252.238.18:8000/play/a053/index.m3u8> |
+| 326 | Discovery Kids Latin America Mexico (1080p) | IPv4 直链 | <http://38.65.175.84:8000/play/a0an/index.m3u8> |
+| 327 | Investigation Discovery Latin America South (1080p) | IPv4 直链 | <http://38.65.175.84:8000/play/a0ch/index.m3u8> |
+| 328 | Disney Junior (480p) | directv-iptv-player.vercel.app | <https://directv-iptv-player.vercel.app/api/stream?url=http%3A%2F%2F212.5.144.156%3A8080%2Fdisneyjr%2Ftracks-v1a1%2Fmono.m3u8> |
+| 329 | TNT Latin America Colombia (1080p) | IPv4 直链 | <http://181.78.211.244:8005/play/a09g/index.m3u8> |
+| 330 | Warner Channel Colombia (1080p) | IPv4 直链 | <http://38.134.250.110:8000/play/a029/index.m3u8> |
+| 331 | Universal TV Latin America Colombia (1080p) | IPv4 直链 | <http://38.134.250.110:8000/play/a006/index.m3u8> |
+| 332 | Discovery Kids Latin America Colombia (1080p) | IPv4 直链 | <http://38.134.250.110:8000/play/a003/index.m3u8> |
+| 333 | HBO Latin America (720p) [Geo-blocked] | IPv4 直链 | <http://15.204.246.24:8080/HBOHD/index.m3u8> |
+| 334 | TNT Latin America Brazil (720p) [Geo-blocked] | IPv4 直链 | <http://15.204.246.24:8080/TNTHD/index.m3u8> |
+| 335 | Discovery World Brazil (720p) [Geo-blocked] | IPv4 直链 | <http://15.204.246.24:8080/DiscoveryWorldHD/index.m3u8> |
+| 336 | Discovery Kids Latin America Brazil (720p) [Geo-blocked] | IPv4 直链 | <http://15.204.246.24:8080/DiscoveryKidsHD/index.m3u8> |
+| 337 | Cartoon Network Latin America Brazil (720p) [Geo-blocked] | IPv4 直链 | <http://15.204.246.24:8080/CartoonNetworkHD/index.m3u8> |
+| 338 | Animal Planet Latin America HD (720p) [Geo-blocked] | IPv4 直链 | <http://15.204.246.24:8080/AnimalPlanetHD/index.m3u8> |
+| 339 | Magnolia Network (720p) | IPv4 直链 | <http://190.197.41.183/MAGNOLIA_NETWORK/index.m3u8> |
+| 340 | Animal Planet (720p) | IPv4 直链 | <http://23.239.31.26:8989/animalplanet/index.m3u8> |
+| 341 | Animal Planet East HD (720p) | IPv4 直链 | <http://193.254.245.162/ANIMAL-PLANET/index.m3u8> |
+| 342 | American Heroes Channel (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_AMERICAN_HEROES/index.m3u8> |
+| 343 | Cooking Channel (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_COOKING/index.m3u8> |
+| 344 | TLC Latin America (1080p) | IPv4 直链 | <http://38.134.250.110:8000/play/a00n/index.m3u8> |
+| 345 | Discovery Channel (1080p) [Geo-blocked] | IPv4 直链 | <http://212.5.144.156:8080/discovery/index.m3u8> |
+| 346 | Investigation Discovery (1080p) [Geo-blocked] | IPv4 直链 | <http://212.5.144.156:8080/id/index.m3u8> |
+| 347 | RTN Chicago (480p) | 651c69fa2ff4e.streamlock.net | <https://651c69fa2ff4e.streamlock.net/3707/live1/chunklist.m3u8> |
+| 348 | Cartoon Network Latin America South Pacific (576p) | IPv4 直链 | <http://45.167.1.138:8000/play/a00w> |
+| 349 | Food Network (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8> |
+| 350 | Food Network (720p) [Geo-blocked] | IPv4 直链 | <http://212.5.144.156:8080/foodnetwork/index.m3u8> |
+| 351 | HLN (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_HLN/index.m3u8> |
+| 352 | OWN (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_OWN/index.m3u8> |
+| 353 | Discovery Science Latin America (720p) | IPv4 直链 | <http://45.171.64.30:6060/play/a007/index.m3u8> |
+| 354 | Discovery World (1080p) | IPv4 直链 | <http://168.196.127.137:6001/play/a097/index.m3u8> |
+| 355 | Discovery Turbo Latin America (1080p) | IPv4 直链 | <http://38.134.250.110:8000/play/a01y/index.m3u8> |
+| 356 | Starz West (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_STARZ_WEST/index.m3u8> |
+| 357 | CNN (1080p) | amg01918-cnnus-amg01918c2-vizio-us-9192.playouts.now.amagi.tv | <https://amg01918-cnnus-amg01918c2-vizio-us-9192.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnoriginals-vizious/playlist.m3u8> |
+| 358 | TeenNick (432p) | tvsen7.aynascope.net | <http://tvsen7.aynascope.net/teennick/index.m3u8> |
+| 359 | CNN International | IPv4 直链 | <http://88.212.15.17/live/test_cnn_1200_atk/playlist.m3u8> |
+| 360 | TLC Latin America Brazil (720p) | IPv4 直链 | <http://79.127.238.228:14433> |
+| 361 | ESPN Latin America (1080p) | barinaslive1.boldmss.com | <https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8> |
+| 362 | ESPN 2 Latin America (1080p) | barinaslive1.boldmss.com | <https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8> |
+| 363 | ESPN 3 Latin America (1080p) | barinaslive1.boldmss.com | <https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8> |
+| 364 | ESPN 4 Latin America (1080p) | barinaslive1.boldmss.com | <https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8> |
+| 365 | ESPN 5 Latin America (1080p) | barinaslive1.boldmss.com | <https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8> |
+| 366 | ESPN 6 Latin America (1080p) | barinaslive1.boldmss.com | <https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8> |
+| 367 | ESPN 7 Latin America (1080p) | barinaslive1.boldmss.com | <https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8> |
 
-Updated at **Sat Oct 10 2026 21:20:22 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Oct 11 2026 04:51:36 GMT+0000 (Coordinated Universal Time)**

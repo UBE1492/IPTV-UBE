@@ -184,3 +184,4 @@ Zona_Sur_TV_(1080p),http://170.79.235.133:8002/play/a063/index.m3u8
 Meganoticias_Ahora_(1080p),http://15.204.196.147:22880/MEGANOTICIA-MEGAMEDIA-EE.UU-PROVEEDOR/video.m3u8
 Mega_Ficcion_(1080p),http://15.204.196.147:22880/MEGAFICCION-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8
 CNN_Chile_(1080p),http://190.110.96.238:8000/play/a0f5/index.m3u8
+ESPN_Premium,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18

@@ -1,6 +1,6 @@
 {
   "name": "bo",
-  "updated_at": 1791667222354,
+  "updated_at": 1791694296772,
   "m3u": "https://ube1492.github.io/IPTV-UBE/bo.m3u",
   "channels": [
     {
@@ -154,12 +154,6 @@
       "category": "Otros"
     },
     {
-      "name": "Dialogo La Red Educativa (720p)",
-      "url": "https://twitch-m3u8.bastypro112.workers.dev/dialogolarededucativacbba/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Dmoda Channel (1080p)",
       "url": "https://master.tucableip.com/dmoda/index.m3u8",
       "logo": "",
@@ -168,12 +162,6 @@
     {
       "name": "EL DEBER (1080p)",
       "url": "https://master.tucableip.com/eldebertv/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Erbol (720p)",
-      "url": "https://twitch-m3u8.bastypro112.workers.dev/erboldigital/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -198,18 +186,6 @@
     {
       "name": "FAP TV (480p)",
       "url": "https://nd106.republicaservers.com/hls/c7284/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Fides TV (720p)",
-      "url": "https://twitch-m3u8.bastypro112.workers.dev/radiofidesbolivia/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Fortaleza TV Cueto (720p)",
-      "url": "https://twitch-m3u8.bastypro112.workers.dev/tvfortalezacueto/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -244,12 +220,6 @@
       "category": "Otros"
     },
     {
-      "name": "Megavision (720p)",
-      "url": "https://twitch-m3u8.bastypro112.workers.dev/megavisionbo/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "Palenque TV (576p)",
       "url": "http://15.204.246.24:8080/PalenqueTVSD/index.m3u8",
       "logo": "",
@@ -264,12 +234,6 @@
     {
       "name": "PAT La Paz (576p)",
       "url": "http://15.204.246.24:8080/PATSD/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "PLUS Television (720p)",
-      "url": "https://twitch-m3u8.bastypro112.workers.dev/plustelevisionbolivia/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -318,12 +282,6 @@
     {
       "name": "Radio Mega TV Amazonia (720p)",
       "url": "https://ares.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Radio San Gabriel (720p)",
-      "url": "https://twitch-m3u8.bastypro112.workers.dev/radiosangabrielbolivia/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -715,12 +673,6 @@
         "category": "Otros"
       },
       {
-        "name": "Dialogo La Red Educativa (720p)",
-        "url": "https://twitch-m3u8.bastypro112.workers.dev/dialogolarededucativacbba/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "Dmoda Channel (1080p)",
         "url": "https://master.tucableip.com/dmoda/index.m3u8",
         "logo": "",
@@ -729,12 +681,6 @@
       {
         "name": "EL DEBER (1080p)",
         "url": "https://master.tucableip.com/eldebertv/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Erbol (720p)",
-        "url": "https://twitch-m3u8.bastypro112.workers.dev/erboldigital/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -759,18 +705,6 @@
       {
         "name": "FAP TV (480p)",
         "url": "https://nd106.republicaservers.com/hls/c7284/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Fides TV (720p)",
-        "url": "https://twitch-m3u8.bastypro112.workers.dev/radiofidesbolivia/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Fortaleza TV Cueto (720p)",
-        "url": "https://twitch-m3u8.bastypro112.workers.dev/tvfortalezacueto/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -805,12 +739,6 @@
         "category": "Otros"
       },
       {
-        "name": "Megavision (720p)",
-        "url": "https://twitch-m3u8.bastypro112.workers.dev/megavisionbo/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "Palenque TV (576p)",
         "url": "http://15.204.246.24:8080/PalenqueTVSD/index.m3u8",
         "logo": "",
@@ -825,12 +753,6 @@
       {
         "name": "PAT La Paz (576p)",
         "url": "http://15.204.246.24:8080/PATSD/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "PLUS Television (720p)",
-        "url": "https://twitch-m3u8.bastypro112.workers.dev/plustelevisionbolivia/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -879,12 +801,6 @@
       {
         "name": "Radio Mega TV Amazonia (720p)",
         "url": "https://ares.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Radio San Gabriel (720p)",
-        "url": "https://twitch-m3u8.bastypro112.workers.dev/radiosangabrielbolivia/index.m3u8",
         "logo": "",
         "category": "Otros"
       },

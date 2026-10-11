@@ -7,7 +7,5 @@ https://ares.disfrutaenlared.com:1936/clasica/clasica/playlist.m3u8
 https://azura2.bitstreaming.net/hls/kollasuyo3/live.m3u8
 #EXTINF:-1 tvg-id="RadioMegaTVAmazonia.bo@SD",Radio Mega TV Amazonia (720p)
 https://ares.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioSanGabriel.bo@SD",Radio San Gabriel (720p)
-https://twitch-m3u8.bastypro112.workers.dev/radiosangabrielbolivia/index.m3u8
 #EXTINF:-1 tvg-id="RadioUniversitariaSanAndres.bo@SD",Radio Universitaria San Andres (720p)
 https://edge.enhdtv.com/8054/index.m3u8

@@ -39,22 +39,18 @@ https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 #EXTINF:-1 tvg-id="CanalTerrassa.es@SD",Canal Terrassa (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-#EXTINF:-1 tvg-id="El33.es@SD",El 33 (1080p) [Geo-blocked]
-https://directes-tv-cat.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8
-#EXTINF:-1 tvg-id="El33.es@Originals",El 33 Originals (1080p) [Not 24/7]
-https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8
-#EXTINF:-1 tvg-id="EsteponaTelevision.es@SD",Estepona Televisión (720p)
-https://cloudvideo.servers10.com:8081/8022/index.m3u8
-#EXTINF:-1 tvg-id="EsTuTele.es@SD",EsTuTele (720p)
-#EXTVLCOPT:http-referrer=https://player.streamingconnect.com/
-#EXTINF:-1 tvg-id="Fibwi.es@SD",Fibwi (1080p) [Not 24/7]
-https://hostcdn3.fibwi.com/fibwi_diario/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="GoienaEus.es@SD",Goiena Eus (720p)
-https://zuzenean.goienamedia.eus/goiena-telebista.m3u8
-#EXTINF:-1 tvg-id="HOLAPlay.es@SD",HOLA! Play (1080p)
-https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
-#EXTINF:-1 tvg-id="KinoKazka.es@SD",KinoKazka (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="DurangaldekoTelebista.es@SD",Durangaldeko Telebista (576p)
+https://nlb2-live.emitstream.com/hls/5f9asjsehd7gmyxsdpzu/master.m3u8
+#EXTINF:-1 tvg-id="ETB1.es@SD",ETB 1 (1080p) [Geo-blocked]
+https://cdn1.etbon.eus/etb1/index.m3u8
+#EXTINF:-1 tvg-id="ETB1On.es@HD",ETB1 On (1080p)
+https://cdn1.etbon.eus/etb1on/index.m3u8
+#EXTINF:-1 tvg-id="ETB2.es@SD",ETB 2 (1080p) [Geo-blocked]
+https://cdn1.etbon.eus/etb2/index.m3u8
+#EXTINF:-1 tvg-id="ETB2On.es@HD",ETB2 On (1080p)
+https://cdn1.etbon.eus/etb2on/index.m3u8
+#EXTINF:-1 tvg-id="ETBEvents1.es@SD",ETB Events 1 (1080p)
+https://cdn1.etbon.eus/oc1/index.m3u8
 #EXTINF:-1 tvg-id="La1.es@SD",La 1 (720p) [Geo-blocked]
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8
 #EXTINF:-1 tvg-id="La1.es@SD",La 1 (720p)
@@ -77,59 +73,49 @@ https://ztnr.rtve.es/ztnr/5468585.m3u8
 https://ztnr.rtve.es/ztnr/3987218.m3u8
 #EXTINF:-1 tvg-id="La8Mediterraneo.es@SD",La 8 Mediterraneo (1080p)
 https://newscript.gestec-video.com/hls/8TVEVENTOS.m3u8
-#EXTINF:-1 tvg-id="LoveThePlanet.es@EN",Love The Planet (1080p) [Geo-blocked]
-https://amg01821-lovetv-amg01821c8-xumo-us-3443.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="LoveThePlanet.es@DE",Love The Planet DE (1080p) [Geo-blocked]
-https://amg01821-amg01821c12-rlaxx-gb-10461.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="LoveThePlanet.es@ES",Love The Planet ES (1080p) [Geo-blocked]
-https://amg01821-lovetv-amg01821c9-rlaxx-gb-10458.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="LoveThePlanet.es@IT",Love The Planet IT (1080p) [Geo-blocked]
-https://amg01821-amg01821c11-rlaxx-gb-10459.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="M95TelevisionMarbella.es@SD",M95 Televisión Marbella (1080p) [Not 24/7]
-https://limited2.todostreaming.es/live/m95-livestream.m3u8
-#EXTINF:-1 tvg-id="MataroTelevisio.es@SD",Mataró Televisió (1080p)
+#EXTINF:-1 tvg-id="LleidaTelevisio.es@SD",Lleida Televisió (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-#EXTINF:-1 tvg-id="OndaCadiz.es@SD",Onda Cádiz 24h (720p)
-https://ondacadiztv.es:30443/octv/24h/playlist.m3u8
-#EXTINF:-1 tvg-id="OndaValenciaTV.es@SD",Onda Valencia (720p)
-https://cloudvideo.servers10.com:8081/8116/index.m3u8
-#EXTINF:-1 tvg-id="ParlamentodeAndalucia.es@SD",Parlamento de Andalucía (576p) [Not 24/7]
-http://193.147.254.64:1935/realizacion1/realizacion1/playlist.m3u8
-#EXTINF:-1 tvg-id="ParlamentodeNavarra.es@SD",Parlamento de Navarra (368p) [Not 24/7]
-https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8
-#EXTINF:-1 tvg-id="PenedesTelevisio.es@SD",Penedès Televisió (1080p)
+#EXTINF:-1 tvg-id="NatureTime.ca@ES",NatureTime (1080p)
+https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
+#EXTINF:-1 tvg-id="Nortevision.es@SD",NORTEvisión (1080p)
+http://amaru.dyndns.org:8870/0.m3u8
+#EXTINF:-1 tvg-id="Pequeradio.es@SD",Pequeradio (720p) [Not 24/7]
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:-1 tvg-id="SolMusica.es@SD",Sol Música (720p)
+https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
+#EXTINF:-1 tvg-id="SX3.es@SD",SX3 (1080p) [Geo-blocked]
+https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8
+#EXTINF:-1 tvg-id="Taroteame.es@SD",Tarotéame (576p)
+https://5d2733224ac48.streamlock.net/taroteame/tarot_web/playlist.m3u8
+#EXTINF:-1 tvg-id="TBNEspana.es@SD",TBN España (576p)
+https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
+#EXTINF:-1 tvg-id="Tele7.es@SD",Tele 7 (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-#EXTINF:-1 tvg-id="Punt3.es@SD",Punt 3 Vall Uixó (1080p)
-https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
-#EXTINF:-1 tvg-id="RakutenViki.us@Spain",Rakuten Viki (1080p)
-https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TVR.es@SD",Rioja Televisión (360p) [Not 24/7]
-https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8
-#EXTINF:-1 tvg-id="RNEparatodos.es@SD",RNE para todos (720p)
-https://rtvelivestream.rtve.es/rtvesec/rne/rne_para_todos_main.m3u8
-#EXTINF:-1 tvg-id="TeleElx.es@SD",Tele Elx (1080p)
-https://tvdirecto.teleelx.es/stream/teleelx.m3u8
-#EXTINF:-1 tvg-id="TeleSafor.es@SD",Tele Safor (720p) [Not 24/7]
-https://video.telesafor.com/hls/video.m3u8
-#EXTINF:-1 tvg-id="TeleBilbao.es@SD",TeleBilbao (384p)
+#EXTINF:-1 tvg-id="Teleganes.es@SD",Teleganés (720p)
+https://nlb2-live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8
+#EXTINF:-1 tvg-id="Telemadrid.es@HD",Telemadrid HD (1080p)
+https://live.telemadrid.cross-media.es/6389770581112/eu-central-1/6416060453001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiajI5YjgyLmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjQxNjA2MDQ1MzAwMSIsImVobiI6ImxpdmUudGVsZW1hZHJpZC5jcm9zcy1tZWRpYS5lcyIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiNjQxNjA2MDQ1MzAwMSJdLCJqdGkiOiI2Mzg5NzcwNTgxMTEyIn0.kqriAMUkHT6m0V6wkCHJum_EUyL4PAi1zJMKlfmYHEU/playlist-hls.m3u8
+#EXTINF:-1 tvg-id="Telemotril.es@SD",Telemotril (720p) [Not 24/7]
+https://5940924978228.streamlock.net/8431/8431/playlist.m3u8
+#EXTINF:-1 tvg-id="Teleonuba.es@SD",Teleonuba (1080p)
+https://5d8d85cf2c308.streamlock.net:1936/Teleonuba/endirecto/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleRibera.es@SD",TeleRibera (720p) [Not 24/7]
+https://video1.lhdserver.es/teleribera/live.m3u8
+#EXTINF:-1 tvg-id="TeleVigo.es@SD",TeleVigo (1080p) [Not 24/7]
+#EXTVLCOPT:http-referrer=http://www.televigo.com
+#EXTINF:-1 tvg-id="UneVinalopo.es@SD",Une Vinalopó (576p) [Not 24/7]
+https://streamingtvi.gestec-video.com/hls/unesd.m3u8
+#EXTINF:-1 tvg-id="UrolaTelebista.es@SD",Urola Telebista (416p)
+https://5940924978228.streamlock.net/j_Directo2/mp4:j_Directo2/playlist.m3u8
+#EXTINF:-1 tvg-id="VallesVisio.es@SD",Vallès Visió (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-#EXTINF:-1 tvg-id="TelevisionAranda.es@SD",Televisión Aranda (720p)
-https://cloud.streamingconnect.tv/hls/telearanda/telearanda.m3u8
-#EXTINF:-1 tvg-id="TelevisionCanaria.es@SD",Television Canaria (576p)
-https://d1oyt3v08gcy18.cloudfront.net/index-events.m3u8
-#EXTINF:-1 tvg-id="TelevisionConsciente.es@SD",Televisión Consciente (1080p)
-https://cdn318.fractalmedia.es/318/live/hls/tvc/master.m3u8
-#EXTINF:-1 tvg-id="TelevisionCanaria.es@SD",Television Canaria (1080p)
-https://rtvclive.flumotion.cloud/rtvc1live/smil:channel1PRG.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Clan.es@SD",Clan (1080p)
-https://lge-lgla2.otteravision.com/lge/lgcla/lgcla.m3u8
-#EXTINF:-1 tvg-id="AXNCEE.es@Romania",AXN CEE Romania
-#EXTVLCOPT:http-referrer=https://cool-tv.net/
-#EXTINF:-1 tvg-id="Tac12.es@SD",Tac12
-https://ingest1-video.streaming-pro.com/tac12_ABR/stream/tacdotze/srtweb_1080/chunks.m3u8
-#EXTINF:-1 tvg-id="La1.es@SD",La 1 (1086p)
-https://cdn.stmify.com/zapitv/stream/LA_1/la1_4k.mpd
-#EXTINF:-1 tvg-id="CanalSur.es@SD",Canal Sur
-https://cdn.stmify.com/zapitv/stream/CANAL_SUR/canal_sur_hd.mpd
-#EXTINF:-1 tvg-id="ClanInternacional.es@SD",Clan Internacional (1080p)
-http://168.228.44.241:9999/play/a04j/index.m3u8
+#EXTINF:-1 tvg-id="Vivamovil.es@SD",Vivamóvil (720p)
+https://5d8d85cf2c308.streamlock.net:1936/AlcalaTV/endirecto/playlist.m3u8
+#EXTINF:-1 tvg-id="Antena3Internacional.es@SD",Antena 3 Internacional (1080p)
+http://38.252.238.18:8000/play/a04a/index.m3u8
+#EXTINF:-1 tvg-id="AXN.es@SD",AXN (1080p)
+http://193.254.245.162/AXN/index.m3u8
+#EXTINF:-1 tvg-id="Antena3.es@National",Antena 3
+https://cdn.stmify.com/zapitv/stream/ANTENA_3/test.mpd
+#EXTINF:-1 tvg-id="La1.es@SD",La 1 (1080p) [Geo-blocked]
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8

@@ -319,8 +319,6 @@ Maxcine_Comedy_(720p),https://live20.bozztv.com/giatvplayout7/giatv-208730/playl
 Maxcine_Family_(720p),https://live20.bozztv.com/giatvplayout7/giatv-208817/playlist.m3u8
 Maxcine_Kids_(720p),https://live20.bozztv.com/giatvplayout7/giatv-209909/playlist.m3u8
 Maxcine_2_(720p),https://live20.bozztv.com/giatvplayout7/giatv-209163/playlist.m3u8
-TNT_(720p),http://193.254.245.162/TNT-HD/index.m3u8
-TBS_(720p),http://193.254.245.162/TBS/index.m3u8
 truTV_(720p),http://23.237.104.106:8080/USA_TRUTV/index.m3u8
 TNT_(720p)_[Geo-blocked],http://212.5.144.156/tnt/index.m3u8
 Cinemax_West_(720p),http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8
@@ -368,3 +366,15 @@ Starz_West_(720p),http://23.237.104.106:8080/USA_STARZ_WEST/index.m3u8
 CNN_(1080p),https://amg01918-cnnus-amg01918c2-vizio-us-9192.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnoriginals-vizious/playlist.m3u8
 TeenNick_(432p),http://tvsen7.aynascope.net/teennick/index.m3u8
 ESPN_Extra_Latin_America_(1080p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+CNN_International,http://88.212.15.17/live/test_cnn_1200_atk/playlist.m3u8
+TLC_Latin_America_Brazil_(720p),http://79.127.238.228:14433
+ESPN_Latin_America_(1080p),https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
+ESPN_2_Latin_America_(1080p),https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8
+ESPN_3_Latin_America_(1080p),https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
+ESPN_4_Latin_America_(1080p),https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8
+ESPN_5_Latin_America_(1080p),https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8
+ESPN_6_Latin_America_(1080p),https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8
+ESPN_7_Latin_America_(1080p),https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
+ESPN_Latin_America_Argentina,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+ESPN_3_Latin_America_Argentina,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+ESPN_6_Latin_America_(720p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
