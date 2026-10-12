@@ -138,3 +138,4 @@ Tele_Amiga_(720p),http://200.122.223.13:55000/play/tele-amiga-ses-6/index.m3u8
 La_Kalle_(1080p),http://200.122.223.13:55000/play/la-kalle-tdt/index.m3u8
 Tele_Vid_(1080p),http://200.122.223.13:55000/play/a01n/index.m3u8
 Cristovision_(576i),http://200.122.223.13:55000/play/cristovision-ses-6/index.m3u8
+Sin_Limites_(1080p),http://170.244.209.30:8000/play/a1im/index.m3u8

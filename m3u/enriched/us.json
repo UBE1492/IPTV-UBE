@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1791754759086,
+  "updated_at": 1791781583282,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -2246,7 +2246,7 @@
     },
     {
       "name": "ESPN 6 Latin America (720p)",
-      "url": "",
+      "url": "#EXTINF:-1 tvg-id=\"CartoonNetworkLatinAmerica.us@SouthAtlanticHD\",Cartoon Network Latin America",
       "logo": "",
       "category": "Otros",
       "options": {
@@ -4499,7 +4499,7 @@
       },
       {
         "name": "ESPN 6 Latin America (720p)",
-        "url": "",
+        "url": "#EXTINF:-1 tvg-id=\"CartoonNetworkLatinAmerica.us@SouthAtlanticHD\",Cartoon Network Latin America",
         "logo": "",
         "category": "Otros",
         "options": {

@@ -7,4 +7,4 @@
 | 1 | RPP Noticias Perú | mdstrm.com | <https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/live.m3u8> |
 | 2 | Radio Oxígeno Perú | mdstrm.com | <https://mdstrm.com/audio/5fab0687bcd6c2389ee9480c/icecast.audio> |
 
-Updated at **Sun Oct 11 2026 21:39:20 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Oct 12 2026 05:06:26 GMT+0000 (Coordinated Universal Time)**

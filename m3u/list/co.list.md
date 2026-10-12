@@ -138,5 +138,6 @@
 | 132 | La Kalle (1080p) | IPv4 直链 | <http://200.122.223.13:55000/play/la-kalle-tdt/index.m3u8> |
 | 133 | Tele Vid (1080p) | IPv4 直链 | <http://200.122.223.13:55000/play/a01n/index.m3u8> |
 | 134 | Cristovision (576i) | IPv4 直链 | <http://200.122.223.13:55000/play/cristovision-ses-6/index.m3u8> |
+| 135 | Sin Limites (1080p) | IPv4 直链 | <http://170.244.209.30:8000/play/a1im/index.m3u8> |
 
-Updated at **Sun Oct 11 2026 21:39:19 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Oct 12 2026 05:06:23 GMT+0000 (Coordinated Universal Time)**
