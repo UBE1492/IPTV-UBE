@@ -344,32 +344,33 @@
 | 338 | Animal Planet Latin America HD (720p) [Geo-blocked] | IPv4 直链 | <http://15.204.246.24:8080/AnimalPlanetHD/index.m3u8> |
 | 339 | Magnolia Network (720p) | IPv4 直链 | <http://190.197.41.183/MAGNOLIA_NETWORK/index.m3u8> |
 | 340 | Animal Planet (720p) | IPv4 直链 | <http://23.239.31.26:8989/animalplanet/index.m3u8> |
-| 341 | Animal Planet East HD (720p) | IPv4 直链 | <http://193.254.245.162/ANIMAL-PLANET/index.m3u8> |
-| 342 | American Heroes Channel (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_AMERICAN_HEROES/index.m3u8> |
-| 343 | Cooking Channel (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_COOKING/index.m3u8> |
-| 344 | TLC Latin America (1080p) | IPv4 直链 | <http://38.134.250.110:8000/play/a00n/index.m3u8> |
-| 345 | Discovery Channel (1080p) [Geo-blocked] | IPv4 直链 | <http://212.5.144.156:8080/discovery/index.m3u8> |
-| 346 | Investigation Discovery (1080p) [Geo-blocked] | IPv4 直链 | <http://212.5.144.156:8080/id/index.m3u8> |
-| 347 | RTN Chicago (480p) | 651c69fa2ff4e.streamlock.net | <https://651c69fa2ff4e.streamlock.net/3707/live1/chunklist.m3u8> |
-| 348 | Cartoon Network Latin America South Pacific (576p) | IPv4 直链 | <http://45.167.1.138:8000/play/a00w> |
-| 349 | Food Network (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8> |
-| 350 | Food Network (720p) [Geo-blocked] | IPv4 直链 | <http://212.5.144.156:8080/foodnetwork/index.m3u8> |
-| 351 | HLN (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_HLN/index.m3u8> |
-| 352 | OWN (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_OWN/index.m3u8> |
-| 353 | Discovery Science Latin America (720p) | IPv4 直链 | <http://45.171.64.30:6060/play/a007/index.m3u8> |
-| 354 | Discovery World (1080p) | IPv4 直链 | <http://168.196.127.137:6001/play/a097/index.m3u8> |
-| 355 | Discovery Turbo Latin America (1080p) | IPv4 直链 | <http://38.134.250.110:8000/play/a01y/index.m3u8> |
-| 356 | Starz West (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_STARZ_WEST/index.m3u8> |
-| 357 | CNN (1080p) | amg01918-cnnus-amg01918c2-vizio-us-9192.playouts.now.amagi.tv | <https://amg01918-cnnus-amg01918c2-vizio-us-9192.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnoriginals-vizious/playlist.m3u8> |
-| 358 | TeenNick (432p) | tvsen7.aynascope.net | <http://tvsen7.aynascope.net/teennick/index.m3u8> |
-| 359 | CNN International | IPv4 直链 | <http://88.212.15.17/live/test_cnn_1200_atk/playlist.m3u8> |
-| 360 | TLC Latin America Brazil (720p) | IPv4 直链 | <http://79.127.238.228:14433> |
-| 361 | ESPN Latin America (1080p) | barinaslive1.boldmss.com | <https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8> |
-| 362 | ESPN 2 Latin America (1080p) | barinaslive1.boldmss.com | <https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8> |
-| 363 | ESPN 3 Latin America (1080p) | barinaslive1.boldmss.com | <https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8> |
-| 364 | ESPN 4 Latin America (1080p) | barinaslive1.boldmss.com | <https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8> |
-| 365 | ESPN 5 Latin America (1080p) | barinaslive1.boldmss.com | <https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8> |
-| 366 | ESPN 6 Latin America (1080p) | barinaslive1.boldmss.com | <https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8> |
-| 367 | ESPN 7 Latin America (1080p) | barinaslive1.boldmss.com | <https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8> |
+| 341 | American Heroes Channel (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_AMERICAN_HEROES/index.m3u8> |
+| 342 | Cooking Channel (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_COOKING/index.m3u8> |
+| 343 | TLC Latin America (1080p) | IPv4 直链 | <http://38.134.250.110:8000/play/a00n/index.m3u8> |
+| 344 | Discovery Channel (1080p) [Geo-blocked] | IPv4 直链 | <http://212.5.144.156:8080/discovery/index.m3u8> |
+| 345 | Investigation Discovery (1080p) [Geo-blocked] | IPv4 直链 | <http://212.5.144.156:8080/id/index.m3u8> |
+| 346 | RTN Chicago (480p) | 651c69fa2ff4e.streamlock.net | <https://651c69fa2ff4e.streamlock.net/3707/live1/chunklist.m3u8> |
+| 347 | Cartoon Network Latin America South Pacific (576p) | IPv4 直链 | <http://45.167.1.138:8000/play/a00w> |
+| 348 | Food Network (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8> |
+| 349 | Food Network (720p) [Geo-blocked] | IPv4 直链 | <http://212.5.144.156:8080/foodnetwork/index.m3u8> |
+| 350 | HLN (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_HLN/index.m3u8> |
+| 351 | OWN (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_OWN/index.m3u8> |
+| 352 | Discovery Science Latin America (720p) | IPv4 直链 | <http://45.171.64.30:6060/play/a007/index.m3u8> |
+| 353 | Discovery World (1080p) | IPv4 直链 | <http://168.196.127.137:6001/play/a097/index.m3u8> |
+| 354 | Discovery Turbo Latin America (1080p) | IPv4 直链 | <http://38.134.250.110:8000/play/a01y/index.m3u8> |
+| 355 | Starz West (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_STARZ_WEST/index.m3u8> |
+| 356 | CNN Originals (1080p) | amg01918-cnnus-amg01918c2-vizio-us-9192.playouts.now.amagi.tv | <https://amg01918-cnnus-amg01918c2-vizio-us-9192.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnoriginals-vizious/playlist.m3u8> |
+| 357 | TeenNick (432p) | tvsen7.aynascope.net | <http://tvsen7.aynascope.net/teennick/index.m3u8> |
+| 358 | CNN International | IPv4 直链 | <http://88.212.15.17/live/test_cnn_1200_atk/playlist.m3u8> |
+| 359 | TLC Latin America Brazil (720p) | IPv4 直链 | <http://79.127.238.228:14433> |
+| 360 | ESPN Latin America (1080p) | barinaslive1.boldmss.com | <https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8> |
+| 361 | ESPN 2 Latin America (1080p) | barinaslive1.boldmss.com | <https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8> |
+| 362 | ESPN 3 Latin America (1080p) | barinaslive1.boldmss.com | <https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8> |
+| 363 | ESPN 4 Latin America (1080p) | barinaslive1.boldmss.com | <https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8> |
+| 364 | ESPN 5 Latin America (1080p) | barinaslive1.boldmss.com | <https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8> |
+| 365 | ESPN 6 Latin America (1080p) | barinaslive1.boldmss.com | <https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8> |
+| 366 | ESPN 7 Latin America (1080p) | barinaslive1.boldmss.com | <https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8> |
+| 367 | Tooncast SouthAmerica (1080p) | IPv4 直链 | <http://200.62.239.170:830/play/a07n/index.m3u8> |
+| 368 | TNT Novelas Colombia (1080p) | IPv4 直链 | <http://190.61.47.54:8000/play/a02f/index.m3u8> |
 
-Updated at **Tue Oct 13 2026 00:19:59 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Oct 13 2026 13:49:56 GMT+0000 (Coordinated Universal Time)**

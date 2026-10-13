@@ -88,7 +88,7 @@ Disney_Jr._Latin_America_(576p),http://190.93.224.42/DISNEY-JR/index.m3u8
 Disney_Jr._Latin_America_North_HD_(1080p),http://181.78.14.26:4000/play/a073/index.m3u8
 Disney_Jr._Latin_America_South_(1080p),http://45.185.163.75:8000/play/a016/index.m3u8
 Disney_Jr._Latin_America_South,http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-Disney_Jr._Latin_America_South_HD_(1080p),http://45.134.141.161:2200/ARG/Disney_Junior/index.m3u8
+Disney_Jr._Latin_America_South_HD_(1080p),http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/disney_jr.stream/playlist.m3u8
 Eco_TV,https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
 El_Gourmet_(1080p),http://15.204.246.24:8080/ElGourmetHD/index.m3u8
 El_Nueve_(1080p),http://15.204.246.24:8080/elnueveHD/index.m3u8

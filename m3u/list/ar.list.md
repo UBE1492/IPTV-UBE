@@ -92,7 +92,7 @@
 | 86 | Disney Jr. Latin America North HD (1080p) | IPv4 直链 | <http://181.78.14.26:4000/play/a073/index.m3u8> |
 | 87 | Disney Jr. Latin America South (1080p) | IPv4 直链 | <http://45.185.163.75:8000/play/a016/index.m3u8> |
 | 88 | Disney Jr. Latin America South | tr.live.clarovtrcdn.vtrplay.com | <http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD> |
-| 89 | Disney Jr. Latin America South HD (1080p) | IPv4 直链 | <http://45.134.141.161:2200/ARG/Disney_Junior/index.m3u8> |
+| 89 | Disney Jr. Latin America South HD (1080p) | bantel-cdn1.iptvperu.tv:1935 | <http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/disney_jr.stream/playlist.m3u8> |
 | 90 | Eco TV | stream.arcast.com.ar | <https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8> |
 | 91 | El Gourmet (1080p) | IPv4 直链 | <http://15.204.246.24:8080/ElGourmetHD/index.m3u8> |
 | 92 | El Nueve (1080p) | IPv4 直链 | <http://15.204.246.24:8080/elnueveHD/index.m3u8> |
@@ -106,4 +106,4 @@
 | 100 | Fox Sports (1080p) | IPv4 直链 | <http://138.59.227.20:8000/play/a085/index.m3u8> |
 | 101 | Television Publica (1080p) | IPv4 直链 | <http://190.128.214.97:64333/play/a008/index.m3u8> |
 
-Updated at **Tue Oct 13 2026 00:19:59 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Oct 13 2026 13:49:56 GMT+0000 (Coordinated Universal Time)**

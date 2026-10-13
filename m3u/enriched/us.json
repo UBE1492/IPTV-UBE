@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1791850799203,
+  "updated_at": 1791899396746,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -2071,12 +2071,6 @@
       "category": "Otros"
     },
     {
-      "name": "Animal Planet East HD (720p)",
-      "url": "http://193.254.245.162/ANIMAL-PLANET/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "American Heroes Channel (720p)",
       "url": "http://23.237.104.106:8080/USA_AMERICAN_HEROES/index.m3u8",
       "logo": "",
@@ -2167,7 +2161,7 @@
       "category": "Otros"
     },
     {
-      "name": "CNN (1080p)",
+      "name": "CNN Originals (1080p)",
       "url": "https://amg01918-cnnus-amg01918c2-vizio-us-9192.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnoriginals-vizious/playlist.m3u8",
       "logo": "",
       "category": "Otros"
@@ -2252,6 +2246,21 @@
       "options": {
         "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18"
       }
+    },
+    {
+      "name": "HBO Latin America (1080p)",
+      "url": "#EXTINF:-1 tvg-id=\"Tooncast.us@SouthAmerica\",Tooncast SouthAmerica (1080p)",
+      "logo": "",
+      "category": "Otros",
+      "options": {
+        "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18"
+      }
+    },
+    {
+      "name": "TNT Novelas Colombia (1080p)",
+      "url": "http://190.61.47.54:8000/play/a02f/index.m3u8",
+      "logo": "",
+      "category": "Otros"
     }
   ],
   "categories": {
@@ -4324,12 +4333,6 @@
         "category": "Otros"
       },
       {
-        "name": "Animal Planet East HD (720p)",
-        "url": "http://193.254.245.162/ANIMAL-PLANET/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "American Heroes Channel (720p)",
         "url": "http://23.237.104.106:8080/USA_AMERICAN_HEROES/index.m3u8",
         "logo": "",
@@ -4420,7 +4423,7 @@
         "category": "Otros"
       },
       {
-        "name": "CNN (1080p)",
+        "name": "CNN Originals (1080p)",
         "url": "https://amg01918-cnnus-amg01918c2-vizio-us-9192.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnoriginals-vizious/playlist.m3u8",
         "logo": "",
         "category": "Otros"
@@ -4505,6 +4508,21 @@
         "options": {
           "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18"
         }
+      },
+      {
+        "name": "HBO Latin America (1080p)",
+        "url": "#EXTINF:-1 tvg-id=\"Tooncast.us@SouthAmerica\",Tooncast SouthAmerica (1080p)",
+        "logo": "",
+        "category": "Otros",
+        "options": {
+          "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18"
+        }
+      },
+      {
+        "name": "TNT Novelas Colombia (1080p)",
+        "url": "http://190.61.47.54:8000/play/a02f/index.m3u8",
+        "logo": "",
+        "category": "Otros"
       }
     ]
   }
