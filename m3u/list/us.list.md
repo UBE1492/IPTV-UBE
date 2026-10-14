@@ -691,4 +691,4 @@
 | 685 | Adult Swim Latin America | IPv4 直链 | <http://170.244.209.30:8000/play/a02v/index.m3u8> |
 | 686 | Discovery Kids Latin America Chile (1080p) | IPv4 直链 | <http://38.224.231.176:8000/play/a01j/index.m3u8> |
 
-Updated at **Wed Oct 14 2026 11:27:18 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Oct 14 2026 16:48:40 GMT+0000 (Coordinated Universal Time)**
