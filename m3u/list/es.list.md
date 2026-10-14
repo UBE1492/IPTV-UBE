@@ -103,9 +103,8 @@
 | 97 | Urola Telebista (416p) | 5940924978228.streamlock.net | <https://5940924978228.streamlock.net/j_Directo2/mp4:j_Directo2/playlist.m3u8> |
 | 98 | Vivamóvil (720p) | 5d8d85cf2c308.streamlock.net:1936 | <https://5d8d85cf2c308.streamlock.net:1936/AlcalaTV/endirecto/playlist.m3u8> |
 | 99 | Antena 3 Internacional (1080p) | IPv4 直链 | <http://38.252.238.18:8000/play/a04a/index.m3u8> |
-| 100 | AXN (1080p) | IPv4 直链 | <http://193.254.245.162/AXN/index.m3u8> |
-| 101 | AXN Movies | cdn.stmify.com | <https://cdn.stmify.com/zapitv/stream/AXN_MOVIES/axn_white.mpd> |
-| 102 | Antena 3 | cdn.stmify.com | <https://cdn.stmify.com/zapitv/stream/ANTENA_3/test.mpd> |
-| 103 | La 1 (1080p) [Geo-blocked] | rtvelivestream.rtve.es | <https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8> |
+| 100 | AXN Movies | cdn.stmify.com | <https://cdn.stmify.com/zapitv/stream/AXN_MOVIES/axn_white.mpd> |
+| 101 | Antena 3 | cdn.stmify.com | <https://cdn.stmify.com/zapitv/stream/ANTENA_3/test.mpd> |
+| 102 | La 1 (1080p) [Geo-blocked] | rtvelivestream.rtve.es | <https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8> |
 
-Updated at **Wed Oct 14 2026 04:09:04 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Oct 14 2026 11:27:18 GMT+0000 (Coordinated Universal Time)**

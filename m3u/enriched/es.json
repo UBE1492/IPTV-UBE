@@ -1,6 +1,6 @@
 {
   "name": "es",
-  "updated_at": 1791950944072,
+  "updated_at": 1791977238888,
   "m3u": "https://ube1492.github.io/IPTV-UBE/es.m3u",
   "channels": [
     {
@@ -662,12 +662,6 @@
       "options": {
         "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160"
       }
-    },
-    {
-      "name": "AXN (1080p)",
-      "url": "http://193.254.245.162/AXN/index.m3u8",
-      "logo": "",
-      "category": "Otros"
     },
     {
       "name": "AXN Movies",
@@ -1349,12 +1343,6 @@
         "options": {
           "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160"
         }
-      },
-      {
-        "name": "AXN (1080p)",
-        "url": "http://193.254.245.162/AXN/index.m3u8",
-        "logo": "",
-        "category": "Otros"
       },
       {
         "name": "AXN Movies",

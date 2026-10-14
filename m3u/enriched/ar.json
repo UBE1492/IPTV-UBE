@@ -1,6 +1,6 @@
 {
   "name": "ar",
-  "updated_at": 1791950943731,
+  "updated_at": 1791977238410,
   "m3u": "https://ube1492.github.io/IPTV-UBE/ar.m3u",
   "channels": [
     {
@@ -623,7 +623,7 @@
     },
     {
       "name": "TyC Sports",
-      "url": "",
+      "url": "#EXTINF:-1 tvg-id=\"Space.ar@South\",Space South (720p)",
       "logo": "",
       "category": "Otros",
       "options": {
@@ -1253,7 +1253,7 @@
       },
       {
         "name": "TyC Sports",
-        "url": "",
+        "url": "#EXTINF:-1 tvg-id=\"Space.ar@South\",Space South (720p)",
         "logo": "",
         "category": "Otros",
         "options": {

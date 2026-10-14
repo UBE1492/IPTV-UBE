@@ -117,7 +117,6 @@ Vallès_Visió_(1080p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; 
 Vivamóvil_(720p),https://5d8d85cf2c308.streamlock.net:1936/AlcalaTV/endirecto/playlist.m3u8
 VOTV_(1080p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 Antena_3_Internacional_(1080p),http://38.252.238.18:8000/play/a04a/index.m3u8
-AXN_(1080p),http://193.254.245.162/AXN/index.m3u8
 AXN_Movies,https://cdn.stmify.com/zapitv/stream/AXN_MOVIES/axn_white.mpd
 Antena_3,https://cdn.stmify.com/zapitv/stream/ANTENA_3/test.mpd
 La_1_(1080p)_[Geo-blocked],https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8

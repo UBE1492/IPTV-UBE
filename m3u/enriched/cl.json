@@ -1,6 +1,6 @@
 {
   "name": "cl",
-  "updated_at": 1791950944089,
+  "updated_at": 1791977238596,
   "m3u": "https://ube1492.github.io/IPTV-UBE/cl.m3u",
   "channels": [
     {
@@ -432,18 +432,6 @@
     {
       "name": "EnerGeek (720p) [Not 24/7]",
       "url": "https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "EnerGeek Fan (1080p)",
-      "url": "https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "EnerGeek Radio (1080p)",
-      "url": "https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=ZZDemoIPTVGH",
       "logo": "",
       "category": "Otros"
     },
@@ -1548,18 +1536,6 @@
       {
         "name": "EnerGeek (720p) [Not 24/7]",
         "url": "https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "EnerGeek Fan (1080p)",
-        "url": "https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "EnerGeek Radio (1080p)",
-        "url": "https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=ZZDemoIPTVGH",
         "logo": "",
         "category": "Otros"
       },

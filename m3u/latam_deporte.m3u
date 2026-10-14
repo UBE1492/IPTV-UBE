@@ -51,3 +51,7 @@ http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
 http://190.61.47.54:8000/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2LatinAmerica.us@Colombia",ESPN 2 Latin America Colombia (1080p)
 http://190.61.47.54:8000/play/a005/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.us@SD",ESPN (432p)
+http://tvsen7.aynascope.net/espn/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.us@SD",ESPN (720p)
+http://212.5.144.156:8080/espn/index.m3u8

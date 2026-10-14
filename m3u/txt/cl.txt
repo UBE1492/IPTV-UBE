@@ -71,8 +71,6 @@ El_Radar_(720p),https://video.ipstream.cl:3459/hybrid/play.m3u8
 Emocion_TV_(720p),https://v1.tustreaming.cl/emociontv/index.m3u8
 En_Linea_Maule_(720p),https://v2.tustreaming.cl/enlineamauletv/index.m3u8
 EnerGeek_(720p)_[Not_24/7],https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
-EnerGeek_Fan_(1080p),https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH
-EnerGeek_Radio_(1080p),https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=ZZDemoIPTVGH
 Enfoque_Digital_TV,https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8
 EPA!_TV_(720p),https://live-evg10.tv360.bitel.com.pe/bitel/epatv/playlist.m3u8
 Estacion_Limache_TV_(720p),https://v4.tustreaming.cl/limachemovil/index.m3u8

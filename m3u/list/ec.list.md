@@ -59,5 +59,6 @@
 | 53 | Zaracay TV (1080p) [Not 24/7] | video2.makrodigital.com | <https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8> |
 | 54 | Studio + TV (1080p) | vd01.streaminghd.net.ar:3113 | <https://vd01.streaminghd.net.ar:3113/hybrid/play.m3u8> |
 | 55 | Ecuador TV (720p) | IPv4 直链 | <http://38.44.109.41:8003/play/a0e9/index.m3u8> |
+| 56 | Maxivision Canal 8 (1080p) | IPv4 直链 | <http://181.119.97.124:8080/play/a00w/index.m3u8> |
 
-Updated at **Wed Oct 14 2026 04:09:04 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Oct 14 2026 11:27:18 GMT+0000 (Coordinated Universal Time)**

@@ -1,9 +1,27 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TVSTravelNetwork.us@SD",TVS Travel Network (720p) [Not 24/7]
-https://rpn.bozztv.com/gusa/gusa-tvstravel/index.m3u8
-#EXTINF:-1 tvg-id="WorldChannel.us@SD",World Channel (1080p)
-https://world.lls.pbs.org/index.m3u8
+#EXTINF:-1 tvg-id="GlobalWorldTV.us@SD",GlobalWorldTV (720p)
+https://media.streambrothers.com:1936/8052/8052/playlist.m3u8
+#EXTINF:-1 tvg-id="ShalomWorld.us@NorthAmerica",Shalom World (1080p)
+https://broadcaster-1.cclouds.in/srt-2/channel2_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="ShalomWorld.us@Australia",Shalom World Australia (1080p) [Geo-blocked]
+https://broadcaster-1.cclouds.in/srt-3/channel3_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="ShalomWorld.us@Europe",Shalom World Europe (1080p)
+https://broadcaster-1.cclouds.in/srt/channel1_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="ShalomWorldPrayer.us@SD",Shalom World Prayer (1080p)
+https://broadcaster-1.cclouds.in/srt-4/channel4_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="Telemundo.us@East",Telemundo (720p)
+http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="TelemundoAlDia.us@HD",Telemundo Al Dia
+https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/3.m3u8
 #EXTINF:-1 tvg-id="TelemundoInternacional.us@South",Telemundo Internacional (1080p)
-http://168.196.127.137:6001/play/a05t/index.m3u8
-#EXTINF:-1 tvg-id="Telemundo.us@WKAQTV",Telemundo WKAQ-TV (1080p)
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
+http://138.121.15.230:9002/TELEMUNDO/index.m3u8
+#EXTINF:-1 tvg-id="TelemundoInternacional.us@CentralAmerica",Telemundo Internacional Central America (1080p)
+http://190.60.46.156:8089/TELEMUNDO/index.m3u8
+#EXTINF:-1 tvg-id="Telemundo.us@West",Telemundo West (720p)
+http://181.119.108.43:9001/play/a044/index.m3u8
+#EXTINF:-1 tvg-id="Telemundo.us@West",Telemundo West (2160p)
+http://168.228.44.241:9997/play/a07g/index.m3u8
+#EXTINF:-1 tvg-id="TelemundoAlDia.us@HD",Telemundo Al Dia (720p)
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814573/hls/master.m3u8?ads.xumo_channelId=88814573
+#EXTINF:-1 tvg-id="Telemundo.us@EastHD",Telemundo East HD (1080p)
+https://streamer1.nexgen.bz/TELEMUNDO/index.m3u8
