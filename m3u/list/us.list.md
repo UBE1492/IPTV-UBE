@@ -373,4 +373,4 @@
 | 367 | Tooncast SouthAmerica (1080p) | IPv4 直链 | <http://200.62.239.170:830/play/a07n/index.m3u8> |
 | 368 | TNT Novelas Colombia (1080p) | IPv4 直链 | <http://190.61.47.54:8000/play/a02f/index.m3u8> |
 
-Updated at **Tue Oct 13 2026 22:25:13 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Oct 14 2026 04:09:04 GMT+0000 (Coordinated Universal Time)**
