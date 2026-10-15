@@ -140,4 +140,4 @@
 | 134 | Cristovision (576i) | IPv4 直链 | <http://200.122.223.13:55000/play/cristovision-ses-6/index.m3u8> |
 | 135 | Sin Limites (1080p) | IPv4 直链 | <http://170.244.209.30:8000/play/a1im/index.m3u8> |
 
-Updated at **Wed Oct 14 2026 21:23:37 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Oct 15 2026 03:51:32 GMT+0000 (Coordinated Universal Time)**
