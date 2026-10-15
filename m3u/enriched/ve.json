@@ -1,6 +1,6 @@
 {
   "name": "ve",
-  "updated_at": 1792036292278,
+  "updated_at": 1792062225445,
   "m3u": "https://ube1492.github.io/IPTV-UBE/ve.m3u",
   "channels": [
     {
@@ -141,6 +141,12 @@
     {
       "name": "TVes (1080p)",
       "url": "https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "TV Oasis Monay (1080i)",
+      "url": "https://live.teve.pro/live/tvoasis/index.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -285,6 +291,12 @@
       {
         "name": "TVes (1080p)",
         "url": "https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "TV Oasis Monay (1080i)",
+        "url": "https://live.teve.pro/live/tvoasis/index.m3u8",
         "logo": "",
         "category": "Otros"
       }

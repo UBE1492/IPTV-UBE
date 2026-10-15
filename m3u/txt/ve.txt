@@ -23,3 +23,4 @@ Televen_(1080p),http://38.134.250.110:8000/play/a02i/index.m3u8
 Ve_Plus_(720p),http://186.148.196.100:8000/play/a01d
 Telesur_(1080p),http://181.78.211.244:8005/play/a0cc/index.m3u8
 TVes_(1080p),https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8
+TV_Oasis_Monay_(1080i),https://live.teve.pro/live/tvoasis/index.m3u8

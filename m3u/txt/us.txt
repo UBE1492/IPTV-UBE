@@ -672,8 +672,8 @@ truTV_(720p)_[Geo-blocked],https://turnerlive.warnermediacdn.com/hls/live/202317
 truTV_West_(720p)_[Geo-blocked],https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
 TCM_(720p)_[Geo-blocked],https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
 TCM_West_(720p)_[Geo-blocked],https://turnerlive.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
-ESPN_(720p),http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-ESPN_2_(720p),http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
+ESPN_HD_(720p),http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
+ESPN_2_HD_(720p),http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
 Discovery_Family_(720p),https://tvsen5.aynaott.com/discoveryfamily/index.m3u8
 Fox_News_Channel_(1080p),https://tvsen6.aynaott.com/foxnews/index.m3u8
 HBO+_Latin_America_(720p)_[Geo-blocked],http://15.204.246.24:8080/HBOPlusHD/index.m3u8
@@ -700,3 +700,10 @@ Cartoon_Network_Latin_America_North_Atlantic_(1080p),http://170.244.209.30:8000/
 Adult_Swim_Latin_America,http://170.244.209.30:8000/play/a02v/index.m3u8
 Discovery_Kids_Latin_America_Chile_(1080p),http://38.224.231.176:8000/play/a01j/index.m3u8
 Love_Nature_en_Espanol_(1080p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
+HBO_Mundi_Latin_America,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+HBO_Xtreme_Latin_America,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+TNT_Latin_America_South,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+TNT_Novelas,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+FX_Latin_America_South,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+HGTV_(720p),http://tvsen7.aynascope.net/hgtv/index.m3u8
+HBO_Latin_America_(720p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36

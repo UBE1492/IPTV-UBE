@@ -407,3 +407,5 @@ https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_356
 https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="HGTVAsia.us@SD",HGTV Asia (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=99
+#EXTINF:-1 tvg-id="HGTV.us@East",HGTV (720p)
+http://tvsen7.aynascope.net/hgtv/index.m3u8

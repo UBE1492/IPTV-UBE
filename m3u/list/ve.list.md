@@ -27,5 +27,6 @@
 | 21 | Ve Plus (720p) | IPv4 直链 | <http://186.148.196.100:8000/play/a01d> |
 | 22 | Telesur (1080p) | IPv4 直链 | <http://181.78.211.244:8005/play/a0cc/index.m3u8> |
 | 23 | TVes (1080p) | vs20.live.opencaster.com | <https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8> |
+| 24 | TV Oasis Monay (1080i) | live.teve.pro | <https://live.teve.pro/live/tvoasis/index.m3u8> |
 
-Updated at **Thu Oct 15 2026 03:51:32 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Oct 15 2026 11:03:45 GMT+0000 (Coordinated Universal Time)**

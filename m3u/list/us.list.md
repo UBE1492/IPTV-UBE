@@ -665,8 +665,8 @@
 | 659 | truTV West (720p) [Geo-blocked] | turnerlive.warnermediacdn.com | <https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8> |
 | 660 | TCM (720p) [Geo-blocked] | turnerlive.warnermediacdn.com | <https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8> |
 | 661 | TCM West (720p) [Geo-blocked] | turnerlive.warnermediacdn.com | <https://turnerlive.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8> |
-| 662 | ESPN (720p) | IPv4 直链 | <http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8> |
-| 663 | ESPN 2 (720p) | IPv4 直链 | <http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8> |
+| 662 | ESPN HD (720p) | IPv4 直链 | <http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8> |
+| 663 | ESPN 2 HD (720p) | IPv4 直链 | <http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8> |
 | 664 | Discovery Family (720p) | tvsen5.aynaott.com | <https://tvsen5.aynaott.com/discoveryfamily/index.m3u8> |
 | 665 | Fox News Channel (1080p) | tvsen6.aynaott.com | <https://tvsen6.aynaott.com/foxnews/index.m3u8> |
 | 666 | HBO+ Latin America (720p) [Geo-blocked] | IPv4 直链 | <http://15.204.246.24:8080/HBOPlusHD/index.m3u8> |
@@ -690,5 +690,6 @@
 | 684 | Cartoon Network Latin America North Atlantic (1080p) | IPv4 直链 | <http://170.244.209.30:8000/play/a027/index.m3u8> |
 | 685 | Adult Swim Latin America | IPv4 直链 | <http://170.244.209.30:8000/play/a02v/index.m3u8> |
 | 686 | Discovery Kids Latin America Chile (1080p) | IPv4 直链 | <http://38.224.231.176:8000/play/a01j/index.m3u8> |
+| 687 | HGTV (720p) | tvsen7.aynascope.net | <http://tvsen7.aynascope.net/hgtv/index.m3u8> |
 
-Updated at **Thu Oct 15 2026 03:51:32 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Oct 15 2026 11:03:45 GMT+0000 (Coordinated Universal Time)**
