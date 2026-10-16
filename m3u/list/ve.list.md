@@ -29,4 +29,4 @@
 | 23 | TVes (1080p) | vs20.live.opencaster.com | <https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8> |
 | 24 | TV Oasis Monay (1080i) | live.teve.pro | <https://live.teve.pro/live/tvoasis/index.m3u8> |
 
-Updated at **Fri Oct 16 2026 16:19:22 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Oct 16 2026 20:41:35 GMT+0000 (Coordinated Universal Time)**
