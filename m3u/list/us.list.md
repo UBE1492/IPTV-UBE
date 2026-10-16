@@ -692,4 +692,4 @@
 | 686 | Discovery Kids Latin America Chile (1080p) | IPv4 直链 | <http://38.224.231.176:8000/play/a01j/index.m3u8> |
 | 687 | HGTV (720p) | tvsen7.aynascope.net | <http://tvsen7.aynascope.net/hgtv/index.m3u8> |
 
-Updated at **Fri Oct 16 2026 10:59:28 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Oct 16 2026 16:19:22 GMT+0000 (Coordinated Universal Time)**
