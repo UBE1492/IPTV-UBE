@@ -583,8 +583,6 @@ https://d2sybdl23b9psq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 #EXTINF:-1 tvg-id="CNN.us@SD",CNN (720p)
 https://tvsen6.aynaott.com/cnn/index.m3u8
-#EXTINF:-1 tvg-id="Tooncast.us@SD",Tooncast
-http://170.244.209.30:8000/play/a05t/index.m3u8
 #EXTINF:-1 tvg-id="AdultSwimLatinAmerica.us@Panregional",Adult Swim Latin America
 http://170.244.209.30:8000/play/a02v/index.m3u8
 #EXTINF:-1 tvg-id="LoveNatureenEspanol.us@SD",Love Nature en Espanol (1080p)

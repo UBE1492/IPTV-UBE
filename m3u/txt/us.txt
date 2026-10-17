@@ -695,7 +695,6 @@ CNN_International_North_America_(1080p),https://d2sybdl23b9psq.cloudfront.net/v1
 AXN_Latin_America_South,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 Cinecanal_South,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 CNN_(720p),https://tvsen6.aynaott.com/cnn/index.m3u8
-Tooncast,http://170.244.209.30:8000/play/a05t/index.m3u8
 Cartoon_Network_Latin_America_North_Atlantic_(1080p),http://170.244.209.30:8000/play/a027/index.m3u8
 Adult_Swim_Latin_America,http://170.244.209.30:8000/play/a02v/index.m3u8
 Discovery_Kids_Latin_America_Chile_(1080p),http://38.224.231.176:8000/play/a01j/index.m3u8

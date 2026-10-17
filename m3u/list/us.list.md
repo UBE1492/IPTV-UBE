@@ -686,10 +686,9 @@
 | 680 | HBO (720p) | tvsen7.aynascope.net | <http://tvsen7.aynascope.net/hbo/index.m3u8> |
 | 681 | CNN International North America (1080p) | d2sybdl23b9psq.cloudfront.net | <https://d2sybdl23b9psq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bocx3i7bjz0dg/CNNFAST_GB.m3u8> |
 | 682 | CNN (720p) | tvsen6.aynaott.com | <https://tvsen6.aynaott.com/cnn/index.m3u8> |
-| 683 | Tooncast | IPv4 直链 | <http://170.244.209.30:8000/play/a05t/index.m3u8> |
-| 684 | Cartoon Network Latin America North Atlantic (1080p) | IPv4 直链 | <http://170.244.209.30:8000/play/a027/index.m3u8> |
-| 685 | Adult Swim Latin America | IPv4 直链 | <http://170.244.209.30:8000/play/a02v/index.m3u8> |
-| 686 | Discovery Kids Latin America Chile (1080p) | IPv4 直链 | <http://38.224.231.176:8000/play/a01j/index.m3u8> |
-| 687 | HGTV (720p) | tvsen7.aynascope.net | <http://tvsen7.aynascope.net/hgtv/index.m3u8> |
+| 683 | Cartoon Network Latin America North Atlantic (1080p) | IPv4 直链 | <http://170.244.209.30:8000/play/a027/index.m3u8> |
+| 684 | Adult Swim Latin America | IPv4 直链 | <http://170.244.209.30:8000/play/a02v/index.m3u8> |
+| 685 | Discovery Kids Latin America Chile (1080p) | IPv4 直链 | <http://38.224.231.176:8000/play/a01j/index.m3u8> |
+| 686 | HGTV (720p) | tvsen7.aynascope.net | <http://tvsen7.aynascope.net/hgtv/index.m3u8> |
 
-Updated at **Fri Oct 16 2026 20:41:35 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Oct 17 2026 03:37:13 GMT+0000 (Coordinated Universal Time)**

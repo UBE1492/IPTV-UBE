@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1792183295847,
+  "updated_at": 1792208233794,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -4149,12 +4149,6 @@
     {
       "name": "CNN (720p)",
       "url": "https://tvsen6.aynaott.com/cnn/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Tooncast",
-      "url": "http://170.244.209.30:8000/play/a05t/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -8367,12 +8361,6 @@
       {
         "name": "CNN (720p)",
         "url": "https://tvsen6.aynaott.com/cnn/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Tooncast",
-        "url": "http://170.244.209.30:8000/play/a05t/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
