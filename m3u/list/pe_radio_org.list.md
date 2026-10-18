@@ -14,4 +14,4 @@
 | 8 | Atlantis Radio TV (720p) | live-evg8.tv360.bitel.com.pe | <https://live-evg8.tv360.bitel.com.pe/bitel/atlantisSRT/playlist.m3u8> |
 | 9 | Turbo Mix Radio TV (720p) | live-evg11.tv360.bitel.com.pe | <https://live-evg11.tv360.bitel.com.pe/bitel/turbomixSRT/playlist.m3u8> |
 
-Updated at **Sun Oct 18 2026 15:35:20 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Oct 18 2026 20:18:38 GMT+0000 (Coordinated Universal Time)**
