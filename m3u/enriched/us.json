@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1792268337841,
+  "updated_at": 1792295035033,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -1026,12 +1026,6 @@
     {
       "name": "Didgah TV (576p)",
       "url": "https://media.streambrothers.com:1936/8276/8276/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Disney Channel (720p) [Geo-blocked]",
-      "url": "http://212.5.144.156/disney/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -3799,12 +3793,6 @@
       "category": "Otros"
     },
     {
-      "name": "Lifetime Asia (720p)",
-      "url": "http://58.8.186.128:10006/bysid/2615",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
       "name": "HappyKids (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/HappyKids/index.m3u8",
       "logo": "",
@@ -4205,11 +4193,26 @@
     },
     {
       "name": "HBO Latin America (720p)",
-      "url": "",
+      "url": "#EXTINF:-1 tvg-id=\"LucasFriends.us@SD\",Lucas & Friends",
       "logo": "",
       "category": "Otros",
       "options": {
         "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36"
+      }
+    },
+    {
+      "name": "Cartoon Network Latin America Brazil (720p)",
+      "url": "http://45.162.64.114/CARTOON_NETWORK/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "MS NOW",
+      "url": "#EXTINF:-1 tvg-id=\"CNN.us@SD\",CNN",
+      "logo": "",
+      "category": "Otros",
+      "options": {
+        "http-referrer": "https://usnewson.com/"
       }
     }
   ],
@@ -5238,12 +5241,6 @@
       {
         "name": "Didgah TV (576p)",
         "url": "https://media.streambrothers.com:1936/8276/8276/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Disney Channel (720p) [Geo-blocked]",
-        "url": "http://212.5.144.156/disney/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -8011,12 +8008,6 @@
         "category": "Otros"
       },
       {
-        "name": "Lifetime Asia (720p)",
-        "url": "http://58.8.186.128:10006/bysid/2615",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
         "name": "HappyKids (576p)",
         "url": "https://mumbai-edge.smartplaytv.in/HappyKids/index.m3u8",
         "logo": "",
@@ -8417,11 +8408,26 @@
       },
       {
         "name": "HBO Latin America (720p)",
-        "url": "",
+        "url": "#EXTINF:-1 tvg-id=\"LucasFriends.us@SD\",Lucas & Friends",
         "logo": "",
         "category": "Otros",
         "options": {
           "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36"
+        }
+      },
+      {
+        "name": "Cartoon Network Latin America Brazil (720p)",
+        "url": "http://45.162.64.114/CARTOON_NETWORK/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "MS NOW",
+        "url": "#EXTINF:-1 tvg-id=\"CNN.us@SD\",CNN",
+        "logo": "",
+        "category": "Otros",
+        "options": {
+          "http-referrer": "https://usnewson.com/"
         }
       }
     ]

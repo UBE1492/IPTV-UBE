@@ -171,7 +171,6 @@ Detroit_Channel_22,https://reflect-detroit-vod.cablecast.tv/live-3/live/stream-3
 Detroit_Channel_68,https://reflect-detroit-vod.cablecast.tv/live-10/live/stream-5/live.m3u8
 DHE_(1080p),http://15.204.246.24:8080/DHEHD/index.m3u8
 Didgah_TV_(576p),https://media.streambrothers.com:1936/8276/8276/playlist.m3u8
-Disney_Channel_(720p)_[Geo-blocked],http://212.5.144.156/disney/index.m3u8
 Disney_Channel_Latin_America_(720p),http://190.14.10.19:16000/play/a06z/index.m3u8
 Disney_Jr._Latin_America_(1080p),http://190.14.10.19:16000/play/a02d/index.m3u8
 Disney_Junior_(576p)_[Geo-blocked],http://212.5.144.156/disneyjr/index.m3u8
@@ -634,7 +633,6 @@ Univision_(1080p)_[Geo-blocked],https://streaming-live-fcdn.api.prd.univisionnow
 Univision_West_(1080p)_[Geo-blocked],https://streaming-live-fcdn.api.prd.univisionnow.com/uniwest/uniwest.isml/hls/uniwest.m3u8
 Nick_Jr._East_HD_(720p),http://107.167.16.138/nickjr/index.m3u8?token=test
 KNino_(1080p),https://ats-edge-iqui-1.live.clarovtrcdn.vtrplay.com/kninohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-Lifetime_Asia_(720p),http://58.8.186.128:10006/bysid/2615
 HappyKids_(576p),https://mumbai-edge.smartplaytv.in/HappyKids/index.m3u8
 People_Are_Awesome_(1080p),https://mumbai-edge.smartplaytv.in/PeopleAreAwesome/index.m3u8
 Tennis_Channel_2_(1080p),https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
@@ -706,3 +704,7 @@ TNT_Novelas,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 FX_Latin_America_South,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 HGTV_(720p),http://tvsen7.aynascope.net/hgtv/index.m3u8
 HBO_Latin_America_(720p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+Lucas_&_Friends,https://app.viloud.tv/hls/channel/01e3b17a3605b7c0389411ae3d5dfd6e.m3u8
+Cartoon_Network_Latin_America_Brazil_(720p),http://45.162.64.114/CARTOON_NETWORK/index.m3u8
+MS_NOW,#EXTVLCOPT:http-referrer=https://usnewson.com/
+CNN,#EXTVLCOPT:http-referrer=https://usnewson.com

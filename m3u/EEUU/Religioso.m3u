@@ -23,7 +23,5 @@ https://tgn.bozztv.com/lifevision/lifevision/index.m3u8
 https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/stream.m3u8
 #EXTINF:-1 tvg-id="AspireTVLife.us@SD",Aspire TV Life (1080p)
 https://uptv-aspiretvlife-klowdtv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="LifetimeAsia.us@SD",Lifetime Asia (720p)
-http://58.8.186.128:10006/bysid/2615
 #EXTINF:-1 tvg-id="LifetimeLatinAmerica.us@Mexico",Lifetime Latin America Mexico (1080p)
 https://streaming.onnethn.com/LIFETIME/index.m3u8

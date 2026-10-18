@@ -591,3 +591,9 @@ http://170.244.209.30:8000/play/a02v/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 #EXTINF:-1 tvg-id="FXLatinAmerica.us@South",FX Latin America South
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="LucasFriends.us@SD",Lucas & Friends
+https://app.viloud.tv/hls/channel/01e3b17a3605b7c0389411ae3d5dfd6e.m3u8
+#EXTINF:-1 tvg-id="MSNOW.us@SD",MS NOW
+#EXTVLCOPT:http-referrer=https://usnewson.com/
+#EXTINF:-1 tvg-id="CNN.us@SD",CNN
+#EXTVLCOPT:http-referrer=https://usnewson.com
