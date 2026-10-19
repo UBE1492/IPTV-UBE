@@ -1,6 +1,6 @@
 {
   "name": "es",
-  "updated_at": 1792382000902,
+  "updated_at": 1792413282619,
   "m3u": "https://ube1492.github.io/IPTV-UBE/es.m3u",
   "channels": [
     {
@@ -42,6 +42,12 @@
     {
       "name": "7 TeleValencia (576p)",
       "url": "https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "7TV",
+      "url": "https://especial7tv.gestec-video.com/hls/regional.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -723,6 +729,12 @@
       {
         "name": "7 TeleValencia (576p)",
         "url": "https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "7TV",
+        "url": "https://especial7tv.gestec-video.com/hls/regional.m3u8",
         "logo": "",
         "category": "Otros"
       },

@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="7TV.es@Andalucia",7TV
+https://especial7tv.gestec-video.com/hls/regional.m3u8
 #EXTINF:-1 tvg-id="8LaMarinaTV.es@SD",8 La Marina TV (576p)
 https://streaming005.gestec-video.com/hls/canal24.m3u8
 #EXTINF:-1 tvg-id="9laLomaTV.es@SD",9 la Loma TV (1080p) [Geo-blocked]
