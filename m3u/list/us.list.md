@@ -617,78 +617,77 @@
 | 611 | ZTV (1080p) | IPv4 直链 | <http://45.70.201.81:8000/play/a00u/index.m3u8> |
 | 612 | MTV (1080p) | IPv4 直链 | <http://23.237.104.106:8080/USA_MTV/index.m3u8> |
 | 613 | Aspire TV Life (1080p) | uptv-aspiretvlife-klowdtv.amagi.tv | <https://uptv-aspiretvlife-klowdtv.amagi.tv/playlist.m3u8> |
-| 614 | HBO Movies (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8> |
-| 615 | Cinemax Classics (1080p) | IPv4 直链 | <http://23.237.104.106:8080/USA_5STARMAX/index.m3u8> |
-| 616 | AMC en Espanol | amc-amcespanol-1-us.lg.wurl.tv | <https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8> |
-| 617 | Smurf TV (480p) | stream.ads.ottera.tv | <https://stream.ads.ottera.tv/playlist.m3u8?network_id=4065> |
-| 618 | Telemundo East HD (1080p) | streamer1.nexgen.bz | <https://streamer1.nexgen.bz/TELEMUNDO/index.m3u8> |
-| 619 | AXN Black (576p) | hls127.freeott.top:8080 | <http://hls127.freeott.top:8080/BG_AXN_Black/video.m3u8> |
-| 620 | AXN White Bulgaria (576p) | hls127.freeott.top:8080 | <http://hls127.freeott.top:8080/BG_AXN_White/video.m3u8> |
-| 621 | Galavision East HD (1080p) [Geo-blocked] | streaming-live-fcdn.api.prd.univisionnow.com | <https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast.m3u8> |
-| 622 | Galavision West HD (1080p) [Geo-blocked] | streaming-live-fcdn.api.prd.univisionnow.com | <https://streaming-live-fcdn.api.prd.univisionnow.com/galawest/galawest.isml/hls/galawest.m3u8> |
-| 623 | Univision (1080p) [Geo-blocked] | streaming-live-fcdn.api.prd.univisionnow.com | <https://streaming-live-fcdn.api.prd.univisionnow.com/unieast/unieast.isml/hls/unieast.m3u8> |
-| 624 | Univision West (1080p) [Geo-blocked] | streaming-live-fcdn.api.prd.univisionnow.com | <https://streaming-live-fcdn.api.prd.univisionnow.com/uniwest/uniwest.isml/hls/uniwest.m3u8> |
-| 625 | Nick Jr. East HD (720p) | IPv4 直链 | <http://107.167.16.138/nickjr/index.m3u8?token=test> |
-| 626 | KNino (1080p) | ats-edge-iqui-1.live.clarovtrcdn.vtrplay.com | <https://ats-edge-iqui-1.live.clarovtrcdn.vtrplay.com/kninohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD> |
-| 627 | HappyKids (576p) | mumbai-edge.smartplaytv.in | <https://mumbai-edge.smartplaytv.in/HappyKids/index.m3u8> |
-| 628 | People Are Awesome (1080p) | mumbai-edge.smartplaytv.in | <https://mumbai-edge.smartplaytv.in/PeopleAreAwesome/index.m3u8> |
-| 629 | Tennis Channel 2 (1080p) | mumbai-edge.smartplaytv.in | <https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8> |
-| 630 | Bloomberg TV (720p) | mumbai-edge.smartplaytv.in | <https://mumbai-edge.smartplaytv.in/Bloomberg/index.m3u8> |
-| 631 | Bloomberg TV (576p) | tvsen6.aynaott.com | <https://tvsen6.aynaott.com/bloombergtv/index.m3u8> |
-| 632 | Willow (720p) [Geo-blocked] | tvsen7.aynaott.com | <https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8> |
-| 633 | Galavision West (720p) | IPv4 直链 | <http://200.115.120.1:8000/play/ca128/index.m3u8> |
-| 634 | Kartoon Channel! (720p) | rarelivetv8080.neocities.org | <https://rarelivetv8080.neocities.org/USA_KARTOON_CHANNEL/index.m3u8> |
-| 635 | 24Kitchen Bulgary (1080p) | hls127.freeott.top:8080 | <http://hls127.freeott.top:8080/BG_24_Kitchen/video.m3u8> |
-| 636 | S Corby TV (480p) | vodcdn.bamboo-cloud.com | <https://vodcdn.bamboo-cloud.com/livehls/6a9f89be0630445532152563/master.m3u8> |
-| 637 | S Metro TV (360p) | vodcdn.bamboo-cloud.com | <https://vodcdn.bamboo-cloud.com/livehls/6a9f8b4606304461c50dfe93/master.m3u8> |
-| 638 | We TV (1080p) | IPv4 直链 | <http://23.237.104.106:8080/USA_WE_TV/index.m3u8> |
-| 639 | DSports (720p) | IPv4 直链 | <http://15.204.146.163:8002/play/a00g/index.m3u8> |
-| 640 | Food Network Latin America (1080p) | IPv4 直链 | <http://168.196.127.137:6001/play/a09v/index.m3u8> |
-| 641 | Animal Planet Latin America (1080p) | IPv4 直链 | <http://190.128.214.97:64333/play/a01n/index.m3u8> |
-| 642 | HBO Family Latin America (1080p) | IPv4 直链 | <http://45.171.64.30:6060/play/a00k/index.m3u8> |
-| 643 | HBO 2 Latin America HD (1080p) | IPv4 直链 | <http://45.171.64.30:6060/play/a00i/index.m3u8> |
-| 644 | HTV (720p) | IPv4 直链 | <http://45.171.64.30:6060/play/a012/index.m3u8> |
-| 645 | HGTV Latin America (1080p) | IPv4 直链 | <http://38.87.224.19:2220/play/a01p/index.m3u8> |
-| 646 | Discovery Theater Latin America (1080p) | IPv4 直链 | <http://181.224.200.5:2277/play/a0bj/index.m3u8> |
-| 647 | Discovery Kids Latin America (1080p) | IPv4 直链 | <http://181.224.200.5:2277/play/a00o/index.m3u8> |
-| 648 | CNN en Espanol (1080p) | streaming.onnethn.com | <https://streaming.onnethn.com/CNN_ESPANOL/playlist.m3u8> |
-| 649 | Cinemax Latin America (720p) | streaming.onnethn.com | <https://streaming.onnethn.com/CINEMAX/playlist.m3u8> |
-| 650 | Tooncast (1080p) | streaming.onnethn.com | <https://streaming.onnethn.com/TOONCAST/playlist.m3u8> |
-| 651 | Comedy Central Latin America (1080p) | barinaslive1.boldmss.com | <https://barinaslive1.boldmss.com/COMEDY/COMEDY.isml/COMEDY.m3u8> |
-| 652 | TBS (720p) [Geo-blocked] | turnerlive.warnermediacdn.com | <https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8> |
-| 653 | TBS West (720p) [Geo-blocked] | turnerlive.warnermediacdn.com | <https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8> |
-| 654 | TNT (720p) [Geo-blocked] | turnerlive.warnermediacdn.com | <https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8> |
-| 655 | TNT West (720p) [Geo-blocked] | turnerlive.warnermediacdn.com | <https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8> |
-| 656 | truTV (720p) [Geo-blocked] | turnerlive.warnermediacdn.com | <https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8> |
-| 657 | truTV West (720p) [Geo-blocked] | turnerlive.warnermediacdn.com | <https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8> |
-| 658 | TCM (720p) [Geo-blocked] | turnerlive.warnermediacdn.com | <https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8> |
-| 659 | TCM West (720p) [Geo-blocked] | turnerlive.warnermediacdn.com | <https://turnerlive.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8> |
-| 660 | ESPN HD (720p) | IPv4 直链 | <http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8> |
-| 661 | ESPN 2 HD (720p) | IPv4 直链 | <http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8> |
-| 662 | Discovery Family (720p) | tvsen5.aynaott.com | <https://tvsen5.aynaott.com/discoveryfamily/index.m3u8> |
-| 663 | Fox News Channel (1080p) | tvsen6.aynaott.com | <https://tvsen6.aynaott.com/foxnews/index.m3u8> |
-| 664 | HBO+ Latin America (720p) [Geo-blocked] | IPv4 直链 | <http://15.204.246.24:8080/HBOPlusHD/index.m3u8> |
-| 665 | HBO 2 Latin America HD (720p) [Geo-blocked] | IPv4 直链 | <http://15.204.246.24:8080/HBO2HD/index.m3u8> |
-| 666 | HBO Family Latin America (720p) [Geo-blocked] | IPv4 直链 | <http://15.204.246.24:8080/HBOFamilyHD/index.m3u8> |
-| 667 | The Weather Channel (1080p) | twcprod-live.twc-tv.com | <https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8> |
-| 668 | NFL Network (720p) | IPv4 直链 | <http://198.58.104.90:8989/nfl/index.m3u8> |
-| 669 | CNN International (1080p) | d3bp6dwmpbdajl.cloudfront.net | <https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8> |
-| 670 | HGTV Asia (1080p) | freem3u.xyz | <https://freem3u.xyz/api/live/play.m3u8?vid=99> |
-| 671 | Outdoor Channel Vietnam (1080p) | freem3u.xyz | <https://freem3u.xyz/api/live/play.m3u8?vid=216> |
-| 672 | Lifetime Latin America Mexico (1080p) | streaming.onnethn.com | <https://streaming.onnethn.com/LIFETIME/index.m3u8> |
-| 673 | ESPN Latin America Colombia (1080p) | IPv4 直链 | <http://190.61.47.54:8000/play/a004/index.m3u8> |
-| 674 | ESPN 2 Latin America Colombia (1080p) | IPv4 直链 | <http://190.61.47.54:8000/play/a005/index.m3u8> |
-| 675 | Boomerang (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8> |
-| 676 | Cartoon Network (720p) | tvsen7.aynascope.net | <http://tvsen7.aynascope.net/cartoonnetwork/index.m3u8> |
-| 677 | HBO Hits (720p) | tvsen7.aynascope.net | <http://tvsen7.aynascope.net/hbo2/index.m3u8> |
-| 678 | HBO (720p) | tvsen7.aynascope.net | <http://tvsen7.aynascope.net/hbo/index.m3u8> |
-| 679 | CNN International North America (1080p) | d2sybdl23b9psq.cloudfront.net | <https://d2sybdl23b9psq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bocx3i7bjz0dg/CNNFAST_GB.m3u8> |
-| 680 | CNN (720p) | tvsen6.aynaott.com | <https://tvsen6.aynaott.com/cnn/index.m3u8> |
-| 681 | Cartoon Network Latin America North Atlantic (1080p) | IPv4 直链 | <http://170.244.209.30:8000/play/a027/index.m3u8> |
-| 682 | Adult Swim Latin America | IPv4 直链 | <http://170.244.209.30:8000/play/a02v/index.m3u8> |
-| 683 | Discovery Kids Latin America Chile (1080p) | IPv4 直链 | <http://38.224.231.176:8000/play/a01j/index.m3u8> |
-| 684 | HGTV (720p) | tvsen7.aynascope.net | <http://tvsen7.aynascope.net/hgtv/index.m3u8> |
-| 685 | Lucas & Friends | app.viloud.tv | <https://app.viloud.tv/hls/channel/01e3b17a3605b7c0389411ae3d5dfd6e.m3u8> |
-| 686 | Cartoon Network Latin America Brazil (720p) | IPv4 直链 | <http://45.162.64.114/CARTOON_NETWORK/index.m3u8> |
+| 614 | Cinemax Classics (1080p) | IPv4 直链 | <http://23.237.104.106:8080/USA_5STARMAX/index.m3u8> |
+| 615 | AMC en Espanol | amc-amcespanol-1-us.lg.wurl.tv | <https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8> |
+| 616 | Smurf TV (480p) | stream.ads.ottera.tv | <https://stream.ads.ottera.tv/playlist.m3u8?network_id=4065> |
+| 617 | Telemundo East HD (1080p) | streamer1.nexgen.bz | <https://streamer1.nexgen.bz/TELEMUNDO/index.m3u8> |
+| 618 | AXN Black (576p) | hls127.freeott.top:8080 | <http://hls127.freeott.top:8080/BG_AXN_Black/video.m3u8> |
+| 619 | AXN White Bulgaria (576p) | hls127.freeott.top:8080 | <http://hls127.freeott.top:8080/BG_AXN_White/video.m3u8> |
+| 620 | Galavision East HD (1080p) [Geo-blocked] | streaming-live-fcdn.api.prd.univisionnow.com | <https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast.m3u8> |
+| 621 | Galavision West HD (1080p) [Geo-blocked] | streaming-live-fcdn.api.prd.univisionnow.com | <https://streaming-live-fcdn.api.prd.univisionnow.com/galawest/galawest.isml/hls/galawest.m3u8> |
+| 622 | Univision (1080p) [Geo-blocked] | streaming-live-fcdn.api.prd.univisionnow.com | <https://streaming-live-fcdn.api.prd.univisionnow.com/unieast/unieast.isml/hls/unieast.m3u8> |
+| 623 | Univision West (1080p) [Geo-blocked] | streaming-live-fcdn.api.prd.univisionnow.com | <https://streaming-live-fcdn.api.prd.univisionnow.com/uniwest/uniwest.isml/hls/uniwest.m3u8> |
+| 624 | Nick Jr. East HD (720p) | IPv4 直链 | <http://107.167.16.138/nickjr/index.m3u8?token=test> |
+| 625 | KNino (1080p) | ats-edge-iqui-1.live.clarovtrcdn.vtrplay.com | <https://ats-edge-iqui-1.live.clarovtrcdn.vtrplay.com/kninohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD> |
+| 626 | HappyKids (576p) | mumbai-edge.smartplaytv.in | <https://mumbai-edge.smartplaytv.in/HappyKids/index.m3u8> |
+| 627 | People Are Awesome (1080p) | mumbai-edge.smartplaytv.in | <https://mumbai-edge.smartplaytv.in/PeopleAreAwesome/index.m3u8> |
+| 628 | Tennis Channel 2 (1080p) | mumbai-edge.smartplaytv.in | <https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8> |
+| 629 | Bloomberg TV (720p) | mumbai-edge.smartplaytv.in | <https://mumbai-edge.smartplaytv.in/Bloomberg/index.m3u8> |
+| 630 | Bloomberg TV (576p) | tvsen6.aynaott.com | <https://tvsen6.aynaott.com/bloombergtv/index.m3u8> |
+| 631 | Willow (720p) [Geo-blocked] | tvsen7.aynaott.com | <https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8> |
+| 632 | Galavision West (720p) | IPv4 直链 | <http://200.115.120.1:8000/play/ca128/index.m3u8> |
+| 633 | Kartoon Channel! (720p) | rarelivetv8080.neocities.org | <https://rarelivetv8080.neocities.org/USA_KARTOON_CHANNEL/index.m3u8> |
+| 634 | 24Kitchen Bulgary (1080p) | hls127.freeott.top:8080 | <http://hls127.freeott.top:8080/BG_24_Kitchen/video.m3u8> |
+| 635 | S Corby TV (480p) | vodcdn.bamboo-cloud.com | <https://vodcdn.bamboo-cloud.com/livehls/6a9f89be0630445532152563/master.m3u8> |
+| 636 | S Metro TV (360p) | vodcdn.bamboo-cloud.com | <https://vodcdn.bamboo-cloud.com/livehls/6a9f8b4606304461c50dfe93/master.m3u8> |
+| 637 | We TV (1080p) | IPv4 直链 | <http://23.237.104.106:8080/USA_WE_TV/index.m3u8> |
+| 638 | DSports (720p) | IPv4 直链 | <http://15.204.146.163:8002/play/a00g/index.m3u8> |
+| 639 | Food Network Latin America (1080p) | IPv4 直链 | <http://168.196.127.137:6001/play/a09v/index.m3u8> |
+| 640 | Animal Planet Latin America (1080p) | IPv4 直链 | <http://190.128.214.97:64333/play/a01n/index.m3u8> |
+| 641 | HBO Family Latin America (1080p) | IPv4 直链 | <http://45.171.64.30:6060/play/a00k/index.m3u8> |
+| 642 | HBO 2 Latin America HD (1080p) | IPv4 直链 | <http://45.171.64.30:6060/play/a00i/index.m3u8> |
+| 643 | HTV (720p) | IPv4 直链 | <http://45.171.64.30:6060/play/a012/index.m3u8> |
+| 644 | HGTV Latin America (1080p) | IPv4 直链 | <http://38.87.224.19:2220/play/a01p/index.m3u8> |
+| 645 | Discovery Theater Latin America (1080p) | IPv4 直链 | <http://181.224.200.5:2277/play/a0bj/index.m3u8> |
+| 646 | Discovery Kids Latin America (1080p) | IPv4 直链 | <http://181.224.200.5:2277/play/a00o/index.m3u8> |
+| 647 | CNN en Espanol (1080p) | streaming.onnethn.com | <https://streaming.onnethn.com/CNN_ESPANOL/playlist.m3u8> |
+| 648 | Cinemax Latin America (720p) | streaming.onnethn.com | <https://streaming.onnethn.com/CINEMAX/playlist.m3u8> |
+| 649 | Tooncast (1080p) | streaming.onnethn.com | <https://streaming.onnethn.com/TOONCAST/playlist.m3u8> |
+| 650 | Comedy Central Latin America (1080p) | barinaslive1.boldmss.com | <https://barinaslive1.boldmss.com/COMEDY/COMEDY.isml/COMEDY.m3u8> |
+| 651 | TBS (720p) [Geo-blocked] | turnerlive.warnermediacdn.com | <https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8> |
+| 652 | TBS West (720p) [Geo-blocked] | turnerlive.warnermediacdn.com | <https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8> |
+| 653 | TNT (720p) [Geo-blocked] | turnerlive.warnermediacdn.com | <https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8> |
+| 654 | TNT West (720p) [Geo-blocked] | turnerlive.warnermediacdn.com | <https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8> |
+| 655 | truTV (720p) [Geo-blocked] | turnerlive.warnermediacdn.com | <https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8> |
+| 656 | truTV West (720p) [Geo-blocked] | turnerlive.warnermediacdn.com | <https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8> |
+| 657 | TCM (720p) [Geo-blocked] | turnerlive.warnermediacdn.com | <https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8> |
+| 658 | TCM West (720p) [Geo-blocked] | turnerlive.warnermediacdn.com | <https://turnerlive.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8> |
+| 659 | ESPN HD (720p) | IPv4 直链 | <http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8> |
+| 660 | ESPN 2 HD (720p) | IPv4 直链 | <http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8> |
+| 661 | Discovery Family (720p) | tvsen5.aynaott.com | <https://tvsen5.aynaott.com/discoveryfamily/index.m3u8> |
+| 662 | Fox News Channel (1080p) | tvsen6.aynaott.com | <https://tvsen6.aynaott.com/foxnews/index.m3u8> |
+| 663 | HBO+ Latin America (720p) [Geo-blocked] | IPv4 直链 | <http://15.204.246.24:8080/HBOPlusHD/index.m3u8> |
+| 664 | HBO 2 Latin America HD (720p) [Geo-blocked] | IPv4 直链 | <http://15.204.246.24:8080/HBO2HD/index.m3u8> |
+| 665 | HBO Family Latin America (720p) [Geo-blocked] | IPv4 直链 | <http://15.204.246.24:8080/HBOFamilyHD/index.m3u8> |
+| 666 | The Weather Channel (1080p) | twcprod-live.twc-tv.com | <https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8> |
+| 667 | NFL Network (720p) | IPv4 直链 | <http://198.58.104.90:8989/nfl/index.m3u8> |
+| 668 | CNN International (1080p) | d3bp6dwmpbdajl.cloudfront.net | <https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8> |
+| 669 | HGTV Asia (1080p) | freem3u.xyz | <https://freem3u.xyz/api/live/play.m3u8?vid=99> |
+| 670 | Outdoor Channel Vietnam (1080p) | freem3u.xyz | <https://freem3u.xyz/api/live/play.m3u8?vid=216> |
+| 671 | Lifetime Latin America Mexico (1080p) | streaming.onnethn.com | <https://streaming.onnethn.com/LIFETIME/index.m3u8> |
+| 672 | ESPN Latin America Colombia (1080p) | IPv4 直链 | <http://190.61.47.54:8000/play/a004/index.m3u8> |
+| 673 | ESPN 2 Latin America Colombia (1080p) | IPv4 直链 | <http://190.61.47.54:8000/play/a005/index.m3u8> |
+| 674 | Boomerang (720p) | IPv4 直链 | <http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8> |
+| 675 | Cartoon Network (720p) | tvsen7.aynascope.net | <http://tvsen7.aynascope.net/cartoonnetwork/index.m3u8> |
+| 676 | HBO Hits (720p) | tvsen7.aynascope.net | <http://tvsen7.aynascope.net/hbo2/index.m3u8> |
+| 677 | HBO (720p) | tvsen7.aynascope.net | <http://tvsen7.aynascope.net/hbo/index.m3u8> |
+| 678 | CNN International North America (1080p) | d2sybdl23b9psq.cloudfront.net | <https://d2sybdl23b9psq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bocx3i7bjz0dg/CNNFAST_GB.m3u8> |
+| 679 | CNN (720p) | tvsen6.aynaott.com | <https://tvsen6.aynaott.com/cnn/index.m3u8> |
+| 680 | Cartoon Network Latin America North Atlantic (1080p) | IPv4 直链 | <http://170.244.209.30:8000/play/a027/index.m3u8> |
+| 681 | Adult Swim Latin America | IPv4 直链 | <http://170.244.209.30:8000/play/a02v/index.m3u8> |
+| 682 | Discovery Kids Latin America Chile (1080p) | IPv4 直链 | <http://38.224.231.176:8000/play/a01j/index.m3u8> |
+| 683 | HGTV (720p) | tvsen7.aynascope.net | <http://tvsen7.aynascope.net/hgtv/index.m3u8> |
+| 684 | Lucas & Friends | app.viloud.tv | <https://app.viloud.tv/hls/channel/01e3b17a3605b7c0389411ae3d5dfd6e.m3u8> |
+| 685 | Cartoon Network Latin America Brazil (720p) | IPv4 直链 | <http://45.162.64.114/CARTOON_NETWORK/index.m3u8> |
 
-Updated at **Sun Oct 18 2026 20:18:34 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Oct 19 2026 03:53:21 GMT+0000 (Coordinated Universal Time)**

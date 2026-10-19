@@ -1,6 +1,6 @@
 {
   "name": "mx",
-  "updated_at": 1792354714466,
+  "updated_at": 1792382000749,
   "m3u": "https://ube1492.github.io/IPTV-UBE/mx.m3u",
   "channels": [
     {
@@ -711,6 +711,12 @@
     {
       "name": "Maria Vision (1080p)",
       "url": "http://200.122.223.13:55000/play/a022/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Az Cinema (1080p)",
+      "url": "http://15.204.196.147:22880/CABLE-MAGES-AZCINEMA/video.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -1425,6 +1431,12 @@
       {
         "name": "Maria Vision (1080p)",
         "url": "http://200.122.223.13:55000/play/a022/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Az Cinema (1080p)",
+        "url": "http://15.204.196.147:22880/CABLE-MAGES-AZCINEMA/video.m3u8",
         "logo": "",
         "category": "Otros"
       }

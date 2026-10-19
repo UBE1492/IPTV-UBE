@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1792354714660,
+  "updated_at": 1792382001298,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -3711,12 +3711,6 @@
     {
       "name": "Aspire TV Life (1080p)",
       "url": "https://uptv-aspiretvlife-klowdtv.amagi.tv/playlist.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "HBO Movies (720p)",
-      "url": "http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -7926,12 +7920,6 @@
       {
         "name": "Aspire TV Life (1080p)",
         "url": "https://uptv-aspiretvlife-klowdtv.amagi.tv/playlist.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "HBO Movies (720p)",
-        "url": "http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8",
         "logo": "",
         "category": "Otros"
       },

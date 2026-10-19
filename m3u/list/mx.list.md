@@ -122,5 +122,6 @@
 | 116 | TeleHit (1080p) | IPv4 直链 | <http://190.61.47.54:8000/play/a029/index.m3u8> |
 | 117 | Azteca Uno (1080p) | IPv4 直链 | <http://38.44.109.41:8003/play/a033/index.m3u8> |
 | 118 | Maria Vision (1080p) | IPv4 直链 | <http://200.122.223.13:55000/play/a022/index.m3u8> |
+| 119 | Az Cinema (1080p) | IPv4 直链 | <http://15.204.196.147:22880/CABLE-MAGES-AZCINEMA/video.m3u8> |
 
-Updated at **Sun Oct 18 2026 20:18:34 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Oct 19 2026 03:53:20 GMT+0000 (Coordinated Universal Time)**
