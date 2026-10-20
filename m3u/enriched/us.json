@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1792447671161,
+  "updated_at": 1792469136495,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -1050,12 +1050,6 @@
     {
       "name": "Disney Junior (480p)",
       "url": "http://tvsen5.aynascope.net/disney/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Disney XD (720p)",
-      "url": "http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -3928,7 +3922,7 @@
       "category": "Otros"
     },
     {
-      "name": "Tooncast (1080p)",
+      "name": "Tooncast (720p)",
       "url": "https://streaming.onnethn.com/TOONCAST/playlist.m3u8",
       "logo": "",
       "category": "Otros"
@@ -4208,6 +4202,30 @@
       "options": {
         "http-referrer": "https://usnewson.com/"
       }
+    },
+    {
+      "name": "TCM Latin America Chile (1080p)",
+      "url": "https://streaming.onnethn.com/TCM_HD/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Nick Jr. Latin America (1080p)",
+      "url": "https://streaming.onnethn.com/NICK_JR/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "AXN Latin America (1080p)",
+      "url": "https://streaming.onnethn.com/AXN_HD/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "AMC Series Latin America (1080p)",
+      "url": "https://streaming.onnethn.com/AMC/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
     }
   ],
   "categories": {
@@ -5259,12 +5277,6 @@
       {
         "name": "Disney Junior (480p)",
         "url": "http://tvsen5.aynascope.net/disney/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Disney XD (720p)",
-        "url": "http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
@@ -8137,7 +8149,7 @@
         "category": "Otros"
       },
       {
-        "name": "Tooncast (1080p)",
+        "name": "Tooncast (720p)",
         "url": "https://streaming.onnethn.com/TOONCAST/playlist.m3u8",
         "logo": "",
         "category": "Otros"
@@ -8417,6 +8429,30 @@
         "options": {
           "http-referrer": "https://usnewson.com/"
         }
+      },
+      {
+        "name": "TCM Latin America Chile (1080p)",
+        "url": "https://streaming.onnethn.com/TCM_HD/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Nick Jr. Latin America (1080p)",
+        "url": "https://streaming.onnethn.com/NICK_JR/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "AXN Latin America (1080p)",
+        "url": "https://streaming.onnethn.com/AXN_HD/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "AMC Series Latin America (1080p)",
+        "url": "https://streaming.onnethn.com/AMC/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
       }
     ]
   }

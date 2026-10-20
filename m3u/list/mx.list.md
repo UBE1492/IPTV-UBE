@@ -124,4 +124,4 @@
 | 118 | Maria Vision (1080p) | IPv4 直链 | <http://200.122.223.13:55000/play/a022/index.m3u8> |
 | 119 | Az Cinema (1080p) | IPv4 直链 | <http://15.204.196.147:22880/CABLE-MAGES-AZCINEMA/video.m3u8> |
 
-Updated at **Mon Oct 19 2026 22:07:51 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Oct 20 2026 04:05:36 GMT+0000 (Coordinated Universal Time)**

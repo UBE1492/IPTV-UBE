@@ -553,7 +553,7 @@ http://hls127.freeott.top:8080/BG_24_Kitchen/video.m3u8
 http://190.128.214.97:64333/play/a01n/index.m3u8
 #EXTINF:-1 tvg-id="CNNenEspanol.us@SD",CNN en Espanol (1080p)
 https://streaming.onnethn.com/CNN_ESPANOL/playlist.m3u8
-#EXTINF:-1 tvg-id="Tooncast.us@SD",Tooncast (1080p)
+#EXTINF:-1 tvg-id="Tooncast.us@SD",Tooncast (720p)
 https://streaming.onnethn.com/TOONCAST/playlist.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us@Panregional",Comedy Central Latin America (1080p)
 https://barinaslive1.boldmss.com/COMEDY/COMEDY.isml/COMEDY.m3u8
@@ -597,3 +597,7 @@ https://app.viloud.tv/hls/channel/01e3b17a3605b7c0389411ae3d5dfd6e.m3u8
 #EXTVLCOPT:http-referrer=https://usnewson.com/
 #EXTINF:-1 tvg-id="CNN.us@SD",CNN
 #EXTVLCOPT:http-referrer=https://usnewson.com
+#EXTINF:-1 tvg-id="TCMLatinAmerica.us@Chile",TCM Latin America Chile (1080p)
+https://streaming.onnethn.com/TCM_HD/playlist.m3u8
+#EXTINF:-1 tvg-id="AXNLatinAmerica.us@CentralAmerica",AXN Latin America (1080p)
+https://streaming.onnethn.com/AXN_HD/playlist.m3u8

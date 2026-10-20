@@ -9,4 +9,4 @@
 | 3 | UCL (1080p) | livedelta.cdn.antel.net.uy | <https://livedelta.cdn.antel.net.uy/out/u/url_canalu_2.m3u8?m=1670250741> |
 | 4 | Canal Mas (720p) | canalmasuruguay.com | <https://canalmasuruguay.com/hls/master-abr.m3u8> |
 
-Updated at **Mon Oct 19 2026 22:07:51 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Oct 20 2026 04:05:36 GMT+0000 (Coordinated Universal Time)**

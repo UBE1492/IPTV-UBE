@@ -351,8 +351,6 @@ http://190.14.10.19:16000/play/a02d/index.m3u8
 http://212.5.144.156/disneyjr/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.us@East",Disney Junior (480p)
 http://tvsen5.aynascope.net/disney/index.m3u8
-#EXTINF:-1 tvg-id="DisneyXD.us@East",Disney XD (720p)
-http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-id="DNews.us@SD",DNews (720p)
 http://38.19.16.151:8000/play/a0a3
 #EXTINF:-1 tvg-id="DocumentaryPlus.us@US",Documentary+ (1080p)
@@ -1313,7 +1311,7 @@ http://181.224.200.5:2277/play/a00o/index.m3u8
 https://streaming.onnethn.com/CNN_ESPANOL/playlist.m3u8
 #EXTINF:-1 tvg-id="CinemaxLatinAmerica.us@SD",Cinemax Latin America (720p)
 https://streaming.onnethn.com/CINEMAX/playlist.m3u8
-#EXTINF:-1 tvg-id="Tooncast.us@SD",Tooncast (1080p)
+#EXTINF:-1 tvg-id="Tooncast.us@SD",Tooncast (720p)
 https://streaming.onnethn.com/TOONCAST/playlist.m3u8
 #EXTINF:-1 tvg-id="WarnerTVAsia.us@SD",Warner TV Asia (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
@@ -1415,3 +1413,11 @@ http://45.162.64.114/CARTOON_NETWORK/index.m3u8
 #EXTVLCOPT:http-referrer=https://usnewson.com/
 #EXTINF:-1 tvg-id="CNN.us@SD",CNN
 #EXTVLCOPT:http-referrer=https://usnewson.com
+#EXTINF:-1 tvg-id="TCMLatinAmerica.us@Chile",TCM Latin America Chile (1080p)
+https://streaming.onnethn.com/TCM_HD/playlist.m3u8
+#EXTINF:-1 tvg-id="NickJrLatinAmerica.us@Panregional",Nick Jr. Latin America (1080p)
+https://streaming.onnethn.com/NICK_JR/playlist.m3u8
+#EXTINF:-1 tvg-id="AXNLatinAmerica.us@CentralAmerica",AXN Latin America (1080p)
+https://streaming.onnethn.com/AXN_HD/playlist.m3u8
+#EXTINF:-1 tvg-id="AMCSeriesLatinAmerica.us@Panregional",AMC Series Latin America (1080p)
+https://streaming.onnethn.com/AMC/playlist.m3u8
