@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="StarChannel.cl@SD",Star Channel (720p)
+http://138.121.15.230:9002/STAR-CHANNEL/index.m3u8
