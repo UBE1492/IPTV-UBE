@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVCulturas.bo@SD",TV Culturas (576p)
+http://15.204.246.24:8080/TVCulturasSD/index.m3u8
