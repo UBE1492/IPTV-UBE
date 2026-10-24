@@ -1,0 +1,305 @@
+{
+  "name": "ve",
+  "updated_at": 1792838008802,
+  "m3u": "https://ube1492.github.io/IPTV-UBE/ve.m3u",
+  "channels": [
+    {
+      "name": "AbejalesTV (720p)",
+      "url": "https://183.bozztv.com/giatv/giatv-AbejalesTV/AbejalesTV/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Aguacate TV (1080p)",
+      "url": "https://stream.aguacatetv.com:3949/hybrid/play.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Alcance TV (720p)",
+      "url": "https://rv100.globalhost1.com:3516/live/tjjqdqurlive.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Anzoátegui TV (360p) [Not 24/7]",
+      "url": "https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "AS3 Sport TV (1080p)",
+      "url": "https://streamtv.as3sport.online:3394/hybrid/play.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Audaz TV (432p) [Not 24/7]",
+      "url": "https://cloud2.streaminglivehd.com:1936/8264/8264/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Barinas TV (720p) [Not 24/7]",
+      "url": "https://vcp13.myplaytv.com/barinastv/barinastv/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "BTA TV (720p)",
+      "url": "https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Canal 21 Táchira (360p)",
+      "url": "https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Canal C del Zulia (1080p)",
+      "url": "#EXTINF:-1 tvg-id=\"UniTV.ve@SD\",UniTV (720p)",
+      "logo": "",
+      "category": "Otros",
+      "options": {
+        "http-referrer": "https://canalc.vercel.app"
+      }
+    },
+    {
+      "name": "Vale TV (480p) [Not 24/7]",
+      "url": "https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Venevision (576p)",
+      "url": "http://181.78.8.199:8000/play/a0if/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Venevision (480p)",
+      "url": "https://venevision-ioriver-cdn.encoders.immergo.tv/3/streamPlaylist.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Venevisión Internacional (720p)",
+      "url": "https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Vepaco TV (480p)",
+      "url": "https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Wata Vision",
+      "url": "https://live20.bozztv.com/giatv/giatv-watavision/watavision/chunks.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Ve Plus Panregional (1080p)",
+      "url": "http://190.61.114.186:8000/play/a03i/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "ANTV (720p)",
+      "url": "http://181.78.8.199:8000/play/a0fo/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Sun Channel (720p)",
+      "url": "http://168.196.127.137:6001/play/a06p/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Televen (1080p)",
+      "url": "http://38.134.250.110:8000/play/a02i/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Ve Plus (720p)",
+      "url": "http://186.148.196.100:8000/play/a01d",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Telesur (1080p)",
+      "url": "http://181.78.211.244:8005/play/a0cc/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "TVes (1080p)",
+      "url": "https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "TV Oasis Monay (1080i)",
+      "url": "https://live.teve.pro/live/tvoasis/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    }
+  ],
+  "categories": {
+    "Otros": [
+      {
+        "name": "AbejalesTV (720p)",
+        "url": "https://183.bozztv.com/giatv/giatv-AbejalesTV/AbejalesTV/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Aguacate TV (1080p)",
+        "url": "https://stream.aguacatetv.com:3949/hybrid/play.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Alcance TV (720p)",
+        "url": "https://rv100.globalhost1.com:3516/live/tjjqdqurlive.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Anzoátegui TV (360p) [Not 24/7]",
+        "url": "https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "AS3 Sport TV (1080p)",
+        "url": "https://streamtv.as3sport.online:3394/hybrid/play.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Audaz TV (432p) [Not 24/7]",
+        "url": "https://cloud2.streaminglivehd.com:1936/8264/8264/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Barinas TV (720p) [Not 24/7]",
+        "url": "https://vcp13.myplaytv.com/barinastv/barinastv/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "BTA TV (720p)",
+        "url": "https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Canal 21 Táchira (360p)",
+        "url": "https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Canal C del Zulia (1080p)",
+        "url": "#EXTINF:-1 tvg-id=\"UniTV.ve@SD\",UniTV (720p)",
+        "logo": "",
+        "category": "Otros",
+        "options": {
+          "http-referrer": "https://canalc.vercel.app"
+        }
+      },
+      {
+        "name": "Vale TV (480p) [Not 24/7]",
+        "url": "https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Venevision (576p)",
+        "url": "http://181.78.8.199:8000/play/a0if/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Venevision (480p)",
+        "url": "https://venevision-ioriver-cdn.encoders.immergo.tv/3/streamPlaylist.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Venevisión Internacional (720p)",
+        "url": "https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Vepaco TV (480p)",
+        "url": "https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Wata Vision",
+        "url": "https://live20.bozztv.com/giatv/giatv-watavision/watavision/chunks.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Ve Plus Panregional (1080p)",
+        "url": "http://190.61.114.186:8000/play/a03i/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "ANTV (720p)",
+        "url": "http://181.78.8.199:8000/play/a0fo/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Sun Channel (720p)",
+        "url": "http://168.196.127.137:6001/play/a06p/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Televen (1080p)",
+        "url": "http://38.134.250.110:8000/play/a02i/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Ve Plus (720p)",
+        "url": "http://186.148.196.100:8000/play/a01d",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Telesur (1080p)",
+        "url": "http://181.78.211.244:8005/play/a0cc/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "TVes (1080p)",
+        "url": "https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "TV Oasis Monay (1080i)",
+        "url": "https://live.teve.pro/live/tvoasis/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      }
+    ]
+  }
+}
