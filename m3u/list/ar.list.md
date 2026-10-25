@@ -96,15 +96,14 @@
 | 90 | El Gourmet (1080p) | IPv4 直链 | <http://15.204.246.24:8080/ElGourmetHD/index.m3u8> |
 | 91 | El Nueve (1080p) | IPv4 直链 | <http://15.204.246.24:8080/elnueveHD/index.m3u8> |
 | 92 | El Siete (1080p) | edgectc.com | <https://edgectc.com/CANAL7_MZA/index.m3u8> |
-| 93 | El Trece (1080p) | IPv4 直链 | <http://15.204.246.24:8080/eltreceHD/index.m3u8> |
-| 94 | Aunar (1080p) | IPv4 直链 | <http://190.128.214.97:64333/play/a057/index.m3u8> |
-| 95 | Canal 4 Posadas (1080p) | IPv4 直链 | <http://190.128.214.97:64333/play/a06l/index.m3u8> |
-| 96 | Canal 7 TV (576p) [Not 24/7] | k-fra32.x10.network | <https://k-fra32.x10.network/Clrs/test/hls/1158394/playlist.m3u8> |
-| 97 | Film & Arts (1080p) | IPv4 直链 | <http://200.115.120.1:8000/play/ca131/index.m3u8> |
-| 98 | Space (1080p) | IPv4 直链 | <http://45.171.64.30:6060/play/a04n/index.m3u8> |
-| 99 | Fox Sports (1080p) | IPv4 直链 | <http://138.59.227.20:8000/play/a085/index.m3u8> |
-| 100 | Television Publica (1080p) | IPv4 直链 | <http://190.128.214.97:64333/play/a008/index.m3u8> |
-| 101 | ESPN Premium HD (1080p) | IPv4 直链 | <http://158.172.155.130:8000/play/a0ao/index.m3u8> |
-| 102 | Multivision Federal | videostream.shockmedia.com.ar | <https://videostream.shockmedia.com.ar/hls/multivisionfederal/multivisionfederal.m3u8> |
+| 93 | Aunar (1080p) | IPv4 直链 | <http://190.128.214.97:64333/play/a057/index.m3u8> |
+| 94 | Canal 4 Posadas (1080p) | IPv4 直链 | <http://190.128.214.97:64333/play/a06l/index.m3u8> |
+| 95 | Canal 7 TV (576p) [Not 24/7] | k-fra32.x10.network | <https://k-fra32.x10.network/Clrs/test/hls/1158394/playlist.m3u8> |
+| 96 | Film & Arts (1080p) | IPv4 直链 | <http://200.115.120.1:8000/play/ca131/index.m3u8> |
+| 97 | Space (1080p) | IPv4 直链 | <http://45.171.64.30:6060/play/a04n/index.m3u8> |
+| 98 | Fox Sports (1080p) | IPv4 直链 | <http://138.59.227.20:8000/play/a085/index.m3u8> |
+| 99 | Television Publica (1080p) | IPv4 直链 | <http://190.128.214.97:64333/play/a008/index.m3u8> |
+| 100 | ESPN Premium HD (1080p) | IPv4 直链 | <http://158.172.155.130:8000/play/a0ao/index.m3u8> |
+| 101 | Multivision Federal | videostream.shockmedia.com.ar | <https://videostream.shockmedia.com.ar/hls/multivisionfederal/multivisionfederal.m3u8> |
 
-Updated at **Sat Oct 24 2026 20:27:04 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Oct 25 2026 03:51:40 GMT+0000 (Coordinated Universal Time)**

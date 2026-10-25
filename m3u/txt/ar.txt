@@ -92,7 +92,7 @@ Eco_TV,https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
 El_Gourmet_(1080p),http://15.204.246.24:8080/ElGourmetHD/index.m3u8
 El_Nueve_(1080p),http://15.204.246.24:8080/elnueveHD/index.m3u8
 El_Siete_(1080p),https://edgectc.com/CANAL7_MZA/index.m3u8
-El_Trece_(1080p),http://15.204.246.24:8080/eltreceHD/index.m3u8
+El_Trece_(1080p),#EXTVLCOPT:http-referrer=https://vodgc.net
 Xtrema_Cartoons,#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1390
 Xtrema_Terror,#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1456
 Aunar_(1080p),http://190.128.214.97:64333/play/a057/index.m3u8

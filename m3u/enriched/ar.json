@@ -1,6 +1,6 @@
 {
   "name": "ar",
-  "updated_at": 1792873624710,
+  "updated_at": 1792900300594,
   "m3u": "https://ube1492.github.io/IPTV-UBE/ar.m3u",
   "channels": [
     {
@@ -560,24 +560,21 @@
     },
     {
       "name": "El Trece (1080p)",
-      "url": "http://15.204.246.24:8080/eltreceHD/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Xtrema Cartoons",
-      "url": "#EXTINF:-1 tvg-id=\"XtremaTerror.ar@SD\",Xtrema Terror",
+      "url": "#EXTINF:-1 tvg-id=\"XtremaCartoons.ar@SD\",Xtrema Cartoons",
       "logo": "",
       "category": "Otros",
       "options": {
-        "http-referrer": "https://xtrematv.com/?p=1390"
+        "http-referrer": "https://vodgc.net"
       }
     },
     {
-      "name": "Aunar (1080p)",
-      "url": "http://190.128.214.97:64333/play/a057/index.m3u8",
+      "name": "Xtrema Terror",
+      "url": "#EXTINF:-1 tvg-id=\"Aunar.ar@SD\",Aunar (1080p)",
       "logo": "",
-      "category": "Otros"
+      "category": "Otros",
+      "options": {
+        "http-referrer": "https://xtrematv.com/?p=1456"
+      }
     },
     {
       "name": "Canal 4 Posadas (1080p)",
@@ -1196,24 +1193,21 @@
       },
       {
         "name": "El Trece (1080p)",
-        "url": "http://15.204.246.24:8080/eltreceHD/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Xtrema Cartoons",
-        "url": "#EXTINF:-1 tvg-id=\"XtremaTerror.ar@SD\",Xtrema Terror",
+        "url": "#EXTINF:-1 tvg-id=\"XtremaCartoons.ar@SD\",Xtrema Cartoons",
         "logo": "",
         "category": "Otros",
         "options": {
-          "http-referrer": "https://xtrematv.com/?p=1390"
+          "http-referrer": "https://vodgc.net"
         }
       },
       {
-        "name": "Aunar (1080p)",
-        "url": "http://190.128.214.97:64333/play/a057/index.m3u8",
+        "name": "Xtrema Terror",
+        "url": "#EXTINF:-1 tvg-id=\"Aunar.ar@SD\",Aunar (1080p)",
         "logo": "",
-        "category": "Otros"
+        "category": "Otros",
+        "options": {
+          "http-referrer": "https://xtrematv.com/?p=1456"
+        }
       },
       {
         "name": "Canal 4 Posadas (1080p)",

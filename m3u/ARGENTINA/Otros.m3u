@@ -114,7 +114,7 @@ http://15.204.246.24:8080/elnueveHD/index.m3u8
 #EXTINF:-1 tvg-id="ElSiete.ar@SD",El Siete (1080p)
 https://edgectc.com/CANAL7_MZA/index.m3u8
 #EXTINF:-1 tvg-id="ElTrece.ar@SD",El Trece (1080p)
-http://15.204.246.24:8080/eltreceHD/index.m3u8
+#EXTVLCOPT:http-referrer=https://vodgc.net
 #EXTINF:-1 tvg-id="Aunar.ar@SD",Aunar (1080p)
 http://190.128.214.97:64333/play/a057/index.m3u8
 #EXTINF:-1 tvg-id="Canal4Posadas.ar@SD",Canal 4 Posadas (1080p)
