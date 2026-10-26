@@ -682,4 +682,4 @@
 | 676 | Lucas & Friends | app.viloud.tv | <https://app.viloud.tv/hls/channel/01e3b17a3605b7c0389411ae3d5dfd6e.m3u8> |
 | 677 | Cartoon Network Latin America Brazil (720p) | IPv4 直链 | <http://45.162.64.114/CARTOON_NETWORK/index.m3u8> |
 
-Updated at **Mon Oct 26 2026 03:55:49 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Oct 26 2026 12:30:44 GMT+0000 (Coordinated Universal Time)**
