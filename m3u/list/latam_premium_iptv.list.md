@@ -118,4 +118,4 @@
 | 112 | Zona Latina | IPv4 直链 | <http://179.1.87.75:8098/play/a0dr/index.m3u8> |
 | 113 | Zoom | IPv4 直链 | <http://179.1.87.75:8098/play/a0gh/index.m3u8> |
 
-Updated at **Tue Oct 27 2026 21:56:56 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Oct 28 2026 04:46:59 GMT+0000 (Coordinated Universal Time)**
