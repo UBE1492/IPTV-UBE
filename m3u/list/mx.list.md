@@ -125,4 +125,4 @@
 | 119 | Sky Sports 1 (1080p) | IPv4 直链 | <http://45.228.234.9:8000/play/a06b/index.m3u8> |
 | 120 | Las Estrellas Latin America | streaming.onnethn.com | <https://streaming.onnethn.com/LAS_ESTRELLAS_HD/playlist.m3u8> |
 
-Updated at **Thu Oct 29 2026 04:58:10 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Oct 29 2026 12:32:33 GMT+0000 (Coordinated Universal Time)**
