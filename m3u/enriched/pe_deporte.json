@@ -1,8 +1,14 @@
 {
   "name": "pe_deporte",
-  "updated_at": 1793277163179,
+  "updated_at": 1793313254841,
   "m3u": "https://ube1492.github.io/IPTV-UBE/pe_deporte.m3u",
   "channels": [
+    {
+      "name": "Fox Sports 3",
+      "url": "http://179.1.87.75:8098/play/a0fh/index.m3u8",
+      "logo": "https://raw.githubusercontent.com/iptv-org/api/master/logos/FoxSports3.ar.png",
+      "category": "Deportes"
+    },
     {
       "name": "LIGA 1 MAX (Op 4)",
       "url": "http://38.210.3.64:8090/play/a0nn/index.m3u8",
@@ -30,6 +36,12 @@
   ],
   "categories": {
     "Deportes": [
+      {
+        "name": "Fox Sports 3",
+        "url": "http://179.1.87.75:8098/play/a0fh/index.m3u8",
+        "logo": "https://raw.githubusercontent.com/iptv-org/api/master/logos/FoxSports3.ar.png",
+        "category": "Deportes"
+      },
       {
         "name": "LIGA 1 MAX (Op 4)",
         "url": "http://38.210.3.64:8090/play/a0nn/index.m3u8",

@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="FoxSports3.latin" tvg-name="Fox Sports 3" tvg-logo="https://raw.githubusercontent.com/iptv-org/api/master/logos/FoxSports3.ar.png" group-title="Deportes",Fox Sports 3
+http://179.1.87.75:8098/play/a0fh/index.m3u8
 #EXTINF:-1 tvg-id="L1MAX.pe" tvg-name="L1 MAX" tvg-logo="https://raw.githubusercontent.com/iptv-org/api/master/logos/L1MAX.pe.png" group-title="Deportes",LIGA 1 MAX (Op 4)
 http://38.210.3.64:8090/play/a0nn/index.m3u8
 #EXTINF:-1 tvg-id="MovistarDeportes.pe@SD",Movistar Deportes (1080p)
