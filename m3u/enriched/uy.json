@@ -1,0 +1,77 @@
+{
+  "name": "uy",
+  "updated_at": 1793397775655,
+  "m3u": "https://ube1492.github.io/IPTV-UBE/uy.m3u",
+  "channels": [
+    {
+      "name": "Canal 5 (720p)",
+      "url": "https://tinyurl.com/canal5uy",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "UCL (720p)",
+      "url": "https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "UCL (1080p)",
+      "url": "https://livedelta.cdn.antel.net.uy/out/u/url_canalu_2.m3u8?m=1670250741",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Canal Mas (720p)",
+      "url": "https://canalmasuruguay.com/hls/master-abr.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Canal ALMA",
+      "url": "",
+      "logo": "",
+      "category": "Otros",
+      "options": {
+        "http-referrer": "https://canalalma.tv"
+      }
+    }
+  ],
+  "categories": {
+    "Otros": [
+      {
+        "name": "Canal 5 (720p)",
+        "url": "https://tinyurl.com/canal5uy",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "UCL (720p)",
+        "url": "https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "UCL (1080p)",
+        "url": "https://livedelta.cdn.antel.net.uy/out/u/url_canalu_2.m3u8?m=1670250741",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Canal Mas (720p)",
+        "url": "https://canalmasuruguay.com/hls/master-abr.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Canal ALMA",
+        "url": "",
+        "logo": "",
+        "category": "Otros",
+        "options": {
+          "http-referrer": "https://canalalma.tv"
+        }
+      }
+    ]
+  }
+}
