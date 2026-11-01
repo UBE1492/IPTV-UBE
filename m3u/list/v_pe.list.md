@@ -4,7 +4,6 @@
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
-| 1 | BHTVSD | cdn2.ujjina.com:1935 | <http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8> |
-| 2 | Latina.SD | photocall.tv | <http://photocall.tv/latina.php/.m3u8> |
 
-Updated at **Sun Nov 01 2026 05:06:42 GMT+0000 (Coordinated Universal Time)**
+
+Updated at **Sun Nov 01 2026 12:53:49 GMT+0000 (Coordinated Universal Time)**

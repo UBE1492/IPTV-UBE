@@ -1,0 +1,117 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ABTelevision.pe@SD",ABTelevision (720p)
+https://live-evg8.tv360.bitel.com.pe/bitel/abctelevisionSRT/playlist.m3u8
+#EXTINF:-1 tvg-id="AmericaTelevision.pe@SD",America Television (1080p)
+http://190.93.224.42/AMERICA-TV/index.m3u8
+#EXTINF:-1 tvg-id="Antena1.pe@SD",Antena 1 (720p)
+https://live-evg8.tv360.bitel.com.pe/bitel/aunoSRT/playlist.m3u8
+#EXTINF:-1 tvg-id="AntenaSUR.pe@SD",Antena SUR (720p)
+https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8
+#EXTINF:-1 tvg-id="AutenticaTelevision.pe@SD",Auténtica Televisión (720p) [Not 24/7]
+https://live.obslivestream.com/autenticatvmux/index.m3u8
+#EXTINF:-1 tvg-id="Canal8Catacaos.pe@SD",Canal 8 Catacaos (720p) [Not 24/7]
+https://live.obslivestream.com/canal8/index.m3u8
+#EXTINF:-1 tvg-id="Canal21Huancayo.pe@SD",Canal 21 Huancayo (720p)
+https://live-evg11.tv360.bitel.com.pe/bitel/tvwanka/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal25Ayacucho.pe@SD",Canal 25 Ayacucho (720p)
+https://live-evg10.tv360.bitel.com.pe/bitel/canal25ayacucho/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalIPe.pe@SD",Canal IPe (720p)
+http://187.102.210.46/IPE/index.m3u8
+#EXTINF:-1 tvg-id="CanalIPe.pe@SD",Canal IPe (576p)
+http://190.93.224.42/IPE/index.m3u8
+#EXTINF:-1 tvg-id="CANALMTelevision.pe@SD",CANAL M Television (720p)
+https://live-evg10.tv360.bitel.com.pe/bitel/anqaratv/playlist.m3u8
+#EXTINF:-1 tvg-id="CRTelevision.pe@SD",CR Televisión Moyobamba (720p) [Not 24/7]
+https://live.obslivestream.com/crtvmux/index.m3u8
+#EXTINF:-1 tvg-id="DobleCTelevision.pe@SD",Doble C Television (720p)
+https://live20.bozztv.com/giatv/giatv-doblec1/doblec1/playlist.m3u8
+#EXTINF:-1 tvg-id="ECOTelevision.pe@SD",ECO Television (720p)
+https://live-evg11.tv360.bitel.com.pe/bitel/ecotv/playlist.m3u8
+#EXTINF:-1 tvg-id="ECOTelevision.pe@SD",ECO Television
+https://stream.ecoperu.tv/ECOTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FrecuenciaAmazonica.pe@SD",Frecuencia Amazonica
+https://vivatv.juanjuiserver.com:3349/live/frecuenciaamazonicalive.m3u8
+#EXTINF:-1 tvg-id="ImpactoTelevision.pe@SD",Impacto Televisión (360p) [Not 24/7]
+https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
+#EXTINF:-1 tvg-id="ImperialTelevision.pe@SD",Imperial Television (720p)
+https://live-evg5.tv360.bitel.com.pe/bitel/imperialSRT/playlist.m3u8
+#EXTINF:-1 tvg-id="JN19.pe@SD",JN19 (1080p) [Not 24/7]
+https://servilive.com:3028/live/jntv19live.m3u8
+#EXTINF:-1 tvg-id="JN19.pe@SD",JN 19 (720p)
+http://187.102.210.46/JN19/index.m3u8
+#EXTINF:-1 tvg-id="Karibena.pe@SD",Karibena (720p)
+http://187.102.210.46/KARIBENA/index.m3u8
+#EXTINF:-1 tvg-id="L1.pe@SD",L1 (1080p)
+http://45.4.1.201:8000/play/a1ai/index.m3u8
+#EXTINF:-1 tvg-id="L1Max.pe@SD",L1 Max (1080p)
+http://190.93.224.42/LIGA-1-MAX/index.m3u8
+#EXTINF:-1 tvg-id="LaTele.pe@SD",La Tele (1080p)
+http://190.93.224.42/LA-TELE/index.m3u8
+#EXTINF:-1 tvg-id="Latina.pe@SD",Latina (1080p)
+http://190.93.224.42/LATINA/index.m3u8
+#EXTINF:-1 tvg-id="LatinaClasicos.pe@SD",Latina Clasicos (1080p)
+http://45.171.108.253:8888/LATINA/index.m3u8
+#EXTINF:-1 tvg-id="LatinaPodcast.pe@SD",Latina Podcast (720p)
+https://redirector.rudo.video/hls-video/plus226/latina4/latina4.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MetropolitanadelCuzco.pe@SD",Metropolitana del Cuzco
+https://video1.earthcam.com/myearthcam/075ff02f78c35af55564cf3af3b3f750.flv/playlist.m3u8
+#EXTINF:-1 tvg-id="",MO Channel (720p)
+https://cloudvideo.servers10.com:8081/8070/index.m3u8
+#EXTINF:-1 tvg-id="Nativa.pe@SD",Nativa (720p) [Not 24/7]
+https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="Nativa.pe@SD",Nativa (720p)
+http://187.102.210.46/NATIVATV/index.m3u8
+#EXTINF:-1 tvg-id="NZKTelevision.pe@SD",NZK Television (720p)
+https://eu1.servers10.com:8081/8258/index.m3u8
+#EXTINF:-1 tvg-id="Primavera15.pe@SD",Primavera 15
+https://mc.servidor.stream:19360/8244/8244.m3u8
+#EXTINF:-1 tvg-id="QosqoTimes.pe@SD",Qosqo Times (720p)
+https://live-evg5.tv360.bitel.com.pe/bitel/qosqo/playlist.m3u8
+#EXTINF:-1 tvg-id="QosqoTimes.pe@SD",Qosqo Times
+https://stmv2.srvif.com/qtelevision/qtelevision/playlist.m3u8
+#EXTINF:-1 tvg-id="RealTelevision.pe@SD",Real Television (720p)
+https://live-evg10.tv360.bitel.com.pe/bitel/realtv/playlist.m3u8
+#EXTINF:-1 tvg-id="RNTelevision.pe@SD",RN Televisión (720p) [Not 24/7]
+https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
+#EXTINF:-1 tvg-id="Telelima.pe@SD",Telelima (720p)
+https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/playlist.m3u8
+#EXTINF:-1 tvg-id="Teleselva.pe@SD",Teleselva (720p)
+https://live-evg7.tv360.bitel.com.pe/bitel/teleselva/playlist.m3u8
+#EXTINF:-1 tvg-id="Teleselva.pe@SD",Teleselva
+https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
+#EXTINF:-1 tvg-id="TelevisionTarapoto.pe@SD",Television Tarapoto (720p)
+https://live-evg11.tv360.bitel.com.pe/bitel/tvtarapotoSRT/playlist.m3u8
+#EXTINF:-1 tvg-id="TelevisionTarapoto.pe@SD",Televisión Tarapoto (720p) [Not 24/7]
+https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
+#EXTINF:-1 tvg-id="TeveEmpresa.pe@SD",Teve Empresa (720p)
+https://live-evg8.tv360.bitel.com.pe/bitel/tvempresaSRT/playlist.m3u8
+#EXTINF:-1 tvg-id="Tevesur.pe@SD",Tevesur (720p)
+https://live-evg11.tv360.bitel.com.pe/bitel/tevesurSRT/playlist.m3u8
+#EXTINF:-1 tvg-id="Trivu.pe@SD",Trivu (1080p)
+http://190.93.224.42/TRIVU-TV/index.m3u8
+#EXTINF:-1 tvg-id="Trivu.pe@SD",Trivu (720p)
+https://live-evg11.tv360.bitel.com.pe/bitel/trivutv/playlist.m3u8
+#EXTINF:-1 tvg-id="Trivu.pe@SD",Trivu
+https://stream2.trivutv.com/memfs/1bc8358a-665e-4bc1-a580-e4fcb54b5103.m3u8
+#EXTINF:-1 tvg-id="UcayalinadeTelevision.pe@SD",Ucayalina de Television (720p)
+https://live-evg11.tv360.bitel.com.pe/bitel/utv/playlist.m3u8
+#EXTINF:-1 tvg-id="Unitel.pe@SD",Unitel (1080p)
+https://play.agenciastreaming.com:8081/uniteltv/index.m3u8
+#EXTINF:-1 tvg-id="VNP.pe@SD",VNP
+https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
+#EXTINF:-1 tvg-id="VRCanal21Nasca.pe@SD",VR Canal 21 Nasca (720p)
+https://live-evg10.tv360.bitel.com.pe/bitel/nasca/playlist.m3u8
+#EXTINF:-1 tvg-id="WEST.pe@SD",WEST (1080p)
+https://cablered.iptvperu.tv:1936/cablered/west/playlist.m3u8
+#EXTINF:-1 tvg-id="Yurivision.pe@SD",Yurivision (720p)
+https://live-evg5.tv360.bitel.com.pe/bitel/yurivisionSRT/playlist.m3u8
+#EXTINF:-1 tvg-id="Karibena.pe@SD",Karibena
+#EXTVLCOPT:http-referrer=https://karibena.pe/
+#EXTINF:-1 tvg-id="Chikitoonz.pe@SD",Chikitoonz (1080p)
+http://45.70.201.81:8000/play/a00p/index.m3u8
+#EXTINF:-1 tvg-id="L1Max.pe@SD",L1 Max
+https://cablered.iptvperu.tv:1936/cablered/liga1max.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalN.pe@SD",Canal N (576p)
+http://190.108.91.206:9050/play/a0bd/index.m3u8
+#EXTINF:-1 tvg-id="CanalN.pe@SD",Canal N (1080p)
+http://187.102.208.209:8000/play/a0az/index.m3u8
