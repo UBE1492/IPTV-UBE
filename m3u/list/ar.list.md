@@ -113,4 +113,4 @@
 | 107 | Fox Sports HD | IPv4 直链 | <http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1552.m3u8> |
 | 108 | TNT Sports SD (576p) | IPv4 直链 | <http://181.78.79.131:8000/play/a0mo> |
 
-Updated at **Mon Nov 02 2026 05:07:20 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Nov 02 2026 15:06:45 GMT+0000 (Coordinated Universal Time)**
