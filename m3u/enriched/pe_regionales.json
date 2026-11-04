@@ -1,6 +1,6 @@
 {
   "name": "pe_regionales",
-  "updated_at": 1793746827332,
+  "updated_at": 1793770153445,
   "m3u": "https://ube1492.github.io/IPTV-UBE/pe_regionales.m3u",
   "channels": [
     {
@@ -52,12 +52,6 @@
       "category": "Without category"
     },
     {
-      "name": "Nativa | PE",
-      "url": "https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8?PlaylistM3UCL",
-      "logo": "https://cdn.m3u.cl/logo/684_Nativa.png",
-      "category": "Without category"
-    },
-    {
       "name": "Tele Selva | PE",
       "url": "https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8?PlaylistM3UCL",
       "logo": "https://cdn.m3u.cl/logo/1546_Tele_Selva.png",
@@ -79,6 +73,12 @@
       "name": "Cultura 24 TV | PE",
       "url": "https://www.opencaster.com/resources/hls_stream/cultura24.m3u8?PlaylistM3UCL",
       "logo": "https://cdn.m3u.cl/logo/696_Cultura_24_TV.png",
+      "category": "Without category"
+    },
+    {
+      "name": "Nativa | PE",
+      "url": "https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8?PlaylistM3UCL",
+      "logo": "https://cdn.m3u.cl/logo/684_Nativa.png",
       "category": "Without category"
     },
     {
@@ -163,12 +163,6 @@
         "category": "Without category"
       },
       {
-        "name": "Nativa | PE",
-        "url": "https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8?PlaylistM3UCL",
-        "logo": "https://cdn.m3u.cl/logo/684_Nativa.png",
-        "category": "Without category"
-      },
-      {
         "name": "Tele Selva | PE",
         "url": "https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8?PlaylistM3UCL",
         "logo": "https://cdn.m3u.cl/logo/1546_Tele_Selva.png",
@@ -190,6 +184,12 @@
         "name": "Cultura 24 TV | PE",
         "url": "https://www.opencaster.com/resources/hls_stream/cultura24.m3u8?PlaylistM3UCL",
         "logo": "https://cdn.m3u.cl/logo/696_Cultura_24_TV.png",
+        "category": "Without category"
+      },
+      {
+        "name": "Nativa | PE",
+        "url": "https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8?PlaylistM3UCL",
+        "logo": "https://cdn.m3u.cl/logo/684_Nativa.png",
         "category": "Without category"
       },
       {
