@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AERadioTV.cl@SD",AE Radio TV (720p) [Not 24/7]
+https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8
+#EXTINF:-1 tvg-id="ChocolateFM.cl@SD",Chocolate FM (720p)
+https://5eaccbab48461.streamlock.net:1936/8180/8180/playlist.m3u8
+#EXTINF:-1 tvg-id="DanceFM.cl@SD",Dance FM (720p)
+https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
+#EXTINF:-1 tvg-id="FMPlusTV.cl@SD",FM Plus TV (720p)
+https://v2.tustreaming.cl/fmplus/index.m3u8
