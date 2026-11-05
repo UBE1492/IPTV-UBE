@@ -21,6 +21,12 @@ http://187.102.210.46/IPE/index.m3u8
 http://190.93.224.42/IPE/index.m3u8
 #EXTINF:-1 tvg-id="CANALMTelevision.pe@SD",CANAL M Television (720p)
 https://live-evg10.tv360.bitel.com.pe/bitel/anqaratv/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalN.pe@SD",Canal N (1080p)
+http://170.244.209.30:8000/play/a1ib/index.m3u8
+#EXTINF:-1 tvg-id="CanalN.pe@SD",Canal N (576p)
+http://190.108.91.206:9050/play/a0bd/index.m3u8
+#EXTINF:-1 tvg-id="Chikitoonz.pe@SD",Chikitoonz (1080p)
+http://45.70.201.81:8000/play/a00p/index.m3u8
 #EXTINF:-1 tvg-id="CRTelevision.pe@SD",CR Televisión Moyobamba (720p) [Not 24/7]
 https://live.obslivestream.com/crtvmux/index.m3u8
 #EXTINF:-1 tvg-id="DobleCTelevision.pe@SD",Doble C Television (720p)
@@ -35,20 +41,14 @@ https://vivatv.juanjuiserver.com:3349/live/frecuenciaamazonicalive.m3u8
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
 #EXTINF:-1 tvg-id="ImperialTelevision.pe@SD",Imperial Television (720p)
 https://live-evg5.tv360.bitel.com.pe/bitel/imperialSRT/playlist.m3u8
-#EXTINF:-1 tvg-id="JN19.pe@SD",JN19 (1080p) [Not 24/7]
-https://servilive.com:3028/live/jntv19live.m3u8
 #EXTINF:-1 tvg-id="JN19.pe@SD",JN 19 (720p)
 http://187.102.210.46/JN19/index.m3u8
+#EXTINF:-1 tvg-id="JN19.pe@SD",JN19 (1080p) [Not 24/7]
+https://servilive.com:3028/live/jntv19live.m3u8
 #EXTINF:-1 tvg-id="Karibena.pe@SD",Karibena (720p)
 http://187.102.210.46/KARIBENA/index.m3u8
-#EXTINF:-1 tvg-id="L1.pe@SD",L1 (1080p)
-http://45.4.1.201:8000/play/a1ai/index.m3u8
-#EXTINF:-1 tvg-id="L1Max.pe@SD",L1 Max (1080p)
-http://190.93.224.42/LIGA-1-MAX/index.m3u8
-#EXTINF:-1 tvg-id="LaTele.pe@SD",La Tele (1080p)
-http://190.93.224.42/LA-TELE/index.m3u8
-#EXTINF:-1 tvg-id="Latina.pe@SD",Latina (1080p)
-http://190.93.224.42/LATINA/index.m3u8
+#EXTINF:-1 tvg-id="Karibena.pe@SD",Karibena
+#EXTVLCOPT:http-referrer=https://karibena.pe/
 #EXTINF:-1 tvg-id="LatinaClasicos.pe@SD",Latina Clasicos (1080p)
 http://45.171.108.253:8888/LATINA/index.m3u8
 #EXTINF:-1 tvg-id="LatinaPodcast.pe@SD",Latina Podcast (720p)
@@ -57,10 +57,10 @@ https://redirector.rudo.video/hls-video/plus226/latina4/latina4.smil/playlist.m3
 https://video1.earthcam.com/myearthcam/075ff02f78c35af55564cf3af3b3f750.flv/playlist.m3u8
 #EXTINF:-1 tvg-id="",MO Channel (720p)
 https://cloudvideo.servers10.com:8081/8070/index.m3u8
-#EXTINF:-1 tvg-id="Nativa.pe@SD",Nativa (720p) [Not 24/7]
-https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Nativa.pe@SD",Nativa (720p)
 http://187.102.210.46/NATIVATV/index.m3u8
+#EXTINF:-1 tvg-id="Nativa.pe@SD",Nativa (720p) [Not 24/7]
+https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="NZKTelevision.pe@SD",NZK Television (720p)
 https://eu1.servers10.com:8081/8258/index.m3u8
 #EXTINF:-1 tvg-id="Primavera15.pe@SD",Primavera 15
@@ -79,6 +79,8 @@ https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/playlist.m3u8
 https://live-evg7.tv360.bitel.com.pe/bitel/teleselva/playlist.m3u8
 #EXTINF:-1 tvg-id="Teleselva.pe@SD",Teleselva
 https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
+#EXTINF:-1 tvg-id="TelevisionTarapoto.pe@SD",Television Tarapoto (1080p)
+http://45.5.57.58:8000/play/a038/index.m3u8
 #EXTINF:-1 tvg-id="TelevisionTarapoto.pe@SD",Television Tarapoto (720p)
 https://live-evg11.tv360.bitel.com.pe/bitel/tvtarapotoSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="TelevisionTarapoto.pe@SD",Televisión Tarapoto (720p) [Not 24/7]
@@ -91,8 +93,6 @@ https://live-evg11.tv360.bitel.com.pe/bitel/tevesurSRT/playlist.m3u8
 http://190.93.224.42/TRIVU-TV/index.m3u8
 #EXTINF:-1 tvg-id="Trivu.pe@SD",Trivu (720p)
 https://live-evg11.tv360.bitel.com.pe/bitel/trivutv/playlist.m3u8
-#EXTINF:-1 tvg-id="Trivu.pe@SD",Trivu
-https://stream2.trivutv.com/memfs/1bc8358a-665e-4bc1-a580-e4fcb54b5103.m3u8
 #EXTINF:-1 tvg-id="UcayalinadeTelevision.pe@SD",Ucayalina de Television (720p)
 https://live-evg11.tv360.bitel.com.pe/bitel/utv/playlist.m3u8
 #EXTINF:-1 tvg-id="Unitel.pe@SD",Unitel (1080p)
@@ -105,15 +105,3 @@ https://live-evg10.tv360.bitel.com.pe/bitel/nasca/playlist.m3u8
 https://cablered.iptvperu.tv:1936/cablered/west/playlist.m3u8
 #EXTINF:-1 tvg-id="Yurivision.pe@SD",Yurivision (720p)
 https://live-evg5.tv360.bitel.com.pe/bitel/yurivisionSRT/playlist.m3u8
-#EXTINF:-1 tvg-id="Karibena.pe@SD",Karibena
-#EXTVLCOPT:http-referrer=https://karibena.pe/
-#EXTINF:-1 tvg-id="Chikitoonz.pe@SD",Chikitoonz (1080p)
-http://45.70.201.81:8000/play/a00p/index.m3u8
-#EXTINF:-1 tvg-id="L1Max.pe@SD",L1 Max
-https://cablered.iptvperu.tv:1936/cablered/liga1max.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalN.pe@SD",Canal N (576p)
-http://190.108.91.206:9050/play/a0bd/index.m3u8
-#EXTINF:-1 tvg-id="CanalN.pe@SD",Canal N (1080p)
-http://187.102.208.209:8000/play/a0az/index.m3u8
-#EXTINF:-1 tvg-id="TelevisionTarapoto.pe@SD",Television Tarapoto (1080p)
-http://45.5.57.58:8000/play/a038/index.m3u8
