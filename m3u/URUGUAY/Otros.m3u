@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Canal5.uy@SD",Canal 5 (720p)
+https://tinyurl.com/canal5uy
+#EXTINF:-1 tvg-id="CanalALMA.uy@SD",Canal ALMA
+#EXTVLCOPT:http-referrer=https://canalalma.tv
+#EXTINF:-1 tvg-id="CanalMas.uy@SD",Canal Mas (720p)
+https://canalmasuruguay.com/hls/master-abr.m3u8
+#EXTINF:-1 tvg-id="CanalOncePlus.uy@SD",Canal Once Plus (720p)
+#EXTVLCOPT:http-referrer=https://canal11.uy
