@@ -1,6 +1,6 @@
 {
   "name": "es",
-  "updated_at": 1794005522893,
+  "updated_at": 1794028554757,
   "m3u": "https://ube1492.github.io/IPTV-UBE/es.m3u",
   "channels": [
     {
@@ -672,6 +672,12 @@
     {
       "name": "XPTV US (720p)",
       "url": "https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "TVE Internacional America (720p)",
+      "url": "https://barinaslive1.boldmss.com/TVE/TVE.isml/index.m3u8",
       "logo": "",
       "category": "Otros"
     }
@@ -1347,6 +1353,12 @@
       {
         "name": "XPTV US (720p)",
         "url": "https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "TVE Internacional America (720p)",
+        "url": "https://barinaslive1.boldmss.com/TVE/TVE.isml/index.m3u8",
         "logo": "",
         "category": "Otros"
       }

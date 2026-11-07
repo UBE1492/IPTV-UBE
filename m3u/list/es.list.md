@@ -104,5 +104,6 @@
 | 98 | XPTV1 (720p) | janus.xpbroadcasting.com:8443 | <https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8> |
 | 99 | XPTV2 (720p) | janus.xpbroadcasting.com:8443 | <https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8> |
 | 100 | XPTV US (720p) | janus.xpbroadcasting.com:8443 | <https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8> |
+| 101 | TVE Internacional America (720p) | barinaslive1.boldmss.com | <https://barinaslive1.boldmss.com/TVE/TVE.isml/index.m3u8> |
 
-Updated at **Fri Nov 06 2026 22:52:02 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Nov 07 2026 05:15:54 GMT+0000 (Coordinated Universal Time)**
