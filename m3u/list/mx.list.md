@@ -103,4 +103,4 @@
 | 97 | ZAZ (1080p) | cloud.fastchannel.es | <https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8> |
 | 98 | Sky Sports 2 (1080p) | IPv4 直链 | <http://200.115.120.1:8000/play/ca82266/index.m3u8> |
 
-Updated at **Sun Nov 08 2026 12:57:58 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Nov 08 2026 21:50:17 GMT+0000 (Coordinated Universal Time)**

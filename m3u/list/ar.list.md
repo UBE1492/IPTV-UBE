@@ -145,4 +145,4 @@
 | 139 | TV Universidad | stratus.stream.cespi.unlp.edu.ar | <https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8> |
 | 140 | TyC Sports (1080p) | amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv | <https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8> |
 
-Updated at **Sun Nov 08 2026 12:57:57 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Nov 08 2026 21:50:17 GMT+0000 (Coordinated Universal Time)**
