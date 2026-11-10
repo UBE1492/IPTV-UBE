@@ -7,4 +7,4 @@
 | 1 | BHTVSD | cdn2.ujjina.com:1935 | <http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8> |
 | 2 | Latina.SD | photocall.tv | <http://photocall.tv/latina.php/.m3u8> |
 
-Updated at **Tue Nov 10 2026 01:18:26 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Nov 10 2026 14:33:28 GMT+0000 (Coordinated Universal Time)**
