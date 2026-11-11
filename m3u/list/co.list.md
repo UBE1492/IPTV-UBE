@@ -118,4 +118,4 @@
 | 112 | TeveColombia (720p) [Not 24/7] | cloud6.livescast.com:3900 | <https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8> |
 | 113 | Trece (1080p) | IPv4 直链 | <http://190.60.46.228:8888/play/a030/index.m3u8> |
 
-Updated at **Tue Nov 10 2026 22:58:25 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Nov 11 2026 05:22:35 GMT+0000 (Coordinated Universal Time)**

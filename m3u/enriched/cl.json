@@ -1,6 +1,6 @@
 {
   "name": "cl",
-  "updated_at": 1794351504858,
+  "updated_at": 1794374555294,
   "m3u": "https://ube1492.github.io/IPTV-UBE/cl.m3u",
   "channels": [
     {
@@ -204,12 +204,6 @@
     {
       "name": "Canal Chilote (720p)",
       "url": "https://videostream.chileservidores.com:8081/chiloe2/index.m3u8",
-      "logo": "",
-      "category": "Otros"
-    },
-    {
-      "name": "Canal Claro",
-      "url": "http://190.61.90.17:40000/play/a0fv/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -897,12 +891,6 @@
       {
         "name": "Canal Chilote (720p)",
         "url": "https://videostream.chileservidores.com:8081/chiloe2/index.m3u8",
-        "logo": "",
-        "category": "Otros"
-      },
-      {
-        "name": "Canal Claro",
-        "url": "http://190.61.90.17:40000/play/a0fv/index.m3u8",
         "logo": "",
         "category": "Otros"
       },

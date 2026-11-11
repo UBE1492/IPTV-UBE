@@ -98,7 +98,7 @@ https://live-evg7.tv360.bitel.com.pe/bitel/sabormixtvSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="EvolucionTV.pe@SD",Evolucion TV (576p)
 https://edgectc.com/CTC_SAN_RAFAEL/index.m3u8
 #EXTINF:-1 tvg-id="ExitosaTV.pe@SD",Exitosa TV (1080p)
-http://170.244.209.30:8000/play/a1ic/index.m3u8
+http://190.93.224.42/EXITOSA/index.m3u8
 #EXTINF:-1 tvg-id="ExitosaTV.pe@SD",Exitosa TV (720p)
 http://187.102.210.46/EXITOSA/index.m3u8
 #EXTINF:-1 tvg-id="ExitosaTV.pe@SD",Exitosa TV (720p) [Not 24/7]
@@ -319,7 +319,7 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/vivatv.stream/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://bitel.com.pe/
 https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/playlist.m3u8
 #EXTINF:-1 tvg-id="WillaxTV.pe@SD",Willax TV (1080p)
-http://170.244.209.30:8000/play/a1id/index.m3u8
+http://190.93.224.42/WILLAX/index.m3u8
 #EXTINF:-1 tvg-id="WillaxTV.pe@SD",Willax TV (720p)
 http://187.102.210.46/WILLAX/index.m3u8
 #EXTINF:-1 tvg-id="Wtv.pe@SD",Wtv (720p)

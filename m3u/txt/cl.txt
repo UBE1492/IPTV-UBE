@@ -33,7 +33,6 @@ Canal_13_(1080p),http://15.204.246.24:8080/Canal13HD/index.m3u8
 Canal_13_(720p),https://pantera1-100gb-cl-movistar.dps.live/t13radio/t13radio.smil/playlist.m3u8
 Canal_30_Loncomilla_(720p),https://v1.tustreaming.cl/canal30loncomilla/index.m3u8
 Canal_Chilote_(720p),https://videostream.chileservidores.com:8081/chiloe2/index.m3u8
-Canal_Claro,http://190.61.90.17:40000/play/a0fv/index.m3u8
 Canal_ISB_(Iglesia_San_Bernardo)_(720p),https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8
 Canal_Latino_54_(360p),https://videostream.chileservidores.com:8081/latina/index.m3u8
 Canal_Local_(720p),https://v2.tustreaming.cl/canallocalcl/index.m3u8
