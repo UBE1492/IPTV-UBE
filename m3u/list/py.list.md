@@ -47,4 +47,4 @@
 | 41 | SUR TV Itapua | IPv4 直链 | <http://45.170.130.224:8000/play/a036/index.m3u8?hls> |
 | 42 | Telefuturo (1080p) | IPv4 直链 | <http://158.172.217.18:8000/play/a0ns/index.m3u8> |
 
-Updated at **Wed Nov 11 2026 05:22:35 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Nov 11 2026 13:48:14 GMT+0000 (Coordinated Universal Time)**

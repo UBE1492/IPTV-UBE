@@ -31,4 +31,4 @@
 | 25 | Colombeia (576p) | IPv4 直链 | <http://200.59.191.177:8000/play/a0la/index.m3u8> |
 | 26 | TVes (1080p) | IPv4 直链 | <http://45.226.205.96:48000/play/a0dn/index.m3u8> |
 
-Updated at **Wed Nov 11 2026 05:22:35 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Nov 11 2026 13:48:14 GMT+0000 (Coordinated Universal Time)**
