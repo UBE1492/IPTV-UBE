@@ -144,4 +144,4 @@
 | 138 | TyC Sports (1080p) | amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv | <https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8> |
 | 139 | ESPN Premium | IPv4 直链 | <http://45.134.141.161:2200/ARG/ESPN_Premium_Argentina_HD/tracks-v1a1/mono.m3u8> |
 
-Updated at **Sat Nov 14 2026 13:12:18 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Nov 14 2026 22:06:48 GMT+0000 (Coordinated Universal Time)**

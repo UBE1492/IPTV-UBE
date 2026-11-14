@@ -1,0 +1,5 @@
+Undefined,#genre#
+Canal_5_(720p),https://tinyurl.com/canal5uy
+Canal_ALMA,#EXTVLCOPT:http-referrer=https://canalalma.tv
+Canal_Mas_(720p),https://canalmasuruguay.com/hls/master-abr.m3u8
+Canal_Once_Plus_(720p),#EXTVLCOPT:http-referrer=https://canal11.uy
