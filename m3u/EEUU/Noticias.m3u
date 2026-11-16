@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (1080p)
+https://tvsen6.aynaott.com/foxnews/index.m3u8
+#EXTINF:-1 tvg-id="FoxNewsRadio.us@SD",Fox News Radio (720p)
+https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
+#EXTINF:-1 tvg-id="HMIPROMZNEWS.us@SD",HMI PROMZ NEWS (720p)
+https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8
+#EXTINF:-1 tvg-id="Newsmax2.us@KPVMLD",KPVM Newsmax 2 (484p)
+https://2-fss-2.streamhoster.com/pl_120/206858-4404556-1/playlist.m3u8
+#EXTINF:-1 tvg-id="SalemNewsChannel.us@SD",Salem News Channel (1080p)
+https://amg00732-salemmediagroup-snc-ono-ekp8j.amagi.tv/playlist/amg00732-salemmediagroup-snc-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel
+#EXTVLCOPT:http-referrer=https://usnewson.com
+#EXTINF:-1 tvg-id="ScrippsNews.us@SD",Scripps News (1080p)
+https://aka-live1050.delivery.roku.com/a48b72c9-5755-4ede-9dac-9e51e4ca5cc8/t2-origin/out/v1/live.m3u8
