@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="AMCSeriesLatinAmerica.us@Panregional",AMC Series Latin America (1080p)
-http://45.171.64.30:6060/play/a005/index.m3u8
-#EXTINF:-1 tvg-id="TNTNovelas.us@Panregional",TNT Novelas (1080p)
-http://158.172.155.130:8000/play/a0at/index.m3u8
-#EXTINF:-1 tvg-id="TNTNovelas.us@Panregional",TNT Novelas
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-#EXTINF:-1 tvg-id="UnivisionTlnovelas.us@SD",Univision Tlnovelas (1080p)
-http://45.6.4.35/TELENOVELAS/index.m3u8
