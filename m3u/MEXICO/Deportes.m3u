@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AyMSports.mx@SD",AyM Sports (1080p)
+http://168.196.127.137:6001/play/a06v/index.m3u8
+#EXTINF:-1 tvg-id="AztecaDeportesNetwork.mx@SD",Azteca Deportes Network (1080p)
+http://209.14.115.253:8081/azteca-deportes/index.m3u8
+#EXTINF:-1 tvg-id="AztecaDeportesNetwork.mx@SD",Azteca Deportes Network (720p)
+http://38.194.226.190:8000/play/a02r/index.m3u8

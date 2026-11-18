@@ -43,20 +43,21 @@
 | 37 | Latacunga TV (360p) | stmv1.voxtvhd.com.br | <https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8> |
 | 38 | Loreto TV (720p) | loretotv.moxapps.shop | <https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8> |
 | 39 | Majestad Televisión (720p) | videoserver.tmcreativos.com:19360 | <https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8> |
-| 40 | TV Cisne (1080p) | video2.lhdserver.es | <https://video2.lhdserver.es/tvcisne/live.m3u8> |
-| 41 | TV Color Canal 36 (720p) | video.compuwebecuador.com:3067 | <https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8> |
-| 42 | TV Legislativa (1080p) [Not 24/7] | streamingav.asambleanacional.gob.ec | <https://streamingav.asambleanacional.gob.ec/hls/stream.m3u8> |
-| 43 | TV Universal Ecuador (720p) | cdn.mycloudstream.io | <https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8> |
-| 44 | TVC (1080p) | IPv4 直链 | <http://45.224.97.181:9999/TVC/index.m3u8> |
-| 45 | TVC (720p) | IPv4 直链 | <http://157.100.248.242:8080/TVCHD/index.m3u8> |
-| 46 | TVC (480i) | d2m7i0pvomh4vg.cloudfront.net | <https://d2m7i0pvomh4vg.cloudfront.net/ts:abr.m3u8> |
-| 47 | TvOro (1080p) | IPv4 直链 | <http://45.187.0.19:9090/tvusa/index.m3u8> |
-| 48 | UEBI TV Online (720p) [Not 24/7] | ventaxtv.com:3575 | <https://ventaxtv.com:3575/live/uebilive.m3u8> |
-| 49 | UNIANDES TV (720p) [Not 24/7] | video.compuwebecuador.com:3323 | <https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8> |
-| 50 | Unsion TV (1080p) | provedores.unsion.tv:8081 | <http://provedores.unsion.tv:8081/srt/1/playlist.m3u8> |
-| 51 | VitoTVO (1080p) | iptv.vitotvo.video.makrodigital.com:8081 | <http://iptv.vitotvo.video.makrodigital.com:8081/vitotvo/iptv/playlist.m3u8> |
-| 52 | Vos y TV (720p) [Not 24/7] | cloud37.ecuatel.com | <https://cloud37.ecuatel.com/vostv/live/manifest.m3u8> |
-| 53 | Wuan+ | 7.innovatestream.pe:19360 | <https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8> |
-| 54 | Zaracay TV (1080p) [Not 24/7] | video2.makrodigital.com | <https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8> |
+| 40 | MakroDigital Television (1080p) | IPv4 直链 | <http://205.235.6.29:8000/play/a0wp/index.m3u8> |
+| 41 | TV Cisne (1080p) | video2.lhdserver.es | <https://video2.lhdserver.es/tvcisne/live.m3u8> |
+| 42 | TV Color Canal 36 (720p) | video.compuwebecuador.com:3067 | <https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8> |
+| 43 | TV Legislativa (1080p) [Not 24/7] | streamingav.asambleanacional.gob.ec | <https://streamingav.asambleanacional.gob.ec/hls/stream.m3u8> |
+| 44 | TV Universal Ecuador (720p) | cdn.mycloudstream.io | <https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8> |
+| 45 | TVC (1080p) | IPv4 直链 | <http://45.224.97.181:9999/TVC/index.m3u8> |
+| 46 | TVC (720p) | IPv4 直链 | <http://157.100.248.242:8080/TVCHD/index.m3u8> |
+| 47 | TVC (480i) | d2m7i0pvomh4vg.cloudfront.net | <https://d2m7i0pvomh4vg.cloudfront.net/ts:abr.m3u8> |
+| 48 | TvOro (1080p) | IPv4 直链 | <http://45.187.0.19:9090/tvusa/index.m3u8> |
+| 49 | UEBI TV Online (720p) [Not 24/7] | ventaxtv.com:3575 | <https://ventaxtv.com:3575/live/uebilive.m3u8> |
+| 50 | UNIANDES TV (720p) [Not 24/7] | video.compuwebecuador.com:3323 | <https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8> |
+| 51 | Unsion TV (1080p) | provedores.unsion.tv:8081 | <http://provedores.unsion.tv:8081/srt/1/playlist.m3u8> |
+| 52 | VitoTVO (1080p) | iptv.vitotvo.video.makrodigital.com:8081 | <http://iptv.vitotvo.video.makrodigital.com:8081/vitotvo/iptv/playlist.m3u8> |
+| 53 | Vos y TV (720p) [Not 24/7] | cloud37.ecuatel.com | <https://cloud37.ecuatel.com/vostv/live/manifest.m3u8> |
+| 54 | Wuan+ | 7.innovatestream.pe:19360 | <https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8> |
+| 55 | Zaracay TV (1080p) [Not 24/7] | video2.makrodigital.com | <https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8> |
 
-Updated at **Wed Nov 18 2026 00:44:01 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Nov 18 2026 15:20:28 GMT+0000 (Coordinated Universal Time)**

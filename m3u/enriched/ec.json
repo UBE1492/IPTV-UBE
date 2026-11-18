@@ -1,6 +1,6 @@
 {
   "name": "ec",
-  "updated_at": 1794962641220,
+  "updated_at": 1795015228964,
   "m3u": "https://ube1492.github.io/IPTV-UBE/ec.m3u",
   "channels": [
     {
@@ -239,12 +239,15 @@
     },
     {
       "name": "MakroDigital Television (1080p)",
-      "url": "#EXTINF:-1 tvg-id=\"TVCisne.ec@SD\",TV Cisne (1080p)",
+      "url": "http://205.235.6.29:8000/play/a0wp/index.m3u8",
       "logo": "",
-      "category": "Otros",
-      "options": {
-        "http-referrer": "https://makrodigitaltelevision.com"
-      }
+      "category": "Otros"
+    },
+    {
+      "name": "TV Cisne (1080p)",
+      "url": "https://video2.lhdserver.es/tvcisne/live.m3u8",
+      "logo": "",
+      "category": "Otros"
     },
     {
       "name": "TV Color Canal 36 (720p)",
@@ -569,12 +572,15 @@
       },
       {
         "name": "MakroDigital Television (1080p)",
-        "url": "#EXTINF:-1 tvg-id=\"TVCisne.ec@SD\",TV Cisne (1080p)",
+        "url": "http://205.235.6.29:8000/play/a0wp/index.m3u8",
         "logo": "",
-        "category": "Otros",
-        "options": {
-          "http-referrer": "https://makrodigitaltelevision.com"
-        }
+        "category": "Otros"
+      },
+      {
+        "name": "TV Cisne (1080p)",
+        "url": "https://video2.lhdserver.es/tvcisne/live.m3u8",
+        "logo": "",
+        "category": "Otros"
       },
       {
         "name": "TV Color Canal 36 (720p)",
