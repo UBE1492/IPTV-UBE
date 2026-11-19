@@ -73,6 +73,7 @@ FM_Plus_TV_(720p),https://v2.tustreaming.cl/fmplus/index.m3u8
 Fortaleza_TV_(1080p),https://multimedia.fortalezatv.cl/video/video.m3u8
 Frecuencia_7_TV_(720p),https://v2.tustreaming.cl/frecuencia7/index.m3u8
 Genial_TV_(720p),https://v1.tustreaming.cl/genialtv/index.m3u8
+Girovisual_(1080p),https://live-evg8.tv360.bitel.com.pe/bitel/girovisualSRT-TRA/playlist.m3u8
 GVision_(288p),https://videostream.chileservidores.com:8081/tome/index.m3u8
 Holvoet_TV_(Copiapó)_(720p)_[Not_24/7],https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
 Iquique_TV_(1080p),https://origin.skarnetchile.com:8081/iquiquetv-hd/index.m3u8
