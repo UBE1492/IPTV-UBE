@@ -1,6 +1,6 @@
 {
   "name": "cl",
-  "updated_at": 1795102041890,
+  "updated_at": 1795134250654,
   "m3u": "https://ube1492.github.io/IPTV-UBE/cl.m3u",
   "channels": [
     {
@@ -252,6 +252,12 @@
     {
       "name": "ChileVision (1080p)",
       "url": "http://15.204.246.24:8080/CHVHD/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "ChileVision (1080p) [Geo-blocked]",
+      "url": "https://redirector.dps.live/hls/chv/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -945,6 +951,12 @@
       {
         "name": "ChileVision (1080p)",
         "url": "http://15.204.246.24:8080/CHVHD/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "ChileVision (1080p) [Geo-blocked]",
+        "url": "https://redirector.dps.live/hls/chv/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },

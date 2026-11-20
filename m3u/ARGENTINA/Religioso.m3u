@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="MultivisionFederal.ar@SD",Multivision Federal
-https://videostream.shockmedia.com.ar/hls/multivisionfederal/multivisionfederal.m3u8
-#EXTINF:-1 tvg-id="NGFederal.ar@SD",NG Federal (720p)
-http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
-#EXTINF:-1 tvg-id="SantaFeCanal.ar@SD",Santa Fe Canal (1080p)
-https://canalsantaferts.argtelemax.workers.dev
-#EXTINF:-1 tvg-id="UnifeTV.ar@SD",Unife TV (720p)
-https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8
