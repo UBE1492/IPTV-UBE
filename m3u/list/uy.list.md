@@ -7,4 +7,4 @@
 | 1 | Canal 5 (720p) | tinyurl.com | <https://tinyurl.com/canal5uy> |
 | 2 | Canal Mas (720p) | canalmasuruguay.com | <https://canalmasuruguay.com/hls/master-abr.m3u8> |
 
-Updated at **Sat Nov 21 2026 18:52:08 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Nov 22 2026 05:48:42 GMT+0000 (Coordinated Universal Time)**

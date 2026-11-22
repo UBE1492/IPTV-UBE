@@ -9,7 +9,7 @@
 | 3 | A24 Paraguay (1080p) | a24-live.argosworkspace.com | <https://a24-live.argosworkspace.com/a24/index.m3u8> |
 | 4 | A24 Paraguay | tv.mitvparaguay.com | <https://tv.mitvparaguay.com/hls?id=a24&type=hls> |
 | 5 | ABC-TV Paraguay | IPv4 直链 | <http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8> |
-| 6 | AGR FM TV | tigocloud.desdeparaguay.net | <https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8> |
+| 6 | AGR FM TV (720p) | tigocloud.desdeparaguay.net | <https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8> |
 | 7 | Alcance FM PLAY TV | video.wilohosting.com:19360 | <https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8> |
 | 8 | Alt Media TV | video.hostingcaaguazu.com:19360 | <https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8> |
 | 9 | America Paraguay (1080p) | america-live.argosworkspace.com | <https://america-live.argosworkspace.com/america/index.m3u8> |
@@ -49,4 +49,4 @@
 | 43 | Venus Media (1080p) | tigocloud.desdeparaguay.net | <https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8> |
 | 44 | Villa Elisa Radio TV (1080p) | copacogen.desdeparaguay.net | <https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/playlist.m3u8?admin=nacion> |
 
-Updated at **Sat Nov 21 2026 18:52:08 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Nov 22 2026 05:48:42 GMT+0000 (Coordinated Universal Time)**

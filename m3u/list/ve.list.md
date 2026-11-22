@@ -26,4 +26,4 @@
 | 20 | Vive (576p) | IPv4 直链 | <http://200.59.191.177:8000/play/a0l6/index.m3u8> |
 | 21 | Wata Vision | live20.bozztv.com | <https://live20.bozztv.com/giatv/giatv-watavision/watavision/chunks.m3u8> |
 
-Updated at **Sat Nov 21 2026 18:52:08 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Nov 22 2026 05:48:42 GMT+0000 (Coordinated Universal Time)**

@@ -27,6 +27,8 @@ https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
 http://181.78.21.38:8000/play/a0df/index.m3u8
 #EXTINF:-1 tvg-id="Canal9Cosespu.co@SD",Canal 9 Cosespu
 https://video2.lhdserver.es/canal9cosespu/live.m3u8
+#EXTINF:-1 tvg-id="Canal12Valledupar.co@SD",Canal 12 Valledupar (1080p)
+http://181.78.8.199:8000/play/a0e4/index.m3u8
 #EXTINF:-1 tvg-id="Canal14Codazzi.co@SD",Canal 14 Codazzi (720p) [Not 24/7]
 https://eu1.servers10.com:8081/8056/index.m3u8
 #EXTINF:-1 tvg-id="CanalCapital.co@SD",Canal Capital (1080p)

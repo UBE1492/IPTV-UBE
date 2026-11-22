@@ -1,6 +1,6 @@
 {
   "name": "us",
-  "updated_at": 1795287128285,
+  "updated_at": 1795326521918,
   "m3u": "https://ube1492.github.io/IPTV-UBE/us.m3u",
   "channels": [
     {
@@ -1768,7 +1768,7 @@
       "category": "Otros"
     },
     {
-      "name": "News12 Conneticut [Geo-blocked]",
+      "name": "News12 Conneticut (1080p) [Geo-blocked]",
       "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8?omap=https",
       "logo": "",
       "category": "Otros"
@@ -4429,7 +4429,7 @@
         "category": "Otros"
       },
       {
-        "name": "News12 Conneticut [Geo-blocked]",
+        "name": "News12 Conneticut (1080p) [Geo-blocked]",
         "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8?omap=https",
         "logo": "",
         "category": "Otros"

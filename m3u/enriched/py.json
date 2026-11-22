@@ -1,6 +1,6 @@
 {
   "name": "py",
-  "updated_at": 1795287128459,
+  "updated_at": 1795326522519,
   "m3u": "https://ube1492.github.io/IPTV-UBE/py.m3u",
   "channels": [
     {
@@ -34,7 +34,7 @@
       "category": "Otros"
     },
     {
-      "name": "AGR FM TV",
+      "name": "AGR FM TV (720p)",
       "url": "https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8",
       "logo": "",
       "category": "Otros"
@@ -313,7 +313,7 @@
         "category": "Otros"
       },
       {
-        "name": "AGR FM TV",
+        "name": "AGR FM TV (720p)",
         "url": "https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8",
         "logo": "",
         "category": "Otros"

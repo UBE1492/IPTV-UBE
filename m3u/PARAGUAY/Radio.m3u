@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AGRFMTV.py@SD",AGR FM TV
+#EXTINF:-1 tvg-id="AGRFMTV.py@SD",AGR FM TV (720p)
 https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8
 #EXTINF:-1 tvg-id="AlcanceFMPLAYTV.py@SD",Alcance FM PLAY TV
 https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8

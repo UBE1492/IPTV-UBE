@@ -1,6 +1,6 @@
 {
   "name": "co",
-  "updated_at": 1795287128352,
+  "updated_at": 1795326522085,
   "m3u": "https://ube1492.github.io/IPTV-UBE/co.m3u",
   "channels": [
     {
@@ -120,6 +120,12 @@
     {
       "name": "Canal 9 Cosespu",
       "url": "https://video2.lhdserver.es/canal9cosespu/live.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Canal 12 Valledupar (1080p)",
+      "url": "http://181.78.8.199:8000/play/a0e4/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -843,6 +849,12 @@
       {
         "name": "Canal 9 Cosespu",
         "url": "https://video2.lhdserver.es/canal9cosespu/live.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Canal 12 Valledupar (1080p)",
+        "url": "http://181.78.8.199:8000/play/a0e4/index.m3u8",
         "logo": "",
         "category": "Otros"
       },

@@ -288,7 +288,7 @@
 | 282 | News12+ New York (1080p) [Geo-blocked] | mdc.ott.alticeusa.net | <https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NYC_A1/index_new.m3u8> |
 | 283 | News12 Bronx (1080p) [Geo-blocked] | mdc.ott.alticeusa.net | <https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8?omap=https> |
 | 284 | News12 Brooklyn (720p) [Geo-blocked] | mdc.ott.alticeusa.net | <https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8?omap=https> |
-| 285 | News12 Conneticut [Geo-blocked] | mdc.ott.alticeusa.net | <https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8?omap=https> |
+| 285 | News12 Conneticut (1080p) [Geo-blocked] | mdc.ott.alticeusa.net | <https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8?omap=https> |
 | 286 | News12 Hudson Valley (1080p) [Geo-blocked] | mdc.ott.alticeusa.net | <https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12HH_A1/index_new.m3u8?omap=https> |
 | 287 | News12 Long Island (1080p) [Geo-blocked] | mdc.ott.alticeusa.net | <https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8?omap=https> |
 | 288 | News12 New Jersey (1080p) [Geo-blocked] | mdc.ott.alticeusa.net | <https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12JH_CENT_A1/index_new.m3u8?omap=https> |
@@ -432,4 +432,4 @@
 | 426 | Yu-Gi-Oh! (1080p) | amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv | <https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8> |
 | 427 | Zarin TV (1080p) | fl1002.bozztv.com | <https://fl1002.bozztv.com/gf-zarintv/index.m3u8> |
 
-Updated at **Sat Nov 21 2026 18:52:08 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Nov 22 2026 05:48:41 GMT+0000 (Coordinated Universal Time)**
