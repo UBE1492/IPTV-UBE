@@ -24,6 +24,8 @@ Canal_3_Arroyito_(1080p),#EXTVLCOPT:http-referrer=https://canal3.cespalarroyito.
 Canal_10_Cordoba,https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
 Canal_10_Goya_(1080p),https://tv.streamcasthd.com:3637/live/canal10goyalive.m3u8
 Canal_10_Mar_del_Plata,https://g1.mc-hor.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true
+Canal_11_de_la_Costa_(1080p),https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
+Canal_11_Machagai_(1080i),https://srv2.zcast.com.br/machagay/machagay/playlist.m3u8
 Canal_12_Puerto_Madryn_(720p)_[Not_24/7],https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
 Canal_12_Venado_Tuerto_(1080i),https://nd106.republicaservers.com:4433/hls/diegologonitv/index.m3u8
 Canal_12_Web,https://nd106.republicaservers.com:4433/c7827.mp4

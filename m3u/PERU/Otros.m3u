@@ -31,8 +31,6 @@ http://187.102.210.46/IPE/index.m3u8
 http://190.93.224.42/IPE/index.m3u8
 #EXTINF:-1 tvg-id="CANALMTelevision.pe@SD",CANAL M Television (720p)
 https://live-evg10.tv360.bitel.com.pe/bitel/anqaratv/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalN.pe@SD",Canal N (1080p)
-http://187.102.208.209:8000/play/a0az/index.m3u8
 #EXTINF:-1 tvg-id="CanalN.pe@SD",Canal N (576p)
 http://190.108.91.206:9050/play/a0bd/index.m3u8
 #EXTINF:-1 tvg-id="Chikitoonz.pe@SD",Chikitoonz (1080p)

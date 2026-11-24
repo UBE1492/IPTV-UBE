@@ -1,6 +1,6 @@
 {
   "name": "ar",
-  "updated_at": 1795476936957,
+  "updated_at": 1795511002727,
   "m3u": "https://ube1492.github.io/IPTV-UBE/ar.m3u",
   "channels": [
     {
@@ -144,6 +144,18 @@
     {
       "name": "Canal 10 Mar del Plata",
       "url": "https://g1.mc-hor.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Canal 11 de la Costa (1080p)",
+      "url": "https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "Canal 11 Machagai (1080i)",
+      "url": "https://srv2.zcast.com.br/machagay/machagay/playlist.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -717,6 +729,18 @@
       {
         "name": "Canal 10 Mar del Plata",
         "url": "https://g1.mc-hor.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Canal 11 de la Costa (1080p)",
+        "url": "https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "Canal 11 Machagai (1080i)",
+        "url": "https://srv2.zcast.com.br/machagay/machagay/playlist.m3u8",
         "logo": "",
         "category": "Otros"
       },
