@@ -123,4 +123,4 @@
 | 117 | VTV Canal 17 (720p) [Not 24/7] | solo.disfrutaenlared.com:1936 | <https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/playlist.m3u8> |
 | 118 | XTOTV (720p) | www.sccbolivia.com | <https://www.sccbolivia.com/dash/720p.mpd> |
 
-Updated at **Wed Nov 25 2026 07:41:07 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Nov 25 2026 21:21:09 GMT+0000 (Coordinated Universal Time)**
