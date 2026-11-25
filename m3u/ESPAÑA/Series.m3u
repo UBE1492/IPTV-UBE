@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Atreseries.es@SD",Atreseries (480p)
+https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/a3s.mpd
+#EXTINF:-1 tvg-id="Atreseries.es@HD",Atreseries HD (1080p)
+https://ignac16.github.io/voxel-tv-streams/a3s.mpd
