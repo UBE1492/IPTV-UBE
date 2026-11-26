@@ -98,4 +98,4 @@
 | 92 | WOX TV (1080p) | tuvideoonline.com.ar:3332 | <https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8> |
 | 93 | Xama TV | srs.unsj.edu.ar | <https://srs.unsj.edu.ar/live/xama/xama.flv> |
 
-Updated at **Wed Nov 25 2026 21:21:09 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Nov 26 2026 07:31:11 GMT+0000 (Coordinated Universal Time)**

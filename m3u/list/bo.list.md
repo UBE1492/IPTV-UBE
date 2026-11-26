@@ -97,30 +97,31 @@
 | 91 | TELE 6 (720p) | lbgo.bozztv.com | <https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8> |
 | 92 | Tele Fe Bolivia (720p) | 59d39900ebfb8.streamlock.net | <https://59d39900ebfb8.streamlock.net/telefehd/telefehd/playlist.m3u8> |
 | 93 | Tigo Sports (720p) [Geo-blocked] | dipdxjic51jcl.cloudfront.net | <https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index.m3u8> |
-| 94 | TL Estrella (720p) | IPv4 直链 | <http://190.181.61.93:8000/play/a004/index.m3u8> |
-| 95 | TransMedia (720p) | edge.enhdtv.com | <https://edge.enhdtv.com/8064/index.m3u8> |
-| 96 | Tv Carigso (720p) | 183.giatvcdn.com | <https://183.giatvcdn.com/ssh101/ssh101/carigsotv2026/playlist.m3u8> |
-| 97 | TV Culturas (576p) | IPv4 直链 | <http://15.204.246.24:8080/TVCulturasSD/index.m3u8> |
-| 98 | TV Latina (1080p) | castv10.plugstreaming.com:19360 | <https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8> |
-| 99 | TV OFF (1080p) | edge.enhdtv.com | <https://edge.enhdtv.com/tvoff/index.m3u8> |
-| 100 | TV Show Oruro (720p) | tv.istbolivia.com:1935 | <http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8> |
-| 101 | TV Universitaria (720p) | IPv4 直链 | <http://190.181.61.93:8000/play/a006/index.m3u8> |
-| 102 | TVU Sucre (720p) | IPv4 直链 | <http://190.181.61.93:8000/play/a008/index.m3u8> |
-| 103 | UMSA TVU Internacional (720p) | edge.enhdtv.com | <https://edge.enhdtv.com/8026/index.m3u8> |
-| 104 | UMSA TVU LP (576p) | IPv4 直链 | <http://190.181.61.93:8000/play/a00s/index.m3u8> |
-| 105 | Unifranz (720p) | edge.enhdtv.com | <https://edge.enhdtv.com/8192/index.m3u8> |
-| 106 | Unitel (1080p) | IPv4 直链 | <http://190.181.61.93:8000/play/1909/index.m3u8> |
-| 107 | Unitel Cochabamba (1080p) | IPv4 直链 | <http://190.181.61.93:8000/play/1913/index.m3u8> |
-| 108 | Unitel Cochabamba (720p) | lbgo.bozztv.com | <https://lbgo.bozztv.com/ssh101/ssh101/tvjoaquiniana26/playlist.m3u8> |
-| 109 | Unitel La Paz (1080p) | IPv4 直链 | <http://190.181.61.93:8000/play/1910/index.m3u8> |
-| 110 | Unitel La Paz (720p) | mdstrm.com | <https://mdstrm.com/live-stream-playlist/6928b14aaa768aad947bf65d.m3u8> |
-| 111 | Unitel La Paz (576p) | IPv4 直链 | <http://190.60.39.195:8000/play/a01r/index.m3u8> |
-| 112 | Unitel Santa Cruz (720p) | mdstrm.com | <https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8> |
-| 113 | Univalle Televisión (1080p) | master.tucableip.com | <https://master.tucableip.com/univalletv/playlist.m3u8> |
-| 114 | UPP TV/Bolivisión SCZ (720p) [Not 24/7] | alba-bo-bolivision-upptv.stream.mediatiquestream.com | <https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/index.m3u8> |
-| 115 | Vos TV (720p) | IPv4 直链 | <http://15.204.246.24:8080/VOSTVHD/index.m3u8> |
-| 116 | VTV Canal 17 (720p) | IPv4 直链 | <http://190.181.61.93:8000/play/a00f/index.m3u8> |
-| 117 | VTV Canal 17 (720p) [Not 24/7] | solo.disfrutaenlared.com:1936 | <https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/playlist.m3u8> |
-| 118 | XTOTV (720p) | www.sccbolivia.com | <https://www.sccbolivia.com/dash/720p.mpd> |
+| 94 | TL Estrella (1080p) | edge.enhdtv.com | <https://edge.enhdtv.com/teleestrella/index.m3u8> |
+| 95 | TL Estrella (720p) | IPv4 直链 | <http://190.181.61.93:8000/play/a004/index.m3u8> |
+| 96 | TransMedia (720p) | edge.enhdtv.com | <https://edge.enhdtv.com/8064/index.m3u8> |
+| 97 | Tv Carigso (720p) | 183.giatvcdn.com | <https://183.giatvcdn.com/ssh101/ssh101/carigsotv2026/playlist.m3u8> |
+| 98 | TV Culturas (576p) | IPv4 直链 | <http://15.204.246.24:8080/TVCulturasSD/index.m3u8> |
+| 99 | TV Latina (1080p) | castv10.plugstreaming.com:19360 | <https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8> |
+| 100 | TV OFF (1080p) | edge.enhdtv.com | <https://edge.enhdtv.com/tvoff/index.m3u8> |
+| 101 | TV Show Oruro (720p) | tv.istbolivia.com:1935 | <http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8> |
+| 102 | TV Universitaria (720p) | IPv4 直链 | <http://190.181.61.93:8000/play/a006/index.m3u8> |
+| 103 | TVU Sucre (720p) | IPv4 直链 | <http://190.181.61.93:8000/play/a008/index.m3u8> |
+| 104 | UMSA TVU Internacional (720p) | edge.enhdtv.com | <https://edge.enhdtv.com/8026/index.m3u8> |
+| 105 | UMSA TVU LP (576p) | IPv4 直链 | <http://190.181.61.93:8000/play/a00s/index.m3u8> |
+| 106 | Unifranz (720p) | edge.enhdtv.com | <https://edge.enhdtv.com/8192/index.m3u8> |
+| 107 | Unitel (1080p) | IPv4 直链 | <http://190.181.61.93:8000/play/1909/index.m3u8> |
+| 108 | Unitel Cochabamba (1080p) | IPv4 直链 | <http://190.181.61.93:8000/play/1913/index.m3u8> |
+| 109 | Unitel Cochabamba (720p) | lbgo.bozztv.com | <https://lbgo.bozztv.com/ssh101/ssh101/tvjoaquiniana26/playlist.m3u8> |
+| 110 | Unitel La Paz (1080p) | IPv4 直链 | <http://190.181.61.93:8000/play/1910/index.m3u8> |
+| 111 | Unitel La Paz (720p) | mdstrm.com | <https://mdstrm.com/live-stream-playlist/6928b14aaa768aad947bf65d.m3u8> |
+| 112 | Unitel La Paz (576p) | IPv4 直链 | <http://190.60.39.195:8000/play/a01r/index.m3u8> |
+| 113 | Unitel Santa Cruz (720p) | mdstrm.com | <https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8> |
+| 114 | Univalle Televisión (1080p) | master.tucableip.com | <https://master.tucableip.com/univalletv/playlist.m3u8> |
+| 115 | UPP TV/Bolivisión SCZ (720p) [Not 24/7] | alba-bo-bolivision-upptv.stream.mediatiquestream.com | <https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/index.m3u8> |
+| 116 | Vos TV (720p) | IPv4 直链 | <http://15.204.246.24:8080/VOSTVHD/index.m3u8> |
+| 117 | VTV Canal 17 (720p) | IPv4 直链 | <http://190.181.61.93:8000/play/a00f/index.m3u8> |
+| 118 | VTV Canal 17 (720p) [Not 24/7] | solo.disfrutaenlared.com:1936 | <https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/playlist.m3u8> |
+| 119 | XTOTV (720p) | www.sccbolivia.com | <https://www.sccbolivia.com/dash/720p.mpd> |
 
-Updated at **Wed Nov 25 2026 21:21:09 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Nov 26 2026 07:31:11 GMT+0000 (Coordinated Universal Time)**

@@ -1,6 +1,6 @@
 {
   "name": "bo",
-  "updated_at": 1795641669620,
+  "updated_at": 1795678271426,
   "m3u": "https://ube1492.github.io/IPTV-UBE/bo.m3u",
   "channels": [
     {
@@ -558,6 +558,12 @@
     {
       "name": "Tigo Sports (720p) [Geo-blocked]",
       "url": "https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index.m3u8",
+      "logo": "",
+      "category": "Otros"
+    },
+    {
+      "name": "TL Estrella (1080p)",
+      "url": "https://edge.enhdtv.com/teleestrella/index.m3u8",
       "logo": "",
       "category": "Otros"
     },
@@ -1281,6 +1287,12 @@
       {
         "name": "Tigo Sports (720p) [Geo-blocked]",
         "url": "https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index.m3u8",
+        "logo": "",
+        "category": "Otros"
+      },
+      {
+        "name": "TL Estrella (1080p)",
+        "url": "https://edge.enhdtv.com/teleestrella/index.m3u8",
         "logo": "",
         "category": "Otros"
       },
