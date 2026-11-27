@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MusicTVGranada.es@SD",Music TV Granada (1080p) [Not 24/7]
+https://cloudvideo.servers10.com:8081/8032/index.m3u8
