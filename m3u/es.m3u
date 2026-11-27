@@ -95,6 +95,8 @@ https://ztnr.rtve.es/ztnr/5466990.m3u8
 https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/flavorIds/1_a9gxgxzy,1_v71ryg4b,1_vbfvtjw6,1_obo1bqsx,1_3shk3s5d/a.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.es@SD",Comedy Central (1080p)
 http://90.170.214.40:9700/stream/avatel/comedycentral/master.m3u8
+#EXTINF:-1 tvg-id="Condavision.es@SD",Condavision (1080p)
+https://5f71743aa95e4.streamlock.net:1936/Condavision/endirecto/playlist.m3u8
 #EXTINF:-1 tvg-id="CongresodelosDiputados1.es@SD",Congreso de los Diputados 1 (360p) [Not 24/7]
 https://congresodirecto.akamaized.net/hls/live/2038274/canal1/master.m3u8
 #EXTINF:-1 tvg-id="CongresodelosDiputados2.es@SD",Congreso de los Diputados 2 (360p) [Not 24/7]
