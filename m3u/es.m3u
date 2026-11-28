@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://epg.kanya.io/us/guide.xml.gz"
 #EXTINF:-1 tvg-id="3CatCameresdeltemps.es@SD",3Cat Càmeres del temps (1080p)
 https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8
 #EXTINF:-1 tvg-id="3CatExclusiu1.es@SD",3Cat Exclusiu 1 (1080p) [Geo-blocked]
@@ -11,8 +11,6 @@ https://directes-tv-cat.3catdirectes.cat/live-content/oca3-hls/master.m3u8
 https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8
 #EXTINF:-1 tvg-id="3CatInfo.es@SD",3CatInfo (1080p)
 https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
-#EXTINF:-1 tvg-id="AtlanticoTelevision.es@HD",Atlantico Television (1080p)
-https://live.atlanticotelevision.com/hls/hi/index.m3u8
 #EXTINF:-1 tvg-id="Canal7TeleValencia.es@SD",7 TeleValencia (576p)
 https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
 #EXTINF:-1 tvg-id="7TV.es@Sevilla",7TV
@@ -53,6 +51,8 @@ https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
 #EXTINF:-1 tvg-id="ArabiTV.es@SD",Arabí TV (1080p)
 https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8
+#EXTINF:-1 tvg-id="AtlanticoTelevision.es@HD",Atlantico Television (1080p)
+https://live.atlanticotelevision.com/hls/hi/index.m3u8
 #EXTINF:-1 tvg-id="Atreseries.es@SD",Atreseries (480p)
 https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/a3s.mpd
 #EXTINF:-1 tvg-id="Atreseries.es@HD",Atreseries HD (1080p)
@@ -75,6 +75,8 @@ https://live1.ovalcast.com:3916/live/bcngospeltvlive.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 #EXTINF:-1 tvg-id="CanalTaronjaOsonaiMoianes.es@SD",Canal Taronja Osona i Moianés (1080p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+#EXTINF:-1 tvg-id="CanalCosta.es@SD",CanalCosta (1080p)
+https://5f71743aa95e4.streamlock.net:1936/CanalcostaTV/endirecto/playlist.m3u8
 #EXTINF:-1 tvg-id="CancioneroTV.es@SD",Cancionero TV (360p)
 http://89.140.229.5/hls1/cancionero.m3u8
 #EXTINF:-1 tvg-id="CetelmonTV.es@SD",Cetelmón TV (404p)
@@ -233,6 +235,8 @@ https://rtvclive.flumotion.cloud/rtvc1live/smil:channel1PRG.smil/playlist.m3u8
 https://d1oyt3v08gcy18.cloudfront.net/index-events.m3u8
 #EXTINF:-1 tvg-id="TelevisionConsciente.es@SD",Televisión Consciente (1080p)
 https://cdn318.fractalmedia.es/318/live/hls/tvc/master.m3u8
+#EXTINF:-1 tvg-id="TenerifePlusTV.es@Main",Tenerife Plus TV
+https://k20.usastreams.com:8081/tenerifeplus/index.m3u8
 #EXTINF:-1 tvg-id="TitoTV.es@HD",Tito TV (720p)
 https://cloud.tvomix.com/TITOTV/index.m3u8
 #EXTINF:-1 tvg-id="Trece.es@SD",Trece TV (576p)
